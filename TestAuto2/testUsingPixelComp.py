@@ -1,8 +1,10 @@
 ##Nathan Hinton, Brother Golf
 ##This program will take a text fiel and then use it to generate a srt file when the user presses a key command will mark the timestamp and other information for the user
 
+import numpy as np
 import time
 import cv2
+import pytesseract
 
 #print(file[0:100])
 #Remove the tabs in the file and then remove empty line
@@ -96,20 +98,6 @@ def generateSRTAdvanced(fullTimeList, verses, ccLength = 10):
     return text
 #            print(captionText)
 
-def text_detection():
-    cap=cv2.VideoCapture(0)
-    while True:
-        ret,img=cap.read()
-        
-        #cv2.rectangle(img,(x,y),(x+w,y+h),(255,0,255),2)
-
-        cv2.imshow('text_detect',img)
-        k=cv2.waitKey(1)& 0xff
-        if k==ord('q'):
-            break
-        cap.release()
-        cv2.destroyAllWindows()
-
 screenPortion = (850, 50, 1150, 200)
 ##Read the file
 #This will become a funtion later:
@@ -125,11 +113,98 @@ text = text[text.index('Chapter %s'%chapter):]
 text[0] = text[0] + " " + text[1]
 text.pop(1)
 
-print(*text, sep = "\n")
+#print(*text, sep = "\n")
 
+
+# Mention the installed location of Tesseract-OCR in your system 
+pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/Tesseract-OCR/tesseract.exe'
+
+start = time.time()
+times = [time.time()]
 #####UPDATE WITH CV2######
-video = cv2.VideoCapture(prefix + '.mp4')
-text_detection
+cap = cv2.VideoCapture(prefix + '.mp4')
+fps = cap.get(cv2.CAP_PROP_FPS)  # OpenCV2 version 2 used "CV_CAP_PROP_FPS"
+frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
+duration = frame_count / fps
+        
+print('fps = ' + str(fps))
+print('number of frames = ' + str(frame_count))
+print('duration (S) = ' + str(duration))
+minutes = int(duration / 60)
+seconds = duration % 60
+print('duration (M:S) = ' + str(minutes) + ':' + str(seconds))
+# Display the resulting frame
+frameWidth = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+frameHeight = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+print('frame (W:H) = ' + str(frameWidth) + ':' + str(frameHeight))
+
+timestamps = [cap.get(cv2.CAP_PROP_POS_MSEC)]
+calc_timestamps = [0.0]
+
+#cap.set(cv2.CV_CAP_PROP_FPS, 600)
+
+
+lastText = ""
+
+for f in range(0, frame_count, int(fps * 10 )):
+
+    cap.set(1, f)
+#while(cap.isOpened()):
+    # Capture frame-by-frame
+    ret, frame = cap.read()
+
+    if ret == True:
+
+        # Convert the image to gray scale 
+        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY) 
+        
+        # Performing OTSU threshold 
+        #ret, thresh1 = cv2.threshold(gray, 0, 255, cv2.THRESH_OTSU | cv2.THRESH_BINARY_INV) 
+
+        # Specify structure shape and kernel size.  
+        # Kernel size increases or decreases the area  
+        # of the rectangle to be detected. 
+        # A smaller value like (10, 10) will detect  
+        # each word instead of a sentence. 
+        #rect_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (18, 18)) 
+        
+        # Appplying dilation on the threshold image 
+        #dilation = cv2.dilate(thresh1, rect_kernel, iterations = 1) 
+        
+        # Finding contours 
+        #contours, hierarchy = cv2.findContours(dilation, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE) 
+
+        # Extracted text is then written into the text file 
+        #for cnt in contours: 
+            #x, y, w, h = cv2.boundingRect(cnt) 
+            #print("x: " + str(x) + ",y: " + str(y) + ",w: " + str(w) + ",h: " + str(h))
+            
+            # Drawing a rectangle on copied image 
+            #rect = cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2) 
+            
+            # Cropping the text block for giving input to OCR 
+        #cropped = frame[y:y + h, x:x + w]
+        cropped = frame[50:200, 850:1150]
+
+            # Open the file in append mode 
+            #file = open("recognized.txt", "a") 
+            
+            # Apply OCR on the cropped image 
+        newText = pytesseract.image_to_string(cropped) 
+        if newText != '' and newText != '♀' and lastText != newText:
+            print(newText)
+            print(convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
+                #print(calc_timestamps[-1] + 1000/fps)
+            lastText = newText
+
+
+    # Break the loop
+    else:
+        break
+
+# When everything done, release the capture
+cap.release()
+cv2.destroyAllWindows()
 
 ##Read the frame then filter it to the size needed
 ##Apply filter 
