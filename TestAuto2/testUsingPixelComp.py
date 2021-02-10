@@ -4,22 +4,12 @@
 import time
 import cv2
 
-screenPortion = (850, 50, 1150, 200)
-
-##Read the file
-#This will become a funtion later:
-file_name = "1 Ne 2.txt"
-chapter = '2'
-file = open(file_name, 'r').read()
-
 #print(file[0:100])
 #Remove the tabs in the file and then remove empty line
 def removeSpace(file):
     file = file.replace('\t', '')
     file = file.replace('([\n]{2,})', '\n')
     return file
-
-file = removeSpace(file)
 
 def convertTime(timeInSec):
     hr = int(timeInSec//(60*60))
@@ -42,12 +32,6 @@ def generateVerses(text):
             start = end+start+1
     lst.append(text[start:])
     return lst
-
-text = generateVerses(file)
-#Merge the chapter with the heading:
-text = text[text.index('Chapter %s'%chapter):]
-text[0] = text[0]+text[1]
-text.pop(1)
 
 def generateSRTSimple(timeList, verses):
     """Sample SRT:
@@ -111,10 +95,41 @@ def generateSRTAdvanced(fullTimeList, verses, ccLength = 10):
     open('ADV%s.srt'%file_name, 'w').write(text)
     return text
 #            print(captionText)
-            
-#####UPDATE WITH CV2######
 
-video = cv2.VideoCapture('1 Ne 2.mp4')
+def text_detection():
+    cap=cv2.VideoCapture(0)
+    while True:
+        ret,img=cap.read()
+        
+        #cv2.rectangle(img,(x,y),(x+w,y+h),(255,0,255),2)
+
+        cv2.imshow('text_detect',img)
+        k=cv2.waitKey(1)& 0xff
+        if k==ord('q'):
+            break
+        cap.release()
+        cv2.destroyAllWindows()
+
+screenPortion = (850, 50, 1150, 200)
+##Read the file
+#This will become a funtion later:
+prefix = "1 Ne 2"
+file_name = prefix + ".txt"
+chapter = '2'
+file = open(file_name, 'r').read()
+file = removeSpace(file)
+#text = generateVerses(file)
+text = file.split('\n')
+#Merge the chapter with the heading:
+text = text[text.index('Chapter %s'%chapter):]
+text[0] = text[0] + " " + text[1]
+text.pop(1)
+
+print(*text, sep = "\n")
+
+#####UPDATE WITH CV2######
+video = cv2.VideoCapture(prefix + '.mp4')
+text_detection
 
 ##Read the frame then filter it to the size needed
 ##Apply filter 
