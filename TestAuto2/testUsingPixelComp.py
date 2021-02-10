@@ -191,9 +191,8 @@ for f in range(0, frame_count, int(fps * 10 )):
             
             # Apply OCR on the cropped image 
         newText = pytesseract.image_to_string(cropped) 
-        if newText != '' and newText != '♀' and lastText != newText:
-            print(newText)
-            print(convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
+        if prefix in newText and lastText != newText:
+            print(newText + "\t" + convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
                 #print(calc_timestamps[-1] + 1000/fps)
             lastText = newText
 
