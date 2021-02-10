@@ -206,5 +206,6 @@ for f in range(0, frame_count, int(fps * 10 )):
 cap.release()
 cv2.destroyAllWindows()
 
+xPixels = frame[50:200]
 ##Read the frame then filter it to the size needed
 ##Apply filter 
