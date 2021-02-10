@@ -12,10 +12,14 @@ file_name = "1 Ne 2.txt"
 chapter = '2'
 file = open(file_name, 'r').read()
 
-#Remove the tabs in the file
-file = file.replace('\t', '')
-
 #print(file[0:100])
+#Remove the tabs in the file and then remove empty line
+def removeSpace(file):
+    file = file.replace('\t', '')
+    file = file.replace('([\n]{2,})', '\n')
+    return file
+
+file = removeSpace(file)
 
 def convertTime(timeInSec):
     hr = int(timeInSec//(60*60))
