@@ -130,6 +130,8 @@ print(*text, sep = "\n")
 #####UPDATE WITH CV2######
 video = cv2.VideoCapture(prefix + '.mp4')
 text_detection
+frame = video.read()
 
+xPixels = frame[50:200]
 ##Read the frame then filter it to the size needed
 ##Apply filter 
