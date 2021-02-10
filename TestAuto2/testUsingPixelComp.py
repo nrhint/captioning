@@ -24,7 +24,8 @@ def convertTime(timeInSec):
     ms = str(round(timeInSec-int(timeInSec), 3))[2:]
     return "%s:%s:%s,%s"%(hr, mn, sec, ms)
 
-def generateVerses(text):
+############## Make into not a function
+def generateVerses(text): 
     lst = []
     start = 0
     for occ in range(text.count('\n')):
@@ -107,54 +108,6 @@ def generateSRTAdvanced(fullTimeList, verses, ccLength = 10):
     return text
 #            print(captionText)
             
-#####UPDATE WITH CV2######        
-currIm = ImageGrab.grab(screenPortion)
-lastText = pytesseract.image_to_string(currIm)
-print(lastText)
-start = time.time()
-times = [time.time()]
-while run == True:
-    tmpTime = time.time()
-    newText = pytesseract.image_to_string(ImageGrab.grab(screenPortion))
-    if lastText != newText:
-        #tmpTime = time.time() #Moved to before the image is processed
-        if newText == pytesseract.image_to_string(ImageGrab.grab(screenPortion)):
-            if newText[0:5] == file_name[0:5]:
-                times.append(tmpTime)
-                lastText = str(newText)
-                print(lastText)
-            else:
-                run = False
-                print("Auto Ended...")
-                times.append(time.time())
-    elif lastKeys[-1] == 'e':
-        times.append(time.time())
-        run = False
-listener.stop()
-print(times)
+#####UPDATE WITH CV2######
 
-for ind in range(len(times)):
-    times[ind] = round(times[ind]-start, 3)
-
-#times = [0.0, 2.333, 20.719, 28.77, 34.017, 46.253, 54.09, 60.25, 65.488, 69.717, 81.406, 88.491, 94.336, 106.833, 115.172, 121.591, 133.87, 142.349, 146.437, 166.14, 172.166, 182.509, 185.932, 195.028]
-
-times2 = []
-mi = int(input("Length in min "))
-sec = int(input("Length in sec "))
-totalTime = mi*60+sec
-mult = totalTime/times[-1]
-for t in times:
-    times2.append((t*mult))#-(mult*0.25))#Old = 0.75, mult is the speed muluplier if watching it at a faster speed. the -3 is for the reaction time it takes to see the time change
-times2[0] = 0.0
-generateSRTSimple(times2, text)
-
-generateSRTAdvanced(times2, text)
-
-####write the file:
-##
-##file_name = "1Nephi10.txt"
-##file = open(file_name, 'w')
-##text = input("Paste the input for the chapter here:\n")
-##file.write(text)
-##file.close()
-##
+video = cv2.VideoCapture('1 Ne 2.mp4')
