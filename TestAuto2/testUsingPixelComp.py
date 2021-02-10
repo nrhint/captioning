@@ -111,3 +111,6 @@ def generateSRTAdvanced(fullTimeList, verses, ccLength = 10):
 #####UPDATE WITH CV2######
 
 video = cv2.VideoCapture('1 Ne 2.mp4')
+
+##Read the frame then filter it to the size needed
+##Apply filter 
