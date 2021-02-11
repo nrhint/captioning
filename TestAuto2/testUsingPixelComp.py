@@ -207,7 +207,6 @@ you do not skip verses.
         newText = pytesseract.image_to_string(cropped) 
         if prefix in newText and lastText != newText:
             print(newText + "\t" + convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
-            print(f)
             if newText[-1] == 'H':
                 times.append['0:0:0,000']#If the verse is the heading the timestamp should start at the very beginning of the video.
             times.append(convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))#append the timestamp
@@ -217,12 +216,12 @@ you do not skip verses.
 
     # Break the loop
     else:
-        #times.append(convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
+        times.append(convertTime(duration))#Append the end timestamp
         break
 
 # When everything done, release the capture
-##cap.release()
-##cv2.destroyAllWindows()
+cap.release()
+cv2.destroyAllWindows()
 
 endProcess = time.time()
 
