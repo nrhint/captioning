@@ -20,9 +20,6 @@ def convertTime(timeInSec):
     ms = str(round(timeInSec-int(timeInSec), 3))[2:]
     return "%s:%s:%s,%s"%(hr, mn, sec, ms)
 
-def zeroOutTimes(timeLst):
-    
-
 ############## Make into not a function
 def generateVerses(text): 
     lst = []
@@ -171,8 +168,9 @@ you do not skip verses.
 
     if ret == True:
 
-        # Convert the image to gray scale 
-        gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY) 
+        # Convert the image to gray scale
+        ####pytesseract does not reccognise the text right if the image is a grayscale. Removed unneeded action. There is also little to no time difference between the grayscale and the color image passed into pytesserace####
+        #gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY) 
         
         # Performing OTSU threshold 
         #ret, thresh1 = cv2.threshold(gray, 0, 255, cv2.THRESH_OTSU | cv2.THRESH_BINARY_INV) 
@@ -209,6 +207,9 @@ you do not skip verses.
         newText = pytesseract.image_to_string(cropped) 
         if prefix in newText and lastText != newText:
             print(newText + "\t" + convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
+            print(f)
+            if newText[-1] == 'H':
+                times.append['0:0:0,000']#If the verse is the heading the timestamp should start at the very beginning of the video.
             times.append(convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))#append the timestamp
                 #print(calc_timestamps[-1] + 1000/fps)
             lastText = newText
@@ -216,11 +217,12 @@ you do not skip verses.
 
     # Break the loop
     else:
+        #times.append(convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
         break
 
 # When everything done, release the capture
-cap.release()
-cv2.destroyAllWindows()
+##cap.release()
+##cv2.destroyAllWindows()
 
 endProcess = time.time()
 
