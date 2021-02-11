@@ -20,6 +20,9 @@ def convertTime(timeInSec):
     ms = str(round(timeInSec-int(timeInSec), 3))[2:]
     return "%s:%s:%s,%s"%(hr, mn, sec, ms)
 
+def zeroOutTimes(timeLst):
+    
+
 ############## Make into not a function
 def generateVerses(text): 
     lst = []
@@ -120,7 +123,7 @@ text.pop(1)
 pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/Tesseract-OCR/tesseract.exe'
 
 start = time.time()
-times = [time.time()]
+times = []#init with a blank list because the program will detect when the heading starts
 #####UPDATE WITH CV2######
 cap = cv2.VideoCapture(prefix + '.mp4')
 fps = cap.get(cv2.CAP_PROP_FPS)  # OpenCV2 version 2 used "CV_CAP_PROP_FPS"
@@ -143,10 +146,23 @@ calc_timestamps = [0.0]
 
 #cap.set(cv2.CV_CAP_PROP_FPS, 600)
 
+startProcess = time.time()#Use for speed testing
 
 lastText = ""
 
-for f in range(0, frame_count, int(fps * 10 )):
+for f in range(0, frame_count, int(fps * 10)):
+    '''
+Ideas for improvment:
+Having the captions 10 seconds apart is not that great. It would be better if
+they were closer together. One option is to increase the number of frames
+checked while that would work but that will take longer. Another option is to
+keep going 10 seconds but then when it changes go back 5 seconds then change
+by 2.5 seconds then go by 1.25 seconds then finally go by 0.625. This is 5
+iterations and would be much faster than going through more frames. This would
+add 5 times the frames but aldo you couls adjust the algroythm to make it so
+that you are reading every 100 frames if you are careful and make sure that
+you do not skip verses.
+    '''
 
     cap.set(1, f)
 #while(cap.isOpened()):
@@ -193,6 +209,7 @@ for f in range(0, frame_count, int(fps * 10 )):
         newText = pytesseract.image_to_string(cropped) 
         if prefix in newText and lastText != newText:
             print(newText + "\t" + convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
+            times.append(convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))#append the timestamp
                 #print(calc_timestamps[-1] + 1000/fps)
             lastText = newText
 
@@ -205,6 +222,7 @@ for f in range(0, frame_count, int(fps * 10 )):
 cap.release()
 cv2.destroyAllWindows()
 
-xPixels = frame[50:200]
-##Read the frame then filter it to the size needed
-##Apply filter 
+endProcess = time.time()
+
+print('It took %s seconds to process the video'%(endProcess-startProcess))
+##Take the times and turn them into the csv file:
