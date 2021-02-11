@@ -206,12 +206,13 @@ you do not skip verses.
             # Apply OCR on the cropped image 
         newText = pytesseract.image_to_string(cropped) 
         if prefix in newText and lastText != newText:
-            print(newText + "\t" + convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
-            if newText[-1] == 'H':
+            if ':' in newText:
+                print(newText + "\t" + convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
+                print(f)
+                times.append(convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))#append the timestamp
+                lastText = newText
+            elif newText[-1] == 'H':
                 times.append['0:0:0,000']#If the verse is the heading the timestamp should start at the very beginning of the video.
-            times.append(convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))#append the timestamp
-                #print(calc_timestamps[-1] + 1000/fps)
-            lastText = newText
 
 
     # Break the loop
