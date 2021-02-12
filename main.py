@@ -27,4 +27,4 @@ urlList = urlList.split('\n') #The urlList file is a set of new line spaced link
 urlList.pop(0) #The first line is a comment that says the purpuse of the file
 
 for url in urlList:
-    Subtitle = readTextFromVideo(url)
+    Subtitle = readTextFromVideo(url, prefix)
