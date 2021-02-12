@@ -1,6 +1,7 @@
 ##
 import cv2
 import pytesseract
+import time
 
 from data.Subtitle import Subtitle
 
@@ -9,7 +10,7 @@ def readTextFromVideo(url):
 
     result = Subtitle
 
-    cap = cv2.VideoCapture(url + '.mp4')
+    cap = cv2.VideoCapture(url)# + '.mp4')
     fps = cap.get(cv2.CAP_PROP_FPS)  # OpenCV2 version 2 used "CV_CAP_PROP_FPS"
     frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
     duration = frame_count / fps
