@@ -5,7 +5,8 @@ import time
 
 ##Read the file
 #This will become a funtion later:
-file_name = "mni10.txt"
+file_name = "1 Ne 11.txt"
+totalTime = 17*60+1
 
 file = open(file_name, 'r').read()
 
@@ -95,7 +96,7 @@ def generateSRTAdvanced(timeList, verses, ccLength = 10):
             print(finalCaptionText)
             text += '\n'
             ccNumber += 1
-    open('ADV%s.srt'file_name, 'w').write(text)
+    open('ADV%s.srt'%file_name, 'w').write(text)
     return text
 #            print(captionText)
             
@@ -126,7 +127,8 @@ listener.start()
 
 wait = True
 while wait == True:
-    if lastKeys[-1] == 'x':
+    if lastKeys[-1] == 'p':
+        print("running")
         wait = False
         run = True
 
@@ -147,7 +149,6 @@ for ind in range(len(times)):
 #times = [0.0, 2.333, 20.719, 28.77, 34.017, 46.253, 54.09, 60.25, 65.488, 69.717, 81.406, 88.491, 94.336, 106.833, 115.172, 121.591, 133.87, 142.349, 146.437, 166.14, 172.166, 182.509, 185.932, 195.028]
 
 times2 = []
-totalTime = 15*60+31
 mult = totalTime/times[-1]
 for t in times:
     times2.append((t*mult)-(mult*0.75))#mult is the speed muluplier if watching it at a faster speed. the -3 is for the reaction time it takes to see the time change

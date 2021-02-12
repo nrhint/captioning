@@ -5,12 +5,12 @@ import time
 import pyscreenshot as ImageGrab
 import pytesseract
 
-screenPortion = (850, 50, 1150, 200)
+screenPortion = (800, 50, 1150, 150)
 
 ##Read the file
 #This will become a funtion later:
-file_name = "1 Ne 2.txt"
-chapter = '2'
+file_name = "1 Ne 11.txt"
+chapter = '11'
 file = open(file_name, 'r').read()
 
 #Remove the tabs in the file
