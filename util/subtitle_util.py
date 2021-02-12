@@ -1,5 +1,5 @@
 ##
-
+from time_util import *
 #
 def generateSRTSimple(timeList, verses):
     """Sample SRT:
@@ -20,7 +20,7 @@ def generateSRTSimple(timeList, verses):
     return text
 
 #
-def generateSRTAdvanced(fullTimeList, verses, ccLength = 10):
+def generateSRTAdvanced(fullTimeList, verses, ccLength = 10, file_name = 'lastOut'):
     text = ''
     ccNumber = 0
     timeList = fullTimeList[0:len(verses)+1]
@@ -61,5 +61,5 @@ def generateSRTAdvanced(fullTimeList, verses, ccLength = 10):
             print(finalCaptionText)
             text += '\n'
             ccNumber += 1
-    open('ADV%s.srt'%file_name, 'w').write(text)
+    open('%s.srt'%file_name, 'w').write(text)
     return text

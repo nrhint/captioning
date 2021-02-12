@@ -1,8 +1,11 @@
 ##
 from pynput import keyboard
 
-def listener:
-    lastKeys = [0]
+lastKeys = [0]#This is where other programs can find a key history.
+
+def listener():
+    def help():
+        print("This function will start a keyboard listenr using pynput to listen to the keys that you press. It will start when you press the p key and keep logging the keys.")
     def on_press(key):
         try:
             lastKeys.append(key.char)
@@ -25,4 +28,4 @@ def listener:
             print("HAHAHAHAHAHA")
             wait = False
             run = True
-            time.sleep(1)
+            #time.sleep(1)
