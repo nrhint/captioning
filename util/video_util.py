@@ -93,7 +93,7 @@ def readTextFromVideo(url, prefix):
                 
                 # Apply OCR on the cropped image 
             newText = pytesseract.image_to_string(cropped) 
-            print(newText)
+            #print(newText)
             if prefix in newText and lastText != newText:
                 if ':' in newText:
                     print(newText + "\t" + convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
