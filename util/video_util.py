@@ -7,8 +7,13 @@ from util.time_util import convertTime
 #from data.Subtitle import Subtitle
 from util.text_util import findFirstPrefix
 
-max_time = 16
+header = ''
+max_time = 5
 min_time = 0.5
+
+def maxSkip():
+    cap.set(1, f_max)
+    
 
 def findTimer(cv2, cap, fps, frame_count, prefix):
     times = []
@@ -32,6 +37,7 @@ def readTextFromVideo(url, prefix):
 
     pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/Tesseract-OCR/tesseract.exe'
     
+
     cap = cv2.VideoCapture(url)
     fps = cap.get(cv2.CAP_PROP_FPS)  # OpenCV2 version 2 used "CV_CAP_PROP_FPS"
     frame_count = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
@@ -46,6 +52,8 @@ def readTextFromVideo(url, prefix):
     frameHeight = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
     print('frame (W:H) = ' + str(frameWidth) + ':' + str(frameHeight) + '\n')
 
+    startProcess = time.time()#Use for speed testing
+    
     times = findTimer(cv2, cap, fps, frame_count, prefix)
 
     # When everything done, release the capture
