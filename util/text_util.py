@@ -10,5 +10,10 @@ def removeSpace(text):
 
 #Remove specific symbol on next line from text
 def removeSymbolLine(text, symbol):
-    text = re.sub("\n" + symbol, "", text)
+    text = re.sub(symbol, "", text)
+    text = re.sub("[\n][ ]*", "", text)
     return text
+
+def findFirstPrefix(text, prefix):
+    textList = re.findall(prefix + '[:]{0,1}[\w][\d]{0,2}', text)
+    return textList[0]
