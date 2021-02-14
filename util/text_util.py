@@ -15,5 +15,8 @@ def removeSymbolLine(text, symbol):
     return text
 
 def findFirstPrefix(text, prefix):
-    textList = re.findall(prefix + '[:]{0,1}[\w][\d]{0,2}', text)
+    pattern = prefix + '[:]{0,1}[\w][\d]{0,2}'
+    textList = re.findall(pattern, text)
+    if not textList:
+        return ''
     return textList[0]

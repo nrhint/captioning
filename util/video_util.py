@@ -10,7 +10,7 @@ from util.text_util import findFirstPrefix
 max_time = 16
 min_time = 0.5
 
-def findTime(cap, fps, prefix):
+def findTimer(cv2, cap, fps, frame_count, prefix):
     times = []
     for f in range(0, frame_count, int(fps * max_time)):
         cap.set(1, f)
@@ -18,9 +18,9 @@ def findTime(cap, fps, prefix):
         tempText = ''
         if ret == True:
             foundText = pytesseract.image_to_string(frame)
-            matchText = findFirstPrefix(prefix, foundText)
+            matchText = findFirstPrefix(foundText, prefix)
             if tempText != matchText:
-                print(newText + "\t" + convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
+                print(matchText + "\t" + convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))
                 times.append(convertTime(cap.get(cv2.CAP_PROP_POS_MSEC) / 1000))#append the timestamp    
                 tempText = matchText
         
@@ -46,7 +46,7 @@ def readTextFromVideo(url, prefix):
     frameHeight = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
     print('frame (W:H) = ' + str(frameWidth) + ':' + str(frameHeight) + '\n')
 
-    times = findTime(cap, fps, prefix)
+    times = findTimer(cv2, cap, fps, frame_count, prefix)
 
     # When everything done, release the capture
     cap.release()
