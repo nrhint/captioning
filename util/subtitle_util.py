@@ -1,5 +1,19 @@
 ##
-from time_util import convertTime
+#from time_util import convertTime
+
+def generate_srt_file(verses):
+    text = ''
+    for verse in verses:
+        if verse.number is None:
+            ind = 0
+        else:
+            ind = verse.number
+            
+        text += str(ind)+'\n'
+        text += verse.start_time+' --> '+verse.end_time+'\n'
+        text += str(verse.text)+'\n'
+        text += '\n'
+
 #
 def generateSRTSimple(timeList, verses):
     """Sample SRT:
