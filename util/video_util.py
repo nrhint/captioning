@@ -68,7 +68,7 @@ def find_forward(video, verse, from_f, to_f, increment, previous_text, next_text
                 
             elif new_text == next_text:
 
-                min_frame = find_backward(video, next_text, new_text, f, from_f, verse.chapter)
+                min_frame = find_backward(video, next_text, verse.id, f, from_f, verse.chapter)
             
                 video.cap.set(1, min_frame)
                 ret, frame = video.cap.read()
@@ -93,7 +93,7 @@ def find_time(video, verses):
         if verse_index == 0:
             previous_text = ''
         else:
-            previous_verse = verse[verse_index - 1]
+            previous_verse = verses[verse_index - 1]
             previous_text = previous_verse.id
 
         if verse_index == len(verses):
