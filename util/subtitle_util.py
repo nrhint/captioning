@@ -1,5 +1,5 @@
 ##
-from time_util import *
+from time_util import convertTime
 #
 def generateSRTSimple(timeList, verses):
     """Sample SRT:
