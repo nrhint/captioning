@@ -1,18 +1,35 @@
 ##
 #from time_util import convertTime
 
-def generate_srt_file(verses):
+def generate_srt(verses):
     text = ''
     for verse in verses:
         if verse.number is None:
-            ind = 0
+            ind = 1
         else:
-            ind = verse.number
+            ind = verse.number + 1
             
         text += str(ind)+'\n'
         text += verse.start_time+' --> '+verse.end_time+'\n'
         text += str(verse.text)+'\n'
         text += '\n'
+    return text
+
+def generate_str_adv(verses, ccLength = 10):
+    text = ''
+    ind = 1
+    for verse in verses:
+        words = verse.text.split(' ')
+        
+            
+        text += str(ind)+'\n'
+        text += verse.start_time+' --> '+verse.end_time+'\n'
+        text += str(verse.text)+'\n'
+        text += '\n'
+    return text
+
+
+    return text
 
 #
 def generateSRTSimple(timeList, verses):

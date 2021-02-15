@@ -2,7 +2,7 @@ import re
 
 from util.verse_util import get_verse_from_file
 from util.video_util import get_time_from_video
-from util.subtitle_util import generate_srt_file
+from util.subtitle_util import generate_srt
 
 book = 'D&C'
 urlList = open('resources/' + book + '.csv', 'r').read()
@@ -18,5 +18,5 @@ for detail in urlList:
     #for verse in verses:
         #verse.print()
     get_time_from_video(verses, url)
-    srt = generate_srt_file(verses)
+    srt = generate_srt(verses)
     open('%s.srt'%prefix, 'w').write(srt)

@@ -10,6 +10,6 @@ class Verse:
         self.end_frame = None
 
     def print(self):
-        print(self.id)
+        print('\n' + self.id + "\t" + self.chapter + "\t" + str(self.number))
         print(self.text)
         print('%s - %s'%(self.start_time, self.end_time))
