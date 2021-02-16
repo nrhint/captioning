@@ -2,7 +2,7 @@ import re
 
 from util.verse_util import get_verse_from_file
 from util.video_util import get_time_from_video
-from util.subtitle_util import generate_srt
+from util.subtitle_util import generate_srt, generate_srt_adv
 
 book = 'D&C'
 urlList = open('resources/book/' + book + '.csv', 'r').read()

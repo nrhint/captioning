@@ -7,10 +7,10 @@ class BofMConvert:
         self.filePath = filePath
         self.fileName = fileName
         try:
-            self.fileText = open(self.filePath+filename, 'r').read()
+            self.fileText = open(self.filePath+self.fileName, 'r').read()
             self.status = 'Pass'
         except FileNotFoundError:
-            print("FILE NOT FOUND AT %s"%self.filePath+filename)
+            print("FILE NOT FOUND AT %s"%self.filePath+self.fileName)
             self.status = 'filePath Error...'
     def run(self):
         print(self.fileText[0:100])
