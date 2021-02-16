@@ -4,13 +4,14 @@
 def generate_srt(verses):
     text = ''
     for verse in verses:
+        verse.print()
         if verse.number is None:
             ind = 1
         else:
             ind = verse.number + 1
             
         text += str(ind)+'\n'
-        text += verse.start_time+' --> '+verse.end_time+'\n'
+        text += str(verse.start_time) + ' --> ' + str(verse.end_time) + '\n'
         text += str(verse.text)+'\n'
         text += '\n'
     return text
@@ -20,7 +21,7 @@ def generate_str_adv(verses, ccLength = 10):
     ind = 1
     for verse in verses:
         words = verse.text.split(' ')
-        
+
             
         text += str(ind)+'\n'
         text += verse.start_time+' --> '+verse.end_time+'\n'

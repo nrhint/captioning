@@ -26,7 +26,7 @@ def get_verse_from_file(book, prefix):
             v_num = int(verse_number)
             verse.number = v_num
         else:
-            verse.id = prefix
+            verse.id = prefix # + 'H'
             v_num = 0
         verse.text = remove_number(text)
         verses.insert(v_num, verse)

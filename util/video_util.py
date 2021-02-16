@@ -34,6 +34,8 @@ def find_backward(video, text, previous_text, max_f, from_f, prefix):
         rate = int(-1 * start_size * video.fps)
         max_f = max_f+rate
         #print('\t\t\tReduce by %s second from %s to %s by %s'%(start_size, max_f, from_f, rate))
+        if max_f < from_f:
+            max_f = from_f
         for f in range(max_f, from_f, rate):
             new_text = get_text_from_frame(video, f, prefix)
             if new_text == text:
@@ -50,6 +52,8 @@ def find_backward(video, text, previous_text, max_f, from_f, prefix):
 
 def find_forward(video, verse, from_f, to_f, increment, previous_text, next_text):
     temp = previous_text
+    if from_f > to_f:
+        from_f = to_f
     for f in range(from_f, to_f, increment):
         new_text = get_text_from_frame(video, f, verse.chapter)
         if verse.chapter in new_text and new_text != temp:
