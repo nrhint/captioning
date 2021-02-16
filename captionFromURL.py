@@ -18,3 +18,4 @@ for detail in urlList:
     get_time_from_video(verses, url)
     srt = generate_srt(verses)
     open('output/book/%s/%s.srt'%(book, prefix), 'w').write(srt)
+    print('SRT file for %s written at %s'%(prefix, 'output/book/%s/%s.srt'%(book, prefix)))
