@@ -22,7 +22,11 @@ def get_verse_from_file(book, chapter_number):
         if verse.number > 0:
             verse.id = '%s:%s'%(prefix, verse.number)
         else:
-            verse.id = prefix # + 'H'
+            #print(book.scripture)
+            if book.scripture == 'dc-testament':
+                verse.id = prefix
+            else:
+                verse.id = prefix  + 'H'
         verse.text = remove_number(text)
         verses.insert(verse.number, verse)
 

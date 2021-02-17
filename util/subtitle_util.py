@@ -28,6 +28,10 @@ def generate_srt_adv(verses, ccLength = 10):
         #print('\n' + str(verse.number) + '\t' + verse.text)
         words = verse.text.split(' ')
         ##Generate the times for this verse
+        if verse.end_time is None or verse.start_time is None:
+            print('\t%s missing time: %s : %s'%(verse.id, verse.start_time, verse.end_time))
+            continue
+            
         duration = int(verse.end_time)-int(verse.start_time)
         smallDuration = duration/divisions
         ##Generate the lines for the file

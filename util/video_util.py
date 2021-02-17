@@ -24,14 +24,14 @@ def get_text_from_frame(video, f, prefix):
 
 def find_backward(video, text, previous_text, max_f, from_f, prefix):
 
+    #print('%s -> %s'%(text, previous_text))
     start_size = max_time / division
     end_size = min_time
     last_f = max_f
 
     while start_size >= end_size:
         rate = int(-1 * start_size * video.fps)
-        max_f += rate
-        #from_f += rate
+        counter = 0
         #print('\t\t\tReduce by %s second from %s to %s by %s'%(start_size, max_f, from_f, rate))
         for f in range(max_f, from_f, rate):
             new_text = get_text_from_frame(video, f, prefix)
@@ -41,6 +41,9 @@ def find_backward(video, text, previous_text, max_f, from_f, prefix):
             elif new_text == previous_text:
                 #print('\t\t\t\tbreak found %s at %s and old is %s'%(new_text, f, last_f))
                 break
+            if counter > 5:
+                break
+            counter += 1
         start_size = start_size / division
         max_f = last_f
     
@@ -51,15 +54,15 @@ def find_forward(video, verse, from_f, to_f, increment, previous_text, next_text
     temp = previous_text
     for f in range(from_f, to_f, increment):
         new_text = get_text_from_frame(video, f, verse.chapter)
-        if verse.chapter in new_text and new_text != temp:
+        #max_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
+        #print('\t\t--found %s at frame %s and time %s'%(new_text, f, max_time))
+        if new_text != temp:
             temp = new_text
-            max_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
-            #print('\t\tFirst Time found %s at frame %s and time %s'%(new_text, f, max_time))
             if new_text == verse.id:
-                if verse.start_frame is None:
-                
+                if verse.start_frame is None: 
+                    #max_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
+                    #print('\t\tStart Time found %s at frame %s and time %s'%(new_text, f, max_time))
                     min_frame = find_backward(video, verse.id, previous_text, f, from_f, verse.chapter)
-                
                     video.cap.set(1, min_frame)
                     video.cap.read()
                     min_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
@@ -70,9 +73,9 @@ def find_forward(video, verse, from_f, to_f, increment, previous_text, next_text
                 #else:
                     #print('already set')
             elif verse.chapter in new_text: #== next_text or new_text ==  + ":" +str(int(verse.number)+2):
-
+                #max_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
+                #print('\t\tEnd Time found %s at frame %s and time %s'%(new_text, f, max_time))
                 min_frame = find_backward(video, next_text, verse.id, f, from_f, verse.chapter)
-            
                 video.cap.set(1, min_frame)
                 video.cap.read()
                 min_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
@@ -103,13 +106,11 @@ def find_time(video, verses):
         
         end_frame = video.frame_count
         inc_rate = int(video.fps * max_time)
-        start_frame = 0
+        start_frame = int(video.fps * 1.5)
 
         if verse.number > 0 and verse.start_frame is not None:
             start_frame = verse.start_frame
 
-        start_frame += inc_rate
-        #end_frame += inc_rate
         #print("\n\t" + verse.id)
         #print("\tSearch from: %s-%s"%(start_frame,end_frame))
         # fin min/max for both rate and time for current verse
@@ -131,11 +132,13 @@ def get_time_from_video(verses):
     video = Video()
     video.cap = cv2.VideoCapture(url)
     video.findDetail()
-    video.print()
+    #video.print()
 
     startProcess = time.time()#Use for speed testing
     find_time(video, verses)
     #verses[len(verses) -1].print()
+    if verses[0].start_time is None:
+        verses[0].start_time = 0
     verses[len(verses) -1].end_time = video.duration
     #[len(verses) -1].print()
     # When everything done, release the capture
