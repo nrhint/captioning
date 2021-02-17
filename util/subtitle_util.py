@@ -25,7 +25,7 @@ def generate_srt_adv(verses, ccLength = 10):
         divisions = math.ceil(words//ccLength) + 1
         if divisions == 0:
             divisions = 1
-        print('\n' + str(verse.number) + '\t' + verse.text)
+        #print('\n' + str(verse.number) + '\t' + verse.text)
         words = verse.text.split(' ')
         ##Generate the times for this verse
         duration = int(verse.end_time)-int(verse.start_time)

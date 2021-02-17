@@ -1,3 +1,17 @@
-scripture   ,Book   ,chapter
-dc          ,dc     ,2
-bofm,       ,1-ne   ,2
+scripture   ,Book       ,video prefix,  ,chapter number  
+dc-testament,dc         ,D&C            ,138
+bofm        ,1-ne       ,1 Ne           ,20
+bofm        ,2-ne       ,2 Ne           ,33
+bofm        ,jacob      ,Jacob          ,7
+bofm        ,enos       ,Enos           ,1
+bofm        ,jarom      ,Jarom          ,1
+bofm        ,omni       ,Omni           ,1
+bofm        ,w-of-m     ,WOM            ,1
+bofm        ,mosiah     ,Mos            ,29
+bofm        ,alma       ,Alma           ,63
+bofm        ,hel        ,He             ,16
+bofm        ,3-ne       ,3 Ne           ,30
+bofm        ,4-ne       ,4 Ne           ,1
+bofm        ,morm       ,Morm           ,9
+bofm        ,ether      ,Eth            ,15
+bofm        ,moro       ,Mni            ,10

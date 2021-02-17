@@ -1,38 +1,30 @@
 from data.verse import Verse
-from util.text_util import is_second_intro
-from util.text_util import find_number
-from util.text_util import remove_number
-from util.text_util import remove_space
+from util.file_util import read_file
+from util.text_util import is_second_intro, find_number, remove_number, remove_space
 
-def get_verse_from_file(book, prefix):
-    file_name = 'resources/book/' + book + '/' + prefix + '.txt'
-    print('-- Reading Text from --\n\t%s\n'%(file_name))
-    file = open(file_name, 'r').read()
-    file = remove_space(file)
+def get_verse_from_file(book, chapter_number):
+    file = read_file('resources/book/%s/%s'%(book.scripture, book.book_name), '%s %s'%(book.video_prefix, chapter_number), 'txt')
+    print('-- Reading Text from --\n\t%s %s\n'%(book.video_prefix, chapter_number))
     text_split = file.split('\n')
-    text_split.pop(0)
+    url = text_split[0]
+    text_split.pop(0) # pop video link
     verses = [] * len(text_split)
 
     for text in text_split:
-
         if is_second_intro(text):
             verses[0].text += '\n' + text
-            verses[0].print()
             continue
 
+        prefix = '%s %s'%(book.video_prefix, chapter_number)
         verse = Verse()
-        verse_number = find_number(text)
+        verse.number = find_number(text)
         verse.chapter = prefix
-        #print(verse_number + " : " + text)
-        if verse_number.isnumeric():
-            verse.id = prefix + ":" + verse_number
-            v_num = int(verse_number)
-            verse.number = v_num
+        if verse.number > 0:
+            verse.id = '%s:%s'%(prefix, verse.number)
         else:
             verse.id = prefix # + 'H'
-            v_num = 0
         verse.text = remove_number(text)
-        verses.insert(v_num, verse)
-        verse.print()
+        verses.insert(verse.number, verse)
 
+    verses.insert(len(verses), url)
     return verses

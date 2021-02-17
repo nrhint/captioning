@@ -28,8 +28,8 @@ def find_number(text):
     pattern = ('^[\\d]{1,3}')
     textList = re.findall(pattern, text)
     if not textList:
-        return ''
-    return textList[0]
+        return 0
+    return int(textList[0])
 
 def remove_number(text):
     return re.sub('^[\\d]{1,3}[ ]', '', text)
@@ -51,3 +51,8 @@ def find_video_id(text):
     if not textList:
         return ''
     return textList[0].replace("\"", "").split("/")[-1]
+
+def remove_space_delimeter (text, delimiter):
+    text = re.sub('[ ]{1,}' + delimiter, delimiter, text)
+    text = re.sub(delimiter + '[ ]{1,}', delimiter, text)
+    return text
