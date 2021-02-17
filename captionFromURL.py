@@ -21,7 +21,7 @@ need_fix_book = []
 
 for book_csv in bookList:
     book_detail = book_csv.split(',')
-    book = Book(book_detail[0], book_detail[1], book_detail[2], int(book_detail[3]))
+    book = Book(book_detail[0], book_detail[1], book_detail[2], int(book_detail[3]), int(book_detail[4], int(book_detail[5])))
 
     print('\n%s - START'%(book.video_prefix))
     if book.scripture[0] == '#':
@@ -29,11 +29,11 @@ for book_csv in bookList:
         continue
 
     if mode == 'p' or mode == 'P' or mode == 'a' or mode == 'A':
-        for chapter_number in range(1, book.max_chapter + 1):
+        for chapter_number in range(book.start_chapter, book.end_chapter + 1):
             need_fix = read_from_website(book, chapter_number)
             if need_fix:
                 need_fix_book.insert(len(need_fix_book), need_fix)
-            print('\t%s:%s - PREPARED'%(book.video_prefix, chapter_number))
+            print('\t%s:%s - HAVE BEEN PREPARED'%(book.video_prefix, chapter_number))
 
     if mode == 's' or mode == 'S' or mode == 'a' or mode == 'A':
         for chapter_number in range(1, book.max_chapter + 1):
