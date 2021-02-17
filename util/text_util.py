@@ -33,3 +33,14 @@ def find_number(text):
 
 def remove_number(text):
     return re.sub('^[\\d]{1,2}[ ]', '', text)
+
+def format_HTML(text):
+    text = re.sub('<sup(.+?)</sup>', '', text)
+    text = re.sub('<span class="verse-number">', '\\n', text)
+    text = re.sub('<p class="study-intro"(.+?)>', ' ', text)
+    text = re.sub('<p class="study-summary"(.+?)>', ' ', text)
+    text = re.sub('<a class="scripture-ref"(.+?)>', '\\n', text)
+    text = re.sub('<(.+?)>', '', text)
+    text = re.sub('[ ]{2,}', ' ', text)
+    text = re.sub('^[ ]', '', text)
+    return text

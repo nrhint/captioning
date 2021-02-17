@@ -37,6 +37,7 @@ while run == True:
         lastState = state
         print('initalizing...')
         print("WARNING! This is not developed...")
+        import testingManualCaptioning
         print('finished!')
         state = 'welcome'
 ############################################################

@@ -20,13 +20,11 @@ def get_text_from_frame(video, f, prefix):
     if ret == True:
         foundText = pytesseract.image_to_string(frame)
         text = filter_by_prefix(foundText, prefix)
-        #print('\t++ Found ++ \t' + foundText)
-        #print('\t++ Filter ++ \t' + text)
     return text
 
 def find_backward(video, text, previous_text, max_f, from_f, prefix):
 
-    start_size = max_time / 2
+    start_size = max_time / division
     end_size = min_time
 
     while start_size >= end_size:
@@ -58,7 +56,7 @@ def find_forward(video, verse, from_f, to_f, increment, previous_text, next_text
         new_text = get_text_from_frame(video, f, verse.chapter)
         if verse.chapter in new_text and new_text != temp:
             temp = new_text
-            max_time = convert_time(video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000)
+            max_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
             print('\t\tFirst Time found %s at frame %s and time %s'%(new_text, f, max_time))
             if new_text == verse.id:
                 if verse.start_frame is None:
@@ -67,7 +65,7 @@ def find_forward(video, verse, from_f, to_f, increment, previous_text, next_text
                 
                     video.cap.set(1, min_frame)
                     video.cap.read()
-                    min_time = convert_time(video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000)
+                    min_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
                     print('\t\tFinally Start Time found %s at frame %s and time %s'%(new_text, min_frame, min_time))
                 
                     verse.start_frame = min_frame
@@ -80,7 +78,7 @@ def find_forward(video, verse, from_f, to_f, increment, previous_text, next_text
             
                 video.cap.set(1, min_frame)
                 video.cap.read()
-                min_time = convert_time(video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000)
+                min_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
                 print('\t\tFinally End Time found %s at frame %s and time %s'%(new_text, min_frame, min_time))
             
                 verse.end_frame = min_frame
@@ -141,6 +139,8 @@ def get_time_from_video(verses, url):
     startProcess = time.time()#Use for speed testing
     
     find_time(video, verses)
+
+    verses[len(verses) -1].end_time = video.duration
 
     # When everything done, release the capture
     video.cap.release()
