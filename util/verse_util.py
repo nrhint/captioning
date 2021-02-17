@@ -27,7 +27,7 @@ def get_verse_from_file(book, chapter_number):
                 verse.id = prefix
             else:
                 verse.id = prefix  + 'H'
-        verse.text = remove_number(text)
+        verse.text = text
         verses.insert(verse.number, verse)
 
     verses.insert(len(verses), url)
