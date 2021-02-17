@@ -10,11 +10,14 @@ def get_verse_from_file(book, prefix):
     file = open(file_name, 'r').read()
     file = remove_space(file)
     text_split = file.split('\n')
+    text_split.pop(0)
     verses = [] * len(text_split)
 
     for text in text_split:
 
         if is_second_intro(text):
+            verses[0].text += '\n' + text
+            verses[0].print()
             continue
 
         verse = Verse()
@@ -30,4 +33,6 @@ def get_verse_from_file(book, prefix):
             v_num = 0
         verse.text = remove_number(text)
         verses.insert(v_num, verse)
+        verse.print()
+
     return verses

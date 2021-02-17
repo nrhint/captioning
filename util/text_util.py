@@ -22,17 +22,17 @@ def find_match(text, word):
     return textList[0]
 
 def is_second_intro(text):
-    return re.search('^[\\d][-][\\d]', text)
+    return re.search('^[\\d]{1,3}.[\\d]{1,3}', text)
 
 def find_number(text):
-    pattern = ('^[\\d]{1,2}')
+    pattern = ('^[\\d]{1,3}')
     textList = re.findall(pattern, text)
     if not textList:
         return ''
     return textList[0]
 
 def remove_number(text):
-    return re.sub('^[\\d]{1,2}[ ]', '', text)
+    return re.sub('^[\\d]{1,3}[ ]', '', text)
 
 def format_HTML(text):
     text = re.sub('<sup(.+?)</sup>', '', text)
@@ -44,3 +44,10 @@ def format_HTML(text):
     text = re.sub('[ ]{2,}', ' ', text)
     text = re.sub('^[ ]', '', text)
     return text
+
+def find_video_id(text):
+    pattern = ('"https://mediasrv.churchofjesuschrist.org(.+?)"')
+    textList = re.findall(pattern, text)
+    if not textList:
+        return ''
+    return textList[0].replace("\"", "").split("/")[-1]

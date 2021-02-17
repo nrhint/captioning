@@ -25,20 +25,15 @@ def generate_srt_adv(verses, ccLength = 10):
         divisions = math.ceil(words//ccLength) + 1
         if divisions == 0:
             divisions = 1
-        #approx = round(words/divisions, 0)
         print('\n' + str(verse.number) + '\t' + verse.text)
         words = verse.text.split(' ')
-        #print('word count: ' + str(len(words)))
         ##Generate the times for this verse
         duration = int(verse.end_time)-int(verse.start_time)
         smallDuration = duration/divisions
-    #        print(start, end, duration, divisions, smallDuration)
         ##Generate the lines for the file
         for div in range(0, divisions):
             tend = (div+1)*ccLength
             tstart = div*ccLength
-            #print(str(tstart) + '\t' + str(tend))
-    #            print(tend)
             if div == divisions:
                 captionText = words[tstart:]
             else:
@@ -49,9 +44,7 @@ def generate_srt_adv(verses, ccLength = 10):
                 finalCaptionText += str(w)+' '
             text += str(ind)+'\n'
             text += str(convert_time(verse.start_time+(smallDuration*div)))+' --> '+ str(convert_time(verse.start_time+(smallDuration*(div+1))))+'\n'
-    #            print(div, convertTime(start+(smallDuration*div))+' --> '+convertTime(start+(smallDuration*(div+1)))+'\n')
             text += str(finalCaptionText)+'\n'
-            print('\t' + finalCaptionText)
             text += '\n'
             ind += 1
 
