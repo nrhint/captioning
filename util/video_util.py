@@ -33,6 +33,7 @@ def find_backward(video, text, previous_text, max_f, from_f, prefix):
         rate = int(-1 * start_size * video.fps)
         counter = 0
         max_f += rate
+        from_f += rate
         #print('\t\t\tReduce by %s second from %s to %s by %s'%(start_size, max_f, from_f, rate))
         for f in range(max_f, from_f, rate):
             new_text = get_text_from_frame(video, f, prefix)
@@ -108,6 +109,7 @@ def find_time(video, verses):
         end_frame = video.frame_count
         inc_rate = int(video.fps * max_time)
         start_frame = inc_rate
+        end_frame += inc_rate
 
         if verse.number > 0 and verse.start_frame is not None:
             start_frame += verse.start_frame

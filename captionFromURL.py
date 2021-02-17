@@ -21,7 +21,7 @@ need_fix_book = []
 
 for book_csv in bookList:
     book_detail = book_csv.split(',')
-    book = Book(book_detail[0], book_detail[1], book_detail[2], int(book_detail[3]), int(book_detail[4], int(book_detail[5])))
+    book = Book(book_detail[0], book_detail[1], book_detail[2], int(book_detail[3]), int(book_detail[4]), int(book_detail[5]))
 
     print('\n%s - START'%(book.video_prefix))
     if book.scripture[0] == '#':
