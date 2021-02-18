@@ -6,13 +6,15 @@ from time import time, sleep
 
 pressed = ''
 def on_press(key):
+    global pressed
     try:
         pressed = key.char
-        print(pressed)
+        #print(pressed)
     except AttributeError:
         pass
 
 def on_release(key):
+    global pressed
     pressed = ''
     if key == keyboard.Key.esc:
         # Stop listener
@@ -29,7 +31,7 @@ print("This will take a text file that you have generated and it will turn it in
 
 state = 'init'
 
-while state != 'end':
+while state != False:
     if state == 'init':
         i = input('What is the file path of the text file? ')
         try:
@@ -52,13 +54,14 @@ playing then press the 'e' key to end the program.""")
         state = 'wait'
     elif state == 'wait':
         if pressed == 'g':
-            state = 'listen'
+            state = 'wait'
         elif pressed == 't':
-            state = 'pressed'
-        elif pressed == '':
-            state = 'released'
+            state = 'listen'
+#        elif pressed == '':
+#            state = 'released'
         elif pressed == 'e':
-            state = 'end'
+            state = False
+            print(state)
     elif state == 'listen':
         for line in text:
             print('You are captioning: %s'%line)
@@ -71,7 +74,6 @@ playing then press the 'e' key to end the program.""")
                 elif pressed != 't' and p:
                     timeEnd = time()
                     wait = False
-                print(pressed)
             timeEnd = time()
             data.append([timeStart, timeEnd, line])
 
