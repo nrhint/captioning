@@ -34,7 +34,7 @@ for book_csv in bookList:
             if need_fix:
                 need_fix_book.insert(len(need_fix_book), need_fix)
             print('\t%s:%s - HAVE BEEN PREPARED'%(book.video_prefix, chapter_number))
-
+#    links = ''
     if mode == 's' or mode == 'S' or mode == 'a' or mode == 'A':
         for chapter_number in range(1, book.max_chapter + 1):
             verses = get_verse_from_file(book, chapter_number)  
@@ -45,7 +45,8 @@ for book_csv in bookList:
             adv_srt = generate_srt_adv(verses)
             write_file('output/book/%s/%s'%(book.scripture, book.book_name), '%s %s'%(book.video_prefix, chapter_number), 'srt', adv_srt)
             #print('SRT file for %s written at %s'%(prefix, 'output/book/%s/%s.srt'%(book, prefix)))
-    
+            links += verses[0].id +','+verses[-1] + '\n'
+    open('genLink.csv', 'w').write(links)
     print('FINISH BOOK')
 
 print('\n-- Done Processing -- ')
