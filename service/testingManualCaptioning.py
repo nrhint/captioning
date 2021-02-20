@@ -2,6 +2,7 @@
 
 from pynput import keyboard
 from util.time_util import convert_time
+from util.file_util import write_file
 from time import time, sleep
 
 pressed = ''
@@ -77,5 +78,10 @@ playing then press the 'e' key to end the program.""")
             timeEnd = time()
             data.append([timeStart, timeEnd, line])
 
-open('test/test.srt', 'w').write(data)
+
+try:
+    write_file('test', 'test', 'srt', data)
+except:
+    print('Generate test unsuccess.')
+
 print(data)

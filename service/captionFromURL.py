@@ -7,7 +7,6 @@ from util.subtitle_util import generate_srt, generate_srt_adv
 from util.text_util import remove_space_delimeter
 from util.verse_util import get_verse_from_file
 from util.video_util import get_time_from_video
-from util.web_util import read_from_website
 
 print('\n-- Start Processing -- ')
 csv = read_file('Resources', 'BookList', 'csv')
@@ -24,8 +23,11 @@ for book_csv in book_list:
     video_list = csv.split('\n')
 
     for chapter_number in range(book.start_chapter, book.end_chapter + 1):
-        verses = get_verse_from_file(book, chapter_number, video_list[chapter_number])  
-        get_time_from_video(verses)
-        adv_srt = generate_srt_adv(verses)
-        write_file('Output/Subtitle/%s/%s'%(book.scripture, book.book_name), '%s %s'%(book.video_prefix, chapter_number), 'srt', adv_srt)
+        try:
+            verses = get_verse_from_file(book, chapter_number)  
+            get_time_from_video(verses, video_list[chapter_number])
+            adv_srt = generate_srt_adv(verses)
+            write_file('Output/Subtitle/%s/%s'%(book.scripture, book.book_name), '%s %s'%(book.video_prefix, chapter_number), 'srt', adv_srt)
+        except:
+            print('Generate srt for %s %s unsuccess.'%(book.video_prefix, chapter_number))
     print('FINISH BOOK')
