@@ -33,7 +33,7 @@ while run == True:
         lastState = state
         print('\ninitalizing...')
         try:
-            import service.generateVerseAndVideoURL
+            import m01generateVerseAndVideoURL
             print('finished!')
             state = 'welcome'
         except:
@@ -43,7 +43,7 @@ while run == True:
         lastState = state
         print('\ninitalizing...')
         try:
-            import service.captionFromURL
+            import m02captionFromURL
             print('finished!')
             state = 'welcome'
         except:
@@ -54,7 +54,7 @@ while run == True:
         print('\ninitalizing...')
         print("WARNING! This is not developed...")
         try:
-            import service.testingManualCaptioning
+            import m03testingManualCaptioning
             print('finished!')
             state = 'welcome'
         except:
@@ -64,7 +64,7 @@ while run == True:
         lastState = state
         print('\ninitalizing the Book of Mormon caption converter...')
         try:
-            from service.bookOfMormonConverter import BofMConvert
+            from m04bookOfMormonConverter import BofMConvert
             filePath = input('what is the file path of the SRT from the disk? ')
             fileName = input('What is the name of the file? ')
             convert = BofMConvert(filePath, fileName)

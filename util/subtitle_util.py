@@ -52,5 +52,4 @@ def generate_srt_adv(verses, ccLength = 10):
             text += '\n'
             ind += 1
 
-    #open('output/subtitle/D&C 1Test.srt', 'w').write(text)
     return text
