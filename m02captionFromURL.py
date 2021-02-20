@@ -2,7 +2,8 @@ import re
 import pickle
 
 from data.book import Book
-from util.file_util import write_file, read_file
+from util.download import download_video
+from util.file_util import write_file, read_file, delete_file
 from util.subtitle_util import generate_srt, generate_srt_adv
 from util.text_util import remove_space_delimeter
 from util.verse_util import get_verse_from_file
@@ -36,6 +37,11 @@ for book_csv in book_list:
         j = int(input('\tEnter the number then press enter: '))
     if j == 1:
         for chapter_number in range(book.start_chapter, book.end_chapter + 1):
+            
+            url = video_list[chapter_number].split(',')[1]
+            file_path = 'Resources/Video/%s/%s'%(book.scripture, book.book_name)
+            file_name = '%s %s'%(book.video_prefix, chapter_number)
+            #download_video(url, file_path, file_name, 'mp4')
             if i > 1:
                 print('\t\t%s:%s'%(book.video_prefix, chapter_number))
                 print('\t\t(1) Read the Verse')
@@ -46,13 +52,13 @@ for book_csv in book_list:
                 verses = get_verse_from_file(book, chapter_number)  
                 #srt = generate_srt(verses)
                 #write_file('test/verse/%s/%s'%(book.scripture, book.book_name), '%s %s'%(book.video_prefix, chapter_number), 'srt', srt)
-
                 #for verse in verses:
                     #verse.print()
                 video_detail = video_list[chapter_number].split(',')
-                get_time_from_video(verses, video_detail[1])
-                #adv_srt = generate_srt_adv(verses)
-                #write_file('Output/Subtitle/%s/%s'%(book.scripture, book.book_name), '%s %s'%(book.video_prefix, chapter_number), 'srt', adv_srt)
+                get_time_from_video(verses, '%s/%s.%s'%(file_path, file_name, 'mp4'))
+                delete_file(file_path, file_name, 'mp4')
+                adv_srt = generate_srt_adv(verses)
+                write_file('Output/Subtitle/%s/%s'%(book.scripture, book.book_name), file_name, 'srt', adv_srt)
                 #except:
                     #print('\t\tGenerate srt for %s %s unsuccess.'%(book.video_prefix, chapter_number))
     print('FINISH BOOK')

@@ -8,7 +8,7 @@ from util.time_util import convert_time
 from util.text_util import filter_by_prefix
 
 header = ''
-max_time = 16
+max_time = 8
 min_time = 0.5
 division = 2
 
