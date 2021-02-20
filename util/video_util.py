@@ -8,7 +8,7 @@ from util.time_util import convert_time
 from util.text_util import filter_by_prefix
 
 header = ''
-max_time = 8
+max_time = 16
 min_time = 0.5
 division = 2
 
@@ -44,7 +44,9 @@ def find_backward(video, text, previous_text, max_f, from_f, prefix):
                 #print('\t\t\t\tbreak found %s at %s and old is %s'%(new_text, f, last_f))
                 break
             if counter > 5:
+                #print('\t\t\t\tbreak found %s more than 5 at %s and old is %s'%(new_text, f, last_f))
                 break
+            #print('\t\t\t\count %s found %s at %s and old is %s'%(counter, new_text, f, last_f))
             counter += 1
         start_size = start_size / division
         max_f = last_f
@@ -56,7 +58,7 @@ def find_forward(video, verse, from_f, to_f, increment, previous_text, next_text
     temp = previous_text
     for f in range(from_f, to_f, increment):
         new_text = get_text_from_frame(video, f, verse.chapter)
-        #max_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
+        max_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
         #print('\t\t--found %s at frame %s and time %s'%(new_text, f, max_time))
         if new_text != temp:
             temp = new_text
@@ -74,7 +76,8 @@ def find_forward(video, verse, from_f, to_f, increment, previous_text, next_text
                     verse.start_time = min_time
                 #else:
                     #print('already set')
-            elif verse.chapter in new_text: #== next_text or new_text ==  + ":" +str(int(verse.number)+2):
+            elif new_text == next_text or verse.chapter in new_text: #== next_text or new_text ==  + ":" +str(int(verse.number)+2):
+                #print('%s\t%s\t%s\t%s'%(next_text, new_text, new_text == next_text, verse.chapter in new_text))
                 #max_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
                 #print('\t\tEnd Time found %s at frame %s and time %s'%(new_text, f, max_time))
                 min_frame = find_backward(video, next_text, verse.id, f, from_f, verse.chapter)
@@ -92,6 +95,8 @@ def find_time(video, verses):
 
     print("\n-- Finding Verses in Video --")
     for verse_index in range(0, len(verses)):
+        
+        startProcess = time.time()#Use for speed testing
         verse = verses[verse_index]
         
         if verse_index == 0:
@@ -109,7 +114,6 @@ def find_time(video, verses):
         end_frame = video.frame_count
         inc_rate = int(video.fps * max_time)
         start_frame = inc_rate
-        end_frame += inc_rate
 
         if verse.number > 0 and verse.start_frame is not None:
             start_frame += verse.start_frame
@@ -124,26 +128,27 @@ def find_time(video, verses):
             next_verse.start_time = verse.end_time
 
         #verse.print()
-        print("\t%s done"%(verse.id))
+        endProcess = time.time()
+        print("\t%s\ttooks %4.3f seconds"%(verse.id, endProcess-startProcess))
+        #if verse.number % 5 == 0:
+            #print('')
 
 #
-def get_time_from_video(verses):
+def get_time_from_video(verses, url):
 
     pytesseract.pytesseract.tesseract_cmd = 'C:/Program Files/Tesseract-OCR/tesseract.exe'
-    url = verses[len(verses) - 1]
-    verses.pop(len(verses) - 1)
     video = Video()
+    print(url)
     video.cap = cv2.VideoCapture(url)
     video.findDetail()
-    #video.print()
+    video.print()
 
     startProcess = time.time()#Use for speed testing
     find_time(video, verses)
-    #verses[len(verses) -1].print()
     if verses[0].start_time is None:
         verses[0].start_time = 0
-    verses[len(verses) -1].end_time = video.duration
-    #[len(verses) -1].print()
+    if verses[-1].end_time is None:
+        verses[-1].end_time = video.duration
     # When everything done, release the capture
     video.cap.release()
     cv2.destroyAllWindows()

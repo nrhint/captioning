@@ -11,10 +11,10 @@ class Video:
 
     def print(self):
         print('-- Video Detial --')
-        print('\tFPS:\t%s'%(self.fps))
+        print('\tFPS:\t%.3f'%(self.fps))
         print('\tFrames:\t%s'%(self.frame_count))
-        print('\tDuration (s):\t%s'%(self.duration))
-        print('\tDuration (m:s):\t%s : %s'%(int(self.duration/60),self.duration%60))
+        print('\tDuration (s):\t%.3f'%(self.duration))
+        print('\tDuration (m:s):\t%s : %.3f'%(int(self.duration/60),self.duration%60))
         print('\tframe (W:H):\t%s : %s'%(self.width,self.height))
 
     def findDetail(self):
