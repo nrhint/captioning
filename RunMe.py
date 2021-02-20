@@ -6,7 +6,7 @@ state = 'init'
 while run == True:
     if state == 'init':
         lastState = state
-        print("Welcome!")
+        print("\n=== Welcome! ===")
         print("Starting menu...")
         state = 'welcome'
 ############################################################
@@ -15,8 +15,8 @@ while run == True:
         print('\nWhat would you like to do?')
         print('(1) Generate verse files and URL for video')
         print('(2) Generate srt files for D&C')
-        print('(3) generate a SRT file for your own video')
-        print('(4) convert a srt from the book of mormon disks')
+        print('(3) Generate a SRT file for your own video')
+        print('(4) Convert a srt from the book of mormon disks')
         i = input('Enter the number then press enter: ')
         if i == '1':
             state = 'URL'
@@ -31,46 +31,67 @@ while run == True:
 ############################################################
     elif state == 'URL':
         lastState = state
-        print('initalizing...')
-        import service.generateVerseAndVideoURL
-        print('finished!')
-        state = 'welcome'
+        print('\ninitalizing...')
+        try:
+            import service.generateVerseAndVideoURL
+            print('finished!')
+            state = 'welcome'
+        except:
+            state = 'error'
 ############################################################
     elif state == 'D&C':
         lastState = state
-        print('initalizing...')
-        import service.captionFromURL
-        print('finished!')
-        state = 'welcome'
+        print('\ninitalizing...')
+        try:
+            import service.captionFromURL
+            print('finished!')
+            state = 'welcome'
+        except:
+            state = 'error'
 ############################################################
     elif state == 'genOwn':
         lastState = state
-        print('initalizing...')
+        print('\ninitalizing...')
         print("WARNING! This is not developed...")
-        import service.testingManualCaptioning
-        print('finished!')
-        state = 'welcome'
+        try:
+            import service.testingManualCaptioning
+            print('finished!')
+            state = 'welcome'
+        except:
+            state = 'error'
 ############################################################
     elif state == 'BofM':
         lastState = state
-        print('initalizing the Book of Mormon caption converter...')
-        from service.bookOfMormonConverter import BofMConvert
-        filePath = input('what is the file path of the SRT from the disk? ')
-        fileName = input('What is the name of the file? ')
-        convert = BofMConvert(filePath, fileName)
-        if convert.status == 'Pass':
-            convert.run()
-            state = 'welcome'
-        else:
-            print(convert.status)
+        print('\ninitalizing the Book of Mormon caption converter...')
+        try:
+            from service.bookOfMormonConverter import BofMConvert
+            filePath = input('what is the file path of the SRT from the disk? ')
+            fileName = input('What is the name of the file? ')
+            convert = BofMConvert(filePath, fileName)
+            if convert.status == 'Pass':
+                convert.run()
+                state = 'welcome'
+            else:
+                print(convert.status)
+                state = 'error'
+        except:
             state = 'error'
 ############################################################
     elif state == 'error':
-        print('Sorry, something did not work. Try checking your input to make sure that it is correct.')
-        state = lastState
+        print('\nSorry, something did not work. Try checking your input to make sure that it is correct.')
+        print('Do you want to resume current work?')
+        print('(1) Yes, I want to try again.')
+        print('(2) No, I want to ge back to main menu.')
+        i = input('Enter the number then press enter: ')
+        if i == '1':
+            state = lastState
+        elif i == '2':
+            state = 'welcome'
+        else:
+            state = 'error'
 ############################################################
     else:
-        print("THERE WAS AN UNKNOWN ERROR!")
+        print("\nTHERE WAS AN UNKNOWN ERROR!")
         print("Dump of vars: state = %s, lastState = %s"%(state, lastState))
         print("Something happened that was unexpected. The program will now restart...")
         state = 'init'
