@@ -6,7 +6,6 @@ from util.text_util import format_HTML
 
 def read_from_website(book, chapter_number):
 
-    need_fix = []
     url = 'https://www.churchofjesuschrist.org/study/scriptures/%s/%s/%s?lang=ase'%(book.scripture, book.book_name, chapter_number)
     res = requests.get(url)
     html_page = res.content
@@ -21,7 +20,6 @@ def read_from_website(book, chapter_number):
     video_id = find_video_id(video_text)
     if video_id == '':
         video_url = '-- Need Video URL --'
-        need_fix.insert(len(need_fix), '%s %s'%(book.video_prefix, chapter_number))
         print('\tBook %s %s cant find video link. Please add url on text file manualyly.'%(book.video_prefix, chapter_number))
     else:
         video_url = 'https://mediasrv.churchofjesuschrist.org/media-services/GA/size/%s/1280/720'%(video_id)
@@ -48,7 +46,6 @@ def read_from_website(book, chapter_number):
             verses += '{} '.format(t)
 
     verses = format_HTML(verses)
-    output = '%s\n%s'%(video_url, verses)
-    write_file('resources/book/%s/%s'%(book.scripture, book.book_name), '%s %s'%(book.video_prefix, chapter_number), 'txt', output)
-    return need_fix
+    write_file('Resources/Verse/%s/%s'%(book.scripture, book.book_name), '%s %s'%(book.video_prefix, chapter_number), 'txt', verses)
+    return video_url
 #javascript:var x=document.getElementsByTagName('sup');for(var i=0;i<x.length;i++){void(x[0].parentNode.removeChild(x[0]));}
