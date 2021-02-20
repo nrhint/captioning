@@ -20,9 +20,7 @@ def read_from_website(book, chapter_number):
         video_text += '{} '.format(meta)
     
     video_id = find_video_id(video_text)
-    if video_id == '':
-        print('\n\t\tBook %s %s cant find video link. Please add url on text file manualyly.'%(book.video_prefix, chapter_number))
-    else:
+    if video_id != '':
         video_url = 'https://mediasrv.churchofjesuschrist.org/media-services/GA/size/%s/1280/720'%(video_id)
 
     verses = ''
