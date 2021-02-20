@@ -16,7 +16,7 @@ while run == True:
         print('(1) Generate verse files and URL for video')
         print('(2) Generate srt files for D&C')
         print('(3) Generate a SRT file for your own video')
-        print('(4) Convert a srt from the book of mormon disks')
+        print('(4) Generate srt files for the BOok of Mormon')
         i = input('Enter the number then press enter: ')
         if i == '1':
             state = 'URL'

@@ -10,7 +10,6 @@ def on_press(key):
     global pressed
     try:
         pressed = key.char
-        #print(pressed)
     except AttributeError:
         pass
 
@@ -47,24 +46,28 @@ while state != False:
         print("""
 The file is ready, to use this program please read the instructions then press the 'g' key.
 
-When someone starts to talk press the t key. This will make the program pring the line
+When someone starts to talk press the t key. This will make the program print the line
 of text that it is captioning. When the speaker has finished the pronted line release
 the 't' key and wait for the next line to start t be spoken. The program will record
 the start and end of when you press and release the 't' key. When the video is finished
 playing then press the 'e' key to end the program.""")
-        state = 'wait'
-    elif state == 'wait':
+        state = 'waitForGo'
+    elif state == 'waitForGo':
         if pressed == 'g':
+            lineIndex = 0
+            baseTime = time()
             state = 'wait'
-        elif pressed == 't':
+    elif state == 'wait':
+        if pressed == 't':
             state = 'listen'
 #        elif pressed == '':
 #            state = 'released'
         elif pressed == 'e':
-            state = False
+            state = 'end'
             print(state)
     elif state == 'listen':
-        for line in text:
+        try:
+            line = text[lineIndex]
             print('You are captioning: %s'%line)
             wait = True
             p = False
@@ -77,11 +80,50 @@ playing then press the 'e' key to end the program.""")
                     wait = False
             timeEnd = time()
             data.append([timeStart, timeEnd, line])
+            lineIndex += 1
+            state = 'wait'
+        except IndexError:
+            state = 'whoops'
+    elif state == 'end':
+        print("Ending...")
+        state = False
+    elif state == 'whoops':
+        print("""
+        AAH! You seem to have run out of lines. If you accidently pressed the
+        't key onw too many times simply press the e key. If your video is
+        still going and you have more text to caption please check the format
+        of the text file with your captions. Remember that every time there is
+        an enter in that file you get to press the 't' key once. This message
+        was caused by there not being enough lines in the file to complete the
+        action you requested.""")
+        print('\nY/n continue and generate the captions with the data that I have?')
+        i = input()
+        if i.lower() == 'y':
+            print("Okay! will do!")
+            state = 'end'
+        elif i.lower() == 'n':
+            print("Okay. this program will now restart and wait until you give it instructions.")
+            state = 'init'
+        else:
+            print("Invalid option... repeating instructions.")
+    else:
+        print("STATE ERROR")
+        print("State = %s"%state)
+        print("Restarting program this was caused by an internal error...")
+        state = 'init'
 
+srt = ''
+number = 0
+for l in data:
+    srt += '%s\n'%number
+    srt += '%s --> %s\n'%(convert_time(l[0]), convert_time(l[1]))
+    srt += '%s\n'%l[2]
+    srt += '\n'
+    number += 1
 
 try:
-    write_file('test', 'test', 'srt', data)
+    write_file('output', 'captions', 'srt', srt)
 except:
     print('Generate test unsuccess.')
-
+print('File saved in %s/%s.%s'%('output', 'captions', 'srt'))
 print(data)
