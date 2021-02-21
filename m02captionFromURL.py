@@ -56,7 +56,7 @@ for book_csv in book_list:
                     #verse.print()
                 video_detail = video_list[chapter_number].split(',')
                 get_time_from_video(verses, '%s/%s.%s'%(file_path, file_name, 'mp4'))
-                delete_file(file_path, file_name, 'mp4')
+                #delete_file(file_path, file_name, 'mp4')
                 adv_srt = generate_srt_adv(verses)
                 write_file('Output/Subtitle/%s/%s'%(book.scripture, book.book_name), file_name, 'srt', adv_srt)
                 #except:

@@ -9,11 +9,9 @@ def read_file(file_path, file_name, file_extension):
 
 def write_file(file_path, file_name, file_extension, output):
     try:
-        try:
-            open('%s/%s.%s'%(file_path, file_name, file_extension), 'w').write(output)
-        except FileNotFoundError:
+        if not os.path.exists(file_path):
             os.mkdir(file_path)
-            open('%s/%s.%s'%(file_path, file_name, file_extension), 'w').write(output)
+        open('%s/%s.%s'%(file_path, file_name, file_extension), 'w').write(output)
     except:
         print('Cannot write because file "%s/%s.%s" not found'%(file_path, file_name, file_extension))
         raise Exception
