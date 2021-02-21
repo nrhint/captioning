@@ -1,17 +1,17 @@
-scripture   ,Book       ,video prefix,  ,max chapter    ,start_chapter  ,end_chapter  
-dc-testament,dc         ,D&C            ,138            ,1              ,138
-bofm        ,1-ne       ,1 Ne           ,20             ,1              ,20
-bofm        ,2-ne       ,2 Ne           ,33             ,1              ,33
-bofm        ,jacob      ,Jacob          ,7              ,1              ,7
+scripture   ,Book       ,video prefix,  ,max chapter    ,start_chapter  ,end_chapter 
+dc-testament,dc         ,D&C            ,138            ,1              ,10 
+bofm        ,1-ne       ,1 Ne           ,20             ,1              ,4
+bofm        ,2-ne       ,2 Ne           ,33             ,1              ,2
+bofm        ,jacob      ,Jacob          ,7              ,1              ,2
 bofm        ,enos       ,Enos           ,1              ,1              ,1
 bofm        ,jarom      ,Jarom          ,1              ,1              ,1
 bofm        ,omni       ,Omni           ,1              ,1              ,1
 bofm        ,w-of-m     ,WOM            ,1              ,1              ,1
-bofm        ,mosiah     ,Mos            ,29             ,1              ,29
-bofm        ,alma       ,Alma           ,63             ,1              ,63
-bofm        ,hel        ,He             ,16             ,1              ,16
-bofm        ,3-ne       ,3 Ne           ,30             ,1              ,30
+bofm        ,mosiah     ,Mos            ,29             ,1              ,2
+bofm        ,alma       ,Alma           ,63             ,1              ,2
+bofm        ,hel        ,He             ,16             ,1              ,2
+bofm        ,3-ne       ,3 Ne           ,30             ,1              ,2
 bofm        ,4-ne       ,4 Ne           ,1              ,1              ,1
-bofm        ,morm       ,Morm           ,9              ,1              ,9
-bofm        ,ether      ,Eth            ,15             ,1              ,15
-bofm        ,moro       ,Mni            ,10             ,1              ,10
+bofm        ,morm       ,Morm           ,9              ,1              ,2
+bofm        ,ether      ,Eth            ,15             ,1              ,2
+bofm        ,moro       ,Mni            ,10             ,1              ,2

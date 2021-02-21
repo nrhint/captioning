@@ -9,7 +9,7 @@ from util.text_util import filter_by_prefix
 
 header = ''
 max_time = 8
-min_time = 0.5
+min_time = 0.25
 division = 2
 
 
@@ -39,6 +39,7 @@ def find_backward(video, text, previous_text, max_f, from_f, prefix):
             new_text = get_text_from_frame(video, f, prefix)
             if new_text == text:
                 last_f = f
+                counter = 0
                 #print('\t\t\t\tstill found %s at %s and new is %s'%(new_text, f, last_f))
             elif new_text == previous_text:
                 #print('\t\t\t\tbreak found %s at %s and old is %s'%(new_text, f, last_f))
@@ -129,7 +130,7 @@ def find_time(video, verses):
 
         #verse.print()
         endProcess = time.time()
-        print("\t%s\ttooks %4.3f seconds"%(verse.id, endProcess-startProcess))
+        print("\t%s\ttook %4.3f seconds"%(verse.id, endProcess-startProcess))
         #if verse.number % 5 == 0:
             #print('')
 

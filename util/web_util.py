@@ -39,7 +39,6 @@ def read_from_website(book, chapter_number):
     # {'label', 'h4', 'ol', '[document]', 'a', 'h1', 'noscript', 'span', 'header', 'ul', 'html', 'section', 'article', 'em', 'meta', 'title', 'body', 'aside', 'footer', 'div', 'form', 'nav', 'p', 'head', 'link', 'strong', 'h6', 'br', 'li', 'h3',
     #'h5', 'input', 'blockquote', 'main', 'script', 'figure'}
 
-
     for t in verse_text:
         if t.parent.name not in blacklist:
             verses += '{} '.format(t)

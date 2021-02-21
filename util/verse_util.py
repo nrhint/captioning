@@ -11,7 +11,7 @@ def new_verse_with_value(book, chapter_number, is_header, verses, text):
     verse.text = text
     if verse.number > 0:
         verse.id = '%s:%s'%(prefix, verse.number)
-    if book.scripture == 'bofm':
+    elif book.scripture == 'bofm':
         verse.id += 'H'
     verses.insert(verse.number, verse)
     
