@@ -1,18 +1,18 @@
 Section 42 Revelation given in two parts through Joseph Smith the Prophet, at Kirtland, Ohio, February 9 and 23, 1831. The first part, consisting of 
-verses†1 through 72, was received in the presence of twelve elders and in fulfillment of the Lordís promise previously made that the ìlawî would be given in Ohio (see 
+verses¬†1 through 72, was received in the presence of twelve elders and in fulfillment of the Lord‚Äôs promise previously made that the ‚Äúlaw‚Äù would be given in Ohio (see 
 section 38:32). The second portion consists of 
-verses†73 through 93. The Prophet specifies this revelation as ìembracing the law of the Church.î 
-1ñ10, The elders are called to preach the gospel, baptize converts, and build up the Church; 
-11ñ12, They must be called and ordained and are to teach the principles of the gospel found in the scriptures; 
-13ñ17, They are to teach and prophesy by the power of the Spirit; 
-18ñ29, The Saints are commanded not to kill, steal, lie, lust, commit adultery, or speak evil against others; 
-30ñ39, Laws governing the consecration of properties are set forth; 
-40ñ42, Pride and idleness are condemned; 
-43ñ52, The sick are to be healed through administrations and by faith; 
-53ñ60, The scriptures govern the Church and are to be proclaimed to the world; 
-61ñ69, The site of the New Jerusalem and the mysteries of the kingdom will be revealed; 
-70ñ73, Consecrated properties are to be used to support Church officers; 
-74ñ93, Laws governing fornication, adultery, killing, stealing, and confession of sins are set forth. 
+verses¬†73 through 93. The Prophet specifies this revelation as ‚Äúembracing the law of the Church.‚Äù 
+1‚Äì10, The elders are called to preach the gospel, baptize converts, and build up the Church; 
+11‚Äì12, They must be called and ordained and are to teach the principles of the gospel found in the scriptures; 
+13‚Äì17, They are to teach and prophesy by the power of the Spirit; 
+18‚Äì29, The Saints are commanded not to kill, steal, lie, lust, commit adultery, or speak evil against others; 
+30‚Äì39, Laws governing the consecration of properties are set forth; 
+40‚Äì42, Pride and idleness are condemned; 
+43‚Äì52, The sick are to be healed through administrations and by faith; 
+53‚Äì60, The scriptures govern the Church and are to be proclaimed to the world; 
+61‚Äì69, The site of the New Jerusalem and the mysteries of the kingdom will be revealed; 
+70‚Äì73, Consecrated properties are to be used to support Church officers; 
+74‚Äì93, Laws governing fornication, adultery, killing, stealing, and confession of sins are set forth. 
 1 Hearken, O ye elders of my church, who have assembled yourselves together in my name, even Jesus Christ the Son of the living God, the Savior of the world; inasmuch as ye believe on my name and keep my commandments.
 2 Again I say unto you, hearken and hear and obey the law which I shall give unto you.
 3 For verily I say, as ye have assembled yourselves together according to the commandment wherewith I commanded you, and are agreed as touching this one thing, and have asked the Father in my name, even so ye shall receive.
@@ -20,7 +20,7 @@ verses†73 through 93. The Prophet specifies this revelation as ìembracing the la
 5 And I give unto them a commandment that they shall go forth for a little season, and it shall be given by the power of the Spirit when they shall return.
 6 And ye shall go forth in the power of my Spirit, preaching my gospel, two by two, in my name, lifting up your voices as with the sound of a trump, declaring my word like unto angels of God.
 7 And ye shall go forth baptizing with water, saying: Repent ye, repent ye, for the kingdom of heaven is at hand.
-8 And from this place ye shall go forth into the regions westward; and inasmuch as ye shall find them that will receive you ye shall build up my church in every regionó
+8 And from this place ye shall go forth into the regions westward; and inasmuch as ye shall find them that will receive you ye shall build up my church in every region‚Äî
 9 Until the time shall come when it shall be revealed unto you from on high, when the city of the New Jerusalem shall be prepared, that ye may be gathered in one, that ye may be my people and I will be your God.
 10 And again, I say unto you, that my servant Edward Partridge shall stand in the office whereunto I have appointed him. And it shall come to pass, that if he transgress another shall be appointed in his stead. Even so. Amen.
 11 Again I say unto you, that it shall not be given to any one to go forth to preach my gospel, or to build up my church, except he be ordained by some one who has authority, and it is known to the church that he has authority and has been regularly ordained by the heads of the church.
@@ -47,9 +47,9 @@ verses†73 through 93. The Prophet specifies this revelation as ìembracing the la
 32 And it shall come to pass, that after they are laid before the bishop of my church, and after that he has received these testimonies concerning the consecration of the properties of my church, that they cannot be taken from the church, agreeable to my commandments, every man shall be made accountable unto me, a steward over his own property, or that which he has received by consecration, as much as is sufficient for himself and family.
 33 And again, if there shall be properties in the hands of the church, or any individuals of it, more than is necessary for their support after this first consecration, which is a residue to be consecrated unto the bishop, it shall be kept to administer to those who have not, from time to time, that every man who has need may be amply supplied and receive according to his wants.
 34 Therefore, the residue shall be kept in my storehouse, to administer to the poor and the needy, as shall be appointed by the high council of the church, and the bishop and his council;
-35 And for the purpose of purchasing lands for the public benefit of the church, and building houses of worship, and building up of the New Jerusalem which is hereafter to be revealedó
+35 And for the purpose of purchasing lands for the public benefit of the church, and building houses of worship, and building up of the New Jerusalem which is hereafter to be revealed‚Äî
 36 That my covenant people may be gathered in one in that day when I shall come to my temple. And this I do for the salvation of my people.
-37 And it shall come to pass, that he that sinneth and repenteth not shall be cast out of the church, and shall not receive again that which he has consecrated unto the poor and the needy of my church, or in other words, unto meó
+37 And it shall come to pass, that he that sinneth and repenteth not shall be cast out of the church, and shall not receive again that which he has consecrated unto the poor and the needy of my church, or in other words, unto me‚Äî
 38 For inasmuch as ye do it unto the least of these, ye do it unto me.
 39 For it shall come to pass, that which I spake by the mouths of my prophets shall be fulfilled; for I will consecrate of the riches of those who embrace my gospel among the Gentiles unto the poor of my people who are of the house of Israel.
 40 And again, thou shalt not be proud in thy heart; let all thy garments be plain, and their beauty the beauty of the work of thine own hands;
@@ -66,14 +66,14 @@ verses†73 through 93. The Prophet specifies this revelation as ìembracing the la
 51 The lame who hath faith to leap shall leap.
 52 And they who have not faith to do these things, but believe in me, have power to become my sons; and inasmuch as they break not my laws thou shalt bear their infirmities.
 53 Thou shalt stand in the place of thy stewardship.
-54 Thou shalt not take thy brotherís garment; thou shalt pay for that which thou shalt receive of thy brother.
+54 Thou shalt not take thy brother‚Äôs garment; thou shalt pay for that which thou shalt receive of thy brother.
 55 And if thou obtainest more than that which would be for thy support, thou shalt give it into my storehouse, that all things may be done according to that which I have said.
 56 Thou shalt ask, and my scriptures shall be given as I have appointed, and they shall be preserved in safety;
 57 And it is expedient that thou shouldst hold thy peace concerning them, and not teach them until ye have received them in full.
 58 And I give unto you a commandment that then ye shall teach them unto all men; for they shall be taught unto all nations, kindreds, tongues and people.
 59 Thou shalt take the things which thou hast received, which have been given unto thee in my scriptures for a law, to be my law to govern my church;
 60 And he that doeth according to these things shall be saved, and he that doeth them not shall be damned if he so continue.
-61 If thou shalt ask, thou shalt receive revelation upon revelation, knowledge upon knowledge, that thou mayest know the mysteries and peaceable thingsóthat which bringeth joy, that which bringeth life eternal.
+61 If thou shalt ask, thou shalt receive revelation upon revelation, knowledge upon knowledge, that thou mayest know the mysteries and peaceable things‚Äîthat which bringeth joy, that which bringeth life eternal.
 62 Thou shalt ask, and it shall be revealed unto you in mine own due time where the New Jerusalem shall be built.
 63 And behold, it shall come to pass that my servants shall be sent forth to the east and to the west, to the north and to the south.
 64 And even now, let him that goeth to the east teach them that shall be converted to flee to the west, and this in consequence of that which is coming on the earth, and of secret combinations.

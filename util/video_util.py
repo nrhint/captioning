@@ -59,7 +59,7 @@ def find_forward(video, verse, from_f, to_f, increment, previous_text, next_text
     temp = previous_text
     for f in range(from_f, to_f, increment):
         new_text = get_text_from_frame(video, f, verse.chapter)
-        max_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
+        #max_time = video.cap.get(cv2.CAP_PROP_POS_MSEC) / 1000
         #print('\t\t--found %s at frame %s and time %s'%(new_text, f, max_time))
         if new_text != temp:
             temp = new_text
