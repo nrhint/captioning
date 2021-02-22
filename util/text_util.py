@@ -56,3 +56,10 @@ def remove_space_delimeter (text, delimiter):
     text = re.sub('[ \\t]{1,}' + delimiter, delimiter, text)
     text = re.sub(delimiter + '[ \\t]{1,}', delimiter, text)
     return text
+
+def get_url_by_verse(text, verse):
+    pattern = verse + '.+'
+    textList = re.findall(pattern, text)
+    if not textList:
+        return ''
+    return textList[0]

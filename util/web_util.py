@@ -1,8 +1,7 @@
 import requests
 from bs4 import BeautifulSoup   
 from util.file_util import write_file
-from util.text_util import find_video_id
-from util.text_util import format_HTML
+from util.text_util import find_video_id, format_HTML, get_url_by_verse, remove_space_delimeter
 
 def read_from_website(book, chapter_number):
 
@@ -20,7 +19,12 @@ def read_from_website(book, chapter_number):
         video_text += '{} '.format(meta)
     
     video_id = find_video_id(video_text)
-    if video_id != '':
+    if video_id == '':
+        # get url from Resources/Video URL/Manual URL.csv
+        # replace_space_delimeter(csv, ',')
+        verse_name = '%s:%s'%(book.video_prefix, chapter_number)
+        # get_url_by_verse(csv, verse_name)
+    else:
         video_url = 'https://mediasrv.churchofjesuschrist.org/media-services/GA/size/%s/1280/720'%(video_id)
 
     verses = ''
