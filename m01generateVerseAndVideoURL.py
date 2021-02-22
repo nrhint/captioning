@@ -25,9 +25,9 @@ for book_csv in book_list:
         video_list += '\n%s,\t%s'%(chapter_number, video_url)
         if video_url == '-- Need Video URL --':
             print('\t(M)', end = '')
-            missing_list += '\t%s:%s'%(book.video_prefix, chapter_number)
+            missing_list += '\t%s %s'%(book.video_prefix, chapter_number)
         else:
-            print('\t%s:%s'%(book.video_prefix, chapter_number), end ='')
+            print('\t%s %s'%(book.video_prefix, chapter_number), end ='')
         if chapter_number % 10 == 0:
             print('')
     
