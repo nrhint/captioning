@@ -30,7 +30,7 @@ for book_csv in book_list:
     for chapter_number in range(1, book.max_chapter + 1):
         
         url = video_list[chapter_number].split(',')[1]
-        file_path = 'Resources/Video/%s/%s'%(book.scripture, book.book_name)
+        file_path = 'resources/video/%s/%s'%(book.scripture, book.book_name)
         file_name = '%s %s'%(book.video_prefix, chapter_number)
         startProcess = time.time()#Use for speed testing
         download_video(url, file_path, file_name, 'mp4')

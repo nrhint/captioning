@@ -15,7 +15,7 @@ while run == True:
         print('\nWhat would you like to do?')
         print('(1) Generate verse files and URL for video')
         print('(2) Generate srt files for D&C')
-        print('(3) Generate srt files for the BOok of Mormon')
+        print('(3) Generate srt files for the Book of Mormon')
         i = input('Enter the number then press enter: ')
         if i == '1':
             state = 'URL'
