@@ -22,7 +22,7 @@ def read_from_website(book, chapter_number):
     if video_id == '':
         # get url from Resources/Video URL/Manual URL.csv
         # replace_space_delimeter(csv, ',')
-        verse_name = '%s:%s'%(book.video_prefix, chapter_number)
+        verse_name = '%s %s'%(book.video_prefix, chapter_number)
         # get_url_by_verse(csv, verse_name)
     else:
         video_url = 'https://mediasrv.churchofjesuschrist.org/media-services/GA/size/%s/1280/720'%(video_id)
