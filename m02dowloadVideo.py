@@ -11,10 +11,11 @@ from util.verse_util import get_verse_from_file
 from util.video_util import get_time_from_video
 
 print('\n-- Start Processing -- ')
+startNumber = input()
 csv = read_file('Resources', 'Book List', 'csv')
 csv = remove_space_delimeter(csv, ',')
 book_list = csv.split('\n') #The urlList file is a set of new line spaced links with the first one being a comment
-book_list.pop(0) #The first line is a comment that says the purpuse of the file # Header
+book_list.pop(0) #The first line is a comment that says the purpure of the file # Header
 
 startProcessTotal = time.time()#Use for speed testing
 for book_csv in book_list:
@@ -27,7 +28,7 @@ for book_csv in book_list:
     
     print('\nDownload Book %s'%(book.video_prefix))
     startProcessBook = time.time()#Use for speed testing
-    for chapter_number in range(1, book.max_chapter + 1):
+    for chapter_number in range(startNumber, book.max_chapter + 1):
         
         url = video_list[chapter_number].split(',')[1]
         file_path = 'resources/video/%s/%s'%(book.scripture, book.book_name)
