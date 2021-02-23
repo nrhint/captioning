@@ -33,13 +33,17 @@ def generate_srt_adv(verses, ccLength = 10):
             continue
             
         duration = int(verse.end_time)-int(verse.start_time)
-        smallDuration = duration/divisions
+        smallDuration = round(duration/divisions, 3)
+        #print('%s\t%s\t%s\t%s\t%s'%(verse.id, verse.start_time, verse.end_time, smallDuration, divisions))
         ##Generate the lines for the file
         for div in range(0, divisions):
             tend = (div+1)*ccLength
             tstart = div*ccLength
-            if div == divisions:
+            new_start_time = verse.start_time + (smallDuration * div)
+            new_end_time = verse.start_time + (smallDuration * (div + 1))
+            if div == divisions - 1:
                 captionText = words[tstart:]
+                new_end_time = verse.end_time
             else:
                 captionText = words[tstart:tend]
             #convert the caption text from a list to a string
@@ -47,7 +51,7 @@ def generate_srt_adv(verses, ccLength = 10):
             for w in captionText:
                 finalCaptionText += str(w)+' '
             text += str(ind)+'\n'
-            text += str(convert_time(verse.start_time+(smallDuration*div)))+' --> '+ str(convert_time(verse.start_time+(smallDuration*(div+1))))+'\n'
+            text += str(convert_time(new_start_time))+' --> '+ str(convert_time(new_end_time))+'\n'
             text += str(finalCaptionText)+'\n'
             text += '\n'
             ind += 1

@@ -11,52 +11,52 @@ the Prophet, on November 1, 1831, during a special conference
 of elders of the Church, held at Hiram, Ohio. Many 
 
 4
-00:00:34,654 --> 00:00:42,369
+00:00:34,654 --> 00:00:42,367
 revelations had been received from the Lord prior to this 
 
 5
-00:00:42,369 --> 00:00:50,083
+00:00:42,367 --> 00:00:50,081
 time, and the compilation of these for publication in book 
 
 6
-00:00:50,083 --> 00:00:57,797
+00:00:50,081 --> 00:00:57,796
 form was one of the principal subjects passed upon at 
 
 7
-00:00:57,797 --> 00:01:05,511
+00:00:57,796 --> 00:01:05,51
 the conference. This section constitutes the Lord’s preface to the 
 
 8
-00:01:05,511 --> 00:01:13,226
+00:01:05,51 --> 00:01:13,224
 doctrines, covenants, and commandments given in this dispensation. 
 1–7, The 
 
 9
-00:01:13,226 --> 00:01:20,94
+00:01:13,224 --> 00:01:20,938
 voice of warning is to all people; 
 8–16, Apostasy and 
 
 10
-00:01:20,94 --> 00:01:28,654
+00:01:20,938 --> 00:01:28,651
 wickedness precede the Second Coming; 
 17–23, Joseph Smith is called 
 
 11
-00:01:28,654 --> 00:01:36,369
+00:01:28,651 --> 00:01:36,365
 to restore to earth the Lord’s truths and powers; 
 24–33, 
 
 12
-00:01:36,369 --> 00:01:44,083
+00:01:36,365 --> 00:01:44,08
 The Book of Mormon is brought forth and the true 
 
 13
-00:01:44,083 --> 00:01:51,797
+00:01:44,08 --> 00:01:51,794
 Church is established; 
 34–36, Peace will be taken from the 
 
 14
-00:01:51,797 --> 00:01:59,511
+00:01:51,794 --> 00:01:59,386
 earth; 
 37–39, Search these commandments.  
 
@@ -77,7 +77,7 @@ are upon all men; yea, verily I say: Hearken ye
 people from afar; and ye that are upon the islands 
 
 19
-00:02:24,986 --> 00:02:31,386
+00:02:24,986 --> 00:02:31,118
 of the sea, listen together. 
 
 20
@@ -93,7 +93,7 @@ all men, and there is none to escape; and there
 is no eye that shall not see, neither ear that 
 
 23
-00:02:52,868 --> 00:03:00,118
+00:02:52,868 --> 00:03:00,864
 shall not hear, neither heart that shall not be penetrated. 
 
 24
@@ -101,11 +101,11 @@ shall not hear, neither heart that shall not be penetrated.
 3 And the rebellious shall be pierced with much sorrow; 
 
 25
-00:03:08,531 --> 00:03:16,197
+00:03:08,531 --> 00:03:16,198
 for their iniquities shall be spoken upon the housetops, and 
 
 26
-00:03:16,197 --> 00:03:23,864
+00:03:16,198 --> 00:03:23,62
 their secret acts shall be revealed. 
 
 27
@@ -117,7 +117,7 @@ their secret acts shall be revealed.
 people, by the mouths of my disciples, whom I have 
 
 29
-00:03:35,62 --> 00:03:41,62
+00:03:35,62 --> 00:03:41,938
 chosen in these last days. 
 
 30
@@ -125,7 +125,7 @@ chosen in these last days.
 5 And they shall go forth and none shall stay 
 
 31
-00:03:50,438 --> 00:03:58,938
+00:03:50,438 --> 00:03:58,305
 them, for I the Lord have commanded them. 
 
 32
@@ -141,7 +141,7 @@ my servants, and my preface unto the book of my
 commandments, which I have given them to publish unto you, 
 
 35
-00:04:24,555 --> 00:04:33,305
+00:04:24,555 --> 00:04:33,306
 O inhabitants of the earth. 
 
 36
@@ -149,7 +149,7 @@ O inhabitants of the earth.
 7 Wherefore, fear and tremble, O ye people, for what 
 
 37
-00:04:42,306 --> 00:04:51,306
+00:04:42,306 --> 00:04:51,341
 I the Lord have decreed in them shall be fulfilled. 
 
 38
@@ -165,7 +165,7 @@ go forth, bearing these tidings unto the inhabitants of the
 earth, to them is power given to seal both on 
 
 41
-00:05:11,591 --> 00:05:18,341
+00:05:11,591 --> 00:05:18,869
 earth and in heaven, the unbelieving and rebellious; 
 
 42
@@ -177,7 +177,7 @@ earth and in heaven, the unbelieving and rebellious;
 when the wrath of God shall be poured out upon 
 
 44
-00:05:28,869 --> 00:05:33,869
+00:05:28,869 --> 00:05:33,4
 the wicked without measure— 
 
 45
@@ -193,7 +193,7 @@ recompense unto every man according to his work, and measure
 to every man according to the measure which he has 
 
 48
-00:05:58,9 --> 00:06:07,4
+00:05:58,9 --> 00:06:07,667
 measured to his fellow man. 
 
 49
@@ -205,7 +205,7 @@ measured to his fellow man.
 ends of the earth, that all that will hear may 
 
 51
-00:06:17,667 --> 00:06:22,667
+00:06:17,667 --> 00:06:22,933
 hear: 
 
 52
@@ -213,7 +213,7 @@ hear:
 12 Prepare ye, prepare ye for that which is to 
 
 53
-00:06:28,433 --> 00:06:33,933
+00:06:28,433 --> 00:06:33,944
 come, for the Lord is nigh; 
 
 54
@@ -225,7 +225,7 @@ come, for the Lord is nigh;
 his sword is bathed in heaven, and it shall fall 
 
 56
-00:06:44,61 --> 00:06:49,944
+00:06:44,61 --> 00:06:49,442
 upon the inhabitants of the earth. 
 
 57
@@ -245,7 +245,7 @@ the voice of the Lord, neither the voice of his
 servants, neither give heed to the words of the prophets 
 
 61
-00:07:19,042 --> 00:07:26,442
+00:07:19,042 --> 00:07:26,713
 and apostles, shall be cut off from among the people; 
 
 62
@@ -253,31 +253,31 @@ and apostles, shall be cut off from among the people;
 15 For they have strayed from mine ordinances, and have 
 
 63
-00:07:32,213 --> 00:07:37,713
+00:07:32,213 --> 00:07:37,257
 broken mine everlasting covenant; 
 
 64
-00:07:37,257 --> 00:07:44,923
+00:07:37,257 --> 00:07:44,924
 16 They seek not the Lord to establish his righteousness, 
 
 65
-00:07:44,923 --> 00:07:52,59
+00:07:44,924 --> 00:07:52,591
 but every man walketh in his own way, and after 
 
 66
-00:07:52,59 --> 00:08:00,257
+00:07:52,591 --> 00:08:00,258
 the image of his own god, whose image is in 
 
 67
-00:08:00,257 --> 00:08:07,923
+00:08:00,258 --> 00:08:07,925
 the likeness of the world, and whose substance is that 
 
 68
-00:08:07,923 --> 00:08:15,59
+00:08:07,925 --> 00:08:15,592
 of an idol, which waxeth old and shall perish in 
 
 69
-00:08:15,59 --> 00:08:23,257
+00:08:15,592 --> 00:08:23,503
 Babylon, even Babylon the great, which shall fall. 
 
 70
@@ -293,7 +293,7 @@ come upon the inhabitants of the earth, called upon my
 servant Joseph Smith, Jun., and spake unto him from heaven, 
 
 73
-00:08:40,753 --> 00:08:46,503
+00:08:40,753 --> 00:08:46,259
 and gave him commandments; 
 
 74
@@ -301,11 +301,11 @@ and gave him commandments;
 18 And also gave commandments to others, that they should 
 
 75
-00:08:54,926 --> 00:09:03,592
+00:08:54,926 --> 00:09:03,593
 proclaim these things unto the world; and all this that 
 
 76
-00:09:03,592 --> 00:09:12,259
+00:09:03,593 --> 00:09:12,552
 it might be fulfilled, which was written by the prophets— 
 
 77
@@ -321,7 +321,7 @@ and break down the mighty and strong ones, that man
 should not counsel his fellow man, neither trust in the 
 
 80
-00:09:37,302 --> 00:09:45,552
+00:09:37,302 --> 00:09:45,151
 arm of flesh— 
 
 81
@@ -329,15 +329,15 @@ arm of flesh—
 20 But that every man might speak in the name 
 
 82
-00:09:52,651 --> 00:10:00,151
+00:09:52,651 --> 00:10:00,667
 of God the Lord, even the Savior of the world; 
 
 83
-00:10:00,667 --> 00:10:07,667
+00:10:00,667 --> 00:10:07,44
 21 That faith also might increase in the earth; 
 
 84
-00:10:07,44 --> 00:10:13,44
+00:10:07,44 --> 00:10:13,496
 22 That mine everlasting covenant might be established; 
 
 85
@@ -349,7 +349,7 @@ of God the Lord, even the Savior of the world;
 by the weak and the simple unto the ends of 
 
 87
-00:10:27,496 --> 00:10:34,496
+00:10:27,496 --> 00:10:34,517
 the world, and before kings and rulers. 
 
 88
@@ -365,7 +365,7 @@ commandments are of me, and were given unto my servants
 in their weakness, after the manner of their language, that 
 
 91
-00:10:51,767 --> 00:10:57,517
+00:10:51,767 --> 00:10:57,507
 they might come to understanding. 
 
 92
@@ -373,7 +373,7 @@ they might come to understanding.
 25 And inasmuch as they erred it might be made 
 
 93
-00:11:00,007 --> 00:11:02,507
+00:11:00,007 --> 00:11:02,428
 known; 
 
 94
@@ -381,7 +381,7 @@ known;
 26 And inasmuch as they sought wisdom they might be 
 
 95
-00:11:05,928 --> 00:11:09,428
+00:11:05,928 --> 00:11:09,269
 instructed; 
 
 96
@@ -389,19 +389,19 @@ instructed;
 27 And inasmuch as they sinned they might be chastened, 
 
 97
-00:11:12,769 --> 00:11:16,269
+00:11:12,769 --> 00:11:16,276
 that they might repent; 
 
 98
-00:11:16,276 --> 00:11:20,942
+00:11:16,276 --> 00:11:20,943
 28 And inasmuch as they were humble they might be 
 
 99
-00:11:20,942 --> 00:11:25,609
+00:11:20,943 --> 00:11:25,61
 made strong, and blessed from on high, and receive knowledge 
 
 100
-00:11:25,609 --> 00:11:30,276
+00:11:25,61 --> 00:11:30,073
 from time to time. 
 
 101
@@ -417,7 +417,7 @@ yea, even my servant Joseph Smith, Jun., might have power
 to translate through the mercy of God, by the power 
 
 104
-00:11:45,073 --> 00:11:50,073
+00:11:45,073 --> 00:11:50,076
 of God, the Book of Mormon. 
 
 105
@@ -425,27 +425,27 @@ of God, the Book of Mormon.
 30 And also those to whom these commandments were given, 
 
 106
-00:11:56,362 --> 00:12:02,647
+00:11:56,362 --> 00:12:02,648
 might have power to lay the foundation of this church, 
 
 107
-00:12:02,647 --> 00:12:08,933
+00:12:02,648 --> 00:12:08,934
 and to bring it forth out of obscurity and out 
 
 108
-00:12:08,933 --> 00:12:15,219
+00:12:08,934 --> 00:12:15,22
 of darkness, the only true and living church upon the 
 
 109
-00:12:15,219 --> 00:12:21,505
+00:12:15,22 --> 00:12:21,506
 face of the whole earth, with which I, the Lord, 
 
 110
-00:12:21,505 --> 00:12:27,79
+00:12:21,506 --> 00:12:27,792
 am well pleased, speaking unto the church collectively and not 
 
 111
-00:12:27,79 --> 00:12:34,076
+00:12:27,792 --> 00:12:34,837
 individually— 
 
 112
@@ -453,7 +453,7 @@ individually—
 31 For I the Lord cannot look upon sin with 
 
 113
-00:12:38,837 --> 00:12:42,837
+00:12:38,837 --> 00:12:42,345
 the least degree of allowance; 
 
 114
@@ -461,7 +461,7 @@ the least degree of allowance;
 32 Nevertheless, he that repents and does the commandments of 
 
 115
-00:12:47,345 --> 00:12:52,345
+00:12:47,345 --> 00:12:52,872
 the Lord shall be forgiven; 
 
 116
@@ -477,7 +477,7 @@ taken even the light which he has received; for my
 Spirit shall not always strive with man, saith the Lord 
 
 119
-00:13:09,372 --> 00:13:14,872
+00:13:09,372 --> 00:13:14,377
 of Hosts. 
 
 120
@@ -485,11 +485,11 @@ of Hosts.
 34 And again, verily I say unto you, O inhabitants 
 
 121
-00:13:19,71 --> 00:13:25,044
+00:13:19,71 --> 00:13:25,043
 of the earth: I the Lord am willing to make 
 
 122
-00:13:25,044 --> 00:13:30,377
+00:13:25,043 --> 00:13:30,71
 these things known unto all flesh; 
 
 123
@@ -509,7 +509,7 @@ the hour is not yet, but is nigh at hand,
 when peace shall be taken from the earth, and the 
 
 127
-00:13:52,31 --> 00:13:57,71
+00:13:52,31 --> 00:13:57,704
 devil shall have power over his own dominion. 
 
 128
@@ -521,7 +521,7 @@ devil shall have power over his own dominion.
 saints, and shall reign in their midst, and shall come 
 
 130
-00:14:11,704 --> 00:14:18,704
+00:14:11,704 --> 00:14:18,007
 down in judgment upon Idumea, or the world. 
 
 131
@@ -533,7 +533,7 @@ down in judgment upon Idumea, or the world.
 and the prophecies and promises which are in them shall 
 
 133
-00:14:32,007 --> 00:14:39,007
+00:14:32,007 --> 00:14:39,512
 all be fulfilled. 
 
 134
@@ -541,23 +541,23 @@ all be fulfilled.
 38 What I the Lord have spoken, I have spoken, 
 
 135
-00:14:45,179 --> 00:14:50,845
+00:14:45,179 --> 00:14:50,846
 and I excuse not myself; and though the heavens and 
 
 136
-00:14:50,845 --> 00:14:56,512
+00:14:50,846 --> 00:14:56,513
 the earth pass away, my word shall not pass away, 
 
 137
-00:14:56,512 --> 00:15:02,179
+00:14:56,513 --> 00:15:02,18
 but shall all be fulfilled, whether by mine own voice 
 
 138
-00:15:02,179 --> 00:15:07,845
+00:15:02,18 --> 00:15:07,847
 or by the voice of my servants, it is the 
 
 139
-00:15:07,845 --> 00:15:13,512
+00:15:07,847 --> 00:15:13,012
 same. 
 
 140
@@ -565,10 +565,10 @@ same.
 39 For behold, and lo, the Lord is God, and 
 
 141
-00:15:15,679 --> 00:15:18,345
+00:15:15,679 --> 00:15:18,346
 the Spirit beareth record, and the record is true, and 
 
 142
-00:15:18,345 --> 00:15:21,012
+00:15:18,346 --> 00:15:21,003
 the truth abideth forever and ever. Amen.  
 

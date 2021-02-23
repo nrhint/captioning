@@ -42,7 +42,7 @@ for book_csv in book_list:
             file_path = 'Resources/Video/%s/%s'%(book.scripture, book.book_name)
             file_name = '%s %s'%(book.video_prefix, chapter_number)
             #download_video(url, file_path, file_name, 'mp4')
-            if i == 3c:
+            if i == 3:
                 print('\t\t%s %s'%(book.video_prefix, chapter_number))
                 print('\t\t(1) Read the Verse')
                 print('\t\t(2) Skip the Verse')

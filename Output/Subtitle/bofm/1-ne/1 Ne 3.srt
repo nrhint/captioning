@@ -15,7 +15,7 @@ and encourages his brethren—Laban steals their property and attempts to
 slay them—Laman and Lemuel smite Nephi and Sam and are 
 
 5
-00:00:50,89 --> 00:00:57,69
+00:00:50,89 --> 00:00:57,19
 reproved by an angel. About 600–592 B.C.  
 
 6
@@ -27,7 +27,7 @@ reproved by an angel. About 600–592 B.C.
 from speaking with the Lord, to the tent of my 
 
 8
-00:02:00,524 --> 00:02:32,19
+00:02:00,524 --> 00:02:32,886
 father. 
 
 9
@@ -43,7 +43,7 @@ me, saying: Behold I have dreamed a dream, in the
 which the Lord hath commanded me that thou and thy 
 
 12
-00:02:50,886 --> 00:02:56,886
+00:02:50,886 --> 00:02:56,81
 brethren shall return to Jerusalem. 
 
 13
@@ -51,11 +51,11 @@ brethren shall return to Jerusalem.
 3 For behold, Laban hath the record of the Jews 
 
 14
-00:03:15,477 --> 00:03:34,143
+00:03:15,477 --> 00:03:34,144
 and also a genealogy of my forefathers, and they are 
 
 15
-00:03:34,143 --> 00:03:52,81
+00:03:34,144 --> 00:03:52,632
 engraven upon plates of brass. 
 
 16
@@ -71,7 +71,7 @@ thy brothers should go unto the house of Laban, and
 seek the records, and bring them down hither into the 
 
 19
-00:04:04,632 --> 00:04:08,632
+00:04:04,632 --> 00:04:08,582
 wilderness. 
 
 20
@@ -87,7 +87,7 @@ a hard thing which I have required of them; but
 behold I have not required it of them, but it 
 
 23
-00:04:14,582 --> 00:04:16,582
+00:04:14,582 --> 00:04:16,556
 is a commandment of the Lord. 
 
 24
@@ -95,7 +95,7 @@ is a commandment of the Lord.
 6 Therefore go, my son, and thou shalt be favored 
 
 25
-00:04:20,556 --> 00:04:24,556
+00:04:20,556 --> 00:04:24,531
 of the Lord, because thou hast not murmured. 
 
 26
@@ -103,35 +103,35 @@ of the Lord, because thou hast not murmured.
 7 And it came to pass that I, Nephi, said 
 
 27
-00:04:25,864 --> 00:04:27,198
+00:04:25,864 --> 00:04:27,197
 unto my father: I will go and do the things 
 
 28
-00:04:27,198 --> 00:04:28,531
+00:04:27,197 --> 00:04:28,53
 which the Lord hath commanded, for I know that the 
 
 29
-00:04:28,531 --> 00:04:29,864
+00:04:28,53 --> 00:04:29,863
 Lord giveth no commandments unto the children of men, save 
 
 30
-00:04:29,864 --> 00:04:31,198
+00:04:29,863 --> 00:04:31,196
 he shall prepare a way for them that they may 
 
 31
-00:04:31,198 --> 00:04:32,531
+00:04:31,196 --> 00:04:32,506
 accomplish the thing which he commandeth them. 
 
 32
-00:04:32,506 --> 00:04:35,172
+00:04:32,506 --> 00:04:35,173
 8 And it came to pass that when my father 
 
 33
-00:04:35,172 --> 00:04:37,839
+00:04:35,173 --> 00:04:37,84
 had heard these words he was exceedingly glad, for he 
 
 34
-00:04:37,839 --> 00:04:40,506
+00:04:37,84 --> 00:04:40,48
 knew that I had been blessed of the Lord. 
 
 35
@@ -143,7 +143,7 @@ knew that I had been blessed of the Lord.
 in the wilderness, with our tents, to go up to 
 
 37
-00:04:45,814 --> 00:04:48,48
+00:04:45,814 --> 00:04:48,455
 the land of Jerusalem. 
 
 38
@@ -151,11 +151,11 @@ the land of Jerusalem.
 10 And it came to pass that when we had 
 
 39
-00:04:51,122 --> 00:04:53,788
+00:04:51,122 --> 00:04:53,789
 gone up to the land of Jerusalem, I and my 
 
 40
-00:04:53,788 --> 00:04:56,455
+00:04:53,789 --> 00:04:56,429
 brethren did consult one with another. 
 
 41
@@ -175,7 +175,7 @@ that the lot fell upon Laman; and Laman went in
 unto the house of Laban, and he talked with him 
 
 45
-00:04:56,429 --> 00:04:56,429
+00:04:56,429 --> 00:04:56,83
 as he sat in his house. 
 
 46
@@ -187,7 +187,7 @@ as he sat in his house.
 engraven upon the plates of brass, which contained the genealogy 
 
 48
-00:04:58,83 --> 00:04:59,83
+00:04:58,83 --> 00:04:59,666
 of my father. 
 
 49
@@ -207,7 +207,7 @@ would not that he should have the records. Wherefore, he
 said unto him: Behold thou art a robber, and I 
 
 53
-00:05:06,066 --> 00:05:07,666
+00:05:06,066 --> 00:05:07,641
 will slay thee. 
 
 54
@@ -223,7 +223,7 @@ the things which Laban had done, unto us. And we
 began to be exceedingly sorrowful, and my brethren were about 
 
 57
-00:05:19,641 --> 00:05:23,641
+00:05:19,641 --> 00:05:23,59
 to return unto my father in the wilderness. 
 
 58
@@ -239,7 +239,7 @@ Lord liveth, and as we live, we will not go
 down unto our father in the wilderness until we have 
 
 61
-00:06:05,59 --> 00:06:19,59
+00:06:05,59 --> 00:06:19,779
 accomplished the thing which the Lord hath commanded us. 
 
 62
@@ -259,7 +259,7 @@ land of our father’s inheritance, for behold he left gold
 and silver, and all manner of riches. And all this 
 
 66
-00:06:50,179 --> 00:06:57,779
+00:06:50,179 --> 00:06:57,517
 he hath done because of the commandments of the Lord. 
 
 67
@@ -267,7 +267,7 @@ he hath done because of the commandments of the Lord.
 17 For he knew that Jerusalem must be destroyed, because 
 
 68
-00:07:03,017 --> 00:07:08,517
+00:07:03,017 --> 00:07:08,528
 of the wickedness of the people. 
 
 69
@@ -287,7 +287,7 @@ after he hath been commanded to flee out of the
 land, behold, he would also perish. Wherefore, it must needs 
 
 73
-00:07:14,928 --> 00:07:16,528
+00:07:14,928 --> 00:07:16,503
 be that he flee out of the land. 
 
 74
@@ -299,7 +299,7 @@ be that he flee out of the land.
 should obtain these records, that we may preserve unto our 
 
 76
-00:07:46,503 --> 00:08:01,503
+00:07:46,503 --> 00:08:01,381
 children the language of our fathers; 
 
 77
@@ -319,7 +319,7 @@ the holy prophets, which have been delivered unto them by
 the Spirit and power of God, since the world began, 
 
 81
-00:08:27,781 --> 00:08:34,381
+00:08:27,781 --> 00:08:34,881
 even down unto this present time. 
 
 82
@@ -327,11 +327,11 @@ even down unto this present time.
 21 And it came to pass that after this manner 
 
 83
-00:08:42,548 --> 00:08:50,214
+00:08:42,548 --> 00:08:50,215
 of language did I persuade my brethren, that they might 
 
 84
-00:08:50,214 --> 00:08:57,881
+00:08:50,215 --> 00:08:57,137
 be faithful in keeping the commandments of God. 
 
 85
@@ -343,7 +343,7 @@ be faithful in keeping the commandments of God.
 to the land of our inheritance, and we did gather 
 
 87
-00:09:09,803 --> 00:09:16,137
+00:09:09,803 --> 00:09:16,456
 together our gold, and our silver, and our precious things. 
 
 88
@@ -351,7 +351,7 @@ together our gold, and our silver, and our precious things.
 23 And after we had gathered these things together, we 
 
 89
-00:09:21,956 --> 00:09:27,456
+00:09:21,956 --> 00:09:27,967
 went up again unto the house of Laban. 
 
 90
@@ -371,7 +371,7 @@ us the records which were engraven upon the plates of
 brass, for which we would give unto him our gold, 
 
 94
-00:09:47,967 --> 00:09:52,967
+00:09:47,967 --> 00:09:52,659
 and our silver, and all our precious things. 
 
 95
@@ -391,7 +391,7 @@ lust after it, insomuch that he thrust us out, and
 sent his servants to slay us, that he might obtain 
 
 99
-00:10:17,459 --> 00:10:23,659
+00:10:17,459 --> 00:10:23,623
 our property. 
 
 100
@@ -407,7 +407,7 @@ before the servants of Laban, and we were obliged to
 leave behind our property, and it fell into the hands 
 
 103
-00:10:37,123 --> 00:10:41,623
+00:10:37,123 --> 00:10:41,374
 of Laban. 
 
 104
@@ -423,7 +423,7 @@ the wilderness, and the servants of Laban did not overtake
 us, and we hid ourselves in the cavity of a 
 
 107
-00:10:56,374 --> 00:11:01,374
+00:10:56,374 --> 00:11:01,227
 rock. 
 
 108
@@ -447,7 +447,7 @@ Laman and Lemuel did speak many hard words unto us,
 their younger brothers, and they did smite us even with 
 
 113
-00:11:36,227 --> 00:11:43,227
+00:11:36,227 --> 00:11:43,469
 a rod. 
 
 114
@@ -479,7 +479,7 @@ be a ruler over you, and this because of your
 iniquities? Behold ye shall go up to Jerusalem again, and 
 
 121
-00:12:31,594 --> 00:12:38,469
+00:12:31,594 --> 00:12:38,358
 the Lord will deliver Laban into your hands. 
 
 122
@@ -487,7 +487,7 @@ the Lord will deliver Laban into your hands.
 30 And after the angel had spoken unto us, he 
 
 123
-00:12:41,858 --> 00:12:45,358
+00:12:41,858 --> 00:12:45,365
 departed. 
 
 124
@@ -507,6 +507,6 @@ the Lord will deliver Laban into our hands? Behold, he
 is a mighty man, and he can command fifty, yea, 
 
 128
-00:13:01,365 --> 00:13:05,365
+00:13:01,365 --> 00:13:05,084
 even he can slay fifty; then why not us?  
 

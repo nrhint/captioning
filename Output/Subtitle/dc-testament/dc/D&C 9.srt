@@ -1,67 +1,67 @@
 1
-00:00:21,271 --> 00:00:27,843
+00:00:21,271 --> 00:00:27,842
 Section 9 Revelation given through Joseph Smith the Prophet to 
 
 2
-00:00:27,843 --> 00:00:34,414
+00:00:27,842 --> 00:00:34,413
 Oliver Cowdery, at Harmony, Pennsylvania, April 1829. Oliver is admonished 
 
 3
-00:00:34,414 --> 00:00:40,986
+00:00:34,413 --> 00:00:40,984
 to be patient and is urged to be content to 
 
 4
-00:00:40,986 --> 00:00:47,557
+00:00:40,984 --> 00:00:47,555
 write, for the time being, at the dictation of the 
 
 5
-00:00:47,557 --> 00:00:54,128
+00:00:47,555 --> 00:00:54,126
 translator, rather than to attempt to translate. 
 1–6, Other ancient 
 
 6
-00:00:54,128 --> 00:01:00,7
+00:00:54,126 --> 00:01:00,697
 records are yet to be translated; 
 7–14, The Book of 
 
 7
-00:01:00,7 --> 00:01:07,271
+00:01:00,697 --> 00:01:07,451
 Mormon is translated by study and by spiritual confirmation.  
 
 8
-00:01:07,451 --> 00:01:13,617
+00:01:07,451 --> 00:01:13,618
 1 Behold, I say unto you, my son, that because 
 
 9
-00:01:13,617 --> 00:01:19,784
+00:01:13,618 --> 00:01:19,785
 you did not translate according to that which you desired 
 
 10
-00:01:19,784 --> 00:01:25,951
+00:01:19,785 --> 00:01:25,952
 of me, and did commence again to write for my 
 
 11
-00:01:25,951 --> 00:01:32,117
+00:01:25,952 --> 00:01:32,119
 servant, Joseph Smith, Jun., even so I would that ye 
 
 12
-00:01:32,117 --> 00:01:38,284
+00:01:32,119 --> 00:01:38,286
 should continue until you have finished this record, which I 
 
 13
-00:01:38,284 --> 00:01:44,451
+00:01:38,286 --> 00:01:44,488
 have entrusted unto him. 
 
 14
-00:01:44,488 --> 00:01:49,154
+00:01:44,488 --> 00:01:49,155
 2 And then, behold, other records have I, that I 
 
 15
-00:01:49,154 --> 00:01:53,821
+00:01:49,155 --> 00:01:53,822
 will give unto you power that you may assist to 
 
 16
-00:01:53,821 --> 00:01:58,488
+00:01:53,822 --> 00:01:58,035
 translate. 
 
 17
@@ -73,7 +73,7 @@ translate.
 me, and it is not expedient that you should translate 
 
 19
-00:02:06,701 --> 00:02:11,035
+00:02:06,701 --> 00:02:11,548
 at this present time. 
 
 20
@@ -81,7 +81,7 @@ at this present time.
 4 Behold, the work which you are called to do 
 
 21
-00:02:15,548 --> 00:02:19,548
+00:02:15,548 --> 00:02:19,606
 is to write for my servant Joseph. 
 
 22
@@ -89,11 +89,11 @@ is to write for my servant Joseph.
 5 And, behold, it is because that you did not 
 
 23
-00:02:24,273 --> 00:02:28,939
+00:02:24,273 --> 00:02:28,94
 continue as you commenced, when you began to translate, that 
 
 24
-00:02:28,939 --> 00:02:33,606
+00:02:28,94 --> 00:02:33,687
 I have taken away this privilege from you. 
 
 25
@@ -105,7 +105,7 @@ I have taken away this privilege from you.
 in me that I have dealt with you after this 
 
 27
-00:02:43,687 --> 00:02:48,687
+00:02:43,687 --> 00:02:48,485
 manner. 
 
 28
@@ -113,11 +113,11 @@ manner.
 7 Behold, you have not understood; you have supposed that 
 
 29
-00:02:53,152 --> 00:02:57,818
+00:02:53,152 --> 00:02:57,819
 I would give it unto you, when you took no 
 
 30
-00:02:57,818 --> 00:03:02,485
+00:02:57,819 --> 00:03:02,482
 thought save it was to ask me. 
 
 31
@@ -137,7 +137,7 @@ me if it be right, and if it is right
 I will cause that your bosom shall burn within you; 
 
 35
-00:03:28,882 --> 00:03:35,482
+00:03:28,882 --> 00:03:35,816
 therefore, you shall feel that it is right. 
 
 36
@@ -157,7 +157,7 @@ thought that shall cause you to forget the thing which
 is wrong; therefore, you cannot write that which is sacred 
 
 40
-00:03:59,816 --> 00:04:05,816
+00:03:59,816 --> 00:04:05,562
 save it be given you from me. 
 
 41
@@ -165,11 +165,11 @@ save it be given you from me.
 10 Now, if you had known this you could have 
 
 42
-00:04:09,895 --> 00:04:14,229
+00:04:09,895 --> 00:04:14,228
 translated; nevertheless, it is not expedient that you should translate 
 
 43
-00:04:14,229 --> 00:04:18,562
+00:04:14,228 --> 00:04:18,842
 now. 
 
 44
@@ -177,11 +177,11 @@ now.
 11 Behold, it was expedient when you commenced; but you 
 
 45
-00:04:24,509 --> 00:04:30,175
+00:04:24,509 --> 00:04:30,176
 feared, and the time is past, and it is not 
 
 46
-00:04:30,175 --> 00:04:35,842
+00:04:30,176 --> 00:04:35,625
 expedient now; 
 
 47
@@ -193,7 +193,7 @@ expedient now;
 unto my servant Joseph sufficient strength, whereby it is made 
 
 49
-00:04:51,625 --> 00:04:59,625
+00:04:51,625 --> 00:04:59,599
 up? And neither of you have I condemned. 
 
 50
@@ -201,7 +201,7 @@ up? And neither of you have I condemned.
 13 Do this thing which I have commanded you, and 
 
 51
-00:05:08,099 --> 00:05:16,599
+00:05:08,099 --> 00:05:16,883
 you shall prosper. Be faithful, and yield to no temptation. 
 
 52
@@ -217,6 +217,6 @@ you, and a hair of your head shall not be
 lost, and you shall be lifted up at the last 
 
 55
-00:05:32,633 --> 00:05:37,883
+00:05:32,633 --> 00:05:37,654
 day. Amen.  
 

@@ -3,11 +3,11 @@
 Chapter 4 Nephi slays Laban at the Lord’s command and 
 
 2
-00:00:37,074 --> 00:01:06,408
+00:00:37,074 --> 00:01:06,407
 then secures the plates of brass by stratagem—Zoram chooses to 
 
 3
-00:01:06,408 --> 00:01:35,741
+00:01:06,407 --> 00:01:35,696
 join Lehi’s family in the wilderness. About 600–592 B.C.  
 
 4
@@ -19,19 +19,19 @@ join Lehi’s family in the wilderness. About 600–592 B.C.
 my brethren, saying: Let us go up again unto Jerusalem, 
 
 6
-00:01:36,362 --> 00:01:36,696
+00:01:36,362 --> 00:01:36,695
 and let us be faithful in keeping the commandments of 
 
 7
-00:01:36,696 --> 00:01:37,029
+00:01:36,695 --> 00:01:37,028
 the Lord; for behold he is mightier than all the 
 
 8
-00:01:37,029 --> 00:01:37,362
+00:01:37,028 --> 00:01:37,361
 earth, then why not mightier than Laban and his fifty, 
 
 9
-00:01:37,362 --> 00:01:37,696
+00:01:37,361 --> 00:01:37,197
 yea, or even than his tens of thousands? 
 
 10
@@ -39,23 +39,23 @@ yea, or even than his tens of thousands?
 2 Therefore let us go up; let us be strong 
 
 11
-00:01:43,364 --> 00:01:49,53
+00:01:43,364 --> 00:01:49,531
 like unto Moses; for he truly spake unto the waters 
 
 12
-00:01:49,53 --> 00:01:55,697
+00:01:49,531 --> 00:01:55,698
 of the Red Sea and they divided hither and thither, 
 
 13
-00:01:55,697 --> 00:02:01,864
+00:01:55,698 --> 00:02:01,865
 and our fathers came through, out of captivity, on dry 
 
 14
-00:02:01,864 --> 00:02:08,03
+00:02:01,865 --> 00:02:08,032
 ground, and the armies of Pharaoh did follow and were 
 
 15
-00:02:08,03 --> 00:02:14,197
+00:02:08,032 --> 00:02:14,501
 drowned in the waters of the Red Sea. 
 
 16
@@ -75,7 +75,7 @@ wherefore can ye doubt? Let us go up; the Lord
 is able to deliver us, even as our fathers, and 
 
 20
-00:02:51,301 --> 00:03:00,501
+00:02:51,301 --> 00:03:00,48
 to destroy Laban, even as the Egyptians. 
 
 21
@@ -91,7 +91,7 @@ yet wroth, and did still continue to murmur; nevertheless they
 did follow me up until we came without the walls 
 
 24
-00:03:29,73 --> 00:03:39,48
+00:03:29,73 --> 00:03:39,753
 of Jerusalem. 
 
 25
@@ -107,7 +107,7 @@ they should hide themselves without the walls. And after they
 had hid themselves, I, Nephi, crept into the city and 
 
 28
-00:04:51,753 --> 00:05:15,753
+00:04:51,753 --> 00:05:15,448
 went forth towards the house of Laban. 
 
 29
@@ -115,7 +115,7 @@ went forth towards the house of Laban.
 6 And I was led by the Spirit, not knowing 
 
 30
-00:05:23,448 --> 00:05:31,448
+00:05:23,448 --> 00:05:31,398
 beforehand the things which I should do. 
 
 31
@@ -131,7 +131,7 @@ unto the house of Laban I beheld a man, and
 he had fallen to the earth before me, for he 
 
 34
-00:05:43,398 --> 00:05:47,398
+00:05:43,398 --> 00:05:47,347
 was drunken with wine. 
 
 35
@@ -139,7 +139,7 @@ was drunken with wine.
 8 And when I came to him I found that 
 
 36
-00:05:51,347 --> 00:05:55,347
+00:05:51,347 --> 00:05:55,322
 it was Laban. 
 
 37
@@ -159,7 +159,7 @@ of pure gold, and the workmanship thereof was exceedingly fine,
 and I saw that the blade thereof was of the 
 
 41
-00:06:08,122 --> 00:06:11,322
+00:06:08,122 --> 00:06:11,271
 most precious steel. 
 
 42
@@ -179,31 +179,31 @@ said in my heart: Never at any time have I
 shed the blood of man. And I shrunk and would 
 
 46
-00:06:36,871 --> 00:06:43,271
+00:06:36,871 --> 00:06:43,169
 that I might not slay him. 
 
 47
-00:06:43,169 --> 00:06:44,503
+00:06:43,169 --> 00:06:44,502
 11 And the Spirit said unto me again: Behold the 
 
 48
-00:06:44,503 --> 00:06:45,836
+00:06:44,502 --> 00:06:45,835
 Lord hath delivered him into thy hands. Yea, and I 
 
 49
-00:06:45,836 --> 00:06:47,169
+00:06:45,835 --> 00:06:47,168
 also knew that he had sought to take away mine 
 
 50
-00:06:47,169 --> 00:06:48,503
+00:06:47,168 --> 00:06:48,501
 own life; yea, and he would not hearken unto the 
 
 51
-00:06:48,503 --> 00:06:49,836
+00:06:48,501 --> 00:06:49,834
 commandments of the Lord; and he also had taken away 
 
 52
-00:06:49,836 --> 00:06:51,169
+00:06:49,834 --> 00:06:51,144
 our property. 
 
 53
@@ -211,11 +211,11 @@ our property.
 12 And it came to pass that the Spirit said 
 
 54
-00:06:56,477 --> 00:07:01,811
+00:06:56,477 --> 00:07:01,81
 unto me again: Slay him, for the Lord hath delivered 
 
 55
-00:07:01,811 --> 00:07:07,144
+00:07:01,81 --> 00:07:07,093
 him into thy hands; 
 
 56
@@ -231,7 +231,7 @@ his righteous purposes. It is better that one man should
 perish than that a nation should dwindle and perish in 
 
 59
-00:07:07,093 --> 00:07:07,093
+00:07:07,093 --> 00:07:07,827
 unbelief. 
 
 60
@@ -251,7 +251,7 @@ unto me in the wilderness, saying that: Inasmuch as thy
 seed shall keep my commandments, they shall prosper in the 
 
 64
-00:07:14,227 --> 00:07:15,827
+00:07:14,227 --> 00:07:15,802
 land of promise. 
 
 65
@@ -259,11 +259,11 @@ land of promise.
 15 Yea, and I also thought that they could not 
 
 66
-00:07:24,469 --> 00:07:33,135
+00:07:24,469 --> 00:07:33,136
 keep the commandments of the Lord according to the law 
 
 67
-00:07:33,135 --> 00:07:41,802
+00:07:33,136 --> 00:07:41,861
 of Moses, save they should have the law. 
 
 68
@@ -271,7 +271,7 @@ of Moses, save they should have the law.
 16 And I also knew that the law was engraven 
 
 69
-00:07:47,361 --> 00:07:52,861
+00:07:47,361 --> 00:07:52,939
 upon the plates of brass. 
 
 70
@@ -279,11 +279,11 @@ upon the plates of brass.
 17 And again, I knew that the Lord had delivered 
 
 71
-00:07:55,606 --> 00:07:58,272
+00:07:55,606 --> 00:07:58,273
 Laban into my hands for this cause—that I might obtain 
 
 72
-00:07:58,272 --> 00:08:00,939
+00:07:58,273 --> 00:08:00,914
 the records according to his commandments. 
 
 73
@@ -295,7 +295,7 @@ the records according to his commandments.
 and took Laban by the hair of the head, and 
 
 75
-00:08:19,58 --> 00:08:28,914
+00:08:19,58 --> 00:08:28,141
 I smote off his head with his own sword. 
 
 76
@@ -311,7 +311,7 @@ his own sword, I took the garments of Laban and
 put them upon mine own body; yea, even every whit; 
 
 79
-00:08:52,141 --> 00:09:00,141
+00:08:52,141 --> 00:09:00,039
 and I did gird on his armor about my loins. 
 
 80
@@ -335,7 +335,7 @@ of Laban who had the keys of the treasury. And
 I commanded him in the voice of Laban, that he 
 
 85
-00:10:12,539 --> 00:10:27,039
+00:10:12,539 --> 00:10:27,76
 should go with me into the treasury. 
 
 86
@@ -347,7 +347,7 @@ should go with me into the treasury.
 for he beheld the garments and also the sword girded 
 
 88
-00:10:33,094 --> 00:10:35,76
+00:10:33,094 --> 00:10:35,735
 about my loins. 
 
 89
@@ -355,11 +355,11 @@ about my loins.
 22 And he spake unto me concerning the elders of 
 
 90
-00:10:38,402 --> 00:10:41,068
+00:10:38,402 --> 00:10:41,069
 the Jews, he knowing that his master, Laban, had been 
 
 91
-00:10:41,068 --> 00:10:43,735
+00:10:41,069 --> 00:10:43,71
 out by night among them. 
 
 92
@@ -367,19 +367,19 @@ out by night among them.
 23 And I spake unto him as if it had 
 
 93
-00:10:47,71 --> 00:10:51,71
+00:10:47,71 --> 00:10:51,684
 been Laban. 
 
 94
-00:10:51,684 --> 00:10:57,018
+00:10:51,684 --> 00:10:57,017
 24 And I also spake unto him that I should 
 
 95
-00:10:57,018 --> 00:11:02,351
+00:10:57,017 --> 00:11:02,35
 carry the engravings, which were upon the plates of brass, 
 
 96
-00:11:02,351 --> 00:11:07,684
+00:11:02,35 --> 00:11:07,634
 to my elder brethren, who were without the walls. 
 
 97
@@ -387,31 +387,31 @@ to my elder brethren, who were without the walls.
 25 And I also bade him that he should follow 
 
 98
-00:11:11,634 --> 00:11:15,634
+00:11:11,634 --> 00:11:15,608
 me. 
 
 99
-00:11:15,608 --> 00:11:15,942
+00:11:15,608 --> 00:11:15,941
 26 And he, supposing that I spake of the brethren 
 
 100
-00:11:15,942 --> 00:11:16,275
+00:11:15,941 --> 00:11:16,274
 of the church, and that I was truly that Laban 
 
 101
-00:11:16,275 --> 00:11:16,608
+00:11:16,274 --> 00:11:16,075
 whom I had slain, wherefore he did follow me. 
 
 102
-00:11:16,075 --> 00:11:18,409
+00:11:16,075 --> 00:11:18,408
 27 And he spake unto me many times concerning the 
 
 103
-00:11:18,409 --> 00:11:20,742
+00:11:18,408 --> 00:11:20,741
 elders of the Jews, as I went forth unto my 
 
 104
-00:11:20,742 --> 00:11:23,075
+00:11:20,741 --> 00:11:23,116
 brethren, who were without the walls. 
 
 105
@@ -431,19 +431,19 @@ And they fled from before my presence; for they supposed
 it was Laban, and that he had slain me and 
 
 109
-00:12:19,916 --> 00:12:34,116
+00:12:19,916 --> 00:12:34,887
 had sought to take away their lives also. 
 
 110
-00:12:34,887 --> 00:12:48,221
+00:12:34,887 --> 00:12:48,22
 29 And it came to pass that I called after 
 
 111
-00:12:48,221 --> 00:13:01,554
+00:12:48,22 --> 00:13:01,553
 them, and they did hear me; wherefore they did cease 
 
 112
-00:13:01,554 --> 00:13:14,887
+00:13:01,553 --> 00:13:14,761
 to flee from my presence. 
 
 113
@@ -459,7 +459,7 @@ of Laban beheld my brethren he began to tremble, and
 was about to flee from before me and return to 
 
 116
-00:13:44,761 --> 00:13:54,761
+00:13:44,761 --> 00:13:54,634
 the city of Jerusalem. 
 
 117
@@ -475,7 +475,7 @@ stature, and also having received much strength of the Lord,
 therefore I did seize upon the servant of Laban, and 
 
 120
-00:14:06,634 --> 00:14:10,634
+00:14:06,634 --> 00:14:10,583
 held him, that he should not flee. 
 
 121
@@ -495,7 +495,7 @@ the Lord liveth, and as I live, even so that
 if he would hearken unto our words, we would spare 
 
 125
-00:14:23,383 --> 00:14:26,583
+00:14:23,383 --> 00:14:26,532
 his life. 
 
 126
@@ -511,7 +511,7 @@ that he need not fear; that he should be a
 free man like unto us if he would go down 
 
 129
-00:14:32,532 --> 00:14:34,532
+00:14:32,532 --> 00:14:34,507
 in the wilderness with us. 
 
 130
@@ -531,31 +531,31 @@ we not be diligent in keeping the commandments of the
 Lord? Therefore, if thou wilt go down into the wilderness 
 
 134
-00:14:35,307 --> 00:14:35,507
+00:14:35,307 --> 00:14:35,174
 to my father thou shalt have place with us. 
 
 135
-00:14:35,174 --> 00:14:39,008
+00:14:35,174 --> 00:14:39,007
 35 And it came to pass that Zoram did take 
 
 136
-00:14:39,008 --> 00:14:42,841
+00:14:39,007 --> 00:14:42,84
 courage at the words which I spake. Now Zoram was 
 
 137
-00:14:42,841 --> 00:14:46,674
+00:14:42,84 --> 00:14:46,673
 the name of the servant; and he promised that he 
 
 138
-00:14:46,674 --> 00:14:50,508
+00:14:46,673 --> 00:14:50,506
 would go down into the wilderness unto our father. Yea, 
 
 139
-00:14:50,508 --> 00:14:54,341
+00:14:50,506 --> 00:14:54,339
 and he also made an oath unto us that he 
 
 140
-00:14:54,341 --> 00:14:58,174
+00:14:54,339 --> 00:14:58,064
 would tarry with us from that time forth. 
 
 141
@@ -571,7 +571,7 @@ us for this cause, that the Jews might not know
 concerning our flight into the wilderness, lest they should pursue 
 
 144
-00:15:14,564 --> 00:15:20,064
+00:15:14,564 --> 00:15:20,353
 us and destroy us. 
 
 145
@@ -583,7 +583,7 @@ us and destroy us.
 made an oath unto us, our fears did cease concerning 
 
 147
-00:15:29,019 --> 00:15:33,353
+00:15:29,019 --> 00:15:33,166
 him. 
 
 148
@@ -599,6 +599,6 @@ plates of brass and the servant of Laban, and departed
 into the wilderness, and journeyed unto the tent of our 
 
 151
-00:15:50,416 --> 00:15:56,166
+00:15:50,416 --> 00:15:56,956
 father.  
 
