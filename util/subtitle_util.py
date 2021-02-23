@@ -17,7 +17,7 @@ def generate_srt(verses):
         text += '\n'
     return text
 
-def generate_srt_adv(verses, ccLength = 10):
+def generate_srt_adv(verses, ccLength = 8):
     text = ''
     ind = 1
     for verse in verses:
