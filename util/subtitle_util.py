@@ -42,8 +42,8 @@ def generate_srt_adv(verses, ccLength = 50):
             if tend != 0:
                 tstart = tend
             tend = (div+1)*ccLength
-            if tend > len(words):
-                tend = len(words)
+            if tend >= len(words):
+                tend = len(words)-1
             else:
                 while words[tend] != ' ':
                     tend -= 1
@@ -60,8 +60,11 @@ def generate_srt_adv(verses, ccLength = 50):
             for w in captionText:
                 finalCaptionText += str(w)+''
             #print("%s: %s %s"%(ind, tstart, tend))
-            if finalCaptionText[1] == '\n':
-                finalCaptionText = finalCaptionText[2:]
+            try:
+                if finalCaptionText[1] == '\n':
+                    finalCaptionText = finalCaptionText[2:]
+            except IndexError:
+                pass
             text += str(ind)+'\n'
             text += str(convert_time(new_start_time))+' --> '+ str(convert_time(new_end_time))+'\n'
             text += str(finalCaptionText)+'\n'
