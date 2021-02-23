@@ -13,7 +13,7 @@ print('\n-- Start Processing -- ')
 csv = read_file('Resources', 'Book List', 'csv')
 csv = remove_space_delimeter(csv, ',')
 book_list = csv.split('\n') #The urlList file is a set of new line spaced links with the first one being a comment
-book_list.pop(0) #The first line is a comment that says the purpuse of the file # Header
+book_list.pop(0) #The first line is a comment that says the purpose of the file # Header
 
 print('(1) All books Without stop')
 print('(2) Book by book')
