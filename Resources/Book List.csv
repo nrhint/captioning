@@ -1,5 +1,5 @@
 scripture   ,Book       ,video prefix,  ,max chapter    ,start_chapter  ,end_chapter 
-dc-testament,dc         ,D&C            ,138            ,1              ,138 
+dc-testament,dc         ,D&C            ,138            ,10              ,138 
 bofm        ,1-ne       ,1 Ne           ,20             ,1              ,20
 bofm        ,2-ne       ,2 Ne           ,33             ,1              ,33
 bofm        ,jacob      ,Jacob          ,7              ,1              ,7
