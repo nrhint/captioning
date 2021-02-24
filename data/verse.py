@@ -12,4 +12,4 @@ class Verse:
     def print(self):
         print('\n' + self.id)
         print(self.text)
-        print('%.3f - %.3f'%(self.start_time, self.end_time))
+        print('%s - %s'%(self.start_time, self.end_time))
