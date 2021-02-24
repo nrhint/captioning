@@ -1,0 +1,988 @@
+1
+00:00:00,0 --> 00:00:10,4
+Chapter 2 King Benjamin addresses his people—He
+
+2
+00:00:10,4 --> 00:00:20,8
+ recounts the equity, fairness, and spirituality of
+
+3
+00:00:20,8 --> 00:00:31,2
+ his reign—He counsels them to serve their Heavenly
+
+4
+00:00:31,2 --> 00:00:41,6
+ King—Those who rebel against God will suffer
+
+5
+00:00:41,6 --> 00:00:52,0
+ anguish like unquenchable fire. About 124 B.C.
+
+6
+00:00:52,886 --> 00:00:57,315
+1 And it came to pass that after Mosiah had done
+
+7
+00:00:57,315 --> 00:01:01,744
+ as his father had commanded him, and had made a
+
+8
+00:01:01,744 --> 00:01:06,173
+ proclamation throughout all the land, that the people
+
+9
+00:01:06,173 --> 00:01:10,602
+ gathered themselves together throughout all the
+
+10
+00:01:10,602 --> 00:01:15,031
+ land, that they might go up to the temple to hear
+
+11
+00:01:15,031 --> 00:01:19,46
+ the words which king Benjamin should speak unto
+
+12
+00:01:19,46 --> 00:01:23,889
+ them
+
+13
+00:01:23,383 --> 00:01:30,716
+2 And there were a great number, even so many that
+
+14
+00:01:30,716 --> 00:01:38,049
+ they did not number them; for they had multiplied
+
+15
+00:01:38,049 --> 00:01:45,382
+ exceedingly and waxed great in the land
+
+16
+00:01:45,372 --> 00:01:52,039
+3 And they also took of the firstlings of their
+
+17
+00:01:52,039 --> 00:01:58,706
+ flocks, that they might offer sacrifice and burnt
+
+18
+00:01:58,706 --> 00:02:05,373
+ offerings according to the law of Moses
+
+19
+00:02:05,525 --> 00:02:13,081
+4 And also that they might give thanks to the Lord
+
+20
+00:02:13,081 --> 00:02:20,637
+ their God, who had brought them out of the land
+
+21
+00:02:20,637 --> 00:02:28,193
+ of Jerusalem, and who had delivered them out of the
+
+22
+00:02:28,193 --> 00:02:35,749
+ hands of their enemies, and had appointed just
+
+23
+00:02:35,749 --> 00:02:43,305
+ men to be their teachers, and also a just man to be
+
+24
+00:02:43,305 --> 00:02:50,861
+ their king, who had established peace in the land
+
+25
+00:02:50,861 --> 00:02:58,417
+ of Zarahemla, and who had taught them to keep the
+
+26
+00:02:58,417 --> 00:03:05,973
+ commandments of God, that they might rejoice and
+
+27
+00:03:05,973 --> 00:03:13,529
+ be filled with love towards God and all men
+
+28
+00:03:13,36 --> 00:03:15,646
+5 And it came to pass that when they came up to
+
+29
+00:03:15,646 --> 00:03:17,932
+ the temple, they pitched their tents round about,
+
+30
+00:03:17,932 --> 00:03:20,218
+ every man according to his family, consisting of his
+
+31
+00:03:20,218 --> 00:03:22,504
+ wife, and his sons, and his daughters, and their
+
+32
+00:03:22,504 --> 00:03:24,79
+ sons, and their daughters, from the eldest down to
+
+33
+00:03:24,79 --> 00:03:27,076
+ the youngest, every family being separate one
+
+34
+00:03:27,076 --> 00:03:29,362
+ from another
+
+35
+00:03:29,309 --> 00:03:32,509
+6 And they pitched their tents round about the
+
+36
+00:03:32,509 --> 00:03:35,709
+ temple, every man having his tent with the door
+
+37
+00:03:35,709 --> 00:03:38,909
+ thereof towards the temple, that thereby they might
+
+38
+00:03:38,909 --> 00:03:42,109
+ remain in their tents and hear the words which king
+
+39
+00:03:42,109 --> 00:03:45,309
+ Benjamin should speak unto them
+
+40
+00:03:45,258 --> 00:03:50,058
+7 For the multitude being so great that king
+
+41
+00:03:50,058 --> 00:03:54,858
+ Benjamin could not teach them all within the walls of
+
+42
+00:03:54,858 --> 00:03:59,658
+ the temple, therefore he caused a tower to be
+
+43
+00:03:59,658 --> 00:04:04,458
+ erected, that thereby his people might hear the words
+
+44
+00:04:04,458 --> 00:04:09,258
+ which he should speak unto them
+
+45
+00:04:09,182 --> 00:04:10,325
+8 And it came to pass that he began to speak to
+
+46
+00:04:10,325 --> 00:04:11,468
+ his people from the tower; and they could not all
+
+47
+00:04:11,468 --> 00:04:12,611
+ hear his words because of the greatness of the
+
+48
+00:04:12,611 --> 00:04:13,754
+ multitude; therefore he caused that the words which he
+
+49
+00:04:13,754 --> 00:04:14,897
+ spake should be written and sent forth among those
+
+50
+00:04:14,897 --> 00:04:16,04
+ that were not under the sound of his voice, that
+
+51
+00:04:16,04 --> 00:04:17,183
+ they might also receive his words
+
+52
+00:04:17,157 --> 00:04:18,757
+9 And these are the words which he spake and
+
+53
+00:04:18,757 --> 00:04:20,357
+ caused to be written, saying: My brethren, all ye that
+
+54
+00:04:20,357 --> 00:04:21,957
+ have assembled yourselves together, you that can
+
+55
+00:04:21,957 --> 00:04:23,557
+ hear my words which I shall speak unto you this
+
+56
+00:04:23,557 --> 00:04:25,157
+ day; for I have not commanded you to come up hither
+
+57
+00:04:25,157 --> 00:04:26,757
+ to trifle with the words which I shall speak, but
+
+58
+00:04:26,757 --> 00:04:28,357
+ that you should hearken unto me, and open your ears
+
+59
+00:04:28,357 --> 00:04:29,957
+ that ye may hear, and your hearts that ye may
+
+60
+00:04:29,957 --> 00:04:31,557
+ understand, and your minds that the mysteries of God
+
+61
+00:04:31,557 --> 00:04:33,157
+ may be unfolded to your view
+
+62
+00:04:33,106 --> 00:04:38,439
+10 I have not commanded you to come up hither that
+
+63
+00:04:38,439 --> 00:04:43,772
+ ye should fear me, or that ye should think that I
+
+64
+00:04:43,772 --> 00:04:49,105
+ of myself am more than a mortal man
+
+65
+00:04:49,055 --> 00:04:50,055
+11 But I am like as yourselves, subject to all
+
+66
+00:04:50,055 --> 00:04:51,055
+ manner of infirmities in body and mind; yet I have
+
+67
+00:04:51,055 --> 00:04:52,055
+ been chosen by this people, and consecrated by my
+
+68
+00:04:52,055 --> 00:04:53,055
+ father, and was suffered by the hand of the Lord
+
+69
+00:04:53,055 --> 00:04:54,055
+ that I should be a ruler and a king over this people;
+
+70
+00:04:54,055 --> 00:04:55,055
+ and have been kept and preserved by his matchless
+
+71
+00:04:55,055 --> 00:04:56,055
+ power, to serve you with all the might, mind and
+
+72
+00:04:56,055 --> 00:04:57,055
+ strength which the Lord hath granted unto me
+
+73
+00:04:57,03 --> 00:05:04,78
+12 I say unto you that as I have been suffered to
+
+74
+00:05:04,78 --> 00:05:12,53
+ spend my days in your service, even up to this
+
+75
+00:05:12,53 --> 00:05:20,28
+ time, and have not sought gold nor silver nor any
+
+76
+00:05:20,28 --> 00:05:28,03
+ manner of riches of you
+
+77
+00:05:28,929 --> 00:05:29,929
+13 Neither have I suffered that ye should be
+
+78
+00:05:29,929 --> 00:05:30,929
+ confined in dungeons, nor that ye should make slaves
+
+79
+00:05:30,929 --> 00:05:31,929
+ one of another, nor that ye should murder, or
+
+80
+00:05:31,929 --> 00:05:32,929
+ plunder, or steal, or commit adultery; nor even have I
+
+81
+00:05:32,929 --> 00:05:33,929
+ suffered that ye should commit any manner of
+
+82
+00:05:33,929 --> 00:05:34,929
+ wickedness, and have taught you that ye should keep the
+
+83
+00:05:34,929 --> 00:05:35,929
+ commandments of the Lord, in all things which he
+
+84
+00:05:35,929 --> 00:05:36,929
+ hath commanded you
+
+85
+00:05:36,903 --> 00:05:43,57
+14 And even I, myself, have labored with mine own
+
+86
+00:05:43,57 --> 00:05:50,237
+ hands that I might serve you, and that ye should
+
+87
+00:05:50,237 --> 00:05:56,904
+ not be laden with taxes, and that there should
+
+88
+00:05:56,904 --> 00:06:03,571
+ nothing come upon you which was grievous to be
+
+89
+00:06:03,571 --> 00:06:10,238
+ borne—and of all these things which I have spoken, ye
+
+90
+00:06:10,238 --> 00:06:16,905
+ yourselves are witnesses this day
+
+91
+00:06:16,776 --> 00:06:23,176
+15 Yet, my brethren, I have not done these things
+
+92
+00:06:23,176 --> 00:06:29,576
+ that I might boast, neither do I tell these things
+
+93
+00:06:29,576 --> 00:06:35,976
+ that thereby I might accuse you; but I tell you
+
+94
+00:06:35,976 --> 00:06:42,376
+ these things that ye may know that I can answer a
+
+95
+00:06:42,376 --> 00:06:48,776
+ clear conscience before God this day
+
+96
+00:06:48,675 --> 00:06:50,675
+16 Behold, I say unto you that because I said unto
+
+97
+00:06:50,675 --> 00:06:52,675
+ you that I had spent my days in your service, I
+
+98
+00:06:52,675 --> 00:06:54,675
+ do not desire to boast, for I have only been in the
+
+99
+00:06:54,675 --> 00:06:56,675
+ service of God
+
+100
+00:06:56,65 --> 00:06:58,65
+17 And behold, I tell you these things that ye may
+
+101
+00:06:58,65 --> 00:07:00,65
+ learn wisdom; that ye may learn that when ye are
+
+102
+00:07:00,65 --> 00:07:02,65
+ in the service of your fellow beings ye are only
+
+103
+00:07:02,65 --> 00:07:04,65
+ in the service of your God
+
+104
+00:07:04,624 --> 00:07:07,291
+18 Behold, ye have called me your king; and if I,
+
+105
+00:07:07,291 --> 00:07:09,958
+ whom ye call your king, do labor to serve you,
+
+106
+00:07:09,958 --> 00:07:12,625
+ then ought not ye to labor to serve one another
+
+107
+00:07:12,599 --> 00:07:14,199
+19 And behold also, if I, whom ye call your king,
+
+108
+00:07:14,199 --> 00:07:15,799
+ who has spent his days in your service, and yet
+
+109
+00:07:15,799 --> 00:07:17,399
+ has been in the service of God, do merit any thanks
+
+110
+00:07:17,399 --> 00:07:18,999
+ from you, O how you ought to thank your heavenly
+
+111
+00:07:18,999 --> 00:07:20,599
+ King
+
+112
+00:07:20,573 --> 00:07:21,906
+20 I say unto you, my brethren, that if you should
+
+113
+00:07:21,906 --> 00:07:23,239
+ render all the thanks and praise which your whole
+
+114
+00:07:23,239 --> 00:07:24,572
+ soul has power to possess, to that God who has
+
+115
+00:07:24,572 --> 00:07:25,905
+ created you, and has kept and preserved you, and has
+
+116
+00:07:25,905 --> 00:07:27,238
+ caused that ye should rejoice, and has granted
+
+117
+00:07:27,238 --> 00:07:28,571
+ that ye should live in peace one with another
+
+118
+00:07:28,548 --> 00:07:32,548
+21 I say unto you that if ye should serve him who
+
+119
+00:07:32,548 --> 00:07:36,548
+ has created you from the beginning, and is
+
+120
+00:07:36,548 --> 00:07:40,548
+ preserving you from day to day, by lending you breath,
+
+121
+00:07:40,548 --> 00:07:44,548
+ that ye may live and move and do according to your
+
+122
+00:07:44,548 --> 00:07:48,548
+ own will, and even supporting you from one moment
+
+123
+00:07:48,548 --> 00:07:52,548
+ to another—I say, if ye should serve him with all
+
+124
+00:07:52,548 --> 00:07:56,548
+ your whole souls yet ye would be unprofitable
+
+125
+00:07:56,548 --> 00:08:00,548
+ servants
+
+126
+00:08:00,447 --> 00:08:01,78
+22 And behold, all that he requires of you is to
+
+127
+00:08:01,78 --> 00:08:03,113
+ keep his commandments; and he has promised you that
+
+128
+00:08:03,113 --> 00:08:04,446
+ if ye would keep his commandments ye should
+
+129
+00:08:04,446 --> 00:08:05,779
+ prosper in the land; and he never doth vary from that
+
+130
+00:08:05,779 --> 00:08:07,112
+ which he hath said; therefore, if ye do keep his
+
+131
+00:08:07,112 --> 00:08:08,445
+ commandments he doth bless you and prosper you
+
+132
+00:08:08,421 --> 00:08:19,088
+23 And now, in the first place, he hath created
+
+133
+00:08:19,088 --> 00:08:29,755
+ you, and granted unto you your lives, for which ye
+
+134
+00:08:29,755 --> 00:08:40,422
+ are indebted unto him
+
+135
+00:08:40,32 --> 00:08:41,653
+24 And secondly, he doth require that ye should do
+
+136
+00:08:41,653 --> 00:08:42,986
+ as he hath commanded you; for which if ye do, he
+
+137
+00:08:42,986 --> 00:08:44,319
+ doth immediately bless you; and therefore he hath
+
+138
+00:08:44,319 --> 00:08:45,652
+ paid you. And ye are still indebted unto him, and
+
+139
+00:08:45,652 --> 00:08:46,985
+ are, and will be, forever and ever; therefore, of
+
+140
+00:08:46,985 --> 00:08:48,318
+ what have ye to boast
+
+141
+00:08:48,294 --> 00:08:49,894
+25 And now I ask, can ye say aught of yourselves?
+
+142
+00:08:49,894 --> 00:08:51,494
+ I answer you, Nay. Ye cannot say that ye are even
+
+143
+00:08:51,494 --> 00:08:53,094
+ as much as the dust of the earth; yet ye were
+
+144
+00:08:53,094 --> 00:08:54,694
+ created of the dust of the earth; but behold, it
+
+145
+00:08:54,694 --> 00:08:56,294
+ belongeth to him who created you
+
+146
+00:08:56,269 --> 00:09:04,269
+26 And I, even I, whom ye call your king, am no
+
+147
+00:09:04,269 --> 00:09:12,269
+ better than ye yourselves are; for I am also of the
+
+148
+00:09:12,269 --> 00:09:20,269
+ dust. And ye behold that I am old, and am about to
+
+149
+00:09:20,269 --> 00:09:28,269
+ yield up this mortal frame to its mother earth
+
+150
+00:09:28,168 --> 00:09:29,168
+27 Therefore, as I said unto you that I had served
+
+151
+00:09:29,168 --> 00:09:30,168
+ you, walking with a clear conscience before God,
+
+152
+00:09:30,168 --> 00:09:31,168
+ even so I at this time have caused that ye should
+
+153
+00:09:31,168 --> 00:09:32,168
+ assemble yourselves together, that I might be
+
+154
+00:09:32,168 --> 00:09:33,168
+ found blameless, and that your blood should not come
+
+155
+00:09:33,168 --> 00:09:34,168
+ upon me, when I shall stand to be judged of God of
+
+156
+00:09:34,168 --> 00:09:35,168
+ the things whereof he hath commanded me concerning
+
+157
+00:09:35,168 --> 00:09:36,168
+ you
+
+158
+00:09:36,142 --> 00:09:37,285
+28 I say unto you that I have caused that ye
+
+159
+00:09:37,285 --> 00:09:38,428
+ should assemble yourselves together that I might rid my
+
+160
+00:09:38,428 --> 00:09:39,571
+ garments of your blood, at this period of time
+
+161
+00:09:39,571 --> 00:09:40,714
+ when I am about to go down to my grave, that I might
+
+162
+00:09:40,714 --> 00:09:41,857
+ go down in peace, and my immortal spirit may join
+
+163
+00:09:41,857 --> 00:09:43,0
+ the choirs above in singing the praises of a just
+
+164
+00:09:43,0 --> 00:09:44,143
+ God
+
+165
+00:09:44,117 --> 00:09:46,117
+29 And moreover, I say unto you that I have caused
+
+166
+00:09:46,117 --> 00:09:48,117
+ that ye should assemble yourselves together, that
+
+167
+00:09:48,117 --> 00:09:50,117
+ I might declare unto you that I can no longer be
+
+168
+00:09:50,117 --> 00:09:52,117
+ your teacher, nor your king
+
+169
+00:09:52,091 --> 00:09:53,235
+30 For even at this time, my whole frame doth
+
+170
+00:09:53,235 --> 00:09:54,377
+ tremble exceedingly while attempting to speak unto
+
+171
+00:09:54,377 --> 00:09:55,52
+ you; but the Lord God doth support me, and hath
+
+172
+00:09:55,52 --> 00:09:56,663
+ suffered me that I should speak unto you, and hath
+
+173
+00:09:56,663 --> 00:09:57,807
+ commanded me that I should declare unto you this day,
+
+174
+00:09:57,807 --> 00:09:58,949
+ that my son Mosiah is a king and a ruler over you
+
+175
+00:09:58,949 --> 00:10:00,092
+
+
+176
+00:10:00,066 --> 00:10:00,955
+31 And now, my brethren, I would that ye should do
+
+177
+00:10:00,955 --> 00:10:01,844
+ as ye have hitherto done. As ye have kept my
+
+178
+00:10:01,844 --> 00:10:02,733
+ commandments, and also the commandments of my father,
+
+179
+00:10:02,733 --> 00:10:03,622
+ and have prospered, and have been kept from
+
+180
+00:10:03,622 --> 00:10:04,511
+ falling into the hands of your enemies, even so if ye
+
+181
+00:10:04,511 --> 00:10:05,4
+ shall keep the commandments of my son, or the
+
+182
+00:10:05,4 --> 00:10:06,289
+ commandments of God which shall be delivered unto you by
+
+183
+00:10:06,289 --> 00:10:07,178
+ him, ye shall prosper in the land, and your
+
+184
+00:10:07,178 --> 00:10:08,067
+ enemies shall have no power over you
+
+185
+00:10:08,041 --> 00:10:11,791
+32 But, O my people, beware lest there shall arise
+
+186
+00:10:11,791 --> 00:10:15,541
+ contentions among you, and ye list to obey the
+
+187
+00:10:15,541 --> 00:10:19,291
+ evil spirit, which was spoken of by my father
+
+188
+00:10:19,291 --> 00:10:23,041
+ Mosiah
+
+189
+00:10:23,99 --> 00:10:25,133
+33 For behold, there is a wo pronounced upon him
+
+190
+00:10:25,133 --> 00:10:26,276
+ who listeth to obey that spirit; for if he listeth
+
+191
+00:10:26,276 --> 00:10:27,419
+ to obey him, and remaineth and dieth in his sins,
+
+192
+00:10:27,419 --> 00:10:28,562
+ the same drinketh damnation to his own soul; for
+
+193
+00:10:28,562 --> 00:10:29,705
+ he receiveth for his wages an everlasting
+
+194
+00:10:29,705 --> 00:10:30,848
+ punishment, having transgressed the law of God contrary to
+
+195
+00:10:30,848 --> 00:10:31,991
+ his own knowledge
+
+196
+00:10:31,965 --> 00:10:32,854
+34 I say unto you, that there are not any among
+
+197
+00:10:32,854 --> 00:10:33,743
+ you, except it be your little children that have not
+
+198
+00:10:33,743 --> 00:10:34,632
+ been taught concerning these things, but what
+
+199
+00:10:34,632 --> 00:10:35,521
+ knoweth that ye are eternally indebted to your
+
+200
+00:10:35,521 --> 00:10:36,41
+ heavenly Father, to render to him all that you have and
+
+201
+00:10:36,41 --> 00:10:37,299
+ are; and also have been taught concerning the
+
+202
+00:10:37,299 --> 00:10:38,188
+ records which contain the prophecies which have been
+
+203
+00:10:38,188 --> 00:10:39,077
+ spoken by the holy prophets, even down to the time
+
+204
+00:10:39,077 --> 00:10:39,966
+ our father, Lehi, left Jerusalem
+
+205
+00:10:39,939 --> 00:10:41,939
+35 And also, all that has been spoken by our
+
+206
+00:10:41,939 --> 00:10:43,939
+ fathers until now. And behold, also, they spake that
+
+207
+00:10:43,939 --> 00:10:45,939
+ which was commanded them of the Lord; therefore,
+
+208
+00:10:45,939 --> 00:10:47,939
+ they are just and true
+
+209
+00:10:47,914 --> 00:10:50,2
+36 And now, I say unto you, my brethren, that
+
+210
+00:10:50,2 --> 00:10:52,486
+ after ye have known and have been taught all these
+
+211
+00:10:52,486 --> 00:10:54,772
+ things, if ye should transgress and go contrary to
+
+212
+00:10:54,772 --> 00:10:57,058
+ that which has been spoken, that ye do withdraw
+
+213
+00:10:57,058 --> 00:10:59,344
+ yourselves from the Spirit of the Lord, that it may
+
+214
+00:10:59,344 --> 00:11:01,63
+ have no place in you to guide you in wisdom’s paths
+
+215
+00:11:01,63 --> 00:11:03,916
+ that ye may be blessed, prospered, and preserved
+
+216
+00:11:03,863 --> 00:11:06,53
+37 I say unto you, that the man that doeth this,
+
+217
+00:11:06,53 --> 00:11:09,197
+ the same cometh out in open rebellion against God;
+
+218
+00:11:09,197 --> 00:11:11,864
+ therefore he listeth to obey the evil spirit, and
+
+219
+00:11:11,864 --> 00:11:14,531
+ becometh an enemy to all righteousness; therefore,
+
+220
+00:11:14,531 --> 00:11:17,198
+ the Lord has no place in him, for he dwelleth not
+
+221
+00:11:17,198 --> 00:11:19,865
+ in unholy temples
+
+222
+00:11:19,812 --> 00:11:20,812
+38 Therefore if that man repenteth not, and
+
+223
+00:11:20,812 --> 00:11:21,812
+ remaineth and dieth an enemy to God, the demands of
+
+224
+00:11:21,812 --> 00:11:22,812
+ divine justice do awaken his immortal soul to a lively
+
+225
+00:11:22,812 --> 00:11:23,812
+ sense of his own guilt, which doth cause him to
+
+226
+00:11:23,812 --> 00:11:24,812
+ shrink from the presence of the Lord, and doth fill
+
+227
+00:11:24,812 --> 00:11:25,812
+ his breast with guilt, and pain, and anguish,
+
+228
+00:11:25,812 --> 00:11:26,812
+ which is like an unquenchable fire, whose flame
+
+229
+00:11:26,812 --> 00:11:27,812
+ ascendeth up forever and ever
+
+230
+00:11:27,787 --> 00:11:30,454
+39 And now I say unto you, that mercy hath no
+
+231
+00:11:30,454 --> 00:11:33,121
+ claim on that man; therefore his final doom is to
+
+232
+00:11:33,121 --> 00:11:35,788
+ endure a never-ending torment
+
+233
+00:11:35,762 --> 00:11:39,762
+40 O, all ye old men, and also ye young men, and
+
+234
+00:11:39,762 --> 00:11:43,762
+ you little children who can understand my words,
+
+235
+00:11:43,762 --> 00:11:47,762
+ for I have spoken plainly unto you that ye might
+
+236
+00:11:47,762 --> 00:11:51,762
+ understand, I pray that ye should awake to a
+
+237
+00:11:51,762 --> 00:11:55,762
+ remembrance of the awful situation of those that have
+
+238
+00:11:55,762 --> 00:11:59,762
+ fallen into transgression
+
+239
+00:11:59,686 --> 00:11:59,797
+41 And moreover, I would desire that ye should
+
+240
+00:11:59,797 --> 00:11:59,908
+ consider on the blessed and happy state of those that
+
+241
+00:11:59,908 --> 00:12:00,019
+ keep the commandments of God. For behold, they
+
+242
+00:12:00,019 --> 00:12:00,13
+ are blessed in all things, both temporal and
+
+243
+00:12:00,13 --> 00:12:00,241
+ spiritual; and if they hold out faithful to the end they
+
+244
+00:12:00,241 --> 00:12:00,352
+ are received into heaven, that thereby they may
+
+245
+00:12:00,352 --> 00:12:00,463
+ dwell with God in a state of never-ending happiness.
+
+246
+00:12:00,463 --> 00:12:00,574
+ O remember, remember that these things are true;
+
+247
+00:12:00,574 --> 00:12:00,685
+ for the Lord God hath spoken it.
+
