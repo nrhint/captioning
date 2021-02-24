@@ -10,7 +10,7 @@ csv = read_file('Resources', 'Book List', 'csv')
 csv = remove_space_delimeter(csv, ',')
 book_list = csv.split('\n') #The urlList file is a set of new line spaced links with the first one being a comment
 book_list.pop(0) #The first line is a comment that says the purpuse of the file # Header
-
+#book_list = [book_list[1], 'error']
 
 manual_url = read_file('Resources/Video URL', 'Manual URL', 'csv')
 manual_url = remove_space_delimeter(manual_url, ',')
@@ -41,3 +41,4 @@ for book_csv in book_list:
 
 if missing_list != '\nMissing Link\n':
     print(missing_list, end = '')
+input()
