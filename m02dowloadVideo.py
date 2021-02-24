@@ -6,7 +6,6 @@ from util.file_util import read_file
 from util.text_util import remove_space_delimeter
 
 print('\n-- Start Processing -- ')
-startNumber = input()
 csv = read_file('Resources', 'Book List', 'csv')
 csv = remove_space_delimeter(csv, ',')
 book_list = csv.split('\n') #The urlList file is a set of new line spaced links with the first one being a comment
@@ -23,7 +22,7 @@ for book_csv in book_list:
     
     print('\nDownload Book %s'%(book.video_prefix))
     startProcessBook = time.time()#Use for speed testing
-    for chapter_number in range(startNumber, book.max_chapter + 1):
+    for chapter_number in range(1, book.max_chapter + 1):
         
         url = video_list[chapter_number].split(',')[1]
         file_path = 'resources/video/%s/%s'%(book.scripture, book.book_name)
