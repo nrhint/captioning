@@ -63,3 +63,8 @@ def get_url_by_verse(text, verse):
     if not textList:
         return ''
     return textList[0]
+
+def remove_start_space(text):
+    text = re.sub('^ ', '', text)
+    text = re.sub('^\\n', '', text)
+    return text
