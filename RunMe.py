@@ -21,8 +21,6 @@ while run == True:
             state = 'URL'
         elif i == '2':
             state = 'D&C'
-        elif i == '3':
-            state = 'BofM'
         else:
             state = 'error'
 ############################################################
@@ -43,23 +41,6 @@ while run == True:
             import m02captionFromURL
             print('finished!')
             state = 'welcome'
-        except:
-            state = 'error'
-############################################################
-    elif state == 'BofM':
-        lastState = state
-        print('\ninitalizing the Book of Mormon caption converter...')
-        try:
-            from m04bookOfMormonConverter import BofMConvert
-            filePath = input('what is the file path of the SRT from the disk? ')
-            fileName = input('What is the name of the file? ')
-            convert = BofMConvert(filePath, fileName)
-            if convert.status == 'Pass':
-                convert.run()
-                state = 'welcome'
-            else:
-                print(convert.status)
-                state = 'error'
         except:
             state = 'error'
 ############################################################

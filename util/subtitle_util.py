@@ -23,10 +23,11 @@ def generate_srt_adv(verses, ccLength = 50):
     for verse in verses:
         tstart = 0
         tend = 0
-        words = len(verse.text)
-        divisions = math.ceil(words//ccLength) + 1
-        if divisions == 0:
-            divisions = 1
+        words = verse.text
+        divisions = 1
+        while len(words)/divisions > ccLength:
+            divisions += 1
+        ccLength = int(len(words)/divisions)#This will set the ccLength to a closer value to make it more consistent.
         #print('\n' + str(verse.number) + '\t' + verse.text)
         words = [char for char in verse.text]
         ##Generate the times for this verse
