@@ -1,224 +1,532 @@
 1
-00:00:00,0 --> 00:00:03,75
+00:00:00,0 --> 00:00:00,0
 Chapter 23 Jesus approves the words of Isaiah—He
 
 2
-00:00:03,75 --> 00:00:07,5
- commands the people to search the prophets—The
+00:00:00,0 --> 00:00:00,0
+commands the people to search the prophets—The
 
 3
-00:00:07,5 --> 00:00:11,25
- words of Samuel the Lamanite concerning the
+00:00:00,0 --> 00:00:00,0
+words of Samuel the Lamanite concerning the
 
 4
-00:00:11,25 --> 00:00:15,0
- Resurrection are added to their records. About A.D. 34.
+00:00:00,0 --> 00:15:42,
+Resurrection are added to their records. About A.D. 34. 
 
 5
-00:00:15,949 --> 00:00:17,949
-1 And now, behold, I say unto you, that ye ought
+00:15:42,0 --> 00:15:42,0
+1 And now, behold, I say unto you, that ye
 
 6
-00:00:17,949 --> 00:00:19,949
- to search these things. Yea, a commandment I give
+00:15:42,0 --> 00:15:42,0
+ought to search these things. Yea, a
 
 7
-00:00:19,949 --> 00:00:21,949
- unto you that ye search these things diligently;
+00:15:42,0 --> 00:15:42,0
+commandment I give unto you that ye search these things
 
 8
-00:00:21,949 --> 00:00:23,949
- for great are the words of Isaiah
+00:15:42,0 --> 00:17:54,
+diligently; for great are the words of Isaiah.
 
 9
-00:00:23,924 --> 00:00:25,924
-2 For surely he spake as touching all things
+00:17:54,0 --> 00:17:54,0
+2 For surely he spake as touching all
 
 10
-00:00:25,924 --> 00:00:27,924
- concerning my people which are of the house of Israel;
+00:17:54,0 --> 00:17:54,0
+things concerning my people which are of the
 
 11
-00:00:27,924 --> 00:00:29,924
- therefore it must needs be that he must speak also
+00:17:54,0 --> 00:17:54,0
+house of Israel; therefore it must needs
 
 12
-00:00:29,924 --> 00:00:31,924
- to the Gentiles
+00:17:54,0 --> 00:19:06,
+be that he must speak also to the Gentiles.
 
 13
-00:00:31,899 --> 00:00:39,399
-3 And all things that he spake have been and shall
+00:19:06,0 --> 00:19:06,0
+3 And all things that he spake
 
 14
-00:00:39,399 --> 00:00:46,899
- be, even according to the words which he spake
+00:19:06,0 --> 00:19:06,0
+have been and shall be, even
 
 15
-00:00:46,446 --> 00:00:54,446
-4 Therefore give heed to my words; write the
+00:19:06,0 --> 00:29:16,
+according to the words which he spake.
 
 16
-00:00:54,446 --> 00:01:02,446
- things which I have told you; and according to the time
+00:29:16,0 --> 00:29:16,0
+4 Therefore give heed to my
 
 17
-00:01:02,446 --> 00:01:10,446
- and the will of the Father they shall go forth
+00:29:16,0 --> 00:29:16,0
+words; write the things
 
 18
-00:01:10,446 --> 00:01:18,446
- unto the Gentiles
+00:29:16,0 --> 00:29:16,0
+which I have told you; and
 
 19
-00:01:18,345 --> 00:01:20,345
-5 And whosoever will hearken unto my words and
+00:29:16,0 --> 00:29:16,0
+according to the time and the
 
 20
-00:01:20,345 --> 00:01:22,345
- repenteth and is baptized, the same shall be saved.
+00:29:16,0 --> 00:29:16,0
+will of the Father they
 
 21
-00:01:22,345 --> 00:01:24,345
- Search the prophets, for many there be that testify
+00:29:16,0 --> 00:31:28,
+shall go forth unto the Gentiles.
 
 22
-00:01:24,345 --> 00:01:26,345
- of these things
+00:31:28,0 --> 00:31:28,0
+5 And whosoever will
 
 23
-00:01:26,32 --> 00:01:27,653
-6 And now it came to pass that when Jesus had said
+00:31:28,0 --> 00:31:28,0
+hearken unto my words and
 
 24
-00:01:27,653 --> 00:01:28,986
- these words he said unto them again, after he had
+00:31:28,0 --> 00:31:28,0
+repenteth and is
 
 25
-00:01:28,986 --> 00:01:30,319
- expounded all the scriptures unto them which they
+00:31:28,0 --> 00:31:28,0
+baptized, the same shall be
 
 26
-00:01:30,319 --> 00:01:31,652
- had received, he said unto them: Behold, other
+00:31:28,0 --> 00:31:28,0
+saved. Search the
 
 27
-00:01:31,652 --> 00:01:32,985
- scriptures I would that ye should write, that ye
+00:31:28,0 --> 00:31:28,0
+prophets, for many there be
 
 28
-00:01:32,985 --> 00:01:34,318
- have not
+00:31:28,0 --> 00:33:40,
+that testify of these things.
 
 29
-00:01:34,294 --> 00:01:38,294
-7 And it came to pass that he said unto Nephi:
+00:33:40,0 --> 00:33:40,0
+6 And now it came to
 
 30
-00:01:38,294 --> 00:01:42,294
- Bring forth the record which ye have kept
+00:33:40,0 --> 00:33:40,0
+pass that when Jesus
 
 31
-00:01:42,269 --> 00:01:44,936
-8 And when Nephi had brought forth the records,
+00:33:40,0 --> 00:33:40,0
+had said these words
 
 32
-00:01:44,936 --> 00:01:47,603
- and laid them before him, he cast his eyes upon them
+00:33:40,0 --> 00:33:40,0
+he said unto them
 
 33
-00:01:47,603 --> 00:01:50,27
- and said
+00:33:40,0 --> 00:33:40,0
+again, after he had
 
 34
-00:01:50,243 --> 00:01:51,386
-9 Verily I say unto you, I commanded my servant
+00:33:40,0 --> 00:33:40,0
+expounded all the
 
 35
-00:01:51,386 --> 00:01:52,529
- Samuel, the Lamanite, that he should testify unto
+00:33:40,0 --> 00:33:40,0
+scriptures unto them which
 
 36
-00:01:52,529 --> 00:01:53,672
- this people, that at the day that the Father should
+00:33:40,0 --> 00:33:40,0
+they had received, he
 
 37
-00:01:53,672 --> 00:01:54,815
- glorify his name in me that there were many saints
+00:33:40,0 --> 00:33:40,0
+said unto them:
 
 38
-00:01:54,815 --> 00:01:55,958
- who should arise from the dead, and should appear
+00:33:40,0 --> 00:33:40,0
+Behold, other scriptures I
 
 39
-00:01:55,958 --> 00:01:57,101
- unto many, and should minister unto them. And he
+00:33:40,0 --> 00:33:40,0
+would that ye should
 
 40
-00:01:57,101 --> 00:01:58,244
- said unto them: Was it not so
+00:33:40,0 --> 00:39:22,
+write, that ye have not.
 
 41
-00:01:58,218 --> 00:02:00,885
-10 And his disciples answered him and said: Yea,
+00:39:22,0 --> 00:39:22,0
+7 And it came to
 
 42
-00:02:00,885 --> 00:02:03,552
- Lord, Samuel did prophesy according to thy words,
+00:39:22,0 --> 00:39:22,0
+pass that he said
 
 43
-00:02:03,552 --> 00:02:06,219
- and they were all fulfilled
+00:39:22,0 --> 00:39:22,0
+unto Nephi:
 
 44
-00:02:06,193 --> 00:02:08,193
-11 And Jesus said unto them: How be it that ye
+00:39:22,0 --> 00:39:22,0
+Bring forth the
 
 45
-00:02:08,193 --> 00:02:10,193
- have not written this thing, that many saints did
+00:39:22,0 --> 00:45:18,
+record which ye have kept.
 
 46
-00:02:10,193 --> 00:02:12,193
- arise and appear unto many and did minister unto
+00:45:18,0 --> 00:45:18,0
+8 And when
 
 47
-00:02:12,193 --> 00:02:14,193
- them
+00:45:18,0 --> 00:45:18,0
+Nephi had brought
 
 48
-00:02:14,167 --> 00:02:18,167
-12 And it came to pass that Nephi remembered that
+00:45:18,0 --> 00:45:18,0
+forth the
 
 49
-00:02:18,167 --> 00:02:22,167
- this thing had not been written
+00:45:18,0 --> 00:45:18,0
+records, and laid
 
 50
-00:02:22,142 --> 00:02:24,809
-13 And it came to pass that Jesus commanded that
+00:45:18,0 --> 00:45:18,0
+them before him,
 
 51
-00:02:24,809 --> 00:02:27,476
- it should be written; therefore it was written
+00:45:18,0 --> 00:45:18,0
+he cast his eyes
 
 52
-00:02:27,476 --> 00:02:30,143
- according as he commanded
+00:45:18,0 --> 00:44:50,
+upon them and said:
 
 53
-00:02:30,117 --> 00:02:30,117
-14 And now it came to pass that when Jesus had
+00:44:50,0 --> 00:44:50,0
+9 Verily I say
 
 54
-00:02:30,117 --> 00:02:30,117
- expounded all the scriptures in one, which they had
+00:44:50,0 --> 00:44:50,0
+unto you, I
 
 55
-00:02:30,117 --> 00:02:30,117
- written, he commanded them that they should teach
+00:44:50,0 --> 00:44:50,0
+commanded my
 
 56
-00:02:30,117 --> 00:02:30,117
- the things which he had expounded unto them.
+00:44:50,0 --> 00:44:50,0
+servant Samuel, the
+
+57
+00:44:50,0 --> 00:44:50,0
+Lamanite, that
+
+58
+00:44:50,0 --> 00:44:50,0
+he should
+
+59
+00:44:50,0 --> 00:44:50,0
+testify unto this
+
+60
+00:44:50,0 --> 00:44:50,0
+people, that at
+
+61
+00:44:50,0 --> 00:44:50,0
+the day that the
+
+62
+00:44:50,0 --> 00:44:50,0
+Father should
+
+63
+00:44:50,0 --> 00:44:50,0
+glorify his
+
+64
+00:44:50,0 --> 00:44:50,0
+name in me that
+
+65
+00:44:50,0 --> 00:44:50,0
+there were many
+
+66
+00:44:50,0 --> 00:44:50,0
+saints who
+
+67
+00:44:50,0 --> 00:44:50,0
+should arise from
+
+68
+00:44:50,0 --> 00:44:50,0
+the dead, and
+
+69
+00:44:50,0 --> 00:44:50,0
+should appear unto
+
+70
+00:44:50,0 --> 00:44:50,0
+many, and
+
+71
+00:44:50,0 --> 00:44:50,0
+should minister
+
+72
+00:44:50,0 --> 00:44:50,0
+unto them. And he
+
+73
+00:44:50,0 --> 00:44:50,0
+said unto them:
+
+74
+00:44:50,0 --> 00:44:22,
+Was it not so?
+
+75
+00:44:22,0 --> 00:44:22,0
+10 And his
+
+76
+00:44:22,0 --> 00:44:22,0
+disciples
+
+77
+00:44:22,0 --> 00:44:22,0
+answered him and
+
+78
+00:44:22,0 --> 00:44:22,0
+said: Yea, Lord,
+
+79
+00:44:22,0 --> 00:44:22,0
+Samuel did
+
+80
+00:44:22,0 --> 00:44:22,0
+prophesy according
+
+81
+00:44:22,0 --> 00:44:22,0
+to thy words,
+
+82
+00:44:22,0 --> 00:44:22,0
+and they were
+
+83
+00:44:22,0 --> 00:45:20,
+all fulfilled.
+
+84
+00:45:20,0 --> 00:45:20,0
+11 And Jesus
+
+85
+00:45:20,0 --> 00:45:20,0
+said unto
+
+86
+00:45:20,0 --> 00:45:20,0
+them: How be it
+
+87
+00:45:20,0 --> 00:45:20,0
+that ye have
+
+88
+00:45:20,0 --> 00:45:20,0
+not written
+
+89
+00:45:20,0 --> 00:45:20,0
+this thing,
+
+90
+00:45:20,0 --> 00:45:20,0
+that many
+
+91
+00:45:20,0 --> 00:45:20,0
+saints did arise
+
+92
+00:45:20,0 --> 00:45:20,0
+and appear
+
+93
+00:45:20,0 --> 00:45:20,0
+unto many and
+
+94
+00:45:20,0 --> 00:47:32,
+did minister unto them?
+
+95
+00:47:32,0 --> 00:47:32,0
+12 And it
+
+96
+00:47:32,0 --> 00:47:32,0
+came to pass
+
+97
+00:47:32,0 --> 00:47:32,0
+that Nephi
+
+98
+00:47:32,0 --> 00:47:32,0
+remembered
+
+99
+00:47:32,0 --> 00:47:32,0
+that this
+
+100
+00:47:32,0 --> 00:47:32,0
+thing had
+
+101
+00:47:32,0 --> 00:52:43,
+not been written.
+
+102
+00:52:43,0 --> 00:52:43,0
+13 And it
+
+103
+00:52:43,0 --> 00:52:43,0
+came to
+
+104
+00:52:43,0 --> 00:52:43,0
+pass that
+
+105
+00:52:43,0 --> 00:52:43,0
+Jesus
+
+106
+00:52:43,0 --> 00:52:43,0
+commanded that
+
+107
+00:52:43,0 --> 00:52:43,0
+it should
+
+108
+00:52:43,0 --> 00:52:43,0
+be written;
+
+109
+00:52:43,0 --> 00:52:43,0
+therefore
+
+110
+00:52:43,0 --> 00:52:43,0
+it was
+
+111
+00:52:43,0 --> 00:52:43,0
+written
+
+112
+00:52:43,0 --> 00:52:43,0
+according as
+
+113
+00:52:43,0 --> 00:56:56,
+he commanded.
+
+114
+00:56:56,0 --> 00:56:56,0
+14 And
+
+115
+00:56:56,0 --> 00:56:56,0
+now it came
+
+116
+00:56:56,0 --> 00:56:56,0
+to pass
+
+117
+00:56:56,0 --> 00:56:56,0
+that when
+
+118
+00:56:56,0 --> 00:56:56,0
+Jesus
+
+119
+00:56:56,0 --> 00:56:56,0
+had
+
+120
+00:56:56,0 --> 00:56:56,0
+expounded all
+
+121
+00:56:56,0 --> 00:56:56,0
+the
+
+122
+00:56:56,0 --> 00:56:56,0
+scriptures in
+
+123
+00:56:56,0 --> 00:56:56,0
+one, which
+
+124
+00:56:56,0 --> 00:56:56,0
+they had
+
+125
+00:56:56,0 --> 00:56:56,0
+written,
+
+126
+00:56:56,0 --> 00:56:56,0
+he
+
+127
+00:56:56,0 --> 00:56:56,0
+commanded them
+
+128
+00:56:56,0 --> 00:56:56,0
+that they
+
+129
+00:56:56,0 --> 00:56:56,0
+should
+
+130
+00:56:56,0 --> 00:56:56,0
+teach the
+
+131
+00:56:56,0 --> 00:56:56,0
+things
+
+132
+00:56:56,0 --> 00:56:56,0
+which he
+
+133
+00:56:56,0 --> 01:01:38,
+had expounded unto them. 
 

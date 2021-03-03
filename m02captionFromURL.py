@@ -5,8 +5,11 @@ from util.subtitle_util import generate_srt_adv
 from util.text_util import remove_space_delimeter
 from util.verse_util import get_verse_from_file
 from util.video_util_m2 import get_time_from_video
+from util.logging_util import add_to_log, save_log
 
 print('\n-- Start Processing -- ')
+log = add_to_log('', '\n-- Start Processing -- ')
+
 csv = read_file('Resources', 'Book List', 'csv')
 csv = remove_space_delimeter(csv, ',')
 book_list = csv.split('\n') #The urlList file is a set of new line spaced links with the first one being a comment
@@ -19,6 +22,8 @@ i = int(input('Enter the number then press enter: '))
 j = 1
 k = 1
 
+log = add_to_log(log, '(1) All books Without stop\n(2) Book by book\n(3) Verse by verse\nEnter the number then press enter: %s'%i)
+
 for book_csv in book_list:
     book_detail = book_csv.split(',')
     book = Book(book_detail[0], book_detail[1], book_detail[2], int(book_detail[3]), int(book_detail[4]), int(book_detail[5]))
@@ -28,10 +33,12 @@ for book_csv in book_list:
     video_list = video_csv.split('\n')
 
     print('\nStart on Book %s'%(book.video_prefix))
+    log = add_to_log(log, 'Start on Book %s'%(book.video_prefix))
     if i > 1:
         print('\t(1) Read the Book')
         print('\t(2) Skip the Book')
         j = int(input('\tEnter the number then press enter: '))
+        log = add_to_log(log, '\t(1) Read the Book\n\t(2) Skip the Book\n\tEnter the number then press enter: %s'%j)
     if j == 1:
         for chapter_number in range(book.start_chapter, book.end_chapter + 1):
             
@@ -44,6 +51,8 @@ for book_csv in book_list:
                 print('\t\t(1) Read the Verse')
                 print('\t\t(2) Skip the Verse')
                 k = int(input('\t\tEnter the number then press enter: '))
+                log = add_to_log(log, '\t\t%s %s\n\t\t(1) Read the Verse\n\t\t(2) Skip the Verse\n\t\tEnter the number then press enter: %s'%(book.video_prefix, chapter_number, k))
+                save_log(log, file_name = 'captionFromURL_log')
             if k == 1:
                 #try:
                 verses = get_verse_from_file(book, chapter_number)  
@@ -56,6 +65,7 @@ for book_csv in book_list:
                 #delete_file(file_path, file_name, 'mp4')
                 adv_srt = generate_srt_adv(verses)
                 write_file('Output/Subtitle/%s/%s'%(book.scripture, book.book_name), file_name, 'srt', adv_srt)
+                
                 #except:
                     #print('\t\tGenerate srt for %s %s unsuccess.'%(book.video_prefix, chapter_number))
     print('FINISH BOOK')

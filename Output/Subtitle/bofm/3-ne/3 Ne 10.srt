@@ -1,400 +1,868 @@
 1
-00:00:00,0 --> 00:00:01,4
-Chapter 10 There is silence in the land for many
+00:00:00,0 --> 00:00:00,0
+Chapter 10 There is silence in the land
 
 2
-00:00:01,4 --> 00:00:02,8
- hours—The voice of Christ promises to gather His
+00:00:00,0 --> 00:00:00,0
+for many hours—The voice of Christ promises
 
 3
-00:00:02,8 --> 00:00:04,2
- people as a hen gathers her chickens—The more
+00:00:00,0 --> 00:00:00,0
+to gather His people as a hen gathers her
 
 4
-00:00:04,2 --> 00:00:05,6
- righteous part of the people have been preserved. About
+00:00:00,0 --> 00:00:00,0
+chickens—The more righteous part of the
 
 5
-00:00:05,6 --> 00:00:07,0
- A.D. 34–35.
+00:00:00,0 --> 00:14:39,
+people have been preserved. About A.D. 34–35. 
 
 6
-00:00:07,975 --> 00:00:09,975
-1 And now behold, it came to pass that all the
+00:14:39,0 --> 00:14:39,0
+1 And now behold, it came to pass that
 
 7
-00:00:09,975 --> 00:00:11,975
- people of the land did hear these sayings, and did
+00:14:39,0 --> 00:14:39,0
+all the people of the land did hear
 
 8
-00:00:11,975 --> 00:00:13,975
- witness of it. And after these sayings there was
+00:14:39,0 --> 00:14:39,0
+these sayings, and did witness of it. And
 
 9
-00:00:13,975 --> 00:00:15,975
- silence in the land for the space of many hours
+00:14:39,0 --> 00:14:39,0
+after these sayings there was silence
 
 10
-00:00:15,949 --> 00:00:17,549
-2 For so great was the astonishment of the people
+00:14:39,0 --> 00:16:51,
+in the land for the space of many hours;
 
 11
-00:00:17,549 --> 00:00:19,149
- that they did cease lamenting and howling for the
+00:16:51,0 --> 00:16:51,0
+2 For so great was the astonishment
 
 12
-00:00:19,149 --> 00:00:20,749
- loss of their kindred which had been slain;
+00:16:51,0 --> 00:16:51,0
+of the people that they did cease
 
 13
-00:00:20,749 --> 00:00:22,349
- therefore there was silence in all the land for the
+00:16:51,0 --> 00:16:51,0
+lamenting and howling for the loss of
 
 14
-00:00:22,349 --> 00:00:23,949
- space of many hours
+00:16:51,0 --> 00:16:51,0
+their kindred which had been slain;
 
 15
-00:00:23,924 --> 00:00:24,257
-3 And it came to pass that there came a voice
+00:16:51,0 --> 00:16:51,0
+therefore there was silence in all
 
 16
-00:00:24,257 --> 00:00:24,59
- again unto the people, and all the people did hear,
+00:16:51,0 --> 00:18:03,
+the land for the space of many hours.
 
 17
-00:00:24,59 --> 00:00:24,923
- and did witness of it, saying
+00:18:03,0 --> 00:18:03,0
+3 And it came to pass that there
 
 18
-00:00:24,324 --> 00:00:25,924
-4 O ye people of these great cities which have
+00:18:03,0 --> 00:18:03,0
+came a voice again unto the
 
 19
-00:00:25,924 --> 00:00:27,524
- fallen, who are descendants of Jacob, yea, who are of
+00:18:03,0 --> 00:18:03,0
+people, and all the people did
 
 20
-00:00:27,524 --> 00:00:29,124
- the house of Israel, how oft have I gathered you
+00:18:03,0 --> 00:19:15,
+hear, and did witness of it, saying:
 
 21
-00:00:29,124 --> 00:00:30,724
- as a hen gathereth her chickens under her wings,
+00:19:15,0 --> 00:19:15,0
+4 O ye people of these great
 
 22
-00:00:30,724 --> 00:00:32,324
- and have nourished you
+00:19:15,0 --> 00:19:15,0
+cities which have fallen, who are
 
 23
-00:00:32,299 --> 00:00:33,442
-5 And again, how oft would I have gathered you as
+00:19:15,0 --> 00:19:15,0
+descendants of Jacob, yea, who
 
 24
-00:00:33,442 --> 00:00:34,585
- a hen gathereth her chickens under her wings, yea,
+00:19:15,0 --> 00:19:15,0
+are of the house of Israel,
 
 25
-00:00:34,585 --> 00:00:35,728
- O ye people of the house of Israel, who have
+00:19:15,0 --> 00:19:15,0
+how oft have I gathered you as a
 
 26
-00:00:35,728 --> 00:00:36,871
- fallen; yea, O ye people of the house of Israel, ye
+00:19:15,0 --> 00:19:15,0
+hen gathereth her chickens
 
 27
-00:00:36,871 --> 00:00:38,014
- that dwell at Jerusalem, as ye that have fallen;
+00:19:15,0 --> 00:18:47,
+under her wings, and have nourished you.
 
 28
-00:00:38,014 --> 00:00:39,157
- yea, how oft would I have gathered you as a hen
+00:18:47,0 --> 00:18:47,0
+5 And again, how oft would I
 
 29
-00:00:39,157 --> 00:00:40,3
- gathereth her chickens, and ye would not
+00:18:47,0 --> 00:18:47,0
+have gathered you as a hen
 
 30
-00:00:40,274 --> 00:00:42,274
-6 O ye house of Israel whom I have spared, how oft
+00:18:47,0 --> 00:18:47,0
+gathereth her chickens under her
 
 31
-00:00:42,274 --> 00:00:44,274
- will I gather you as a hen gathereth her chickens
+00:18:47,0 --> 00:18:47,0
+wings, yea, O ye people of the
 
 32
-00:00:44,274 --> 00:00:46,274
- under her wings, if ye will repent and return
+00:18:47,0 --> 00:18:47,0
+house of Israel, who have
 
 33
-00:00:46,274 --> 00:00:48,274
- unto me with full purpose of heart
+00:18:47,0 --> 00:18:47,0
+fallen; yea, O ye people of the
 
 34
-00:00:48,248 --> 00:00:50,915
-7 But if not, O house of Israel, the places of
+00:18:47,0 --> 00:18:47,0
+house of Israel, ye that dwell
 
 35
-00:00:50,915 --> 00:00:53,582
- your dwellings shall become desolate until the time
+00:18:47,0 --> 00:18:47,0
+at Jerusalem, as ye that have
 
 36
-00:00:53,582 --> 00:00:56,249
- of the fulfilling of the covenant to your fathers
+00:18:47,0 --> 00:18:47,0
+fallen; yea, how oft would I
 
 37
-00:00:56,223 --> 00:00:58,223
-8 And now it came to pass that after the people
+00:18:47,0 --> 00:18:47,0
+have gathered you as a hen
 
 38
-00:00:58,223 --> 00:01:00,223
- had heard these words, behold, they began to weep
+00:18:47,0 --> 00:18:19,
+gathereth her chickens, and ye would not.
 
 39
-00:01:00,223 --> 00:01:02,223
- and howl again because of the loss of their kindred
+00:18:19,0 --> 00:18:19,0
+6 O ye house of Israel
 
 40
-00:01:02,223 --> 00:01:04,223
- and friends
+00:18:19,0 --> 00:18:19,0
+whom I have spared, how oft
 
 41
-00:01:04,197 --> 00:01:05,53
-9 And it came to pass that thus did the three days
+00:18:19,0 --> 00:18:19,0
+will I gather you as a hen
 
 42
-00:01:05,53 --> 00:01:06,863
- pass away. And it was in the morning, and the
+00:18:19,0 --> 00:18:19,0
+gathereth her chickens
 
 43
-00:01:06,863 --> 00:01:08,196
- darkness dispersed from off the face of the land, and
+00:18:19,0 --> 00:18:19,0
+under her wings, if ye will
 
 44
-00:01:08,196 --> 00:01:09,529
- the earth did cease to tremble, and the rocks did
+00:18:19,0 --> 00:18:19,0
+repent and return unto me
 
 45
-00:01:09,529 --> 00:01:10,862
- cease to rend, and the dreadful groanings did
+00:18:19,0 --> 00:19:31,
+with full purpose of heart.
 
 46
-00:01:10,862 --> 00:01:12,195
- cease, and all the tumultuous noises did pass away
+00:19:31,0 --> 00:19:31,0
+7 But if not, O house of
 
 47
-00:01:12,172 --> 00:01:13,505
-10 And the earth did cleave together again, that
+00:19:31,0 --> 00:19:31,0
+Israel, the places of
 
 48
-00:01:13,505 --> 00:01:14,838
- it stood; and the mourning, and the weeping, and
+00:19:31,0 --> 00:19:31,0
+your dwellings shall
 
 49
-00:01:14,838 --> 00:01:16,171
- the wailing of the people who were spared alive did
+00:19:31,0 --> 00:19:31,0
+become desolate until the
 
 50
-00:01:16,171 --> 00:01:17,504
- cease; and their mourning was turned into joy, and
+00:19:31,0 --> 00:19:31,0
+time of the fulfilling of
 
 51
-00:01:17,504 --> 00:01:18,837
- their lamentations into the praise and
+00:19:31,0 --> 00:21:43,
+the covenant to your fathers.
 
 52
-00:01:18,837 --> 00:01:20,17
- thanksgiving unto the Lord Jesus Christ, their Redeemer
+00:21:43,0 --> 00:21:43,0
+8 And now it came to
 
 53
-00:01:20,147 --> 00:01:24,147
-11 And thus far were the scriptures fulfilled
+00:21:43,0 --> 00:21:43,0
+pass that after the
 
 54
-00:01:24,147 --> 00:01:28,147
- which had been spoken by the prophets
+00:21:43,0 --> 00:21:43,0
+people had heard these
 
 55
-00:01:28,121 --> 00:01:29,721
-12 And it was the more righteous part of the
+00:21:43,0 --> 00:21:43,0
+words, behold, they began to
 
 56
-00:01:29,721 --> 00:01:31,321
- people who were saved, and it was they who received the
+00:21:43,0 --> 00:21:43,0
+weep and howl again
 
 57
-00:01:31,321 --> 00:01:32,921
- prophets and stoned them not; and it was they who
+00:21:43,0 --> 00:21:43,0
+because of the loss of
 
 58
-00:01:32,921 --> 00:01:34,521
- had not shed the blood of the saints, who were
+00:21:43,0 --> 00:21:15,
+their kindred and friends.
 
 59
-00:01:34,521 --> 00:01:36,121
- spared
+00:21:15,0 --> 00:21:15,0
+9 And it came to pass
 
 60
-00:01:36,096 --> 00:01:37,239
-13 And they were spared and were not sunk and
+00:21:15,0 --> 00:21:15,0
+that thus did the
 
 61
-00:01:37,239 --> 00:01:38,382
- buried up in the earth; and they were not drowned in
+00:21:15,0 --> 00:21:15,0
+three days pass away. And
 
 62
-00:01:38,382 --> 00:01:39,525
- the depths of the sea; and they were not burned by
+00:21:15,0 --> 00:21:15,0
+it was in the morning,
 
 63
-00:01:39,525 --> 00:01:40,668
- fire, neither were they fallen upon and crushed to
+00:21:15,0 --> 00:21:15,0
+and the darkness
 
 64
-00:01:40,668 --> 00:01:41,811
- death; and they were not carried away in the
+00:21:15,0 --> 00:21:15,0
+dispersed from off the
 
 65
-00:01:41,811 --> 00:01:42,954
- whirlwind; neither were they overpowered by the vapor
+00:21:15,0 --> 00:21:15,0
+face of the land, and the
 
 66
-00:01:42,954 --> 00:01:44,097
- of smoke and of darkness
+00:21:15,0 --> 00:21:15,0
+earth did cease to
 
 67
-00:01:44,071 --> 00:01:45,071
-14 And now, whoso readeth, let him understand; he
+00:21:15,0 --> 00:21:15,0
+tremble, and the rocks
 
 68
-00:01:45,071 --> 00:01:46,071
- that hath the scriptures, let him search them, and
+00:21:15,0 --> 00:21:15,0
+did cease to rend, and
 
 69
-00:01:46,071 --> 00:01:47,071
- see and behold if all these deaths and
+00:21:15,0 --> 00:21:15,0
+the dreadful groanings
 
 70
-00:01:47,071 --> 00:01:48,071
- destructions by fire, and by smoke, and by tempests, and by
+00:21:15,0 --> 00:21:15,0
+did cease, and all
 
 71
-00:01:48,071 --> 00:01:49,071
- whirlwinds, and by the opening of the earth to
+00:21:15,0 --> 00:20:47,
+the tumultuous noises did pass away.
 
 72
-00:01:49,071 --> 00:01:50,071
- receive them, and all these things are not unto the
+00:20:47,0 --> 00:20:47,0
+10 And the earth did
 
 73
-00:01:50,071 --> 00:01:51,071
- fulfilling of the prophecies of many of the holy
+00:20:47,0 --> 00:20:47,0
+cleave together
 
 74
-00:01:51,071 --> 00:01:52,071
- prophets
+00:20:47,0 --> 00:20:47,0
+again, that it stood; and
 
 75
-00:01:52,045 --> 00:01:54,712
-15 Behold, I say unto you, Yea, many have
+00:20:47,0 --> 00:20:47,0
+the mourning, and the
 
 76
-00:01:54,712 --> 00:01:57,379
- testified of these things at the coming of Christ, and
+00:20:47,0 --> 00:20:47,0
+weeping, and the
 
 77
-00:01:57,379 --> 00:02:00,046
- were slain because they testified of these things
+00:20:47,0 --> 00:20:47,0
+wailing of the people
 
 78
-00:02:00,02 --> 00:02:03,77
-16 Yea, the prophet Zenos did testify of these
+00:20:47,0 --> 00:20:47,0
+who were spared alive
 
 79
-00:02:03,77 --> 00:02:07,52
- things, and also Zenock spake concerning these
+00:20:47,0 --> 00:20:47,0
+did cease; and their
 
 80
-00:02:07,52 --> 00:02:11,27
- things, because they testified particularly concerning
+00:20:47,0 --> 00:20:47,0
+mourning was turned
 
 81
-00:02:11,27 --> 00:02:15,02
- us, who are the remnant of their seed
+00:20:47,0 --> 00:20:47,0
+into joy, and their
 
 82
-00:02:15,969 --> 00:02:18,636
-17 Behold, our father Jacob also testified
+00:20:47,0 --> 00:20:47,0
+lamentations into the
 
 83
-00:02:18,636 --> 00:02:21,303
- concerning a remnant of the seed of Joseph. And behold,
+00:20:47,0 --> 00:20:47,0
+praise and thanksgiving
 
 84
-00:02:21,303 --> 00:02:23,97
- are not we a remnant of the seed of Joseph? And
+00:20:47,0 --> 00:20:47,0
+unto the Lord Jesus
 
 85
-00:02:23,97 --> 00:02:26,637
- these things which testify of us, are they not
+00:20:47,0 --> 00:21:59,
+Christ, their Redeemer.
 
 86
-00:02:26,637 --> 00:02:29,304
- written upon the plates of brass which our father Lehi
+00:21:59,0 --> 00:21:59,0
+11 And thus far were
 
 87
-00:02:29,304 --> 00:02:31,971
- brought out of Jerusalem
+00:21:59,0 --> 00:21:59,0
+the scriptures
 
 88
-00:02:31,918 --> 00:02:32,807
-18 And it came to pass that in the ending of the
+00:21:59,0 --> 00:21:59,0
+fulfilled which had been
 
 89
-00:02:32,807 --> 00:02:33,696
- thirty and fourth year, behold, I will show unto
+00:21:59,0 --> 00:21:31,
+spoken by the prophets.
 
 90
-00:02:33,696 --> 00:02:34,585
- you that the people of Nephi who were spared, and
+00:21:31,0 --> 00:21:31,0
+12 And it was the
 
 91
-00:02:34,585 --> 00:02:35,474
- also those who had been called Lamanites, who had
+00:21:31,0 --> 00:21:31,0
+more righteous part of
 
 92
-00:02:35,474 --> 00:02:36,363
- been spared, did have great favors shown unto them,
+00:21:31,0 --> 00:21:31,0
+the people who were
 
 93
-00:02:36,363 --> 00:02:37,252
- and great blessings poured out upon their heads,
+00:21:31,0 --> 00:21:31,0
+saved, and it was
 
 94
-00:02:37,252 --> 00:02:38,141
- insomuch that soon after the ascension of Christ
+00:21:31,0 --> 00:21:31,0
+they who received the
 
 95
-00:02:38,141 --> 00:02:39,03
- into heaven he did truly manifest himself unto them
+00:21:31,0 --> 00:21:31,0
+prophets and stoned
 
 96
-00:02:39,03 --> 00:02:39,919
-
+00:21:31,0 --> 00:21:31,0
+them not; and it
 
 97
-00:02:39,893 --> 00:02:40,143
-19 Showing his body unto them, and ministering
+00:21:31,0 --> 00:21:31,0
+was they who had not
 
 98
-00:02:40,143 --> 00:02:40,393
- unto them; and an account of his ministry shall be
+00:21:31,0 --> 00:21:31,0
+shed the blood of the
 
 99
-00:02:40,393 --> 00:02:40,643
- given hereafter. Therefore for this time I make an
+00:21:31,0 --> 00:26:41,
+saints, who were spared—
 
 100
-00:02:40,643 --> 00:02:40,893
- end of my sayings.
+00:26:41,0 --> 00:26:41,0
+13 And they were
+
+101
+00:26:41,0 --> 00:26:41,0
+spared and were not
+
+102
+00:26:41,0 --> 00:26:41,0
+sunk and buried up
+
+103
+00:26:41,0 --> 00:26:41,0
+in the earth; and
+
+104
+00:26:41,0 --> 00:26:41,0
+they were not drowned
+
+105
+00:26:41,0 --> 00:26:41,0
+in the depths of
+
+106
+00:26:41,0 --> 00:26:41,0
+the sea; and they
+
+107
+00:26:41,0 --> 00:26:41,0
+were not burned by
+
+108
+00:26:41,0 --> 00:26:41,0
+fire, neither were
+
+109
+00:26:41,0 --> 00:26:41,0
+they fallen upon and
+
+110
+00:26:41,0 --> 00:26:41,0
+crushed to death;
+
+111
+00:26:41,0 --> 00:26:41,0
+and they were not
+
+112
+00:26:41,0 --> 00:26:41,0
+carried away in the
+
+113
+00:26:41,0 --> 00:26:41,0
+whirlwind; neither
+
+114
+00:26:41,0 --> 00:26:41,0
+were they
+
+115
+00:26:41,0 --> 00:26:41,0
+overpowered by the vapor of
+
+116
+00:26:41,0 --> 00:26:13,
+smoke and of darkness.
+
+117
+00:26:13,0 --> 00:26:13,0
+14 And now, whoso
+
+118
+00:26:13,0 --> 00:26:13,0
+readeth, let him
+
+119
+00:26:13,0 --> 00:26:13,0
+understand; he that
+
+120
+00:26:13,0 --> 00:26:13,0
+hath the
+
+121
+00:26:13,0 --> 00:26:13,0
+scriptures, let him search
+
+122
+00:26:13,0 --> 00:26:13,0
+them, and see and
+
+123
+00:26:13,0 --> 00:26:13,0
+behold if all
+
+124
+00:26:13,0 --> 00:26:13,0
+these deaths and
+
+125
+00:26:13,0 --> 00:26:13,0
+destructions by fire,
+
+126
+00:26:13,0 --> 00:26:13,0
+and by smoke, and
+
+127
+00:26:13,0 --> 00:26:13,0
+by tempests, and
+
+128
+00:26:13,0 --> 00:26:13,0
+by whirlwinds, and
+
+129
+00:26:13,0 --> 00:26:13,0
+by the opening of
+
+130
+00:26:13,0 --> 00:26:13,0
+the earth to
+
+131
+00:26:13,0 --> 00:26:13,0
+receive them, and all
+
+132
+00:26:13,0 --> 00:26:13,0
+these things are
+
+133
+00:26:13,0 --> 00:26:13,0
+not unto the
+
+134
+00:26:13,0 --> 00:26:13,0
+fulfilling of the
+
+135
+00:26:13,0 --> 00:25:45,
+prophecies of many of the holy prophets.
+
+136
+00:25:45,0 --> 00:25:45,0
+15 Behold, I say
+
+137
+00:25:45,0 --> 00:25:45,0
+unto you, Yea,
+
+138
+00:25:45,0 --> 00:25:45,0
+many have
+
+139
+00:25:45,0 --> 00:25:45,0
+testified of these
+
+140
+00:25:45,0 --> 00:25:45,0
+things at the
+
+141
+00:25:45,0 --> 00:25:45,0
+coming of Christ, and
+
+142
+00:25:45,0 --> 00:25:45,0
+were slain
+
+143
+00:25:45,0 --> 00:25:45,0
+because they
+
+144
+00:25:45,0 --> 00:33:57,
+testified of these things.
+
+145
+00:33:57,0 --> 00:33:57,0
+16 Yea, the
+
+146
+00:33:57,0 --> 00:33:57,0
+prophet Zenos did
+
+147
+00:33:57,0 --> 00:33:57,0
+testify of
+
+148
+00:33:57,0 --> 00:33:57,0
+these things, and
+
+149
+00:33:57,0 --> 00:33:57,0
+also Zenock
+
+150
+00:33:57,0 --> 00:33:57,0
+spake concerning
+
+151
+00:33:57,0 --> 00:33:57,0
+these things,
+
+152
+00:33:57,0 --> 00:33:57,0
+because they
+
+153
+00:33:57,0 --> 00:33:57,0
+testified
+
+154
+00:33:57,0 --> 00:33:57,0
+particularly concerning
+
+155
+00:33:57,0 --> 00:33:57,0
+us, who are the
+
+156
+00:33:57,0 --> 00:37:27,
+remnant of their seed.
+
+157
+00:37:27,0 --> 00:37:27,0
+17 Behold, our
+
+158
+00:37:27,0 --> 00:37:27,0
+father Jacob
+
+159
+00:37:27,0 --> 00:37:27,0
+also testified
+
+160
+00:37:27,0 --> 00:37:27,0
+concerning a
+
+161
+00:37:27,0 --> 00:37:27,0
+remnant of the
+
+162
+00:37:27,0 --> 00:37:27,0
+seed of
+
+163
+00:37:27,0 --> 00:37:27,0
+Joseph. And behold,
+
+164
+00:37:27,0 --> 00:37:27,0
+are not we a
+
+165
+00:37:27,0 --> 00:37:27,0
+remnant of the
+
+166
+00:37:27,0 --> 00:37:27,0
+seed of
+
+167
+00:37:27,0 --> 00:37:27,0
+Joseph? And these
+
+168
+00:37:27,0 --> 00:37:27,0
+things which
+
+169
+00:37:27,0 --> 00:37:27,0
+testify of us,
+
+170
+00:37:27,0 --> 00:37:27,0
+are they not
+
+171
+00:37:27,0 --> 00:37:27,0
+written upon the
+
+172
+00:37:27,0 --> 00:37:27,0
+plates of
+
+173
+00:37:27,0 --> 00:37:27,0
+brass which our
+
+174
+00:37:27,0 --> 00:37:27,0
+father Lehi
+
+175
+00:37:27,0 --> 00:39:39,
+brought out of Jerusalem?
+
+176
+00:39:39,0 --> 00:39:39,0
+18 And it
+
+177
+00:39:39,0 --> 00:39:39,0
+came to pass
+
+178
+00:39:39,0 --> 00:39:39,0
+that in the
+
+179
+00:39:39,0 --> 00:39:39,0
+ending of the
+
+180
+00:39:39,0 --> 00:39:39,0
+thirty and
+
+181
+00:39:39,0 --> 00:39:39,0
+fourth year,
+
+182
+00:39:39,0 --> 00:39:39,0
+behold, I will
+
+183
+00:39:39,0 --> 00:39:39,0
+show unto you
+
+184
+00:39:39,0 --> 00:39:39,0
+that the people
+
+185
+00:39:39,0 --> 00:39:39,0
+of Nephi who
+
+186
+00:39:39,0 --> 00:39:39,0
+were spared,
+
+187
+00:39:39,0 --> 00:39:39,0
+and also
+
+188
+00:39:39,0 --> 00:39:39,0
+those who had
+
+189
+00:39:39,0 --> 00:39:39,0
+been called
+
+190
+00:39:39,0 --> 00:39:39,0
+Lamanites, who
+
+191
+00:39:39,0 --> 00:39:39,0
+had been
+
+192
+00:39:39,0 --> 00:39:39,0
+spared, did have
+
+193
+00:39:39,0 --> 00:39:39,0
+great favors
+
+194
+00:39:39,0 --> 00:39:39,0
+shown unto
+
+195
+00:39:39,0 --> 00:39:39,0
+them, and great
+
+196
+00:39:39,0 --> 00:39:39,0
+blessings
+
+197
+00:39:39,0 --> 00:39:39,0
+poured out upon
+
+198
+00:39:39,0 --> 00:39:39,0
+their heads,
+
+199
+00:39:39,0 --> 00:39:39,0
+insomuch that
+
+200
+00:39:39,0 --> 00:39:39,0
+soon after
+
+201
+00:39:39,0 --> 00:39:39,0
+the ascension
+
+202
+00:39:39,0 --> 00:39:39,0
+of Christ
+
+203
+00:39:39,0 --> 00:39:39,0
+into heaven he
+
+204
+00:39:39,0 --> 00:41:51,
+did truly manifest himself unto them—
+
+205
+00:41:51,0 --> 00:41:51,0
+19 Showing
+
+206
+00:41:51,0 --> 00:41:51,0
+his body unto
+
+207
+00:41:51,0 --> 00:41:51,0
+them, and
+
+208
+00:41:51,0 --> 00:41:51,0
+ministering
+
+209
+00:41:51,0 --> 00:41:51,0
+unto them;
+
+210
+00:41:51,0 --> 00:41:51,0
+and an account
+
+211
+00:41:51,0 --> 00:41:51,0
+of his
+
+212
+00:41:51,0 --> 00:41:51,0
+ministry shall
+
+213
+00:41:51,0 --> 00:41:51,0
+be given
+
+214
+00:41:51,0 --> 00:41:51,0
+hereafter.
+
+215
+00:41:51,0 --> 00:41:51,0
+Therefore for
+
+216
+00:41:51,0 --> 00:41:51,0
+this time I
+
+217
+00:41:51,0 --> 00:45:21,
+make an end of my sayings. 
 

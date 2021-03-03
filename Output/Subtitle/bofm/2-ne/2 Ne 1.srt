@@ -1,712 +1,3344 @@
 1
-00:00:00,0 --> 00:00:17,875
-The Second Book of NephiAn account of the death of
+00:00:00,0 --> 00:00:00,0
+The Second Book of NephiAn account of the death
 
 2
-00:00:17,875 --> 00:00:35,75
- Lehi. Nephi’s brethren rebel against him. The
+00:00:00,0 --> 00:00:00,0
+of Lehi. Nephi’s brethren rebel against him. The
 
 3
-00:00:35,75 --> 00:00:53,625
- Lord warns Nephi to depart into the wilderness. His
+00:00:00,0 --> 00:00:00,0
+Lord warns Nephi to depart into the wilderness.
 
 4
-00:00:53,625 --> 00:01:11,5
- journeyings in the wilderness, and so forth.Chapter
+00:00:00,0 --> 00:00:00,0
+His journeyings in the wilderness, and so
 
 5
-00:01:11,5 --> 00:01:29,375
- 1 Lehi prophesies of a land of liberty—His seed
+00:00:00,0 --> 00:00:00,0
+forth.Chapter 1 Lehi prophesies of a land of liberty—His
 
 6
-00:01:29,375 --> 00:01:47,25
- will be scattered and smitten if they reject the
+00:00:00,0 --> 00:00:00,0
+seed will be scattered and smitten if they reject
 
 7
-00:01:47,25 --> 00:02:05,125
- Holy One of Israel—He exhorts his sons to put on the
+00:00:00,0 --> 00:00:00,0
+the Holy One of Israel—He exhorts his sons to put
 
 8
-00:02:05,125 --> 00:02:23,0
- armor of righteousness. About 588–570 B.C.
+00:00:00,0 --> 00:04:57,
+on the armor of righteousness. About 588–570 B.C. 
 
 9
-00:02:23,543 --> 00:02:27,543
-1 And now it came to pass that after I, Nephi, had
+00:04:57,0 --> 00:04:57,0
+1 And now it came to pass that after I,
 
 10
-00:02:27,543 --> 00:02:31,543
- made an end of teaching my brethren, our father,
+00:04:57,0 --> 00:04:57,0
+Nephi, had made an end of teaching my
 
 11
-00:02:31,543 --> 00:02:35,543
- Lehi, also spake many things unto them, and
+00:04:57,0 --> 00:04:57,0
+brethren, our father, Lehi, also spake many
 
 12
-00:02:35,543 --> 00:02:39,543
- rehearsed unto them, how great things the Lord had done
+00:04:57,0 --> 00:04:57,0
+things unto them, and rehearsed unto them, how
 
 13
-00:02:39,543 --> 00:02:43,543
- for them in bringing them out of the land of
+00:04:57,0 --> 00:04:57,0
+great things the Lord had done for them
 
 14
-00:02:43,543 --> 00:02:47,543
- Jerusalem
+00:04:57,0 --> 00:06:41,
+in bringing them out of the land of Jerusalem.
 
 15
-00:02:47,467 --> 00:02:49,467
-2 And he spake unto them concerning their
+00:06:41,0 --> 00:06:41,0
+2 And he spake unto them concerning
 
 16
-00:02:49,467 --> 00:02:51,467
- rebellions upon the waters, and the mercies of God in
+00:06:41,0 --> 00:06:41,0
+their rebellions upon the waters, and the
 
 17
-00:02:51,467 --> 00:02:53,467
- sparing their lives, that they were not swallowed up
+00:06:41,0 --> 00:06:41,0
+mercies of God in sparing their lives,
 
 18
-00:02:53,467 --> 00:02:55,467
- in the sea
+00:06:41,0 --> 00:14:11,
+that they were not swallowed up in the sea.
 
 19
-00:02:55,442 --> 00:02:55,692
-3 And he also spake unto them concerning the land
+00:14:11,0 --> 00:14:11,0
+3 And he also spake unto them
 
 20
-00:02:55,692 --> 00:02:55,942
- of promise, which they had obtained—how merciful
+00:14:11,0 --> 00:14:11,0
+concerning the land of promise, which they
 
 21
-00:02:55,942 --> 00:02:56,192
- the Lord had been in warning us that we should flee
+00:14:11,0 --> 00:14:11,0
+had obtained—how merciful the Lord
 
 22
-00:02:56,192 --> 00:02:56,442
- out of the land of Jerusalem
+00:14:11,0 --> 00:14:11,0
+had been in warning us that we
 
 23
-00:02:56,643 --> 00:03:06,643
-4 For, behold, said he, I have seen a vision, in
+00:14:11,0 --> 00:17:42,
+should flee out of the land of Jerusalem.
 
 24
-00:03:06,643 --> 00:03:16,643
- which I know that Jerusalem is destroyed; and had
+00:17:42,0 --> 00:17:42,0
+4 For, behold, said he, I have
 
 25
-00:03:16,643 --> 00:03:26,643
- we remained in Jerusalem we should also have
+00:17:42,0 --> 00:17:42,0
+seen a vision, in which I
 
 26
-00:03:26,643 --> 00:03:36,643
- perished
+00:17:42,0 --> 00:17:42,0
+know that Jerusalem is destroyed;
 
 27
-00:03:36,75 --> 00:03:40,5
-5 But, said he, notwithstanding our afflictions,
+00:17:42,0 --> 00:17:42,0
+and had we remained in
 
 28
-00:03:40,5 --> 00:03:44,25
- we have obtained a land of promise, a land which is
+00:17:42,0 --> 00:20:38,
+Jerusalem we should also have perished.
 
 29
-00:03:44,25 --> 00:03:47,0
- choice above all other lands; a land which the
+00:20:38,0 --> 00:20:38,0
+5 But, said he,
 
 30
-00:03:47,0 --> 00:03:51,75
- Lord God hath covenanted with me should be a land
+00:20:38,0 --> 00:20:38,0
+notwithstanding our afflictions, we
 
 31
-00:03:51,75 --> 00:03:55,5
- for the inheritance of my seed. Yea, the Lord hath
+00:20:38,0 --> 00:20:38,0
+have obtained a land of
 
 32
-00:03:55,5 --> 00:03:59,25
- covenanted this land unto me, and to my children
+00:20:38,0 --> 00:20:38,0
+promise, a land which is choice
 
 33
-00:03:59,25 --> 00:04:02,0
- forever, and also all those who should be led out of
+00:20:38,0 --> 00:20:38,0
+above all other lands; a
 
 34
-00:04:02,0 --> 00:04:06,75
- other countries by the hand of the Lord
+00:20:38,0 --> 00:20:38,0
+land which the Lord God hath
 
 35
-00:04:06,546 --> 00:04:13,296
-6 Wherefore, I, Lehi, prophesy according to the
+00:20:38,0 --> 00:20:38,0
+covenanted with me should
 
 36
-00:04:13,296 --> 00:04:20,046
- workings of the Spirit which is in me, that there
+00:20:38,0 --> 00:20:38,0
+be a land for the
 
 37
-00:04:20,046 --> 00:04:26,796
- shall none come into this land save they shall be
+00:20:38,0 --> 00:20:38,0
+inheritance of my seed. Yea, the Lord
 
 38
-00:04:26,796 --> 00:04:33,546
- brought by the hand of the Lord
+00:20:38,0 --> 00:20:38,0
+hath covenanted this land
 
 39
-00:04:33,206 --> 00:04:40,428
-7 Wherefore, this land is consecrated unto him
+00:20:38,0 --> 00:20:38,0
+unto me, and to my children
 
 40
-00:04:40,428 --> 00:04:47,65
- whom he shall bring. And if it so be that they shall
+00:20:38,0 --> 00:20:38,0
+forever, and also all
 
 41
-00:04:47,65 --> 00:04:54,872
- serve him according to the commandments which he
+00:20:38,0 --> 00:20:38,0
+those who should be led out of
 
 42
-00:04:54,872 --> 00:05:02,094
- hath given, it shall be a land of liberty unto
+00:20:38,0 --> 00:29:47,
+other countries by the hand of the Lord.
 
 43
-00:05:02,094 --> 00:05:09,316
- them; wherefore, they shall never be brought down into
+00:29:47,0 --> 00:29:47,0
+6 Wherefore, I, Lehi,
 
 44
-00:05:09,316 --> 00:05:16,538
- captivity; if so, it shall be because of
+00:29:47,0 --> 00:29:47,0
+prophesy according to the
 
 45
-00:05:16,538 --> 00:05:23,76
- iniquity; for if iniquity shall abound cursed shall be the
+00:29:47,0 --> 00:29:47,0
+workings of the Spirit
 
 46
-00:05:23,76 --> 00:05:30,982
- land for their sakes, but unto the righteous it
+00:29:47,0 --> 00:29:47,0
+which is in me, that there
 
 47
-00:05:30,982 --> 00:05:38,204
- shall be blessed forever
+00:29:47,0 --> 00:29:47,0
+shall none come into this
 
 48
-00:05:38,238 --> 00:05:45,738
-8 And behold, it is wisdom that this land should
+00:29:47,0 --> 00:29:47,0
+land save they shall be
 
 49
-00:05:45,738 --> 00:05:53,238
- be kept as yet from the knowledge of other nations;
+00:29:47,0 --> 00:29:47,
+brought by the hand of the Lord.
 
 50
-00:05:53,238 --> 00:06:00,738
- for behold, many nations would overrun the land,
+00:29:47,0 --> 00:29:47,0
+7 Wherefore, this land
 
 51
-00:06:00,738 --> 00:06:08,238
- that there would be no place for an inheritance
+00:29:47,0 --> 00:29:47,0
+is consecrated unto him
 
 52
-00:06:08,034 --> 00:06:37,67
-9 Wherefore, I, Lehi, have obtained a promise,
+00:29:47,0 --> 00:29:47,0
+whom he shall bring. And
 
 53
-00:06:37,67 --> 00:07:07,306
- that inasmuch as those whom the Lord God shall bring
+00:29:47,0 --> 00:29:47,0
+if it so be that they
 
 54
-00:07:07,306 --> 00:07:36,942
- out of the land of Jerusalem shall keep his
+00:29:47,0 --> 00:29:47,0
+shall serve him according
 
 55
-00:07:36,942 --> 00:08:06,578
- commandments, they shall prosper upon the face of this
+00:29:47,0 --> 00:29:47,0
+to the commandments
 
 56
-00:08:06,578 --> 00:08:36,214
- land; and they shall be kept from all other
+00:29:47,0 --> 00:29:47,0
+which he hath given, it
 
 57
-00:08:36,214 --> 00:09:05,85
- nations, that they may possess this land unto themselves.
+00:29:47,0 --> 00:29:47,0
+shall be a land of liberty
 
 58
-00:09:05,85 --> 00:09:35,486
- And if it so be that they shall keep his
+00:29:47,0 --> 00:29:47,0
+unto them; wherefore,
 
 59
-00:09:35,486 --> 00:10:05,122
- commandments they shall be blessed upon the face of this
+00:29:47,0 --> 00:29:47,0
+they shall never be brought
 
 60
-00:10:05,122 --> 00:10:34,758
- land, and there shall be none to molest them, nor
+00:29:47,0 --> 00:29:47,0
+down into captivity; if
 
 61
-00:10:34,758 --> 00:11:04,394
- to take away the land of their inheritance; and
+00:29:47,0 --> 00:29:47,0
+so, it shall be because
 
 62
-00:11:04,394 --> 00:11:34,03
- they shall dwell safely forever
+00:29:47,0 --> 00:29:47,0
+of iniquity; for if
 
 63
-00:11:34,994 --> 00:11:37,28
-10 But behold, when the time cometh that they
+00:29:47,0 --> 00:29:47,0
+iniquity shall abound
 
 64
-00:11:37,28 --> 00:11:39,566
- shall dwindle in unbelief, after they have received so
+00:29:47,0 --> 00:29:47,0
+cursed shall be the land for
 
 65
-00:11:39,566 --> 00:11:41,852
- great blessings from the hand of the Lord—having
+00:29:47,0 --> 00:29:47,0
+their sakes, but unto
 
 66
-00:11:41,852 --> 00:11:44,138
- a knowledge of the creation of the earth, and all
+00:29:47,0 --> 00:29:47,
+the righteous it shall be blessed forever.
 
 67
-00:11:44,138 --> 00:11:46,424
- men, knowing the great and marvelous works of the
+00:29:47,0 --> 00:29:47,0
+8 And behold, it is
 
 68
-00:11:46,424 --> 00:11:48,71
- Lord from the creation of the world; having power
+00:29:47,0 --> 00:29:47,0
+wisdom that this land
 
 69
-00:11:48,71 --> 00:11:50,996
- given them to do all things by faith; having all
+00:29:47,0 --> 00:29:47,0
+should be kept as yet
 
 70
-00:11:50,996 --> 00:11:53,282
- the commandments from the beginning, and having
+00:29:47,0 --> 00:29:47,0
+from the knowledge of
 
 71
-00:11:53,282 --> 00:11:55,568
- been brought by his infinite goodness into this
+00:29:47,0 --> 00:29:47,0
+other nations; for
 
 72
-00:11:55,568 --> 00:11:57,854
- precious land of promise—behold, I say, if the day
+00:29:47,0 --> 00:29:47,0
+behold, many nations would
 
 73
-00:11:57,854 --> 00:12:00,14
- shall come that they will reject the Holy One of
+00:29:47,0 --> 00:29:47,0
+overrun the land, that
 
 74
-00:12:00,14 --> 00:12:02,426
- Israel, the true Messiah, their Redeemer and their God,
+00:29:47,0 --> 00:29:47,0
+there would be no
 
 75
-00:12:02,426 --> 00:12:04,712
- behold, the judgments of him that is just shall
+00:29:47,0 --> 00:29:47,
+place for an inheritance.
 
 76
-00:12:04,712 --> 00:12:06,998
- rest upon them
+00:29:47,0 --> 00:29:47,0
+9 Wherefore, I, Lehi,
 
 77
-00:12:06,893 --> 00:12:22,893
-11 Yea, he will bring other nations unto them, and
+00:29:47,0 --> 00:29:47,0
+have obtained a
 
 78
-00:12:22,893 --> 00:12:38,893
- he will give unto them power, and he will take
+00:29:47,0 --> 00:29:47,0
+promise, that inasmuch as
 
 79
-00:12:38,893 --> 00:12:54,893
- away from them the lands of their possessions, and
+00:29:47,0 --> 00:29:47,0
+those whom the Lord
 
 80
-00:12:54,893 --> 00:13:10,893
- he will cause them to be scattered and smitten
+00:29:47,0 --> 00:29:47,0
+God shall bring out
 
 81
-00:13:10,69 --> 00:13:28,29
-12 Yea, as one generation passeth to another there
+00:29:47,0 --> 00:29:47,0
+of the land of
 
 82
-00:13:28,29 --> 00:13:45,89
- shall be bloodsheds, and great visitations among
+00:29:47,0 --> 00:29:47,0
+Jerusalem shall keep his
 
 83
-00:13:45,89 --> 00:14:03,49
- them; wherefore, my sons, I would that ye would
+00:29:47,0 --> 00:29:47,0
+commandments, they shall
 
 84
-00:14:03,49 --> 00:14:21,09
- remember; yea, I would that ye would hearken unto my
+00:29:47,0 --> 00:29:47,0
+prosper upon the
 
 85
-00:14:21,09 --> 00:14:38,69
- words
+00:29:47,0 --> 00:29:47,0
+face of this land; and
 
 86
-00:14:38,411 --> 00:14:46,411
-13 O that ye would awake; awake from a deep sleep,
+00:29:47,0 --> 00:29:47,0
+they shall be kept
 
 87
-00:14:46,411 --> 00:14:54,411
- yea, even from the sleep of hell, and shake off
+00:29:47,0 --> 00:29:47,0
+from all other nations,
 
 88
-00:14:54,411 --> 00:15:02,411
- the awful chains by which ye are bound, which are
+00:29:47,0 --> 00:29:47,0
+that they may possess
 
 89
-00:15:02,411 --> 00:15:10,411
- the chains which bind the children of men, that
+00:29:47,0 --> 00:29:47,0
+this land unto
 
 90
-00:15:10,411 --> 00:15:18,411
- they are carried away captive down to the eternal
+00:29:47,0 --> 00:29:47,0
+themselves. And if it so
 
 91
-00:15:18,411 --> 00:15:26,411
- gulf of misery and woe
+00:29:47,0 --> 00:29:47,0
+be that they shall
 
 92
-00:15:26,259 --> 00:15:27,859
-14 Awake! and arise from the dust, and hear the
+00:29:47,0 --> 00:29:47,0
+keep his commandments
 
 93
-00:15:27,859 --> 00:15:29,459
- words of a trembling parent, whose limbs ye must
+00:29:47,0 --> 00:29:47,0
+they shall be blessed
 
 94
-00:15:29,459 --> 00:15:31,059
- soon lay down in the cold and silent grave, from
+00:29:47,0 --> 00:29:47,0
+upon the face of this
 
 95
-00:15:31,059 --> 00:15:32,659
- whence no traveler can return; a few more days and I
+00:29:47,0 --> 00:29:47,0
+land, and there shall
 
 96
-00:15:32,659 --> 00:15:34,259
- go the way of all the earth
+00:29:47,0 --> 00:29:47,0
+be none to molest
 
 97
-00:15:34,233 --> 00:15:42,233
-15 But behold, the Lord hath redeemed my soul from
+00:29:47,0 --> 00:29:47,0
+them, nor to take away
 
 98
-00:15:42,233 --> 00:15:50,233
- hell; I have beheld his glory, and I am encircled
+00:29:47,0 --> 00:29:47,0
+the land of their
 
 99
-00:15:50,233 --> 00:15:58,233
- about eternally in the arms of his love
+00:29:47,0 --> 00:29:47,0
+inheritance; and they
 
 100
-00:15:58,157 --> 00:16:00,157
-16 And I desire that ye should remember to observe
+00:29:47,0 --> 00:29:47,
+shall dwell safely forever.
 
 101
-00:16:00,157 --> 00:16:02,157
- the statutes and the judgments of the Lord;
+00:29:47,0 --> 00:29:47,0
+10 But behold, when
 
 102
-00:16:02,157 --> 00:16:04,157
- behold, this hath been the anxiety of my soul from the
+00:29:47,0 --> 00:29:47,0
+the time cometh that
 
 103
-00:16:04,157 --> 00:16:06,157
- beginning
+00:29:47,0 --> 00:29:47,0
+they shall dwindle
 
 104
-00:16:06,132 --> 00:16:07,732
-17 My heart hath been weighed down with sorrow
+00:29:47,0 --> 00:29:47,0
+in unbelief, after
 
 105
-00:16:07,732 --> 00:16:09,332
- from time to time, for I have feared, lest for the
+00:29:47,0 --> 00:29:47,0
+they have received so
 
 106
-00:16:09,332 --> 00:16:10,932
- hardness of your hearts the Lord your God should
+00:29:47,0 --> 00:29:47,0
+great blessings
 
 107
-00:16:10,932 --> 00:16:12,532
- come out in the fulness of his wrath upon you, that
+00:29:47,0 --> 00:29:47,0
+from the hand of the
 
 108
-00:16:12,532 --> 00:16:14,132
- ye be cut off and destroyed forever
+00:29:47,0 --> 00:29:47,0
+Lord—having a
 
 109
-00:16:14,106 --> 00:16:18,106
-18 Or, that a cursing should come upon you for the
+00:29:47,0 --> 00:29:47,0
+knowledge of the creation of
 
 110
-00:16:18,106 --> 00:16:22,106
- space of many generations; and ye are visited by
+00:29:47,0 --> 00:29:47,0
+the earth, and all
 
 111
-00:16:22,106 --> 00:16:26,106
- sword, and by famine, and are hated, and are led
+00:29:47,0 --> 00:29:47,0
+men, knowing the
 
 112
-00:16:26,106 --> 00:16:30,106
- according to the will and captivity of the devil
+00:29:47,0 --> 00:29:47,0
+great and marvelous
 
 113
-00:16:30,056 --> 00:16:34,056
-19 O my sons, that these things might not come
+00:29:47,0 --> 00:29:47,0
+works of the Lord from
 
 114
-00:16:34,056 --> 00:16:38,056
- upon you, but that ye might be a choice and a favored
+00:29:47,0 --> 00:29:47,0
+the creation of the
 
 115
-00:16:38,056 --> 00:16:42,056
- people of the Lord. But behold, his will be done;
+00:29:47,0 --> 00:29:47,0
+world; having power
 
 116
-00:16:42,056 --> 00:16:46,056
- for his ways are righteousness forever
+00:29:47,0 --> 00:29:47,0
+given them to do all
 
 117
-00:16:46,005 --> 00:16:47,755
-20 And he hath said that: Inasmuch as ye shall
+00:29:47,0 --> 00:29:47,0
+things by faith;
 
 118
-00:16:47,755 --> 00:16:49,505
- keep my commandments ye shall prosper in the land;
+00:29:47,0 --> 00:29:47,0
+having all the
 
 119
-00:16:49,505 --> 00:16:51,255
- but inasmuch as ye will not keep my commandments ye
+00:29:47,0 --> 00:29:47,0
+commandments from the
 
 120
-00:16:51,255 --> 00:16:53,005
- shall be cut off from my presence
+00:29:47,0 --> 00:29:47,0
+beginning, and having
 
 121
-00:16:53,98 --> 00:16:55,123
-21 And now that my soul might have joy in you, and
+00:29:47,0 --> 00:29:47,0
+been brought by his
 
 122
-00:16:55,123 --> 00:16:56,266
- that my heart might leave this world with
+00:29:47,0 --> 00:29:47,0
+infinite goodness into
 
 123
-00:16:56,266 --> 00:16:57,409
- gladness because of you, that I might not be brought down
+00:29:47,0 --> 00:29:47,0
+this precious land
 
 124
-00:16:57,409 --> 00:16:58,552
- with grief and sorrow to the grave, arise from
+00:29:47,0 --> 00:29:47,0
+of promise—behold, I
 
 125
-00:16:58,552 --> 00:16:59,695
- the dust, my sons, and be men, and be determined in
+00:29:47,0 --> 00:29:47,0
+say, if the day
 
 126
-00:16:59,695 --> 00:17:00,838
- one mind and in one heart, united in all things,
+00:29:47,0 --> 00:29:47,0
+shall come that they
 
 127
-00:17:00,838 --> 00:17:01,981
- that ye may not come down into captivity
+00:29:47,0 --> 00:29:47,0
+will reject the Holy
 
 128
-00:17:01,954 --> 00:17:03,954
-22 That ye may not be cursed with a sore cursing;
+00:29:47,0 --> 00:29:47,0
+One of Israel, the
 
 129
-00:17:03,954 --> 00:17:05,954
- and also, that ye may not incur the displeasure of
+00:29:47,0 --> 00:29:47,0
+true Messiah, their
 
 130
-00:17:05,954 --> 00:17:07,954
- a just God upon you, unto the destruction, yea,
+00:29:47,0 --> 00:29:47,0
+Redeemer and their God,
 
 131
-00:17:07,954 --> 00:17:09,954
- the eternal destruction of both soul and body
+00:29:47,0 --> 00:29:47,0
+behold, the
 
 132
-00:17:09,929 --> 00:17:10,179
-23 Awake, my sons; put on the armor of
+00:29:47,0 --> 00:29:47,
+judgments of him that is just shall rest upon them.
 
 133
-00:17:10,179 --> 00:17:10,429
- righteousness. Shake off the chains with which ye are bound,
+00:29:47,0 --> 00:29:47,0
+11 Yea, he will
 
 134
-00:17:10,429 --> 00:17:10,679
- and come forth out of obscurity, and arise from
+00:29:47,0 --> 00:29:47,0
+bring other nations
 
 135
-00:17:10,679 --> 00:17:10,929
- the dust
+00:29:47,0 --> 00:29:47,0
+unto them, and he
 
 136
-00:17:10,963 --> 00:17:14,296
-24 Rebel no more against your brother, whose views
+00:29:47,0 --> 00:29:47,0
+will give unto them
 
 137
-00:17:14,296 --> 00:17:17,629
- have been glorious, and who hath kept the
+00:29:47,0 --> 00:29:47,0
+power, and he will
 
 138
-00:17:17,629 --> 00:17:20,962
- commandments from the time that we left Jerusalem; and
+00:29:47,0 --> 00:29:47,0
+take away from them
 
 139
-00:17:20,962 --> 00:17:24,295
- who hath been an instrument in the hands of God, in
+00:29:47,0 --> 00:29:47,0
+the lands of their
 
 140
-00:17:24,295 --> 00:17:27,628
- bringing us forth into the land of promise; for
+00:29:47,0 --> 00:29:47,0
+possessions, and he
 
 141
-00:17:27,628 --> 00:17:30,961
- were it not for him, we must have perished with
+00:29:47,0 --> 00:29:47,0
+will cause them to
 
 142
-00:17:30,961 --> 00:17:34,294
- hunger in the wilderness; nevertheless, ye sought to
+00:29:47,0 --> 00:29:47,
+be scattered and smitten.
 
 143
-00:17:34,294 --> 00:17:37,627
- take away his life; yea, and he hath suffered much
+00:29:47,0 --> 00:29:47,0
+12 Yea, as one
 
 144
-00:17:37,627 --> 00:17:40,96
- sorrow because of you
+00:29:47,0 --> 00:29:47,0
+generation passeth to
 
 145
-00:17:40,726 --> 00:17:48,393
-25 And I exceedingly fear and tremble because of
+00:29:47,0 --> 00:29:47,0
+another there
 
 146
-00:17:48,393 --> 00:17:56,06
- you, lest he shall suffer again; for behold, ye
+00:29:47,0 --> 00:29:47,0
+shall be bloodsheds,
 
 147
-00:17:56,06 --> 00:18:03,727
- have accused him that he sought power and authority
+00:29:47,0 --> 00:29:47,0
+and great
 
 148
-00:18:03,727 --> 00:18:11,394
- over you; but I know that he hath not sought for
+00:29:47,0 --> 00:29:47,0
+visitations among them;
 
 149
-00:18:11,394 --> 00:18:19,061
- power nor authority over you, but he hath sought the
+00:29:47,0 --> 00:29:47,0
+wherefore, my sons,
 
 150
-00:18:19,061 --> 00:18:26,728
- glory of God, and your own eternal welfare
+00:29:47,0 --> 00:29:47,0
+I would that ye
 
 151
-00:18:26,372 --> 00:18:32,997
-26 And ye have murmured because he hath been plain
+00:29:47,0 --> 00:29:47,0
+would remember; yea,
 
 152
-00:18:32,997 --> 00:18:39,622
- unto you. Ye say that he hath used sharpness; ye
+00:29:47,0 --> 00:29:47,0
+I would that ye
 
 153
-00:18:39,622 --> 00:18:46,247
- say that he hath been angry with you; but behold,
+00:29:47,0 --> 00:29:47,
+would hearken unto my words.
 
 154
-00:18:46,247 --> 00:18:52,872
- his sharpness was the sharpness of the power of
+00:29:47,0 --> 00:29:47,0
+13 O that ye would
 
 155
-00:18:52,872 --> 00:18:59,497
- the word of God, which was in him; and that which ye
+00:29:47,0 --> 00:29:47,0
+awake; awake from
 
 156
-00:18:59,497 --> 00:19:06,122
- call anger was the truth, according to that which
+00:29:47,0 --> 00:29:47,0
+a deep sleep,
 
 157
-00:19:06,122 --> 00:19:12,747
- is in God, which he could not restrain,
+00:29:47,0 --> 00:29:47,0
+yea, even from the
 
 158
-00:19:12,747 --> 00:19:19,372
- manifesting boldly concerning your iniquities
+00:29:47,0 --> 00:29:47,0
+sleep of hell, and
 
 159
-00:19:19,358 --> 00:19:25,691
-27 And it must needs be that the power of God must
+00:29:47,0 --> 00:29:47,0
+shake off the awful
 
 160
-00:19:25,691 --> 00:19:32,024
- be with him, even unto his commanding you that ye
+00:29:47,0 --> 00:29:47,0
+chains by which
 
 161
-00:19:32,024 --> 00:19:38,357
- must obey. But behold, it was not he, but it was
+00:29:47,0 --> 00:29:47,0
+ye are bound, which
 
 162
-00:19:38,357 --> 00:19:44,69
- the Spirit of the Lord which was in him, which
+00:29:47,0 --> 00:29:47,0
+are the chains
 
 163
-00:19:44,69 --> 00:19:51,023
- opened his mouth to utterance that he could not shut
+00:29:47,0 --> 00:29:47,0
+which bind the
 
 164
-00:19:51,023 --> 00:19:57,356
- it
+00:29:47,0 --> 00:29:47,0
+children of men, that
 
 165
-00:19:57,263 --> 00:20:15,763
-28 And now my son, Laman, and also Lemuel and Sam,
+00:29:47,0 --> 00:29:47,0
+they are carried
 
 166
-00:20:15,763 --> 00:20:34,263
- and also my sons who are the sons of Ishmael,
+00:29:47,0 --> 00:29:47,0
+away captive down to
 
 167
-00:20:34,263 --> 00:20:52,763
- behold, if ye will hearken unto the voice of Nephi ye
+00:29:47,0 --> 00:29:47,0
+the eternal gulf
 
 168
-00:20:52,763 --> 00:21:11,263
- shall not perish. And if ye will hearken unto him
+00:29:47,0 --> 00:29:47,
+of misery and woe.
 
 169
-00:21:11,263 --> 00:21:29,763
- I leave unto you a blessing, yea, even my first
+00:29:47,0 --> 00:29:47,0
+14 Awake! and
 
 170
-00:21:29,763 --> 00:21:48,263
- blessing
+00:29:47,0 --> 00:29:47,0
+arise from the dust,
 
 171
-00:21:48,908 --> 00:22:02,241
-29 But if ye will not hearken unto him I take away
+00:29:47,0 --> 00:29:47,0
+and hear the
 
 172
-00:22:02,241 --> 00:22:15,574
- my first blessing, yea, even my blessing, and it
+00:29:47,0 --> 00:29:47,0
+words of a trembling
 
 173
-00:22:15,574 --> 00:22:28,907
- shall rest upon him
+00:29:47,0 --> 00:29:47,0
+parent, whose
 
 174
-00:22:28,781 --> 00:22:30,381
-30 And now, Zoram, I speak unto you: Behold, thou
+00:29:47,0 --> 00:29:47,0
+limbs ye must soon
 
 175
-00:22:30,381 --> 00:22:31,981
- art the servant of Laban; nevertheless, thou hast
+00:29:47,0 --> 00:29:47,0
+lay down in the
 
 176
-00:22:31,981 --> 00:22:33,581
- been brought out of the land of Jerusalem, and I
+00:29:47,0 --> 00:29:47,0
+cold and silent
 
 177
-00:22:33,581 --> 00:22:35,181
- know that thou art a true friend unto my son,
+00:29:47,0 --> 00:29:47,0
+grave, from whence
 
 178
-00:22:35,181 --> 00:22:36,781
- Nephi, forever
+00:29:47,0 --> 00:29:47,0
+no traveler can
+
+179
+00:29:47,0 --> 00:29:47,0
+return; a few more
+
+180
+00:29:47,0 --> 00:29:47,0
+days and I go
+
+181
+00:29:47,0 --> 00:29:47,
+the way of all the earth.
+
+182
+00:29:47,0 --> 00:29:47,0
+15 But behold,
+
+183
+00:29:47,0 --> 00:29:47,0
+the Lord hath
+
+184
+00:29:47,0 --> 00:29:47,0
+redeemed my soul
+
+185
+00:29:47,0 --> 00:29:47,0
+from hell; I
+
+186
+00:29:47,0 --> 00:29:47,0
+have beheld his
+
+187
+00:29:47,0 --> 00:29:47,0
+glory, and I am
+
+188
+00:29:47,0 --> 00:29:47,0
+encircled
+
+189
+00:29:47,0 --> 00:29:47,0
+about eternally in
+
+190
+00:29:47,0 --> 00:29:47,
+the arms of his love.
+
+191
+00:29:47,0 --> 00:29:47,0
+16 And I
+
+192
+00:29:47,0 --> 00:29:47,0
+desire that ye
+
+193
+00:29:47,0 --> 00:29:47,0
+should remember to
+
+194
+00:29:47,0 --> 00:29:47,0
+observe the
+
+195
+00:29:47,0 --> 00:29:47,0
+statutes and
+
+196
+00:29:47,0 --> 00:29:47,0
+the judgments of
+
+197
+00:29:47,0 --> 00:29:47,0
+the Lord;
+
+198
+00:29:47,0 --> 00:29:47,0
+behold, this hath
+
+199
+00:29:47,0 --> 00:29:47,0
+been the
+
+200
+00:29:47,0 --> 00:29:47,0
+anxiety of my soul
+
+201
+00:29:47,0 --> 00:29:47,
+from the beginning.
+
+202
+00:29:47,0 --> 00:29:47,0
+17 My heart
+
+203
+00:29:47,0 --> 00:29:47,0
+hath been
+
+204
+00:29:47,0 --> 00:29:47,0
+weighed down with
+
+205
+00:29:47,0 --> 00:29:47,0
+sorrow from
+
+206
+00:29:47,0 --> 00:29:47,0
+time to time,
+
+207
+00:29:47,0 --> 00:29:47,0
+for I have
+
+208
+00:29:47,0 --> 00:29:47,0
+feared, lest
+
+209
+00:29:47,0 --> 00:29:47,0
+for the
+
+210
+00:29:47,0 --> 00:29:47,0
+hardness of your
+
+211
+00:29:47,0 --> 00:29:47,0
+hearts the Lord
+
+212
+00:29:47,0 --> 00:29:47,0
+your God
+
+213
+00:29:47,0 --> 00:29:47,0
+should come out
+
+214
+00:29:47,0 --> 00:29:47,0
+in the
+
+215
+00:29:47,0 --> 00:29:47,0
+fulness of his
+
+216
+00:29:47,0 --> 00:29:47,0
+wrath upon you,
+
+217
+00:29:47,0 --> 00:29:47,0
+that ye be cut
+
+218
+00:29:47,0 --> 00:29:47,
+off and destroyed forever;
+
+219
+00:29:47,0 --> 00:29:47,0
+18 Or, that
+
+220
+00:29:47,0 --> 00:29:47,0
+a cursing
+
+221
+00:29:47,0 --> 00:29:47,0
+should come
+
+222
+00:29:47,0 --> 00:29:47,0
+upon you for
+
+223
+00:29:47,0 --> 00:29:47,0
+the space of
+
+224
+00:29:47,0 --> 00:29:47,0
+many
+
+225
+00:29:47,0 --> 00:29:47,0
+generations; and ye
+
+226
+00:29:47,0 --> 00:29:47,0
+are visited
+
+227
+00:29:47,0 --> 00:29:47,0
+by sword,
+
+228
+00:29:47,0 --> 00:29:47,0
+and by
+
+229
+00:29:47,0 --> 00:29:47,0
+famine, and are
+
+230
+00:29:47,0 --> 00:29:47,0
+hated, and are
+
+231
+00:29:47,0 --> 00:29:47,0
+led
+
+232
+00:29:47,0 --> 00:29:47,0
+according to the
+
+233
+00:29:47,0 --> 00:29:47,0
+will and
+
+234
+00:29:47,0 --> 00:29:47,
+captivity of the devil.
+
+235
+00:29:47,0 --> 00:29:47,0
+19 O my
+
+236
+00:29:47,0 --> 00:29:47,0
+sons, that
+
+237
+00:29:47,0 --> 00:29:47,0
+these things
+
+238
+00:29:47,0 --> 00:29:47,0
+might not
+
+239
+00:29:47,0 --> 00:29:47,0
+come upon
+
+240
+00:29:47,0 --> 00:29:47,0
+you, but that
+
+241
+00:29:47,0 --> 00:29:47,0
+ye might be
+
+242
+00:29:47,0 --> 00:29:47,0
+a choice
+
+243
+00:29:47,0 --> 00:29:47,0
+and a
+
+244
+00:29:47,0 --> 00:29:47,0
+favored people of
+
+245
+00:29:47,0 --> 00:29:47,0
+the Lord.
+
+246
+00:29:47,0 --> 00:29:47,0
+But behold,
+
+247
+00:29:47,0 --> 00:29:47,0
+his will
+
+248
+00:29:47,0 --> 00:29:47,0
+be done; for
+
+249
+00:29:47,0 --> 00:29:47,0
+his ways
+
+250
+00:29:47,0 --> 00:29:47,
+are righteousness forever.
+
+251
+00:29:47,0 --> 00:29:47,0
+20 And he
+
+252
+00:29:47,0 --> 00:29:47,0
+hath said
+
+253
+00:29:47,0 --> 00:29:47,0
+that:
+
+254
+00:29:47,0 --> 00:29:47,0
+Inasmuch as ye
+
+255
+00:29:47,0 --> 00:29:47,0
+shall
+
+256
+00:29:47,0 --> 00:29:47,0
+keep my
+
+257
+00:29:47,0 --> 00:29:47,0
+commandments ye
+
+258
+00:29:47,0 --> 00:29:47,0
+shall
+
+259
+00:29:47,0 --> 00:29:47,0
+prosper in
+
+260
+00:29:47,0 --> 00:29:47,0
+the land;
+
+261
+00:29:47,0 --> 00:29:47,0
+but inasmuch
+
+262
+00:29:47,0 --> 00:29:47,0
+as ye
+
+263
+00:29:47,0 --> 00:29:47,0
+will not keep
+
+264
+00:29:47,0 --> 00:29:47,0
+my
+
+265
+00:29:47,0 --> 00:29:47,0
+commandments ye
+
+266
+00:29:47,0 --> 00:29:47,0
+shall be
+
+267
+00:29:47,0 --> 00:29:47,
+cut off from my presence.
+
+268
+00:29:47,0 --> 00:29:47,0
+21 And now
+
+269
+00:29:47,0 --> 00:29:47,0
+that my
+
+270
+00:29:47,0 --> 00:29:47,0
+soul might
+
+271
+00:29:47,0 --> 00:29:47,0
+have joy
+
+272
+00:29:47,0 --> 00:29:47,0
+in you, and
+
+273
+00:29:47,0 --> 00:29:47,0
+that my
+
+274
+00:29:47,0 --> 00:29:47,0
+heart might
+
+275
+00:29:47,0 --> 00:29:47,0
+leave
+
+276
+00:29:47,0 --> 00:29:47,0
+this world
+
+277
+00:29:47,0 --> 00:29:47,0
+with
+
+278
+00:29:47,0 --> 00:29:47,0
+gladness because
+
+279
+00:29:47,0 --> 00:29:47,0
+of you,
+
+280
+00:29:47,0 --> 00:29:47,0
+that I might
+
+281
+00:29:47,0 --> 00:29:47,0
+not be
+
+282
+00:29:47,0 --> 00:29:47,0
+brought down
+
+283
+00:29:47,0 --> 00:29:47,0
+with
+
+284
+00:29:47,0 --> 00:29:47,0
+grief and
+
+285
+00:29:47,0 --> 00:29:47,0
+sorrow to the
+
+286
+00:29:47,0 --> 00:29:47,0
+grave,
+
+287
+00:29:47,0 --> 00:29:47,0
+arise from
+
+288
+00:29:47,0 --> 00:29:47,0
+the dust, my
+
+289
+00:29:47,0 --> 00:29:47,0
+sons, and
+
+290
+00:29:47,0 --> 00:29:47,0
+be men,
+
+291
+00:29:47,0 --> 00:29:47,0
+and be
+
+292
+00:29:47,0 --> 00:29:47,0
+determined in
+
+293
+00:29:47,0 --> 00:29:47,0
+one mind
+
+294
+00:29:47,0 --> 00:29:47,0
+and in one
+
+295
+00:29:47,0 --> 00:29:47,0
+heart,
+
+296
+00:29:47,0 --> 00:29:47,0
+united in all
+
+297
+00:29:47,0 --> 00:29:47,0
+things,
+
+298
+00:29:47,0 --> 00:29:47,0
+that ye may
+
+299
+00:29:47,0 --> 00:29:47,0
+not come
+
+300
+00:29:47,0 --> 00:29:47,0
+down into
+
+301
+00:29:47,0 --> 00:29:47,
+captivity;
+
+302
+00:29:47,0 --> 00:29:47,0
+22 That
+
+303
+00:29:47,0 --> 00:29:47,0
+ye may not
+
+304
+00:29:47,0 --> 00:29:47,0
+be
+
+305
+00:29:47,0 --> 00:29:47,0
+cursed with a
+
+306
+00:29:47,0 --> 00:29:47,0
+sore
+
+307
+00:29:47,0 --> 00:29:47,0
+cursing; and
+
+308
+00:29:47,0 --> 00:29:47,0
+also,
+
+309
+00:29:47,0 --> 00:29:47,0
+that ye may
+
+310
+00:29:47,0 --> 00:29:47,0
+not incur
+
+311
+00:29:47,0 --> 00:29:47,0
+the
+
+312
+00:29:47,0 --> 00:29:47,0
+displeasure
+
+313
+00:29:47,0 --> 00:29:47,0
+of a just
+
+314
+00:29:47,0 --> 00:29:47,0
+God upon
+
+315
+00:29:47,0 --> 00:29:47,0
+you, unto
+
+316
+00:29:47,0 --> 00:29:47,0
+the
+
+317
+00:29:47,0 --> 00:29:47,0
+destruction,
+
+318
+00:29:47,0 --> 00:29:47,0
+yea, the
+
+319
+00:29:47,0 --> 00:29:47,0
+eternal
+
+320
+00:29:47,0 --> 00:29:47,0
+
+
+321
+00:29:47,0 --> 00:29:47,
+destruction of both soul and body.
+
+322
+00:29:47,0 --> 00:29:47,0
+23
+
+323
+00:29:47,0 --> 00:29:47,0
+Awake, my
+
+324
+00:29:47,0 --> 00:29:47,0
+sons; put
+
+325
+00:29:47,0 --> 00:29:47,0
+on the
+
+326
+00:29:47,0 --> 00:29:47,0
+armor of
+
+327
+00:29:47,0 --> 00:29:47,0
+
+
+328
+00:29:47,0 --> 00:29:47,0
+righteousness.
+
+329
+00:29:47,0 --> 00:29:47,0
+Shake off
+
+330
+00:29:47,0 --> 00:29:47,0
+the
+
+331
+00:29:47,0 --> 00:29:47,0
+chains with
+
+332
+00:29:47,0 --> 00:29:47,0
+which ye
+
+333
+00:29:47,0 --> 00:29:47,0
+are
+
+334
+00:29:47,0 --> 00:29:47,0
+bound, and
+
+335
+00:29:47,0 --> 00:29:47,0
+come
+
+336
+00:29:47,0 --> 00:29:47,0
+forth out
+
+337
+00:29:47,0 --> 00:29:47,0
+of
+
+338
+00:29:47,0 --> 00:29:47,0
+obscurity, and
+
+339
+00:29:47,0 --> 00:29:47,
+arise from the dust.
+
+340
+00:29:47,0 --> 00:29:47,0
+24
+
+341
+00:29:47,0 --> 00:29:47,0
+Rebel no
+
+342
+00:29:47,0 --> 00:29:47,0
+more
+
+343
+00:29:47,0 --> 00:29:47,0
+against
+
+344
+00:29:47,0 --> 00:29:47,0
+your
+
+345
+00:29:47,0 --> 00:29:47,0
+brother,
+
+346
+00:29:47,0 --> 00:29:47,0
+whose
+
+347
+00:29:47,0 --> 00:29:47,0
+views have
+
+348
+00:29:47,0 --> 00:29:47,0
+been
+
+349
+00:29:47,0 --> 00:29:47,0
+glorious,
+
+350
+00:29:47,0 --> 00:29:47,0
+and
+
+351
+00:29:47,0 --> 00:29:47,0
+who hath
+
+352
+00:29:47,0 --> 00:29:47,0
+kept
+
+353
+00:29:47,0 --> 00:29:47,0
+the
+
+354
+00:29:47,0 --> 00:29:47,0
+commandments
+
+355
+00:29:47,0 --> 00:29:47,0
+from
+
+356
+00:29:47,0 --> 00:29:47,0
+the time
+
+357
+00:29:47,0 --> 00:29:47,0
+that
+
+358
+00:29:47,0 --> 00:29:47,0
+we left
+
+359
+00:29:47,0 --> 00:29:47,0
+
+
+360
+00:29:47,0 --> 00:29:47,0
+Jerusalem; and
+
+361
+00:29:47,0 --> 00:29:47,0
+who
+
+362
+00:29:47,0 --> 00:29:47,0
+hath been
+
+363
+00:29:47,0 --> 00:29:47,0
+an
+
+364
+00:29:47,0 --> 00:29:47,0
+instrument
+
+365
+00:29:47,0 --> 00:29:47,0
+in the
+
+366
+00:29:47,0 --> 00:29:47,0
+hands
+
+367
+00:29:47,0 --> 00:29:47,0
+of God,
+
+368
+00:29:47,0 --> 00:29:47,0
+in
+
+369
+00:29:47,0 --> 00:29:47,0
+bringing
+
+370
+00:29:47,0 --> 00:29:47,0
+us forth
+
+371
+00:29:47,0 --> 00:29:47,0
+into
+
+372
+00:29:47,0 --> 00:29:47,0
+the land
+
+373
+00:29:47,0 --> 00:29:47,0
+of
+
+374
+00:29:47,0 --> 00:29:47,0
+promise;
+
+375
+00:29:47,0 --> 00:29:47,0
+for were
+
+376
+00:29:47,0 --> 00:29:47,0
+it not
+
+377
+00:29:47,0 --> 00:29:47,0
+for
+
+378
+00:29:47,0 --> 00:29:47,0
+him, we
+
+379
+00:29:47,0 --> 00:29:47,0
+must
+
+380
+00:29:47,0 --> 00:29:47,0
+have
+
+381
+00:29:47,0 --> 00:29:47,0
+perished
+
+382
+00:29:47,0 --> 00:29:47,0
+with
+
+383
+00:29:47,0 --> 00:29:47,0
+hunger in
+
+384
+00:29:47,0 --> 00:29:47,0
+the
+
+385
+00:29:47,0 --> 00:29:47,0
+wilderness;
+
+386
+00:29:47,0 --> 00:29:47,0
+
+
+387
+00:29:47,0 --> 00:29:47,0
+nevertheless,
+
+388
+00:29:47,0 --> 00:29:47,0
+ye
+
+389
+00:29:47,0 --> 00:29:47,0
+sought to
+
+390
+00:29:47,0 --> 00:29:47,0
+take
+
+391
+00:29:47,0 --> 00:29:47,0
+away his
+
+392
+00:29:47,0 --> 00:29:47,
+life; yea, and he hath suffered much sorrow because of you.
+
+393
+00:29:47,0 --> 00:29:47,0
+25 And
+
+394
+00:29:47,0 --> 00:29:47,0
+I
+
+395
+00:29:47,0 --> 00:29:47,0
+exceedingly
+
+396
+00:29:47,0 --> 00:29:47,0
+fear
+
+397
+00:29:47,0 --> 00:29:47,0
+and
+
+398
+00:29:47,0 --> 00:29:47,0
+tremble
+
+399
+00:29:47,0 --> 00:29:47,0
+because of
+
+400
+00:29:47,0 --> 00:29:47,0
+you,
+
+401
+00:29:47,0 --> 00:29:47,0
+lest he
+
+402
+00:29:47,0 --> 00:29:47,0
+shall
+
+403
+00:29:47,0 --> 00:29:47,0
+suffer
+
+404
+00:29:47,0 --> 00:29:47,0
+again;
+
+405
+00:29:47,0 --> 00:29:47,0
+for
+
+406
+00:29:47,0 --> 00:29:47,0
+behold, ye
+
+407
+00:29:47,0 --> 00:29:47,0
+have
+
+408
+00:29:47,0 --> 00:29:47,0
+accused
+
+409
+00:29:47,0 --> 00:29:47,0
+him that
+
+410
+00:29:47,0 --> 00:29:47,0
+he
+
+411
+00:29:47,0 --> 00:29:47,0
+sought
+
+412
+00:29:47,0 --> 00:29:47,0
+power and
+
+413
+00:29:47,0 --> 00:29:47,0
+
+
+414
+00:29:47,0 --> 00:29:47,0
+authority over
+
+415
+00:29:47,0 --> 00:29:47,0
+you;
+
+416
+00:29:47,0 --> 00:29:47,0
+but I
+
+417
+00:29:47,0 --> 00:29:47,0
+know that
+
+418
+00:29:47,0 --> 00:29:47,0
+he hath
+
+419
+00:29:47,0 --> 00:29:47,0
+not
+
+420
+00:29:47,0 --> 00:29:47,0
+sought
+
+421
+00:29:47,0 --> 00:29:47,0
+for power
+
+422
+00:29:47,0 --> 00:29:47,0
+nor
+
+423
+00:29:47,0 --> 00:29:47,0
+authority
+
+424
+00:29:47,0 --> 00:29:47,0
+over
+
+425
+00:29:47,0 --> 00:29:47,0
+you, but
+
+426
+00:29:47,0 --> 00:29:47,0
+he
+
+427
+00:29:47,0 --> 00:29:47,0
+hath
+
+428
+00:29:47,0 --> 00:29:47,0
+sought the
+
+429
+00:29:47,0 --> 00:29:47,0
+glory of
+
+430
+00:29:47,0 --> 00:29:47,0
+God,
+
+431
+00:29:47,0 --> 00:29:47,0
+and your
+
+432
+00:29:47,0 --> 00:29:47,0
+own
+
+433
+00:29:47,0 --> 00:29:47,0
+eternal
+
+434
+00:29:47,0 --> 00:29:47,
+welfare.
+
+435
+00:29:47,0 --> 00:29:47,0
+26 And
+
+436
+00:29:47,0 --> 00:29:47,0
+ye
+
+437
+00:29:47,0 --> 00:29:47,0
+have
+
+438
+00:29:47,0 --> 00:29:47,0
+murmured
+
+439
+00:29:47,0 --> 00:29:47,0
+
+
+440
+00:29:47,0 --> 00:29:47,0
+because he
+
+441
+00:29:47,0 --> 00:29:47,0
+hath
+
+442
+00:29:47,0 --> 00:29:47,0
+been
+
+443
+00:29:47,0 --> 00:29:47,0
+plain
+
+444
+00:29:47,0 --> 00:29:47,0
+unto you.
+
+445
+00:29:47,0 --> 00:29:47,0
+Ye
+
+446
+00:29:47,0 --> 00:29:47,0
+say that
+
+447
+00:29:47,0 --> 00:29:47,0
+he
+
+448
+00:29:47,0 --> 00:29:47,0
+hath
+
+449
+00:29:47,0 --> 00:29:47,0
+used
+
+450
+00:29:47,0 --> 00:29:47,0
+sharpness;
+
+451
+00:29:47,0 --> 00:29:47,0
+ye
+
+452
+00:29:47,0 --> 00:29:47,0
+say that
+
+453
+00:29:47,0 --> 00:29:47,0
+he
+
+454
+00:29:47,0 --> 00:29:47,0
+hath
+
+455
+00:29:47,0 --> 00:29:47,0
+been
+
+456
+00:29:47,0 --> 00:29:47,0
+angry with
+
+457
+00:29:47,0 --> 00:29:47,0
+you;
+
+458
+00:29:47,0 --> 00:29:47,0
+but
+
+459
+00:29:47,0 --> 00:29:47,0
+behold,
+
+460
+00:29:47,0 --> 00:29:47,0
+his
+
+461
+00:29:47,0 --> 00:29:47,0
+
+
+462
+00:29:47,0 --> 00:29:47,0
+sharpness was
+
+463
+00:29:47,0 --> 00:29:47,0
+the
+
+464
+00:29:47,0 --> 00:29:47,0
+
+
+465
+00:29:47,0 --> 00:29:47,0
+sharpness of
+
+466
+00:29:47,0 --> 00:29:47,0
+the
+
+467
+00:29:47,0 --> 00:29:47,0
+power of
+
+468
+00:29:47,0 --> 00:29:47,0
+the
+
+469
+00:29:47,0 --> 00:29:47,0
+word of
+
+470
+00:29:47,0 --> 00:29:47,0
+God,
+
+471
+00:29:47,0 --> 00:29:47,0
+which
+
+472
+00:29:47,0 --> 00:29:47,0
+was in
+
+473
+00:29:47,0 --> 00:29:47,0
+him;
+
+474
+00:29:47,0 --> 00:29:47,0
+and
+
+475
+00:29:47,0 --> 00:29:47,0
+that
+
+476
+00:29:47,0 --> 00:29:47,0
+which ye
+
+477
+00:29:47,0 --> 00:29:47,0
+call
+
+478
+00:29:47,0 --> 00:29:47,0
+anger
+
+479
+00:29:47,0 --> 00:29:47,0
+was the
+
+480
+00:29:47,0 --> 00:29:47,0
+truth,
+
+481
+00:29:47,0 --> 00:29:47,0
+
+
+482
+00:29:47,0 --> 00:29:47,0
+according
+
+483
+00:29:47,0 --> 00:29:47,0
+to that
+
+484
+00:29:47,0 --> 00:29:47,0
+which
+
+485
+00:29:47,0 --> 00:29:47,0
+is in
+
+486
+00:29:47,0 --> 00:29:47,0
+God,
+
+487
+00:29:47,0 --> 00:29:47,0
+which
+
+488
+00:29:47,0 --> 00:29:47,0
+he
+
+489
+00:29:47,0 --> 00:29:47,0
+could not
+
+490
+00:29:47,0 --> 00:29:47,
+restrain, manifesting boldly concerning your iniquities.
+
+491
+00:29:47,0 --> 00:29:47,0
+27
+
+492
+00:29:47,0 --> 00:29:47,0
+And it
+
+493
+00:29:47,0 --> 00:29:47,0
+must
+
+494
+00:29:47,0 --> 00:29:47,0
+needs
+
+495
+00:29:47,0 --> 00:29:47,0
+be
+
+496
+00:29:47,0 --> 00:29:47,0
+that
+
+497
+00:29:47,0 --> 00:29:47,0
+the
+
+498
+00:29:47,0 --> 00:29:47,0
+power
+
+499
+00:29:47,0 --> 00:29:47,0
+of God
+
+500
+00:29:47,0 --> 00:29:47,0
+must
+
+501
+00:29:47,0 --> 00:29:47,0
+be
+
+502
+00:29:47,0 --> 00:29:47,0
+with
+
+503
+00:29:47,0 --> 00:29:47,0
+him,
+
+504
+00:29:47,0 --> 00:29:47,0
+even
+
+505
+00:29:47,0 --> 00:29:47,0
+unto
+
+506
+00:29:47,0 --> 00:29:47,0
+his
+
+507
+00:29:47,0 --> 00:29:47,0
+
+
+508
+00:29:47,0 --> 00:29:47,0
+commanding
+
+509
+00:29:47,0 --> 00:29:47,0
+you
+
+510
+00:29:47,0 --> 00:29:47,0
+that ye
+
+511
+00:29:47,0 --> 00:29:47,0
+must
+
+512
+00:29:47,0 --> 00:29:47,0
+
+
+513
+00:29:47,0 --> 00:29:47,0
+obey. But
+
+514
+00:29:47,0 --> 00:29:47,0
+
+
+515
+00:29:47,0 --> 00:29:47,0
+behold,
+
+516
+00:29:47,0 --> 00:29:47,0
+it was
+
+517
+00:29:47,0 --> 00:29:47,0
+not
+
+518
+00:29:47,0 --> 00:29:47,0
+he,
+
+519
+00:29:47,0 --> 00:29:47,0
+but it
+
+520
+00:29:47,0 --> 00:29:47,0
+was
+
+521
+00:29:47,0 --> 00:29:47,0
+the
+
+522
+00:29:47,0 --> 00:29:47,0
+Spirit
+
+523
+00:29:47,0 --> 00:29:47,0
+of
+
+524
+00:29:47,0 --> 00:29:47,0
+the
+
+525
+00:29:47,0 --> 00:29:47,0
+Lord
+
+526
+00:29:47,0 --> 00:29:47,0
+which
+
+527
+00:29:47,0 --> 00:29:47,0
+was in
+
+528
+00:29:47,0 --> 00:29:47,0
+him,
+
+529
+00:29:47,0 --> 00:29:47,0
+
+
+530
+00:29:47,0 --> 00:29:47,0
+which
+
+531
+00:29:47,0 --> 00:29:47,0
+opened
+
+532
+00:29:47,0 --> 00:29:47,0
+his
+
+533
+00:29:47,0 --> 00:29:47,
+mouth to utterance that he could not shut it.
+
+534
+00:29:47,0 --> 00:29:47,0
+28
+
+535
+00:29:47,0 --> 00:29:47,0
+And
+
+536
+00:29:47,0 --> 00:29:47,0
+now
+
+537
+00:29:47,0 --> 00:29:47,0
+my
+
+538
+00:29:47,0 --> 00:29:47,0
+son,
+
+539
+00:29:47,0 --> 00:29:47,0
+
+
+540
+00:29:47,0 --> 00:29:47,0
+Laman,
+
+541
+00:29:47,0 --> 00:29:47,0
+and
+
+542
+00:29:47,0 --> 00:29:47,0
+also
+
+543
+00:29:47,0 --> 00:29:47,0
+
+
+544
+00:29:47,0 --> 00:29:47,0
+Lemuel
+
+545
+00:29:47,0 --> 00:29:47,0
+and
+
+546
+00:29:47,0 --> 00:29:47,0
+Sam,
+
+547
+00:29:47,0 --> 00:29:47,0
+and
+
+548
+00:29:47,0 --> 00:29:47,0
+also
+
+549
+00:29:47,0 --> 00:29:47,0
+my
+
+550
+00:29:47,0 --> 00:29:47,0
+sons
+
+551
+00:29:47,0 --> 00:29:47,0
+who
+
+552
+00:29:47,0 --> 00:29:47,0
+are
+
+553
+00:29:47,0 --> 00:29:47,0
+the
+
+554
+00:29:47,0 --> 00:29:47,0
+sons
+
+555
+00:29:47,0 --> 00:29:47,0
+of
+
+556
+00:29:47,0 --> 00:29:47,0
+
+
+557
+00:29:47,0 --> 00:29:47,0
+Ishmael,
+
+558
+00:29:47,0 --> 00:29:47,0
+
+
+559
+00:29:47,0 --> 00:29:47,0
+behold,
+
+560
+00:29:47,0 --> 00:29:47,0
+if
+
+561
+00:29:47,0 --> 00:29:47,0
+ye
+
+562
+00:29:47,0 --> 00:29:47,0
+will
+
+563
+00:29:47,0 --> 00:29:47,0
+
+
+564
+00:29:47,0 --> 00:29:47,0
+hearken
+
+565
+00:29:47,0 --> 00:29:47,0
+unto
+
+566
+00:29:47,0 --> 00:29:47,0
+the
+
+567
+00:29:47,0 --> 00:29:47,0
+
+
+568
+00:29:47,0 --> 00:29:47,0
+voice
+
+569
+00:29:47,0 --> 00:29:47,0
+of
+
+570
+00:29:47,0 --> 00:29:47,0
+Nephi
+
+571
+00:29:47,0 --> 00:29:47,0
+ye
+
+572
+00:29:47,0 --> 00:29:47,0
+shall
+
+573
+00:29:47,0 --> 00:29:47,0
+not
+
+574
+00:29:47,0 --> 00:29:47,0
+
+
+575
+00:29:47,0 --> 00:29:47,0
+perish.
+
+576
+00:29:47,0 --> 00:29:47,0
+And
+
+577
+00:29:47,0 --> 00:29:47,0
+if
+
+578
+00:29:47,0 --> 00:29:47,0
+ye
+
+579
+00:29:47,0 --> 00:29:47,0
+will
+
+580
+00:29:47,0 --> 00:29:47,0
+
+
+581
+00:29:47,0 --> 00:29:47,0
+hearken
+
+582
+00:29:47,0 --> 00:29:47,0
+unto
+
+583
+00:29:47,0 --> 00:29:47,0
+him
+
+584
+00:29:47,0 --> 00:29:47,0
+I
+
+585
+00:29:47,0 --> 00:29:47,
+leave unto you a blessing, yea, even my first blessing.
+
+586
+00:29:47,0 --> 00:29:47,0
+29
+
+587
+00:29:47,0 --> 00:29:47,0
+But
+
+588
+00:29:47,0 --> 00:29:47,0
+if ye
+
+589
+00:29:47,0 --> 00:29:47,0
+
+
+590
+00:29:47,0 --> 00:29:47,0
+will
+
+591
+00:29:47,0 --> 00:29:47,0
+not
+
+592
+00:29:47,0 --> 00:29:47,0
+
+
+593
+00:29:47,0 --> 00:29:47,0
+hearken
+
+594
+00:29:47,0 --> 00:29:47,0
+unto
+
+595
+00:29:47,0 --> 00:29:47,0
+him I
+
+596
+00:29:47,0 --> 00:29:47,0
+
+
+597
+00:29:47,0 --> 00:29:47,0
+take
+
+598
+00:29:47,0 --> 00:29:47,0
+away
+
+599
+00:29:47,0 --> 00:29:47,0
+my
+
+600
+00:29:47,0 --> 00:29:47,0
+first
+
+601
+00:29:47,0 --> 00:29:47,0
+
+
+602
+00:29:47,0 --> 00:29:47,0
+
+
+603
+00:29:47,0 --> 00:29:47,0
+blessing,
+
+604
+00:29:47,0 --> 00:29:47,0
+yea,
+
+605
+00:29:47,0 --> 00:29:47,0
+even
+
+606
+00:29:47,0 --> 00:29:47,0
+my
+
+607
+00:29:47,0 --> 00:29:47,0
+
+
+608
+00:29:47,0 --> 00:29:47,0
+blessing,
+
+609
+00:29:47,0 --> 00:29:47,0
+and
+
+610
+00:29:47,0 --> 00:29:47,0
+it
+
+611
+00:29:47,0 --> 00:29:47,0
+
+
+612
+00:29:47,0 --> 00:29:47,0
+shall
+
+613
+00:29:47,0 --> 00:29:47,0
+rest
+
+614
+00:29:47,0 --> 00:29:47,0
+upon
+
+615
+00:29:47,0 --> 00:29:47,
+him.
+
+616
+00:29:47,0 --> 00:29:47,0
+30
+
+617
+00:29:47,0 --> 00:29:47,0
+And
+
+618
+00:29:47,0 --> 00:29:47,0
+
+
+619
+00:29:47,0 --> 00:29:47,0
+now,
+
+620
+00:29:47,0 --> 00:29:47,0
+
+
+621
+00:29:47,0 --> 00:29:47,0
+Zoram,
+
+622
+00:29:47,0 --> 00:29:47,0
+I
+
+623
+00:29:47,0 --> 00:29:47,0
+
+
+624
+00:29:47,0 --> 00:29:47,0
+speak
+
+625
+00:29:47,0 --> 00:29:47,0
+
+
+626
+00:29:47,0 --> 00:29:47,0
+unto
+
+627
+00:29:47,0 --> 00:29:47,0
+you:
+
+628
+00:29:47,0 --> 00:29:47,0
+
+
+629
+00:29:47,0 --> 00:29:47,0
+
+
+630
+00:29:47,0 --> 00:29:47,0
+Behold,
+
+631
+00:29:47,0 --> 00:29:47,0
+
+
+632
+00:29:47,0 --> 00:29:47,0
+thou
+
+633
+00:29:47,0 --> 00:29:47,0
+art
+
+634
+00:29:47,0 --> 00:29:47,0
+the
+
+635
+00:29:47,0 --> 00:29:47,0
+
+
+636
+00:29:47,0 --> 00:29:47,0
+
+
+637
+00:29:47,0 --> 00:29:47,0
+servant
+
+638
+00:29:47,0 --> 00:29:47,0
+of
+
+639
+00:29:47,0 --> 00:29:47,0
+
+
+640
+00:29:47,0 --> 00:29:47,0
+Laban;
+
+641
+00:29:47,0 --> 00:29:47,0
+
+
+642
+00:29:47,0 --> 00:29:47,0
+
+
+643
+00:29:47,0 --> 00:29:47,0
+
+
+644
+00:29:47,0 --> 00:29:47,0
+
+
+645
+00:29:47,0 --> 00:29:47,0
+nevertheless,
+
+646
+00:29:47,0 --> 00:29:47,0
+
+
+647
+00:29:47,0 --> 00:29:47,0
+thou
+
+648
+00:29:47,0 --> 00:29:47,0
+hast
+
+649
+00:29:47,0 --> 00:29:47,0
+
+
+650
+00:29:47,0 --> 00:29:47,0
+been
+
+651
+00:29:47,0 --> 00:29:47,0
+
+
+652
+00:29:47,0 --> 00:29:47,0
+
+
+653
+00:29:47,0 --> 00:29:47,0
+brought
+
+654
+00:29:47,0 --> 00:29:47,0
+out
+
+655
+00:29:47,0 --> 00:29:47,0
+of
+
+656
+00:29:47,0 --> 00:29:47,0
+the
+
+657
+00:29:47,0 --> 00:29:47,0
+
+
+658
+00:29:47,0 --> 00:29:47,0
+land
+
+659
+00:29:47,0 --> 00:29:47,0
+of
+
+660
+00:29:47,0 --> 00:29:47,0
+
+
+661
+00:29:47,0 --> 00:29:47,0
+
+
+662
+00:29:47,0 --> 00:29:47,0
+
+
+663
+00:29:47,0 --> 00:29:47,0
+Jerusalem,
+
+664
+00:29:47,0 --> 00:29:47,0
+and
+
+665
+00:29:47,0 --> 00:29:47,0
+I
+
+666
+00:29:47,0 --> 00:29:47,0
+know
+
+667
+00:29:47,0 --> 00:29:47,0
+
+
+668
+00:29:47,0 --> 00:29:47,
+that thou art a true friend unto my son, Nephi, forever.
+
+669
+00:29:47,0 --> 00:29:47,0
+31
+
+670
+00:29:47,0 --> 00:29:47,0
+
+
+671
+00:29:47,0 --> 00:29:47,0
+
+
+672
+00:29:47,0 --> 00:29:47,0
+
+
+673
+00:29:47,0 --> 00:29:47,0
+
+
+674
+00:29:47,0 --> 00:29:47,0
+
+
+675
+00:29:47,0 --> 00:29:47,0
+Wherefore,
+
+676
+00:29:47,0 --> 00:29:47,0
+
+
+677
+00:29:47,0 --> 00:29:47,0
+
+
+678
+00:29:47,0 --> 00:29:47,0
+
+
+679
+00:29:47,0 --> 00:29:47,0
+because
+
+680
+00:29:47,0 --> 00:29:47,0
+
+
+681
+00:29:47,0 --> 00:29:47,0
+thou
+
+682
+00:29:47,0 --> 00:29:47,0
+
+
+683
+00:29:47,0 --> 00:29:47,0
+
+
+684
+00:29:47,0 --> 00:29:47,0
+hast
+
+685
+00:29:47,0 --> 00:29:47,0
+
+
+686
+00:29:47,0 --> 00:29:47,0
+been
+
+687
+00:29:47,0 --> 00:29:47,0
+
+
+688
+00:29:47,0 --> 00:29:47,0
+
+
+689
+00:29:47,0 --> 00:29:47,0
+
+
+690
+00:29:47,0 --> 00:29:47,0
+
+
+691
+00:29:47,0 --> 00:29:47,0
+faithful
+
+692
+00:29:47,0 --> 00:29:47,0
+
+
+693
+00:29:47,0 --> 00:29:47,0
+thy
+
+694
+00:29:47,0 --> 00:29:47,0
+
+
+695
+00:29:47,0 --> 00:29:47,0
+seed
+
+696
+00:29:47,0 --> 00:29:47,0
+
+
+697
+00:29:47,0 --> 00:29:47,0
+
+
+698
+00:29:47,0 --> 00:29:47,0
+shall
+
+699
+00:29:47,0 --> 00:29:47,0
+
+
+700
+00:29:47,0 --> 00:29:47,0
+be
+
+701
+00:29:47,0 --> 00:29:47,0
+
+
+702
+00:29:47,0 --> 00:29:47,0
+
+
+703
+00:29:47,0 --> 00:29:47,0
+
+
+704
+00:29:47,0 --> 00:29:47,0
+blessed
+
+705
+00:29:47,0 --> 00:29:47,0
+
+
+706
+00:29:47,0 --> 00:29:47,0
+with
+
+707
+00:29:47,0 --> 00:29:47,0
+
+
+708
+00:29:47,0 --> 00:29:47,0
+his
+
+709
+00:29:47,0 --> 00:29:47,0
+
+
+710
+00:29:47,0 --> 00:29:47,0
+
+
+711
+00:29:47,0 --> 00:29:47,0
+seed,
+
+712
+00:29:47,0 --> 00:29:47,0
+
+
+713
+00:29:47,0 --> 00:29:47,0
+
+
+714
+00:29:47,0 --> 00:29:47,0
+that
+
+715
+00:29:47,0 --> 00:29:47,0
+
+
+716
+00:29:47,0 --> 00:29:47,0
+they
+
+717
+00:29:47,0 --> 00:29:47,0
+
+
+718
+00:29:47,0 --> 00:29:47,0
+
+
+719
+00:29:47,0 --> 00:29:47,0
+dwell
+
+720
+00:29:47,0 --> 00:29:47,0
+
+
+721
+00:29:47,0 --> 00:29:47,0
+in
+
+722
+00:29:47,0 --> 00:29:47,0
+
+
+723
+00:29:47,0 --> 00:29:47,0
+
+
+724
+00:29:47,0 --> 00:29:47,0
+
+
+725
+00:29:47,0 --> 00:29:47,0
+
+
+726
+00:29:47,0 --> 00:29:47,0
+prosperity
+
+727
+00:29:47,0 --> 00:29:47,0
+
+
+728
+00:29:47,0 --> 00:29:47,0
+
+
+729
+00:29:47,0 --> 00:29:47,0
+long
+
+730
+00:29:47,0 --> 00:29:47,0
+
+
+731
+00:29:47,0 --> 00:29:47,0
+upon
+
+732
+00:29:47,0 --> 00:29:47,0
+
+
+733
+00:29:47,0 --> 00:29:47,0
+the
+
+734
+00:29:47,0 --> 00:29:47,0
+
+
+735
+00:29:47,0 --> 00:29:47,0
+
+
+736
+00:29:47,0 --> 00:29:47,0
+face
+
+737
+00:29:47,0 --> 00:29:47,0
+of
+
+738
+00:29:47,0 --> 00:29:47,0
+
+
+739
+00:29:47,0 --> 00:29:47,0
+
+
+740
+00:29:47,0 --> 00:29:47,0
+this
+
+741
+00:29:47,0 --> 00:29:47,0
+
+
+742
+00:29:47,0 --> 00:29:47,0
+
+
+743
+00:29:47,0 --> 00:29:47,0
+land;
+
+744
+00:29:47,0 --> 00:29:47,0
+
+
+745
+00:29:47,0 --> 00:29:47,0
+and
+
+746
+00:29:47,0 --> 00:29:47,0
+
+
+747
+00:29:47,0 --> 00:29:47,0
+
+
+748
+00:29:47,0 --> 00:29:47,0
+
+
+749
+00:29:47,0 --> 00:29:47,0
+nothing,
+
+750
+00:29:47,0 --> 00:29:47,0
+
+
+751
+00:29:47,0 --> 00:29:47,0
+
+
+752
+00:29:47,0 --> 00:29:47,0
+save
+
+753
+00:29:47,0 --> 00:29:47,0
+it
+
+754
+00:29:47,0 --> 00:29:47,0
+
+
+755
+00:29:47,0 --> 00:29:47,0
+
+
+756
+00:29:47,0 --> 00:29:47,0
+shall
+
+757
+00:29:47,0 --> 00:29:47,0
+
+
+758
+00:29:47,0 --> 00:29:47,0
+be
+
+759
+00:29:47,0 --> 00:29:47,0
+
+
+760
+00:29:47,0 --> 00:29:47,
+iniquity among them, shall harm or disturb their prosperity upon the face of this land forever.
+
+761
+00:29:47,0 --> 00:29:47,0
+32 Wherefore, if ye shall keep the commandments of the Lord, the Lord hath consecrated this land for the security of thy seed with the seed of my son.
+
+762
+00:29:47,0 --> 00:29:47,0
+
+
+763
+00:29:47,0 --> 00:29:47,0
+
+
+764
+00:29:47,0 --> 00:29:47,0
+
+
+765
+00:29:47,0 --> 00:29:47,0
+
+
+766
+00:29:47,0 --> 00:29:47,0
+
+
+767
+00:29:47,0 --> 00:29:47,0
+
+
+768
+00:29:47,0 --> 00:29:47,0
+
+
+769
+00:29:47,0 --> 00:29:47,0
+
+
+770
+00:29:47,0 --> 00:29:47,0
+
+
+771
+00:29:47,0 --> 00:29:47,0
+
+
+772
+00:29:47,0 --> 00:29:47,0
+
+
+773
+00:29:47,0 --> 00:29:47,0
+Wherefore,
+
+774
+00:29:47,0 --> 00:29:47,0
+
+
+775
+00:29:47,0 --> 00:29:47,0
+
+
+776
+00:29:47,0 --> 00:29:47,0
+if
+
+777
+00:29:47,0 --> 00:29:47,0
+
+
+778
+00:29:47,0 --> 00:29:47,0
+
+
+779
+00:29:47,0 --> 00:29:47,0
+ye
+
+780
+00:29:47,0 --> 00:29:47,0
+
+
+781
+00:29:47,0 --> 00:29:47,0
+
+
+782
+00:29:47,0 --> 00:29:47,0
+
+
+783
+00:29:47,0 --> 00:29:47,0
+
+
+784
+00:29:47,0 --> 00:29:47,0
+
+
+785
+00:29:47,0 --> 00:29:47,0
+shall
+
+786
+00:29:47,0 --> 00:29:47,0
+
+
+787
+00:29:47,0 --> 00:29:47,0
+
+
+788
+00:29:47,0 --> 00:29:47,0
+
+
+789
+00:29:47,0 --> 00:29:47,0
+
+
+790
+00:29:47,0 --> 00:29:47,0
+keep
+
+791
+00:29:47,0 --> 00:29:47,0
+
+
+792
+00:29:47,0 --> 00:29:47,0
+
+
+793
+00:29:47,0 --> 00:29:47,0
+
+
+794
+00:29:47,0 --> 00:29:47,0
+the
+
+795
+00:29:47,0 --> 00:29:47,0
+
+
+796
+00:29:47,0 --> 00:29:47,0
+
+
+797
+00:29:47,0 --> 00:29:47,0
+
+
+798
+00:29:47,0 --> 00:29:47,0
+
+
+799
+00:29:47,0 --> 00:29:47,0
+
+
+800
+00:29:47,0 --> 00:29:47,0
+
+
+801
+00:29:47,0 --> 00:29:47,0
+
+
+802
+00:29:47,0 --> 00:29:47,0
+
+
+803
+00:29:47,0 --> 00:29:47,0
+
+
+804
+00:29:47,0 --> 00:29:47,0
+
+
+805
+00:29:47,0 --> 00:29:47,0
+
+
+806
+00:29:47,0 --> 00:29:47,0
+
+
+807
+00:29:47,0 --> 00:29:47,0
+commandments
+
+808
+00:29:47,0 --> 00:29:47,0
+
+
+809
+00:29:47,0 --> 00:29:47,0
+
+
+810
+00:29:47,0 --> 00:29:47,0
+of
+
+811
+00:29:47,0 --> 00:29:47,0
+
+
+812
+00:29:47,0 --> 00:29:47,0
+
+
+813
+00:29:47,0 --> 00:29:47,0
+
+
+814
+00:29:47,0 --> 00:29:47,0
+the
+
+815
+00:29:47,0 --> 00:29:47,0
+
+
+816
+00:29:47,0 --> 00:29:47,0
+
+
+817
+00:29:47,0 --> 00:29:47,0
+
+
+818
+00:29:47,0 --> 00:29:47,0
+
+
+819
+00:29:47,0 --> 00:29:47,0
+
+
+820
+00:29:47,0 --> 00:29:47,0
+Lord,
+
+821
+00:29:47,0 --> 00:29:47,0
+
+
+822
+00:29:47,0 --> 00:29:47,0
+
+
+823
+00:29:47,0 --> 00:29:47,0
+
+
+824
+00:29:47,0 --> 00:29:47,0
+the
+
+825
+00:29:47,0 --> 00:29:47,0
+
+
+826
+00:29:47,0 --> 00:29:47,0
+
+
+827
+00:29:47,0 --> 00:29:47,0
+
+
+828
+00:29:47,0 --> 00:29:47,0
+
+
+829
+00:29:47,0 --> 00:29:47,0
+Lord
+
+830
+00:29:47,0 --> 00:29:47,0
+
+
+831
+00:29:47,0 --> 00:29:47,0
+
+
+832
+00:29:47,0 --> 00:29:47,0
+
+
+833
+00:29:47,0 --> 00:29:47,0
+
+
+834
+00:29:47,0 --> 00:29:47,0
+hath
+
+835
+00:29:47,0 --> 00:29:47,0
+
+
+836
+00:29:47,0 --> 00:29:47,
+consecrated this land for the security of thy seed with the seed of my son. 
 

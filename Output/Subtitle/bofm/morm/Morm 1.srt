@@ -1,360 +1,1104 @@
 1
-00:00:00,0 --> 00:00:01,4
+00:00:00,0 --> 00:00:00,0
 The Book of MormonChapter 1 Ammaron instructs
 
 2
-00:00:01,4 --> 00:00:02,8
- Mormon concerning the sacred records—War commences
+00:00:00,0 --> 00:00:00,0
+Mormon concerning the sacred records—War commences
 
 3
-00:00:02,8 --> 00:00:04,2
- between the Nephites and the Lamanites—The Three
+00:00:00,0 --> 00:00:00,0
+between the Nephites and the Lamanites—The Three
 
 4
-00:00:04,2 --> 00:00:05,6
- Nephites are taken away—Wickedness, unbelief,
+00:00:00,0 --> 00:00:00,0
+Nephites are taken away—Wickedness, unbelief,
 
 5
-00:00:05,6 --> 00:00:07,0
- sorceries, and witchcraft prevail. About A.D. 321–26.
+00:00:00,0 --> 00:22:07,
+sorceries, and witchcraft prevail. About A.D. 321–26. 
 
 6
-00:00:07,975 --> 00:00:10,642
-1 And now I, Mormon, make a record of the things
+00:22:07,0 --> 00:22:07,0
+1 And now I, Mormon, make a record of
 
 7
-00:00:10,642 --> 00:00:13,309
- which I have both seen and heard, and call it the
+00:22:07,0 --> 00:22:07,0
+the things which I have both seen and
 
 8
-00:00:13,309 --> 00:00:15,976
- Book of Mormon
+00:22:07,0 --> 00:21:39,
+heard, and call it the Book of Mormon.
 
 9
-00:00:15,949 --> 00:00:17,282
-2 And about the time that Ammaron hid up the
+00:21:39,0 --> 00:21:39,0
+2 And about the time that Ammaron
 
 10
-00:00:17,282 --> 00:00:18,615
- records unto the Lord, he came unto me, (I being about
+00:21:39,0 --> 00:21:39,0
+hid up the records unto the Lord, he
 
 11
-00:00:18,615 --> 00:00:19,948
- ten years of age, and I began to be learned
+00:21:39,0 --> 00:21:39,0
+came unto me, (I being about ten
 
 12
-00:00:19,948 --> 00:00:21,281
- somewhat after the manner of the learning of my people)
+00:21:39,0 --> 00:21:39,0
+years of age, and I began to be learned
 
 13
-00:00:21,281 --> 00:00:22,614
- and Ammaron said unto me: I perceive that thou art
+00:21:39,0 --> 00:21:39,0
+somewhat after the manner of the
 
 14
-00:00:22,614 --> 00:00:23,947
- a sober child, and art quick to observe
+00:21:39,0 --> 00:21:39,0
+learning of my people) and Ammaron said
 
 15
-00:00:23,924 --> 00:00:26,21
-3 Therefore, when ye are about twenty and four
+00:21:39,0 --> 00:21:39,0
+unto me: I perceive that thou art a
 
 16
-00:00:26,21 --> 00:00:28,496
- years old I would that ye should remember the things
+00:21:39,0 --> 00:22:51,
+sober child, and art quick to observe;
 
 17
-00:00:28,496 --> 00:00:30,782
- that ye have observed concerning this people; and
+00:22:51,0 --> 00:22:51,0
+3 Therefore, when ye are about
 
 18
-00:00:30,782 --> 00:00:33,068
- when ye are of that age go to the land Antum, unto
+00:22:51,0 --> 00:22:51,0
+twenty and four years old I would
 
 19
-00:00:33,068 --> 00:00:35,354
- a hill which shall be called Shim; and there have
+00:22:51,0 --> 00:22:51,0
+that ye should remember the
 
 20
-00:00:35,354 --> 00:00:37,64
- I deposited unto the Lord all the sacred
+00:22:51,0 --> 00:22:51,0
+things that ye have observed
 
 21
-00:00:37,64 --> 00:00:39,926
- engravings concerning this people
+00:22:51,0 --> 00:22:51,0
+concerning this people; and when ye
 
 22
-00:00:39,873 --> 00:00:41,473
-4 And behold, ye shall take the plates of Nephi
+00:22:51,0 --> 00:22:51,0
+are of that age go to the land
 
 23
-00:00:41,473 --> 00:00:43,073
- unto yourself, and the remainder shall ye leave in
+00:22:51,0 --> 00:22:51,0
+Antum, unto a hill which shall be
 
 24
-00:00:43,073 --> 00:00:44,673
- the place where they are; and ye shall engrave on
+00:22:51,0 --> 00:22:51,0
+called Shim; and there have I
 
 25
-00:00:44,673 --> 00:00:46,273
- the plates of Nephi all the things that ye have
+00:22:51,0 --> 00:22:51,0
+deposited unto the Lord all the
 
 26
-00:00:46,273 --> 00:00:47,873
- observed concerning this people
+00:22:51,0 --> 00:25:33,
+sacred engravings concerning this people.
 
 27
-00:00:47,848 --> 00:00:50,515
-5 And I, Mormon, being a descendant of Nephi, (and
+00:25:33,0 --> 00:25:33,0
+4 And behold, ye shall take
 
 28
-00:00:50,515 --> 00:00:53,182
- my father’s name was Mormon) I remembered the
+00:25:33,0 --> 00:25:33,0
+the plates of Nephi unto
 
 29
-00:00:53,182 --> 00:00:55,849
- things which Ammaron commanded me
+00:25:33,0 --> 00:25:33,0
+yourself, and the remainder
 
 30
-00:00:55,822 --> 00:00:58,489
-6 And it came to pass that I, being eleven years
+00:25:33,0 --> 00:25:33,0
+shall ye leave in the place
 
 31
-00:00:58,489 --> 00:01:01,156
- old, was carried by my father into the land
+00:25:33,0 --> 00:25:33,0
+where they are; and ye shall
 
 32
-00:01:01,156 --> 00:01:03,823
- southward, even to the land of Zarahemla
+00:25:33,0 --> 00:25:33,0
+engrave on the plates of Nephi
 
 33
-00:01:03,797 --> 00:01:09,13
-7 The whole face of the land had become covered
+00:25:33,0 --> 00:25:33,0
+all the things that ye have
 
 34
-00:01:09,13 --> 00:01:14,463
- with buildings, and the people were as numerous
+00:25:33,0 --> 00:30:43,
+observed concerning this people.
 
 35
-00:01:14,463 --> 00:01:19,796
- almost, as it were the sand of the sea
+00:30:43,0 --> 00:30:43,0
+5 And I, Mormon, being a
 
 36
-00:01:19,746 --> 00:01:21,079
-8 And it came to pass in this year there began to
+00:30:43,0 --> 00:30:43,0
+descendant of Nephi, (and
 
 37
-00:01:21,079 --> 00:01:22,412
- be a war between the Nephites, who consisted of
+00:30:43,0 --> 00:30:43,0
+my father’s name was
 
 38
-00:01:22,412 --> 00:01:23,745
- the Nephites and the Jacobites and the Josephites
+00:30:43,0 --> 00:30:43,0
+Mormon) I remembered the things
 
 39
-00:01:23,745 --> 00:01:25,078
- and the Zoramites; and this war was between the
+00:30:43,0 --> 00:34:56,
+which Ammaron commanded me.
 
 40
-00:01:25,078 --> 00:01:26,411
- Nephites, and the Lamanites and the Lemuelites and the
+00:34:56,0 --> 00:34:56,0
+6 And it came to pass
 
 41
-00:01:26,411 --> 00:01:27,744
- Ishmaelites
+00:34:56,0 --> 00:34:56,0
+that I, being eleven
 
 42
-00:01:27,721 --> 00:01:30,388
-9 Now the Lamanites and the Lemuelites and the
+00:34:56,0 --> 00:34:56,0
+years old, was carried
 
 43
-00:01:30,388 --> 00:01:33,055
- Ishmaelites were called Lamanites, and the two
+00:34:56,0 --> 00:34:56,0
+by my father into the
 
 44
-00:01:33,055 --> 00:01:35,722
- parties were Nephites and Lamanites
+00:34:56,0 --> 00:34:56,0
+land southward, even
 
 45
-00:01:35,696 --> 00:01:38,363
-10 And it came to pass that the war began to be
+00:34:56,0 --> 00:41:51,
+to the land of Zarahemla.
 
 46
-00:01:38,363 --> 00:01:41,03
- among them in the borders of Zarahemla, by the
+00:41:51,0 --> 00:41:51,0
+7 The whole face of
 
 47
-00:01:41,03 --> 00:01:43,697
- waters of Sidon
+00:41:51,0 --> 00:41:51,0
+the land had
 
 48
-00:01:43,67 --> 00:01:45,003
-11 And it came to pass that the Nephites had
+00:41:51,0 --> 00:41:51,0
+become covered with
 
 49
-00:01:45,003 --> 00:01:46,336
- gathered together a great number of men, even to exceed
+00:41:51,0 --> 00:41:51,0
+buildings, and the
 
 50
-00:01:46,336 --> 00:01:47,669
- the number of thirty thousand. And it came to
+00:41:51,0 --> 00:41:51,0
+people were as numerous
 
 51
-00:01:47,669 --> 00:01:49,002
- pass that they did have in this same year a number of
+00:41:51,0 --> 00:41:51,0
+almost, as it were
 
 52
-00:01:49,002 --> 00:01:50,335
- battles, in which the Nephites did beat the
+00:41:51,0 --> 00:45:01,
+the sand of the sea.
 
 53
-00:01:50,335 --> 00:01:51,668
- Lamanites and did slay many of them
+00:45:01,0 --> 00:45:01,0
+8 And it came to
 
 54
-00:01:51,645 --> 00:01:53,645
-12 And it came to pass that the Lamanites withdrew
+00:45:01,0 --> 00:45:01,0
+pass in this year
 
 55
-00:01:53,645 --> 00:01:55,645
- their design, and there was peace settled in the
+00:45:01,0 --> 00:45:01,0
+there began to be a
 
 56
-00:01:55,645 --> 00:01:57,645
- land; and peace did remain for the space of about
+00:45:01,0 --> 00:45:01,0
+war between the
 
 57
-00:01:57,645 --> 00:01:59,645
- four years, that there was no bloodshed
+00:45:01,0 --> 00:45:01,0
+Nephites, who
 
 58
-00:01:59,62 --> 00:02:01,219
-13 But wickedness did prevail upon the face of the
+00:45:01,0 --> 00:45:01,0
+consisted of the
 
 59
-00:02:01,219 --> 00:02:02,82
- whole land, insomuch that the Lord did take away
+00:45:01,0 --> 00:45:01,0
+Nephites and the
 
 60
-00:02:02,82 --> 00:02:04,419
- his beloved disciples, and the work of miracles
+00:45:01,0 --> 00:45:01,0
+Jacobites and the
 
 61
-00:02:04,419 --> 00:02:06,02
- and of healing did cease because of the iniquity of
+00:45:01,0 --> 00:45:01,0
+Josephites and the
 
 62
-00:02:06,02 --> 00:02:07,62
- the people
+00:45:01,0 --> 00:45:01,0
+Zoramites; and this war
 
 63
-00:02:07,594 --> 00:02:10,261
-14 And there were no gifts from the Lord, and the
+00:45:01,0 --> 00:45:01,0
+was between the
 
 64
-00:02:10,261 --> 00:02:12,928
- Holy Ghost did not come upon any, because of their
+00:45:01,0 --> 00:45:01,0
+Nephites, and the
 
 65
-00:02:12,928 --> 00:02:15,595
- wickedness and unbelief
+00:45:01,0 --> 00:45:01,0
+Lamanites and the
 
 66
-00:02:15,569 --> 00:02:19,569
-15 And I, being fifteen years of age and being
+00:45:01,0 --> 00:47:43,
+Lemuelites and the Ishmaelites.
 
 67
-00:02:19,569 --> 00:02:23,569
- somewhat of a sober mind, therefore I was visited of
+00:47:43,0 --> 00:47:43,0
+9 Now the
 
 68
-00:02:23,569 --> 00:02:27,569
- the Lord, and tasted and knew of the goodness of
+00:47:43,0 --> 00:47:43,0
+Lamanites and the
 
 69
-00:02:27,569 --> 00:02:31,569
- Jesus
+00:47:43,0 --> 00:47:43,0
+Lemuelites and the
 
 70
-00:02:31,518 --> 00:02:32,851
-16 And I did endeavor to preach unto this people,
+00:47:43,0 --> 00:47:43,0
+Ishmaelites were
 
 71
-00:02:32,851 --> 00:02:34,184
- but my mouth was shut, and I was forbidden that I
+00:47:43,0 --> 00:47:43,0
+called
 
 72
-00:02:34,184 --> 00:02:35,517
- should preach unto them; for behold they had
+00:47:43,0 --> 00:47:43,0
+Lamanites, and the two
 
 73
-00:02:35,517 --> 00:02:36,85
- wilfully rebelled against their God; and the beloved
+00:47:43,0 --> 00:47:43,0
+parties were
 
 74
-00:02:36,85 --> 00:02:38,183
- disciples were taken away out of the land, because
+00:47:43,0 --> 00:51:14,
+Nephites and Lamanites.
 
 75
-00:02:38,183 --> 00:02:39,516
- of their iniquity
+00:51:14,0 --> 00:51:14,0
+10 And it came
 
 76
-00:02:39,493 --> 00:02:41,493
-17 But I did remain among them, but I was
+00:51:14,0 --> 00:51:14,0
+to pass that
 
 77
-00:02:41,493 --> 00:02:43,493
- forbidden to preach unto them, because of the hardness of
+00:51:14,0 --> 00:51:14,0
+the war began to
 
 78
-00:02:43,493 --> 00:02:45,493
- their hearts; and because of the hardness of their
+00:51:14,0 --> 00:51:14,0
+be among them
 
 79
-00:02:45,493 --> 00:02:47,493
- hearts the land was cursed for their sake
+00:51:14,0 --> 00:51:14,0
+in the borders
 
 80
-00:02:47,467 --> 00:02:48,8
-18 And these Gadianton robbers, who were among the
+00:51:14,0 --> 00:51:14,0
+of Zarahemla, by
 
 81
-00:02:48,8 --> 00:02:50,133
- Lamanites, did infest the land, insomuch that the
+00:51:14,0 --> 01:00:23,
+the waters of Sidon.
 
 82
-00:02:50,133 --> 00:02:51,466
- inhabitants thereof began to hide up their
+01:00:23,0 --> 01:00:23,0
+11 And it came
 
 83
-00:02:51,466 --> 00:02:52,799
- treasures in the earth; and they became slippery,
+01:00:23,0 --> 01:00:23,0
+to pass that
 
 84
-00:02:52,799 --> 00:02:54,132
- because the Lord had cursed the land, that they could
+01:00:23,0 --> 01:00:23,0
+the Nephites
 
 85
-00:02:54,132 --> 00:02:55,465
- not hold them, nor retain them again
+01:00:23,0 --> 01:00:23,0
+had gathered
 
 86
-00:02:55,442 --> 00:02:57,042
-19 And it came to pass that there were sorceries,
+01:00:23,0 --> 01:00:23,0
+together a great
 
 87
-00:02:57,042 --> 00:02:58,642
- and witchcrafts, and magics; and the power of the
+01:00:23,0 --> 01:00:23,0
+number of
 
 88
-00:02:58,642 --> 00:03:00,242
- evil one was wrought upon all the face of the
+01:00:23,0 --> 01:00:23,0
+men, even to
 
 89
-00:03:00,242 --> 00:03:01,842
- land, even unto the fulfilling of all the words of
+01:00:23,0 --> 01:00:23,0
+exceed the number
 
 90
-00:03:01,842 --> 00:03:03,442
- Abinadi, and also Samuel the Lamanite.
+01:00:23,0 --> 01:00:23,0
+of thirty
+
+91
+01:00:23,0 --> 01:00:23,0
+thousand. And it
+
+92
+01:00:23,0 --> 01:00:23,0
+came to pass
+
+93
+01:00:23,0 --> 01:00:23,0
+that they did
+
+94
+01:00:23,0 --> 01:00:23,0
+have in this
+
+95
+01:00:23,0 --> 01:00:23,0
+same year a
+
+96
+01:00:23,0 --> 01:00:23,0
+number of battles,
+
+97
+01:00:23,0 --> 01:00:23,0
+in which the
+
+98
+01:00:23,0 --> 01:00:23,0
+Nephites did
+
+99
+01:00:23,0 --> 01:00:23,0
+beat the
+
+100
+01:00:23,0 --> 01:01:21,
+Lamanites and did slay many of them.
+
+101
+01:01:21,0 --> 01:01:21,0
+12 And it
+
+102
+01:01:21,0 --> 01:01:21,0
+came to pass
+
+103
+01:01:21,0 --> 01:01:21,0
+that the
+
+104
+01:01:21,0 --> 01:01:21,0
+Lamanites withdrew
+
+105
+01:01:21,0 --> 01:01:21,0
+their design,
+
+106
+01:01:21,0 --> 01:01:21,0
+and there was
+
+107
+01:01:21,0 --> 01:01:21,0
+peace
+
+108
+01:01:21,0 --> 01:01:21,0
+settled in the
+
+109
+01:01:21,0 --> 01:01:21,0
+land; and peace
+
+110
+01:01:21,0 --> 01:01:21,0
+did remain for
+
+111
+01:01:21,0 --> 01:01:21,0
+the space of
+
+112
+01:01:21,0 --> 01:01:21,0
+about four
+
+113
+01:01:21,0 --> 01:01:21,0
+years, that
+
+114
+01:01:21,0 --> 01:05:34,
+there was no bloodshed.
+
+115
+01:05:34,0 --> 01:05:34,0
+13 But
+
+116
+01:05:34,0 --> 01:05:34,0
+wickedness did
+
+117
+01:05:34,0 --> 01:05:34,0
+prevail upon
+
+118
+01:05:34,0 --> 01:05:34,0
+the face of
+
+119
+01:05:34,0 --> 01:05:34,0
+the whole
+
+120
+01:05:34,0 --> 01:05:34,0
+land, insomuch
+
+121
+01:05:34,0 --> 01:05:34,0
+that the
+
+122
+01:05:34,0 --> 01:05:34,0
+Lord did take
+
+123
+01:05:34,0 --> 01:05:34,0
+away his
+
+124
+01:05:34,0 --> 01:05:34,0
+beloved
+
+125
+01:05:34,0 --> 01:05:34,0
+disciples, and the
+
+126
+01:05:34,0 --> 01:05:34,0
+work of
+
+127
+01:05:34,0 --> 01:05:34,0
+miracles and of
+
+128
+01:05:34,0 --> 01:05:34,0
+healing did
+
+129
+01:05:34,0 --> 01:05:34,0
+cease because
+
+130
+01:05:34,0 --> 01:05:34,0
+of the
+
+131
+01:05:34,0 --> 01:07:46,
+iniquity of the people.
+
+132
+01:07:46,0 --> 01:07:46,0
+14 And
+
+133
+01:07:46,0 --> 01:07:46,0
+there were no
+
+134
+01:07:46,0 --> 01:07:46,0
+gifts from
+
+135
+01:07:46,0 --> 01:07:46,0
+the Lord,
+
+136
+01:07:46,0 --> 01:07:46,0
+and the Holy
+
+137
+01:07:46,0 --> 01:07:46,0
+Ghost did
+
+138
+01:07:46,0 --> 01:07:46,0
+not come
+
+139
+01:07:46,0 --> 01:07:46,0
+upon any,
+
+140
+01:07:46,0 --> 01:07:46,0
+because of
+
+141
+01:07:46,0 --> 01:07:46,0
+their
+
+142
+01:07:46,0 --> 01:09:44,
+wickedness and unbelief.
+
+143
+01:09:44,0 --> 01:09:44,0
+15 And I,
+
+144
+01:09:44,0 --> 01:09:44,0
+being
+
+145
+01:09:44,0 --> 01:09:44,0
+fifteen years
+
+146
+01:09:44,0 --> 01:09:44,0
+of age and
+
+147
+01:09:44,0 --> 01:09:44,0
+being
+
+148
+01:09:44,0 --> 01:09:44,0
+somewhat of a
+
+149
+01:09:44,0 --> 01:09:44,0
+sober
+
+150
+01:09:44,0 --> 01:09:44,0
+mind,
+
+151
+01:09:44,0 --> 01:09:44,0
+therefore I was
+
+152
+01:09:44,0 --> 01:09:44,0
+visited of
+
+153
+01:09:44,0 --> 01:09:44,0
+the Lord,
+
+154
+01:09:44,0 --> 01:09:44,0
+and tasted
+
+155
+01:09:44,0 --> 01:09:44,0
+and knew
+
+156
+01:09:44,0 --> 01:09:44,0
+of the
+
+157
+01:09:44,0 --> 01:13:28,
+goodness of Jesus.
+
+158
+01:13:28,0 --> 01:13:28,0
+16 And I
+
+159
+01:13:28,0 --> 01:13:28,0
+did
+
+160
+01:13:28,0 --> 01:13:28,0
+endeavor to
+
+161
+01:13:28,0 --> 01:13:28,0
+preach unto
+
+162
+01:13:28,0 --> 01:13:28,0
+this
+
+163
+01:13:28,0 --> 01:13:28,0
+people, but
+
+164
+01:13:28,0 --> 01:13:28,0
+my mouth
+
+165
+01:13:28,0 --> 01:13:28,0
+was shut,
+
+166
+01:13:28,0 --> 01:13:28,0
+and I
+
+167
+01:13:28,0 --> 01:13:28,0
+was
+
+168
+01:13:28,0 --> 01:13:28,0
+forbidden that I
+
+169
+01:13:28,0 --> 01:13:28,0
+should
+
+170
+01:13:28,0 --> 01:13:28,0
+preach
+
+171
+01:13:28,0 --> 01:13:28,0
+unto them;
+
+172
+01:13:28,0 --> 01:13:28,0
+for behold
+
+173
+01:13:28,0 --> 01:13:28,0
+they had
+
+174
+01:13:28,0 --> 01:13:28,0
+wilfully
+
+175
+01:13:28,0 --> 01:13:28,0
+rebelled
+
+176
+01:13:28,0 --> 01:13:28,0
+against
+
+177
+01:13:28,0 --> 01:13:28,0
+their
+
+178
+01:13:28,0 --> 01:13:28,0
+God; and the
+
+179
+01:13:28,0 --> 01:13:28,0
+beloved
+
+180
+01:13:28,0 --> 01:13:28,0
+disciples
+
+181
+01:13:28,0 --> 01:13:28,0
+were
+
+182
+01:13:28,0 --> 01:13:28,0
+taken away
+
+183
+01:13:28,0 --> 01:13:28,0
+out of the
+
+184
+01:13:28,0 --> 01:15:40,
+land, because of their iniquity.
+
+185
+01:15:40,0 --> 01:15:40,0
+17 But I
+
+186
+01:15:40,0 --> 01:15:40,0
+did
+
+187
+01:15:40,0 --> 01:15:40,0
+remain
+
+188
+01:15:40,0 --> 01:15:40,0
+among them,
+
+189
+01:15:40,0 --> 01:15:40,0
+but I
+
+190
+01:15:40,0 --> 01:15:40,0
+was
+
+191
+01:15:40,0 --> 01:15:40,0
+forbidden to
+
+192
+01:15:40,0 --> 01:15:40,0
+preach
+
+193
+01:15:40,0 --> 01:15:40,0
+unto them,
+
+194
+01:15:40,0 --> 01:15:40,0
+because
+
+195
+01:15:40,0 --> 01:15:40,0
+of the
+
+196
+01:15:40,0 --> 01:15:40,0
+hardness
+
+197
+01:15:40,0 --> 01:15:40,0
+of
+
+198
+01:15:40,0 --> 01:15:40,0
+their
+
+199
+01:15:40,0 --> 01:15:40,0
+hearts; and
+
+200
+01:15:40,0 --> 01:15:40,0
+because of
+
+201
+01:15:40,0 --> 01:15:40,0
+the
+
+202
+01:15:40,0 --> 01:15:40,0
+hardness of
+
+203
+01:15:40,0 --> 01:15:40,0
+their
+
+204
+01:15:40,0 --> 01:15:40,0
+hearts
+
+205
+01:15:40,0 --> 01:15:40,0
+the land
+
+206
+01:15:40,0 --> 01:21:51,
+was cursed for their sake.
+
+207
+01:21:51,0 --> 01:21:51,0
+18 And
+
+208
+01:21:51,0 --> 01:21:51,0
+these
+
+209
+01:21:51,0 --> 01:21:51,0
+
+
+210
+01:21:51,0 --> 01:21:51,0
+Gadianton
+
+211
+01:21:51,0 --> 01:21:51,0
+robbers, who
+
+212
+01:21:51,0 --> 01:21:51,0
+were
+
+213
+01:21:51,0 --> 01:21:51,0
+among
+
+214
+01:21:51,0 --> 01:21:51,0
+the
+
+215
+01:21:51,0 --> 01:21:51,0
+Lamanites,
+
+216
+01:21:51,0 --> 01:21:51,0
+did
+
+217
+01:21:51,0 --> 01:21:51,0
+infest the
+
+218
+01:21:51,0 --> 01:21:51,0
+land,
+
+219
+01:21:51,0 --> 01:21:51,0
+insomuch
+
+220
+01:21:51,0 --> 01:21:51,0
+that
+
+221
+01:21:51,0 --> 01:21:51,0
+the
+
+222
+01:21:51,0 --> 01:21:51,0
+inhabitants
+
+223
+01:21:51,0 --> 01:21:51,0
+
+
+224
+01:21:51,0 --> 01:21:51,0
+thereof began
+
+225
+01:21:51,0 --> 01:21:51,0
+to
+
+226
+01:21:51,0 --> 01:21:51,0
+hide up
+
+227
+01:21:51,0 --> 01:21:51,0
+their
+
+228
+01:21:51,0 --> 01:21:51,0
+treasures
+
+229
+01:21:51,0 --> 01:21:51,0
+in the
+
+230
+01:21:51,0 --> 01:21:51,0
+earth;
+
+231
+01:21:51,0 --> 01:21:51,0
+and
+
+232
+01:21:51,0 --> 01:21:51,0
+they
+
+233
+01:21:51,0 --> 01:21:51,0
+became
+
+234
+01:21:51,0 --> 01:21:51,0
+slippery,
+
+235
+01:21:51,0 --> 01:21:51,0
+because
+
+236
+01:21:51,0 --> 01:21:51,0
+the Lord
+
+237
+01:21:51,0 --> 01:21:51,0
+had
+
+238
+01:21:51,0 --> 01:21:51,0
+cursed
+
+239
+01:21:51,0 --> 01:21:51,0
+the land,
+
+240
+01:21:51,0 --> 01:21:51,0
+that
+
+241
+01:21:51,0 --> 01:21:51,0
+they
+
+242
+01:21:51,0 --> 01:22:35,
+could not hold them, nor retain them again.
+
+243
+01:22:35,0 --> 01:22:35,0
+19 And
+
+244
+01:22:35,0 --> 01:22:35,0
+it
+
+245
+01:22:35,0 --> 01:22:35,0
+came to
+
+246
+01:22:35,0 --> 01:22:35,0
+pass
+
+247
+01:22:35,0 --> 01:22:35,0
+that
+
+248
+01:22:35,0 --> 01:22:35,0
+there
+
+249
+01:22:35,0 --> 01:22:35,0
+were
+
+250
+01:22:35,0 --> 01:22:35,0
+
+
+251
+01:22:35,0 --> 01:22:35,0
+sorceries, and
+
+252
+01:22:35,0 --> 01:22:35,0
+
+
+253
+01:22:35,0 --> 01:22:35,0
+witchcrafts,
+
+254
+01:22:35,0 --> 01:22:35,0
+and
+
+255
+01:22:35,0 --> 01:22:35,0
+magics;
+
+256
+01:22:35,0 --> 01:22:35,0
+and
+
+257
+01:22:35,0 --> 01:22:35,0
+the
+
+258
+01:22:35,0 --> 01:22:35,0
+power of
+
+259
+01:22:35,0 --> 01:22:35,0
+the
+
+260
+01:22:35,0 --> 01:22:35,0
+evil one
+
+261
+01:22:35,0 --> 01:22:35,0
+was
+
+262
+01:22:35,0 --> 01:22:35,0
+wrought
+
+263
+01:22:35,0 --> 01:22:35,0
+upon
+
+264
+01:22:35,0 --> 01:22:35,0
+all
+
+265
+01:22:35,0 --> 01:22:35,0
+the face
+
+266
+01:22:35,0 --> 01:22:35,0
+of
+
+267
+01:22:35,0 --> 01:22:35,0
+the
+
+268
+01:22:35,0 --> 01:22:35,0
+land, even
+
+269
+01:22:35,0 --> 01:22:35,0
+unto
+
+270
+01:22:35,0 --> 01:22:35,0
+the
+
+271
+01:22:35,0 --> 01:22:35,0
+
+
+272
+01:22:35,0 --> 01:22:35,0
+fulfilling of
+
+273
+01:22:35,0 --> 01:22:35,0
+all
+
+274
+01:22:35,0 --> 01:22:35,0
+the
+
+275
+01:22:35,0 --> 01:22:35,0
+words of
+
+276
+01:22:35,0 --> 01:26:05,
+Abinadi, and also Samuel the Lamanite. 
 

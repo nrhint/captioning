@@ -5,6 +5,7 @@ import time
 
 from data.video import Video
 from util.time_util import convert_time
+from util.logging_util import save_log, add_to_log
 
 header = ''
 max_time = 8
@@ -69,9 +70,10 @@ def find_forward(video, verse, start_frame, end_frame, inc_rate, last_positions,
     verse.end_time = convert_time(end_frame)
     return verse
    
-def find_times(video, verses, thresh = 200):#Thresh = 150 for BofM
+def find_times(video, verses, log, thresh = 200):#Thresh = 150 for BofM
 
     print("\n-- Finding Verses in Video --")
+    log = add_to_log(log, "\n-- Finding Verses in Video --")
     for verse_index in range(0, len(verses)):
         
         startProcess = time.time()#Use for speed testing
@@ -95,6 +97,7 @@ def find_times(video, verses, thresh = 200):#Thresh = 150 for BofM
 
         print("\n\t" + verse.id)
         print("\tSearch from: %s-%s"%(start_frame,end_frame))
+        log = add_to_log(log, "\n\t%s\n\tSearch from: %s-%s"%(verse.id, start_frame,end_frame))
         # fin min/max for both rate and time for current verse
         verse = find_forward(video, verse, start_frame, end_frame, inc_rate, positions, thresh)
         
@@ -108,22 +111,25 @@ def find_times(video, verses, thresh = 200):#Thresh = 150 for BofM
         #verse.print()
         endProcess = time.time()
         print("\t%s\ttook %4.3f seconds"%(verse.id, endProcess-startProcess))
+        log = add_to_log(log, "\t%s\ttook %4.3f seconds"%(verse.id, endProcess-startProcess))
         #if verse.number % 5 == 0:
-    return verse
+    return log
 
 #
 def get_time_from_video(verses, url):
 
+    log = ''
     video = Video()
     print(url)
+    log = add_to_log(log, url)
     video.cap = cv2.VideoCapture(url)
     video.findDetail()
-    video.print()
+    log = video.print(log = log)
 
     #calculate_prob(get_pixel_positions(video, 100, 200), get_pixel_positions(video, 101, 200))
 
     startProcess = time.time()#Use for speed testing
-    find_times(video, verses)
+    log = find_times(video, verses, log)
     if verses[0].start_time is None:
         verses[0].start_time = 0
     if verses[-1].end_time is None:
@@ -133,3 +139,5 @@ def get_time_from_video(verses, url):
     cv2.destroyAllWindows()
     endProcess = time.time()
     print('It took %s seconds to process the video'%(endProcess-startProcess))
+    log = add_to_log(log, 'It took %s seconds to process the video'%(endProcess-startProcess))
+    save_log(log, file_name = 'video_util_m2_log'+verses[0].chapter)

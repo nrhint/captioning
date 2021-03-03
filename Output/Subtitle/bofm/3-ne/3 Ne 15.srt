@@ -1,380 +1,1288 @@
 1
-00:00:00,0 --> 00:00:04,6
+00:00:00,0 --> 00:00:00,0
 Chapter 15 Jesus announces that the law of Moses
 
 2
-00:00:04,6 --> 00:00:09,2
- is fulfilled in Him—The Nephites are the other
+00:00:00,0 --> 00:00:00,0
+is fulfilled in Him—The Nephites are the other
 
 3
-00:00:09,2 --> 00:00:13,8
- sheep of whom He spoke in Jerusalem—Because of
+00:00:00,0 --> 00:00:00,0
+sheep of whom He spoke in Jerusalem—Because of
 
 4
-00:00:13,8 --> 00:00:18,4
- iniquity, the Lord’s people in Jerusalem do not know of
+00:00:00,0 --> 00:00:00,0
+iniquity, the Lord’s people in Jerusalem do not know
 
 5
-00:00:18,4 --> 00:00:23,0
- the scattered sheep of Israel. About A.D. 34.
+00:00:00,0 --> 00:07:29,
+of the scattered sheep of Israel. About A.D. 34. 
 
 6
-00:00:23,924 --> 00:00:25,067
+00:07:29,0 --> 00:07:29,0
 1 And now it came to pass that when Jesus had
 
 7
-00:00:25,067 --> 00:00:26,21
- ended these sayings he cast his eyes round about on
+00:07:29,0 --> 00:07:29,0
+ended these sayings he cast his eyes round
 
 8
-00:00:26,21 --> 00:00:27,353
- the multitude, and said unto them: Behold, ye have
+00:07:29,0 --> 00:07:29,0
+about on the multitude, and said unto them:
 
 9
-00:00:27,353 --> 00:00:28,496
- heard the things which I taught before I ascended
+00:07:29,0 --> 00:07:29,0
+Behold, ye have heard the things which I taught
 
 10
-00:00:28,496 --> 00:00:29,639
- to my Father; therefore, whoso remembereth these
+00:07:29,0 --> 00:07:29,0
+before I ascended to my Father; therefore,
 
 11
-00:00:29,639 --> 00:00:30,782
- sayings of mine and doeth them, him will I raise up
+00:07:29,0 --> 00:07:29,0
+whoso remembereth these sayings of mine and
 
 12
-00:00:30,782 --> 00:00:31,925
- at the last day
+00:07:29,0 --> 00:13:39,
+doeth them, him will I raise up at the last day.
 
 13
-00:00:31,899 --> 00:00:33,232
-2 And it came to pass that when Jesus had said
+00:13:39,0 --> 00:13:39,0
+2 And it came to pass that when Jesus
 
 14
-00:00:33,232 --> 00:00:34,565
- these words he perceived that there were some among
+00:13:39,0 --> 00:13:39,0
+had said these words he perceived that
 
 15
-00:00:34,565 --> 00:00:35,898
- them who marveled, and wondered what he would
+00:13:39,0 --> 00:13:39,0
+there were some among them who marveled,
 
 16
-00:00:35,898 --> 00:00:37,231
- concerning the law of Moses; for they understood not
+00:13:39,0 --> 00:13:39,0
+and wondered what he would concerning
 
 17
-00:00:37,231 --> 00:00:38,564
- the saying that old things had passed away, and that
+00:13:39,0 --> 00:13:39,0
+the law of Moses; for they understood
 
 18
-00:00:38,564 --> 00:00:39,897
- all things had become new
+00:13:39,0 --> 00:13:39,0
+not the saying that old things had
 
 19
-00:00:39,873 --> 00:00:42,54
-3 And he said unto them: Marvel not that I said
+00:13:39,0 --> 00:18:49,
+passed away, and that all things had become new.
 
 20
-00:00:42,54 --> 00:00:45,207
- unto you that old things had passed away, and that
+00:18:49,0 --> 00:18:49,0
+3 And he said unto them: Marvel
 
 21
-00:00:45,207 --> 00:00:47,874
- all things had become new
+00:18:49,0 --> 00:18:49,0
+not that I said unto you that
 
 22
-00:00:47,147 --> 00:00:51,147
-4 Behold, I say unto you that the law is fulfilled
+00:18:49,0 --> 00:18:49,0
+old things had passed away, and
 
 23
-00:00:51,147 --> 00:00:55,147
- that was given unto Moses
+00:18:49,0 --> 00:20:01,
+that all things had become new.
 
 24
-00:00:55,122 --> 00:00:57,122
-5 Behold, I am he that gave the law, and I am he
+00:20:01,0 --> 00:20:01,0
+4 Behold, I say unto you
 
 25
-00:00:57,122 --> 00:00:59,122
- who covenanted with my people Israel; therefore,
+00:20:01,0 --> 00:20:01,0
+that the law is fulfilled
 
 26
-00:00:59,122 --> 00:01:01,122
- the law in me is fulfilled, for I have come to
+00:20:01,0 --> 00:19:33,
+that was given unto Moses.
 
 27
-00:01:01,122 --> 00:01:03,122
- fulfil the law; therefore it hath an end
+00:19:33,0 --> 00:19:33,0
+5 Behold, I am he that
 
 28
-00:01:03,096 --> 00:01:05,763
-6 Behold, I do not destroy the prophets, for as
+00:19:33,0 --> 00:19:33,0
+gave the law, and I am
 
 29
-00:01:05,763 --> 00:01:08,43
- many as have not been fulfilled in me, verily I say
+00:19:33,0 --> 00:19:33,0
+he who covenanted with
 
 30
-00:01:08,43 --> 00:01:11,097
- unto you, shall all be fulfilled
+00:19:33,0 --> 00:19:33,0
+my people Israel;
 
 31
-00:01:11,071 --> 00:01:13,738
-7 And because I said unto you that old things have
+00:19:33,0 --> 00:19:33,0
+therefore, the law in me is
 
 32
-00:01:13,738 --> 00:01:16,405
- passed away, I do not destroy that which hath
+00:19:33,0 --> 00:19:33,0
+fulfilled, for I have
 
 33
-00:01:16,405 --> 00:01:19,072
- been spoken concerning things which are to come
+00:19:33,0 --> 00:19:33,0
+come to fulfil the law;
 
 34
-00:01:19,046 --> 00:01:24,046
-8 For behold, the covenant which I have made with
+00:19:33,0 --> 00:21:45,
+therefore it hath an end.
 
 35
-00:01:24,046 --> 00:01:29,046
- my people is not all fulfilled; but the law which
+00:21:45,0 --> 00:21:45,0
+6 Behold, I do not
 
 36
-00:01:29,046 --> 00:01:34,046
- was given unto Moses hath an end in me
+00:21:45,0 --> 00:21:45,0
+destroy the prophets, for
 
 37
-00:01:34,995 --> 00:01:38,995
-9 Behold, I am the law, and the light. Look unto
+00:21:45,0 --> 00:21:45,0
+as many as have not
 
 38
-00:01:38,995 --> 00:01:42,995
- me, and endure to the end, and ye shall live; for
+00:21:45,0 --> 00:21:45,0
+been fulfilled in me,
 
 39
-00:01:42,995 --> 00:01:46,995
- unto him that endureth to the end will I give
+00:21:45,0 --> 00:21:45,0
+verily I say unto you,
 
 40
-00:01:46,995 --> 00:01:50,995
- eternal life
+00:21:45,0 --> 00:21:17,
+shall all be fulfilled.
 
 41
-00:01:50,944 --> 00:01:52,944
-10 Behold, I have given unto you the commandments;
+00:21:17,0 --> 00:21:17,0
+7 And because I said
 
 42
-00:01:52,944 --> 00:01:54,944
- therefore keep my commandments. And this is the
+00:21:17,0 --> 00:21:17,0
+unto you that old
 
 43
-00:01:54,944 --> 00:01:56,944
- law and the prophets, for they truly testified of
+00:21:17,0 --> 00:21:17,0
+things have passed
 
 44
-00:01:56,944 --> 00:01:58,944
- me
+00:21:17,0 --> 00:21:17,0
+away, I do not destroy
 
 45
-00:01:58,919 --> 00:02:04,252
-11 And now it came to pass that when Jesus had
+00:21:17,0 --> 00:21:17,0
+that which hath
 
 46
-00:02:04,252 --> 00:02:09,585
- spoken these words, he said unto those twelve whom he
+00:21:17,0 --> 00:21:17,0
+been spoken concerning
 
 47
-00:02:09,585 --> 00:02:14,918
- had chosen
+00:21:17,0 --> 00:20:49,
+things which are to come.
 
 48
-00:02:14,868 --> 00:02:17,535
-12 Ye are my disciples; and ye are a light unto
+00:20:49,0 --> 00:20:49,0
+8 For behold, the
 
 49
-00:02:17,535 --> 00:02:20,202
- this people, who are a remnant of the house of
+00:20:49,0 --> 00:20:49,0
+covenant which I
 
 50
-00:02:20,202 --> 00:02:22,869
- Joseph
+00:20:49,0 --> 00:20:49,0
+have made with my
 
 51
-00:02:22,843 --> 00:02:26,843
-13 And behold, this is the land of your
+00:20:49,0 --> 00:20:49,0
+people is not all
 
 52
-00:02:26,843 --> 00:02:30,843
- inheritance; and the Father hath given it unto you
+00:20:49,0 --> 00:20:49,0
+fulfilled; but the law
 
 53
-00:02:30,817 --> 00:02:33,484
-14 And not at any time hath the Father given me
+00:20:49,0 --> 00:20:49,0
+which was given unto
 
 54
-00:02:33,484 --> 00:02:36,151
- commandment that I should tell it unto your brethren
+00:20:49,0 --> 00:20:21,
+Moses hath an end in me.
 
 55
-00:02:36,151 --> 00:02:38,818
- at Jerusalem
+00:20:21,0 --> 00:20:21,0
+9 Behold, I am
 
 56
-00:02:38,792 --> 00:02:40,792
-15 Neither at any time hath the Father given me
+00:20:21,0 --> 00:20:21,0
+the law, and the
 
 57
-00:02:40,792 --> 00:02:42,792
- commandment that I should tell unto them concerning
+00:20:21,0 --> 00:20:21,0
+light. Look unto
 
 58
-00:02:42,792 --> 00:02:44,792
- the other tribes of the house of Israel, whom the
+00:20:21,0 --> 00:20:21,0
+me, and endure to
 
 59
-00:02:44,792 --> 00:02:46,792
- Father hath led away out of the land
+00:20:21,0 --> 00:20:21,0
+the end, and ye
 
 60
-00:02:46,767 --> 00:02:50,767
-16 This much did the Father command me, that I
+00:20:21,0 --> 00:20:21,0
+shall live; for
 
 61
-00:02:50,767 --> 00:02:54,767
- should tell unto them
+00:20:21,0 --> 00:20:21,0
+unto him that
 
 62
-00:02:54,741 --> 00:02:56,741
-17 That other sheep I have which are not of this
+00:20:21,0 --> 00:20:21,0
+endureth to the end
 
 63
-00:02:56,741 --> 00:02:58,741
- fold; them also I must bring, and they shall hear
+00:20:21,0 --> 00:21:33,
+will I give eternal life.
 
 64
-00:02:58,741 --> 00:03:00,741
- my voice; and there shall be one fold, and one
+00:21:33,0 --> 00:21:33,0
+10 Behold, I
 
 65
-00:03:00,741 --> 00:03:02,741
- shepherd
+00:21:33,0 --> 00:21:33,0
+have given unto you
 
 66
-00:03:02,716 --> 00:03:04,716
-18 And now, because of stiffneckedness and
+00:21:33,0 --> 00:21:33,0
+the
 
 67
-00:03:04,716 --> 00:03:06,716
- unbelief they understood not my word; therefore I was
+00:21:33,0 --> 00:21:33,0
+commandments; therefore
 
 68
-00:03:06,716 --> 00:03:08,716
- commanded to say no more of the Father concerning
+00:21:33,0 --> 00:21:33,0
+keep my
 
 69
-00:03:08,716 --> 00:03:10,716
- this thing unto them
+00:21:33,0 --> 00:21:33,0
+commandments. And this is
 
 70
-00:03:10,69 --> 00:03:13,89
-19 But, verily, I say unto you that the Father
+00:21:33,0 --> 00:21:33,0
+the law and the
 
 71
-00:03:13,89 --> 00:03:17,09
- hath commanded me, and I tell it unto you, that ye
+00:21:33,0 --> 00:21:33,0
+prophets, for
 
 72
-00:03:17,09 --> 00:03:20,29
- were separated from among them because of their
+00:21:33,0 --> 00:21:05,
+they truly testified of me.
 
 73
-00:03:20,29 --> 00:03:23,49
- iniquity; therefore it is because of their iniquity
+00:21:05,0 --> 00:21:05,0
+11 And now it
 
 74
-00:03:23,49 --> 00:03:26,69
- that they know not of you
+00:21:05,0 --> 00:21:05,0
+came to pass that
 
 75
-00:03:26,64 --> 00:03:28,64
-20 And verily, I say unto you again that the other
+00:21:05,0 --> 00:21:05,0
+when Jesus had
 
 76
-00:03:28,64 --> 00:03:30,64
- tribes hath the Father separated from them; and
+00:21:05,0 --> 00:21:05,0
+spoken these
 
 77
-00:03:30,64 --> 00:03:32,64
- it is because of their iniquity that they know not
+00:21:05,0 --> 00:21:05,0
+words, he said unto
 
 78
-00:03:32,64 --> 00:03:34,64
- of them
+00:21:05,0 --> 00:21:05,0
+those twelve
 
 79
-00:03:34,614 --> 00:03:36,214
-21 And verily I say unto you, that ye are they of
+00:21:05,0 --> 00:20:37,
+whom he had chosen:
 
 80
-00:03:36,214 --> 00:03:37,814
- whom I said: Other sheep I have which are not of
+00:20:37,0 --> 00:20:37,0
+12 Ye are my
 
 81
-00:03:37,814 --> 00:03:39,414
- this fold; them also I must bring, and they shall
+00:20:37,0 --> 00:20:37,0
+disciples; and
 
 82
-00:03:39,414 --> 00:03:41,014
- hear my voice; and there shall be one fold, and one
+00:20:37,0 --> 00:20:37,0
+ye are a light
 
 83
-00:03:41,014 --> 00:03:42,614
- shepherd
+00:20:37,0 --> 00:20:37,0
+unto this
 
 84
-00:03:42,589 --> 00:03:44,589
-22 And they understood me not, for they supposed
+00:20:37,0 --> 00:20:37,0
+people, who are a
 
 85
-00:03:44,589 --> 00:03:46,589
- it had been the Gentiles; for they understood not
+00:20:37,0 --> 00:20:37,0
+remnant of
 
 86
-00:03:46,589 --> 00:03:48,589
- that the Gentiles should be converted through their
+00:20:37,0 --> 00:20:09,
+the house of Joseph.
 
 87
-00:03:48,589 --> 00:03:50,589
- preaching
+00:20:09,0 --> 00:20:09,0
+13 And
 
 88
-00:03:50,564 --> 00:03:52,164
-23 And they understood me not that I said they
+00:20:09,0 --> 00:20:09,0
+behold, this is the
 
 89
-00:03:52,164 --> 00:03:53,764
- shall hear my voice; and they understood me not that
+00:20:09,0 --> 00:20:09,0
+land of your
 
 90
-00:03:53,764 --> 00:03:55,364
- the Gentiles should not at any time hear my
+00:20:09,0 --> 00:20:09,0
+inheritance;
 
 91
-00:03:55,364 --> 00:03:56,964
- voice—that I should not manifest myself unto them save
+00:20:09,0 --> 00:20:09,0
+and the
 
 92
-00:03:56,964 --> 00:03:58,564
- it were by the Holy Ghost
+00:20:09,0 --> 00:20:09,0
+Father hath given
 
 93
-00:03:58,538 --> 00:03:58,871
-24 But behold, ye have both heard my voice, and
+00:20:09,0 --> 00:21:21,
+it unto you.
 
 94
-00:03:58,871 --> 00:03:59,204
- seen me; and ye are my sheep, and ye are numbered
+00:21:21,0 --> 00:21:21,0
+14 And not
 
 95
-00:03:59,204 --> 00:03:59,537
- among those whom the Father hath given me.
+00:21:21,0 --> 00:21:21,0
+at any time
+
+96
+00:21:21,0 --> 00:21:21,0
+hath the
+
+97
+00:21:21,0 --> 00:21:21,0
+Father given me
+
+98
+00:21:21,0 --> 00:21:21,0
+commandment
+
+99
+00:21:21,0 --> 00:21:21,0
+that I
+
+100
+00:21:21,0 --> 00:21:21,0
+should tell it
+
+101
+00:21:21,0 --> 00:21:21,0
+unto your
+
+102
+00:21:21,0 --> 00:29:05,
+brethren at Jerusalem.
+
+103
+00:29:05,0 --> 00:29:05,0
+15 Neither
+
+104
+00:29:05,0 --> 00:29:05,0
+at any time
+
+105
+00:29:05,0 --> 00:29:05,0
+hath the
+
+106
+00:29:05,0 --> 00:29:05,0
+Father given
+
+107
+00:29:05,0 --> 00:29:05,0
+me
+
+108
+00:29:05,0 --> 00:29:05,0
+commandment that I
+
+109
+00:29:05,0 --> 00:29:05,0
+should
+
+110
+00:29:05,0 --> 00:29:05,0
+tell unto them
+
+111
+00:29:05,0 --> 00:29:05,0
+concerning
+
+112
+00:29:05,0 --> 00:29:05,0
+the other
+
+113
+00:29:05,0 --> 00:29:05,0
+tribes of
+
+114
+00:29:05,0 --> 00:29:05,0
+the house of
+
+115
+00:29:05,0 --> 00:29:05,0
+Israel,
+
+116
+00:29:05,0 --> 00:29:05,0
+whom the
+
+117
+00:29:05,0 --> 00:29:05,0
+Father hath led
+
+118
+00:29:05,0 --> 00:40:48,
+away out of the land.
+
+119
+00:40:48,0 --> 00:40:48,0
+16 This
+
+120
+00:40:48,0 --> 00:40:48,0
+much did
+
+121
+00:40:48,0 --> 00:40:48,0
+the Father
+
+122
+00:40:48,0 --> 00:40:48,0
+command
+
+123
+00:40:48,0 --> 00:40:48,0
+me, that
+
+124
+00:40:48,0 --> 00:40:48,0
+I should
+
+125
+00:40:48,0 --> 00:44:18,
+tell unto them:
+
+126
+00:44:18,0 --> 00:44:18,0
+17 That
+
+127
+00:44:18,0 --> 00:44:18,0
+other
+
+128
+00:44:18,0 --> 00:44:18,0
+sheep I
+
+129
+00:44:18,0 --> 00:44:18,0
+have which
+
+130
+00:44:18,0 --> 00:44:18,0
+are not
+
+131
+00:44:18,0 --> 00:44:18,0
+of this
+
+132
+00:44:18,0 --> 00:44:18,0
+fold;
+
+133
+00:44:18,0 --> 00:44:18,0
+them also
+
+134
+00:44:18,0 --> 00:44:18,0
+I must
+
+135
+00:44:18,0 --> 00:44:18,0
+bring,
+
+136
+00:44:18,0 --> 00:44:18,0
+and they
+
+137
+00:44:18,0 --> 00:44:18,0
+shall
+
+138
+00:44:18,0 --> 00:44:18,0
+hear my
+
+139
+00:44:18,0 --> 00:44:18,0
+voice; and
+
+140
+00:44:18,0 --> 00:44:18,0
+there
+
+141
+00:44:18,0 --> 00:44:18,0
+shall be
+
+142
+00:44:18,0 --> 00:44:18,0
+one
+
+143
+00:44:18,0 --> 00:43:50,
+fold, and one shepherd.
+
+144
+00:43:50,0 --> 00:43:50,0
+18 And
+
+145
+00:43:50,0 --> 00:43:50,0
+now,
+
+146
+00:43:50,0 --> 00:43:50,0
+because of
+
+147
+00:43:50,0 --> 00:43:50,0
+
+
+148
+00:43:50,0 --> 00:43:50,0
+stiffneckedness
+
+149
+00:43:50,0 --> 00:43:50,0
+and
+
+150
+00:43:50,0 --> 00:43:50,0
+unbelief they
+
+151
+00:43:50,0 --> 00:43:50,0
+
+
+152
+00:43:50,0 --> 00:43:50,0
+understood not
+
+153
+00:43:50,0 --> 00:43:50,0
+my word;
+
+154
+00:43:50,0 --> 00:43:50,0
+
+
+155
+00:43:50,0 --> 00:43:50,0
+therefore I was
+
+156
+00:43:50,0 --> 00:43:50,0
+
+
+157
+00:43:50,0 --> 00:43:50,0
+commanded to
+
+158
+00:43:50,0 --> 00:43:50,0
+say no
+
+159
+00:43:50,0 --> 00:43:50,0
+more of the
+
+160
+00:43:50,0 --> 00:43:50,0
+Father
+
+161
+00:43:50,0 --> 00:43:50,0
+
+
+162
+00:43:50,0 --> 00:43:50,0
+concerning this
+
+163
+00:43:50,0 --> 00:43:50,0
+thing
+
+164
+00:43:50,0 --> 00:49:00,
+unto them.
+
+165
+00:49:00,0 --> 00:49:00,0
+19 But,
+
+166
+00:49:00,0 --> 00:49:00,0
+verily,
+
+167
+00:49:00,0 --> 00:49:00,0
+I say
+
+168
+00:49:00,0 --> 00:49:00,0
+unto you
+
+169
+00:49:00,0 --> 00:49:00,0
+that the
+
+170
+00:49:00,0 --> 00:49:00,0
+Father
+
+171
+00:49:00,0 --> 00:49:00,0
+hath
+
+172
+00:49:00,0 --> 00:49:00,0
+commanded
+
+173
+00:49:00,0 --> 00:49:00,0
+me, and I
+
+174
+00:49:00,0 --> 00:49:00,0
+tell it
+
+175
+00:49:00,0 --> 00:49:00,0
+unto
+
+176
+00:49:00,0 --> 00:49:00,0
+you, that
+
+177
+00:49:00,0 --> 00:49:00,0
+ye were
+
+178
+00:49:00,0 --> 00:49:00,0
+separated
+
+179
+00:49:00,0 --> 00:49:00,0
+from
+
+180
+00:49:00,0 --> 00:49:00,0
+among them
+
+181
+00:49:00,0 --> 00:49:00,0
+because
+
+182
+00:49:00,0 --> 00:49:00,0
+of
+
+183
+00:49:00,0 --> 00:49:00,0
+their
+
+184
+00:49:00,0 --> 00:49:00,0
+iniquity;
+
+185
+00:49:00,0 --> 00:49:00,0
+therefore it
+
+186
+00:49:00,0 --> 00:49:00,0
+is
+
+187
+00:49:00,0 --> 00:49:00,0
+because of
+
+188
+00:49:00,0 --> 00:49:00,0
+their
+
+189
+00:49:00,0 --> 00:49:00,0
+iniquity
+
+190
+00:49:00,0 --> 00:49:00,0
+that they
+
+191
+00:49:00,0 --> 00:49:00,0
+know not
+
+192
+00:49:00,0 --> 00:50:12,
+of you.
+
+193
+00:50:12,0 --> 00:50:12,0
+20 And
+
+194
+00:50:12,0 --> 00:50:12,0
+verily,
+
+195
+00:50:12,0 --> 00:50:12,0
+I say
+
+196
+00:50:12,0 --> 00:50:12,0
+unto
+
+197
+00:50:12,0 --> 00:50:12,0
+you again
+
+198
+00:50:12,0 --> 00:50:12,0
+that
+
+199
+00:50:12,0 --> 00:50:12,0
+the
+
+200
+00:50:12,0 --> 00:50:12,0
+other
+
+201
+00:50:12,0 --> 00:50:12,0
+tribes hath
+
+202
+00:50:12,0 --> 00:50:12,0
+the
+
+203
+00:50:12,0 --> 00:50:12,0
+Father
+
+204
+00:50:12,0 --> 00:50:12,0
+separated
+
+205
+00:50:12,0 --> 00:50:12,0
+from
+
+206
+00:50:12,0 --> 00:50:12,0
+them; and
+
+207
+00:50:12,0 --> 00:50:12,0
+it is
+
+208
+00:50:12,0 --> 00:50:12,0
+because
+
+209
+00:50:12,0 --> 00:50:12,0
+of
+
+210
+00:50:12,0 --> 00:50:12,0
+their
+
+211
+00:50:12,0 --> 00:50:12,0
+iniquity
+
+212
+00:50:12,0 --> 00:52:24,
+that they know not of them.
+
+213
+00:52:24,0 --> 00:52:24,0
+21 And
+
+214
+00:52:24,0 --> 00:52:24,0
+verily
+
+215
+00:52:24,0 --> 00:52:24,0
+I say
+
+216
+00:52:24,0 --> 00:52:24,0
+unto
+
+217
+00:52:24,0 --> 00:52:24,0
+you, that
+
+218
+00:52:24,0 --> 00:52:24,0
+ye are
+
+219
+00:52:24,0 --> 00:52:24,0
+they of
+
+220
+00:52:24,0 --> 00:52:24,0
+whom I
+
+221
+00:52:24,0 --> 00:52:24,0
+said:
+
+222
+00:52:24,0 --> 00:52:24,0
+Other
+
+223
+00:52:24,0 --> 00:52:24,0
+sheep I
+
+224
+00:52:24,0 --> 00:52:24,0
+have
+
+225
+00:52:24,0 --> 00:52:24,0
+which are
+
+226
+00:52:24,0 --> 00:52:24,0
+not of
+
+227
+00:52:24,0 --> 00:52:24,0
+this
+
+228
+00:52:24,0 --> 00:52:24,0
+fold;
+
+229
+00:52:24,0 --> 00:52:24,0
+them also
+
+230
+00:52:24,0 --> 00:52:24,0
+I must
+
+231
+00:52:24,0 --> 00:52:24,0
+bring,
+
+232
+00:52:24,0 --> 00:52:24,0
+and
+
+233
+00:52:24,0 --> 00:52:24,0
+they
+
+234
+00:52:24,0 --> 00:52:24,0
+shall hear
+
+235
+00:52:24,0 --> 00:52:24,0
+my
+
+236
+00:52:24,0 --> 00:52:24,0
+voice; and
+
+237
+00:52:24,0 --> 00:52:24,0
+there
+
+238
+00:52:24,0 --> 00:52:24,0
+shall be
+
+239
+00:52:24,0 --> 00:52:24,0
+one
+
+240
+00:52:24,0 --> 00:52:24,0
+fold, and
+
+241
+00:52:24,0 --> 00:52:24,0
+one
+
+242
+00:52:24,0 --> 00:51:56,
+shepherd.
+
+243
+00:51:56,0 --> 00:51:56,0
+22 And
+
+244
+00:51:56,0 --> 00:51:56,0
+they
+
+245
+00:51:56,0 --> 00:51:56,0
+
+
+246
+00:51:56,0 --> 00:51:56,0
+understood me
+
+247
+00:51:56,0 --> 00:51:56,0
+not, for
+
+248
+00:51:56,0 --> 00:51:56,0
+they
+
+249
+00:51:56,0 --> 00:51:56,0
+supposed
+
+250
+00:51:56,0 --> 00:51:56,0
+it had
+
+251
+00:51:56,0 --> 00:51:56,0
+been
+
+252
+00:51:56,0 --> 00:51:56,0
+the
+
+253
+00:51:56,0 --> 00:51:56,0
+Gentiles;
+
+254
+00:51:56,0 --> 00:51:56,0
+for they
+
+255
+00:51:56,0 --> 00:51:56,0
+
+
+256
+00:51:56,0 --> 00:51:56,0
+understood not
+
+257
+00:51:56,0 --> 00:51:56,0
+that
+
+258
+00:51:56,0 --> 00:51:56,0
+the
+
+259
+00:51:56,0 --> 00:51:56,0
+Gentiles
+
+260
+00:51:56,0 --> 00:51:56,0
+should be
+
+261
+00:51:56,0 --> 00:51:56,0
+
+
+262
+00:51:56,0 --> 00:51:56,0
+converted
+
+263
+00:51:56,0 --> 00:51:56,0
+through
+
+264
+00:51:56,0 --> 00:51:56,0
+their
+
+265
+00:51:56,0 --> 00:51:28,
+preaching.
+
+266
+00:51:28,0 --> 00:51:28,0
+23 And
+
+267
+00:51:28,0 --> 00:51:28,0
+they
+
+268
+00:51:28,0 --> 00:51:28,0
+
+
+269
+00:51:28,0 --> 00:51:28,0
+understood
+
+270
+00:51:28,0 --> 00:51:28,0
+me not
+
+271
+00:51:28,0 --> 00:51:28,0
+that I
+
+272
+00:51:28,0 --> 00:51:28,0
+said
+
+273
+00:51:28,0 --> 00:51:28,0
+they
+
+274
+00:51:28,0 --> 00:51:28,0
+shall
+
+275
+00:51:28,0 --> 00:51:28,0
+hear my
+
+276
+00:51:28,0 --> 00:51:28,0
+
+
+277
+00:51:28,0 --> 00:51:28,0
+voice; and
+
+278
+00:51:28,0 --> 00:51:28,0
+they
+
+279
+00:51:28,0 --> 00:51:28,0
+
+
+280
+00:51:28,0 --> 00:51:28,0
+understood me
+
+281
+00:51:28,0 --> 00:51:28,0
+not
+
+282
+00:51:28,0 --> 00:51:28,0
+that
+
+283
+00:51:28,0 --> 00:51:28,0
+the
+
+284
+00:51:28,0 --> 00:51:28,0
+Gentiles
+
+285
+00:51:28,0 --> 00:51:28,0
+should
+
+286
+00:51:28,0 --> 00:51:28,0
+not at
+
+287
+00:51:28,0 --> 00:51:28,0
+any
+
+288
+00:51:28,0 --> 00:51:28,0
+time
+
+289
+00:51:28,0 --> 00:51:28,0
+hear my
+
+290
+00:51:28,0 --> 00:51:28,0
+
+
+291
+00:51:28,0 --> 00:51:28,0
+voice—that I
+
+292
+00:51:28,0 --> 00:51:28,0
+
+
+293
+00:51:28,0 --> 00:51:28,0
+should not
+
+294
+00:51:28,0 --> 00:51:28,0
+
+
+295
+00:51:28,0 --> 00:51:28,0
+manifest
+
+296
+00:51:28,0 --> 00:51:28,0
+myself
+
+297
+00:51:28,0 --> 00:51:28,0
+unto
+
+298
+00:51:28,0 --> 00:53:40,
+them save it were by the Holy Ghost.
+
+299
+00:53:40,0 --> 00:53:40,0
+24
+
+300
+00:53:40,0 --> 00:53:40,0
+But
+
+301
+00:53:40,0 --> 00:53:40,0
+behold,
+
+302
+00:53:40,0 --> 00:53:40,0
+ye
+
+303
+00:53:40,0 --> 00:53:40,0
+have
+
+304
+00:53:40,0 --> 00:53:40,0
+both
+
+305
+00:53:40,0 --> 00:53:40,0
+heard
+
+306
+00:53:40,0 --> 00:53:40,0
+my
+
+307
+00:53:40,0 --> 00:53:40,0
+voice,
+
+308
+00:53:40,0 --> 00:53:40,0
+and
+
+309
+00:53:40,0 --> 00:53:40,0
+seen
+
+310
+00:53:40,0 --> 00:53:40,0
+me; and
+
+311
+00:53:40,0 --> 00:53:40,0
+ye
+
+312
+00:53:40,0 --> 00:53:40,0
+are my
+
+313
+00:53:40,0 --> 00:53:40,0
+
+
+314
+00:53:40,0 --> 00:53:40,0
+sheep,
+
+315
+00:53:40,0 --> 00:53:40,0
+and ye
+
+316
+00:53:40,0 --> 00:53:40,0
+are
+
+317
+00:53:40,0 --> 00:53:40,0
+
+
+318
+00:53:40,0 --> 00:53:40,0
+numbered
+
+319
+00:53:40,0 --> 00:53:40,0
+among
+
+320
+00:53:40,0 --> 00:53:40,0
+those
+
+321
+00:53:40,0 --> 00:53:40,0
+whom
+
+322
+00:53:40,0 --> 00:53:54,
+the Father hath given me. 
 

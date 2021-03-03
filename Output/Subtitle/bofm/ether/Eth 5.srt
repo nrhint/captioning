@@ -1,116 +1,196 @@
 1
-00:00:00,0 --> 00:00:07,667
-Chapter 5 Three witnesses and the work itself will
+00:00:00,0 --> 00:00:00,0
+Chapter 5 Three witnesses and the work
 
 2
-00:00:07,667 --> 00:00:15,334
- stand as a testimony of the truthfulness of the
+00:00:00,0 --> 00:00:00,0
+itself will stand as a testimony of
 
 3
-00:00:15,334 --> 00:00:23,001
- Book of Mormon.
+00:00:00,0 --> 00:04:13,
+the truthfulness of the Book of Mormon. 
 
 4
-00:00:23,924 --> 00:00:29,424
-1 And now I, Moroni, have written the words which
+00:04:13,0 --> 00:04:13,0
+1 And now I, Moroni, have written
 
 5
-00:00:29,424 --> 00:00:34,924
- were commanded me, according to my memory; and I
+00:04:13,0 --> 00:04:13,0
+the words which were commanded me,
 
 6
-00:00:34,924 --> 00:00:40,424
- have told you the things which I have sealed up;
+00:04:13,0 --> 00:04:13,0
+according to my memory; and I have
 
 7
-00:00:40,424 --> 00:00:45,924
- therefore touch them not in order that ye may
+00:04:13,0 --> 00:04:13,0
+told you the things which I have
 
 8
-00:00:45,924 --> 00:00:51,424
- translate; for that thing is forbidden you, except by
+00:04:13,0 --> 00:04:13,0
+sealed up; therefore touch them not in
 
 9
-00:00:51,424 --> 00:00:56,924
- and by it shall be wisdom in God
+00:04:13,0 --> 00:04:13,0
+order that ye may translate; for
 
 10
-00:00:56,39 --> 00:01:01,057
-2 And behold, ye may be privileged that ye may
+00:04:13,0 --> 00:04:13,0
+that thing is forbidden you, except
 
 11
-00:01:01,057 --> 00:01:05,724
- show the plates unto those who shall assist to bring
+00:04:13,0 --> 00:09:24,
+by and by it shall be wisdom in God.
 
 12
-00:01:05,724 --> 00:01:10,391
- forth this work
+00:09:24,0 --> 00:09:24,0
+2 And behold, ye may be
 
 13
-00:01:10,437 --> 00:01:15,437
-3 And unto three shall they be shown by the power
+00:09:24,0 --> 00:09:24,0
+privileged that ye may show the
 
 14
-00:01:15,437 --> 00:01:20,437
- of God; wherefore they shall know of a surety that
+00:09:24,0 --> 00:09:24,0
+plates unto those who shall
 
 15
-00:01:20,437 --> 00:01:25,437
- these things are true
+00:09:24,0 --> 00:11:36,
+assist to bring forth this work;
 
 16
-00:01:25,419 --> 00:01:31,705
-4 And in the mouth of three witnesses shall these
+00:11:36,0 --> 00:11:36,0
+3 And unto three shall
 
 17
-00:01:31,705 --> 00:01:37,991
- things be established; and the testimony of three,
+00:11:36,0 --> 00:11:36,0
+they be shown by the
 
 18
-00:01:37,991 --> 00:01:44,277
- and this work, in the which shall be shown forth
+00:11:36,0 --> 00:11:36,0
+power of God; wherefore they
 
 19
-00:01:44,277 --> 00:01:50,563
- the power of God and also his word, of which the
+00:11:36,0 --> 00:11:36,0
+shall know of a surety
 
 20
-00:01:50,563 --> 00:01:56,849
- Father, and the Son, and the Holy Ghost bear
+00:11:36,0 --> 00:16:05,
+that these things are true.
 
 21
-00:01:56,849 --> 00:02:03,135
- record—and all this shall stand as a testimony against
+00:16:05,0 --> 00:16:05,0
+4 And in the mouth of
 
 22
-00:02:03,135 --> 00:02:09,421
- the world at the last day
+00:16:05,0 --> 00:16:05,0
+three witnesses shall
 
 23
-00:02:09,363 --> 00:02:14,363
-5 And if it so be that they repent and come unto
+00:16:05,0 --> 00:16:05,0
+these things be
 
 24
-00:02:14,363 --> 00:02:19,363
- the Father in the name of Jesus, they shall be
+00:16:05,0 --> 00:16:05,0
+established; and the testimony
 
 25
-00:02:19,363 --> 00:02:24,363
- received into the kingdom of God
+00:16:05,0 --> 00:16:05,0
+of three, and this work,
 
 26
-00:02:24,378 --> 00:02:27,128
-6 And now, if I have no authority for these
+00:16:05,0 --> 00:16:05,0
+in the which shall be
 
 27
-00:02:27,128 --> 00:02:29,878
- things, judge ye; for ye shall know that I have
+00:16:05,0 --> 00:16:05,0
+shown forth the power
 
 28
-00:02:29,878 --> 00:02:32,628
- authority when ye shall see me, and we shall stand before
+00:16:05,0 --> 00:16:05,0
+of God and also his
 
 29
-00:02:32,628 --> 00:02:35,378
- God at the last day. Amen.
+00:16:05,0 --> 00:16:05,0
+word, of which the Father,
+
+30
+00:16:05,0 --> 00:16:05,0
+and the Son, and the
+
+31
+00:16:05,0 --> 00:16:05,0
+Holy Ghost bear
+
+32
+00:16:05,0 --> 00:16:05,0
+record—and all this shall stand
+
+33
+00:16:05,0 --> 00:16:05,0
+as a testimony against
+
+34
+00:16:05,0 --> 00:27:12,
+the world at the last day.
+
+35
+00:27:12,0 --> 00:27:12,0
+5 And if it so be
+
+36
+00:27:12,0 --> 00:27:12,0
+that they repent and
+
+37
+00:27:12,0 --> 00:27:12,0
+come unto the Father in
+
+38
+00:27:12,0 --> 00:27:12,0
+the name of Jesus,
+
+39
+00:27:12,0 --> 00:27:12,0
+they shall be received
+
+40
+00:27:12,0 --> 00:34:56,
+into the kingdom of God.
+
+41
+00:34:56,0 --> 00:34:56,0
+6 And now, if I
+
+42
+00:34:56,0 --> 00:34:56,0
+have no authority for
+
+43
+00:34:56,0 --> 00:34:56,0
+these things, judge
+
+44
+00:34:56,0 --> 00:34:56,0
+ye; for ye shall
+
+45
+00:34:56,0 --> 00:34:56,0
+know that I have
+
+46
+00:34:56,0 --> 00:34:56,0
+authority when ye
+
+47
+00:34:56,0 --> 00:34:56,0
+shall see me, and we
+
+48
+00:34:56,0 --> 00:34:56,0
+shall stand before
+
+49
+00:34:56,0 --> 00:42:26,
+God at the last day. Amen. 
 

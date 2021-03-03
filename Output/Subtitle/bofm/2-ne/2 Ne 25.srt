@@ -1,724 +1,3452 @@
 1
-00:00:00,0 --> 00:00:00,778
-Chapter 25 Nephi glories in plainness—Isaiah’s
+00:00:00,0 --> 00:00:00,0
+Chapter 25 Nephi glories in
 
 2
-00:00:00,778 --> 00:00:01,556
- prophecies will be understood in the last days—The
+00:00:00,0 --> 00:00:00,0
+plainness—Isaiah’s prophecies will be understood in the last
 
 3
-00:00:01,556 --> 00:00:02,334
- Jews will return from Babylon, crucify the Messiah,
+00:00:00,0 --> 00:00:00,0
+days—The Jews will return from Babylon,
 
 4
-00:00:02,334 --> 00:00:03,112
- and be scattered and scourged—They will be
+00:00:00,0 --> 00:00:00,0
+crucify the Messiah, and be scattered and
 
 5
-00:00:03,112 --> 00:00:03,89
- restored when they believe in the Messiah—He will first
+00:00:00,0 --> 00:00:00,0
+scourged—They will be restored when they believe in
 
 6
-00:00:03,89 --> 00:00:04,668
- come six hundred years after Lehi left
+00:00:00,0 --> 00:00:00,0
+the Messiah—He will first come six hundred
 
 7
-00:00:04,668 --> 00:00:05,446
- Jerusalem—The Nephites keep the law of Moses and believe in
+00:00:00,0 --> 00:00:00,0
+years after Lehi left Jerusalem—The Nephites keep
 
 8
-00:00:05,446 --> 00:00:06,224
- Christ, who is the Holy One of Israel. About
+00:00:00,0 --> 00:00:00,0
+the law of Moses and believe in Christ, who
 
 9
-00:00:06,224 --> 00:00:07,002
- 559–545 B.C.
+00:00:00,0 --> 00:04:29,
+is the Holy One of Israel. About 559–545 B.C. 
 
 10
-00:00:07,975 --> 00:00:09,308
-1 Now I, Nephi, do speak somewhat concerning the
+00:04:29,0 --> 00:04:29,0
+1 Now I, Nephi, do speak somewhat
 
 11
-00:00:09,308 --> 00:00:10,641
- words which I have written, which have been spoken
+00:04:29,0 --> 00:04:29,0
+concerning the words which I have written,
 
 12
-00:00:10,641 --> 00:00:11,974
- by the mouth of Isaiah. For behold, Isaiah spake
+00:04:29,0 --> 00:04:29,0
+which have been spoken by the mouth of
 
 13
-00:00:11,974 --> 00:00:13,307
- many things which were hard for many of my people
+00:04:29,0 --> 00:04:29,0
+Isaiah. For behold, Isaiah spake many things
 
 14
-00:00:13,307 --> 00:00:14,64
- to understand; for they know not concerning the
+00:04:29,0 --> 00:04:29,0
+which were hard for many of my people
 
 15
-00:00:14,64 --> 00:00:15,973
- manner of prophesying among the Jews
+00:04:29,0 --> 00:04:29,0
+to understand; for they know not
 
 16
-00:00:15,949 --> 00:00:17,949
-2 For I, Nephi, have not taught them many things
+00:04:29,0 --> 00:05:41,
+concerning the manner of prophesying among the Jews.
 
 17
-00:00:17,949 --> 00:00:19,949
- concerning the manner of the Jews; for their works
+00:05:41,0 --> 00:05:41,0
+2 For I, Nephi, have not taught
 
 18
-00:00:19,949 --> 00:00:21,949
- were works of darkness, and their doings were
+00:05:41,0 --> 00:05:41,0
+them many things concerning the
 
 19
-00:00:21,949 --> 00:00:23,949
- doings of abominations
+00:05:41,0 --> 00:05:41,0
+manner of the Jews; for their works
 
 20
-00:00:23,924 --> 00:00:25,524
-3 Wherefore, I write unto my people, unto all
+00:05:41,0 --> 00:05:41,0
+were works of darkness, and
 
 21
-00:00:25,524 --> 00:00:27,124
- those that shall receive hereafter these things which
+00:05:41,0 --> 00:17:23,
+their doings were doings of abominations.
 
 22
-00:00:27,124 --> 00:00:28,724
- I write, that they may know the judgments of God,
+00:17:23,0 --> 00:17:23,0
+3 Wherefore, I write unto my
 
 23
-00:00:28,724 --> 00:00:30,324
- that they come upon all nations, according to the
+00:17:23,0 --> 00:17:23,0
+people, unto all those that shall
 
 24
-00:00:30,324 --> 00:00:31,924
- word which he hath spoken
+00:17:23,0 --> 00:17:23,0
+receive hereafter these things
 
 25
-00:00:31,899 --> 00:00:32,626
-4 Wherefore, hearken, O my people, which are of
+00:17:23,0 --> 00:17:23,0
+which I write, that they may know
 
 26
-00:00:32,626 --> 00:00:33,353
- the house of Israel, and give ear unto my words; for
+00:17:23,0 --> 00:17:23,0
+the judgments of God, that they
 
 27
-00:00:33,353 --> 00:00:34,08
- because the words of Isaiah are not plain unto
+00:17:23,0 --> 00:17:23,0
+come upon all nations, according
 
 28
-00:00:34,08 --> 00:00:34,807
- you, nevertheless they are plain unto all those that
+00:17:23,0 --> 00:17:09,
+to the word which he hath spoken.
 
 29
-00:00:34,807 --> 00:00:35,534
- are filled with the spirit of prophecy. But I
+00:17:09,0 --> 00:17:09,0
+4 Wherefore, hearken, O my
 
 30
-00:00:35,534 --> 00:00:36,261
- give unto you a prophecy, according to the spirit
+00:17:09,0 --> 00:17:09,0
+people, which are of the house of
 
 31
-00:00:36,261 --> 00:00:36,988
- which is in me; wherefore I shall prophesy according
+00:17:09,0 --> 00:17:09,0
+Israel, and give ear unto my
 
 32
-00:00:36,988 --> 00:00:37,715
- to the plainness which hath been with me from the
+00:17:09,0 --> 00:17:09,0
+words; for because the words of
 
 33
-00:00:37,715 --> 00:00:38,442
- time that I came out from Jerusalem with my
+00:17:09,0 --> 00:17:09,0
+Isaiah are not plain unto you,
 
 34
-00:00:38,442 --> 00:00:39,169
- father; for behold, my soul delighteth in plainness unto
+00:17:09,0 --> 00:17:09,0
+nevertheless they are plain unto
 
 35
-00:00:39,169 --> 00:00:39,896
- my people, that they may learn
+00:17:09,0 --> 00:17:09,0
+all those that are filled with
 
 36
-00:00:39,873 --> 00:00:40,873
-5 Yea, and my soul delighteth in the words of
+00:17:09,0 --> 00:17:09,0
+the spirit of prophecy. But I
 
 37
-00:00:40,873 --> 00:00:41,873
- Isaiah, for I came out from Jerusalem, and mine eyes
+00:17:09,0 --> 00:17:09,0
+give unto you a prophecy,
 
 38
-00:00:41,873 --> 00:00:42,873
- hath beheld the things of the Jews, and I know that
+00:17:09,0 --> 00:17:09,0
+according to the spirit which is in
 
 39
-00:00:42,873 --> 00:00:43,873
- the Jews do understand the things of the
+00:17:09,0 --> 00:17:09,0
+me; wherefore I shall prophesy
 
 40
-00:00:43,873 --> 00:00:44,873
- prophets, and there is none other people that understand
+00:17:09,0 --> 00:17:09,0
+according to the plainness which
 
 41
-00:00:44,873 --> 00:00:45,873
- the things which were spoken unto the Jews like
+00:17:09,0 --> 00:17:09,0
+hath been with me from the
 
 42
-00:00:45,873 --> 00:00:46,873
- unto them, save it be that they are taught after the
+00:17:09,0 --> 00:17:09,0
+time that I came out from
 
 43
-00:00:46,873 --> 00:00:47,873
- manner of the things of the Jews
+00:17:09,0 --> 00:17:09,0
+Jerusalem with my father; for behold,
 
 44
-00:00:47,848 --> 00:00:48,848
-6 But behold, I, Nephi, have not taught my
+00:17:09,0 --> 00:17:09,0
+my soul delighteth in plainness
 
 45
-00:00:48,848 --> 00:00:49,848
- children after the manner of the Jews; but behold, I, of
+00:17:09,0 --> 00:24:38,
+unto my people, that they may learn.
 
 46
-00:00:49,848 --> 00:00:50,848
- myself, have dwelt at Jerusalem, wherefore I know
+00:24:38,0 --> 00:24:38,0
+5 Yea, and my soul delighteth
 
 47
-00:00:50,848 --> 00:00:51,848
- concerning the regions round about; and I have
+00:24:38,0 --> 00:24:38,0
+in the words of Isaiah, for
 
 48
-00:00:51,848 --> 00:00:52,848
- made mention unto my children concerning the
+00:24:38,0 --> 00:24:38,0
+I came out from Jerusalem,
 
 49
-00:00:52,848 --> 00:00:53,848
- judgments of God, which hath come to pass among the Jews,
+00:24:38,0 --> 00:24:38,0
+and mine eyes hath beheld the
 
 50
-00:00:53,848 --> 00:00:54,848
- unto my children, according to all that which
+00:24:38,0 --> 00:24:38,0
+things of the Jews, and I know
 
 51
-00:00:54,848 --> 00:00:55,848
- Isaiah hath spoken, and I do not write them
+00:24:38,0 --> 00:24:38,0
+that the Jews do understand
 
 52
-00:00:55,822 --> 00:00:57,155
-7 But behold, I proceed with mine own prophecy,
+00:24:38,0 --> 00:24:38,0
+the things of the prophets,
 
 53
-00:00:57,155 --> 00:00:58,488
- according to my plainness; in the which I know that
+00:24:38,0 --> 00:24:38,0
+and there is none other people
 
 54
-00:00:58,488 --> 00:00:59,821
- no man can err; nevertheless, in the days that the
+00:24:38,0 --> 00:24:38,0
+that understand the things
 
 55
-00:00:59,821 --> 00:01:01,154
- prophecies of Isaiah shall be fulfilled men shall
+00:24:38,0 --> 00:24:38,0
+which were spoken unto the
 
 56
-00:01:01,154 --> 00:01:02,487
- know of a surety, at the times when they shall
+00:24:38,0 --> 00:24:38,0
+Jews like unto them, save it be
 
 57
-00:01:02,487 --> 00:01:03,82
- come to pass
+00:24:38,0 --> 00:24:38,0
+that they are taught after
 
 58
-00:01:03,797 --> 00:01:04,94
-8 Wherefore, they are of worth unto the children
+00:24:38,0 --> 00:38:18,
+the manner of the things of the Jews.
 
 59
-00:01:04,94 --> 00:01:06,083
- of men, and he that supposeth that they are not,
+00:38:18,0 --> 00:38:18,0
+6 But behold, I, Nephi,
 
 60
-00:01:06,083 --> 00:01:07,226
- unto them will I speak particularly, and confine the
+00:38:18,0 --> 00:38:18,0
+have not taught my children
 
 61
-00:01:07,226 --> 00:01:08,369
- words unto mine own people; for I know that they
+00:38:18,0 --> 00:38:18,0
+after the manner of the Jews;
 
 62
-00:01:08,369 --> 00:01:09,512
- shall be of great worth unto them in the last
+00:38:18,0 --> 00:38:18,0
+but behold, I, of myself,
 
 63
-00:01:09,512 --> 00:01:10,655
- days; for in that day shall they understand them;
+00:38:18,0 --> 00:38:18,0
+have dwelt at Jerusalem,
 
 64
-00:01:10,655 --> 00:01:11,798
- wherefore, for their good have I written them
+00:38:18,0 --> 00:38:18,0
+wherefore I know concerning
 
 65
-00:01:11,772 --> 00:01:13,105
-9 And as one generation hath been destroyed among
+00:38:18,0 --> 00:38:18,0
+the regions round about; and
 
 66
-00:01:13,105 --> 00:01:14,438
- the Jews because of iniquity, even so have they
+00:38:18,0 --> 00:38:18,0
+I have made mention unto
 
 67
-00:01:14,438 --> 00:01:15,771
- been destroyed from generation to generation
+00:38:18,0 --> 00:38:18,0
+my children concerning the
 
 68
-00:01:15,771 --> 00:01:17,104
- according to their iniquities; and never hath any of them
+00:38:18,0 --> 00:38:18,0
+judgments of God, which hath
 
 69
-00:01:17,104 --> 00:01:18,437
- been destroyed save it were foretold them by the
+00:38:18,0 --> 00:38:18,0
+come to pass among the
 
 70
-00:01:18,437 --> 00:01:19,77
- prophets of the Lord
+00:38:18,0 --> 00:38:18,0
+Jews, unto my children,
 
 71
-00:01:19,746 --> 00:01:21,079
-10 Wherefore, it hath been told them concerning
+00:38:18,0 --> 00:38:18,0
+according to all that which
 
 72
-00:01:21,079 --> 00:01:22,412
- the destruction which should come upon them,
+00:38:18,0 --> 00:37:50,
+Isaiah hath spoken, and I do not write them.
 
 73
-00:01:22,412 --> 00:01:23,745
- immediately after my father left Jerusalem; nevertheless,
+00:37:50,0 --> 00:37:50,0
+7 But behold, I proceed
 
 74
-00:01:23,745 --> 00:01:25,078
- they hardened their hearts; and according to my
+00:37:50,0 --> 00:37:50,0
+with mine own prophecy,
 
 75
-00:01:25,078 --> 00:01:26,411
- prophecy they have been destroyed, save it be those
+00:37:50,0 --> 00:37:50,0
+according to my plainness; in
 
 76
-00:01:26,411 --> 00:01:27,744
- which are carried away captive into Babylon
+00:37:50,0 --> 00:37:50,0
+the which I know that no
 
 77
-00:01:27,721 --> 00:01:59,721
-11 And now this I speak because of the spirit
+00:37:50,0 --> 00:37:50,0
+man can err; nevertheless,
 
 78
-00:01:59,721 --> 00:02:31,721
- which is in me. And notwithstanding they have been
+00:37:50,0 --> 00:37:50,0
+in the days that the
 
 79
-00:02:31,721 --> 00:03:03,721
- carried away they shall return again, and possess the
+00:37:50,0 --> 00:37:50,0
+prophecies of Isaiah shall be
 
 80
-00:03:03,721 --> 00:03:35,721
- land of Jerusalem; wherefore, they shall be
+00:37:50,0 --> 00:37:50,0
+fulfilled men shall know of
 
 81
-00:03:35,721 --> 00:04:07,721
- restored again to the land of their inheritance
+00:37:50,0 --> 00:37:50,0
+a surety, at the times
 
 82
-00:04:07,214 --> 00:04:21,928
-12 But, behold, they shall have wars, and rumors
+00:37:50,0 --> 00:37:50,
+when they shall come to pass.
 
 83
-00:04:21,928 --> 00:04:36,642
- of wars; and when the day cometh that the Only
+00:37:50,0 --> 00:37:50,0
+8 Wherefore, they are of
 
 84
-00:04:36,642 --> 00:04:51,356
- Begotten of the Father, yea, even the Father of heaven
+00:37:50,0 --> 00:37:50,0
+worth unto the children
 
 85
-00:04:51,356 --> 00:05:06,07
- and of earth, shall manifest himself unto them in
+00:37:50,0 --> 00:37:50,0
+of men, and he that
 
 86
-00:05:06,07 --> 00:05:20,784
- the flesh, behold, they will reject him, because
+00:37:50,0 --> 00:37:50,0
+supposeth that they are
 
 87
-00:05:20,784 --> 00:05:35,498
- of their iniquities, and the hardness of their
+00:37:50,0 --> 00:37:50,0
+not, unto them will I speak
 
 88
-00:05:35,498 --> 00:05:50,212
- hearts, and the stiffness of their necks
+00:37:50,0 --> 00:37:50,0
+particularly, and
 
 89
-00:00:07,975 --> 00:00:09,975
-15 Wherefore, the Jews shall be scattered among
+00:37:50,0 --> 00:37:50,0
+confine the words unto mine
 
 90
-00:00:09,975 --> 00:00:11,975
- all nations; yea, and also Babylon shall be
+00:37:50,0 --> 00:37:50,0
+own people; for I know
 
 91
-00:00:11,975 --> 00:00:13,975
- destroyed; wherefore, the Jews shall be scattered by other
+00:37:50,0 --> 00:37:50,0
+that they shall be of
 
 92
-00:00:13,975 --> 00:00:15,975
- nations
+00:37:50,0 --> 00:37:50,0
+great worth unto them in the
 
 93
-00:00:15,949 --> 00:00:16,616
-16 And after they have been scattered, and the
+00:37:50,0 --> 00:37:50,0
+last days; for in that
 
 94
-00:00:16,616 --> 00:00:17,283
- Lord God hath scourged them by other nations for the
+00:37:50,0 --> 00:37:50,0
+day shall they
 
 95
-00:00:17,283 --> 00:00:17,95
- space of many generations, yea, even down from
+00:37:50,0 --> 00:37:50,0
+understand them; wherefore, for
 
 96
-00:00:17,95 --> 00:00:18,617
- generation to generation until they shall be
+00:37:50,0 --> 00:37:50,
+their good have I written them.
 
 97
-00:00:18,617 --> 00:00:19,284
- persuaded to believe in Christ, the Son of God, and the
+00:37:50,0 --> 00:37:50,0
+9 And as one
 
 98
-00:00:19,284 --> 00:00:19,951
- atonement, which is infinite for all mankind—and
+00:37:50,0 --> 00:37:50,0
+generation hath been destroyed
 
 99
-00:00:19,951 --> 00:00:20,618
- when that day shall come that they shall believe in
+00:37:50,0 --> 00:37:50,0
+among the Jews because
 
 100
-00:00:20,618 --> 00:00:21,285
- Christ, and worship the Father in his name, with
+00:37:50,0 --> 00:37:50,0
+of iniquity, even so
 
 101
-00:00:21,285 --> 00:00:21,952
- pure hearts and clean hands, and look not forward
+00:37:50,0 --> 00:37:50,0
+have they been
 
 102
-00:00:21,952 --> 00:00:22,619
- any more for another Messiah, then, at that time,
+00:37:50,0 --> 00:37:50,0
+destroyed from generation to
 
 103
-00:00:22,619 --> 00:00:23,286
- the day will come that it must needs be expedient
+00:37:50,0 --> 00:37:50,0
+generation according
 
 104
-00:00:23,286 --> 00:00:23,953
- that they should believe these things
+00:37:50,0 --> 00:37:50,0
+to their iniquities;
 
 105
-00:00:23,924 --> 00:00:25,524
-17 And the Lord will set his hand again the second
+00:37:50,0 --> 00:37:50,0
+and never hath any of
 
 106
-00:00:25,524 --> 00:00:27,124
- time to restore his people from their lost and
+00:37:50,0 --> 00:37:50,0
+them been destroyed save
 
 107
-00:00:27,124 --> 00:00:28,724
- fallen state. Wherefore, he will proceed to do a
+00:37:50,0 --> 00:37:50,0
+it were foretold them
 
 108
-00:00:28,724 --> 00:00:30,324
- marvelous work and a wonder among the children of
+00:37:50,0 --> 00:37:50,
+by the prophets of the Lord.
 
 109
-00:00:30,324 --> 00:00:31,924
- men
+00:37:50,0 --> 00:37:50,0
+10 Wherefore, it hath
 
 110
-00:00:31,899 --> 00:00:32,626
-18 Wherefore, he shall bring forth his words unto
+00:37:50,0 --> 00:37:50,0
+been told them
 
 111
-00:00:32,626 --> 00:00:33,353
- them, which words shall judge them at the last
+00:37:50,0 --> 00:37:50,0
+concerning the destruction
 
 112
-00:00:33,353 --> 00:00:34,08
- day, for they shall be given them for the purpose of
+00:37:50,0 --> 00:37:50,0
+which should come
 
 113
-00:00:34,08 --> 00:00:34,807
- convincing them of the true Messiah, who was
+00:37:50,0 --> 00:37:50,0
+upon them, immediately
 
 114
-00:00:34,807 --> 00:00:35,534
- rejected by them; and unto the convincing of them that
+00:37:50,0 --> 00:37:50,0
+after my father left
 
 115
-00:00:35,534 --> 00:00:36,261
- they need not look forward any more for a Messiah
+00:37:50,0 --> 00:37:50,0
+Jerusalem;
 
 116
-00:00:36,261 --> 00:00:36,988
- to come, for there should not any come, save it
+00:37:50,0 --> 00:37:50,0
+nevertheless, they hardened
 
 117
-00:00:36,988 --> 00:00:37,715
- should be a false Messiah which should deceive the
+00:37:50,0 --> 00:37:50,0
+their hearts; and
 
 118
-00:00:37,715 --> 00:00:38,442
- people; for there is save one Messiah spoken of by
+00:37:50,0 --> 00:37:50,0
+according to my prophecy
 
 119
-00:00:38,442 --> 00:00:39,169
- the prophets, and that Messiah is he who should be
+00:37:50,0 --> 00:37:50,0
+they have been
 
 120
-00:00:39,169 --> 00:00:39,896
- rejected of the Jews
+00:37:50,0 --> 00:37:50,0
+destroyed, save it be those
 
 121
-00:00:39,873 --> 00:00:41,206
-19 For according to the words of the prophets, the
+00:37:50,0 --> 00:37:50,0
+which are carried away
 
 122
-00:00:41,206 --> 00:00:42,539
- Messiah cometh in six hundred years from the time
+00:37:50,0 --> 00:37:50,
+captive into Babylon.
 
 123
-00:00:42,539 --> 00:00:43,872
- that my father left Jerusalem; and according to
+00:37:50,0 --> 00:37:50,0
+11 And now this I
 
 124
-00:00:43,872 --> 00:00:45,205
- the words of the prophets, and also the word of the
+00:37:50,0 --> 00:37:50,0
+speak because of the
 
 125
-00:00:45,205 --> 00:00:46,538
- angel of God, his name shall be Jesus Christ, the
+00:37:50,0 --> 00:37:50,0
+spirit which is in
 
 126
-00:00:46,538 --> 00:00:47,871
- Son of God
+00:37:50,0 --> 00:37:50,0
+me. And
 
 127
-00:00:47,848 --> 00:00:48,463
-20 And now, my brethren, I have spoken plainly
+00:37:50,0 --> 00:37:50,0
+notwithstanding they have been
 
 128
-00:00:48,463 --> 00:00:49,078
- that ye cannot err. And as the Lord God liveth that
+00:37:50,0 --> 00:37:50,0
+carried away they shall
 
 129
-00:00:49,078 --> 00:00:49,693
- brought Israel up out of the land of Egypt, and
+00:37:50,0 --> 00:37:50,0
+return again, and
 
 130
-00:00:49,693 --> 00:00:50,308
- gave unto Moses power that he should heal the nations
+00:37:50,0 --> 00:37:50,0
+possess the land of
 
 131
-00:00:50,308 --> 00:00:50,923
- after they had been bitten by the poisonous
+00:37:50,0 --> 00:37:50,0
+Jerusalem; wherefore,
 
 132
-00:00:50,923 --> 00:00:51,538
- serpents, if they would cast their eyes unto the
+00:37:50,0 --> 00:37:50,0
+they shall be
 
 133
-00:00:51,538 --> 00:00:52,153
- serpent which he did raise up before them, and also gave
+00:37:50,0 --> 00:37:50,0
+restored again to the
 
 134
-00:00:52,153 --> 00:00:52,768
- him power that he should smite the rock and the
+00:37:50,0 --> 00:37:50,
+land of their inheritance.
 
 135
-00:00:52,768 --> 00:00:53,383
- water should come forth; yea, behold I say unto
+00:37:50,0 --> 00:37:50,0
+12 But, behold,
 
 136
-00:00:53,383 --> 00:00:53,998
- you, that as these things are true, and as the Lord
+00:37:50,0 --> 00:37:50,0
+they shall have wars,
 
 137
-00:00:53,998 --> 00:00:54,613
- God liveth, there is none other name given under
+00:37:50,0 --> 00:37:50,0
+and rumors of wars;
 
 138
-00:00:54,613 --> 00:00:55,228
- heaven save it be this Jesus Christ, of which I have
+00:37:50,0 --> 00:37:50,0
+and when the day
 
 139
-00:00:55,228 --> 00:00:55,843
- spoken, whereby man can be saved
+00:37:50,0 --> 00:37:50,0
+cometh that the Only
 
 140
-00:00:55,822 --> 00:00:56,965
-21 Wherefore, for this cause hath the Lord God
+00:37:50,0 --> 00:37:50,0
+Begotten of the
 
 141
-00:00:56,965 --> 00:00:58,108
- promised unto me that these things which I write
+00:37:50,0 --> 00:37:50,0
+Father, yea, even the
 
 142
-00:00:58,108 --> 00:00:59,251
- shall be kept and preserved, and handed down unto my
+00:37:50,0 --> 00:37:50,0
+Father of heaven
 
 143
-00:00:59,251 --> 00:01:00,394
- seed, from generation to generation, that the
+00:37:50,0 --> 00:37:50,0
+and of earth, shall
 
 144
-00:01:00,394 --> 00:01:01,537
- promise may be fulfilled unto Joseph, that his seed
+00:37:50,0 --> 00:37:50,0
+manifest himself
 
 145
-00:01:01,537 --> 00:01:02,68
- should never perish as long as the earth should
+00:37:50,0 --> 00:37:50,0
+unto them in the
 
 146
-00:01:02,68 --> 00:01:03,823
- stand
+00:37:50,0 --> 00:37:50,0
+flesh, behold, they
 
 147
-00:01:03,797 --> 00:01:05,13
-22 Wherefore, these things shall go from
+00:37:50,0 --> 00:37:50,0
+will reject him,
 
 148
-00:01:05,13 --> 00:01:06,463
- generation to generation as long as the earth shall stand;
+00:37:50,0 --> 00:37:50,0
+because of their
 
 149
-00:01:06,463 --> 00:01:07,796
- and they shall go according to the will and
+00:37:50,0 --> 00:37:50,0
+iniquities, and the
 
 150
-00:01:07,796 --> 00:01:09,129
- pleasure of God; and the nations who shall possess them
+00:37:50,0 --> 00:37:50,0
+hardness of their hearts,
 
 151
-00:01:09,129 --> 00:01:10,462
- shall be judged of them according to the words
+00:37:50,0 --> 00:37:50,
+and the stiffness of their necks.
 
 152
-00:01:10,462 --> 00:01:11,795
- which are written
+00:37:50,0 --> 00:37:50,0
+13 Behold, they
 
 153
-00:01:11,772 --> 00:01:13,372
-23 For we labor diligently to write, to persuade
+00:37:50,0 --> 00:37:50,0
+will crucify him;
 
 154
-00:01:13,372 --> 00:01:14,972
- our children, and also our brethren, to believe in
+00:37:50,0 --> 00:37:50,0
+and after he is laid
 
 155
-00:01:14,972 --> 00:01:16,572
- Christ, and to be reconciled to God; for we know
+00:37:50,0 --> 00:37:50,0
+in a sepulchre
 
 156
-00:01:16,572 --> 00:01:18,172
- that it is by grace that we are saved, after all we
+00:37:50,0 --> 00:37:50,0
+for the space of
 
 157
-00:01:18,172 --> 00:01:19,772
- can do
+00:37:50,0 --> 00:37:50,0
+three days he shall
 
 158
-00:01:19,746 --> 00:01:21,746
-24 And, notwithstanding we believe in Christ, we
+00:37:50,0 --> 00:37:50,0
+rise from the dead,
 
 159
-00:01:21,746 --> 00:01:23,746
- keep the law of Moses, and look forward with
+00:37:50,0 --> 00:37:50,0
+with healing in
 
 160
-00:01:23,746 --> 00:01:25,746
- steadfastness unto Christ, until the law shall be
+00:37:50,0 --> 00:37:50,0
+his wings; and all
 
 161
-00:01:25,746 --> 00:01:27,746
- fulfilled
+00:37:50,0 --> 00:37:50,0
+those who shall
 
 162
-00:01:27,721 --> 00:02:07,721
-25 For, for this end was the law given; wherefore
+00:37:50,0 --> 00:37:50,0
+believe on his name
 
 163
-00:02:07,721 --> 00:02:47,721
- the law hath become dead unto us, and we are made
+00:37:50,0 --> 00:37:50,0
+shall be saved in
 
 164
-00:02:47,721 --> 00:03:27,721
- alive in Christ because of our faith; yet we keep
+00:37:50,0 --> 00:37:50,0
+the kingdom of
 
 165
-00:03:27,721 --> 00:04:07,721
- the law because of the commandments
+00:37:50,0 --> 00:37:50,0
+God. Wherefore, my
 
 166
-00:04:07,214 --> 00:04:27,814
-26 And we talk of Christ, we rejoice in Christ, we
+00:37:50,0 --> 00:37:50,0
+soul delighteth to
 
 167
-00:04:27,814 --> 00:04:48,414
- preach of Christ, we prophesy of Christ, and we
+00:37:50,0 --> 00:37:50,0
+prophesy concerning
 
 168
-00:04:48,414 --> 00:05:09,014
- write according to our prophecies, that our
+00:37:50,0 --> 00:37:50,0
+him, for I have
 
 169
-00:05:09,014 --> 00:05:29,614
- children may know to what source they may look for a
+00:37:50,0 --> 00:37:50,0
+seen his day, and
 
 170
-00:05:29,614 --> 00:05:50,214
- remission of their sins
+00:37:50,0 --> 00:37:50,
+my heart doth magnify his holy name.
 
 171
-00:00:07,975 --> 00:00:09,118
-29 And now behold, I say unto you that the right
+00:37:50,0 --> 00:37:50,0
+14 And behold it
 
 172
-00:00:09,118 --> 00:00:10,261
- way is to believe in Christ, and deny him not; and
+00:37:50,0 --> 00:37:50,0
+shall come to
 
 173
-00:00:10,261 --> 00:00:11,404
- Christ is the Holy One of Israel; wherefore ye
+00:37:50,0 --> 00:37:50,0
+pass that after the
 
 174
-00:00:11,404 --> 00:00:12,547
- must bow down before him, and worship him with all
+00:37:50,0 --> 00:37:50,0
+Messiah hath
 
 175
-00:00:12,547 --> 00:00:13,69
- your might, mind, and strength, and your whole soul;
+00:37:50,0 --> 00:37:50,0
+risen from the dead,
 
 176
-00:00:13,69 --> 00:00:14,833
- and if ye do this ye shall in nowise be cast out
+00:37:50,0 --> 00:37:50,0
+and hath
 
 177
-00:00:14,833 --> 00:00:15,976
-
+00:37:50,0 --> 00:37:50,0
+manifested himself unto
 
 178
-00:00:15,949 --> 00:00:17,699
-30 And, inasmuch as it shall be expedient, ye must
+00:37:50,0 --> 00:37:50,0
+his people, unto
 
 179
-00:00:17,699 --> 00:00:19,449
- keep the performances and ordinances of God until
+00:37:50,0 --> 00:37:50,0
+as many as will
 
 180
-00:00:19,449 --> 00:00:21,199
- the law shall be fulfilled which was given unto
+00:37:50,0 --> 00:37:50,0
+believe on his
 
 181
-00:00:21,199 --> 00:00:22,949
- Moses.
+00:37:50,0 --> 00:37:50,0
+name, behold,
+
+182
+00:37:50,0 --> 00:37:50,0
+Jerusalem shall be
+
+183
+00:37:50,0 --> 00:37:50,0
+destroyed again; for
+
+184
+00:37:50,0 --> 00:37:50,0
+wo unto them that
+
+185
+00:37:50,0 --> 00:37:50,0
+fight against God
+
+186
+00:37:50,0 --> 00:37:50,
+and the people of his church.
+
+187
+00:37:50,0 --> 00:37:50,0
+15 Wherefore,
+
+188
+00:37:50,0 --> 00:37:50,0
+the Jews shall
+
+189
+00:37:50,0 --> 00:37:50,0
+be scattered
+
+190
+00:37:50,0 --> 00:37:50,0
+among all nations;
+
+191
+00:37:50,0 --> 00:37:50,0
+yea, and also
+
+192
+00:37:50,0 --> 00:37:50,0
+Babylon shall
+
+193
+00:37:50,0 --> 00:37:50,0
+be destroyed;
+
+194
+00:37:50,0 --> 00:37:50,0
+wherefore, the
+
+195
+00:37:50,0 --> 00:37:50,0
+Jews shall be
+
+196
+00:37:50,0 --> 00:37:50,
+scattered by other nations.
+
+197
+00:37:50,0 --> 00:37:50,0
+16 And after
+
+198
+00:37:50,0 --> 00:37:50,0
+they have been
+
+199
+00:37:50,0 --> 00:37:50,0
+scattered, and
+
+200
+00:37:50,0 --> 00:37:50,0
+the Lord God
+
+201
+00:37:50,0 --> 00:37:50,0
+hath scourged
+
+202
+00:37:50,0 --> 00:37:50,0
+them by other
+
+203
+00:37:50,0 --> 00:37:50,0
+nations for
+
+204
+00:37:50,0 --> 00:37:50,0
+the space of
+
+205
+00:37:50,0 --> 00:37:50,0
+many generations,
+
+206
+00:37:50,0 --> 00:37:50,0
+yea, even
+
+207
+00:37:50,0 --> 00:37:50,0
+down from
+
+208
+00:37:50,0 --> 00:37:50,0
+generation to
+
+209
+00:37:50,0 --> 00:37:50,0
+generation until they
+
+210
+00:37:50,0 --> 00:37:50,0
+shall be
+
+211
+00:37:50,0 --> 00:37:50,0
+persuaded to
+
+212
+00:37:50,0 --> 00:37:50,0
+believe in Christ,
+
+213
+00:37:50,0 --> 00:37:50,0
+the Son of
+
+214
+00:37:50,0 --> 00:37:50,0
+God, and the
+
+215
+00:37:50,0 --> 00:37:50,0
+atonement, which
+
+216
+00:37:50,0 --> 00:37:50,0
+is infinite for
+
+217
+00:37:50,0 --> 00:37:50,0
+all
+
+218
+00:37:50,0 --> 00:37:50,0
+mankind—and when that
+
+219
+00:37:50,0 --> 00:37:50,0
+day shall come
+
+220
+00:37:50,0 --> 00:37:50,0
+that they
+
+221
+00:37:50,0 --> 00:37:50,0
+shall believe in
+
+222
+00:37:50,0 --> 00:37:50,0
+Christ, and
+
+223
+00:37:50,0 --> 00:37:50,0
+worship the
+
+224
+00:37:50,0 --> 00:37:50,0
+Father in his name,
+
+225
+00:37:50,0 --> 00:37:50,0
+with pure
+
+226
+00:37:50,0 --> 00:37:50,0
+hearts and clean
+
+227
+00:37:50,0 --> 00:37:50,0
+hands, and
+
+228
+00:37:50,0 --> 00:37:50,0
+look not forward
+
+229
+00:37:50,0 --> 00:37:50,0
+any more for
+
+230
+00:37:50,0 --> 00:37:50,0
+another
+
+231
+00:37:50,0 --> 00:37:50,0
+Messiah, then, at
+
+232
+00:37:50,0 --> 00:37:50,0
+that time, the
+
+233
+00:37:50,0 --> 00:37:50,0
+day will come
+
+234
+00:37:50,0 --> 00:37:50,0
+that it must
+
+235
+00:37:50,0 --> 00:37:50,0
+needs be
+
+236
+00:37:50,0 --> 00:37:50,
+expedient that they should believe these things.
+
+237
+00:37:50,0 --> 00:37:50,0
+17 And the
+
+238
+00:37:50,0 --> 00:37:50,0
+Lord will set
+
+239
+00:37:50,0 --> 00:37:50,0
+his hand again
+
+240
+00:37:50,0 --> 00:37:50,0
+the second
+
+241
+00:37:50,0 --> 00:37:50,0
+time to
+
+242
+00:37:50,0 --> 00:37:50,0
+restore his people
+
+243
+00:37:50,0 --> 00:37:50,0
+from their
+
+244
+00:37:50,0 --> 00:37:50,0
+lost and fallen
+
+245
+00:37:50,0 --> 00:37:50,0
+state.
+
+246
+00:37:50,0 --> 00:37:50,0
+Wherefore, he will
+
+247
+00:37:50,0 --> 00:37:50,0
+proceed to
+
+248
+00:37:50,0 --> 00:37:50,0
+do a marvelous
+
+249
+00:37:50,0 --> 00:37:50,0
+work and a
+
+250
+00:37:50,0 --> 00:37:50,0
+wonder among
+
+251
+00:37:50,0 --> 00:37:50,
+the children of men.
+
+252
+00:37:50,0 --> 00:37:50,0
+18
+
+253
+00:37:50,0 --> 00:37:50,0
+Wherefore, he shall
+
+254
+00:37:50,0 --> 00:37:50,0
+bring forth
+
+255
+00:37:50,0 --> 00:37:50,0
+his words
+
+256
+00:37:50,0 --> 00:37:50,0
+unto them,
+
+257
+00:37:50,0 --> 00:37:50,0
+which words
+
+258
+00:37:50,0 --> 00:37:50,0
+shall judge them
+
+259
+00:37:50,0 --> 00:37:50,0
+at the last
+
+260
+00:37:50,0 --> 00:37:50,0
+day, for
+
+261
+00:37:50,0 --> 00:37:50,0
+they shall be
+
+262
+00:37:50,0 --> 00:37:50,0
+given them
+
+263
+00:37:50,0 --> 00:37:50,0
+for the
+
+264
+00:37:50,0 --> 00:37:50,0
+purpose of
+
+265
+00:37:50,0 --> 00:37:50,0
+convincing them of
+
+266
+00:37:50,0 --> 00:37:50,0
+the true
+
+267
+00:37:50,0 --> 00:37:50,0
+Messiah, who
+
+268
+00:37:50,0 --> 00:37:50,0
+was rejected
+
+269
+00:37:50,0 --> 00:37:50,0
+by them; and
+
+270
+00:37:50,0 --> 00:37:50,0
+unto the
+
+271
+00:37:50,0 --> 00:37:50,0
+convincing of
+
+272
+00:37:50,0 --> 00:37:50,0
+them that
+
+273
+00:37:50,0 --> 00:37:50,0
+they need not
+
+274
+00:37:50,0 --> 00:37:50,0
+look forward
+
+275
+00:37:50,0 --> 00:37:50,0
+any more
+
+276
+00:37:50,0 --> 00:37:50,0
+for a Messiah
+
+277
+00:37:50,0 --> 00:37:50,0
+to come, for
+
+278
+00:37:50,0 --> 00:37:50,0
+there
+
+279
+00:37:50,0 --> 00:37:50,0
+should not any
+
+280
+00:37:50,0 --> 00:37:50,0
+come, save it
+
+281
+00:37:50,0 --> 00:37:50,0
+should be a
+
+282
+00:37:50,0 --> 00:37:50,0
+false
+
+283
+00:37:50,0 --> 00:37:50,0
+Messiah which
+
+284
+00:37:50,0 --> 00:37:50,0
+should deceive
+
+285
+00:37:50,0 --> 00:37:50,0
+the people;
+
+286
+00:37:50,0 --> 00:37:50,0
+for there is
+
+287
+00:37:50,0 --> 00:37:50,0
+save one
+
+288
+00:37:50,0 --> 00:37:50,0
+Messiah spoken
+
+289
+00:37:50,0 --> 00:37:50,0
+of by the
+
+290
+00:37:50,0 --> 00:37:50,0
+prophets, and
+
+291
+00:37:50,0 --> 00:37:50,0
+that Messiah
+
+292
+00:37:50,0 --> 00:37:50,
+is he who should be rejected of the Jews.
+
+293
+00:37:50,0 --> 00:37:50,0
+19 For
+
+294
+00:37:50,0 --> 00:37:50,0
+according to
+
+295
+00:37:50,0 --> 00:37:50,0
+the words of
+
+296
+00:37:50,0 --> 00:37:50,0
+the
+
+297
+00:37:50,0 --> 00:37:50,0
+prophets, the
+
+298
+00:37:50,0 --> 00:37:50,0
+Messiah cometh
+
+299
+00:37:50,0 --> 00:37:50,0
+in six
+
+300
+00:37:50,0 --> 00:37:50,0
+hundred years
+
+301
+00:37:50,0 --> 00:37:50,0
+from the
+
+302
+00:37:50,0 --> 00:37:50,0
+time that my
+
+303
+00:37:50,0 --> 00:37:50,0
+father left
+
+304
+00:37:50,0 --> 00:37:50,0
+Jerusalem;
+
+305
+00:37:50,0 --> 00:37:50,0
+and
+
+306
+00:37:50,0 --> 00:37:50,0
+according to the
+
+307
+00:37:50,0 --> 00:37:50,0
+words of the
+
+308
+00:37:50,0 --> 00:37:50,0
+prophets,
+
+309
+00:37:50,0 --> 00:37:50,0
+and also
+
+310
+00:37:50,0 --> 00:37:50,0
+the word of
+
+311
+00:37:50,0 --> 00:37:50,0
+the angel of
+
+312
+00:37:50,0 --> 00:37:50,0
+God, his
+
+313
+00:37:50,0 --> 00:37:50,0
+name shall
+
+314
+00:37:50,0 --> 00:37:50,
+be Jesus Christ, the Son of God.
+
+315
+00:37:50,0 --> 00:37:50,0
+20 And
+
+316
+00:37:50,0 --> 00:37:50,0
+now, my
+
+317
+00:37:50,0 --> 00:37:50,0
+brethren, I
+
+318
+00:37:50,0 --> 00:37:50,0
+have spoken
+
+319
+00:37:50,0 --> 00:37:50,0
+plainly
+
+320
+00:37:50,0 --> 00:37:50,0
+that ye
+
+321
+00:37:50,0 --> 00:37:50,0
+cannot err. And
+
+322
+00:37:50,0 --> 00:37:50,0
+as the
+
+323
+00:37:50,0 --> 00:37:50,0
+Lord God
+
+324
+00:37:50,0 --> 00:37:50,0
+liveth that
+
+325
+00:37:50,0 --> 00:37:50,0
+brought
+
+326
+00:37:50,0 --> 00:37:50,0
+Israel up out
+
+327
+00:37:50,0 --> 00:37:50,0
+of the
+
+328
+00:37:50,0 --> 00:37:50,0
+land of
+
+329
+00:37:50,0 --> 00:37:50,0
+Egypt, and
+
+330
+00:37:50,0 --> 00:37:50,0
+gave unto
+
+331
+00:37:50,0 --> 00:37:50,0
+Moses power
+
+332
+00:37:50,0 --> 00:37:50,0
+that he
+
+333
+00:37:50,0 --> 00:37:50,0
+should heal
+
+334
+00:37:50,0 --> 00:37:50,0
+the nations
+
+335
+00:37:50,0 --> 00:37:50,0
+after
+
+336
+00:37:50,0 --> 00:37:50,0
+they had been
+
+337
+00:37:50,0 --> 00:37:50,0
+bitten by
+
+338
+00:37:50,0 --> 00:37:50,0
+the
+
+339
+00:37:50,0 --> 00:37:50,0
+poisonous
+
+340
+00:37:50,0 --> 00:37:50,0
+serpents, if
+
+341
+00:37:50,0 --> 00:37:50,0
+they would
+
+342
+00:37:50,0 --> 00:37:50,0
+cast their
+
+343
+00:37:50,0 --> 00:37:50,0
+eyes unto
+
+344
+00:37:50,0 --> 00:37:50,0
+the
+
+345
+00:37:50,0 --> 00:37:50,0
+serpent which he
+
+346
+00:37:50,0 --> 00:37:50,0
+did raise
+
+347
+00:37:50,0 --> 00:37:50,0
+up before
+
+348
+00:37:50,0 --> 00:37:50,0
+them, and
+
+349
+00:37:50,0 --> 00:37:50,0
+also gave
+
+350
+00:37:50,0 --> 00:37:50,0
+him power
+
+351
+00:37:50,0 --> 00:37:50,0
+that he
+
+352
+00:37:50,0 --> 00:37:50,0
+should
+
+353
+00:37:50,0 --> 00:37:50,0
+smite the rock
+
+354
+00:37:50,0 --> 00:37:50,0
+and the
+
+355
+00:37:50,0 --> 00:37:50,0
+water
+
+356
+00:37:50,0 --> 00:37:50,0
+should come
+
+357
+00:37:50,0 --> 00:37:50,0
+forth; yea,
+
+358
+00:37:50,0 --> 00:37:50,0
+behold I
+
+359
+00:37:50,0 --> 00:37:50,0
+say unto
+
+360
+00:37:50,0 --> 00:37:50,0
+you, that as
+
+361
+00:37:50,0 --> 00:37:50,0
+these
+
+362
+00:37:50,0 --> 00:37:50,0
+things are
+
+363
+00:37:50,0 --> 00:37:50,0
+true, and as
+
+364
+00:37:50,0 --> 00:37:50,0
+the Lord
+
+365
+00:37:50,0 --> 00:37:50,0
+God liveth,
+
+366
+00:37:50,0 --> 00:37:50,0
+there is
+
+367
+00:37:50,0 --> 00:37:50,0
+none other
+
+368
+00:37:50,0 --> 00:37:50,0
+name
+
+369
+00:37:50,0 --> 00:37:50,0
+given under
+
+370
+00:37:50,0 --> 00:37:50,0
+heaven save
+
+371
+00:37:50,0 --> 00:37:50,0
+it be this
+
+372
+00:37:50,0 --> 00:37:50,
+Jesus Christ, of which I have spoken, whereby man can be saved.
+
+373
+00:37:50,0 --> 00:37:50,0
+21
+
+374
+00:37:50,0 --> 00:37:50,0
+Wherefore, for
+
+375
+00:37:50,0 --> 00:37:50,0
+this
+
+376
+00:37:50,0 --> 00:37:50,0
+cause hath
+
+377
+00:37:50,0 --> 00:37:50,0
+the Lord
+
+378
+00:37:50,0 --> 00:37:50,0
+God
+
+379
+00:37:50,0 --> 00:37:50,0
+promised unto me
+
+380
+00:37:50,0 --> 00:37:50,0
+that
+
+381
+00:37:50,0 --> 00:37:50,0
+these things
+
+382
+00:37:50,0 --> 00:37:50,0
+which I
+
+383
+00:37:50,0 --> 00:37:50,0
+write
+
+384
+00:37:50,0 --> 00:37:50,0
+shall be
+
+385
+00:37:50,0 --> 00:37:50,0
+kept and
+
+386
+00:37:50,0 --> 00:37:50,0
+preserved,
+
+387
+00:37:50,0 --> 00:37:50,0
+and handed
+
+388
+00:37:50,0 --> 00:37:50,0
+down
+
+389
+00:37:50,0 --> 00:37:50,0
+unto my
+
+390
+00:37:50,0 --> 00:37:50,0
+seed, from
+
+391
+00:37:50,0 --> 00:37:50,0
+generation
+
+392
+00:37:50,0 --> 00:37:50,0
+to
+
+393
+00:37:50,0 --> 00:37:50,0
+generation,
+
+394
+00:37:50,0 --> 00:37:50,0
+that the
+
+395
+00:37:50,0 --> 00:37:50,0
+promise may
+
+396
+00:37:50,0 --> 00:37:50,0
+be
+
+397
+00:37:50,0 --> 00:37:50,0
+fulfilled unto
+
+398
+00:37:50,0 --> 00:37:50,0
+Joseph,
+
+399
+00:37:50,0 --> 00:37:50,0
+that his
+
+400
+00:37:50,0 --> 00:37:50,0
+seed
+
+401
+00:37:50,0 --> 00:37:50,0
+should never
+
+402
+00:37:50,0 --> 00:37:50,0
+perish as
+
+403
+00:37:50,0 --> 00:37:50,
+long as the earth should stand.
+
+404
+00:37:50,0 --> 00:37:50,0
+22
+
+405
+00:37:50,0 --> 00:37:50,0
+Wherefore,
+
+406
+00:37:50,0 --> 00:37:50,0
+these
+
+407
+00:37:50,0 --> 00:37:50,0
+things shall
+
+408
+00:37:50,0 --> 00:37:50,0
+go from
+
+409
+00:37:50,0 --> 00:37:50,0
+
+
+410
+00:37:50,0 --> 00:37:50,0
+generation to
+
+411
+00:37:50,0 --> 00:37:50,0
+
+
+412
+00:37:50,0 --> 00:37:50,0
+generation as
+
+413
+00:37:50,0 --> 00:37:50,0
+long as the
+
+414
+00:37:50,0 --> 00:37:50,0
+earth
+
+415
+00:37:50,0 --> 00:37:50,0
+shall
+
+416
+00:37:50,0 --> 00:37:50,0
+stand; and
+
+417
+00:37:50,0 --> 00:37:50,0
+they
+
+418
+00:37:50,0 --> 00:37:50,0
+shall go
+
+419
+00:37:50,0 --> 00:37:50,0
+according
+
+420
+00:37:50,0 --> 00:37:50,0
+to the
+
+421
+00:37:50,0 --> 00:37:50,0
+will and
+
+422
+00:37:50,0 --> 00:37:50,0
+pleasure
+
+423
+00:37:50,0 --> 00:37:50,0
+of God;
+
+424
+00:37:50,0 --> 00:37:50,0
+and the
+
+425
+00:37:50,0 --> 00:37:50,0
+nations
+
+426
+00:37:50,0 --> 00:37:50,0
+who
+
+427
+00:37:50,0 --> 00:37:50,0
+shall
+
+428
+00:37:50,0 --> 00:37:50,0
+possess them
+
+429
+00:37:50,0 --> 00:37:50,0
+shall be
+
+430
+00:37:50,0 --> 00:37:50,0
+judged
+
+431
+00:37:50,0 --> 00:37:50,0
+of them
+
+432
+00:37:50,0 --> 00:37:50,0
+
+
+433
+00:37:50,0 --> 00:37:50,
+according to the words which are written.
+
+434
+00:37:50,0 --> 00:37:50,0
+23 For
+
+435
+00:37:50,0 --> 00:37:50,0
+we labor
+
+436
+00:37:50,0 --> 00:37:50,0
+
+
+437
+00:37:50,0 --> 00:37:50,0
+diligently to
+
+438
+00:37:50,0 --> 00:37:50,0
+write, to
+
+439
+00:37:50,0 --> 00:37:50,0
+persuade
+
+440
+00:37:50,0 --> 00:37:50,0
+our
+
+441
+00:37:50,0 --> 00:37:50,0
+children,
+
+442
+00:37:50,0 --> 00:37:50,0
+and also
+
+443
+00:37:50,0 --> 00:37:50,0
+our
+
+444
+00:37:50,0 --> 00:37:50,0
+brethren, to
+
+445
+00:37:50,0 --> 00:37:50,0
+believe
+
+446
+00:37:50,0 --> 00:37:50,0
+in
+
+447
+00:37:50,0 --> 00:37:50,0
+Christ, and
+
+448
+00:37:50,0 --> 00:37:50,0
+to be
+
+449
+00:37:50,0 --> 00:37:50,0
+reconciled
+
+450
+00:37:50,0 --> 00:37:50,0
+to God;
+
+451
+00:37:50,0 --> 00:37:50,0
+for we
+
+452
+00:37:50,0 --> 00:37:50,0
+know
+
+453
+00:37:50,0 --> 00:37:50,0
+that it is
+
+454
+00:37:50,0 --> 00:37:50,0
+by grace
+
+455
+00:37:50,0 --> 00:37:50,0
+that we
+
+456
+00:37:50,0 --> 00:37:50,0
+are
+
+457
+00:37:50,0 --> 00:37:50,0
+saved,
+
+458
+00:37:50,0 --> 00:37:50,0
+after all we
+
+459
+00:37:50,0 --> 00:37:50,
+can do.
+
+460
+00:37:50,0 --> 00:37:50,0
+24 And,
+
+461
+00:37:50,0 --> 00:37:50,0
+
+
+462
+00:37:50,0 --> 00:37:50,0
+
+
+463
+00:37:50,0 --> 00:37:50,0
+notwithstanding we
+
+464
+00:37:50,0 --> 00:37:50,0
+believe
+
+465
+00:37:50,0 --> 00:37:50,0
+in
+
+466
+00:37:50,0 --> 00:37:50,0
+Christ, we
+
+467
+00:37:50,0 --> 00:37:50,0
+keep
+
+468
+00:37:50,0 --> 00:37:50,0
+the law
+
+469
+00:37:50,0 --> 00:37:50,0
+of
+
+470
+00:37:50,0 --> 00:37:50,0
+Moses, and
+
+471
+00:37:50,0 --> 00:37:50,0
+look
+
+472
+00:37:50,0 --> 00:37:50,0
+forward
+
+473
+00:37:50,0 --> 00:37:50,0
+with
+
+474
+00:37:50,0 --> 00:37:50,0
+
+
+475
+00:37:50,0 --> 00:37:50,0
+steadfastness unto
+
+476
+00:37:50,0 --> 00:37:50,0
+
+
+477
+00:37:50,0 --> 00:37:50,0
+Christ, until
+
+478
+00:37:50,0 --> 00:37:50,0
+the
+
+479
+00:37:50,0 --> 00:37:50,
+law shall be fulfilled.
+
+480
+00:37:50,0 --> 00:37:50,0
+25
+
+481
+00:37:50,0 --> 00:37:50,0
+For, for
+
+482
+00:37:50,0 --> 00:37:50,0
+this
+
+483
+00:37:50,0 --> 00:37:50,0
+end was
+
+484
+00:37:50,0 --> 00:37:50,0
+the
+
+485
+00:37:50,0 --> 00:37:50,0
+law
+
+486
+00:37:50,0 --> 00:37:50,0
+given;
+
+487
+00:37:50,0 --> 00:37:50,0
+
+
+488
+00:37:50,0 --> 00:37:50,0
+wherefore the
+
+489
+00:37:50,0 --> 00:37:50,0
+law
+
+490
+00:37:50,0 --> 00:37:50,0
+hath
+
+491
+00:37:50,0 --> 00:37:50,0
+become
+
+492
+00:37:50,0 --> 00:37:50,0
+dead
+
+493
+00:37:50,0 --> 00:37:50,0
+unto us,
+
+494
+00:37:50,0 --> 00:37:50,0
+and we
+
+495
+00:37:50,0 --> 00:37:50,0
+are
+
+496
+00:37:50,0 --> 00:37:50,0
+made
+
+497
+00:37:50,0 --> 00:37:50,0
+alive in
+
+498
+00:37:50,0 --> 00:37:50,0
+
+
+499
+00:37:50,0 --> 00:37:50,0
+Christ
+
+500
+00:37:50,0 --> 00:37:50,0
+because of
+
+501
+00:37:50,0 --> 00:37:50,0
+our
+
+502
+00:37:50,0 --> 00:37:50,0
+faith;
+
+503
+00:37:50,0 --> 00:37:50,0
+yet we
+
+504
+00:37:50,0 --> 00:37:50,0
+keep
+
+505
+00:37:50,0 --> 00:37:50,0
+the
+
+506
+00:37:50,0 --> 00:37:50,
+law because of the commandments.
+
+507
+00:37:50,0 --> 00:37:50,0
+26
+
+508
+00:37:50,0 --> 00:37:50,0
+And we
+
+509
+00:37:50,0 --> 00:37:50,0
+talk
+
+510
+00:37:50,0 --> 00:37:50,0
+of
+
+511
+00:37:50,0 --> 00:37:50,0
+Christ,
+
+512
+00:37:50,0 --> 00:37:50,0
+we
+
+513
+00:37:50,0 --> 00:37:50,0
+
+
+514
+00:37:50,0 --> 00:37:50,0
+rejoice in
+
+515
+00:37:50,0 --> 00:37:50,0
+
+
+516
+00:37:50,0 --> 00:37:50,0
+Christ, we
+
+517
+00:37:50,0 --> 00:37:50,0
+
+
+518
+00:37:50,0 --> 00:37:50,0
+preach of
+
+519
+00:37:50,0 --> 00:37:50,0
+
+
+520
+00:37:50,0 --> 00:37:50,0
+Christ,
+
+521
+00:37:50,0 --> 00:37:50,0
+we
+
+522
+00:37:50,0 --> 00:37:50,0
+prophesy
+
+523
+00:37:50,0 --> 00:37:50,0
+of
+
+524
+00:37:50,0 --> 00:37:50,0
+
+
+525
+00:37:50,0 --> 00:37:50,0
+Christ, and
+
+526
+00:37:50,0 --> 00:37:50,0
+we
+
+527
+00:37:50,0 --> 00:37:50,0
+write
+
+528
+00:37:50,0 --> 00:37:50,0
+
+
+529
+00:37:50,0 --> 00:37:50,0
+according
+
+530
+00:37:50,0 --> 00:37:50,0
+to
+
+531
+00:37:50,0 --> 00:37:50,0
+our
+
+532
+00:37:50,0 --> 00:37:50,0
+
+
+533
+00:37:50,0 --> 00:37:50,0
+prophecies,
+
+534
+00:37:50,0 --> 00:37:50,0
+that
+
+535
+00:37:50,0 --> 00:37:50,0
+our
+
+536
+00:37:50,0 --> 00:37:50,0
+
+
+537
+00:37:50,0 --> 00:37:50,0
+children may
+
+538
+00:37:50,0 --> 00:37:50,0
+know
+
+539
+00:37:50,0 --> 00:37:50,0
+to
+
+540
+00:37:50,0 --> 00:37:50,0
+what
+
+541
+00:37:50,0 --> 00:37:50,0
+source
+
+542
+00:37:50,0 --> 00:37:50,0
+they
+
+543
+00:37:50,0 --> 00:37:50,
+may look for a remission of their sins.
+
+544
+00:37:50,0 --> 00:37:50,0
+27
+
+545
+00:37:50,0 --> 00:37:50,0
+
+
+546
+00:37:50,0 --> 00:37:50,0
+
+
+547
+00:37:50,0 --> 00:37:50,0
+Wherefore, we
+
+548
+00:37:50,0 --> 00:37:50,0
+
+
+549
+00:37:50,0 --> 00:37:50,0
+speak
+
+550
+00:37:50,0 --> 00:37:50,0
+
+
+551
+00:37:50,0 --> 00:37:50,0
+
+
+552
+00:37:50,0 --> 00:37:50,0
+concerning
+
+553
+00:37:50,0 --> 00:37:50,0
+the
+
+554
+00:37:50,0 --> 00:37:50,0
+law
+
+555
+00:37:50,0 --> 00:37:50,0
+that
+
+556
+00:37:50,0 --> 00:37:50,0
+our
+
+557
+00:37:50,0 --> 00:37:50,0
+
+
+558
+00:37:50,0 --> 00:37:50,0
+children
+
+559
+00:37:50,0 --> 00:37:50,0
+may
+
+560
+00:37:50,0 --> 00:37:50,0
+know
+
+561
+00:37:50,0 --> 00:37:50,0
+the
+
+562
+00:37:50,0 --> 00:37:50,0
+
+
+563
+00:37:50,0 --> 00:37:50,0
+
+
+564
+00:37:50,0 --> 00:37:50,0
+deadness of
+
+565
+00:37:50,0 --> 00:37:50,0
+the
+
+566
+00:37:50,0 --> 00:37:50,0
+
+
+567
+00:37:50,0 --> 00:37:50,0
+law;
+
+568
+00:37:50,0 --> 00:37:50,0
+and
+
+569
+00:37:50,0 --> 00:37:50,0
+they,
+
+570
+00:37:50,0 --> 00:37:50,0
+by
+
+571
+00:37:50,0 --> 00:37:50,0
+
+
+572
+00:37:50,0 --> 00:37:50,0
+knowing
+
+573
+00:37:50,0 --> 00:37:50,0
+the
+
+574
+00:37:50,0 --> 00:37:50,0
+
+
+575
+00:37:50,0 --> 00:37:50,0
+deadness
+
+576
+00:37:50,0 --> 00:37:50,0
+of
+
+577
+00:37:50,0 --> 00:37:50,0
+the
+
+578
+00:37:50,0 --> 00:37:50,0
+law,
+
+579
+00:37:50,0 --> 00:37:50,0
+may
+
+580
+00:37:50,0 --> 00:37:50,0
+look
+
+581
+00:37:50,0 --> 00:37:50,0
+
+
+582
+00:37:50,0 --> 00:37:50,0
+forward
+
+583
+00:37:50,0 --> 00:37:50,0
+
+
+584
+00:37:50,0 --> 00:37:50,0
+unto
+
+585
+00:37:50,0 --> 00:37:50,0
+that
+
+586
+00:37:50,0 --> 00:37:50,0
+life
+
+587
+00:37:50,0 --> 00:37:50,0
+
+
+588
+00:37:50,0 --> 00:37:50,0
+which is
+
+589
+00:37:50,0 --> 00:37:50,0
+in
+
+590
+00:37:50,0 --> 00:37:50,0
+
+
+591
+00:37:50,0 --> 00:37:50,0
+Christ,
+
+592
+00:37:50,0 --> 00:37:50,0
+and
+
+593
+00:37:50,0 --> 00:37:50,0
+know
+
+594
+00:37:50,0 --> 00:37:50,0
+for
+
+595
+00:37:50,0 --> 00:37:50,0
+
+
+596
+00:37:50,0 --> 00:37:50,0
+what
+
+597
+00:37:50,0 --> 00:37:50,0
+end
+
+598
+00:37:50,0 --> 00:37:50,0
+the
+
+599
+00:37:50,0 --> 00:37:50,0
+law
+
+600
+00:37:50,0 --> 00:37:50,0
+was
+
+601
+00:37:50,0 --> 00:37:50,0
+given.
+
+602
+00:37:50,0 --> 00:37:50,0
+And
+
+603
+00:37:50,0 --> 00:37:50,0
+
+
+604
+00:37:50,0 --> 00:37:50,0
+after
+
+605
+00:37:50,0 --> 00:37:50,0
+the
+
+606
+00:37:50,0 --> 00:37:50,0
+law
+
+607
+00:37:50,0 --> 00:37:50,0
+is
+
+608
+00:37:50,0 --> 00:37:50,0
+
+
+609
+00:37:50,0 --> 00:37:50,0
+fulfilled
+
+610
+00:37:50,0 --> 00:37:50,0
+in
+
+611
+00:37:50,0 --> 00:37:50,0
+
+
+612
+00:37:50,0 --> 00:37:50,0
+Christ,
+
+613
+00:37:50,0 --> 00:37:50,0
+that
+
+614
+00:37:50,0 --> 00:37:50,0
+they
+
+615
+00:37:50,0 --> 00:37:50,0
+
+
+616
+00:37:50,0 --> 00:37:50,
+need not harden their hearts against him when the law ought to be done away.
+
+617
+00:37:50,0 --> 00:37:50,0
+28
+
+618
+00:37:50,0 --> 00:37:50,0
+And
+
+619
+00:37:50,0 --> 00:37:50,0
+
+
+620
+00:37:50,0 --> 00:37:50,0
+now
+
+621
+00:37:50,0 --> 00:37:50,0
+
+
+622
+00:37:50,0 --> 00:37:50,0
+behold,
+
+623
+00:37:50,0 --> 00:37:50,0
+my
+
+624
+00:37:50,0 --> 00:37:50,0
+
+
+625
+00:37:50,0 --> 00:37:50,0
+
+
+626
+00:37:50,0 --> 00:37:50,0
+people,
+
+627
+00:37:50,0 --> 00:37:50,0
+ye
+
+628
+00:37:50,0 --> 00:37:50,0
+are
+
+629
+00:37:50,0 --> 00:37:50,0
+a
+
+630
+00:37:50,0 --> 00:37:50,0
+
+
+631
+00:37:50,0 --> 00:37:50,0
+
+
+632
+00:37:50,0 --> 00:37:50,0
+
+
+633
+00:37:50,0 --> 00:37:50,0
+stiffnecked
+
+634
+00:37:50,0 --> 00:37:50,0
+
+
+635
+00:37:50,0 --> 00:37:50,0
+
+
+636
+00:37:50,0 --> 00:37:50,0
+people;
+
+637
+00:37:50,0 --> 00:37:50,0
+
+
+638
+00:37:50,0 --> 00:37:50,0
+
+
+639
+00:37:50,0 --> 00:37:50,0
+wherefore,
+
+640
+00:37:50,0 --> 00:37:50,0
+I
+
+641
+00:37:50,0 --> 00:37:50,0
+
+
+642
+00:37:50,0 --> 00:37:50,0
+have
+
+643
+00:37:50,0 --> 00:37:50,0
+
+
+644
+00:37:50,0 --> 00:37:50,0
+spoken
+
+645
+00:37:50,0 --> 00:37:50,0
+
+
+646
+00:37:50,0 --> 00:37:50,0
+
+
+647
+00:37:50,0 --> 00:37:50,0
+plainly
+
+648
+00:37:50,0 --> 00:37:50,0
+unto
+
+649
+00:37:50,0 --> 00:37:50,0
+
+
+650
+00:37:50,0 --> 00:37:50,0
+you,
+
+651
+00:37:50,0 --> 00:37:50,0
+
+
+652
+00:37:50,0 --> 00:37:50,0
+that
+
+653
+00:37:50,0 --> 00:37:50,0
+ye
+
+654
+00:37:50,0 --> 00:37:50,0
+
+
+655
+00:37:50,0 --> 00:37:50,0
+cannot
+
+656
+00:37:50,0 --> 00:37:50,0
+
+
+657
+00:37:50,0 --> 00:37:50,0
+
+
+658
+00:37:50,0 --> 00:37:50,0
+
+
+659
+00:37:50,0 --> 00:37:50,0
+
+
+660
+00:37:50,0 --> 00:37:50,0
+misunderstand.
+
+661
+00:37:50,0 --> 00:37:50,0
+And
+
+662
+00:37:50,0 --> 00:37:50,0
+
+
+663
+00:37:50,0 --> 00:37:50,0
+the
+
+664
+00:37:50,0 --> 00:37:50,0
+
+
+665
+00:37:50,0 --> 00:37:50,0
+words
+
+666
+00:37:50,0 --> 00:37:50,0
+
+
+667
+00:37:50,0 --> 00:37:50,0
+which I
+
+668
+00:37:50,0 --> 00:37:50,0
+
+
+669
+00:37:50,0 --> 00:37:50,0
+have
+
+670
+00:37:50,0 --> 00:37:50,0
+
+
+671
+00:37:50,0 --> 00:37:50,0
+spoken
+
+672
+00:37:50,0 --> 00:37:50,0
+
+
+673
+00:37:50,0 --> 00:37:50,0
+shall
+
+674
+00:37:50,0 --> 00:37:50,0
+
+
+675
+00:37:50,0 --> 00:37:50,0
+stand
+
+676
+00:37:50,0 --> 00:37:50,0
+as
+
+677
+00:37:50,0 --> 00:37:50,0
+a
+
+678
+00:37:50,0 --> 00:37:50,0
+
+
+679
+00:37:50,0 --> 00:37:50,0
+
+
+680
+00:37:50,0 --> 00:37:50,0
+testimony
+
+681
+00:37:50,0 --> 00:37:50,0
+
+
+682
+00:37:50,0 --> 00:37:50,0
+
+
+683
+00:37:50,0 --> 00:37:50,0
+against
+
+684
+00:37:50,0 --> 00:37:50,0
+
+
+685
+00:37:50,0 --> 00:37:50,0
+you;
+
+686
+00:37:50,0 --> 00:37:50,0
+for
+
+687
+00:37:50,0 --> 00:37:50,0
+
+
+688
+00:37:50,0 --> 00:37:50,0
+they
+
+689
+00:37:50,0 --> 00:37:50,0
+are
+
+690
+00:37:50,0 --> 00:37:50,0
+
+
+691
+00:37:50,0 --> 00:37:50,0
+
+
+692
+00:37:50,0 --> 00:37:50,0
+
+
+693
+00:37:50,0 --> 00:37:50,0
+sufficient
+
+694
+00:37:50,0 --> 00:37:50,0
+to
+
+695
+00:37:50,0 --> 00:37:50,0
+
+
+696
+00:37:50,0 --> 00:37:50,0
+teach
+
+697
+00:37:50,0 --> 00:37:50,0
+any
+
+698
+00:37:50,0 --> 00:37:50,0
+man
+
+699
+00:37:50,0 --> 00:37:50,0
+
+
+700
+00:37:50,0 --> 00:37:50,0
+the
+
+701
+00:37:50,0 --> 00:37:50,0
+
+
+702
+00:37:50,0 --> 00:37:50,0
+right
+
+703
+00:37:50,0 --> 00:37:50,0
+way;
+
+704
+00:37:50,0 --> 00:37:50,0
+
+
+705
+00:37:50,0 --> 00:37:50,0
+for
+
+706
+00:37:50,0 --> 00:37:50,0
+the
+
+707
+00:37:50,0 --> 00:37:50,0
+
+
+708
+00:37:50,0 --> 00:37:50,0
+right
+
+709
+00:37:50,0 --> 00:37:50,0
+way
+
+710
+00:37:50,0 --> 00:37:50,0
+is
+
+711
+00:37:50,0 --> 00:37:50,
+to believe in Christ and deny him not; for by denying him ye also deny the prophets and the law.
+
+712
+00:37:50,0 --> 00:37:50,0
+29
+
+713
+00:37:50,0 --> 00:37:50,0
+And
+
+714
+00:37:50,0 --> 00:37:50,0
+
+
+715
+00:37:50,0 --> 00:37:50,0
+now
+
+716
+00:37:50,0 --> 00:37:50,0
+
+
+717
+00:37:50,0 --> 00:37:50,0
+behold,
+
+718
+00:37:50,0 --> 00:37:50,0
+I
+
+719
+00:37:50,0 --> 00:37:50,0
+say
+
+720
+00:37:50,0 --> 00:37:50,0
+
+
+721
+00:37:50,0 --> 00:37:50,0
+unto
+
+722
+00:37:50,0 --> 00:37:50,0
+you
+
+723
+00:37:50,0 --> 00:37:50,0
+
+
+724
+00:37:50,0 --> 00:37:50,0
+that
+
+725
+00:37:50,0 --> 00:37:50,0
+the
+
+726
+00:37:50,0 --> 00:37:50,0
+
+
+727
+00:37:50,0 --> 00:37:50,0
+right
+
+728
+00:37:50,0 --> 00:37:50,0
+
+
+729
+00:37:50,0 --> 00:37:50,0
+way
+
+730
+00:37:50,0 --> 00:37:50,0
+is
+
+731
+00:37:50,0 --> 00:37:50,0
+to
+
+732
+00:37:50,0 --> 00:37:50,0
+
+
+733
+00:37:50,0 --> 00:37:50,0
+believe
+
+734
+00:37:50,0 --> 00:37:50,0
+in
+
+735
+00:37:50,0 --> 00:37:50,0
+
+
+736
+00:37:50,0 --> 00:37:50,0
+
+
+737
+00:37:50,0 --> 00:37:50,0
+Christ,
+
+738
+00:37:50,0 --> 00:37:50,0
+and
+
+739
+00:37:50,0 --> 00:37:50,0
+
+
+740
+00:37:50,0 --> 00:37:50,0
+deny
+
+741
+00:37:50,0 --> 00:37:50,0
+him
+
+742
+00:37:50,0 --> 00:37:50,0
+
+
+743
+00:37:50,0 --> 00:37:50,0
+not;
+
+744
+00:37:50,0 --> 00:37:50,0
+and
+
+745
+00:37:50,0 --> 00:37:50,0
+
+
+746
+00:37:50,0 --> 00:37:50,0
+
+
+747
+00:37:50,0 --> 00:37:50,0
+Christ
+
+748
+00:37:50,0 --> 00:37:50,0
+is
+
+749
+00:37:50,0 --> 00:37:50,0
+the
+
+750
+00:37:50,0 --> 00:37:50,0
+
+
+751
+00:37:50,0 --> 00:37:50,0
+Holy
+
+752
+00:37:50,0 --> 00:37:50,0
+One
+
+753
+00:37:50,0 --> 00:37:50,0
+of
+
+754
+00:37:50,0 --> 00:37:50,0
+
+
+755
+00:37:50,0 --> 00:37:50,0
+
+
+756
+00:37:50,0 --> 00:37:50,0
+Israel;
+
+757
+00:37:50,0 --> 00:37:50,0
+
+
+758
+00:37:50,0 --> 00:37:50,0
+
+
+759
+00:37:50,0 --> 00:37:50,0
+wherefore
+
+760
+00:37:50,0 --> 00:37:50,0
+ye
+
+761
+00:37:50,0 --> 00:37:50,0
+
+
+762
+00:37:50,0 --> 00:37:50,0
+must
+
+763
+00:37:50,0 --> 00:37:50,0
+bow
+
+764
+00:37:50,0 --> 00:37:50,0
+
+
+765
+00:37:50,0 --> 00:37:50,0
+down
+
+766
+00:37:50,0 --> 00:37:50,0
+
+
+767
+00:37:50,0 --> 00:37:50,0
+before
+
+768
+00:37:50,0 --> 00:37:50,0
+
+
+769
+00:37:50,0 --> 00:37:50,0
+him,
+
+770
+00:37:50,0 --> 00:37:50,0
+and
+
+771
+00:37:50,0 --> 00:37:50,0
+
+
+772
+00:37:50,0 --> 00:37:50,0
+
+
+773
+00:37:50,0 --> 00:37:50,0
+worship
+
+774
+00:37:50,0 --> 00:37:50,0
+him
+
+775
+00:37:50,0 --> 00:37:50,0
+
+
+776
+00:37:50,0 --> 00:37:50,0
+with
+
+777
+00:37:50,0 --> 00:37:50,0
+all
+
+778
+00:37:50,0 --> 00:37:50,0
+
+
+779
+00:37:50,0 --> 00:37:50,0
+your
+
+780
+00:37:50,0 --> 00:37:50,0
+
+
+781
+00:37:50,0 --> 00:37:50,0
+might,
+
+782
+00:37:50,0 --> 00:37:50,0
+
+
+783
+00:37:50,0 --> 00:37:50,0
+mind,
+
+784
+00:37:50,0 --> 00:37:50,0
+and
+
+785
+00:37:50,0 --> 00:37:50,0
+
+
+786
+00:37:50,0 --> 00:37:50,0
+
+
+787
+00:37:50,0 --> 00:37:50,0
+
+
+788
+00:37:50,0 --> 00:37:50,0
+strength,
+
+789
+00:37:50,0 --> 00:37:50,0
+and
+
+790
+00:37:50,0 --> 00:37:50,0
+
+
+791
+00:37:50,0 --> 00:37:50,0
+your
+
+792
+00:37:50,0 --> 00:37:50,0
+
+
+793
+00:37:50,0 --> 00:37:50,0
+whole
+
+794
+00:37:50,0 --> 00:37:50,0
+
+
+795
+00:37:50,0 --> 00:37:50,0
+soul;
+
+796
+00:37:50,0 --> 00:37:50,0
+and
+
+797
+00:37:50,0 --> 00:37:50,0
+if
+
+798
+00:37:50,0 --> 00:37:50,0
+ye
+
+799
+00:37:50,0 --> 00:37:50,0
+do
+
+800
+00:37:50,0 --> 00:37:50,0
+
+
+801
+00:37:50,0 --> 00:37:50,0
+this
+
+802
+00:37:50,0 --> 00:37:50,0
+ye
+
+803
+00:37:50,0 --> 00:37:50,0
+
+
+804
+00:37:50,0 --> 00:37:50,0
+shall
+
+805
+00:37:50,0 --> 00:37:50,0
+in
+
+806
+00:37:50,0 --> 00:37:50,0
+
+
+807
+00:37:50,0 --> 00:37:50,0
+nowise
+
+808
+00:37:50,0 --> 00:37:50,0
+be
+
+809
+00:37:50,0 --> 00:37:50,0
+
+
+810
+00:37:50,0 --> 00:37:50,0
+cast
+
+811
+00:37:50,0 --> 00:37:50,
+out.
+
+812
+00:37:50,0 --> 00:37:50,0
+30
+
+813
+00:37:50,0 --> 00:37:50,0
+
+
+814
+00:37:50,0 --> 00:37:50,0
+And,
+
+815
+00:37:50,0 --> 00:37:50,0
+
+
+816
+00:37:50,0 --> 00:37:50,0
+
+
+817
+00:37:50,0 --> 00:37:50,0
+inasmuch
+
+818
+00:37:50,0 --> 00:37:50,0
+as
+
+819
+00:37:50,0 --> 00:37:50,0
+it
+
+820
+00:37:50,0 --> 00:37:50,0
+
+
+821
+00:37:50,0 --> 00:37:50,0
+shall
+
+822
+00:37:50,0 --> 00:37:50,0
+be
+
+823
+00:37:50,0 --> 00:37:50,0
+
+
+824
+00:37:50,0 --> 00:37:50,0
+
+
+825
+00:37:50,0 --> 00:37:50,0
+expedient,
+
+826
+00:37:50,0 --> 00:37:50,0
+ye
+
+827
+00:37:50,0 --> 00:37:50,0
+
+
+828
+00:37:50,0 --> 00:37:50,0
+must
+
+829
+00:37:50,0 --> 00:37:50,0
+
+
+830
+00:37:50,0 --> 00:37:50,0
+keep
+
+831
+00:37:50,0 --> 00:37:50,0
+the
+
+832
+00:37:50,0 --> 00:37:50,0
+
+
+833
+00:37:50,0 --> 00:37:50,0
+
+
+834
+00:37:50,0 --> 00:37:50,0
+
+
+835
+00:37:50,0 --> 00:37:50,0
+performances
+
+836
+00:37:50,0 --> 00:37:50,0
+
+
+837
+00:37:50,0 --> 00:37:50,0
+and
+
+838
+00:37:50,0 --> 00:37:50,0
+
+
+839
+00:37:50,0 --> 00:37:50,0
+
+
+840
+00:37:50,0 --> 00:37:50,0
+ordinances
+
+841
+00:37:50,0 --> 00:37:50,0
+of
+
+842
+00:37:50,0 --> 00:37:50,0
+
+
+843
+00:37:50,0 --> 00:37:50,0
+God
+
+844
+00:37:50,0 --> 00:37:50,0
+
+
+845
+00:37:50,0 --> 00:37:50,0
+until
+
+846
+00:37:50,0 --> 00:37:50,0
+the
+
+847
+00:37:50,0 --> 00:37:50,0
+law
+
+848
+00:37:50,0 --> 00:37:50,0
+
+
+849
+00:37:50,0 --> 00:37:50,0
+shall
+
+850
+00:37:50,0 --> 00:37:50,0
+be
+
+851
+00:37:50,0 --> 00:37:50,0
+
+
+852
+00:37:50,0 --> 00:37:50,0
+
+
+853
+00:37:50,0 --> 00:37:50,0
+
+
+854
+00:37:50,0 --> 00:37:50,0
+fulfilled
+
+855
+00:37:50,0 --> 00:37:50,0
+
+
+856
+00:37:50,0 --> 00:37:50,0
+which
+
+857
+00:37:50,0 --> 00:37:50,0
+was
+
+858
+00:37:50,0 --> 00:37:50,0
+
+
+859
+00:37:50,0 --> 00:37:50,0
+given
+
+860
+00:37:50,0 --> 00:37:50,0
+
+
+861
+00:37:50,0 --> 00:37:50,0
+unto
+
+862
+00:37:50,0 --> 00:37:50,0
+
+
+863
+00:37:50,0 --> 00:37:50,
+Moses. 
 

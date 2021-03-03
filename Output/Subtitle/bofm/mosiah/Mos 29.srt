@@ -1,936 +1,17296 @@
 1
-00:00:00,0 --> 00:00:01,167
-Chapter 29 Mosiah proposes that judges be chosen
+00:00:00,0 --> 00:00:00,0
+Chapter 29 Mosiah proposes that judges be
 
 2
-00:00:01,167 --> 00:00:02,334
- in place of a king—Unrighteous kings lead their
+00:00:00,0 --> 00:00:00,0
+chosen in place of a king—Unrighteous kings lead
 
 3
-00:00:02,334 --> 00:00:03,501
- people into sin—Alma the younger is chosen chief
+00:00:00,0 --> 00:00:00,0
+their people into sin—Alma the younger is
 
 4
-00:00:03,501 --> 00:00:04,668
- judge by the voice of the people—He is also the high
+00:00:00,0 --> 00:00:00,0
+chosen chief judge by the voice of the
 
 5
-00:00:04,668 --> 00:00:05,835
- priest over the Church—Alma the elder and Mosiah
+00:00:00,0 --> 00:00:00,0
+people—He is also the high priest over the
 
 6
-00:00:05,835 --> 00:00:07,002
- die. About 92–91 B.C.
+00:00:00,0 --> 00:28:23,
+Church—Alma the elder and Mosiah die. About 92–91 B.C. 
 
 7
-00:00:07,975 --> 00:00:09,975
-1 Now when Mosiah had done this he sent out
+00:28:23,0 --> 00:28:23,0
+1 Now when Mosiah had done this he
 
 8
-00:00:09,975 --> 00:00:11,975
- throughout all the land, among all the people, desiring
+00:28:23,0 --> 00:28:23,0
+sent out throughout all the land, among
 
 9
-00:00:11,975 --> 00:00:13,975
- to know their will concerning who should be their
+00:28:23,0 --> 00:28:23,0
+all the people, desiring to know their
 
 10
-00:00:13,975 --> 00:00:15,975
- king
+00:28:23,0 --> 00:27:55,
+will concerning who should be their king.
 
 11
-00:00:15,949 --> 00:00:18,616
-2 And it came to pass that the voice of the people
+00:27:55,0 --> 00:27:55,0
+2 And it came to pass that the
 
 12
-00:00:18,616 --> 00:00:21,283
- came, saying: We are desirous that Aaron thy son
+00:27:55,0 --> 00:27:55,0
+voice of the people came, saying:
 
 13
-00:00:21,283 --> 00:00:23,95
- should be our king and our ruler
+00:27:55,0 --> 00:27:55,0
+We are desirous that Aaron thy son
 
 14
-00:00:23,924 --> 00:00:25,524
-3 Now Aaron had gone up to the land of Nephi,
+00:27:55,0 --> 00:27:27,
+should be our king and our ruler.
 
 15
-00:00:25,524 --> 00:00:27,124
- therefore the king could not confer the kingdom upon
+00:27:27,0 --> 00:27:27,0
+3 Now Aaron had gone up to the
 
 16
-00:00:27,124 --> 00:00:28,724
- him; neither would Aaron take upon him the kingdom;
+00:27:27,0 --> 00:27:27,0
+land of Nephi, therefore the king
 
 17
-00:00:28,724 --> 00:00:30,324
- neither were any of the sons of Mosiah willing to
+00:27:27,0 --> 00:27:27,0
+could not confer the kingdom
 
 18
-00:00:30,324 --> 00:00:31,924
- take upon them the kingdom
+00:27:27,0 --> 00:27:27,0
+upon him; neither would Aaron take
 
 19
-00:00:31,899 --> 00:00:33,899
-4 Therefore king Mosiah sent again among the
+00:27:27,0 --> 00:27:27,0
+upon him the kingdom; neither
 
 20
-00:00:33,899 --> 00:00:35,899
- people; yea, even a written word sent he among the
+00:27:27,0 --> 00:27:27,0
+were any of the sons of Mosiah
 
 21
-00:00:35,899 --> 00:00:37,899
- people. And these were the words that were written,
+00:27:27,0 --> 00:26:59,
+willing to take upon them the kingdom.
 
 22
-00:00:37,899 --> 00:00:39,899
- saying
+00:26:59,0 --> 00:26:59,0
+4 Therefore king Mosiah sent
 
 23
-00:00:39,873 --> 00:00:41,873
-5 Behold, O ye my people, or my brethren, for I
+00:26:59,0 --> 00:26:59,0
+again among the people; yea, even
 
 24
-00:00:41,873 --> 00:00:43,873
- esteem you as such, I desire that ye should consider
+00:26:59,0 --> 00:26:59,0
+a written word sent he among
 
 25
-00:00:43,873 --> 00:00:45,873
- the cause which ye are called to consider—for ye
+00:26:59,0 --> 00:26:59,0
+the people. And these were the
 
 26
-00:00:45,873 --> 00:00:47,873
- are desirous to have a king
+00:26:59,0 --> 00:26:31,
+words that were written, saying:
 
 27
-00:00:47,848 --> 00:00:50,515
-6 Now I declare unto you that he to whom the
+00:26:31,0 --> 00:26:31,0
+5 Behold, O ye my people, or
 
 28
-00:00:50,515 --> 00:00:53,182
- kingdom doth rightly belong has declined, and will not
+00:26:31,0 --> 00:26:31,0
+my brethren, for I esteem you
 
 29
-00:00:53,182 --> 00:00:55,849
- take upon him the kingdom
+00:26:31,0 --> 00:26:31,0
+as such, I desire that ye
 
 30
-00:00:55,822 --> 00:00:56,711
-7 And now if there should be another appointed in
+00:26:31,0 --> 00:26:31,0
+should consider the cause which
 
 31
-00:00:56,711 --> 00:00:57,6
- his stead, behold I fear there would rise
+00:26:31,0 --> 00:26:31,0
+ye are called to
 
 32
-00:00:57,6 --> 00:00:58,489
- contentions among you. And who knoweth but what my son, to
+00:26:31,0 --> 00:26:17,
+consider—for ye are desirous to have a king.
 
 33
-00:00:58,489 --> 00:00:59,378
- whom the kingdom doth belong, should turn to be
+00:26:17,0 --> 00:26:17,0
+6 Now I declare unto you
 
 34
-00:00:59,378 --> 00:01:00,267
- angry and draw away a part of this people after
+00:26:17,0 --> 00:26:17,0
+that he to whom the
 
 35
-00:01:00,267 --> 00:01:01,156
- him, which would cause wars and contentions among
+00:26:17,0 --> 00:26:17,0
+kingdom doth rightly belong
 
 36
-00:01:01,156 --> 00:01:02,045
- you, which would be the cause of shedding much blood
+00:26:17,0 --> 00:26:17,0
+has declined, and will not
 
 37
-00:01:02,045 --> 00:01:02,934
- and perverting the way of the Lord, yea, and
+00:26:17,0 --> 00:27:15,
+take upon him the kingdom.
 
 38
-00:01:02,934 --> 00:01:03,823
- destroy the souls of many people
+00:27:15,0 --> 00:27:15,0
+7 And now if there
 
 39
-00:01:03,797 --> 00:01:05,797
-8 Now I say unto you let us be wise and consider
+00:27:15,0 --> 00:27:15,0
+should be another appointed
 
 40
-00:01:05,797 --> 00:01:07,797
- these things, for we have no right to destroy my
+00:27:15,0 --> 00:27:15,0
+in his stead, behold I
 
 41
-00:01:07,797 --> 00:01:09,797
- son, neither should we have any right to destroy
+00:27:15,0 --> 00:27:15,0
+fear there would rise
 
 42
-00:01:09,797 --> 00:01:11,797
- another if he should be appointed in his stead
+00:27:15,0 --> 00:27:15,0
+contentions among you.
 
 43
-00:01:11,772 --> 00:01:13,372
-9 And if my son should turn again to his pride and
+00:27:15,0 --> 00:27:15,0
+And who knoweth but
 
 44
-00:01:13,372 --> 00:01:14,972
- vain things he would recall the things which he
+00:27:15,0 --> 00:27:15,0
+what my son, to whom the
 
 45
-00:01:14,972 --> 00:01:16,572
- had said, and claim his right to the kingdom, which
+00:27:15,0 --> 00:27:15,0
+kingdom doth belong,
 
 46
-00:01:16,572 --> 00:01:18,172
- would cause him and also this people to commit
+00:27:15,0 --> 00:27:15,0
+should turn to be angry
 
 47
-00:01:18,172 --> 00:01:19,772
- much sin
+00:27:15,0 --> 00:27:15,0
+and draw away a part of
 
 48
-00:01:19,746 --> 00:01:22,413
-10 And now let us be wise and look forward to
+00:27:15,0 --> 00:27:15,0
+this people after him,
 
 49
-00:01:22,413 --> 00:01:25,08
- these things, and do that which will make for the
+00:27:15,0 --> 00:27:15,0
+which would cause wars
 
 50
-00:01:25,08 --> 00:01:27,747
- peace of this people
+00:27:15,0 --> 00:27:15,0
+and contentions among
 
 51
-00:01:27,721 --> 00:01:28,864
-11 Therefore I will be your king the remainder of
+00:27:15,0 --> 00:27:15,0
+you, which would be the
 
 52
-00:01:28,864 --> 00:01:30,007
- my days; nevertheless, let us appoint judges, to
+00:27:15,0 --> 00:27:15,0
+cause of shedding much
 
 53
-00:01:30,007 --> 00:01:31,15
- judge this people according to our law; and we will
+00:27:15,0 --> 00:27:15,0
+blood and perverting the
 
 54
-00:01:31,15 --> 00:01:32,293
- newly arrange the affairs of this people, for we
+00:27:15,0 --> 00:27:15,0
+way of the Lord, yea,
 
 55
-00:01:32,293 --> 00:01:33,436
- will appoint wise men to be judges, that will
+00:27:15,0 --> 00:26:47,
+and destroy the souls of many people.
 
 56
-00:01:33,436 --> 00:01:34,579
- judge this people according to the commandments of
+00:26:47,0 --> 00:26:47,0
+8 Now I say unto you
 
 57
-00:01:34,579 --> 00:01:35,722
- God
+00:26:47,0 --> 00:26:47,0
+let us be wise and
 
 58
-00:01:35,696 --> 00:01:37,696
-12 Now it is better that a man should be judged of
+00:26:47,0 --> 00:26:47,0
+consider these things,
 
 59
-00:01:37,696 --> 00:01:39,696
- God than of man, for the judgments of God are
+00:26:47,0 --> 00:26:47,0
+for we have no right
 
 60
-00:01:39,696 --> 00:01:41,696
- always just, but the judgments of man are not always
+00:26:47,0 --> 00:26:47,0
+to destroy my son,
 
 61
-00:01:41,696 --> 00:01:43,696
- just
+00:26:47,0 --> 00:26:47,0
+neither should we have
 
 62
-00:01:43,67 --> 00:01:44,67
-13 Therefore, if it were possible that you could
+00:26:47,0 --> 00:26:47,0
+any right to destroy
 
 63
-00:01:44,67 --> 00:01:45,67
- have just men to be your kings, who would establish
+00:26:47,0 --> 00:26:47,0
+another if he should
 
 64
-00:01:45,67 --> 00:01:46,67
- the laws of God, and judge this people according
+00:26:47,0 --> 00:26:33,
+be appointed in his stead.
 
 65
-00:01:46,67 --> 00:01:47,67
- to his commandments, yea, if ye could have men for
+00:26:33,0 --> 00:26:33,0
+9 And if my son
 
 66
-00:01:47,67 --> 00:01:48,67
- your kings who would do even as my father
+00:26:33,0 --> 00:26:33,0
+should turn again to his
 
 67
-00:01:48,67 --> 00:01:49,67
- Benjamin did for this people—I say unto you, if this
+00:26:33,0 --> 00:26:33,0
+pride and vain
 
 68
-00:01:49,67 --> 00:01:50,67
- could always be the case then it would be expedient
+00:26:33,0 --> 00:26:33,0
+things he would recall
 
 69
-00:01:50,67 --> 00:01:51,67
- that ye should always have kings to rule over you
+00:26:33,0 --> 00:26:33,0
+the things which he
 
 70
-00:01:51,645 --> 00:01:52,978
-14 And even I myself have labored with all the
+00:26:33,0 --> 00:26:33,0
+had said, and claim
 
 71
-00:01:52,978 --> 00:01:54,311
- power and faculties which I have possessed, to teach
+00:26:33,0 --> 00:26:33,0
+his right to the
 
 72
-00:01:54,311 --> 00:01:55,644
- you the commandments of God, and to establish
+00:26:33,0 --> 00:26:33,0
+kingdom, which would
 
 73
-00:01:55,644 --> 00:01:56,977
- peace throughout the land, that there should be no
+00:26:33,0 --> 00:26:33,0
+cause him and also this
 
 74
-00:01:56,977 --> 00:01:58,31
- wars nor contentions, no stealing, nor plundering,
+00:26:33,0 --> 00:28:03,
+people to commit much sin.
 
 75
-00:01:58,31 --> 00:01:59,643
- nor murdering, nor any manner of iniquity
+00:28:03,0 --> 00:28:03,0
+10 And now let us
 
 76
-00:01:59,62 --> 00:02:01,62
-15 And whosoever has committed iniquity, him have
+00:28:03,0 --> 00:28:03,0
+be wise and look
 
 77
-00:02:01,62 --> 00:02:03,62
- I punished according to the crime which he has
+00:28:03,0 --> 00:28:03,0
+forward to these
 
 78
-00:02:03,62 --> 00:02:05,62
- committed, according to the law which has been given
+00:28:03,0 --> 00:28:03,0
+things, and do that
 
 79
-00:02:05,62 --> 00:02:07,62
- to us by our fathers
+00:28:03,0 --> 00:28:03,0
+which will make for the
 
 80
-00:02:07,594 --> 00:02:10,261
-16 Now I say unto you, that because all men are
+00:28:03,0 --> 00:27:35,
+peace of this people.
 
 81
-00:02:10,261 --> 00:02:12,928
- not just it is not expedient that ye should have a
+00:27:35,0 --> 00:27:35,0
+11 Therefore I
 
 82
-00:02:12,928 --> 00:02:15,595
- king or kings to rule over you
+00:27:35,0 --> 00:27:35,0
+will be your king the
 
 83
-00:02:15,569 --> 00:02:18,236
-17 For behold, how much iniquity doth one wicked
+00:27:35,0 --> 00:27:35,0
+remainder of my
 
 84
-00:02:18,236 --> 00:02:20,903
- king cause to be committed, yea, and what great
+00:27:35,0 --> 00:27:35,0
+days; nevertheless,
 
 85
-00:02:20,903 --> 00:02:23,57
- destruction
+00:27:35,0 --> 00:27:35,0
+let us appoint
 
 86
-00:02:23,543 --> 00:02:25,143
-18 Yea, remember king Noah, his wickedness and his
+00:27:35,0 --> 00:27:35,0
+judges, to judge
 
 87
-00:02:25,143 --> 00:02:26,743
- abominations, and also the wickedness and
+00:27:35,0 --> 00:27:35,0
+this people according
 
 88
-00:02:26,743 --> 00:02:28,343
- abominations of his people. Behold what great destruction
+00:27:35,0 --> 00:27:35,0
+to our law; and
 
 89
-00:02:28,343 --> 00:02:29,943
- did come upon them; and also because of their
+00:27:35,0 --> 00:27:35,0
+we will newly
 
 90
-00:02:29,943 --> 00:02:31,543
- iniquities they were brought into bondage
+00:27:35,0 --> 00:27:35,0
+arrange the affairs of
 
 91
-00:02:31,518 --> 00:02:33,518
-19 And were it not for the interposition of their
+00:27:35,0 --> 00:27:35,0
+this people, for
 
 92
-00:02:33,518 --> 00:02:35,518
- all-wise Creator, and this because of their
+00:27:35,0 --> 00:27:35,0
+we will appoint
 
 93
-00:02:35,518 --> 00:02:37,518
- sincere repentance, they must unavoidably remain in
+00:27:35,0 --> 00:27:35,0
+wise men to be
 
 94
-00:02:37,518 --> 00:02:39,518
- bondage until now
+00:27:35,0 --> 00:27:35,0
+judges, that will judge
 
 95
-00:02:39,493 --> 00:02:41,779
-20 But behold, he did deliver them because they
+00:27:35,0 --> 00:27:35,0
+this people
 
 96
-00:02:41,779 --> 00:02:44,065
- did humble themselves before him; and because they
+00:27:35,0 --> 00:29:47,
+according to the commandments of God.
 
 97
-00:02:44,065 --> 00:02:46,351
- cried mightily unto him he did deliver them out of
+00:29:47,0 --> 00:29:47,0
+12 Now it is
 
 98
-00:02:46,351 --> 00:02:48,637
- bondage; and thus doth the Lord work with his
+00:29:47,0 --> 00:29:47,0
+better that a man
 
 99
-00:02:48,637 --> 00:02:50,923
- power in all cases among the children of men,
+00:29:47,0 --> 00:29:47,0
+should be judged of
 
 100
-00:02:50,923 --> 00:02:53,209
- extending the arm of mercy towards them that put their
+00:29:47,0 --> 00:29:47,0
+God than of man,
 
 101
-00:02:53,209 --> 00:02:55,495
- trust in him
+00:29:47,0 --> 00:29:47,0
+for the judgments
 
 102
-00:02:55,442 --> 00:02:58,109
-21 And behold, now I say unto you, ye cannot
+00:29:47,0 --> 00:29:47,0
+of God are
 
 103
-00:02:58,109 --> 00:03:00,776
- dethrone an iniquitous king save it be through much
+00:29:47,0 --> 00:29:47,0
+always just, but the
 
 104
-00:03:00,776 --> 00:03:03,443
- contention, and the shedding of much blood
+00:29:47,0 --> 00:29:47,0
+judgments of man
 
 105
-00:03:03,417 --> 00:03:05,017
-22 For behold, he has his friends in iniquity, and
+00:29:47,0 --> 00:29:19,
+are not always just.
 
 106
-00:03:05,017 --> 00:03:06,617
- he keepeth his guards about him; and he teareth
+00:29:19,0 --> 00:29:19,0
+13 Therefore, if
 
 107
-00:03:06,617 --> 00:03:08,217
- up the laws of those who have reigned in
+00:29:19,0 --> 00:29:19,0
+it were
 
 108
-00:03:08,217 --> 00:03:09,817
- righteousness before him; and he trampleth under his feet
+00:29:19,0 --> 00:29:19,0
+possible that you could
 
 109
-00:03:09,817 --> 00:03:11,417
- the commandments of God
+00:29:19,0 --> 00:29:19,0
+have just men
 
 110
-00:03:11,391 --> 00:03:12,391
-23 And he enacteth laws, and sendeth them forth
+00:29:19,0 --> 00:29:19,0
+to be your kings,
 
 111
-00:03:12,391 --> 00:03:13,391
- among his people, yea, laws after the manner of his
+00:29:19,0 --> 00:29:19,0
+who would
 
 112
-00:03:13,391 --> 00:03:14,391
- own wickedness; and whosoever doth not obey his
+00:29:19,0 --> 00:29:19,0
+establish the laws of
 
 113
-00:03:14,391 --> 00:03:15,391
- laws he causeth to be destroyed; and whosoever doth
+00:29:19,0 --> 00:29:19,0
+God, and judge
 
 114
-00:03:15,391 --> 00:03:16,391
- rebel against him he will send his armies against
+00:29:19,0 --> 00:29:19,0
+this people
 
 115
-00:03:16,391 --> 00:03:17,391
- them to war, and if he can he will destroy them;
+00:29:19,0 --> 00:29:19,0
+according to his
 
 116
-00:03:17,391 --> 00:03:18,391
- and thus an unrighteous king doth pervert the ways
+00:29:19,0 --> 00:29:19,0
+commandments, yea,
 
 117
-00:03:18,391 --> 00:03:19,391
- of all righteousness
+00:29:19,0 --> 00:29:19,0
+if ye could have
 
 118
-00:03:19,366 --> 00:03:23,366
-24 And now behold I say unto you, it is not
+00:29:19,0 --> 00:29:19,0
+men for your
 
 119
-00:03:23,366 --> 00:03:27,366
- expedient that such abominations should come upon you
+00:29:19,0 --> 00:29:19,0
+kings who would do
 
 120
-00:03:27,34 --> 00:03:28,94
-25 Therefore, choose you by the voice of this
+00:29:19,0 --> 00:29:19,0
+even as my
 
 121
-00:03:28,94 --> 00:03:30,54
- people, judges, that ye may be judged according to the
+00:29:19,0 --> 00:29:19,0
+father Benjamin did
 
 122
-00:03:30,54 --> 00:03:32,14
- laws which have been given you by our fathers,
+00:29:19,0 --> 00:29:19,0
+for this
 
 123
-00:03:32,14 --> 00:03:33,74
- which are correct, and which were given them by the
+00:29:19,0 --> 00:29:19,0
+people—I say unto you,
 
 124
-00:03:33,74 --> 00:03:35,34
- hand of the Lord
+00:29:19,0 --> 00:29:19,0
+if this could
 
 125
-00:03:35,315 --> 00:03:36,648
-26 Now it is not common that the voice of the
+00:29:19,0 --> 00:29:19,0
+always be the case
 
 126
-00:03:36,648 --> 00:03:37,981
- people desireth anything contrary to that which is
+00:29:19,0 --> 00:29:19,0
+then it would
 
 127
-00:03:37,981 --> 00:03:39,314
- right; but it is common for the lesser part of the
+00:29:19,0 --> 00:29:19,0
+be expedient that
 
 128
-00:03:39,314 --> 00:03:40,647
- people to desire that which is not right; therefore
+00:29:19,0 --> 00:29:19,0
+ye should
 
 129
-00:03:40,647 --> 00:03:41,98
- this shall ye observe and make it your law—to do
+00:29:19,0 --> 00:34:02,
+always have kings to rule over you.
 
 130
-00:03:41,98 --> 00:03:43,313
- your business by the voice of the people
+00:34:02,0 --> 00:34:02,0
+14 And even I
 
 131
-00:03:43,29 --> 00:03:44,89
-27 And if the time comes that the voice of the
+00:34:02,0 --> 00:34:02,0
+myself have
 
 132
-00:03:44,89 --> 00:03:46,49
- people doth choose iniquity, then is the time that
+00:34:02,0 --> 00:34:02,0
+labored with all
 
 133
-00:03:46,49 --> 00:03:48,09
- the judgments of God will come upon you; yea, then
+00:34:02,0 --> 00:34:02,0
+the power and
 
 134
-00:03:48,09 --> 00:03:49,69
- is the time he will visit you with great
+00:34:02,0 --> 00:34:02,0
+faculties which I
 
 135
-00:03:49,69 --> 00:03:51,29
- destruction even as he has hitherto visited this land
+00:34:02,0 --> 00:34:02,0
+have possessed,
 
 136
-00:03:51,264 --> 00:03:53,264
-28 And now if ye have judges, and they do not
+00:34:02,0 --> 00:34:02,0
+to teach you
 
 137
-00:03:53,264 --> 00:03:55,264
- judge you according to the law which has been given,
+00:34:02,0 --> 00:34:02,0
+the commandments
 
 138
-00:03:55,264 --> 00:03:57,264
- ye can cause that they may be judged of a higher
+00:34:02,0 --> 00:34:02,0
+of God, and to
 
 139
-00:03:57,264 --> 00:03:59,264
- judge
+00:34:02,0 --> 00:34:02,0
+establish
 
 140
-00:03:59,239 --> 00:04:00,839
-29 If your higher judges do not judge righteous
+00:34:02,0 --> 00:34:02,0
+peace throughout
 
 141
-00:04:00,839 --> 00:04:02,439
- judgments, ye shall cause that a small number of
+00:34:02,0 --> 00:34:02,0
+the land, that
 
 142
-00:04:02,439 --> 00:04:04,039
- your lower judges should be gathered together, and
+00:34:02,0 --> 00:34:02,0
+there should be
 
 143
-00:04:04,039 --> 00:04:05,639
- they shall judge your higher judges, according to
+00:34:02,0 --> 00:34:02,0
+no wars nor
 
 144
-00:04:05,639 --> 00:04:07,239
- the voice of the people
+00:34:02,0 --> 00:34:02,0
+contentions, no
 
 145
-00:04:07,214 --> 00:04:08,814
-30 And I command you to do these things in the
+00:34:02,0 --> 00:34:02,0
+stealing, nor
 
 146
-00:04:08,814 --> 00:04:10,414
- fear of the Lord; and I command you to do these
+00:34:02,0 --> 00:34:02,0
+plundering, nor
 
 147
-00:04:10,414 --> 00:04:12,014
- things, and that ye have no king; that if these people
+00:34:02,0 --> 00:34:02,0
+murdering, nor any
 
 148
-00:04:12,014 --> 00:04:13,614
- commit sins and iniquities they shall be answered
+00:34:02,0 --> 00:33:34,
+manner of iniquity;
 
 149
-00:04:13,614 --> 00:04:15,214
- upon their own heads
+00:33:34,0 --> 00:33:34,0
+15 And
 
 150
-00:04:15,188 --> 00:04:17,188
-31 For behold I say unto you, the sins of many
+00:33:34,0 --> 00:33:34,0
+whosoever has
 
 151
-00:04:17,188 --> 00:04:19,188
- people have been caused by the iniquities of their
+00:33:34,0 --> 00:33:34,0
+committed iniquity,
 
 152
-00:04:19,188 --> 00:04:21,188
- kings; therefore their iniquities are answered upon
+00:33:34,0 --> 00:33:34,0
+him have I
 
 153
-00:04:21,188 --> 00:04:23,188
- the heads of their kings
+00:33:34,0 --> 00:33:34,0
+punished according
 
 154
-00:04:23,163 --> 00:04:24,163
-32 And now I desire that this inequality should be
+00:33:34,0 --> 00:33:34,0
+to the crime
 
 155
-00:04:24,163 --> 00:04:25,163
- no more in this land, especially among this my
+00:33:34,0 --> 00:33:34,0
+which he has
 
 156
-00:04:25,163 --> 00:04:26,163
- people; but I desire that this land be a land of
+00:33:34,0 --> 00:33:34,0
+committed,
 
 157
-00:04:26,163 --> 00:04:27,163
- liberty, and every man may enjoy his rights and
+00:33:34,0 --> 00:33:34,0
+according to the
 
 158
-00:04:27,163 --> 00:04:28,163
- privileges alike, so long as the Lord sees fit that we
+00:33:34,0 --> 00:33:34,0
+law which has
 
 159
-00:04:28,163 --> 00:04:29,163
- may live and inherit the land, yea, even as long
+00:33:34,0 --> 00:33:34,0
+been given to
 
 160
-00:04:29,163 --> 00:04:30,163
- as any of our posterity remains upon the face of
+00:33:34,0 --> 00:38:45,
+us by our fathers.
 
 161
-00:04:30,163 --> 00:04:31,163
- the land
+00:38:45,0 --> 00:38:45,0
+16 Now I say
 
 162
-00:04:31,138 --> 00:04:32,471
-33 And many more things did king Mosiah write unto
+00:38:45,0 --> 00:38:45,0
+unto you,
 
 163
-00:04:32,471 --> 00:04:33,804
- them, unfolding unto them all the trials and
+00:38:45,0 --> 00:38:45,0
+that because all
 
 164
-00:04:33,804 --> 00:04:35,137
- troubles of a righteous king, yea, all the travails of
+00:38:45,0 --> 00:38:45,0
+men are not
 
 165
-00:04:35,137 --> 00:04:36,47
- soul for their people, and also all the
+00:38:45,0 --> 00:38:45,0
+just it is
 
 166
-00:04:36,47 --> 00:04:37,803
- murmurings of the people to their king; and he explained it
+00:38:45,0 --> 00:38:45,0
+not expedient
 
 167
-00:04:37,803 --> 00:04:39,136
- all unto them
+00:38:45,0 --> 00:38:45,0
+that ye should
 
 168
-00:04:39,112 --> 00:04:41,779
-34 And he told them that these things ought not to
+00:38:45,0 --> 00:38:45,0
+have a king
 
 169
-00:04:41,779 --> 00:04:44,446
- be; but that the burden should come upon all the
+00:38:45,0 --> 00:38:45,0
+or kings to
 
 170
-00:04:44,446 --> 00:04:47,113
- people, that every man might bear his part
+00:38:45,0 --> 00:41:13,
+rule over you.
 
 171
-00:04:47,087 --> 00:04:49,754
-35 And he also unfolded unto them all the
+00:41:13,0 --> 00:41:13,0
+17 For
 
 172
-00:04:49,754 --> 00:04:52,421
- disadvantages they labored under, by having an unrighteous
+00:41:13,0 --> 00:41:13,0
+behold, how much
 
 173
-00:04:52,421 --> 00:04:55,088
- king to rule over them
+00:41:13,0 --> 00:41:13,0
+iniquity
 
 174
-00:04:55,061 --> 00:04:56,204
-36 Yea, all his iniquities and abominations, and
+00:41:13,0 --> 00:41:13,0
+doth one wicked
 
 175
-00:04:56,204 --> 00:04:57,347
- all the wars, and contentions, and bloodshed, and
+00:41:13,0 --> 00:41:13,0
+king cause
 
 176
-00:04:57,347 --> 00:04:58,49
- the stealing, and the plundering, and the
+00:41:13,0 --> 00:41:13,0
+to be
 
 177
-00:04:58,49 --> 00:04:59,633
- committing of whoredoms, and all manner of iniquities which
+00:41:13,0 --> 00:41:13,0
+committed, yea,
 
 178
-00:04:59,633 --> 00:05:00,776
- cannot be enumerated—telling them that these
+00:41:13,0 --> 00:41:13,0
+and what great
 
 179
-00:05:00,776 --> 00:05:01,919
- things ought not to be, that they were expressly
+00:41:13,0 --> 00:48:21,
+destruction!
 
 180
-00:05:01,919 --> 00:05:03,062
- repugnant to the commandments of God
+00:48:21,0 --> 00:48:21,0
+18 Yea,
 
 181
-00:05:03,036 --> 00:05:05,703
-37 And now it came to pass, after king Mosiah had
+00:48:21,0 --> 00:48:21,0
+remember king
 
 182
-00:05:05,703 --> 00:05:08,37
- sent these things forth among the people they were
+00:48:21,0 --> 00:48:21,0
+Noah, his
 
 183
-00:05:08,37 --> 00:05:11,037
- convinced of the truth of his words
+00:48:21,0 --> 00:48:21,0
+wickedness
 
 184
-00:05:11,011 --> 00:05:12,411
-38 Therefore they relinquished their desires for a
+00:48:21,0 --> 00:48:21,0
+and his
 
 185
-00:05:12,411 --> 00:05:13,811
- king, and became exceedingly anxious that every
+00:48:21,0 --> 00:48:21,0
+abominations,
 
 186
-00:05:13,811 --> 00:05:15,211
- man should have an equal chance throughout all the
+00:48:21,0 --> 00:48:21,0
+and also the
 
 187
-00:05:15,211 --> 00:05:16,611
- land; yea, and every man expressed a willingness
+00:48:21,0 --> 00:48:21,0
+wickedness
 
 188
-00:05:16,611 --> 00:05:18,011
- to answer for his own sins
+00:48:21,0 --> 00:48:21,0
+and
 
 189
-00:05:18,985 --> 00:05:20,128
-39 Therefore, it came to pass that they assembled
+00:48:21,0 --> 00:48:21,0
+abominations of
 
 190
-00:05:20,128 --> 00:05:21,271
- themselves together in bodies throughout the land,
+00:48:21,0 --> 00:48:21,0
+his people.
 
 191
-00:05:21,271 --> 00:05:22,414
- to cast in their voices concerning who should be
+00:48:21,0 --> 00:48:21,0
+Behold what
 
 192
-00:05:22,414 --> 00:05:23,557
- their judges, to judge them according to the law
+00:48:21,0 --> 00:48:21,0
+great
 
 193
-00:05:23,557 --> 00:05:24,7
- which had been given them; and they were
+00:48:21,0 --> 00:48:21,0
+destruction did
 
 194
-00:05:24,7 --> 00:05:25,843
- exceedingly rejoiced because of the liberty which had been
+00:48:21,0 --> 00:48:21,0
+come upon
 
 195
-00:05:25,843 --> 00:05:26,986
- granted unto them
+00:48:21,0 --> 00:48:21,0
+them; and
 
 196
-00:05:26,96 --> 00:05:27,687
-40 And they did wax strong in love towards Mosiah;
+00:48:21,0 --> 00:48:21,0
+also because
 
 197
-00:05:27,687 --> 00:05:28,414
- yea, they did esteem him more than any other man;
+00:48:21,0 --> 00:48:21,0
+of their
 
 198
-00:05:28,414 --> 00:05:29,141
- for they did not look upon him as a tyrant who
+00:48:21,0 --> 00:48:21,0
+iniquities
 
 199
-00:05:29,141 --> 00:05:29,868
- was seeking for gain, yea, for that lucre which doth
+00:48:21,0 --> 00:48:07,
+they were brought into bondage.
 
 200
-00:05:29,868 --> 00:05:30,595
- corrupt the soul; for he had not exacted riches
+00:48:07,0 --> 00:48:07,0
+19 And
 
 201
-00:05:30,595 --> 00:05:31,322
- of them, neither had he delighted in the shedding
+00:48:07,0 --> 00:48:07,0
+were it not
 
 202
-00:05:31,322 --> 00:05:32,049
- of blood; but he had established peace in the land,
+00:48:07,0 --> 00:48:07,0
+for the
 
 203
-00:05:32,049 --> 00:05:32,776
- and he had granted unto his people that they
+00:48:07,0 --> 00:48:07,0
+interposition
 
 204
-00:05:32,776 --> 00:05:33,503
- should be delivered from all manner of bondage;
+00:48:07,0 --> 00:48:07,0
+of their
 
 205
-00:05:33,503 --> 00:05:34,23
- therefore they did esteem him, yea, exceedingly, beyond
+00:48:07,0 --> 00:48:07,0
+all-wise
 
 206
-00:05:34,23 --> 00:05:34,957
- measure
+00:48:07,0 --> 00:48:07,0
+Creator,
 
 207
-00:05:34,935 --> 00:05:36,935
-41 And it came to pass that they did appoint
+00:48:07,0 --> 00:48:07,0
+and this
 
 208
-00:05:36,935 --> 00:05:38,935
- judges to rule over them, or to judge them according to
+00:48:07,0 --> 00:48:07,0
+because of
 
 209
-00:05:38,935 --> 00:05:40,935
- the law; and this they did throughout all the
+00:48:07,0 --> 00:48:07,0
+their
 
 210
-00:05:40,935 --> 00:05:42,935
- land
+00:48:07,0 --> 00:48:07,0
+sincere
 
 211
-00:05:42,909 --> 00:05:44,509
-42 And it came to pass that Alma was appointed to
+00:48:07,0 --> 00:48:07,0
+repentance, they
 
 212
-00:05:44,509 --> 00:05:46,109
- be the first chief judge, he being also the high
+00:48:07,0 --> 00:48:07,0
+must
 
 213
-00:05:46,109 --> 00:05:47,709
- priest, his father having conferred the office upon
+00:48:07,0 --> 00:48:07,0
+unavoidably
 
 214
-00:05:47,709 --> 00:05:49,309
- him, and having given him the charge concerning
+00:48:07,0 --> 00:49:19,
+remain in bondage until now.
 
 215
-00:05:49,309 --> 00:05:50,909
- all the affairs of the church
+00:49:19,0 --> 00:49:19,0
+20 But
 
 216
-00:05:50,884 --> 00:05:52,884
-43 And now it came to pass that Alma did walk in
+00:49:19,0 --> 00:49:19,0
+behold, he
 
 217
-00:05:52,884 --> 00:05:54,884
- the ways of the Lord, and he did keep his
+00:49:19,0 --> 00:49:19,0
+did deliver
 
 218
-00:05:54,884 --> 00:05:56,884
- commandments, and he did judge righteous judgments; and
+00:49:19,0 --> 00:49:19,0
+them
 
 219
-00:05:56,884 --> 00:05:58,884
- there was continual peace through the land
+00:49:19,0 --> 00:49:19,0
+because they
 
 220
-00:05:58,858 --> 00:06:00,858
-44 And thus commenced the reign of the judges
+00:49:19,0 --> 00:49:19,0
+did humble
 
 221
-00:06:00,858 --> 00:06:02,858
- throughout all the land of Zarahemla, among all the
+00:49:19,0 --> 00:49:19,0
+themselves
 
 222
-00:06:02,858 --> 00:06:04,858
- people who were called the Nephites; and Alma was
+00:49:19,0 --> 00:49:19,0
+before
 
 223
-00:06:04,858 --> 00:06:06,858
- the first and chief judge
+00:49:19,0 --> 00:49:19,0
+him; and
 
 224
-00:06:06,833 --> 00:06:09,5
-45 And now it came to pass that his father died,
+00:49:19,0 --> 00:49:19,0
+because they
 
 225
-00:06:09,5 --> 00:06:12,167
- being eighty and two years old, having lived to
+00:49:19,0 --> 00:49:19,0
+cried
 
 226
-00:06:12,167 --> 00:06:14,834
- fulfil the commandments of God
+00:49:19,0 --> 00:49:19,0
+mightily unto
 
 227
-00:06:14,808 --> 00:06:16,408
-46 And it came to pass that Mosiah died also, in
+00:49:19,0 --> 00:49:19,0
+him he did
 
 228
-00:06:16,408 --> 00:06:18,008
- the thirty and third year of his reign, being sixty
+00:49:19,0 --> 00:49:19,0
+deliver
 
 229
-00:06:18,008 --> 00:06:19,608
- and three years old; making in the whole, five
+00:49:19,0 --> 00:49:19,0
+them out of
 
 230
-00:06:19,608 --> 00:06:21,208
- hundred and nine years from the time Lehi left
+00:49:19,0 --> 00:49:19,0
+bondage;
 
 231
-00:06:21,208 --> 00:06:22,808
- Jerusalem
+00:49:19,0 --> 00:49:19,0
+and thus
 
 232
-00:06:22,782 --> 00:06:25,449
-47 And thus ended the reign of the kings over the
+00:49:19,0 --> 00:49:19,0
+doth the
 
 233
-00:06:25,449 --> 00:06:28,116
- people of Nephi; and thus ended the days of Alma,
+00:49:19,0 --> 00:49:19,0
+Lord work
 
 234
-00:06:28,116 --> 00:06:30,783
- who was the founder of their church.
+00:49:19,0 --> 00:49:19,0
+with his
+
+235
+00:49:19,0 --> 00:49:19,0
+power in all
+
+236
+00:49:19,0 --> 00:49:19,0
+cases among
+
+237
+00:49:19,0 --> 00:49:19,0
+the
+
+238
+00:49:19,0 --> 00:49:19,0
+children of
+
+239
+00:49:19,0 --> 00:49:19,0
+men,
+
+240
+00:49:19,0 --> 00:49:19,0
+extending the arm
+
+241
+00:49:19,0 --> 00:49:19,0
+of mercy
+
+242
+00:49:19,0 --> 00:49:19,0
+towards
+
+243
+00:49:19,0 --> 00:49:19,0
+them that put
+
+244
+00:49:19,0 --> 00:49:19,0
+their
+
+245
+00:49:19,0 --> 00:50:49,
+trust in him.
+
+246
+00:50:49,0 --> 00:50:49,0
+21 And
+
+247
+00:50:49,0 --> 00:50:49,0
+behold, now I
+
+248
+00:50:49,0 --> 00:50:49,0
+say unto
+
+249
+00:50:49,0 --> 00:50:49,0
+you, ye
+
+250
+00:50:49,0 --> 00:50:49,0
+cannot
+
+251
+00:50:49,0 --> 00:50:49,0
+dethrone an
+
+252
+00:50:49,0 --> 00:50:49,0
+iniquitous
+
+253
+00:50:49,0 --> 00:50:49,0
+king save it
+
+254
+00:50:49,0 --> 00:50:49,0
+be
+
+255
+00:50:49,0 --> 00:50:49,0
+through much
+
+256
+00:50:49,0 --> 00:50:49,0
+contention,
+
+257
+00:50:49,0 --> 00:50:49,0
+and the
+
+258
+00:50:49,0 --> 00:50:49,0
+shedding of
+
+259
+00:50:49,0 --> 01:00:16,
+much blood.
+
+260
+01:00:16,0 --> 01:00:16,0
+22 For
+
+261
+01:00:16,0 --> 01:00:16,0
+behold, he
+
+262
+01:00:16,0 --> 01:00:16,0
+has his
+
+263
+01:00:16,0 --> 01:00:16,0
+friends in
+
+264
+01:00:16,0 --> 01:00:16,0
+
+
+265
+01:00:16,0 --> 01:00:16,0
+iniquity, and he
+
+266
+01:00:16,0 --> 01:00:16,0
+keepeth
+
+267
+01:00:16,0 --> 01:00:16,0
+his guards
+
+268
+01:00:16,0 --> 01:00:16,0
+about
+
+269
+01:00:16,0 --> 01:00:16,0
+him; and he
+
+270
+01:00:16,0 --> 01:00:16,0
+teareth
+
+271
+01:00:16,0 --> 01:00:16,0
+up the
+
+272
+01:00:16,0 --> 01:00:16,0
+laws of
+
+273
+01:00:16,0 --> 01:00:16,0
+those who
+
+274
+01:00:16,0 --> 01:00:16,0
+have
+
+275
+01:00:16,0 --> 01:00:16,0
+reigned in
+
+276
+01:00:16,0 --> 01:00:16,0
+righteousness
+
+277
+01:00:16,0 --> 01:00:16,0
+before
+
+278
+01:00:16,0 --> 01:00:16,0
+him; and
+
+279
+01:00:16,0 --> 01:00:16,0
+he
+
+280
+01:00:16,0 --> 01:00:16,0
+trampleth under
+
+281
+01:00:16,0 --> 01:00:16,0
+his feet
+
+282
+01:00:16,0 --> 01:04:01,
+the commandments of God;
+
+283
+01:04:01,0 --> 01:04:01,0
+23 And
+
+284
+01:04:01,0 --> 01:04:01,0
+he
+
+285
+01:04:01,0 --> 01:04:01,0
+enacteth laws,
+
+286
+01:04:01,0 --> 01:04:01,0
+and
+
+287
+01:04:01,0 --> 01:04:01,0
+sendeth
+
+288
+01:04:01,0 --> 01:04:01,0
+them forth
+
+289
+01:04:01,0 --> 01:04:01,0
+among
+
+290
+01:04:01,0 --> 01:04:01,0
+his
+
+291
+01:04:01,0 --> 01:04:01,0
+people, yea,
+
+292
+01:04:01,0 --> 01:04:01,0
+laws
+
+293
+01:04:01,0 --> 01:04:01,0
+after the
+
+294
+01:04:01,0 --> 01:04:01,0
+manner of
+
+295
+01:04:01,0 --> 01:04:01,0
+his own
+
+296
+01:04:01,0 --> 01:04:01,0
+
+
+297
+01:04:01,0 --> 01:04:01,0
+wickedness; and
+
+298
+01:04:01,0 --> 01:04:01,0
+
+
+299
+01:04:01,0 --> 01:04:01,0
+whosoever doth
+
+300
+01:04:01,0 --> 01:04:01,0
+not obey
+
+301
+01:04:01,0 --> 01:04:01,0
+his laws
+
+302
+01:04:01,0 --> 01:04:01,0
+he
+
+303
+01:04:01,0 --> 01:04:01,0
+causeth to
+
+304
+01:04:01,0 --> 01:04:01,0
+be
+
+305
+01:04:01,0 --> 01:04:01,0
+destroyed; and
+
+306
+01:04:01,0 --> 01:04:01,0
+
+
+307
+01:04:01,0 --> 01:04:01,0
+whosoever doth
+
+308
+01:04:01,0 --> 01:04:01,0
+rebel
+
+309
+01:04:01,0 --> 01:04:01,0
+against
+
+310
+01:04:01,0 --> 01:04:01,0
+him he
+
+311
+01:04:01,0 --> 01:04:01,0
+will send
+
+312
+01:04:01,0 --> 01:04:01,0
+his
+
+313
+01:04:01,0 --> 01:04:01,0
+armies
+
+314
+01:04:01,0 --> 01:04:01,0
+against them
+
+315
+01:04:01,0 --> 01:04:01,0
+to war,
+
+316
+01:04:01,0 --> 01:04:01,0
+and if he
+
+317
+01:04:01,0 --> 01:04:01,0
+can he
+
+318
+01:04:01,0 --> 01:04:01,0
+will
+
+319
+01:04:01,0 --> 01:04:01,0
+destroy
+
+320
+01:04:01,0 --> 01:04:01,0
+them; and
+
+321
+01:04:01,0 --> 01:04:01,0
+thus an
+
+322
+01:04:01,0 --> 01:04:01,0
+
+
+323
+01:04:01,0 --> 01:04:01,0
+unrighteous king
+
+324
+01:04:01,0 --> 01:03:33,
+doth pervert the ways of all righteousness.
+
+325
+01:03:33,0 --> 01:03:33,0
+24 And
+
+326
+01:03:33,0 --> 01:03:33,0
+now
+
+327
+01:03:33,0 --> 01:03:33,0
+behold I
+
+328
+01:03:33,0 --> 01:03:33,0
+say unto
+
+329
+01:03:33,0 --> 01:03:33,0
+you,
+
+330
+01:03:33,0 --> 01:03:33,0
+it is
+
+331
+01:03:33,0 --> 01:03:33,0
+not
+
+332
+01:03:33,0 --> 01:03:33,0
+expedient
+
+333
+01:03:33,0 --> 01:03:33,0
+that such
+
+334
+01:03:33,0 --> 01:03:33,0
+
+
+335
+01:03:33,0 --> 01:03:33,0
+abominations
+
+336
+01:03:33,0 --> 01:03:33,0
+should
+
+337
+01:03:33,0 --> 01:04:03,
+come upon you.
+
+338
+01:04:03,0 --> 01:04:03,0
+25
+
+339
+01:04:03,0 --> 01:04:03,0
+Therefore,
+
+340
+01:04:03,0 --> 01:04:03,0
+choose
+
+341
+01:04:03,0 --> 01:04:03,0
+you by
+
+342
+01:04:03,0 --> 01:04:03,0
+the
+
+343
+01:04:03,0 --> 01:04:03,0
+voice of
+
+344
+01:04:03,0 --> 01:04:03,0
+this
+
+345
+01:04:03,0 --> 01:04:03,0
+people,
+
+346
+01:04:03,0 --> 01:04:03,0
+judges,
+
+347
+01:04:03,0 --> 01:04:03,0
+that ye
+
+348
+01:04:03,0 --> 01:04:03,0
+may be
+
+349
+01:04:03,0 --> 01:04:03,0
+judged
+
+350
+01:04:03,0 --> 01:04:03,0
+
+
+351
+01:04:03,0 --> 01:04:03,0
+according to
+
+352
+01:04:03,0 --> 01:04:03,0
+the laws
+
+353
+01:04:03,0 --> 01:04:03,0
+which
+
+354
+01:04:03,0 --> 01:04:03,0
+have
+
+355
+01:04:03,0 --> 01:04:03,0
+been
+
+356
+01:04:03,0 --> 01:04:03,0
+given you
+
+357
+01:04:03,0 --> 01:04:03,0
+by our
+
+358
+01:04:03,0 --> 01:04:03,0
+fathers,
+
+359
+01:04:03,0 --> 01:04:03,0
+which
+
+360
+01:04:03,0 --> 01:04:03,0
+are
+
+361
+01:04:03,0 --> 01:04:03,0
+correct,
+
+362
+01:04:03,0 --> 01:04:03,0
+and
+
+363
+01:04:03,0 --> 01:04:03,0
+which were
+
+364
+01:04:03,0 --> 01:04:03,0
+given
+
+365
+01:04:03,0 --> 01:04:03,0
+them by
+
+366
+01:04:03,0 --> 01:04:03,0
+the
+
+367
+01:04:03,0 --> 01:04:03,0
+hand of
+
+368
+01:04:03,0 --> 01:03:49,
+the Lord.
+
+369
+01:03:49,0 --> 01:03:49,0
+26 Now
+
+370
+01:03:49,0 --> 01:03:49,0
+it is
+
+371
+01:03:49,0 --> 01:03:49,0
+not
+
+372
+01:03:49,0 --> 01:03:49,0
+common
+
+373
+01:03:49,0 --> 01:03:49,0
+that
+
+374
+01:03:49,0 --> 01:03:49,0
+the
+
+375
+01:03:49,0 --> 01:03:49,0
+voice of
+
+376
+01:03:49,0 --> 01:03:49,0
+the
+
+377
+01:03:49,0 --> 01:03:49,0
+people
+
+378
+01:03:49,0 --> 01:03:49,0
+
+
+379
+01:03:49,0 --> 01:03:49,0
+desireth
+
+380
+01:03:49,0 --> 01:03:49,0
+anything
+
+381
+01:03:49,0 --> 01:03:49,0
+
+
+382
+01:03:49,0 --> 01:03:49,0
+contrary to
+
+383
+01:03:49,0 --> 01:03:49,0
+that
+
+384
+01:03:49,0 --> 01:03:49,0
+which is
+
+385
+01:03:49,0 --> 01:03:49,0
+
+
+386
+01:03:49,0 --> 01:03:49,0
+right; but
+
+387
+01:03:49,0 --> 01:03:49,0
+it is
+
+388
+01:03:49,0 --> 01:03:49,0
+common
+
+389
+01:03:49,0 --> 01:03:49,0
+for
+
+390
+01:03:49,0 --> 01:03:49,0
+the
+
+391
+01:03:49,0 --> 01:03:49,0
+lesser
+
+392
+01:03:49,0 --> 01:03:49,0
+part of
+
+393
+01:03:49,0 --> 01:03:49,0
+the
+
+394
+01:03:49,0 --> 01:03:49,0
+people
+
+395
+01:03:49,0 --> 01:03:49,0
+to
+
+396
+01:03:49,0 --> 01:03:49,0
+desire
+
+397
+01:03:49,0 --> 01:03:49,0
+that
+
+398
+01:03:49,0 --> 01:03:49,0
+which is
+
+399
+01:03:49,0 --> 01:03:49,0
+not
+
+400
+01:03:49,0 --> 01:03:49,0
+right;
+
+401
+01:03:49,0 --> 01:03:49,0
+
+
+402
+01:03:49,0 --> 01:03:49,0
+therefore this
+
+403
+01:03:49,0 --> 01:03:49,0
+shall
+
+404
+01:03:49,0 --> 01:03:49,0
+ye
+
+405
+01:03:49,0 --> 01:03:49,0
+observe
+
+406
+01:03:49,0 --> 01:03:49,0
+and
+
+407
+01:03:49,0 --> 01:03:49,0
+make it
+
+408
+01:03:49,0 --> 01:03:49,0
+your
+
+409
+01:03:49,0 --> 01:03:49,0
+law—to
+
+410
+01:03:49,0 --> 01:05:47,
+do your business by the voice of the people.
+
+411
+01:05:47,0 --> 01:05:47,0
+27
+
+412
+01:05:47,0 --> 01:05:47,0
+And if
+
+413
+01:05:47,0 --> 01:05:47,0
+the
+
+414
+01:05:47,0 --> 01:05:47,0
+time
+
+415
+01:05:47,0 --> 01:05:47,0
+comes
+
+416
+01:05:47,0 --> 01:05:47,0
+that
+
+417
+01:05:47,0 --> 01:05:47,0
+the
+
+418
+01:05:47,0 --> 01:05:47,0
+voice
+
+419
+01:05:47,0 --> 01:05:47,0
+of
+
+420
+01:05:47,0 --> 01:05:47,0
+the
+
+421
+01:05:47,0 --> 01:05:47,0
+people
+
+422
+01:05:47,0 --> 01:05:47,0
+doth
+
+423
+01:05:47,0 --> 01:05:47,0
+choose
+
+424
+01:05:47,0 --> 01:05:47,0
+
+
+425
+01:05:47,0 --> 01:05:47,0
+iniquity,
+
+426
+01:05:47,0 --> 01:05:47,0
+then
+
+427
+01:05:47,0 --> 01:05:47,0
+is
+
+428
+01:05:47,0 --> 01:05:47,0
+the
+
+429
+01:05:47,0 --> 01:05:47,0
+time
+
+430
+01:05:47,0 --> 01:05:47,0
+that
+
+431
+01:05:47,0 --> 01:05:47,0
+the
+
+432
+01:05:47,0 --> 01:05:47,0
+
+
+433
+01:05:47,0 --> 01:05:47,0
+judgments of
+
+434
+01:05:47,0 --> 01:05:47,0
+God
+
+435
+01:05:47,0 --> 01:05:47,0
+will
+
+436
+01:05:47,0 --> 01:05:47,0
+come
+
+437
+01:05:47,0 --> 01:05:47,0
+upon
+
+438
+01:05:47,0 --> 01:05:47,0
+you;
+
+439
+01:05:47,0 --> 01:05:47,0
+yea,
+
+440
+01:05:47,0 --> 01:05:47,0
+then
+
+441
+01:05:47,0 --> 01:05:47,0
+is the
+
+442
+01:05:47,0 --> 01:05:47,0
+time
+
+443
+01:05:47,0 --> 01:05:47,0
+he
+
+444
+01:05:47,0 --> 01:05:47,0
+will
+
+445
+01:05:47,0 --> 01:05:47,0
+visit
+
+446
+01:05:47,0 --> 01:05:47,0
+you
+
+447
+01:05:47,0 --> 01:05:47,0
+with
+
+448
+01:05:47,0 --> 01:05:47,0
+great
+
+449
+01:05:47,0 --> 01:05:47,0
+
+
+450
+01:05:47,0 --> 01:05:47,0
+
+
+451
+01:05:47,0 --> 01:15:28,
+destruction even as he has hitherto visited this land.
+
+452
+01:15:28,0 --> 01:15:28,0
+28
+
+453
+01:15:28,0 --> 01:15:28,0
+And
+
+454
+01:15:28,0 --> 01:15:28,0
+now
+
+455
+01:15:28,0 --> 01:15:28,0
+if ye
+
+456
+01:15:28,0 --> 01:15:28,0
+
+
+457
+01:15:28,0 --> 01:15:28,0
+have
+
+458
+01:15:28,0 --> 01:15:28,0
+
+
+459
+01:15:28,0 --> 01:15:28,0
+judges,
+
+460
+01:15:28,0 --> 01:15:28,0
+and
+
+461
+01:15:28,0 --> 01:15:28,0
+they
+
+462
+01:15:28,0 --> 01:15:28,0
+do
+
+463
+01:15:28,0 --> 01:15:28,0
+not
+
+464
+01:15:28,0 --> 01:15:28,0
+judge
+
+465
+01:15:28,0 --> 01:15:28,0
+you
+
+466
+01:15:28,0 --> 01:15:28,0
+
+
+467
+01:15:28,0 --> 01:15:28,0
+
+
+468
+01:15:28,0 --> 01:15:28,0
+according to
+
+469
+01:15:28,0 --> 01:15:28,0
+the
+
+470
+01:15:28,0 --> 01:15:28,0
+law
+
+471
+01:15:28,0 --> 01:15:28,0
+
+
+472
+01:15:28,0 --> 01:15:28,0
+which
+
+473
+01:15:28,0 --> 01:15:28,0
+has
+
+474
+01:15:28,0 --> 01:15:28,0
+been
+
+475
+01:15:28,0 --> 01:15:28,0
+
+
+476
+01:15:28,0 --> 01:15:28,0
+given,
+
+477
+01:15:28,0 --> 01:15:28,0
+ye
+
+478
+01:15:28,0 --> 01:15:28,0
+can
+
+479
+01:15:28,0 --> 01:15:28,0
+cause
+
+480
+01:15:28,0 --> 01:15:28,0
+that
+
+481
+01:15:28,0 --> 01:15:28,0
+
+
+482
+01:15:28,0 --> 01:15:14,
+they may be judged of a higher judge.
+
+483
+01:15:14,0 --> 01:15:14,0
+29
+
+484
+01:15:14,0 --> 01:15:14,0
+If
+
+485
+01:15:14,0 --> 01:15:14,0
+
+
+486
+01:15:14,0 --> 01:15:14,0
+your
+
+487
+01:15:14,0 --> 01:15:14,0
+
+
+488
+01:15:14,0 --> 01:15:14,0
+higher
+
+489
+01:15:14,0 --> 01:15:14,0
+
+
+490
+01:15:14,0 --> 01:15:14,0
+judges
+
+491
+01:15:14,0 --> 01:15:14,0
+do
+
+492
+01:15:14,0 --> 01:15:14,0
+
+
+493
+01:15:14,0 --> 01:15:14,0
+not
+
+494
+01:15:14,0 --> 01:15:14,0
+
+
+495
+01:15:14,0 --> 01:15:14,0
+judge
+
+496
+01:15:14,0 --> 01:15:14,0
+
+
+497
+01:15:14,0 --> 01:15:14,0
+
+
+498
+01:15:14,0 --> 01:15:14,0
+righteous
+
+499
+01:15:14,0 --> 01:15:14,0
+
+
+500
+01:15:14,0 --> 01:15:14,0
+
+
+501
+01:15:14,0 --> 01:15:14,0
+
+
+502
+01:15:14,0 --> 01:15:14,0
+judgments,
+
+503
+01:15:14,0 --> 01:15:14,0
+ye
+
+504
+01:15:14,0 --> 01:15:14,0
+
+
+505
+01:15:14,0 --> 01:15:14,0
+shall
+
+506
+01:15:14,0 --> 01:15:14,0
+
+
+507
+01:15:14,0 --> 01:15:14,0
+cause
+
+508
+01:15:14,0 --> 01:15:14,0
+that
+
+509
+01:15:14,0 --> 01:15:14,0
+a
+
+510
+01:15:14,0 --> 01:15:14,0
+
+
+511
+01:15:14,0 --> 01:15:14,0
+small
+
+512
+01:15:14,0 --> 01:15:14,0
+
+
+513
+01:15:14,0 --> 01:15:14,0
+number
+
+514
+01:15:14,0 --> 01:15:14,0
+of
+
+515
+01:15:14,0 --> 01:15:14,0
+
+
+516
+01:15:14,0 --> 01:15:14,0
+your
+
+517
+01:15:14,0 --> 01:15:14,0
+
+
+518
+01:15:14,0 --> 01:15:14,0
+lower
+
+519
+01:15:14,0 --> 01:15:14,0
+
+
+520
+01:15:14,0 --> 01:15:14,0
+judges
+
+521
+01:15:14,0 --> 01:15:14,0
+
+
+522
+01:15:14,0 --> 01:15:14,0
+
+
+523
+01:15:14,0 --> 01:15:14,0
+should
+
+524
+01:15:14,0 --> 01:15:14,0
+be
+
+525
+01:15:14,0 --> 01:15:14,0
+
+
+526
+01:15:14,0 --> 01:15:14,0
+
+
+527
+01:15:14,0 --> 01:15:14,0
+gathered
+
+528
+01:15:14,0 --> 01:15:14,0
+
+
+529
+01:15:14,0 --> 01:15:14,0
+
+
+530
+01:15:14,0 --> 01:15:14,0
+together,
+
+531
+01:15:14,0 --> 01:15:14,0
+and
+
+532
+01:15:14,0 --> 01:15:14,0
+
+
+533
+01:15:14,0 --> 01:15:14,0
+they
+
+534
+01:15:14,0 --> 01:15:14,0
+
+
+535
+01:15:14,0 --> 01:15:14,0
+shall
+
+536
+01:15:14,0 --> 01:15:14,0
+
+
+537
+01:15:14,0 --> 01:15:14,0
+judge
+
+538
+01:15:14,0 --> 01:16:26,
+your higher judges, according to the voice of the people.
+
+539
+01:16:26,0 --> 01:16:26,0
+30
+
+540
+01:16:26,0 --> 01:16:26,0
+
+
+541
+01:16:26,0 --> 01:16:26,0
+And
+
+542
+01:16:26,0 --> 01:16:26,0
+I
+
+543
+01:16:26,0 --> 01:16:26,0
+
+
+544
+01:16:26,0 --> 01:16:26,0
+
+
+545
+01:16:26,0 --> 01:16:26,0
+
+
+546
+01:16:26,0 --> 01:16:26,0
+command
+
+547
+01:16:26,0 --> 01:16:26,0
+
+
+548
+01:16:26,0 --> 01:16:26,0
+you
+
+549
+01:16:26,0 --> 01:16:26,0
+
+
+550
+01:16:26,0 --> 01:16:26,0
+to
+
+551
+01:16:26,0 --> 01:16:26,0
+do
+
+552
+01:16:26,0 --> 01:16:26,0
+
+
+553
+01:16:26,0 --> 01:16:26,0
+
+
+554
+01:16:26,0 --> 01:16:26,0
+these
+
+555
+01:16:26,0 --> 01:16:26,0
+
+
+556
+01:16:26,0 --> 01:16:26,0
+
+
+557
+01:16:26,0 --> 01:16:26,0
+
+
+558
+01:16:26,0 --> 01:16:26,0
+things
+
+559
+01:16:26,0 --> 01:16:26,0
+in
+
+560
+01:16:26,0 --> 01:16:26,0
+
+
+561
+01:16:26,0 --> 01:16:26,0
+the
+
+562
+01:16:26,0 --> 01:16:26,0
+
+
+563
+01:16:26,0 --> 01:16:26,0
+
+
+564
+01:16:26,0 --> 01:16:26,0
+fear
+
+565
+01:16:26,0 --> 01:16:26,0
+of
+
+566
+01:16:26,0 --> 01:16:26,0
+
+
+567
+01:16:26,0 --> 01:16:26,0
+the
+
+568
+01:16:26,0 --> 01:16:26,0
+
+
+569
+01:16:26,0 --> 01:16:26,0
+
+
+570
+01:16:26,0 --> 01:16:26,0
+Lord;
+
+571
+01:16:26,0 --> 01:16:26,0
+
+
+572
+01:16:26,0 --> 01:16:26,0
+and
+
+573
+01:16:26,0 --> 01:16:26,0
+I
+
+574
+01:16:26,0 --> 01:16:26,0
+
+
+575
+01:16:26,0 --> 01:16:26,0
+
+
+576
+01:16:26,0 --> 01:16:26,0
+
+
+577
+01:16:26,0 --> 01:16:26,0
+command
+
+578
+01:16:26,0 --> 01:16:26,0
+
+
+579
+01:16:26,0 --> 01:16:26,0
+you
+
+580
+01:16:26,0 --> 01:16:26,0
+
+
+581
+01:16:26,0 --> 01:16:26,0
+to
+
+582
+01:16:26,0 --> 01:16:26,0
+do
+
+583
+01:16:26,0 --> 01:16:26,0
+
+
+584
+01:16:26,0 --> 01:16:26,0
+
+
+585
+01:16:26,0 --> 01:16:26,0
+these
+
+586
+01:16:26,0 --> 01:16:26,0
+
+
+587
+01:16:26,0 --> 01:16:26,0
+
+
+588
+01:16:26,0 --> 01:16:26,0
+
+
+589
+01:16:26,0 --> 01:16:26,0
+things,
+
+590
+01:16:26,0 --> 01:16:26,0
+
+
+591
+01:16:26,0 --> 01:16:26,0
+and
+
+592
+01:16:26,0 --> 01:16:26,0
+
+
+593
+01:16:26,0 --> 01:16:26,0
+
+
+594
+01:16:26,0 --> 01:16:26,0
+that
+
+595
+01:16:26,0 --> 01:16:26,0
+ye
+
+596
+01:16:26,0 --> 01:16:26,0
+
+
+597
+01:16:26,0 --> 01:16:26,0
+
+
+598
+01:16:26,0 --> 01:16:26,0
+have
+
+599
+01:16:26,0 --> 01:16:26,0
+no
+
+600
+01:16:26,0 --> 01:16:26,0
+
+
+601
+01:16:26,0 --> 01:16:26,0
+
+
+602
+01:16:26,0 --> 01:16:26,0
+king;
+
+603
+01:16:26,0 --> 01:16:26,0
+
+
+604
+01:16:26,0 --> 01:16:26,0
+
+
+605
+01:16:26,0 --> 01:16:26,0
+that
+
+606
+01:16:26,0 --> 01:16:26,0
+if
+
+607
+01:16:26,0 --> 01:16:26,0
+
+
+608
+01:16:26,0 --> 01:16:26,0
+
+
+609
+01:16:26,0 --> 01:16:26,0
+these
+
+610
+01:16:26,0 --> 01:16:26,0
+
+
+611
+01:16:26,0 --> 01:16:26,0
+
+
+612
+01:16:26,0 --> 01:19:36,
+people commit sins and iniquities they shall be answered upon their own heads.
+
+613
+01:19:36,0 --> 01:19:36,0
+31 For behold I say unto you, the sins of many people have been caused by the iniquities of their kings; therefore their iniquities are answered upon the heads of their
+
+614
+01:19:36,0 --> 01:19:36,0
+
+
+615
+01:19:36,0 --> 01:19:36,0
+
+
+616
+01:19:36,0 --> 01:19:36,0
+
+
+617
+01:19:36,0 --> 01:19:36,0
+
+
+618
+01:19:36,0 --> 01:19:36,0
+For
+
+619
+01:19:36,0 --> 01:19:36,0
+
+
+620
+01:19:36,0 --> 01:19:36,0
+
+
+621
+01:19:36,0 --> 01:19:36,0
+
+
+622
+01:19:36,0 --> 01:19:36,0
+
+
+623
+01:19:36,0 --> 01:19:36,0
+
+
+624
+01:19:36,0 --> 01:19:36,0
+
+
+625
+01:19:36,0 --> 01:19:36,0
+behold
+
+626
+01:19:36,0 --> 01:19:36,0
+
+
+627
+01:19:36,0 --> 01:19:36,0
+I
+
+628
+01:19:36,0 --> 01:19:36,0
+
+
+629
+01:19:36,0 --> 01:19:36,0
+
+
+630
+01:19:36,0 --> 01:19:36,0
+
+
+631
+01:19:36,0 --> 01:19:36,0
+say
+
+632
+01:19:36,0 --> 01:19:36,0
+
+
+633
+01:19:36,0 --> 01:19:36,0
+
+
+634
+01:19:36,0 --> 01:19:36,0
+
+
+635
+01:19:36,0 --> 01:19:36,0
+
+
+636
+01:19:36,0 --> 01:19:36,0
+unto
+
+637
+01:19:36,0 --> 01:19:36,0
+
+
+638
+01:19:36,0 --> 01:19:36,0
+
+
+639
+01:19:36,0 --> 01:19:36,0
+
+
+640
+01:19:36,0 --> 01:19:36,0
+
+
+641
+01:19:36,0 --> 01:19:36,0
+you,
+
+642
+01:19:36,0 --> 01:19:36,0
+
+
+643
+01:19:36,0 --> 01:19:36,0
+
+
+644
+01:19:36,0 --> 01:19:36,0
+
+
+645
+01:19:36,0 --> 01:19:36,0
+the
+
+646
+01:19:36,0 --> 01:19:36,0
+
+
+647
+01:19:36,0 --> 01:19:36,0
+
+
+648
+01:19:36,0 --> 01:19:36,0
+
+
+649
+01:19:36,0 --> 01:19:36,0
+
+
+650
+01:19:36,0 --> 01:19:36,0
+sins
+
+651
+01:19:36,0 --> 01:19:36,0
+
+
+652
+01:19:36,0 --> 01:19:36,0
+
+
+653
+01:19:36,0 --> 01:19:36,0
+of
+
+654
+01:19:36,0 --> 01:19:36,0
+
+
+655
+01:19:36,0 --> 01:19:36,0
+
+
+656
+01:19:36,0 --> 01:19:36,0
+
+
+657
+01:19:36,0 --> 01:19:36,0
+
+
+658
+01:19:36,0 --> 01:19:36,0
+many
+
+659
+01:19:36,0 --> 01:19:36,0
+
+
+660
+01:19:36,0 --> 01:19:36,0
+
+
+661
+01:19:36,0 --> 01:19:36,0
+
+
+662
+01:19:36,0 --> 01:19:36,0
+
+
+663
+01:19:36,0 --> 01:19:36,0
+
+
+664
+01:19:36,0 --> 01:19:36,0
+
+
+665
+01:19:36,0 --> 01:19:36,0
+people
+
+666
+01:19:36,0 --> 01:19:36,0
+
+
+667
+01:19:36,0 --> 01:19:36,0
+
+
+668
+01:19:36,0 --> 01:19:36,0
+
+
+669
+01:19:36,0 --> 01:19:36,0
+
+
+670
+01:19:36,0 --> 01:19:36,0
+have
+
+671
+01:19:36,0 --> 01:19:36,0
+
+
+672
+01:19:36,0 --> 01:19:36,0
+
+
+673
+01:19:36,0 --> 01:19:36,0
+
+
+674
+01:19:36,0 --> 01:19:36,0
+
+
+675
+01:19:36,0 --> 01:19:36,0
+been
+
+676
+01:19:36,0 --> 01:19:36,0
+
+
+677
+01:19:36,0 --> 01:19:36,0
+
+
+678
+01:19:36,0 --> 01:19:36,0
+
+
+679
+01:19:36,0 --> 01:19:36,0
+
+
+680
+01:19:36,0 --> 01:19:36,0
+
+
+681
+01:19:36,0 --> 01:19:36,0
+
+
+682
+01:19:36,0 --> 01:19:36,0
+caused
+
+683
+01:19:36,0 --> 01:19:36,0
+
+
+684
+01:19:36,0 --> 01:19:36,0
+
+
+685
+01:19:36,0 --> 01:19:36,0
+by
+
+686
+01:19:36,0 --> 01:19:36,0
+
+
+687
+01:19:36,0 --> 01:19:36,0
+
+
+688
+01:19:36,0 --> 01:19:36,0
+
+
+689
+01:19:36,0 --> 01:19:36,0
+the
+
+690
+01:19:36,0 --> 01:19:36,0
+
+
+691
+01:19:36,0 --> 01:19:36,0
+
+
+692
+01:19:36,0 --> 01:19:36,0
+
+
+693
+01:19:36,0 --> 01:19:36,0
+
+
+694
+01:19:36,0 --> 01:19:36,0
+
+
+695
+01:19:36,0 --> 01:19:36,0
+
+
+696
+01:19:36,0 --> 01:19:36,0
+
+
+697
+01:19:36,0 --> 01:19:36,0
+
+
+698
+01:19:36,0 --> 01:19:36,0
+
+
+699
+01:19:36,0 --> 01:19:36,0
+
+
+700
+01:19:36,0 --> 01:19:08,
+iniquities of their kings; therefore their iniquities are answered upon the heads of their kings.
+
+701
+01:19:08,0 --> 01:19:08,0
+32 And now I desire that this inequality should be no more in this land, especially among this my people; but I desire that this land be a land of liberty, and every man may enjoy his rights and privileges alike, so long as the Lord sees fit that we may live and inherit the land, yea, even as long as any of our posterity remains upon the face of the
+
+702
+01:19:08,0 --> 01:19:08,0
+
+
+703
+01:19:08,0 --> 01:19:08,0
+
+
+704
+01:19:08,0 --> 01:19:08,0
+
+
+705
+01:19:08,0 --> 01:19:08,0
+
+
+706
+01:19:08,0 --> 01:19:08,0
+And
+
+707
+01:19:08,0 --> 01:19:08,0
+
+
+708
+01:19:08,0 --> 01:19:08,0
+
+
+709
+01:19:08,0 --> 01:19:08,0
+
+
+710
+01:19:08,0 --> 01:19:08,0
+now
+
+711
+01:19:08,0 --> 01:19:08,0
+
+
+712
+01:19:08,0 --> 01:19:08,0
+I
+
+713
+01:19:08,0 --> 01:19:08,0
+
+
+714
+01:19:08,0 --> 01:19:08,0
+
+
+715
+01:19:08,0 --> 01:19:08,0
+
+
+716
+01:19:08,0 --> 01:19:08,0
+
+
+717
+01:19:08,0 --> 01:19:08,0
+
+
+718
+01:19:08,0 --> 01:19:08,0
+
+
+719
+01:19:08,0 --> 01:19:08,0
+desire
+
+720
+01:19:08,0 --> 01:19:08,0
+
+
+721
+01:19:08,0 --> 01:19:08,0
+
+
+722
+01:19:08,0 --> 01:19:08,0
+
+
+723
+01:19:08,0 --> 01:19:08,0
+
+
+724
+01:19:08,0 --> 01:19:08,0
+that
+
+725
+01:19:08,0 --> 01:19:08,0
+
+
+726
+01:19:08,0 --> 01:19:08,0
+
+
+727
+01:19:08,0 --> 01:19:08,0
+
+
+728
+01:19:08,0 --> 01:19:08,0
+
+
+729
+01:19:08,0 --> 01:19:08,0
+this
+
+730
+01:19:08,0 --> 01:19:08,0
+
+
+731
+01:19:08,0 --> 01:19:08,0
+
+
+732
+01:19:08,0 --> 01:19:08,0
+
+
+733
+01:19:08,0 --> 01:19:08,0
+
+
+734
+01:19:08,0 --> 01:19:08,0
+
+
+735
+01:19:08,0 --> 01:19:08,0
+
+
+736
+01:19:08,0 --> 01:19:08,0
+
+
+737
+01:19:08,0 --> 01:19:08,0
+
+
+738
+01:19:08,0 --> 01:19:08,0
+
+
+739
+01:19:08,0 --> 01:19:08,0
+
+
+740
+01:19:08,0 --> 01:19:08,0
+inequality
+
+741
+01:19:08,0 --> 01:19:08,0
+
+
+742
+01:19:08,0 --> 01:19:08,0
+
+
+743
+01:19:08,0 --> 01:19:08,0
+
+
+744
+01:19:08,0 --> 01:19:08,0
+
+
+745
+01:19:08,0 --> 01:19:08,0
+
+
+746
+01:19:08,0 --> 01:19:08,0
+
+
+747
+01:19:08,0 --> 01:19:08,0
+should
+
+748
+01:19:08,0 --> 01:19:08,0
+
+
+749
+01:19:08,0 --> 01:19:08,0
+
+
+750
+01:19:08,0 --> 01:19:08,0
+be
+
+751
+01:19:08,0 --> 01:19:08,0
+
+
+752
+01:19:08,0 --> 01:19:08,0
+
+
+753
+01:19:08,0 --> 01:19:08,0
+no
+
+754
+01:19:08,0 --> 01:19:08,0
+
+
+755
+01:19:08,0 --> 01:19:08,0
+
+
+756
+01:19:08,0 --> 01:19:08,0
+
+
+757
+01:19:08,0 --> 01:19:08,0
+
+
+758
+01:19:08,0 --> 01:19:08,0
+more
+
+759
+01:19:08,0 --> 01:19:08,0
+
+
+760
+01:19:08,0 --> 01:19:08,0
+
+
+761
+01:19:08,0 --> 01:19:08,0
+in
+
+762
+01:19:08,0 --> 01:19:08,0
+
+
+763
+01:19:08,0 --> 01:19:08,0
+
+
+764
+01:19:08,0 --> 01:19:08,0
+
+
+765
+01:19:08,0 --> 01:19:08,0
+
+
+766
+01:19:08,0 --> 01:19:08,0
+this
+
+767
+01:19:08,0 --> 01:19:08,0
+
+
+768
+01:19:08,0 --> 01:19:08,0
+
+
+769
+01:19:08,0 --> 01:19:08,0
+
+
+770
+01:19:08,0 --> 01:19:08,0
+
+
+771
+01:19:08,0 --> 01:19:08,0
+
+
+772
+01:19:08,0 --> 01:19:08,0
+land,
+
+773
+01:19:08,0 --> 01:19:08,0
+
+
+774
+01:19:08,0 --> 01:19:08,0
+
+
+775
+01:19:08,0 --> 01:19:08,0
+
+
+776
+01:19:08,0 --> 01:19:08,0
+
+
+777
+01:19:08,0 --> 01:19:08,0
+
+
+778
+01:19:08,0 --> 01:19:08,0
+
+
+779
+01:19:08,0 --> 01:19:08,0
+
+
+780
+01:19:08,0 --> 01:19:08,0
+
+
+781
+01:19:08,0 --> 01:19:08,0
+
+
+782
+01:19:08,0 --> 01:19:08,0
+
+
+783
+01:19:08,0 --> 01:19:08,0
+especially
+
+784
+01:19:08,0 --> 01:19:08,0
+
+
+785
+01:19:08,0 --> 01:19:08,0
+
+
+786
+01:19:08,0 --> 01:19:08,0
+
+
+787
+01:19:08,0 --> 01:19:08,0
+
+
+788
+01:19:08,0 --> 01:19:08,0
+
+
+789
+01:19:08,0 --> 01:19:08,0
+among
+
+790
+01:19:08,0 --> 01:19:08,0
+
+
+791
+01:19:08,0 --> 01:19:08,0
+
+
+792
+01:19:08,0 --> 01:19:08,0
+
+
+793
+01:19:08,0 --> 01:19:08,0
+
+
+794
+01:19:08,0 --> 01:19:08,0
+this
+
+795
+01:19:08,0 --> 01:19:08,0
+
+
+796
+01:19:08,0 --> 01:19:08,0
+
+
+797
+01:19:08,0 --> 01:19:08,0
+my
+
+798
+01:19:08,0 --> 01:19:08,0
+
+
+799
+01:19:08,0 --> 01:19:08,0
+
+
+800
+01:19:08,0 --> 01:19:08,0
+
+
+801
+01:19:08,0 --> 01:19:08,0
+
+
+802
+01:19:08,0 --> 01:19:08,0
+
+
+803
+01:19:08,0 --> 01:19:08,0
+
+
+804
+01:19:08,0 --> 01:19:08,0
+
+
+805
+01:19:08,0 --> 01:19:08,0
+people;
+
+806
+01:19:08,0 --> 01:19:08,0
+
+
+807
+01:19:08,0 --> 01:19:08,0
+
+
+808
+01:19:08,0 --> 01:19:08,0
+
+
+809
+01:19:08,0 --> 01:19:08,0
+but
+
+810
+01:19:08,0 --> 01:19:08,0
+
+
+811
+01:19:08,0 --> 01:19:08,0
+I
+
+812
+01:19:08,0 --> 01:19:08,0
+
+
+813
+01:19:08,0 --> 01:19:08,0
+
+
+814
+01:19:08,0 --> 01:19:08,0
+
+
+815
+01:19:08,0 --> 01:19:08,0
+
+
+816
+01:19:08,0 --> 01:19:08,0
+
+
+817
+01:19:08,0 --> 01:19:08,0
+
+
+818
+01:19:08,0 --> 01:19:08,0
+desire
+
+819
+01:19:08,0 --> 01:19:08,0
+
+
+820
+01:19:08,0 --> 01:19:08,0
+
+
+821
+01:19:08,0 --> 01:19:08,0
+
+
+822
+01:19:08,0 --> 01:19:08,0
+
+
+823
+01:19:08,0 --> 01:19:08,0
+that
+
+824
+01:19:08,0 --> 01:19:08,0
+
+
+825
+01:19:08,0 --> 01:19:08,0
+
+
+826
+01:19:08,0 --> 01:19:08,0
+
+
+827
+01:19:08,0 --> 01:19:08,0
+
+
+828
+01:19:08,0 --> 01:19:08,0
+this
+
+829
+01:19:08,0 --> 01:19:08,0
+
+
+830
+01:19:08,0 --> 01:19:08,0
+
+
+831
+01:19:08,0 --> 01:19:08,0
+
+
+832
+01:19:08,0 --> 01:19:08,0
+
+
+833
+01:19:08,0 --> 01:19:08,0
+land
+
+834
+01:19:08,0 --> 01:19:08,0
+
+
+835
+01:19:08,0 --> 01:19:08,0
+
+
+836
+01:19:08,0 --> 01:19:08,0
+be
+
+837
+01:19:08,0 --> 01:19:08,0
+
+
+838
+01:19:08,0 --> 01:19:08,0
+a
+
+839
+01:19:08,0 --> 01:19:08,0
+
+
+840
+01:19:08,0 --> 01:19:08,0
+
+
+841
+01:19:08,0 --> 01:19:08,0
+
+
+842
+01:19:08,0 --> 01:19:08,0
+
+
+843
+01:19:08,0 --> 01:19:08,0
+land
+
+844
+01:19:08,0 --> 01:19:08,0
+
+
+845
+01:19:08,0 --> 01:19:08,0
+
+
+846
+01:19:08,0 --> 01:19:08,0
+of
+
+847
+01:19:08,0 --> 01:19:08,0
+
+
+848
+01:19:08,0 --> 01:19:08,0
+
+
+849
+01:19:08,0 --> 01:19:08,0
+
+
+850
+01:19:08,0 --> 01:19:08,0
+
+
+851
+01:19:08,0 --> 01:19:08,0
+
+
+852
+01:19:08,0 --> 01:19:08,0
+
+
+853
+01:19:08,0 --> 01:19:08,0
+
+
+854
+01:19:08,0 --> 01:19:08,0
+
+
+855
+01:19:08,0 --> 01:19:08,0
+liberty,
+
+856
+01:19:08,0 --> 01:19:08,0
+
+
+857
+01:19:08,0 --> 01:19:08,0
+
+
+858
+01:19:08,0 --> 01:19:08,0
+
+
+859
+01:19:08,0 --> 01:19:08,0
+and
+
+860
+01:19:08,0 --> 01:19:08,0
+
+
+861
+01:19:08,0 --> 01:19:08,0
+
+
+862
+01:19:08,0 --> 01:19:08,0
+
+
+863
+01:19:08,0 --> 01:19:08,0
+
+
+864
+01:19:08,0 --> 01:19:08,0
+
+
+865
+01:19:08,0 --> 01:19:08,0
+every
+
+866
+01:19:08,0 --> 01:19:08,0
+
+
+867
+01:19:08,0 --> 01:19:08,0
+
+
+868
+01:19:08,0 --> 01:19:08,0
+
+
+869
+01:19:08,0 --> 01:19:08,0
+man
+
+870
+01:19:08,0 --> 01:19:08,0
+
+
+871
+01:19:08,0 --> 01:19:08,0
+
+
+872
+01:19:08,0 --> 01:19:08,0
+
+
+873
+01:19:08,0 --> 01:19:08,0
+may
+
+874
+01:19:08,0 --> 01:19:08,0
+
+
+875
+01:19:08,0 --> 01:19:08,0
+
+
+876
+01:19:08,0 --> 01:19:08,0
+
+
+877
+01:19:08,0 --> 01:19:08,0
+
+
+878
+01:19:08,0 --> 01:19:08,0
+
+
+879
+01:19:08,0 --> 01:19:08,0
+enjoy
+
+880
+01:19:08,0 --> 01:19:08,0
+
+
+881
+01:19:08,0 --> 01:19:08,0
+
+
+882
+01:19:08,0 --> 01:19:08,0
+
+
+883
+01:19:08,0 --> 01:19:08,0
+his
+
+884
+01:19:08,0 --> 01:19:08,0
+
+
+885
+01:19:08,0 --> 01:19:08,0
+
+
+886
+01:19:08,0 --> 01:19:08,0
+
+
+887
+01:19:08,0 --> 01:19:08,0
+
+
+888
+01:19:08,0 --> 01:19:08,0
+
+
+889
+01:19:08,0 --> 01:19:08,0
+
+
+890
+01:19:08,0 --> 01:19:08,0
+rights
+
+891
+01:19:08,0 --> 01:19:08,0
+
+
+892
+01:19:08,0 --> 01:19:08,0
+
+
+893
+01:19:08,0 --> 01:19:08,0
+
+
+894
+01:19:08,0 --> 01:19:08,0
+and
+
+895
+01:19:08,0 --> 01:19:08,0
+
+
+896
+01:19:08,0 --> 01:19:08,0
+
+
+897
+01:19:08,0 --> 01:19:08,0
+
+
+898
+01:19:08,0 --> 01:19:08,0
+
+
+899
+01:19:08,0 --> 01:19:08,0
+
+
+900
+01:19:08,0 --> 01:19:08,0
+
+
+901
+01:19:08,0 --> 01:19:08,0
+
+
+902
+01:19:08,0 --> 01:19:08,0
+
+
+903
+01:19:08,0 --> 01:19:08,0
+
+
+904
+01:19:08,0 --> 01:19:08,0
+
+
+905
+01:19:08,0 --> 01:19:08,0
+privileges
+
+906
+01:19:08,0 --> 01:19:08,0
+
+
+907
+01:19:08,0 --> 01:19:08,0
+
+
+908
+01:19:08,0 --> 01:19:08,0
+
+
+909
+01:19:08,0 --> 01:19:08,0
+
+
+910
+01:19:08,0 --> 01:19:08,0
+
+
+911
+01:19:08,0 --> 01:19:08,0
+
+
+912
+01:19:08,0 --> 01:19:08,0
+alike,
+
+913
+01:19:08,0 --> 01:19:08,0
+
+
+914
+01:19:08,0 --> 01:19:08,0
+
+
+915
+01:19:08,0 --> 01:19:08,0
+so
+
+916
+01:19:08,0 --> 01:19:08,0
+
+
+917
+01:19:08,0 --> 01:19:08,0
+
+
+918
+01:19:08,0 --> 01:19:08,0
+
+
+919
+01:19:08,0 --> 01:19:08,0
+
+
+920
+01:19:08,0 --> 01:19:08,0
+long
+
+921
+01:19:08,0 --> 01:19:08,0
+
+
+922
+01:19:08,0 --> 01:19:08,0
+
+
+923
+01:19:08,0 --> 01:19:08,0
+as
+
+924
+01:19:08,0 --> 01:19:08,0
+
+
+925
+01:19:08,0 --> 01:19:08,0
+
+
+926
+01:19:08,0 --> 01:19:08,0
+
+
+927
+01:19:08,0 --> 01:19:08,0
+the
+
+928
+01:19:08,0 --> 01:19:08,0
+
+
+929
+01:19:08,0 --> 01:19:08,0
+
+
+930
+01:19:08,0 --> 01:19:08,0
+
+
+931
+01:19:08,0 --> 01:19:08,0
+
+
+932
+01:19:08,0 --> 01:19:08,0
+Lord
+
+933
+01:19:08,0 --> 01:19:08,0
+
+
+934
+01:19:08,0 --> 01:19:08,0
+
+
+935
+01:19:08,0 --> 01:19:08,0
+
+
+936
+01:19:08,0 --> 01:19:08,0
+
+
+937
+01:19:08,0 --> 01:19:08,0
+sees
+
+938
+01:19:08,0 --> 01:19:08,0
+
+
+939
+01:19:08,0 --> 01:19:08,0
+
+
+940
+01:19:08,0 --> 01:19:08,0
+
+
+941
+01:19:08,0 --> 01:19:08,0
+fit
+
+942
+01:19:08,0 --> 01:19:08,0
+
+
+943
+01:19:08,0 --> 01:19:08,0
+
+
+944
+01:19:08,0 --> 01:19:08,0
+
+
+945
+01:19:08,0 --> 01:19:08,0
+
+
+946
+01:19:08,0 --> 01:19:08,0
+that
+
+947
+01:19:08,0 --> 01:19:08,0
+
+
+948
+01:19:08,0 --> 01:19:08,0
+
+
+949
+01:19:08,0 --> 01:19:08,0
+we
+
+950
+01:19:08,0 --> 01:19:08,0
+
+
+951
+01:19:08,0 --> 01:19:08,0
+
+
+952
+01:19:08,0 --> 01:19:08,0
+
+
+953
+01:19:08,0 --> 01:19:08,0
+may
+
+954
+01:19:08,0 --> 01:19:08,0
+
+
+955
+01:19:08,0 --> 01:19:08,0
+
+
+956
+01:19:08,0 --> 01:19:08,0
+
+
+957
+01:19:08,0 --> 01:19:08,0
+
+
+958
+01:19:08,0 --> 01:19:08,0
+live
+
+959
+01:19:08,0 --> 01:19:08,0
+
+
+960
+01:19:08,0 --> 01:19:08,0
+
+
+961
+01:19:08,0 --> 01:19:08,0
+
+
+962
+01:19:08,0 --> 01:19:08,0
+and
+
+963
+01:19:08,0 --> 01:19:08,0
+
+
+964
+01:19:08,0 --> 01:19:08,0
+
+
+965
+01:19:08,0 --> 01:19:08,0
+
+
+966
+01:19:08,0 --> 01:19:08,0
+
+
+967
+01:19:08,0 --> 01:19:08,0
+
+
+968
+01:19:08,0 --> 01:19:08,0
+
+
+969
+01:19:08,0 --> 01:19:08,0
+
+
+970
+01:19:08,0 --> 01:19:08,0
+inherit
+
+971
+01:19:08,0 --> 01:19:08,0
+
+
+972
+01:19:08,0 --> 01:19:08,0
+
+
+973
+01:19:08,0 --> 01:19:08,0
+
+
+974
+01:19:08,0 --> 01:19:08,0
+the
+
+975
+01:19:08,0 --> 01:19:08,0
+
+
+976
+01:19:08,0 --> 01:19:08,0
+
+
+977
+01:19:08,0 --> 01:19:08,0
+
+
+978
+01:19:08,0 --> 01:19:08,0
+
+
+979
+01:19:08,0 --> 01:19:08,0
+
+
+980
+01:19:08,0 --> 01:19:08,0
+land,
+
+981
+01:19:08,0 --> 01:19:08,0
+
+
+982
+01:19:08,0 --> 01:19:08,0
+
+
+983
+01:19:08,0 --> 01:19:08,0
+
+
+984
+01:19:08,0 --> 01:19:08,0
+
+
+985
+01:19:08,0 --> 01:19:08,0
+yea,
+
+986
+01:19:08,0 --> 01:19:08,0
+
+
+987
+01:19:08,0 --> 01:19:08,0
+
+
+988
+01:19:08,0 --> 01:19:08,0
+
+
+989
+01:19:08,0 --> 01:19:08,0
+
+
+990
+01:19:08,0 --> 01:19:08,0
+even
+
+991
+01:19:08,0 --> 01:19:08,0
+
+
+992
+01:19:08,0 --> 01:19:08,0
+
+
+993
+01:19:08,0 --> 01:19:08,0
+as
+
+994
+01:19:08,0 --> 01:19:08,0
+
+
+995
+01:19:08,0 --> 01:19:08,0
+
+
+996
+01:19:08,0 --> 01:19:08,0
+
+
+997
+01:19:08,0 --> 01:19:08,0
+
+
+998
+01:19:08,0 --> 01:19:08,0
+long
+
+999
+01:19:08,0 --> 01:19:08,0
+
+
+1000
+01:19:08,0 --> 01:19:08,0
+
+
+1001
+01:19:08,0 --> 01:19:08,0
+as
+
+1002
+01:19:08,0 --> 01:19:08,0
+
+
+1003
+01:19:08,0 --> 01:19:08,0
+
+
+1004
+01:19:08,0 --> 01:19:08,0
+
+
+1005
+01:19:08,0 --> 01:19:08,0
+any
+
+1006
+01:19:08,0 --> 01:19:08,0
+
+
+1007
+01:19:08,0 --> 01:19:08,0
+
+
+1008
+01:19:08,0 --> 01:19:08,0
+of
+
+1009
+01:19:08,0 --> 01:19:08,0
+
+
+1010
+01:19:08,0 --> 01:19:08,0
+
+
+1011
+01:19:08,0 --> 01:19:08,0
+
+
+1012
+01:19:08,0 --> 01:19:08,0
+our
+
+1013
+01:19:08,0 --> 01:19:08,0
+
+
+1014
+01:19:08,0 --> 01:19:08,0
+
+
+1015
+01:19:08,0 --> 01:19:08,0
+
+
+1016
+01:19:08,0 --> 01:19:08,0
+
+
+1017
+01:19:08,0 --> 01:19:08,0
+
+
+1018
+01:19:08,0 --> 01:19:08,0
+
+
+1019
+01:19:08,0 --> 01:19:08,0
+
+
+1020
+01:19:08,0 --> 01:19:08,0
+
+
+1021
+01:19:08,0 --> 01:19:08,0
+
+
+1022
+01:19:08,0 --> 01:19:08,0
+posterity
+
+1023
+01:19:08,0 --> 01:19:08,0
+
+
+1024
+01:19:08,0 --> 01:19:08,0
+
+
+1025
+01:19:08,0 --> 01:19:08,0
+
+
+1026
+01:19:08,0 --> 01:19:08,0
+
+
+1027
+01:19:08,0 --> 01:19:08,0
+
+
+1028
+01:19:08,0 --> 01:19:08,0
+
+
+1029
+01:19:08,0 --> 01:19:08,0
+
+
+1030
+01:19:08,0 --> 01:19:08,0
+remains
+
+1031
+01:19:08,0 --> 01:19:08,0
+
+
+1032
+01:19:08,0 --> 01:19:08,0
+
+
+1033
+01:19:08,0 --> 01:19:08,0
+
+
+1034
+01:19:08,0 --> 01:19:08,0
+
+
+1035
+01:19:08,0 --> 01:19:08,0
+upon
+
+1036
+01:19:08,0 --> 01:19:08,0
+
+
+1037
+01:19:08,0 --> 01:19:08,0
+
+
+1038
+01:19:08,0 --> 01:19:08,0
+
+
+1039
+01:19:08,0 --> 01:19:08,0
+the
+
+1040
+01:19:08,0 --> 01:19:08,0
+
+
+1041
+01:19:08,0 --> 01:19:08,0
+
+
+1042
+01:19:08,0 --> 01:19:08,0
+
+
+1043
+01:19:08,0 --> 01:19:08,0
+
+
+1044
+01:19:08,0 --> 01:19:08,0
+face
+
+1045
+01:19:08,0 --> 01:19:08,0
+
+
+1046
+01:19:08,0 --> 01:19:08,0
+
+
+1047
+01:19:08,0 --> 01:19:08,0
+of
+
+1048
+01:19:08,0 --> 01:19:08,0
+
+
+1049
+01:19:08,0 --> 01:19:08,0
+
+
+1050
+01:19:08,0 --> 01:19:08,0
+
+
+1051
+01:19:08,0 --> 01:19:08,0
+the
+
+1052
+01:19:08,0 --> 01:19:08,0
+
+
+1053
+01:19:08,0 --> 01:19:08,0
+
+
+1054
+01:19:08,0 --> 01:19:08,0
+
+
+1055
+01:19:08,0 --> 01:19:08,0
+
+
+1056
+01:19:08,0 --> 01:19:08,0
+
+
+1057
+01:19:08,0 --> 01:29:18,
+land.
+
+1058
+01:29:18,0 --> 01:29:18,0
+33 And many more things did king Mosiah write unto them, unfolding unto them all the trials and troubles of a righteous king, yea, all the travails of soul for their people, and also all the murmurings of the people to their king; and he explained it all unto
+
+1059
+01:29:18,0 --> 01:29:18,0
+
+
+1060
+01:29:18,0 --> 01:29:18,0
+
+
+1061
+01:29:18,0 --> 01:29:18,0
+
+
+1062
+01:29:18,0 --> 01:29:18,0
+
+
+1063
+01:29:18,0 --> 01:29:18,0
+And
+
+1064
+01:29:18,0 --> 01:29:18,0
+
+
+1065
+01:29:18,0 --> 01:29:18,0
+
+
+1066
+01:29:18,0 --> 01:29:18,0
+
+
+1067
+01:29:18,0 --> 01:29:18,0
+
+
+1068
+01:29:18,0 --> 01:29:18,0
+many
+
+1069
+01:29:18,0 --> 01:29:18,0
+
+
+1070
+01:29:18,0 --> 01:29:18,0
+
+
+1071
+01:29:18,0 --> 01:29:18,0
+
+
+1072
+01:29:18,0 --> 01:29:18,0
+
+
+1073
+01:29:18,0 --> 01:29:18,0
+more
+
+1074
+01:29:18,0 --> 01:29:18,0
+
+
+1075
+01:29:18,0 --> 01:29:18,0
+
+
+1076
+01:29:18,0 --> 01:29:18,0
+
+
+1077
+01:29:18,0 --> 01:29:18,0
+
+
+1078
+01:29:18,0 --> 01:29:18,0
+
+
+1079
+01:29:18,0 --> 01:29:18,0
+
+
+1080
+01:29:18,0 --> 01:29:18,0
+things
+
+1081
+01:29:18,0 --> 01:29:18,0
+
+
+1082
+01:29:18,0 --> 01:29:18,0
+
+
+1083
+01:29:18,0 --> 01:29:18,0
+
+
+1084
+01:29:18,0 --> 01:29:18,0
+did
+
+1085
+01:29:18,0 --> 01:29:18,0
+
+
+1086
+01:29:18,0 --> 01:29:18,0
+
+
+1087
+01:29:18,0 --> 01:29:18,0
+
+
+1088
+01:29:18,0 --> 01:29:18,0
+
+
+1089
+01:29:18,0 --> 01:29:18,0
+king
+
+1090
+01:29:18,0 --> 01:29:18,0
+
+
+1091
+01:29:18,0 --> 01:29:18,0
+
+
+1092
+01:29:18,0 --> 01:29:18,0
+
+
+1093
+01:29:18,0 --> 01:29:18,0
+
+
+1094
+01:29:18,0 --> 01:29:18,0
+
+
+1095
+01:29:18,0 --> 01:29:18,0
+
+
+1096
+01:29:18,0 --> 01:29:18,0
+Mosiah
+
+1097
+01:29:18,0 --> 01:29:18,0
+
+
+1098
+01:29:18,0 --> 01:29:18,0
+
+
+1099
+01:29:18,0 --> 01:29:18,0
+
+
+1100
+01:29:18,0 --> 01:29:18,0
+
+
+1101
+01:29:18,0 --> 01:29:18,0
+
+
+1102
+01:29:18,0 --> 01:29:18,0
+write
+
+1103
+01:29:18,0 --> 01:29:18,0
+
+
+1104
+01:29:18,0 --> 01:29:18,0
+
+
+1105
+01:29:18,0 --> 01:29:18,0
+
+
+1106
+01:29:18,0 --> 01:29:18,0
+
+
+1107
+01:29:18,0 --> 01:29:18,0
+unto
+
+1108
+01:29:18,0 --> 01:29:18,0
+
+
+1109
+01:29:18,0 --> 01:29:18,0
+
+
+1110
+01:29:18,0 --> 01:29:18,0
+
+
+1111
+01:29:18,0 --> 01:29:18,0
+
+
+1112
+01:29:18,0 --> 01:29:18,0
+
+
+1113
+01:29:18,0 --> 01:29:18,0
+them,
+
+1114
+01:29:18,0 --> 01:29:18,0
+
+
+1115
+01:29:18,0 --> 01:29:18,0
+
+
+1116
+01:29:18,0 --> 01:29:18,0
+
+
+1117
+01:29:18,0 --> 01:29:18,0
+
+
+1118
+01:29:18,0 --> 01:29:18,0
+
+
+1119
+01:29:18,0 --> 01:29:18,0
+
+
+1120
+01:29:18,0 --> 01:29:18,0
+
+
+1121
+01:29:18,0 --> 01:29:18,0
+
+
+1122
+01:29:18,0 --> 01:29:18,0
+
+
+1123
+01:29:18,0 --> 01:29:18,0
+unfolding
+
+1124
+01:29:18,0 --> 01:29:18,0
+
+
+1125
+01:29:18,0 --> 01:29:18,0
+
+
+1126
+01:29:18,0 --> 01:29:18,0
+
+
+1127
+01:29:18,0 --> 01:29:18,0
+
+
+1128
+01:29:18,0 --> 01:29:18,0
+unto
+
+1129
+01:29:18,0 --> 01:29:18,0
+
+
+1130
+01:29:18,0 --> 01:29:18,0
+
+
+1131
+01:29:18,0 --> 01:29:18,0
+
+
+1132
+01:29:18,0 --> 01:29:18,0
+
+
+1133
+01:29:18,0 --> 01:29:18,0
+them
+
+1134
+01:29:18,0 --> 01:29:18,0
+
+
+1135
+01:29:18,0 --> 01:29:18,0
+
+
+1136
+01:29:18,0 --> 01:29:18,0
+
+
+1137
+01:29:18,0 --> 01:29:18,0
+all
+
+1138
+01:29:18,0 --> 01:29:18,0
+
+
+1139
+01:29:18,0 --> 01:29:18,0
+
+
+1140
+01:29:18,0 --> 01:29:18,0
+
+
+1141
+01:29:18,0 --> 01:29:18,0
+the
+
+1142
+01:29:18,0 --> 01:29:18,0
+
+
+1143
+01:29:18,0 --> 01:29:18,0
+
+
+1144
+01:29:18,0 --> 01:29:18,0
+
+
+1145
+01:29:18,0 --> 01:29:18,0
+
+
+1146
+01:29:18,0 --> 01:29:18,0
+
+
+1147
+01:29:18,0 --> 01:29:18,0
+
+
+1148
+01:29:18,0 --> 01:29:18,0
+trials
+
+1149
+01:29:18,0 --> 01:29:18,0
+
+
+1150
+01:29:18,0 --> 01:29:18,0
+
+
+1151
+01:29:18,0 --> 01:29:18,0
+
+
+1152
+01:29:18,0 --> 01:29:18,0
+and
+
+1153
+01:29:18,0 --> 01:29:18,0
+
+
+1154
+01:29:18,0 --> 01:29:18,0
+
+
+1155
+01:29:18,0 --> 01:29:18,0
+
+
+1156
+01:29:18,0 --> 01:29:18,0
+
+
+1157
+01:29:18,0 --> 01:29:18,0
+
+
+1158
+01:29:18,0 --> 01:29:18,0
+
+
+1159
+01:29:18,0 --> 01:29:18,0
+
+
+1160
+01:29:18,0 --> 01:29:18,0
+
+
+1161
+01:29:18,0 --> 01:29:18,0
+troubles
+
+1162
+01:29:18,0 --> 01:29:18,0
+
+
+1163
+01:29:18,0 --> 01:29:18,0
+
+
+1164
+01:29:18,0 --> 01:29:18,0
+of
+
+1165
+01:29:18,0 --> 01:29:18,0
+
+
+1166
+01:29:18,0 --> 01:29:18,0
+a
+
+1167
+01:29:18,0 --> 01:29:18,0
+
+
+1168
+01:29:18,0 --> 01:29:18,0
+
+
+1169
+01:29:18,0 --> 01:29:18,0
+
+
+1170
+01:29:18,0 --> 01:29:18,0
+
+
+1171
+01:29:18,0 --> 01:29:18,0
+
+
+1172
+01:29:18,0 --> 01:29:18,0
+
+
+1173
+01:29:18,0 --> 01:29:18,0
+
+
+1174
+01:29:18,0 --> 01:29:18,0
+
+
+1175
+01:29:18,0 --> 01:29:18,0
+
+
+1176
+01:29:18,0 --> 01:29:18,0
+righteous
+
+1177
+01:29:18,0 --> 01:29:18,0
+
+
+1178
+01:29:18,0 --> 01:29:18,0
+
+
+1179
+01:29:18,0 --> 01:29:18,0
+
+
+1180
+01:29:18,0 --> 01:29:18,0
+
+
+1181
+01:29:18,0 --> 01:29:18,0
+
+
+1182
+01:29:18,0 --> 01:29:18,0
+king,
+
+1183
+01:29:18,0 --> 01:29:18,0
+
+
+1184
+01:29:18,0 --> 01:29:18,0
+
+
+1185
+01:29:18,0 --> 01:29:18,0
+
+
+1186
+01:29:18,0 --> 01:29:18,0
+
+
+1187
+01:29:18,0 --> 01:29:18,0
+yea,
+
+1188
+01:29:18,0 --> 01:29:18,0
+
+
+1189
+01:29:18,0 --> 01:29:18,0
+
+
+1190
+01:29:18,0 --> 01:29:18,0
+
+
+1191
+01:29:18,0 --> 01:29:18,0
+all
+
+1192
+01:29:18,0 --> 01:29:18,0
+
+
+1193
+01:29:18,0 --> 01:29:18,0
+
+
+1194
+01:29:18,0 --> 01:29:18,0
+
+
+1195
+01:29:18,0 --> 01:29:18,0
+the
+
+1196
+01:29:18,0 --> 01:29:18,0
+
+
+1197
+01:29:18,0 --> 01:29:18,0
+
+
+1198
+01:29:18,0 --> 01:29:18,0
+
+
+1199
+01:29:18,0 --> 01:29:18,0
+
+
+1200
+01:29:18,0 --> 01:29:18,0
+
+
+1201
+01:29:18,0 --> 01:29:18,0
+
+
+1202
+01:29:18,0 --> 01:29:18,0
+
+
+1203
+01:29:18,0 --> 01:29:18,0
+
+
+1204
+01:29:18,0 --> 01:29:18,0
+travails
+
+1205
+01:29:18,0 --> 01:29:18,0
+
+
+1206
+01:29:18,0 --> 01:29:18,0
+
+
+1207
+01:29:18,0 --> 01:29:18,0
+of
+
+1208
+01:29:18,0 --> 01:29:18,0
+
+
+1209
+01:29:18,0 --> 01:29:18,0
+
+
+1210
+01:29:18,0 --> 01:29:18,0
+
+
+1211
+01:29:18,0 --> 01:29:18,0
+
+
+1212
+01:29:18,0 --> 01:29:18,0
+soul
+
+1213
+01:29:18,0 --> 01:29:18,0
+
+
+1214
+01:29:18,0 --> 01:29:18,0
+
+
+1215
+01:29:18,0 --> 01:29:18,0
+
+
+1216
+01:29:18,0 --> 01:29:18,0
+for
+
+1217
+01:29:18,0 --> 01:29:18,0
+
+
+1218
+01:29:18,0 --> 01:29:18,0
+
+
+1219
+01:29:18,0 --> 01:29:18,0
+
+
+1220
+01:29:18,0 --> 01:29:18,0
+
+
+1221
+01:29:18,0 --> 01:29:18,0
+
+
+1222
+01:29:18,0 --> 01:29:18,0
+their
+
+1223
+01:29:18,0 --> 01:29:18,0
+
+
+1224
+01:29:18,0 --> 01:29:18,0
+
+
+1225
+01:29:18,0 --> 01:29:18,0
+
+
+1226
+01:29:18,0 --> 01:29:18,0
+
+
+1227
+01:29:18,0 --> 01:29:18,0
+
+
+1228
+01:29:18,0 --> 01:29:18,0
+
+
+1229
+01:29:18,0 --> 01:29:18,0
+
+
+1230
+01:29:18,0 --> 01:29:18,0
+people,
+
+1231
+01:29:18,0 --> 01:29:18,0
+
+
+1232
+01:29:18,0 --> 01:29:18,0
+
+
+1233
+01:29:18,0 --> 01:29:18,0
+
+
+1234
+01:29:18,0 --> 01:29:18,0
+and
+
+1235
+01:29:18,0 --> 01:29:18,0
+
+
+1236
+01:29:18,0 --> 01:29:18,0
+
+
+1237
+01:29:18,0 --> 01:29:18,0
+
+
+1238
+01:29:18,0 --> 01:29:18,0
+
+
+1239
+01:29:18,0 --> 01:29:18,0
+also
+
+1240
+01:29:18,0 --> 01:29:18,0
+
+
+1241
+01:29:18,0 --> 01:29:18,0
+
+
+1242
+01:29:18,0 --> 01:29:18,0
+
+
+1243
+01:29:18,0 --> 01:29:18,0
+all
+
+1244
+01:29:18,0 --> 01:29:18,0
+
+
+1245
+01:29:18,0 --> 01:29:18,0
+
+
+1246
+01:29:18,0 --> 01:29:18,0
+
+
+1247
+01:29:18,0 --> 01:29:18,0
+the
+
+1248
+01:29:18,0 --> 01:29:18,0
+
+
+1249
+01:29:18,0 --> 01:29:18,0
+
+
+1250
+01:29:18,0 --> 01:29:18,0
+
+
+1251
+01:29:18,0 --> 01:29:18,0
+
+
+1252
+01:29:18,0 --> 01:29:18,0
+
+
+1253
+01:29:18,0 --> 01:29:18,0
+
+
+1254
+01:29:18,0 --> 01:29:18,0
+
+
+1255
+01:29:18,0 --> 01:29:18,0
+
+
+1256
+01:29:18,0 --> 01:29:18,0
+
+
+1257
+01:29:18,0 --> 01:29:18,0
+
+
+1258
+01:29:18,0 --> 01:29:18,0
+murmurings
+
+1259
+01:29:18,0 --> 01:29:18,0
+
+
+1260
+01:29:18,0 --> 01:29:18,0
+
+
+1261
+01:29:18,0 --> 01:29:18,0
+of
+
+1262
+01:29:18,0 --> 01:29:18,0
+
+
+1263
+01:29:18,0 --> 01:29:18,0
+
+
+1264
+01:29:18,0 --> 01:29:18,0
+
+
+1265
+01:29:18,0 --> 01:29:18,0
+the
+
+1266
+01:29:18,0 --> 01:29:18,0
+
+
+1267
+01:29:18,0 --> 01:29:18,0
+
+
+1268
+01:29:18,0 --> 01:29:18,0
+
+
+1269
+01:29:18,0 --> 01:29:18,0
+
+
+1270
+01:29:18,0 --> 01:29:18,0
+
+
+1271
+01:29:18,0 --> 01:29:18,0
+
+
+1272
+01:29:18,0 --> 01:29:18,0
+people
+
+1273
+01:29:18,0 --> 01:29:18,0
+
+
+1274
+01:29:18,0 --> 01:29:18,0
+
+
+1275
+01:29:18,0 --> 01:29:18,0
+to
+
+1276
+01:29:18,0 --> 01:29:18,0
+
+
+1277
+01:29:18,0 --> 01:29:18,0
+
+
+1278
+01:29:18,0 --> 01:29:18,0
+
+
+1279
+01:29:18,0 --> 01:29:18,0
+
+
+1280
+01:29:18,0 --> 01:29:18,0
+
+
+1281
+01:29:18,0 --> 01:29:18,0
+their
+
+1282
+01:29:18,0 --> 01:29:18,0
+
+
+1283
+01:29:18,0 --> 01:29:18,0
+
+
+1284
+01:29:18,0 --> 01:29:18,0
+
+
+1285
+01:29:18,0 --> 01:29:18,0
+
+
+1286
+01:29:18,0 --> 01:29:18,0
+
+
+1287
+01:29:18,0 --> 01:29:18,0
+king;
+
+1288
+01:29:18,0 --> 01:29:18,0
+
+
+1289
+01:29:18,0 --> 01:29:18,0
+
+
+1290
+01:29:18,0 --> 01:29:18,0
+
+
+1291
+01:29:18,0 --> 01:29:18,0
+and
+
+1292
+01:29:18,0 --> 01:29:18,0
+
+
+1293
+01:29:18,0 --> 01:29:18,0
+
+
+1294
+01:29:18,0 --> 01:29:18,0
+he
+
+1295
+01:29:18,0 --> 01:29:18,0
+
+
+1296
+01:29:18,0 --> 01:29:18,0
+
+
+1297
+01:29:18,0 --> 01:29:18,0
+
+
+1298
+01:29:18,0 --> 01:29:18,0
+
+
+1299
+01:29:18,0 --> 01:29:18,0
+
+
+1300
+01:29:18,0 --> 01:29:18,0
+
+
+1301
+01:29:18,0 --> 01:29:18,0
+
+
+1302
+01:29:18,0 --> 01:29:18,0
+
+
+1303
+01:29:18,0 --> 01:29:18,0
+
+
+1304
+01:29:18,0 --> 01:29:18,0
+explained
+
+1305
+01:29:18,0 --> 01:29:18,0
+
+
+1306
+01:29:18,0 --> 01:29:18,0
+
+
+1307
+01:29:18,0 --> 01:29:18,0
+it
+
+1308
+01:29:18,0 --> 01:29:18,0
+
+
+1309
+01:29:18,0 --> 01:29:18,0
+
+
+1310
+01:29:18,0 --> 01:29:18,0
+
+
+1311
+01:29:18,0 --> 01:29:18,0
+all
+
+1312
+01:29:18,0 --> 01:29:18,0
+
+
+1313
+01:29:18,0 --> 01:29:18,0
+
+
+1314
+01:29:18,0 --> 01:29:18,0
+
+
+1315
+01:29:18,0 --> 01:29:18,0
+
+
+1316
+01:29:18,0 --> 01:29:18,0
+unto
+
+1317
+01:29:18,0 --> 01:29:18,0
+
+
+1318
+01:29:18,0 --> 01:29:18,0
+
+
+1319
+01:29:18,0 --> 01:29:18,0
+
+
+1320
+01:29:18,0 --> 01:29:18,0
+
+
+1321
+01:29:18,0 --> 01:29:18,0
+
+
+1322
+01:29:18,0 --> 01:28:50,
+them.
+
+1323
+01:28:50,0 --> 01:28:50,0
+34 And he told them that these things ought not to be; but that the burden should come upon all the people, that every man might bear his
+
+1324
+01:28:50,0 --> 01:28:50,0
+
+
+1325
+01:28:50,0 --> 01:28:50,0
+
+
+1326
+01:28:50,0 --> 01:28:50,0
+
+
+1327
+01:28:50,0 --> 01:28:50,0
+
+
+1328
+01:28:50,0 --> 01:28:50,0
+And
+
+1329
+01:28:50,0 --> 01:28:50,0
+
+
+1330
+01:28:50,0 --> 01:28:50,0
+
+
+1331
+01:28:50,0 --> 01:28:50,0
+he
+
+1332
+01:28:50,0 --> 01:28:50,0
+
+
+1333
+01:28:50,0 --> 01:28:50,0
+
+
+1334
+01:28:50,0 --> 01:28:50,0
+
+
+1335
+01:28:50,0 --> 01:28:50,0
+
+
+1336
+01:28:50,0 --> 01:28:50,0
+told
+
+1337
+01:28:50,0 --> 01:28:50,0
+
+
+1338
+01:28:50,0 --> 01:28:50,0
+
+
+1339
+01:28:50,0 --> 01:28:50,0
+
+
+1340
+01:28:50,0 --> 01:28:50,0
+
+
+1341
+01:28:50,0 --> 01:28:50,0
+them
+
+1342
+01:28:50,0 --> 01:28:50,0
+
+
+1343
+01:28:50,0 --> 01:28:50,0
+
+
+1344
+01:28:50,0 --> 01:28:50,0
+
+
+1345
+01:28:50,0 --> 01:28:50,0
+
+
+1346
+01:28:50,0 --> 01:28:50,0
+that
+
+1347
+01:28:50,0 --> 01:28:50,0
+
+
+1348
+01:28:50,0 --> 01:28:50,0
+
+
+1349
+01:28:50,0 --> 01:28:50,0
+
+
+1350
+01:28:50,0 --> 01:28:50,0
+
+
+1351
+01:28:50,0 --> 01:28:50,0
+
+
+1352
+01:28:50,0 --> 01:28:50,0
+these
+
+1353
+01:28:50,0 --> 01:28:50,0
+
+
+1354
+01:28:50,0 --> 01:28:50,0
+
+
+1355
+01:28:50,0 --> 01:28:50,0
+
+
+1356
+01:28:50,0 --> 01:28:50,0
+
+
+1357
+01:28:50,0 --> 01:28:50,0
+
+
+1358
+01:28:50,0 --> 01:28:50,0
+
+
+1359
+01:28:50,0 --> 01:28:50,0
+things
+
+1360
+01:28:50,0 --> 01:28:50,0
+
+
+1361
+01:28:50,0 --> 01:28:50,0
+
+
+1362
+01:28:50,0 --> 01:28:50,0
+
+
+1363
+01:28:50,0 --> 01:28:50,0
+
+
+1364
+01:28:50,0 --> 01:28:50,0
+
+
+1365
+01:28:50,0 --> 01:28:50,0
+ought
+
+1366
+01:28:50,0 --> 01:28:50,0
+
+
+1367
+01:28:50,0 --> 01:28:50,0
+
+
+1368
+01:28:50,0 --> 01:28:50,0
+
+
+1369
+01:28:50,0 --> 01:28:50,0
+not
+
+1370
+01:28:50,0 --> 01:28:50,0
+
+
+1371
+01:28:50,0 --> 01:28:50,0
+
+
+1372
+01:28:50,0 --> 01:28:50,0
+to
+
+1373
+01:28:50,0 --> 01:28:50,0
+
+
+1374
+01:28:50,0 --> 01:28:50,0
+
+
+1375
+01:28:50,0 --> 01:28:50,0
+
+
+1376
+01:28:50,0 --> 01:28:50,0
+be;
+
+1377
+01:28:50,0 --> 01:28:50,0
+
+
+1378
+01:28:50,0 --> 01:28:50,0
+
+
+1379
+01:28:50,0 --> 01:28:50,0
+
+
+1380
+01:28:50,0 --> 01:28:50,0
+but
+
+1381
+01:28:50,0 --> 01:28:50,0
+
+
+1382
+01:28:50,0 --> 01:28:50,0
+
+
+1383
+01:28:50,0 --> 01:28:50,0
+
+
+1384
+01:28:50,0 --> 01:28:50,0
+
+
+1385
+01:28:50,0 --> 01:28:50,0
+that
+
+1386
+01:28:50,0 --> 01:28:50,0
+
+
+1387
+01:28:50,0 --> 01:28:50,0
+
+
+1388
+01:28:50,0 --> 01:28:50,0
+
+
+1389
+01:28:50,0 --> 01:28:50,0
+the
+
+1390
+01:28:50,0 --> 01:28:50,0
+
+
+1391
+01:28:50,0 --> 01:28:50,0
+
+
+1392
+01:28:50,0 --> 01:28:50,0
+
+
+1393
+01:28:50,0 --> 01:28:50,0
+
+
+1394
+01:28:50,0 --> 01:28:50,0
+
+
+1395
+01:28:50,0 --> 01:28:50,0
+
+
+1396
+01:28:50,0 --> 01:28:50,0
+burden
+
+1397
+01:28:50,0 --> 01:28:50,0
+
+
+1398
+01:28:50,0 --> 01:28:50,0
+
+
+1399
+01:28:50,0 --> 01:28:50,0
+
+
+1400
+01:28:50,0 --> 01:28:50,0
+
+
+1401
+01:28:50,0 --> 01:28:50,0
+
+
+1402
+01:28:50,0 --> 01:28:50,0
+
+
+1403
+01:28:50,0 --> 01:28:50,0
+should
+
+1404
+01:28:50,0 --> 01:28:50,0
+
+
+1405
+01:28:50,0 --> 01:28:50,0
+
+
+1406
+01:28:50,0 --> 01:28:50,0
+
+
+1407
+01:28:50,0 --> 01:28:50,0
+
+
+1408
+01:28:50,0 --> 01:28:50,0
+come
+
+1409
+01:28:50,0 --> 01:28:50,0
+
+
+1410
+01:28:50,0 --> 01:28:50,0
+
+
+1411
+01:28:50,0 --> 01:28:50,0
+
+
+1412
+01:28:50,0 --> 01:28:50,0
+
+
+1413
+01:28:50,0 --> 01:28:50,0
+upon
+
+1414
+01:28:50,0 --> 01:28:50,0
+
+
+1415
+01:28:50,0 --> 01:28:50,0
+
+
+1416
+01:28:50,0 --> 01:28:50,0
+
+
+1417
+01:28:50,0 --> 01:28:50,0
+all
+
+1418
+01:28:50,0 --> 01:28:50,0
+
+
+1419
+01:28:50,0 --> 01:28:50,0
+
+
+1420
+01:28:50,0 --> 01:28:50,0
+
+
+1421
+01:28:50,0 --> 01:28:50,0
+the
+
+1422
+01:28:50,0 --> 01:28:50,0
+
+
+1423
+01:28:50,0 --> 01:28:50,0
+
+
+1424
+01:28:50,0 --> 01:28:50,0
+
+
+1425
+01:28:50,0 --> 01:28:50,0
+
+
+1426
+01:28:50,0 --> 01:28:50,0
+
+
+1427
+01:28:50,0 --> 01:28:50,0
+
+
+1428
+01:28:50,0 --> 01:28:50,0
+
+
+1429
+01:28:50,0 --> 01:28:50,0
+people,
+
+1430
+01:28:50,0 --> 01:28:50,0
+
+
+1431
+01:28:50,0 --> 01:28:50,0
+
+
+1432
+01:28:50,0 --> 01:28:50,0
+
+
+1433
+01:28:50,0 --> 01:28:50,0
+
+
+1434
+01:28:50,0 --> 01:28:50,0
+that
+
+1435
+01:28:50,0 --> 01:28:50,0
+
+
+1436
+01:28:50,0 --> 01:28:50,0
+
+
+1437
+01:28:50,0 --> 01:28:50,0
+
+
+1438
+01:28:50,0 --> 01:28:50,0
+
+
+1439
+01:28:50,0 --> 01:28:50,0
+
+
+1440
+01:28:50,0 --> 01:28:50,0
+every
+
+1441
+01:28:50,0 --> 01:28:50,0
+
+
+1442
+01:28:50,0 --> 01:28:50,0
+
+
+1443
+01:28:50,0 --> 01:28:50,0
+
+
+1444
+01:28:50,0 --> 01:28:50,0
+man
+
+1445
+01:28:50,0 --> 01:28:50,0
+
+
+1446
+01:28:50,0 --> 01:28:50,0
+
+
+1447
+01:28:50,0 --> 01:28:50,0
+
+
+1448
+01:28:50,0 --> 01:28:50,0
+
+
+1449
+01:28:50,0 --> 01:28:50,0
+
+
+1450
+01:28:50,0 --> 01:28:50,0
+might
+
+1451
+01:28:50,0 --> 01:28:50,0
+
+
+1452
+01:28:50,0 --> 01:28:50,0
+
+
+1453
+01:28:50,0 --> 01:28:50,0
+
+
+1454
+01:28:50,0 --> 01:28:50,0
+
+
+1455
+01:28:50,0 --> 01:28:50,0
+bear
+
+1456
+01:28:50,0 --> 01:28:50,0
+
+
+1457
+01:28:50,0 --> 01:28:50,0
+
+
+1458
+01:28:50,0 --> 01:28:50,0
+
+
+1459
+01:28:50,0 --> 01:28:50,0
+his
+
+1460
+01:28:50,0 --> 01:28:50,0
+
+
+1461
+01:28:50,0 --> 01:28:50,0
+
+
+1462
+01:28:50,0 --> 01:28:50,0
+
+
+1463
+01:28:50,0 --> 01:28:50,0
+
+
+1464
+01:28:50,0 --> 01:28:50,0
+
+
+1465
+01:28:50,0 --> 01:28:22,
+part.
+
+1466
+01:28:22,0 --> 01:28:22,0
+35 And he also unfolded unto them all the disadvantages they labored under, by having an unrighteous king to rule over
+
+1467
+01:28:22,0 --> 01:28:22,0
+
+
+1468
+01:28:22,0 --> 01:28:22,0
+
+
+1469
+01:28:22,0 --> 01:28:22,0
+
+
+1470
+01:28:22,0 --> 01:28:22,0
+
+
+1471
+01:28:22,0 --> 01:28:22,0
+And
+
+1472
+01:28:22,0 --> 01:28:22,0
+
+
+1473
+01:28:22,0 --> 01:28:22,0
+
+
+1474
+01:28:22,0 --> 01:28:22,0
+he
+
+1475
+01:28:22,0 --> 01:28:22,0
+
+
+1476
+01:28:22,0 --> 01:28:22,0
+
+
+1477
+01:28:22,0 --> 01:28:22,0
+
+
+1478
+01:28:22,0 --> 01:28:22,0
+
+
+1479
+01:28:22,0 --> 01:28:22,0
+also
+
+1480
+01:28:22,0 --> 01:28:22,0
+
+
+1481
+01:28:22,0 --> 01:28:22,0
+
+
+1482
+01:28:22,0 --> 01:28:22,0
+
+
+1483
+01:28:22,0 --> 01:28:22,0
+
+
+1484
+01:28:22,0 --> 01:28:22,0
+
+
+1485
+01:28:22,0 --> 01:28:22,0
+
+
+1486
+01:28:22,0 --> 01:28:22,0
+
+
+1487
+01:28:22,0 --> 01:28:22,0
+
+
+1488
+01:28:22,0 --> 01:28:22,0
+unfolded
+
+1489
+01:28:22,0 --> 01:28:22,0
+
+
+1490
+01:28:22,0 --> 01:28:22,0
+
+
+1491
+01:28:22,0 --> 01:28:22,0
+
+
+1492
+01:28:22,0 --> 01:28:22,0
+
+
+1493
+01:28:22,0 --> 01:28:22,0
+unto
+
+1494
+01:28:22,0 --> 01:28:22,0
+
+
+1495
+01:28:22,0 --> 01:28:22,0
+
+
+1496
+01:28:22,0 --> 01:28:22,0
+
+
+1497
+01:28:22,0 --> 01:28:22,0
+
+
+1498
+01:28:22,0 --> 01:28:22,0
+them
+
+1499
+01:28:22,0 --> 01:28:22,0
+
+
+1500
+01:28:22,0 --> 01:28:22,0
+
+
+1501
+01:28:22,0 --> 01:28:22,0
+
+
+1502
+01:28:22,0 --> 01:28:22,0
+all
+
+1503
+01:28:22,0 --> 01:28:22,0
+
+
+1504
+01:28:22,0 --> 01:28:22,0
+
+
+1505
+01:28:22,0 --> 01:28:22,0
+
+
+1506
+01:28:22,0 --> 01:28:22,0
+the
+
+1507
+01:28:22,0 --> 01:28:22,0
+
+
+1508
+01:28:22,0 --> 01:28:22,0
+
+
+1509
+01:28:22,0 --> 01:28:22,0
+
+
+1510
+01:28:22,0 --> 01:28:22,0
+
+
+1511
+01:28:22,0 --> 01:28:22,0
+
+
+1512
+01:28:22,0 --> 01:28:22,0
+
+
+1513
+01:28:22,0 --> 01:28:22,0
+
+
+1514
+01:28:22,0 --> 01:28:22,0
+
+
+1515
+01:28:22,0 --> 01:28:22,0
+
+
+1516
+01:28:22,0 --> 01:28:22,0
+
+
+1517
+01:28:22,0 --> 01:28:22,0
+
+
+1518
+01:28:22,0 --> 01:28:22,0
+
+
+1519
+01:28:22,0 --> 01:28:22,0
+
+
+1520
+01:28:22,0 --> 01:28:22,0
+disadvantages
+
+1521
+01:28:22,0 --> 01:28:22,0
+
+
+1522
+01:28:22,0 --> 01:28:22,0
+
+
+1523
+01:28:22,0 --> 01:28:22,0
+
+
+1524
+01:28:22,0 --> 01:28:22,0
+
+
+1525
+01:28:22,0 --> 01:28:22,0
+they
+
+1526
+01:28:22,0 --> 01:28:22,0
+
+
+1527
+01:28:22,0 --> 01:28:22,0
+
+
+1528
+01:28:22,0 --> 01:28:22,0
+
+
+1529
+01:28:22,0 --> 01:28:22,0
+
+
+1530
+01:28:22,0 --> 01:28:22,0
+
+
+1531
+01:28:22,0 --> 01:28:22,0
+
+
+1532
+01:28:22,0 --> 01:28:22,0
+
+
+1533
+01:28:22,0 --> 01:28:22,0
+labored
+
+1534
+01:28:22,0 --> 01:28:22,0
+
+
+1535
+01:28:22,0 --> 01:28:22,0
+
+
+1536
+01:28:22,0 --> 01:28:22,0
+
+
+1537
+01:28:22,0 --> 01:28:22,0
+
+
+1538
+01:28:22,0 --> 01:28:22,0
+
+
+1539
+01:28:22,0 --> 01:28:22,0
+
+
+1540
+01:28:22,0 --> 01:28:22,0
+under,
+
+1541
+01:28:22,0 --> 01:28:22,0
+
+
+1542
+01:28:22,0 --> 01:28:22,0
+
+
+1543
+01:28:22,0 --> 01:28:22,0
+by
+
+1544
+01:28:22,0 --> 01:28:22,0
+
+
+1545
+01:28:22,0 --> 01:28:22,0
+
+
+1546
+01:28:22,0 --> 01:28:22,0
+
+
+1547
+01:28:22,0 --> 01:28:22,0
+
+
+1548
+01:28:22,0 --> 01:28:22,0
+
+
+1549
+01:28:22,0 --> 01:28:22,0
+
+
+1550
+01:28:22,0 --> 01:28:22,0
+having
+
+1551
+01:28:22,0 --> 01:28:22,0
+
+
+1552
+01:28:22,0 --> 01:28:22,0
+
+
+1553
+01:28:22,0 --> 01:28:22,0
+an
+
+1554
+01:28:22,0 --> 01:28:22,0
+
+
+1555
+01:28:22,0 --> 01:28:22,0
+
+
+1556
+01:28:22,0 --> 01:28:22,0
+
+
+1557
+01:28:22,0 --> 01:28:22,0
+
+
+1558
+01:28:22,0 --> 01:28:22,0
+
+
+1559
+01:28:22,0 --> 01:28:22,0
+
+
+1560
+01:28:22,0 --> 01:28:22,0
+
+
+1561
+01:28:22,0 --> 01:28:22,0
+
+
+1562
+01:28:22,0 --> 01:28:22,0
+
+
+1563
+01:28:22,0 --> 01:28:22,0
+
+
+1564
+01:28:22,0 --> 01:28:22,0
+
+
+1565
+01:28:22,0 --> 01:28:22,0
+unrighteous
+
+1566
+01:28:22,0 --> 01:28:22,0
+
+
+1567
+01:28:22,0 --> 01:28:22,0
+
+
+1568
+01:28:22,0 --> 01:28:22,0
+
+
+1569
+01:28:22,0 --> 01:28:22,0
+
+
+1570
+01:28:22,0 --> 01:28:22,0
+king
+
+1571
+01:28:22,0 --> 01:28:22,0
+
+
+1572
+01:28:22,0 --> 01:28:22,0
+
+
+1573
+01:28:22,0 --> 01:28:22,0
+to
+
+1574
+01:28:22,0 --> 01:28:22,0
+
+
+1575
+01:28:22,0 --> 01:28:22,0
+
+
+1576
+01:28:22,0 --> 01:28:22,0
+
+
+1577
+01:28:22,0 --> 01:28:22,0
+
+
+1578
+01:28:22,0 --> 01:28:22,0
+rule
+
+1579
+01:28:22,0 --> 01:28:22,0
+
+
+1580
+01:28:22,0 --> 01:28:22,0
+
+
+1581
+01:28:22,0 --> 01:28:22,0
+
+
+1582
+01:28:22,0 --> 01:28:22,0
+
+
+1583
+01:28:22,0 --> 01:28:22,0
+over
+
+1584
+01:28:22,0 --> 01:28:22,0
+
+
+1585
+01:28:22,0 --> 01:28:22,0
+
+
+1586
+01:28:22,0 --> 01:28:22,0
+
+
+1587
+01:28:22,0 --> 01:28:22,0
+
+
+1588
+01:28:22,0 --> 01:28:22,0
+
+
+1589
+01:28:22,0 --> 01:31:53,
+them;
+
+1590
+01:31:53,0 --> 01:31:53,0
+36 Yea, all his iniquities and abominations, and all the wars, and contentions, and bloodshed, and the stealing, and the plundering, and the committing of whoredoms, and all manner of iniquities which cannot be enumerated—telling them that these things ought not to be, that they were expressly repugnant to the commandments of
+
+1591
+01:31:53,0 --> 01:31:53,0
+
+
+1592
+01:31:53,0 --> 01:31:53,0
+
+
+1593
+01:31:53,0 --> 01:31:53,0
+
+
+1594
+01:31:53,0 --> 01:31:53,0
+
+
+1595
+01:31:53,0 --> 01:31:53,0
+
+
+1596
+01:31:53,0 --> 01:31:53,0
+Yea,
+
+1597
+01:31:53,0 --> 01:31:53,0
+
+
+1598
+01:31:53,0 --> 01:31:53,0
+
+
+1599
+01:31:53,0 --> 01:31:53,0
+
+
+1600
+01:31:53,0 --> 01:31:53,0
+all
+
+1601
+01:31:53,0 --> 01:31:53,0
+
+
+1602
+01:31:53,0 --> 01:31:53,0
+
+
+1603
+01:31:53,0 --> 01:31:53,0
+
+
+1604
+01:31:53,0 --> 01:31:53,0
+his
+
+1605
+01:31:53,0 --> 01:31:53,0
+
+
+1606
+01:31:53,0 --> 01:31:53,0
+
+
+1607
+01:31:53,0 --> 01:31:53,0
+
+
+1608
+01:31:53,0 --> 01:31:53,0
+
+
+1609
+01:31:53,0 --> 01:31:53,0
+
+
+1610
+01:31:53,0 --> 01:31:53,0
+
+
+1611
+01:31:53,0 --> 01:31:53,0
+
+
+1612
+01:31:53,0 --> 01:31:53,0
+
+
+1613
+01:31:53,0 --> 01:31:53,0
+
+
+1614
+01:31:53,0 --> 01:31:53,0
+
+
+1615
+01:31:53,0 --> 01:31:53,0
+iniquities
+
+1616
+01:31:53,0 --> 01:31:53,0
+
+
+1617
+01:31:53,0 --> 01:31:53,0
+
+
+1618
+01:31:53,0 --> 01:31:53,0
+
+
+1619
+01:31:53,0 --> 01:31:53,0
+and
+
+1620
+01:31:53,0 --> 01:31:53,0
+
+
+1621
+01:31:53,0 --> 01:31:53,0
+
+
+1622
+01:31:53,0 --> 01:31:53,0
+
+
+1623
+01:31:53,0 --> 01:31:53,0
+
+
+1624
+01:31:53,0 --> 01:31:53,0
+
+
+1625
+01:31:53,0 --> 01:31:53,0
+
+
+1626
+01:31:53,0 --> 01:31:53,0
+
+
+1627
+01:31:53,0 --> 01:31:53,0
+
+
+1628
+01:31:53,0 --> 01:31:53,0
+
+
+1629
+01:31:53,0 --> 01:31:53,0
+
+
+1630
+01:31:53,0 --> 01:31:53,0
+
+
+1631
+01:31:53,0 --> 01:31:53,0
+
+
+1632
+01:31:53,0 --> 01:31:53,0
+
+
+1633
+01:31:53,0 --> 01:31:53,0
+abominations,
+
+1634
+01:31:53,0 --> 01:31:53,0
+
+
+1635
+01:31:53,0 --> 01:31:53,0
+
+
+1636
+01:31:53,0 --> 01:31:53,0
+
+
+1637
+01:31:53,0 --> 01:31:53,0
+and
+
+1638
+01:31:53,0 --> 01:31:53,0
+
+
+1639
+01:31:53,0 --> 01:31:53,0
+
+
+1640
+01:31:53,0 --> 01:31:53,0
+
+
+1641
+01:31:53,0 --> 01:31:53,0
+all
+
+1642
+01:31:53,0 --> 01:31:53,0
+
+
+1643
+01:31:53,0 --> 01:31:53,0
+
+
+1644
+01:31:53,0 --> 01:31:53,0
+
+
+1645
+01:31:53,0 --> 01:31:53,0
+the
+
+1646
+01:31:53,0 --> 01:31:53,0
+
+
+1647
+01:31:53,0 --> 01:31:53,0
+
+
+1648
+01:31:53,0 --> 01:31:53,0
+
+
+1649
+01:31:53,0 --> 01:31:53,0
+
+
+1650
+01:31:53,0 --> 01:31:53,0
+
+
+1651
+01:31:53,0 --> 01:31:53,0
+wars,
+
+1652
+01:31:53,0 --> 01:31:53,0
+
+
+1653
+01:31:53,0 --> 01:31:53,0
+
+
+1654
+01:31:53,0 --> 01:31:53,0
+
+
+1655
+01:31:53,0 --> 01:31:53,0
+and
+
+1656
+01:31:53,0 --> 01:31:53,0
+
+
+1657
+01:31:53,0 --> 01:31:53,0
+
+
+1658
+01:31:53,0 --> 01:31:53,0
+
+
+1659
+01:31:53,0 --> 01:31:53,0
+
+
+1660
+01:31:53,0 --> 01:31:53,0
+
+
+1661
+01:31:53,0 --> 01:31:53,0
+
+
+1662
+01:31:53,0 --> 01:31:53,0
+
+
+1663
+01:31:53,0 --> 01:31:53,0
+
+
+1664
+01:31:53,0 --> 01:31:53,0
+
+
+1665
+01:31:53,0 --> 01:31:53,0
+
+
+1666
+01:31:53,0 --> 01:31:53,0
+
+
+1667
+01:31:53,0 --> 01:31:53,0
+
+
+1668
+01:31:53,0 --> 01:31:53,0
+contentions,
+
+1669
+01:31:53,0 --> 01:31:53,0
+
+
+1670
+01:31:53,0 --> 01:31:53,0
+
+
+1671
+01:31:53,0 --> 01:31:53,0
+
+
+1672
+01:31:53,0 --> 01:31:53,0
+and
+
+1673
+01:31:53,0 --> 01:31:53,0
+
+
+1674
+01:31:53,0 --> 01:31:53,0
+
+
+1675
+01:31:53,0 --> 01:31:53,0
+
+
+1676
+01:31:53,0 --> 01:31:53,0
+
+
+1677
+01:31:53,0 --> 01:31:53,0
+
+
+1678
+01:31:53,0 --> 01:31:53,0
+
+
+1679
+01:31:53,0 --> 01:31:53,0
+
+
+1680
+01:31:53,0 --> 01:31:53,0
+
+
+1681
+01:31:53,0 --> 01:31:53,0
+
+
+1682
+01:31:53,0 --> 01:31:53,0
+
+
+1683
+01:31:53,0 --> 01:31:53,0
+bloodshed,
+
+1684
+01:31:53,0 --> 01:31:53,0
+
+
+1685
+01:31:53,0 --> 01:31:53,0
+
+
+1686
+01:31:53,0 --> 01:31:53,0
+
+
+1687
+01:31:53,0 --> 01:31:53,0
+and
+
+1688
+01:31:53,0 --> 01:31:53,0
+
+
+1689
+01:31:53,0 --> 01:31:53,0
+
+
+1690
+01:31:53,0 --> 01:31:53,0
+
+
+1691
+01:31:53,0 --> 01:31:53,0
+the
+
+1692
+01:31:53,0 --> 01:31:53,0
+
+
+1693
+01:31:53,0 --> 01:31:53,0
+
+
+1694
+01:31:53,0 --> 01:31:53,0
+
+
+1695
+01:31:53,0 --> 01:31:53,0
+
+
+1696
+01:31:53,0 --> 01:31:53,0
+
+
+1697
+01:31:53,0 --> 01:31:53,0
+
+
+1698
+01:31:53,0 --> 01:31:53,0
+
+
+1699
+01:31:53,0 --> 01:31:53,0
+
+
+1700
+01:31:53,0 --> 01:31:53,0
+
+
+1701
+01:31:53,0 --> 01:31:53,0
+stealing,
+
+1702
+01:31:53,0 --> 01:31:53,0
+
+
+1703
+01:31:53,0 --> 01:31:53,0
+
+
+1704
+01:31:53,0 --> 01:31:53,0
+
+
+1705
+01:31:53,0 --> 01:31:53,0
+and
+
+1706
+01:31:53,0 --> 01:31:53,0
+
+
+1707
+01:31:53,0 --> 01:31:53,0
+
+
+1708
+01:31:53,0 --> 01:31:53,0
+
+
+1709
+01:31:53,0 --> 01:31:53,0
+the
+
+1710
+01:31:53,0 --> 01:31:53,0
+
+
+1711
+01:31:53,0 --> 01:31:53,0
+
+
+1712
+01:31:53,0 --> 01:31:53,0
+
+
+1713
+01:31:53,0 --> 01:31:53,0
+
+
+1714
+01:31:53,0 --> 01:31:53,0
+
+
+1715
+01:31:53,0 --> 01:31:53,0
+
+
+1716
+01:31:53,0 --> 01:31:53,0
+
+
+1717
+01:31:53,0 --> 01:31:53,0
+
+
+1718
+01:31:53,0 --> 01:31:53,0
+
+
+1719
+01:31:53,0 --> 01:31:53,0
+
+
+1720
+01:31:53,0 --> 01:31:53,0
+
+
+1721
+01:31:53,0 --> 01:31:53,0
+plundering,
+
+1722
+01:31:53,0 --> 01:31:53,0
+
+
+1723
+01:31:53,0 --> 01:31:53,0
+
+
+1724
+01:31:53,0 --> 01:31:53,0
+
+
+1725
+01:31:53,0 --> 01:31:53,0
+and
+
+1726
+01:31:53,0 --> 01:31:53,0
+
+
+1727
+01:31:53,0 --> 01:31:53,0
+
+
+1728
+01:31:53,0 --> 01:31:53,0
+
+
+1729
+01:31:53,0 --> 01:31:53,0
+the
+
+1730
+01:31:53,0 --> 01:31:53,0
+
+
+1731
+01:31:53,0 --> 01:31:53,0
+
+
+1732
+01:31:53,0 --> 01:31:53,0
+
+
+1733
+01:31:53,0 --> 01:31:53,0
+
+
+1734
+01:31:53,0 --> 01:31:53,0
+
+
+1735
+01:31:53,0 --> 01:31:53,0
+
+
+1736
+01:31:53,0 --> 01:31:53,0
+
+
+1737
+01:31:53,0 --> 01:31:53,0
+
+
+1738
+01:31:53,0 --> 01:31:53,0
+
+
+1739
+01:31:53,0 --> 01:31:53,0
+
+
+1740
+01:31:53,0 --> 01:31:53,0
+committing
+
+1741
+01:31:53,0 --> 01:31:53,0
+
+
+1742
+01:31:53,0 --> 01:31:53,0
+
+
+1743
+01:31:53,0 --> 01:31:53,0
+of
+
+1744
+01:31:53,0 --> 01:31:53,0
+
+
+1745
+01:31:53,0 --> 01:31:53,0
+
+
+1746
+01:31:53,0 --> 01:31:53,0
+
+
+1747
+01:31:53,0 --> 01:31:53,0
+
+
+1748
+01:31:53,0 --> 01:31:53,0
+
+
+1749
+01:31:53,0 --> 01:31:53,0
+
+
+1750
+01:31:53,0 --> 01:31:53,0
+
+
+1751
+01:31:53,0 --> 01:31:53,0
+
+
+1752
+01:31:53,0 --> 01:31:53,0
+
+
+1753
+01:31:53,0 --> 01:31:53,0
+
+
+1754
+01:31:53,0 --> 01:31:53,0
+whoredoms,
+
+1755
+01:31:53,0 --> 01:31:53,0
+
+
+1756
+01:31:53,0 --> 01:31:53,0
+
+
+1757
+01:31:53,0 --> 01:31:53,0
+
+
+1758
+01:31:53,0 --> 01:31:53,0
+and
+
+1759
+01:31:53,0 --> 01:31:53,0
+
+
+1760
+01:31:53,0 --> 01:31:53,0
+
+
+1761
+01:31:53,0 --> 01:31:53,0
+
+
+1762
+01:31:53,0 --> 01:31:53,0
+all
+
+1763
+01:31:53,0 --> 01:31:53,0
+
+
+1764
+01:31:53,0 --> 01:31:53,0
+
+
+1765
+01:31:53,0 --> 01:31:53,0
+
+
+1766
+01:31:53,0 --> 01:31:53,0
+
+
+1767
+01:31:53,0 --> 01:31:53,0
+
+
+1768
+01:31:53,0 --> 01:31:53,0
+
+
+1769
+01:31:53,0 --> 01:31:53,0
+manner
+
+1770
+01:31:53,0 --> 01:31:53,0
+
+
+1771
+01:31:53,0 --> 01:31:53,0
+
+
+1772
+01:31:53,0 --> 01:31:53,0
+of
+
+1773
+01:31:53,0 --> 01:31:53,0
+
+
+1774
+01:31:53,0 --> 01:31:53,0
+
+
+1775
+01:31:53,0 --> 01:31:53,0
+
+
+1776
+01:31:53,0 --> 01:31:53,0
+
+
+1777
+01:31:53,0 --> 01:31:53,0
+
+
+1778
+01:31:53,0 --> 01:31:53,0
+
+
+1779
+01:31:53,0 --> 01:31:53,0
+
+
+1780
+01:31:53,0 --> 01:31:53,0
+
+
+1781
+01:31:53,0 --> 01:31:53,0
+
+
+1782
+01:31:53,0 --> 01:31:53,0
+
+
+1783
+01:31:53,0 --> 01:31:53,0
+iniquities
+
+1784
+01:31:53,0 --> 01:31:53,0
+
+
+1785
+01:31:53,0 --> 01:31:53,0
+
+
+1786
+01:31:53,0 --> 01:31:53,0
+
+
+1787
+01:31:53,0 --> 01:31:53,0
+
+
+1788
+01:31:53,0 --> 01:31:53,0
+
+
+1789
+01:31:53,0 --> 01:31:53,0
+which
+
+1790
+01:31:53,0 --> 01:31:53,0
+
+
+1791
+01:31:53,0 --> 01:31:53,0
+
+
+1792
+01:31:53,0 --> 01:31:53,0
+
+
+1793
+01:31:53,0 --> 01:31:53,0
+
+
+1794
+01:31:53,0 --> 01:31:53,0
+
+
+1795
+01:31:53,0 --> 01:31:53,0
+
+
+1796
+01:31:53,0 --> 01:31:53,0
+cannot
+
+1797
+01:31:53,0 --> 01:31:53,0
+
+
+1798
+01:31:53,0 --> 01:31:53,0
+
+
+1799
+01:31:53,0 --> 01:31:53,0
+be
+
+1800
+01:31:53,0 --> 01:31:53,0
+
+
+1801
+01:31:53,0 --> 01:31:53,0
+
+
+1802
+01:31:53,0 --> 01:31:53,0
+
+
+1803
+01:31:53,0 --> 01:31:53,0
+
+
+1804
+01:31:53,0 --> 01:31:53,0
+
+
+1805
+01:31:53,0 --> 01:31:53,0
+
+
+1806
+01:31:53,0 --> 01:31:53,0
+
+
+1807
+01:31:53,0 --> 01:31:53,0
+
+
+1808
+01:31:53,0 --> 01:31:53,0
+
+
+1809
+01:31:53,0 --> 01:31:53,0
+
+
+1810
+01:31:53,0 --> 01:31:53,0
+
+
+1811
+01:31:53,0 --> 01:31:53,0
+
+
+1812
+01:31:53,0 --> 01:31:53,0
+
+
+1813
+01:31:53,0 --> 01:31:53,0
+
+
+1814
+01:31:53,0 --> 01:31:53,0
+
+
+1815
+01:31:53,0 --> 01:31:53,0
+
+
+1816
+01:31:53,0 --> 01:31:53,0
+
+
+1817
+01:31:53,0 --> 01:31:53,0
+
+
+1818
+01:31:53,0 --> 01:31:53,0
+enumerated—telling
+
+1819
+01:31:53,0 --> 01:31:53,0
+
+
+1820
+01:31:53,0 --> 01:31:53,0
+
+
+1821
+01:31:53,0 --> 01:31:53,0
+
+
+1822
+01:31:53,0 --> 01:31:53,0
+
+
+1823
+01:31:53,0 --> 01:31:53,0
+them
+
+1824
+01:31:53,0 --> 01:31:53,0
+
+
+1825
+01:31:53,0 --> 01:31:53,0
+
+
+1826
+01:31:53,0 --> 01:31:53,0
+
+
+1827
+01:31:53,0 --> 01:31:53,0
+
+
+1828
+01:31:53,0 --> 01:31:53,0
+that
+
+1829
+01:31:53,0 --> 01:31:53,0
+
+
+1830
+01:31:53,0 --> 01:31:53,0
+
+
+1831
+01:31:53,0 --> 01:31:53,0
+
+
+1832
+01:31:53,0 --> 01:31:53,0
+
+
+1833
+01:31:53,0 --> 01:31:53,0
+
+
+1834
+01:31:53,0 --> 01:31:53,0
+these
+
+1835
+01:31:53,0 --> 01:31:53,0
+
+
+1836
+01:31:53,0 --> 01:31:53,0
+
+
+1837
+01:31:53,0 --> 01:31:53,0
+
+
+1838
+01:31:53,0 --> 01:31:53,0
+
+
+1839
+01:31:53,0 --> 01:31:53,0
+
+
+1840
+01:31:53,0 --> 01:31:53,0
+
+
+1841
+01:31:53,0 --> 01:31:53,0
+things
+
+1842
+01:31:53,0 --> 01:31:53,0
+
+
+1843
+01:31:53,0 --> 01:31:53,0
+
+
+1844
+01:31:53,0 --> 01:31:53,0
+
+
+1845
+01:31:53,0 --> 01:31:53,0
+
+
+1846
+01:31:53,0 --> 01:31:53,0
+
+
+1847
+01:31:53,0 --> 01:31:53,0
+ought
+
+1848
+01:31:53,0 --> 01:31:53,0
+
+
+1849
+01:31:53,0 --> 01:31:53,0
+
+
+1850
+01:31:53,0 --> 01:31:53,0
+
+
+1851
+01:31:53,0 --> 01:31:53,0
+not
+
+1852
+01:31:53,0 --> 01:31:53,0
+
+
+1853
+01:31:53,0 --> 01:31:53,0
+
+
+1854
+01:31:53,0 --> 01:31:53,0
+to
+
+1855
+01:31:53,0 --> 01:31:53,0
+
+
+1856
+01:31:53,0 --> 01:31:53,0
+
+
+1857
+01:31:53,0 --> 01:31:53,0
+
+
+1858
+01:31:53,0 --> 01:31:53,0
+be,
+
+1859
+01:31:53,0 --> 01:31:53,0
+
+
+1860
+01:31:53,0 --> 01:31:53,0
+
+
+1861
+01:31:53,0 --> 01:31:53,0
+
+
+1862
+01:31:53,0 --> 01:31:53,0
+
+
+1863
+01:31:53,0 --> 01:31:53,0
+that
+
+1864
+01:31:53,0 --> 01:31:53,0
+
+
+1865
+01:31:53,0 --> 01:31:53,0
+
+
+1866
+01:31:53,0 --> 01:31:53,0
+
+
+1867
+01:31:53,0 --> 01:31:53,0
+
+
+1868
+01:31:53,0 --> 01:31:53,0
+they
+
+1869
+01:31:53,0 --> 01:31:53,0
+
+
+1870
+01:31:53,0 --> 01:31:53,0
+
+
+1871
+01:31:53,0 --> 01:31:53,0
+
+
+1872
+01:31:53,0 --> 01:31:53,0
+
+
+1873
+01:31:53,0 --> 01:31:53,0
+were
+
+1874
+01:31:53,0 --> 01:31:53,0
+
+
+1875
+01:31:53,0 --> 01:31:53,0
+
+
+1876
+01:31:53,0 --> 01:31:53,0
+
+
+1877
+01:31:53,0 --> 01:31:53,0
+
+
+1878
+01:31:53,0 --> 01:31:53,0
+
+
+1879
+01:31:53,0 --> 01:31:53,0
+
+
+1880
+01:31:53,0 --> 01:31:53,0
+
+
+1881
+01:31:53,0 --> 01:31:53,0
+
+
+1882
+01:31:53,0 --> 01:31:53,0
+
+
+1883
+01:31:53,0 --> 01:31:53,0
+expressly
+
+1884
+01:31:53,0 --> 01:31:53,0
+
+
+1885
+01:31:53,0 --> 01:31:53,0
+
+
+1886
+01:31:53,0 --> 01:31:53,0
+
+
+1887
+01:31:53,0 --> 01:31:53,0
+
+
+1888
+01:31:53,0 --> 01:31:53,0
+
+
+1889
+01:31:53,0 --> 01:31:53,0
+
+
+1890
+01:31:53,0 --> 01:31:53,0
+
+
+1891
+01:31:53,0 --> 01:31:53,0
+
+
+1892
+01:31:53,0 --> 01:31:53,0
+
+
+1893
+01:31:53,0 --> 01:31:53,0
+repugnant
+
+1894
+01:31:53,0 --> 01:31:53,0
+
+
+1895
+01:31:53,0 --> 01:31:53,0
+
+
+1896
+01:31:53,0 --> 01:31:53,0
+to
+
+1897
+01:31:53,0 --> 01:31:53,0
+
+
+1898
+01:31:53,0 --> 01:31:53,0
+
+
+1899
+01:31:53,0 --> 01:31:53,0
+
+
+1900
+01:31:53,0 --> 01:31:53,0
+the
+
+1901
+01:31:53,0 --> 01:31:53,0
+
+
+1902
+01:31:53,0 --> 01:31:53,0
+
+
+1903
+01:31:53,0 --> 01:31:53,0
+
+
+1904
+01:31:53,0 --> 01:31:53,0
+
+
+1905
+01:31:53,0 --> 01:31:53,0
+
+
+1906
+01:31:53,0 --> 01:31:53,0
+
+
+1907
+01:31:53,0 --> 01:31:53,0
+
+
+1908
+01:31:53,0 --> 01:31:53,0
+
+
+1909
+01:31:53,0 --> 01:31:53,0
+
+
+1910
+01:31:53,0 --> 01:31:53,0
+
+
+1911
+01:31:53,0 --> 01:31:53,0
+
+
+1912
+01:31:53,0 --> 01:31:53,0
+
+
+1913
+01:31:53,0 --> 01:31:53,0
+commandments
+
+1914
+01:31:53,0 --> 01:31:53,0
+
+
+1915
+01:31:53,0 --> 01:31:53,0
+
+
+1916
+01:31:53,0 --> 01:31:53,0
+of
+
+1917
+01:31:53,0 --> 01:31:53,0
+
+
+1918
+01:31:53,0 --> 01:31:53,0
+
+
+1919
+01:31:53,0 --> 01:31:53,0
+
+
+1920
+01:31:53,0 --> 01:31:53,0
+
+
+1921
+01:31:53,0 --> 01:35:23,
+God.
+
+1922
+01:35:23,0 --> 01:35:23,0
+37 And now it came to pass, after king Mosiah had sent these things forth among the people they were convinced of the truth of his
+
+1923
+01:35:23,0 --> 01:35:23,0
+
+
+1924
+01:35:23,0 --> 01:35:23,0
+
+
+1925
+01:35:23,0 --> 01:35:23,0
+
+
+1926
+01:35:23,0 --> 01:35:23,0
+
+
+1927
+01:35:23,0 --> 01:35:23,0
+And
+
+1928
+01:35:23,0 --> 01:35:23,0
+
+
+1929
+01:35:23,0 --> 01:35:23,0
+
+
+1930
+01:35:23,0 --> 01:35:23,0
+
+
+1931
+01:35:23,0 --> 01:35:23,0
+now
+
+1932
+01:35:23,0 --> 01:35:23,0
+
+
+1933
+01:35:23,0 --> 01:35:23,0
+
+
+1934
+01:35:23,0 --> 01:35:23,0
+it
+
+1935
+01:35:23,0 --> 01:35:23,0
+
+
+1936
+01:35:23,0 --> 01:35:23,0
+
+
+1937
+01:35:23,0 --> 01:35:23,0
+
+
+1938
+01:35:23,0 --> 01:35:23,0
+
+
+1939
+01:35:23,0 --> 01:35:23,0
+came
+
+1940
+01:35:23,0 --> 01:35:23,0
+
+
+1941
+01:35:23,0 --> 01:35:23,0
+
+
+1942
+01:35:23,0 --> 01:35:23,0
+to
+
+1943
+01:35:23,0 --> 01:35:23,0
+
+
+1944
+01:35:23,0 --> 01:35:23,0
+
+
+1945
+01:35:23,0 --> 01:35:23,0
+
+
+1946
+01:35:23,0 --> 01:35:23,0
+
+
+1947
+01:35:23,0 --> 01:35:23,0
+
+
+1948
+01:35:23,0 --> 01:35:23,0
+pass,
+
+1949
+01:35:23,0 --> 01:35:23,0
+
+
+1950
+01:35:23,0 --> 01:35:23,0
+
+
+1951
+01:35:23,0 --> 01:35:23,0
+
+
+1952
+01:35:23,0 --> 01:35:23,0
+
+
+1953
+01:35:23,0 --> 01:35:23,0
+
+
+1954
+01:35:23,0 --> 01:35:23,0
+after
+
+1955
+01:35:23,0 --> 01:35:23,0
+
+
+1956
+01:35:23,0 --> 01:35:23,0
+
+
+1957
+01:35:23,0 --> 01:35:23,0
+
+
+1958
+01:35:23,0 --> 01:35:23,0
+
+
+1959
+01:35:23,0 --> 01:35:23,0
+king
+
+1960
+01:35:23,0 --> 01:35:23,0
+
+
+1961
+01:35:23,0 --> 01:35:23,0
+
+
+1962
+01:35:23,0 --> 01:35:23,0
+
+
+1963
+01:35:23,0 --> 01:35:23,0
+
+
+1964
+01:35:23,0 --> 01:35:23,0
+
+
+1965
+01:35:23,0 --> 01:35:23,0
+
+
+1966
+01:35:23,0 --> 01:35:23,0
+Mosiah
+
+1967
+01:35:23,0 --> 01:35:23,0
+
+
+1968
+01:35:23,0 --> 01:35:23,0
+
+
+1969
+01:35:23,0 --> 01:35:23,0
+
+
+1970
+01:35:23,0 --> 01:35:23,0
+had
+
+1971
+01:35:23,0 --> 01:35:23,0
+
+
+1972
+01:35:23,0 --> 01:35:23,0
+
+
+1973
+01:35:23,0 --> 01:35:23,0
+
+
+1974
+01:35:23,0 --> 01:35:23,0
+
+
+1975
+01:35:23,0 --> 01:35:23,0
+sent
+
+1976
+01:35:23,0 --> 01:35:23,0
+
+
+1977
+01:35:23,0 --> 01:35:23,0
+
+
+1978
+01:35:23,0 --> 01:35:23,0
+
+
+1979
+01:35:23,0 --> 01:35:23,0
+
+
+1980
+01:35:23,0 --> 01:35:23,0
+
+
+1981
+01:35:23,0 --> 01:35:23,0
+these
+
+1982
+01:35:23,0 --> 01:35:23,0
+
+
+1983
+01:35:23,0 --> 01:35:23,0
+
+
+1984
+01:35:23,0 --> 01:35:23,0
+
+
+1985
+01:35:23,0 --> 01:35:23,0
+
+
+1986
+01:35:23,0 --> 01:35:23,0
+
+
+1987
+01:35:23,0 --> 01:35:23,0
+
+
+1988
+01:35:23,0 --> 01:35:23,0
+things
+
+1989
+01:35:23,0 --> 01:35:23,0
+
+
+1990
+01:35:23,0 --> 01:35:23,0
+
+
+1991
+01:35:23,0 --> 01:35:23,0
+
+
+1992
+01:35:23,0 --> 01:35:23,0
+
+
+1993
+01:35:23,0 --> 01:35:23,0
+
+
+1994
+01:35:23,0 --> 01:35:23,0
+forth
+
+1995
+01:35:23,0 --> 01:35:23,0
+
+
+1996
+01:35:23,0 --> 01:35:23,0
+
+
+1997
+01:35:23,0 --> 01:35:23,0
+
+
+1998
+01:35:23,0 --> 01:35:23,0
+
+
+1999
+01:35:23,0 --> 01:35:23,0
+
+
+2000
+01:35:23,0 --> 01:35:23,0
+among
+
+2001
+01:35:23,0 --> 01:35:23,0
+
+
+2002
+01:35:23,0 --> 01:35:23,0
+
+
+2003
+01:35:23,0 --> 01:35:23,0
+
+
+2004
+01:35:23,0 --> 01:35:23,0
+the
+
+2005
+01:35:23,0 --> 01:35:23,0
+
+
+2006
+01:35:23,0 --> 01:35:23,0
+
+
+2007
+01:35:23,0 --> 01:35:23,0
+
+
+2008
+01:35:23,0 --> 01:35:23,0
+
+
+2009
+01:35:23,0 --> 01:35:23,0
+
+
+2010
+01:35:23,0 --> 01:35:23,0
+
+
+2011
+01:35:23,0 --> 01:35:23,0
+people
+
+2012
+01:35:23,0 --> 01:35:23,0
+
+
+2013
+01:35:23,0 --> 01:35:23,0
+
+
+2014
+01:35:23,0 --> 01:35:23,0
+
+
+2015
+01:35:23,0 --> 01:35:23,0
+
+
+2016
+01:35:23,0 --> 01:35:23,0
+they
+
+2017
+01:35:23,0 --> 01:35:23,0
+
+
+2018
+01:35:23,0 --> 01:35:23,0
+
+
+2019
+01:35:23,0 --> 01:35:23,0
+
+
+2020
+01:35:23,0 --> 01:35:23,0
+
+
+2021
+01:35:23,0 --> 01:35:23,0
+were
+
+2022
+01:35:23,0 --> 01:35:23,0
+
+
+2023
+01:35:23,0 --> 01:35:23,0
+
+
+2024
+01:35:23,0 --> 01:35:23,0
+
+
+2025
+01:35:23,0 --> 01:35:23,0
+
+
+2026
+01:35:23,0 --> 01:35:23,0
+
+
+2027
+01:35:23,0 --> 01:35:23,0
+
+
+2028
+01:35:23,0 --> 01:35:23,0
+
+
+2029
+01:35:23,0 --> 01:35:23,0
+
+
+2030
+01:35:23,0 --> 01:35:23,0
+
+
+2031
+01:35:23,0 --> 01:35:23,0
+convinced
+
+2032
+01:35:23,0 --> 01:35:23,0
+
+
+2033
+01:35:23,0 --> 01:35:23,0
+
+
+2034
+01:35:23,0 --> 01:35:23,0
+of
+
+2035
+01:35:23,0 --> 01:35:23,0
+
+
+2036
+01:35:23,0 --> 01:35:23,0
+
+
+2037
+01:35:23,0 --> 01:35:23,0
+
+
+2038
+01:35:23,0 --> 01:35:23,0
+the
+
+2039
+01:35:23,0 --> 01:35:23,0
+
+
+2040
+01:35:23,0 --> 01:35:23,0
+
+
+2041
+01:35:23,0 --> 01:35:23,0
+
+
+2042
+01:35:23,0 --> 01:35:23,0
+
+
+2043
+01:35:23,0 --> 01:35:23,0
+
+
+2044
+01:35:23,0 --> 01:35:23,0
+truth
+
+2045
+01:35:23,0 --> 01:35:23,0
+
+
+2046
+01:35:23,0 --> 01:35:23,0
+
+
+2047
+01:35:23,0 --> 01:35:23,0
+of
+
+2048
+01:35:23,0 --> 01:35:23,0
+
+
+2049
+01:35:23,0 --> 01:35:23,0
+
+
+2050
+01:35:23,0 --> 01:35:23,0
+
+
+2051
+01:35:23,0 --> 01:35:23,0
+his
+
+2052
+01:35:23,0 --> 01:35:23,0
+
+
+2053
+01:35:23,0 --> 01:35:23,0
+
+
+2054
+01:35:23,0 --> 01:35:23,0
+
+
+2055
+01:35:23,0 --> 01:35:23,0
+
+
+2056
+01:35:23,0 --> 01:35:23,0
+
+
+2057
+01:35:23,0 --> 01:35:23,0
+
+
+2058
+01:35:23,0 --> 01:39:22,
+words.
+
+2059
+01:39:22,0 --> 01:39:22,0
+38 Therefore they relinquished their desires for a king, and became exceedingly anxious that every man should have an equal chance throughout all the land; yea, and every man expressed a willingness to answer for his own
+
+2060
+01:39:22,0 --> 01:39:22,0
+
+
+2061
+01:39:22,0 --> 01:39:22,0
+
+
+2062
+01:39:22,0 --> 01:39:22,0
+
+
+2063
+01:39:22,0 --> 01:39:22,0
+
+
+2064
+01:39:22,0 --> 01:39:22,0
+
+
+2065
+01:39:22,0 --> 01:39:22,0
+
+
+2066
+01:39:22,0 --> 01:39:22,0
+
+
+2067
+01:39:22,0 --> 01:39:22,0
+
+
+2068
+01:39:22,0 --> 01:39:22,0
+
+
+2069
+01:39:22,0 --> 01:39:22,0
+
+
+2070
+01:39:22,0 --> 01:39:22,0
+Therefore
+
+2071
+01:39:22,0 --> 01:39:22,0
+
+
+2072
+01:39:22,0 --> 01:39:22,0
+
+
+2073
+01:39:22,0 --> 01:39:22,0
+
+
+2074
+01:39:22,0 --> 01:39:22,0
+
+
+2075
+01:39:22,0 --> 01:39:22,0
+they
+
+2076
+01:39:22,0 --> 01:39:22,0
+
+
+2077
+01:39:22,0 --> 01:39:22,0
+
+
+2078
+01:39:22,0 --> 01:39:22,0
+
+
+2079
+01:39:22,0 --> 01:39:22,0
+
+
+2080
+01:39:22,0 --> 01:39:22,0
+
+
+2081
+01:39:22,0 --> 01:39:22,0
+
+
+2082
+01:39:22,0 --> 01:39:22,0
+
+
+2083
+01:39:22,0 --> 01:39:22,0
+
+
+2084
+01:39:22,0 --> 01:39:22,0
+
+
+2085
+01:39:22,0 --> 01:39:22,0
+
+
+2086
+01:39:22,0 --> 01:39:22,0
+
+
+2087
+01:39:22,0 --> 01:39:22,0
+
+
+2088
+01:39:22,0 --> 01:39:22,0
+relinquished
+
+2089
+01:39:22,0 --> 01:39:22,0
+
+
+2090
+01:39:22,0 --> 01:39:22,0
+
+
+2091
+01:39:22,0 --> 01:39:22,0
+
+
+2092
+01:39:22,0 --> 01:39:22,0
+
+
+2093
+01:39:22,0 --> 01:39:22,0
+
+
+2094
+01:39:22,0 --> 01:39:22,0
+their
+
+2095
+01:39:22,0 --> 01:39:22,0
+
+
+2096
+01:39:22,0 --> 01:39:22,0
+
+
+2097
+01:39:22,0 --> 01:39:22,0
+
+
+2098
+01:39:22,0 --> 01:39:22,0
+
+
+2099
+01:39:22,0 --> 01:39:22,0
+
+
+2100
+01:39:22,0 --> 01:39:22,0
+
+
+2101
+01:39:22,0 --> 01:39:22,0
+
+
+2102
+01:39:22,0 --> 01:39:22,0
+desires
+
+2103
+01:39:22,0 --> 01:39:22,0
+
+
+2104
+01:39:22,0 --> 01:39:22,0
+
+
+2105
+01:39:22,0 --> 01:39:22,0
+
+
+2106
+01:39:22,0 --> 01:39:22,0
+for
+
+2107
+01:39:22,0 --> 01:39:22,0
+
+
+2108
+01:39:22,0 --> 01:39:22,0
+a
+
+2109
+01:39:22,0 --> 01:39:22,0
+
+
+2110
+01:39:22,0 --> 01:39:22,0
+
+
+2111
+01:39:22,0 --> 01:39:22,0
+
+
+2112
+01:39:22,0 --> 01:39:22,0
+
+
+2113
+01:39:22,0 --> 01:39:22,0
+
+
+2114
+01:39:22,0 --> 01:39:22,0
+king,
+
+2115
+01:39:22,0 --> 01:39:22,0
+
+
+2116
+01:39:22,0 --> 01:39:22,0
+
+
+2117
+01:39:22,0 --> 01:39:22,0
+
+
+2118
+01:39:22,0 --> 01:39:22,0
+and
+
+2119
+01:39:22,0 --> 01:39:22,0
+
+
+2120
+01:39:22,0 --> 01:39:22,0
+
+
+2121
+01:39:22,0 --> 01:39:22,0
+
+
+2122
+01:39:22,0 --> 01:39:22,0
+
+
+2123
+01:39:22,0 --> 01:39:22,0
+
+
+2124
+01:39:22,0 --> 01:39:22,0
+
+
+2125
+01:39:22,0 --> 01:39:22,0
+became
+
+2126
+01:39:22,0 --> 01:39:22,0
+
+
+2127
+01:39:22,0 --> 01:39:22,0
+
+
+2128
+01:39:22,0 --> 01:39:22,0
+
+
+2129
+01:39:22,0 --> 01:39:22,0
+
+
+2130
+01:39:22,0 --> 01:39:22,0
+
+
+2131
+01:39:22,0 --> 01:39:22,0
+
+
+2132
+01:39:22,0 --> 01:39:22,0
+
+
+2133
+01:39:22,0 --> 01:39:22,0
+
+
+2134
+01:39:22,0 --> 01:39:22,0
+
+
+2135
+01:39:22,0 --> 01:39:22,0
+
+
+2136
+01:39:22,0 --> 01:39:22,0
+
+
+2137
+01:39:22,0 --> 01:39:22,0
+exceedingly
+
+2138
+01:39:22,0 --> 01:39:22,0
+
+
+2139
+01:39:22,0 --> 01:39:22,0
+
+
+2140
+01:39:22,0 --> 01:39:22,0
+
+
+2141
+01:39:22,0 --> 01:39:22,0
+
+
+2142
+01:39:22,0 --> 01:39:22,0
+
+
+2143
+01:39:22,0 --> 01:39:22,0
+
+
+2144
+01:39:22,0 --> 01:39:22,0
+
+
+2145
+01:39:22,0 --> 01:39:22,0
+anxious
+
+2146
+01:39:22,0 --> 01:39:22,0
+
+
+2147
+01:39:22,0 --> 01:39:22,0
+
+
+2148
+01:39:22,0 --> 01:39:22,0
+
+
+2149
+01:39:22,0 --> 01:39:22,0
+
+
+2150
+01:39:22,0 --> 01:39:22,0
+that
+
+2151
+01:39:22,0 --> 01:39:22,0
+
+
+2152
+01:39:22,0 --> 01:39:22,0
+
+
+2153
+01:39:22,0 --> 01:39:22,0
+
+
+2154
+01:39:22,0 --> 01:39:22,0
+
+
+2155
+01:39:22,0 --> 01:39:22,0
+
+
+2156
+01:39:22,0 --> 01:39:22,0
+every
+
+2157
+01:39:22,0 --> 01:39:22,0
+
+
+2158
+01:39:22,0 --> 01:39:22,0
+
+
+2159
+01:39:22,0 --> 01:39:22,0
+
+
+2160
+01:39:22,0 --> 01:39:22,0
+man
+
+2161
+01:39:22,0 --> 01:39:22,0
+
+
+2162
+01:39:22,0 --> 01:39:22,0
+
+
+2163
+01:39:22,0 --> 01:39:22,0
+
+
+2164
+01:39:22,0 --> 01:39:22,0
+
+
+2165
+01:39:22,0 --> 01:39:22,0
+
+
+2166
+01:39:22,0 --> 01:39:22,0
+
+
+2167
+01:39:22,0 --> 01:39:22,0
+should
+
+2168
+01:39:22,0 --> 01:39:22,0
+
+
+2169
+01:39:22,0 --> 01:39:22,0
+
+
+2170
+01:39:22,0 --> 01:39:22,0
+
+
+2171
+01:39:22,0 --> 01:39:22,0
+
+
+2172
+01:39:22,0 --> 01:39:22,0
+have
+
+2173
+01:39:22,0 --> 01:39:22,0
+
+
+2174
+01:39:22,0 --> 01:39:22,0
+
+
+2175
+01:39:22,0 --> 01:39:22,0
+an
+
+2176
+01:39:22,0 --> 01:39:22,0
+
+
+2177
+01:39:22,0 --> 01:39:22,0
+
+
+2178
+01:39:22,0 --> 01:39:22,0
+
+
+2179
+01:39:22,0 --> 01:39:22,0
+
+
+2180
+01:39:22,0 --> 01:39:22,0
+
+
+2181
+01:39:22,0 --> 01:39:22,0
+equal
+
+2182
+01:39:22,0 --> 01:39:22,0
+
+
+2183
+01:39:22,0 --> 01:39:22,0
+
+
+2184
+01:39:22,0 --> 01:39:22,0
+
+
+2185
+01:39:22,0 --> 01:39:22,0
+
+
+2186
+01:39:22,0 --> 01:39:22,0
+
+
+2187
+01:39:22,0 --> 01:39:22,0
+
+
+2188
+01:39:22,0 --> 01:39:22,0
+chance
+
+2189
+01:39:22,0 --> 01:39:22,0
+
+
+2190
+01:39:22,0 --> 01:39:22,0
+
+
+2191
+01:39:22,0 --> 01:39:22,0
+
+
+2192
+01:39:22,0 --> 01:39:22,0
+
+
+2193
+01:39:22,0 --> 01:39:22,0
+
+
+2194
+01:39:22,0 --> 01:39:22,0
+
+
+2195
+01:39:22,0 --> 01:39:22,0
+
+
+2196
+01:39:22,0 --> 01:39:22,0
+
+
+2197
+01:39:22,0 --> 01:39:22,0
+
+
+2198
+01:39:22,0 --> 01:39:22,0
+
+
+2199
+01:39:22,0 --> 01:39:22,0
+throughout
+
+2200
+01:39:22,0 --> 01:39:22,0
+
+
+2201
+01:39:22,0 --> 01:39:22,0
+
+
+2202
+01:39:22,0 --> 01:39:22,0
+
+
+2203
+01:39:22,0 --> 01:39:22,0
+all
+
+2204
+01:39:22,0 --> 01:39:22,0
+
+
+2205
+01:39:22,0 --> 01:39:22,0
+
+
+2206
+01:39:22,0 --> 01:39:22,0
+
+
+2207
+01:39:22,0 --> 01:39:22,0
+the
+
+2208
+01:39:22,0 --> 01:39:22,0
+
+
+2209
+01:39:22,0 --> 01:39:22,0
+
+
+2210
+01:39:22,0 --> 01:39:22,0
+
+
+2211
+01:39:22,0 --> 01:39:22,0
+
+
+2212
+01:39:22,0 --> 01:39:22,0
+
+
+2213
+01:39:22,0 --> 01:39:22,0
+land;
+
+2214
+01:39:22,0 --> 01:39:22,0
+
+
+2215
+01:39:22,0 --> 01:39:22,0
+
+
+2216
+01:39:22,0 --> 01:39:22,0
+
+
+2217
+01:39:22,0 --> 01:39:22,0
+
+
+2218
+01:39:22,0 --> 01:39:22,0
+yea,
+
+2219
+01:39:22,0 --> 01:39:22,0
+
+
+2220
+01:39:22,0 --> 01:39:22,0
+
+
+2221
+01:39:22,0 --> 01:39:22,0
+
+
+2222
+01:39:22,0 --> 01:39:22,0
+and
+
+2223
+01:39:22,0 --> 01:39:22,0
+
+
+2224
+01:39:22,0 --> 01:39:22,0
+
+
+2225
+01:39:22,0 --> 01:39:22,0
+
+
+2226
+01:39:22,0 --> 01:39:22,0
+
+
+2227
+01:39:22,0 --> 01:39:22,0
+
+
+2228
+01:39:22,0 --> 01:39:22,0
+every
+
+2229
+01:39:22,0 --> 01:39:22,0
+
+
+2230
+01:39:22,0 --> 01:39:22,0
+
+
+2231
+01:39:22,0 --> 01:39:22,0
+
+
+2232
+01:39:22,0 --> 01:39:22,0
+man
+
+2233
+01:39:22,0 --> 01:39:22,0
+
+
+2234
+01:39:22,0 --> 01:39:22,0
+
+
+2235
+01:39:22,0 --> 01:39:22,0
+
+
+2236
+01:39:22,0 --> 01:39:22,0
+
+
+2237
+01:39:22,0 --> 01:39:22,0
+
+
+2238
+01:39:22,0 --> 01:39:22,0
+
+
+2239
+01:39:22,0 --> 01:39:22,0
+
+
+2240
+01:39:22,0 --> 01:39:22,0
+
+
+2241
+01:39:22,0 --> 01:39:22,0
+
+
+2242
+01:39:22,0 --> 01:39:22,0
+expressed
+
+2243
+01:39:22,0 --> 01:39:22,0
+
+
+2244
+01:39:22,0 --> 01:39:22,0
+a
+
+2245
+01:39:22,0 --> 01:39:22,0
+
+
+2246
+01:39:22,0 --> 01:39:22,0
+
+
+2247
+01:39:22,0 --> 01:39:22,0
+
+
+2248
+01:39:22,0 --> 01:39:22,0
+
+
+2249
+01:39:22,0 --> 01:39:22,0
+
+
+2250
+01:39:22,0 --> 01:39:22,0
+
+
+2251
+01:39:22,0 --> 01:39:22,0
+
+
+2252
+01:39:22,0 --> 01:39:22,0
+
+
+2253
+01:39:22,0 --> 01:39:22,0
+
+
+2254
+01:39:22,0 --> 01:39:22,0
+
+
+2255
+01:39:22,0 --> 01:39:22,0
+
+
+2256
+01:39:22,0 --> 01:39:22,0
+willingness
+
+2257
+01:39:22,0 --> 01:39:22,0
+
+
+2258
+01:39:22,0 --> 01:39:22,0
+
+
+2259
+01:39:22,0 --> 01:39:22,0
+to
+
+2260
+01:39:22,0 --> 01:39:22,0
+
+
+2261
+01:39:22,0 --> 01:39:22,0
+
+
+2262
+01:39:22,0 --> 01:39:22,0
+
+
+2263
+01:39:22,0 --> 01:39:22,0
+
+
+2264
+01:39:22,0 --> 01:39:22,0
+
+
+2265
+01:39:22,0 --> 01:39:22,0
+
+
+2266
+01:39:22,0 --> 01:39:22,0
+answer
+
+2267
+01:39:22,0 --> 01:39:22,0
+
+
+2268
+01:39:22,0 --> 01:39:22,0
+
+
+2269
+01:39:22,0 --> 01:39:22,0
+
+
+2270
+01:39:22,0 --> 01:39:22,0
+for
+
+2271
+01:39:22,0 --> 01:39:22,0
+
+
+2272
+01:39:22,0 --> 01:39:22,0
+
+
+2273
+01:39:22,0 --> 01:39:22,0
+
+
+2274
+01:39:22,0 --> 01:39:22,0
+his
+
+2275
+01:39:22,0 --> 01:39:22,0
+
+
+2276
+01:39:22,0 --> 01:39:22,0
+
+
+2277
+01:39:22,0 --> 01:39:22,0
+
+
+2278
+01:39:22,0 --> 01:39:22,0
+own
+
+2279
+01:39:22,0 --> 01:39:22,0
+
+
+2280
+01:39:22,0 --> 01:39:22,0
+
+
+2281
+01:39:22,0 --> 01:39:22,0
+
+
+2282
+01:39:22,0 --> 01:39:22,0
+
+
+2283
+01:39:22,0 --> 01:39:22,0
+
+
+2284
+01:39:22,0 --> 01:40:20,
+sins.
+
+2285
+01:40:20,0 --> 01:40:20,0
+39 Therefore, it came to pass that they assembled themselves together in bodies throughout the land, to cast in their voices concerning who should be their judges, to judge them according to the law which had been given them; and they were exceedingly rejoiced because of the liberty which had been granted unto
+
+2286
+01:40:20,0 --> 01:40:20,0
+
+
+2287
+01:40:20,0 --> 01:40:20,0
+
+
+2288
+01:40:20,0 --> 01:40:20,0
+
+
+2289
+01:40:20,0 --> 01:40:20,0
+
+
+2290
+01:40:20,0 --> 01:40:20,0
+
+
+2291
+01:40:20,0 --> 01:40:20,0
+
+
+2292
+01:40:20,0 --> 01:40:20,0
+
+
+2293
+01:40:20,0 --> 01:40:20,0
+
+
+2294
+01:40:20,0 --> 01:40:20,0
+
+
+2295
+01:40:20,0 --> 01:40:20,0
+
+
+2296
+01:40:20,0 --> 01:40:20,0
+
+
+2297
+01:40:20,0 --> 01:40:20,0
+Therefore,
+
+2298
+01:40:20,0 --> 01:40:20,0
+
+
+2299
+01:40:20,0 --> 01:40:20,0
+
+
+2300
+01:40:20,0 --> 01:40:20,0
+it
+
+2301
+01:40:20,0 --> 01:40:20,0
+
+
+2302
+01:40:20,0 --> 01:40:20,0
+
+
+2303
+01:40:20,0 --> 01:40:20,0
+
+
+2304
+01:40:20,0 --> 01:40:20,0
+
+
+2305
+01:40:20,0 --> 01:40:20,0
+came
+
+2306
+01:40:20,0 --> 01:40:20,0
+
+
+2307
+01:40:20,0 --> 01:40:20,0
+
+
+2308
+01:40:20,0 --> 01:40:20,0
+to
+
+2309
+01:40:20,0 --> 01:40:20,0
+
+
+2310
+01:40:20,0 --> 01:40:20,0
+
+
+2311
+01:40:20,0 --> 01:40:20,0
+
+
+2312
+01:40:20,0 --> 01:40:20,0
+
+
+2313
+01:40:20,0 --> 01:40:20,0
+pass
+
+2314
+01:40:20,0 --> 01:40:20,0
+
+
+2315
+01:40:20,0 --> 01:40:20,0
+
+
+2316
+01:40:20,0 --> 01:40:20,0
+
+
+2317
+01:40:20,0 --> 01:40:20,0
+
+
+2318
+01:40:20,0 --> 01:40:20,0
+that
+
+2319
+01:40:20,0 --> 01:40:20,0
+
+
+2320
+01:40:20,0 --> 01:40:20,0
+
+
+2321
+01:40:20,0 --> 01:40:20,0
+
+
+2322
+01:40:20,0 --> 01:40:20,0
+
+
+2323
+01:40:20,0 --> 01:40:20,0
+they
+
+2324
+01:40:20,0 --> 01:40:20,0
+
+
+2325
+01:40:20,0 --> 01:40:20,0
+
+
+2326
+01:40:20,0 --> 01:40:20,0
+
+
+2327
+01:40:20,0 --> 01:40:20,0
+
+
+2328
+01:40:20,0 --> 01:40:20,0
+
+
+2329
+01:40:20,0 --> 01:40:20,0
+
+
+2330
+01:40:20,0 --> 01:40:20,0
+
+
+2331
+01:40:20,0 --> 01:40:20,0
+
+
+2332
+01:40:20,0 --> 01:40:20,0
+
+
+2333
+01:40:20,0 --> 01:40:20,0
+assembled
+
+2334
+01:40:20,0 --> 01:40:20,0
+
+
+2335
+01:40:20,0 --> 01:40:20,0
+
+
+2336
+01:40:20,0 --> 01:40:20,0
+
+
+2337
+01:40:20,0 --> 01:40:20,0
+
+
+2338
+01:40:20,0 --> 01:40:20,0
+
+
+2339
+01:40:20,0 --> 01:40:20,0
+
+
+2340
+01:40:20,0 --> 01:40:20,0
+
+
+2341
+01:40:20,0 --> 01:40:20,0
+
+
+2342
+01:40:20,0 --> 01:40:20,0
+
+
+2343
+01:40:20,0 --> 01:40:20,0
+
+
+2344
+01:40:20,0 --> 01:40:20,0
+themselves
+
+2345
+01:40:20,0 --> 01:40:20,0
+
+
+2346
+01:40:20,0 --> 01:40:20,0
+
+
+2347
+01:40:20,0 --> 01:40:20,0
+
+
+2348
+01:40:20,0 --> 01:40:20,0
+
+
+2349
+01:40:20,0 --> 01:40:20,0
+
+
+2350
+01:40:20,0 --> 01:40:20,0
+
+
+2351
+01:40:20,0 --> 01:40:20,0
+
+
+2352
+01:40:20,0 --> 01:40:20,0
+
+
+2353
+01:40:20,0 --> 01:40:20,0
+together
+
+2354
+01:40:20,0 --> 01:40:20,0
+
+
+2355
+01:40:20,0 --> 01:40:20,0
+
+
+2356
+01:40:20,0 --> 01:40:20,0
+in
+
+2357
+01:40:20,0 --> 01:40:20,0
+
+
+2358
+01:40:20,0 --> 01:40:20,0
+
+
+2359
+01:40:20,0 --> 01:40:20,0
+
+
+2360
+01:40:20,0 --> 01:40:20,0
+
+
+2361
+01:40:20,0 --> 01:40:20,0
+
+
+2362
+01:40:20,0 --> 01:40:20,0
+
+
+2363
+01:40:20,0 --> 01:40:20,0
+bodies
+
+2364
+01:40:20,0 --> 01:40:20,0
+
+
+2365
+01:40:20,0 --> 01:40:20,0
+
+
+2366
+01:40:20,0 --> 01:40:20,0
+
+
+2367
+01:40:20,0 --> 01:40:20,0
+
+
+2368
+01:40:20,0 --> 01:40:20,0
+
+
+2369
+01:40:20,0 --> 01:40:20,0
+
+
+2370
+01:40:20,0 --> 01:40:20,0
+
+
+2371
+01:40:20,0 --> 01:40:20,0
+
+
+2372
+01:40:20,0 --> 01:40:20,0
+
+
+2373
+01:40:20,0 --> 01:40:20,0
+
+
+2374
+01:40:20,0 --> 01:40:20,0
+throughout
+
+2375
+01:40:20,0 --> 01:40:20,0
+
+
+2376
+01:40:20,0 --> 01:40:20,0
+
+
+2377
+01:40:20,0 --> 01:40:20,0
+
+
+2378
+01:40:20,0 --> 01:40:20,0
+the
+
+2379
+01:40:20,0 --> 01:40:20,0
+
+
+2380
+01:40:20,0 --> 01:40:20,0
+
+
+2381
+01:40:20,0 --> 01:40:20,0
+
+
+2382
+01:40:20,0 --> 01:40:20,0
+
+
+2383
+01:40:20,0 --> 01:40:20,0
+
+
+2384
+01:40:20,0 --> 01:40:20,0
+land,
+
+2385
+01:40:20,0 --> 01:40:20,0
+
+
+2386
+01:40:20,0 --> 01:40:20,0
+
+
+2387
+01:40:20,0 --> 01:40:20,0
+to
+
+2388
+01:40:20,0 --> 01:40:20,0
+
+
+2389
+01:40:20,0 --> 01:40:20,0
+
+
+2390
+01:40:20,0 --> 01:40:20,0
+
+
+2391
+01:40:20,0 --> 01:40:20,0
+
+
+2392
+01:40:20,0 --> 01:40:20,0
+cast
+
+2393
+01:40:20,0 --> 01:40:20,0
+
+
+2394
+01:40:20,0 --> 01:40:20,0
+
+
+2395
+01:40:20,0 --> 01:40:20,0
+in
+
+2396
+01:40:20,0 --> 01:40:20,0
+
+
+2397
+01:40:20,0 --> 01:40:20,0
+
+
+2398
+01:40:20,0 --> 01:40:20,0
+
+
+2399
+01:40:20,0 --> 01:40:20,0
+
+
+2400
+01:40:20,0 --> 01:40:20,0
+
+
+2401
+01:40:20,0 --> 01:40:20,0
+their
+
+2402
+01:40:20,0 --> 01:40:20,0
+
+
+2403
+01:40:20,0 --> 01:40:20,0
+
+
+2404
+01:40:20,0 --> 01:40:20,0
+
+
+2405
+01:40:20,0 --> 01:40:20,0
+
+
+2406
+01:40:20,0 --> 01:40:20,0
+
+
+2407
+01:40:20,0 --> 01:40:20,0
+
+
+2408
+01:40:20,0 --> 01:40:20,0
+voices
+
+2409
+01:40:20,0 --> 01:40:20,0
+
+
+2410
+01:40:20,0 --> 01:40:20,0
+
+
+2411
+01:40:20,0 --> 01:40:20,0
+
+
+2412
+01:40:20,0 --> 01:40:20,0
+
+
+2413
+01:40:20,0 --> 01:40:20,0
+
+
+2414
+01:40:20,0 --> 01:40:20,0
+
+
+2415
+01:40:20,0 --> 01:40:20,0
+
+
+2416
+01:40:20,0 --> 01:40:20,0
+
+
+2417
+01:40:20,0 --> 01:40:20,0
+
+
+2418
+01:40:20,0 --> 01:40:20,0
+
+
+2419
+01:40:20,0 --> 01:40:20,0
+concerning
+
+2420
+01:40:20,0 --> 01:40:20,0
+
+
+2421
+01:40:20,0 --> 01:40:20,0
+
+
+2422
+01:40:20,0 --> 01:40:20,0
+
+
+2423
+01:40:20,0 --> 01:40:20,0
+who
+
+2424
+01:40:20,0 --> 01:40:20,0
+
+
+2425
+01:40:20,0 --> 01:40:20,0
+
+
+2426
+01:40:20,0 --> 01:40:20,0
+
+
+2427
+01:40:20,0 --> 01:40:20,0
+
+
+2428
+01:40:20,0 --> 01:40:20,0
+
+
+2429
+01:40:20,0 --> 01:40:20,0
+
+
+2430
+01:40:20,0 --> 01:40:20,0
+should
+
+2431
+01:40:20,0 --> 01:40:20,0
+
+
+2432
+01:40:20,0 --> 01:40:20,0
+
+
+2433
+01:40:20,0 --> 01:40:20,0
+be
+
+2434
+01:40:20,0 --> 01:40:20,0
+
+
+2435
+01:40:20,0 --> 01:40:20,0
+
+
+2436
+01:40:20,0 --> 01:40:20,0
+
+
+2437
+01:40:20,0 --> 01:40:20,0
+
+
+2438
+01:40:20,0 --> 01:40:20,0
+
+
+2439
+01:40:20,0 --> 01:40:20,0
+their
+
+2440
+01:40:20,0 --> 01:40:20,0
+
+
+2441
+01:40:20,0 --> 01:40:20,0
+
+
+2442
+01:40:20,0 --> 01:40:20,0
+
+
+2443
+01:40:20,0 --> 01:40:20,0
+
+
+2444
+01:40:20,0 --> 01:40:20,0
+
+
+2445
+01:40:20,0 --> 01:40:20,0
+
+
+2446
+01:40:20,0 --> 01:40:20,0
+
+
+2447
+01:40:20,0 --> 01:40:20,0
+judges,
+
+2448
+01:40:20,0 --> 01:40:20,0
+
+
+2449
+01:40:20,0 --> 01:40:20,0
+
+
+2450
+01:40:20,0 --> 01:40:20,0
+to
+
+2451
+01:40:20,0 --> 01:40:20,0
+
+
+2452
+01:40:20,0 --> 01:40:20,0
+
+
+2453
+01:40:20,0 --> 01:40:20,0
+
+
+2454
+01:40:20,0 --> 01:40:20,0
+
+
+2455
+01:40:20,0 --> 01:40:20,0
+
+
+2456
+01:40:20,0 --> 01:40:20,0
+judge
+
+2457
+01:40:20,0 --> 01:40:20,0
+
+
+2458
+01:40:20,0 --> 01:40:20,0
+
+
+2459
+01:40:20,0 --> 01:40:20,0
+
+
+2460
+01:40:20,0 --> 01:40:20,0
+
+
+2461
+01:40:20,0 --> 01:40:20,0
+them
+
+2462
+01:40:20,0 --> 01:40:20,0
+
+
+2463
+01:40:20,0 --> 01:40:20,0
+
+
+2464
+01:40:20,0 --> 01:40:20,0
+
+
+2465
+01:40:20,0 --> 01:40:20,0
+
+
+2466
+01:40:20,0 --> 01:40:20,0
+
+
+2467
+01:40:20,0 --> 01:40:20,0
+
+
+2468
+01:40:20,0 --> 01:40:20,0
+
+
+2469
+01:40:20,0 --> 01:40:20,0
+
+
+2470
+01:40:20,0 --> 01:40:20,0
+
+
+2471
+01:40:20,0 --> 01:40:20,0
+according
+
+2472
+01:40:20,0 --> 01:40:20,0
+
+
+2473
+01:40:20,0 --> 01:40:20,0
+
+
+2474
+01:40:20,0 --> 01:40:20,0
+to
+
+2475
+01:40:20,0 --> 01:40:20,0
+
+
+2476
+01:40:20,0 --> 01:40:20,0
+
+
+2477
+01:40:20,0 --> 01:40:20,0
+
+
+2478
+01:40:20,0 --> 01:40:20,0
+the
+
+2479
+01:40:20,0 --> 01:40:20,0
+
+
+2480
+01:40:20,0 --> 01:40:20,0
+
+
+2481
+01:40:20,0 --> 01:40:20,0
+
+
+2482
+01:40:20,0 --> 01:40:20,0
+law
+
+2483
+01:40:20,0 --> 01:40:20,0
+
+
+2484
+01:40:20,0 --> 01:40:20,0
+
+
+2485
+01:40:20,0 --> 01:40:20,0
+
+
+2486
+01:40:20,0 --> 01:40:20,0
+
+
+2487
+01:40:20,0 --> 01:40:20,0
+
+
+2488
+01:40:20,0 --> 01:40:20,0
+which
+
+2489
+01:40:20,0 --> 01:40:20,0
+
+
+2490
+01:40:20,0 --> 01:40:20,0
+
+
+2491
+01:40:20,0 --> 01:40:20,0
+
+
+2492
+01:40:20,0 --> 01:40:20,0
+had
+
+2493
+01:40:20,0 --> 01:40:20,0
+
+
+2494
+01:40:20,0 --> 01:40:20,0
+
+
+2495
+01:40:20,0 --> 01:40:20,0
+
+
+2496
+01:40:20,0 --> 01:40:20,0
+
+
+2497
+01:40:20,0 --> 01:40:20,0
+been
+
+2498
+01:40:20,0 --> 01:40:20,0
+
+
+2499
+01:40:20,0 --> 01:40:20,0
+
+
+2500
+01:40:20,0 --> 01:40:20,0
+
+
+2501
+01:40:20,0 --> 01:40:20,0
+
+
+2502
+01:40:20,0 --> 01:40:20,0
+
+
+2503
+01:40:20,0 --> 01:40:20,0
+given
+
+2504
+01:40:20,0 --> 01:40:20,0
+
+
+2505
+01:40:20,0 --> 01:40:20,0
+
+
+2506
+01:40:20,0 --> 01:40:20,0
+
+
+2507
+01:40:20,0 --> 01:40:20,0
+
+
+2508
+01:40:20,0 --> 01:40:20,0
+
+
+2509
+01:40:20,0 --> 01:40:20,0
+them;
+
+2510
+01:40:20,0 --> 01:40:20,0
+
+
+2511
+01:40:20,0 --> 01:40:20,0
+
+
+2512
+01:40:20,0 --> 01:40:20,0
+
+
+2513
+01:40:20,0 --> 01:40:20,0
+and
+
+2514
+01:40:20,0 --> 01:40:20,0
+
+
+2515
+01:40:20,0 --> 01:40:20,0
+
+
+2516
+01:40:20,0 --> 01:40:20,0
+
+
+2517
+01:40:20,0 --> 01:40:20,0
+
+
+2518
+01:40:20,0 --> 01:40:20,0
+they
+
+2519
+01:40:20,0 --> 01:40:20,0
+
+
+2520
+01:40:20,0 --> 01:40:20,0
+
+
+2521
+01:40:20,0 --> 01:40:20,0
+
+
+2522
+01:40:20,0 --> 01:40:20,0
+
+
+2523
+01:40:20,0 --> 01:40:20,0
+were
+
+2524
+01:40:20,0 --> 01:40:20,0
+
+
+2525
+01:40:20,0 --> 01:40:20,0
+
+
+2526
+01:40:20,0 --> 01:40:20,0
+
+
+2527
+01:40:20,0 --> 01:40:20,0
+
+
+2528
+01:40:20,0 --> 01:40:20,0
+
+
+2529
+01:40:20,0 --> 01:40:20,0
+
+
+2530
+01:40:20,0 --> 01:40:20,0
+
+
+2531
+01:40:20,0 --> 01:40:20,0
+
+
+2532
+01:40:20,0 --> 01:40:20,0
+
+
+2533
+01:40:20,0 --> 01:40:20,0
+
+
+2534
+01:40:20,0 --> 01:40:20,0
+
+
+2535
+01:40:20,0 --> 01:40:20,0
+exceedingly
+
+2536
+01:40:20,0 --> 01:40:20,0
+
+
+2537
+01:40:20,0 --> 01:40:20,0
+
+
+2538
+01:40:20,0 --> 01:40:20,0
+
+
+2539
+01:40:20,0 --> 01:40:20,0
+
+
+2540
+01:40:20,0 --> 01:40:20,0
+
+
+2541
+01:40:20,0 --> 01:40:20,0
+
+
+2542
+01:40:20,0 --> 01:40:20,0
+
+
+2543
+01:40:20,0 --> 01:40:20,0
+
+
+2544
+01:40:20,0 --> 01:40:20,0
+rejoiced
+
+2545
+01:40:20,0 --> 01:40:20,0
+
+
+2546
+01:40:20,0 --> 01:40:20,0
+
+
+2547
+01:40:20,0 --> 01:40:20,0
+
+
+2548
+01:40:20,0 --> 01:40:20,0
+
+
+2549
+01:40:20,0 --> 01:40:20,0
+
+
+2550
+01:40:20,0 --> 01:40:20,0
+
+
+2551
+01:40:20,0 --> 01:40:20,0
+
+
+2552
+01:40:20,0 --> 01:40:20,0
+because
+
+2553
+01:40:20,0 --> 01:40:20,0
+
+
+2554
+01:40:20,0 --> 01:40:20,0
+
+
+2555
+01:40:20,0 --> 01:40:20,0
+of
+
+2556
+01:40:20,0 --> 01:40:20,0
+
+
+2557
+01:40:20,0 --> 01:40:20,0
+
+
+2558
+01:40:20,0 --> 01:40:20,0
+
+
+2559
+01:40:20,0 --> 01:40:20,0
+the
+
+2560
+01:40:20,0 --> 01:40:20,0
+
+
+2561
+01:40:20,0 --> 01:40:20,0
+
+
+2562
+01:40:20,0 --> 01:40:20,0
+
+
+2563
+01:40:20,0 --> 01:40:20,0
+
+
+2564
+01:40:20,0 --> 01:40:20,0
+
+
+2565
+01:40:20,0 --> 01:40:20,0
+
+
+2566
+01:40:20,0 --> 01:40:20,0
+
+
+2567
+01:40:20,0 --> 01:40:20,0
+liberty
+
+2568
+01:40:20,0 --> 01:40:20,0
+
+
+2569
+01:40:20,0 --> 01:40:20,0
+
+
+2570
+01:40:20,0 --> 01:40:20,0
+
+
+2571
+01:40:20,0 --> 01:40:20,0
+
+
+2572
+01:40:20,0 --> 01:40:20,0
+
+
+2573
+01:40:20,0 --> 01:40:20,0
+which
+
+2574
+01:40:20,0 --> 01:40:20,0
+
+
+2575
+01:40:20,0 --> 01:40:20,0
+
+
+2576
+01:40:20,0 --> 01:40:20,0
+
+
+2577
+01:40:20,0 --> 01:40:20,0
+had
+
+2578
+01:40:20,0 --> 01:40:20,0
+
+
+2579
+01:40:20,0 --> 01:40:20,0
+
+
+2580
+01:40:20,0 --> 01:40:20,0
+
+
+2581
+01:40:20,0 --> 01:40:20,0
+
+
+2582
+01:40:20,0 --> 01:40:20,0
+been
+
+2583
+01:40:20,0 --> 01:40:20,0
+
+
+2584
+01:40:20,0 --> 01:40:20,0
+
+
+2585
+01:40:20,0 --> 01:40:20,0
+
+
+2586
+01:40:20,0 --> 01:40:20,0
+
+
+2587
+01:40:20,0 --> 01:40:20,0
+
+
+2588
+01:40:20,0 --> 01:40:20,0
+
+
+2589
+01:40:20,0 --> 01:40:20,0
+
+
+2590
+01:40:20,0 --> 01:40:20,0
+granted
+
+2591
+01:40:20,0 --> 01:40:20,0
+
+
+2592
+01:40:20,0 --> 01:40:20,0
+
+
+2593
+01:40:20,0 --> 01:40:20,0
+
+
+2594
+01:40:20,0 --> 01:40:20,0
+
+
+2595
+01:40:20,0 --> 01:40:20,0
+unto
+
+2596
+01:40:20,0 --> 01:40:20,0
+
+
+2597
+01:40:20,0 --> 01:40:20,0
+
+
+2598
+01:40:20,0 --> 01:40:20,0
+
+
+2599
+01:40:20,0 --> 01:40:20,0
+
+
+2600
+01:40:20,0 --> 01:40:20,0
+
+
+2601
+01:40:20,0 --> 01:45:03,
+them.
+
+2602
+01:45:03,0 --> 01:45:03,0
+40 And they did wax strong in love towards Mosiah; yea, they did esteem him more than any other man; for they did not look upon him as a tyrant who was seeking for gain, yea, for that lucre which doth corrupt the soul; for he had not exacted riches of them, neither had he delighted in the shedding of blood; but he had established peace in the land, and he had granted unto his people that they should be delivered from all manner of bondage; therefore they did esteem him, yea, exceedingly, beyond
+
+2603
+01:45:03,0 --> 01:45:03,0
+
+
+2604
+01:45:03,0 --> 01:45:03,0
+
+
+2605
+01:45:03,0 --> 01:45:03,0
+
+
+2606
+01:45:03,0 --> 01:45:03,0
+
+
+2607
+01:45:03,0 --> 01:45:03,0
+And
+
+2608
+01:45:03,0 --> 01:45:03,0
+
+
+2609
+01:45:03,0 --> 01:45:03,0
+
+
+2610
+01:45:03,0 --> 01:45:03,0
+
+
+2611
+01:45:03,0 --> 01:45:03,0
+
+
+2612
+01:45:03,0 --> 01:45:03,0
+they
+
+2613
+01:45:03,0 --> 01:45:03,0
+
+
+2614
+01:45:03,0 --> 01:45:03,0
+
+
+2615
+01:45:03,0 --> 01:45:03,0
+
+
+2616
+01:45:03,0 --> 01:45:03,0
+did
+
+2617
+01:45:03,0 --> 01:45:03,0
+
+
+2618
+01:45:03,0 --> 01:45:03,0
+
+
+2619
+01:45:03,0 --> 01:45:03,0
+
+
+2620
+01:45:03,0 --> 01:45:03,0
+wax
+
+2621
+01:45:03,0 --> 01:45:03,0
+
+
+2622
+01:45:03,0 --> 01:45:03,0
+
+
+2623
+01:45:03,0 --> 01:45:03,0
+
+
+2624
+01:45:03,0 --> 01:45:03,0
+
+
+2625
+01:45:03,0 --> 01:45:03,0
+
+
+2626
+01:45:03,0 --> 01:45:03,0
+
+
+2627
+01:45:03,0 --> 01:45:03,0
+strong
+
+2628
+01:45:03,0 --> 01:45:03,0
+
+
+2629
+01:45:03,0 --> 01:45:03,0
+
+
+2630
+01:45:03,0 --> 01:45:03,0
+in
+
+2631
+01:45:03,0 --> 01:45:03,0
+
+
+2632
+01:45:03,0 --> 01:45:03,0
+
+
+2633
+01:45:03,0 --> 01:45:03,0
+
+
+2634
+01:45:03,0 --> 01:45:03,0
+
+
+2635
+01:45:03,0 --> 01:45:03,0
+love
+
+2636
+01:45:03,0 --> 01:45:03,0
+
+
+2637
+01:45:03,0 --> 01:45:03,0
+
+
+2638
+01:45:03,0 --> 01:45:03,0
+
+
+2639
+01:45:03,0 --> 01:45:03,0
+
+
+2640
+01:45:03,0 --> 01:45:03,0
+
+
+2641
+01:45:03,0 --> 01:45:03,0
+
+
+2642
+01:45:03,0 --> 01:45:03,0
+
+
+2643
+01:45:03,0 --> 01:45:03,0
+towards
+
+2644
+01:45:03,0 --> 01:45:03,0
+
+
+2645
+01:45:03,0 --> 01:45:03,0
+
+
+2646
+01:45:03,0 --> 01:45:03,0
+
+
+2647
+01:45:03,0 --> 01:45:03,0
+
+
+2648
+01:45:03,0 --> 01:45:03,0
+
+
+2649
+01:45:03,0 --> 01:45:03,0
+
+
+2650
+01:45:03,0 --> 01:45:03,0
+
+
+2651
+01:45:03,0 --> 01:45:03,0
+Mosiah;
+
+2652
+01:45:03,0 --> 01:45:03,0
+
+
+2653
+01:45:03,0 --> 01:45:03,0
+
+
+2654
+01:45:03,0 --> 01:45:03,0
+
+
+2655
+01:45:03,0 --> 01:45:03,0
+
+
+2656
+01:45:03,0 --> 01:45:03,0
+yea,
+
+2657
+01:45:03,0 --> 01:45:03,0
+
+
+2658
+01:45:03,0 --> 01:45:03,0
+
+
+2659
+01:45:03,0 --> 01:45:03,0
+
+
+2660
+01:45:03,0 --> 01:45:03,0
+
+
+2661
+01:45:03,0 --> 01:45:03,0
+they
+
+2662
+01:45:03,0 --> 01:45:03,0
+
+
+2663
+01:45:03,0 --> 01:45:03,0
+
+
+2664
+01:45:03,0 --> 01:45:03,0
+
+
+2665
+01:45:03,0 --> 01:45:03,0
+did
+
+2666
+01:45:03,0 --> 01:45:03,0
+
+
+2667
+01:45:03,0 --> 01:45:03,0
+
+
+2668
+01:45:03,0 --> 01:45:03,0
+
+
+2669
+01:45:03,0 --> 01:45:03,0
+
+
+2670
+01:45:03,0 --> 01:45:03,0
+
+
+2671
+01:45:03,0 --> 01:45:03,0
+
+
+2672
+01:45:03,0 --> 01:45:03,0
+esteem
+
+2673
+01:45:03,0 --> 01:45:03,0
+
+
+2674
+01:45:03,0 --> 01:45:03,0
+
+
+2675
+01:45:03,0 --> 01:45:03,0
+
+
+2676
+01:45:03,0 --> 01:45:03,0
+him
+
+2677
+01:45:03,0 --> 01:45:03,0
+
+
+2678
+01:45:03,0 --> 01:45:03,0
+
+
+2679
+01:45:03,0 --> 01:45:03,0
+
+
+2680
+01:45:03,0 --> 01:45:03,0
+
+
+2681
+01:45:03,0 --> 01:45:03,0
+more
+
+2682
+01:45:03,0 --> 01:45:03,0
+
+
+2683
+01:45:03,0 --> 01:45:03,0
+
+
+2684
+01:45:03,0 --> 01:45:03,0
+
+
+2685
+01:45:03,0 --> 01:45:03,0
+
+
+2686
+01:45:03,0 --> 01:45:03,0
+than
+
+2687
+01:45:03,0 --> 01:45:03,0
+
+
+2688
+01:45:03,0 --> 01:45:03,0
+
+
+2689
+01:45:03,0 --> 01:45:03,0
+
+
+2690
+01:45:03,0 --> 01:45:03,0
+any
+
+2691
+01:45:03,0 --> 01:45:03,0
+
+
+2692
+01:45:03,0 --> 01:45:03,0
+
+
+2693
+01:45:03,0 --> 01:45:03,0
+
+
+2694
+01:45:03,0 --> 01:45:03,0
+
+
+2695
+01:45:03,0 --> 01:45:03,0
+
+
+2696
+01:45:03,0 --> 01:45:03,0
+other
+
+2697
+01:45:03,0 --> 01:45:03,0
+
+
+2698
+01:45:03,0 --> 01:45:03,0
+
+
+2699
+01:45:03,0 --> 01:45:03,0
+
+
+2700
+01:45:03,0 --> 01:45:03,0
+
+
+2701
+01:45:03,0 --> 01:45:03,0
+man;
+
+2702
+01:45:03,0 --> 01:45:03,0
+
+
+2703
+01:45:03,0 --> 01:45:03,0
+
+
+2704
+01:45:03,0 --> 01:45:03,0
+
+
+2705
+01:45:03,0 --> 01:45:03,0
+for
+
+2706
+01:45:03,0 --> 01:45:03,0
+
+
+2707
+01:45:03,0 --> 01:45:03,0
+
+
+2708
+01:45:03,0 --> 01:45:03,0
+
+
+2709
+01:45:03,0 --> 01:45:03,0
+
+
+2710
+01:45:03,0 --> 01:45:03,0
+they
+
+2711
+01:45:03,0 --> 01:45:03,0
+
+
+2712
+01:45:03,0 --> 01:45:03,0
+
+
+2713
+01:45:03,0 --> 01:45:03,0
+
+
+2714
+01:45:03,0 --> 01:45:03,0
+did
+
+2715
+01:45:03,0 --> 01:45:03,0
+
+
+2716
+01:45:03,0 --> 01:45:03,0
+
+
+2717
+01:45:03,0 --> 01:45:03,0
+
+
+2718
+01:45:03,0 --> 01:45:03,0
+not
+
+2719
+01:45:03,0 --> 01:45:03,0
+
+
+2720
+01:45:03,0 --> 01:45:03,0
+
+
+2721
+01:45:03,0 --> 01:45:03,0
+
+
+2722
+01:45:03,0 --> 01:45:03,0
+
+
+2723
+01:45:03,0 --> 01:45:03,0
+look
+
+2724
+01:45:03,0 --> 01:45:03,0
+
+
+2725
+01:45:03,0 --> 01:45:03,0
+
+
+2726
+01:45:03,0 --> 01:45:03,0
+
+
+2727
+01:45:03,0 --> 01:45:03,0
+
+
+2728
+01:45:03,0 --> 01:45:03,0
+upon
+
+2729
+01:45:03,0 --> 01:45:03,0
+
+
+2730
+01:45:03,0 --> 01:45:03,0
+
+
+2731
+01:45:03,0 --> 01:45:03,0
+
+
+2732
+01:45:03,0 --> 01:45:03,0
+him
+
+2733
+01:45:03,0 --> 01:45:03,0
+
+
+2734
+01:45:03,0 --> 01:45:03,0
+
+
+2735
+01:45:03,0 --> 01:45:03,0
+as
+
+2736
+01:45:03,0 --> 01:45:03,0
+
+
+2737
+01:45:03,0 --> 01:45:03,0
+a
+
+2738
+01:45:03,0 --> 01:45:03,0
+
+
+2739
+01:45:03,0 --> 01:45:03,0
+
+
+2740
+01:45:03,0 --> 01:45:03,0
+
+
+2741
+01:45:03,0 --> 01:45:03,0
+
+
+2742
+01:45:03,0 --> 01:45:03,0
+
+
+2743
+01:45:03,0 --> 01:45:03,0
+
+
+2744
+01:45:03,0 --> 01:45:03,0
+tyrant
+
+2745
+01:45:03,0 --> 01:45:03,0
+
+
+2746
+01:45:03,0 --> 01:45:03,0
+
+
+2747
+01:45:03,0 --> 01:45:03,0
+
+
+2748
+01:45:03,0 --> 01:45:03,0
+who
+
+2749
+01:45:03,0 --> 01:45:03,0
+
+
+2750
+01:45:03,0 --> 01:45:03,0
+
+
+2751
+01:45:03,0 --> 01:45:03,0
+
+
+2752
+01:45:03,0 --> 01:45:03,0
+was
+
+2753
+01:45:03,0 --> 01:45:03,0
+
+
+2754
+01:45:03,0 --> 01:45:03,0
+
+
+2755
+01:45:03,0 --> 01:45:03,0
+
+
+2756
+01:45:03,0 --> 01:45:03,0
+
+
+2757
+01:45:03,0 --> 01:45:03,0
+
+
+2758
+01:45:03,0 --> 01:45:03,0
+
+
+2759
+01:45:03,0 --> 01:45:03,0
+
+
+2760
+01:45:03,0 --> 01:45:03,0
+seeking
+
+2761
+01:45:03,0 --> 01:45:03,0
+
+
+2762
+01:45:03,0 --> 01:45:03,0
+
+
+2763
+01:45:03,0 --> 01:45:03,0
+
+
+2764
+01:45:03,0 --> 01:45:03,0
+for
+
+2765
+01:45:03,0 --> 01:45:03,0
+
+
+2766
+01:45:03,0 --> 01:45:03,0
+
+
+2767
+01:45:03,0 --> 01:45:03,0
+
+
+2768
+01:45:03,0 --> 01:45:03,0
+
+
+2769
+01:45:03,0 --> 01:45:03,0
+
+
+2770
+01:45:03,0 --> 01:45:03,0
+gain,
+
+2771
+01:45:03,0 --> 01:45:03,0
+
+
+2772
+01:45:03,0 --> 01:45:03,0
+
+
+2773
+01:45:03,0 --> 01:45:03,0
+
+
+2774
+01:45:03,0 --> 01:45:03,0
+
+
+2775
+01:45:03,0 --> 01:45:03,0
+yea,
+
+2776
+01:45:03,0 --> 01:45:03,0
+
+
+2777
+01:45:03,0 --> 01:45:03,0
+
+
+2778
+01:45:03,0 --> 01:45:03,0
+
+
+2779
+01:45:03,0 --> 01:45:03,0
+for
+
+2780
+01:45:03,0 --> 01:45:03,0
+
+
+2781
+01:45:03,0 --> 01:45:03,0
+
+
+2782
+01:45:03,0 --> 01:45:03,0
+
+
+2783
+01:45:03,0 --> 01:45:03,0
+
+
+2784
+01:45:03,0 --> 01:45:03,0
+that
+
+2785
+01:45:03,0 --> 01:45:03,0
+
+
+2786
+01:45:03,0 --> 01:45:03,0
+
+
+2787
+01:45:03,0 --> 01:45:03,0
+
+
+2788
+01:45:03,0 --> 01:45:03,0
+
+
+2789
+01:45:03,0 --> 01:45:03,0
+
+
+2790
+01:45:03,0 --> 01:45:03,0
+lucre
+
+2791
+01:45:03,0 --> 01:45:03,0
+
+
+2792
+01:45:03,0 --> 01:45:03,0
+
+
+2793
+01:45:03,0 --> 01:45:03,0
+
+
+2794
+01:45:03,0 --> 01:45:03,0
+
+
+2795
+01:45:03,0 --> 01:45:03,0
+
+
+2796
+01:45:03,0 --> 01:45:03,0
+which
+
+2797
+01:45:03,0 --> 01:45:03,0
+
+
+2798
+01:45:03,0 --> 01:45:03,0
+
+
+2799
+01:45:03,0 --> 01:45:03,0
+
+
+2800
+01:45:03,0 --> 01:45:03,0
+
+
+2801
+01:45:03,0 --> 01:45:03,0
+doth
+
+2802
+01:45:03,0 --> 01:45:03,0
+
+
+2803
+01:45:03,0 --> 01:45:03,0
+
+
+2804
+01:45:03,0 --> 01:45:03,0
+
+
+2805
+01:45:03,0 --> 01:45:03,0
+
+
+2806
+01:45:03,0 --> 01:45:03,0
+
+
+2807
+01:45:03,0 --> 01:45:03,0
+
+
+2808
+01:45:03,0 --> 01:45:03,0
+
+
+2809
+01:45:03,0 --> 01:45:03,0
+corrupt
+
+2810
+01:45:03,0 --> 01:45:03,0
+
+
+2811
+01:45:03,0 --> 01:45:03,0
+
+
+2812
+01:45:03,0 --> 01:45:03,0
+
+
+2813
+01:45:03,0 --> 01:45:03,0
+the
+
+2814
+01:45:03,0 --> 01:45:03,0
+
+
+2815
+01:45:03,0 --> 01:45:03,0
+
+
+2816
+01:45:03,0 --> 01:45:03,0
+
+
+2817
+01:45:03,0 --> 01:45:03,0
+
+
+2818
+01:45:03,0 --> 01:45:03,0
+
+
+2819
+01:45:03,0 --> 01:45:03,0
+soul;
+
+2820
+01:45:03,0 --> 01:45:03,0
+
+
+2821
+01:45:03,0 --> 01:45:03,0
+
+
+2822
+01:45:03,0 --> 01:45:03,0
+
+
+2823
+01:45:03,0 --> 01:45:03,0
+for
+
+2824
+01:45:03,0 --> 01:45:03,0
+
+
+2825
+01:45:03,0 --> 01:45:03,0
+
+
+2826
+01:45:03,0 --> 01:45:03,0
+he
+
+2827
+01:45:03,0 --> 01:45:03,0
+
+
+2828
+01:45:03,0 --> 01:45:03,0
+
+
+2829
+01:45:03,0 --> 01:45:03,0
+
+
+2830
+01:45:03,0 --> 01:45:03,0
+had
+
+2831
+01:45:03,0 --> 01:45:03,0
+
+
+2832
+01:45:03,0 --> 01:45:03,0
+
+
+2833
+01:45:03,0 --> 01:45:03,0
+
+
+2834
+01:45:03,0 --> 01:45:03,0
+not
+
+2835
+01:45:03,0 --> 01:45:03,0
+
+
+2836
+01:45:03,0 --> 01:45:03,0
+
+
+2837
+01:45:03,0 --> 01:45:03,0
+
+
+2838
+01:45:03,0 --> 01:45:03,0
+
+
+2839
+01:45:03,0 --> 01:45:03,0
+
+
+2840
+01:45:03,0 --> 01:45:03,0
+
+
+2841
+01:45:03,0 --> 01:45:03,0
+
+
+2842
+01:45:03,0 --> 01:45:03,0
+exacted
+
+2843
+01:45:03,0 --> 01:45:03,0
+
+
+2844
+01:45:03,0 --> 01:45:03,0
+
+
+2845
+01:45:03,0 --> 01:45:03,0
+
+
+2846
+01:45:03,0 --> 01:45:03,0
+
+
+2847
+01:45:03,0 --> 01:45:03,0
+
+
+2848
+01:45:03,0 --> 01:45:03,0
+
+
+2849
+01:45:03,0 --> 01:45:03,0
+riches
+
+2850
+01:45:03,0 --> 01:45:03,0
+
+
+2851
+01:45:03,0 --> 01:45:03,0
+
+
+2852
+01:45:03,0 --> 01:45:03,0
+of
+
+2853
+01:45:03,0 --> 01:45:03,0
+
+
+2854
+01:45:03,0 --> 01:45:03,0
+
+
+2855
+01:45:03,0 --> 01:45:03,0
+
+
+2856
+01:45:03,0 --> 01:45:03,0
+
+
+2857
+01:45:03,0 --> 01:45:03,0
+
+
+2858
+01:45:03,0 --> 01:45:03,0
+them,
+
+2859
+01:45:03,0 --> 01:45:03,0
+
+
+2860
+01:45:03,0 --> 01:45:03,0
+
+
+2861
+01:45:03,0 --> 01:45:03,0
+
+
+2862
+01:45:03,0 --> 01:45:03,0
+
+
+2863
+01:45:03,0 --> 01:45:03,0
+
+
+2864
+01:45:03,0 --> 01:45:03,0
+
+
+2865
+01:45:03,0 --> 01:45:03,0
+
+
+2866
+01:45:03,0 --> 01:45:03,0
+neither
+
+2867
+01:45:03,0 --> 01:45:03,0
+
+
+2868
+01:45:03,0 --> 01:45:03,0
+
+
+2869
+01:45:03,0 --> 01:45:03,0
+
+
+2870
+01:45:03,0 --> 01:45:03,0
+had
+
+2871
+01:45:03,0 --> 01:45:03,0
+
+
+2872
+01:45:03,0 --> 01:45:03,0
+
+
+2873
+01:45:03,0 --> 01:45:03,0
+he
+
+2874
+01:45:03,0 --> 01:45:03,0
+
+
+2875
+01:45:03,0 --> 01:45:03,0
+
+
+2876
+01:45:03,0 --> 01:45:03,0
+
+
+2877
+01:45:03,0 --> 01:45:03,0
+
+
+2878
+01:45:03,0 --> 01:45:03,0
+
+
+2879
+01:45:03,0 --> 01:45:03,0
+
+
+2880
+01:45:03,0 --> 01:45:03,0
+
+
+2881
+01:45:03,0 --> 01:45:03,0
+
+
+2882
+01:45:03,0 --> 01:45:03,0
+
+
+2883
+01:45:03,0 --> 01:45:03,0
+delighted
+
+2884
+01:45:03,0 --> 01:45:03,0
+
+
+2885
+01:45:03,0 --> 01:45:03,0
+
+
+2886
+01:45:03,0 --> 01:45:03,0
+in
+
+2887
+01:45:03,0 --> 01:45:03,0
+
+
+2888
+01:45:03,0 --> 01:45:03,0
+
+
+2889
+01:45:03,0 --> 01:45:03,0
+
+
+2890
+01:45:03,0 --> 01:45:03,0
+the
+
+2891
+01:45:03,0 --> 01:45:03,0
+
+
+2892
+01:45:03,0 --> 01:45:03,0
+
+
+2893
+01:45:03,0 --> 01:45:03,0
+
+
+2894
+01:45:03,0 --> 01:45:03,0
+
+
+2895
+01:45:03,0 --> 01:45:03,0
+
+
+2896
+01:45:03,0 --> 01:45:03,0
+
+
+2897
+01:45:03,0 --> 01:45:03,0
+
+
+2898
+01:45:03,0 --> 01:45:03,0
+
+
+2899
+01:45:03,0 --> 01:45:03,0
+shedding
+
+2900
+01:45:03,0 --> 01:45:03,0
+
+
+2901
+01:45:03,0 --> 01:45:03,0
+
+
+2902
+01:45:03,0 --> 01:45:03,0
+of
+
+2903
+01:45:03,0 --> 01:45:03,0
+
+
+2904
+01:45:03,0 --> 01:45:03,0
+
+
+2905
+01:45:03,0 --> 01:45:03,0
+
+
+2906
+01:45:03,0 --> 01:45:03,0
+
+
+2907
+01:45:03,0 --> 01:45:03,0
+
+
+2908
+01:45:03,0 --> 01:45:03,0
+
+
+2909
+01:45:03,0 --> 01:45:03,0
+blood;
+
+2910
+01:45:03,0 --> 01:45:03,0
+
+
+2911
+01:45:03,0 --> 01:45:03,0
+
+
+2912
+01:45:03,0 --> 01:45:03,0
+
+
+2913
+01:45:03,0 --> 01:45:03,0
+but
+
+2914
+01:45:03,0 --> 01:45:03,0
+
+
+2915
+01:45:03,0 --> 01:45:03,0
+
+
+2916
+01:45:03,0 --> 01:45:03,0
+he
+
+2917
+01:45:03,0 --> 01:45:03,0
+
+
+2918
+01:45:03,0 --> 01:45:03,0
+
+
+2919
+01:45:03,0 --> 01:45:03,0
+
+
+2920
+01:45:03,0 --> 01:45:03,0
+had
+
+2921
+01:45:03,0 --> 01:45:03,0
+
+
+2922
+01:45:03,0 --> 01:45:03,0
+
+
+2923
+01:45:03,0 --> 01:45:03,0
+
+
+2924
+01:45:03,0 --> 01:45:03,0
+
+
+2925
+01:45:03,0 --> 01:45:03,0
+
+
+2926
+01:45:03,0 --> 01:45:03,0
+
+
+2927
+01:45:03,0 --> 01:45:03,0
+
+
+2928
+01:45:03,0 --> 01:45:03,0
+
+
+2929
+01:45:03,0 --> 01:45:03,0
+
+
+2930
+01:45:03,0 --> 01:45:03,0
+
+
+2931
+01:45:03,0 --> 01:45:03,0
+
+
+2932
+01:45:03,0 --> 01:45:03,0
+established
+
+2933
+01:45:03,0 --> 01:45:03,0
+
+
+2934
+01:45:03,0 --> 01:45:03,0
+
+
+2935
+01:45:03,0 --> 01:45:03,0
+
+
+2936
+01:45:03,0 --> 01:45:03,0
+
+
+2937
+01:45:03,0 --> 01:45:03,0
+
+
+2938
+01:45:03,0 --> 01:45:03,0
+peace
+
+2939
+01:45:03,0 --> 01:45:03,0
+
+
+2940
+01:45:03,0 --> 01:45:03,0
+
+
+2941
+01:45:03,0 --> 01:45:03,0
+in
+
+2942
+01:45:03,0 --> 01:45:03,0
+
+
+2943
+01:45:03,0 --> 01:45:03,0
+
+
+2944
+01:45:03,0 --> 01:45:03,0
+
+
+2945
+01:45:03,0 --> 01:45:03,0
+the
+
+2946
+01:45:03,0 --> 01:45:03,0
+
+
+2947
+01:45:03,0 --> 01:45:03,0
+
+
+2948
+01:45:03,0 --> 01:45:03,0
+
+
+2949
+01:45:03,0 --> 01:45:03,0
+
+
+2950
+01:45:03,0 --> 01:45:03,0
+
+
+2951
+01:45:03,0 --> 01:45:03,0
+land,
+
+2952
+01:45:03,0 --> 01:45:03,0
+
+
+2953
+01:45:03,0 --> 01:45:03,0
+
+
+2954
+01:45:03,0 --> 01:45:03,0
+
+
+2955
+01:45:03,0 --> 01:45:03,0
+and
+
+2956
+01:45:03,0 --> 01:45:03,0
+
+
+2957
+01:45:03,0 --> 01:45:03,0
+
+
+2958
+01:45:03,0 --> 01:45:03,0
+he
+
+2959
+01:45:03,0 --> 01:45:03,0
+
+
+2960
+01:45:03,0 --> 01:45:03,0
+
+
+2961
+01:45:03,0 --> 01:45:03,0
+
+
+2962
+01:45:03,0 --> 01:45:03,0
+had
+
+2963
+01:45:03,0 --> 01:45:03,0
+
+
+2964
+01:45:03,0 --> 01:45:03,0
+
+
+2965
+01:45:03,0 --> 01:45:03,0
+
+
+2966
+01:45:03,0 --> 01:45:03,0
+
+
+2967
+01:45:03,0 --> 01:45:03,0
+
+
+2968
+01:45:03,0 --> 01:45:03,0
+
+
+2969
+01:45:03,0 --> 01:45:03,0
+
+
+2970
+01:45:03,0 --> 01:45:03,0
+granted
+
+2971
+01:45:03,0 --> 01:45:03,0
+
+
+2972
+01:45:03,0 --> 01:45:03,0
+
+
+2973
+01:45:03,0 --> 01:45:03,0
+
+
+2974
+01:45:03,0 --> 01:45:03,0
+
+
+2975
+01:45:03,0 --> 01:45:03,0
+unto
+
+2976
+01:45:03,0 --> 01:45:03,0
+
+
+2977
+01:45:03,0 --> 01:45:03,0
+
+
+2978
+01:45:03,0 --> 01:45:03,0
+
+
+2979
+01:45:03,0 --> 01:45:03,0
+his
+
+2980
+01:45:03,0 --> 01:45:03,0
+
+
+2981
+01:45:03,0 --> 01:45:03,0
+
+
+2982
+01:45:03,0 --> 01:45:03,0
+
+
+2983
+01:45:03,0 --> 01:45:03,0
+
+
+2984
+01:45:03,0 --> 01:45:03,0
+
+
+2985
+01:45:03,0 --> 01:45:03,0
+
+
+2986
+01:45:03,0 --> 01:45:03,0
+people
+
+2987
+01:45:03,0 --> 01:45:03,0
+
+
+2988
+01:45:03,0 --> 01:45:03,0
+
+
+2989
+01:45:03,0 --> 01:45:03,0
+
+
+2990
+01:45:03,0 --> 01:45:03,0
+
+
+2991
+01:45:03,0 --> 01:45:03,0
+that
+
+2992
+01:45:03,0 --> 01:45:03,0
+
+
+2993
+01:45:03,0 --> 01:45:03,0
+
+
+2994
+01:45:03,0 --> 01:45:03,0
+
+
+2995
+01:45:03,0 --> 01:45:03,0
+
+
+2996
+01:45:03,0 --> 01:45:03,0
+they
+
+2997
+01:45:03,0 --> 01:45:03,0
+
+
+2998
+01:45:03,0 --> 01:45:03,0
+
+
+2999
+01:45:03,0 --> 01:45:03,0
+
+
+3000
+01:45:03,0 --> 01:45:03,0
+
+
+3001
+01:45:03,0 --> 01:45:03,0
+
+
+3002
+01:45:03,0 --> 01:45:03,0
+
+
+3003
+01:45:03,0 --> 01:45:03,0
+should
+
+3004
+01:45:03,0 --> 01:45:03,0
+
+
+3005
+01:45:03,0 --> 01:45:03,0
+
+
+3006
+01:45:03,0 --> 01:45:03,0
+be
+
+3007
+01:45:03,0 --> 01:45:03,0
+
+
+3008
+01:45:03,0 --> 01:45:03,0
+
+
+3009
+01:45:03,0 --> 01:45:03,0
+
+
+3010
+01:45:03,0 --> 01:45:03,0
+
+
+3011
+01:45:03,0 --> 01:45:03,0
+
+
+3012
+01:45:03,0 --> 01:45:03,0
+
+
+3013
+01:45:03,0 --> 01:45:03,0
+
+
+3014
+01:45:03,0 --> 01:45:03,0
+
+
+3015
+01:45:03,0 --> 01:45:03,0
+
+
+3016
+01:45:03,0 --> 01:45:03,0
+delivered
+
+3017
+01:45:03,0 --> 01:45:03,0
+
+
+3018
+01:45:03,0 --> 01:45:03,0
+
+
+3019
+01:45:03,0 --> 01:45:03,0
+
+
+3020
+01:45:03,0 --> 01:45:03,0
+
+
+3021
+01:45:03,0 --> 01:45:03,0
+from
+
+3022
+01:45:03,0 --> 01:45:03,0
+
+
+3023
+01:45:03,0 --> 01:45:03,0
+
+
+3024
+01:45:03,0 --> 01:45:03,0
+
+
+3025
+01:45:03,0 --> 01:45:03,0
+all
+
+3026
+01:45:03,0 --> 01:45:03,0
+
+
+3027
+01:45:03,0 --> 01:45:03,0
+
+
+3028
+01:45:03,0 --> 01:45:03,0
+
+
+3029
+01:45:03,0 --> 01:45:03,0
+
+
+3030
+01:45:03,0 --> 01:45:03,0
+
+
+3031
+01:45:03,0 --> 01:45:03,0
+
+
+3032
+01:45:03,0 --> 01:45:03,0
+manner
+
+3033
+01:45:03,0 --> 01:45:03,0
+
+
+3034
+01:45:03,0 --> 01:45:03,0
+
+
+3035
+01:45:03,0 --> 01:45:03,0
+of
+
+3036
+01:45:03,0 --> 01:45:03,0
+
+
+3037
+01:45:03,0 --> 01:45:03,0
+
+
+3038
+01:45:03,0 --> 01:45:03,0
+
+
+3039
+01:45:03,0 --> 01:45:03,0
+
+
+3040
+01:45:03,0 --> 01:45:03,0
+
+
+3041
+01:45:03,0 --> 01:45:03,0
+
+
+3042
+01:45:03,0 --> 01:45:03,0
+
+
+3043
+01:45:03,0 --> 01:45:03,0
+
+
+3044
+01:45:03,0 --> 01:45:03,0
+bondage;
+
+3045
+01:45:03,0 --> 01:45:03,0
+
+
+3046
+01:45:03,0 --> 01:45:03,0
+
+
+3047
+01:45:03,0 --> 01:45:03,0
+
+
+3048
+01:45:03,0 --> 01:45:03,0
+
+
+3049
+01:45:03,0 --> 01:45:03,0
+
+
+3050
+01:45:03,0 --> 01:45:03,0
+
+
+3051
+01:45:03,0 --> 01:45:03,0
+
+
+3052
+01:45:03,0 --> 01:45:03,0
+
+
+3053
+01:45:03,0 --> 01:45:03,0
+
+
+3054
+01:45:03,0 --> 01:45:03,0
+therefore
+
+3055
+01:45:03,0 --> 01:45:03,0
+
+
+3056
+01:45:03,0 --> 01:45:03,0
+
+
+3057
+01:45:03,0 --> 01:45:03,0
+
+
+3058
+01:45:03,0 --> 01:45:03,0
+
+
+3059
+01:45:03,0 --> 01:45:03,0
+they
+
+3060
+01:45:03,0 --> 01:45:03,0
+
+
+3061
+01:45:03,0 --> 01:45:03,0
+
+
+3062
+01:45:03,0 --> 01:45:03,0
+
+
+3063
+01:45:03,0 --> 01:45:03,0
+did
+
+3064
+01:45:03,0 --> 01:45:03,0
+
+
+3065
+01:45:03,0 --> 01:45:03,0
+
+
+3066
+01:45:03,0 --> 01:45:03,0
+
+
+3067
+01:45:03,0 --> 01:45:03,0
+
+
+3068
+01:45:03,0 --> 01:45:03,0
+
+
+3069
+01:45:03,0 --> 01:45:03,0
+
+
+3070
+01:45:03,0 --> 01:45:03,0
+esteem
+
+3071
+01:45:03,0 --> 01:45:03,0
+
+
+3072
+01:45:03,0 --> 01:45:03,0
+
+
+3073
+01:45:03,0 --> 01:45:03,0
+
+
+3074
+01:45:03,0 --> 01:45:03,0
+
+
+3075
+01:45:03,0 --> 01:45:03,0
+him,
+
+3076
+01:45:03,0 --> 01:45:03,0
+
+
+3077
+01:45:03,0 --> 01:45:03,0
+
+
+3078
+01:45:03,0 --> 01:45:03,0
+
+
+3079
+01:45:03,0 --> 01:45:03,0
+
+
+3080
+01:45:03,0 --> 01:45:03,0
+yea,
+
+3081
+01:45:03,0 --> 01:45:03,0
+
+
+3082
+01:45:03,0 --> 01:45:03,0
+
+
+3083
+01:45:03,0 --> 01:45:03,0
+
+
+3084
+01:45:03,0 --> 01:45:03,0
+
+
+3085
+01:45:03,0 --> 01:45:03,0
+
+
+3086
+01:45:03,0 --> 01:45:03,0
+
+
+3087
+01:45:03,0 --> 01:45:03,0
+
+
+3088
+01:45:03,0 --> 01:45:03,0
+
+
+3089
+01:45:03,0 --> 01:45:03,0
+
+
+3090
+01:45:03,0 --> 01:45:03,0
+
+
+3091
+01:45:03,0 --> 01:45:03,0
+
+
+3092
+01:45:03,0 --> 01:45:03,0
+
+
+3093
+01:45:03,0 --> 01:45:03,0
+exceedingly,
+
+3094
+01:45:03,0 --> 01:45:03,0
+
+
+3095
+01:45:03,0 --> 01:45:03,0
+
+
+3096
+01:45:03,0 --> 01:45:03,0
+
+
+3097
+01:45:03,0 --> 01:45:03,0
+
+
+3098
+01:45:03,0 --> 01:45:03,0
+
+
+3099
+01:45:03,0 --> 01:45:03,0
+
+
+3100
+01:45:03,0 --> 01:45:03,0
+beyond
+
+3101
+01:45:03,0 --> 01:45:03,0
+
+
+3102
+01:45:03,0 --> 01:45:03,0
+
+
+3103
+01:45:03,0 --> 01:45:03,0
+
+
+3104
+01:45:03,0 --> 01:45:03,0
+
+
+3105
+01:45:03,0 --> 01:45:03,0
+
+
+3106
+01:45:03,0 --> 01:45:03,0
+
+
+3107
+01:45:03,0 --> 01:45:03,0
+
+
+3108
+01:45:03,0 --> 01:45:03,0
+
+
+3109
+01:45:03,0 --> 01:53:58,
+measure.
+
+3110
+01:53:58,0 --> 01:53:58,0
+41 And it came to pass that they did appoint judges to rule over them, or to judge them according to the law; and this they did throughout all the
+
+3111
+01:53:58,0 --> 01:53:58,0
+
+
+3112
+01:53:58,0 --> 01:53:58,0
+
+
+3113
+01:53:58,0 --> 01:53:58,0
+
+
+3114
+01:53:58,0 --> 01:53:58,0
+
+
+3115
+01:53:58,0 --> 01:53:58,0
+And
+
+3116
+01:53:58,0 --> 01:53:58,0
+
+
+3117
+01:53:58,0 --> 01:53:58,0
+
+
+3118
+01:53:58,0 --> 01:53:58,0
+it
+
+3119
+01:53:58,0 --> 01:53:58,0
+
+
+3120
+01:53:58,0 --> 01:53:58,0
+
+
+3121
+01:53:58,0 --> 01:53:58,0
+
+
+3122
+01:53:58,0 --> 01:53:58,0
+
+
+3123
+01:53:58,0 --> 01:53:58,0
+came
+
+3124
+01:53:58,0 --> 01:53:58,0
+
+
+3125
+01:53:58,0 --> 01:53:58,0
+
+
+3126
+01:53:58,0 --> 01:53:58,0
+to
+
+3127
+01:53:58,0 --> 01:53:58,0
+
+
+3128
+01:53:58,0 --> 01:53:58,0
+
+
+3129
+01:53:58,0 --> 01:53:58,0
+
+
+3130
+01:53:58,0 --> 01:53:58,0
+
+
+3131
+01:53:58,0 --> 01:53:58,0
+pass
+
+3132
+01:53:58,0 --> 01:53:58,0
+
+
+3133
+01:53:58,0 --> 01:53:58,0
+
+
+3134
+01:53:58,0 --> 01:53:58,0
+
+
+3135
+01:53:58,0 --> 01:53:58,0
+
+
+3136
+01:53:58,0 --> 01:53:58,0
+that
+
+3137
+01:53:58,0 --> 01:53:58,0
+
+
+3138
+01:53:58,0 --> 01:53:58,0
+
+
+3139
+01:53:58,0 --> 01:53:58,0
+
+
+3140
+01:53:58,0 --> 01:53:58,0
+
+
+3141
+01:53:58,0 --> 01:53:58,0
+they
+
+3142
+01:53:58,0 --> 01:53:58,0
+
+
+3143
+01:53:58,0 --> 01:53:58,0
+
+
+3144
+01:53:58,0 --> 01:53:58,0
+
+
+3145
+01:53:58,0 --> 01:53:58,0
+did
+
+3146
+01:53:58,0 --> 01:53:58,0
+
+
+3147
+01:53:58,0 --> 01:53:58,0
+
+
+3148
+01:53:58,0 --> 01:53:58,0
+
+
+3149
+01:53:58,0 --> 01:53:58,0
+
+
+3150
+01:53:58,0 --> 01:53:58,0
+
+
+3151
+01:53:58,0 --> 01:53:58,0
+
+
+3152
+01:53:58,0 --> 01:53:58,0
+
+
+3153
+01:53:58,0 --> 01:53:58,0
+appoint
+
+3154
+01:53:58,0 --> 01:53:58,0
+
+
+3155
+01:53:58,0 --> 01:53:58,0
+
+
+3156
+01:53:58,0 --> 01:53:58,0
+
+
+3157
+01:53:58,0 --> 01:53:58,0
+
+
+3158
+01:53:58,0 --> 01:53:58,0
+
+
+3159
+01:53:58,0 --> 01:53:58,0
+
+
+3160
+01:53:58,0 --> 01:53:58,0
+judges
+
+3161
+01:53:58,0 --> 01:53:58,0
+
+
+3162
+01:53:58,0 --> 01:53:58,0
+
+
+3163
+01:53:58,0 --> 01:53:58,0
+to
+
+3164
+01:53:58,0 --> 01:53:58,0
+
+
+3165
+01:53:58,0 --> 01:53:58,0
+
+
+3166
+01:53:58,0 --> 01:53:58,0
+
+
+3167
+01:53:58,0 --> 01:53:58,0
+
+
+3168
+01:53:58,0 --> 01:53:58,0
+rule
+
+3169
+01:53:58,0 --> 01:53:58,0
+
+
+3170
+01:53:58,0 --> 01:53:58,0
+
+
+3171
+01:53:58,0 --> 01:53:58,0
+
+
+3172
+01:53:58,0 --> 01:53:58,0
+
+
+3173
+01:53:58,0 --> 01:53:58,0
+over
+
+3174
+01:53:58,0 --> 01:53:58,0
+
+
+3175
+01:53:58,0 --> 01:53:58,0
+
+
+3176
+01:53:58,0 --> 01:53:58,0
+
+
+3177
+01:53:58,0 --> 01:53:58,0
+
+
+3178
+01:53:58,0 --> 01:53:58,0
+
+
+3179
+01:53:58,0 --> 01:53:58,0
+them,
+
+3180
+01:53:58,0 --> 01:53:58,0
+
+
+3181
+01:53:58,0 --> 01:53:58,0
+
+
+3182
+01:53:58,0 --> 01:53:58,0
+or
+
+3183
+01:53:58,0 --> 01:53:58,0
+
+
+3184
+01:53:58,0 --> 01:53:58,0
+
+
+3185
+01:53:58,0 --> 01:53:58,0
+to
+
+3186
+01:53:58,0 --> 01:53:58,0
+
+
+3187
+01:53:58,0 --> 01:53:58,0
+
+
+3188
+01:53:58,0 --> 01:53:58,0
+
+
+3189
+01:53:58,0 --> 01:53:58,0
+
+
+3190
+01:53:58,0 --> 01:53:58,0
+
+
+3191
+01:53:58,0 --> 01:53:58,0
+judge
+
+3192
+01:53:58,0 --> 01:53:58,0
+
+
+3193
+01:53:58,0 --> 01:53:58,0
+
+
+3194
+01:53:58,0 --> 01:53:58,0
+
+
+3195
+01:53:58,0 --> 01:53:58,0
+
+
+3196
+01:53:58,0 --> 01:53:58,0
+them
+
+3197
+01:53:58,0 --> 01:53:58,0
+
+
+3198
+01:53:58,0 --> 01:53:58,0
+
+
+3199
+01:53:58,0 --> 01:53:58,0
+
+
+3200
+01:53:58,0 --> 01:53:58,0
+
+
+3201
+01:53:58,0 --> 01:53:58,0
+
+
+3202
+01:53:58,0 --> 01:53:58,0
+
+
+3203
+01:53:58,0 --> 01:53:58,0
+
+
+3204
+01:53:58,0 --> 01:53:58,0
+
+
+3205
+01:53:58,0 --> 01:53:58,0
+
+
+3206
+01:53:58,0 --> 01:53:58,0
+according
+
+3207
+01:53:58,0 --> 01:53:58,0
+
+
+3208
+01:53:58,0 --> 01:53:58,0
+
+
+3209
+01:53:58,0 --> 01:53:58,0
+to
+
+3210
+01:53:58,0 --> 01:53:58,0
+
+
+3211
+01:53:58,0 --> 01:53:58,0
+
+
+3212
+01:53:58,0 --> 01:53:58,0
+
+
+3213
+01:53:58,0 --> 01:53:58,0
+the
+
+3214
+01:53:58,0 --> 01:53:58,0
+
+
+3215
+01:53:58,0 --> 01:53:58,0
+
+
+3216
+01:53:58,0 --> 01:53:58,0
+
+
+3217
+01:53:58,0 --> 01:53:58,0
+
+
+3218
+01:53:58,0 --> 01:53:58,0
+law;
+
+3219
+01:53:58,0 --> 01:53:58,0
+
+
+3220
+01:53:58,0 --> 01:53:58,0
+
+
+3221
+01:53:58,0 --> 01:53:58,0
+
+
+3222
+01:53:58,0 --> 01:53:58,0
+and
+
+3223
+01:53:58,0 --> 01:53:58,0
+
+
+3224
+01:53:58,0 --> 01:53:58,0
+
+
+3225
+01:53:58,0 --> 01:53:58,0
+
+
+3226
+01:53:58,0 --> 01:53:58,0
+
+
+3227
+01:53:58,0 --> 01:53:58,0
+this
+
+3228
+01:53:58,0 --> 01:53:58,0
+
+
+3229
+01:53:58,0 --> 01:53:58,0
+
+
+3230
+01:53:58,0 --> 01:53:58,0
+
+
+3231
+01:53:58,0 --> 01:53:58,0
+
+
+3232
+01:53:58,0 --> 01:53:58,0
+they
+
+3233
+01:53:58,0 --> 01:53:58,0
+
+
+3234
+01:53:58,0 --> 01:53:58,0
+
+
+3235
+01:53:58,0 --> 01:53:58,0
+
+
+3236
+01:53:58,0 --> 01:53:58,0
+did
+
+3237
+01:53:58,0 --> 01:53:58,0
+
+
+3238
+01:53:58,0 --> 01:53:58,0
+
+
+3239
+01:53:58,0 --> 01:53:58,0
+
+
+3240
+01:53:58,0 --> 01:53:58,0
+
+
+3241
+01:53:58,0 --> 01:53:58,0
+
+
+3242
+01:53:58,0 --> 01:53:58,0
+
+
+3243
+01:53:58,0 --> 01:53:58,0
+
+
+3244
+01:53:58,0 --> 01:53:58,0
+
+
+3245
+01:53:58,0 --> 01:53:58,0
+
+
+3246
+01:53:58,0 --> 01:53:58,0
+
+
+3247
+01:53:58,0 --> 01:53:58,0
+throughout
+
+3248
+01:53:58,0 --> 01:53:58,0
+
+
+3249
+01:53:58,0 --> 01:53:58,0
+
+
+3250
+01:53:58,0 --> 01:53:58,0
+
+
+3251
+01:53:58,0 --> 01:53:58,0
+all
+
+3252
+01:53:58,0 --> 01:53:58,0
+
+
+3253
+01:53:58,0 --> 01:53:58,0
+
+
+3254
+01:53:58,0 --> 01:53:58,0
+
+
+3255
+01:53:58,0 --> 01:53:58,0
+the
+
+3256
+01:53:58,0 --> 01:53:58,0
+
+
+3257
+01:53:58,0 --> 01:53:58,0
+
+
+3258
+01:53:58,0 --> 01:53:58,0
+
+
+3259
+01:53:58,0 --> 01:53:58,0
+
+
+3260
+01:53:58,0 --> 01:53:58,0
+
+
+3261
+01:53:58,0 --> 01:53:30,
+land.
+
+3262
+01:53:30,0 --> 01:53:30,0
+42 And it came to pass that Alma was appointed to be the first chief judge, he being also the high priest, his father having conferred the office upon him, and having given him the charge concerning all the affairs of the
+
+3263
+01:53:30,0 --> 01:53:30,0
+
+
+3264
+01:53:30,0 --> 01:53:30,0
+
+
+3265
+01:53:30,0 --> 01:53:30,0
+
+
+3266
+01:53:30,0 --> 01:53:30,0
+
+
+3267
+01:53:30,0 --> 01:53:30,0
+And
+
+3268
+01:53:30,0 --> 01:53:30,0
+
+
+3269
+01:53:30,0 --> 01:53:30,0
+
+
+3270
+01:53:30,0 --> 01:53:30,0
+it
+
+3271
+01:53:30,0 --> 01:53:30,0
+
+
+3272
+01:53:30,0 --> 01:53:30,0
+
+
+3273
+01:53:30,0 --> 01:53:30,0
+
+
+3274
+01:53:30,0 --> 01:53:30,0
+
+
+3275
+01:53:30,0 --> 01:53:30,0
+came
+
+3276
+01:53:30,0 --> 01:53:30,0
+
+
+3277
+01:53:30,0 --> 01:53:30,0
+
+
+3278
+01:53:30,0 --> 01:53:30,0
+to
+
+3279
+01:53:30,0 --> 01:53:30,0
+
+
+3280
+01:53:30,0 --> 01:53:30,0
+
+
+3281
+01:53:30,0 --> 01:53:30,0
+
+
+3282
+01:53:30,0 --> 01:53:30,0
+
+
+3283
+01:53:30,0 --> 01:53:30,0
+pass
+
+3284
+01:53:30,0 --> 01:53:30,0
+
+
+3285
+01:53:30,0 --> 01:53:30,0
+
+
+3286
+01:53:30,0 --> 01:53:30,0
+
+
+3287
+01:53:30,0 --> 01:53:30,0
+
+
+3288
+01:53:30,0 --> 01:53:30,0
+that
+
+3289
+01:53:30,0 --> 01:53:30,0
+
+
+3290
+01:53:30,0 --> 01:53:30,0
+
+
+3291
+01:53:30,0 --> 01:53:30,0
+
+
+3292
+01:53:30,0 --> 01:53:30,0
+
+
+3293
+01:53:30,0 --> 01:53:30,0
+Alma
+
+3294
+01:53:30,0 --> 01:53:30,0
+
+
+3295
+01:53:30,0 --> 01:53:30,0
+
+
+3296
+01:53:30,0 --> 01:53:30,0
+
+
+3297
+01:53:30,0 --> 01:53:30,0
+was
+
+3298
+01:53:30,0 --> 01:53:30,0
+
+
+3299
+01:53:30,0 --> 01:53:30,0
+
+
+3300
+01:53:30,0 --> 01:53:30,0
+
+
+3301
+01:53:30,0 --> 01:53:30,0
+
+
+3302
+01:53:30,0 --> 01:53:30,0
+
+
+3303
+01:53:30,0 --> 01:53:30,0
+
+
+3304
+01:53:30,0 --> 01:53:30,0
+
+
+3305
+01:53:30,0 --> 01:53:30,0
+
+
+3306
+01:53:30,0 --> 01:53:30,0
+
+
+3307
+01:53:30,0 --> 01:53:30,0
+appointed
+
+3308
+01:53:30,0 --> 01:53:30,0
+
+
+3309
+01:53:30,0 --> 01:53:30,0
+
+
+3310
+01:53:30,0 --> 01:53:30,0
+to
+
+3311
+01:53:30,0 --> 01:53:30,0
+
+
+3312
+01:53:30,0 --> 01:53:30,0
+
+
+3313
+01:53:30,0 --> 01:53:30,0
+be
+
+3314
+01:53:30,0 --> 01:53:30,0
+
+
+3315
+01:53:30,0 --> 01:53:30,0
+
+
+3316
+01:53:30,0 --> 01:53:30,0
+
+
+3317
+01:53:30,0 --> 01:53:30,0
+the
+
+3318
+01:53:30,0 --> 01:53:30,0
+
+
+3319
+01:53:30,0 --> 01:53:30,0
+
+
+3320
+01:53:30,0 --> 01:53:30,0
+
+
+3321
+01:53:30,0 --> 01:53:30,0
+
+
+3322
+01:53:30,0 --> 01:53:30,0
+
+
+3323
+01:53:30,0 --> 01:53:30,0
+first
+
+3324
+01:53:30,0 --> 01:53:30,0
+
+
+3325
+01:53:30,0 --> 01:53:30,0
+
+
+3326
+01:53:30,0 --> 01:53:30,0
+
+
+3327
+01:53:30,0 --> 01:53:30,0
+
+
+3328
+01:53:30,0 --> 01:53:30,0
+
+
+3329
+01:53:30,0 --> 01:53:30,0
+chief
+
+3330
+01:53:30,0 --> 01:53:30,0
+
+
+3331
+01:53:30,0 --> 01:53:30,0
+
+
+3332
+01:53:30,0 --> 01:53:30,0
+
+
+3333
+01:53:30,0 --> 01:53:30,0
+
+
+3334
+01:53:30,0 --> 01:53:30,0
+
+
+3335
+01:53:30,0 --> 01:53:30,0
+
+
+3336
+01:53:30,0 --> 01:53:30,0
+judge,
+
+3337
+01:53:30,0 --> 01:53:30,0
+
+
+3338
+01:53:30,0 --> 01:53:30,0
+
+
+3339
+01:53:30,0 --> 01:53:30,0
+he
+
+3340
+01:53:30,0 --> 01:53:30,0
+
+
+3341
+01:53:30,0 --> 01:53:30,0
+
+
+3342
+01:53:30,0 --> 01:53:30,0
+
+
+3343
+01:53:30,0 --> 01:53:30,0
+
+
+3344
+01:53:30,0 --> 01:53:30,0
+
+
+3345
+01:53:30,0 --> 01:53:30,0
+being
+
+3346
+01:53:30,0 --> 01:53:30,0
+
+
+3347
+01:53:30,0 --> 01:53:30,0
+
+
+3348
+01:53:30,0 --> 01:53:30,0
+
+
+3349
+01:53:30,0 --> 01:53:30,0
+
+
+3350
+01:53:30,0 --> 01:53:30,0
+also
+
+3351
+01:53:30,0 --> 01:53:30,0
+
+
+3352
+01:53:30,0 --> 01:53:30,0
+
+
+3353
+01:53:30,0 --> 01:53:30,0
+
+
+3354
+01:53:30,0 --> 01:53:30,0
+the
+
+3355
+01:53:30,0 --> 01:53:30,0
+
+
+3356
+01:53:30,0 --> 01:53:30,0
+
+
+3357
+01:53:30,0 --> 01:53:30,0
+
+
+3358
+01:53:30,0 --> 01:53:30,0
+
+
+3359
+01:53:30,0 --> 01:53:30,0
+high
+
+3360
+01:53:30,0 --> 01:53:30,0
+
+
+3361
+01:53:30,0 --> 01:53:30,0
+
+
+3362
+01:53:30,0 --> 01:53:30,0
+
+
+3363
+01:53:30,0 --> 01:53:30,0
+
+
+3364
+01:53:30,0 --> 01:53:30,0
+
+
+3365
+01:53:30,0 --> 01:53:30,0
+
+
+3366
+01:53:30,0 --> 01:53:30,0
+
+
+3367
+01:53:30,0 --> 01:53:30,0
+priest,
+
+3368
+01:53:30,0 --> 01:53:30,0
+
+
+3369
+01:53:30,0 --> 01:53:30,0
+
+
+3370
+01:53:30,0 --> 01:53:30,0
+
+
+3371
+01:53:30,0 --> 01:53:30,0
+his
+
+3372
+01:53:30,0 --> 01:53:30,0
+
+
+3373
+01:53:30,0 --> 01:53:30,0
+
+
+3374
+01:53:30,0 --> 01:53:30,0
+
+
+3375
+01:53:30,0 --> 01:53:30,0
+
+
+3376
+01:53:30,0 --> 01:53:30,0
+
+
+3377
+01:53:30,0 --> 01:53:30,0
+
+
+3378
+01:53:30,0 --> 01:53:30,0
+father
+
+3379
+01:53:30,0 --> 01:53:30,0
+
+
+3380
+01:53:30,0 --> 01:53:30,0
+
+
+3381
+01:53:30,0 --> 01:53:30,0
+
+
+3382
+01:53:30,0 --> 01:53:30,0
+
+
+3383
+01:53:30,0 --> 01:53:30,0
+
+
+3384
+01:53:30,0 --> 01:53:30,0
+
+
+3385
+01:53:30,0 --> 01:53:30,0
+having
+
+3386
+01:53:30,0 --> 01:53:30,0
+
+
+3387
+01:53:30,0 --> 01:53:30,0
+
+
+3388
+01:53:30,0 --> 01:53:30,0
+
+
+3389
+01:53:30,0 --> 01:53:30,0
+
+
+3390
+01:53:30,0 --> 01:53:30,0
+
+
+3391
+01:53:30,0 --> 01:53:30,0
+
+
+3392
+01:53:30,0 --> 01:53:30,0
+
+
+3393
+01:53:30,0 --> 01:53:30,0
+
+
+3394
+01:53:30,0 --> 01:53:30,0
+
+
+3395
+01:53:30,0 --> 01:53:30,0
+conferred
+
+3396
+01:53:30,0 --> 01:53:30,0
+
+
+3397
+01:53:30,0 --> 01:53:30,0
+
+
+3398
+01:53:30,0 --> 01:53:30,0
+
+
+3399
+01:53:30,0 --> 01:53:30,0
+the
+
+3400
+01:53:30,0 --> 01:53:30,0
+
+
+3401
+01:53:30,0 --> 01:53:30,0
+
+
+3402
+01:53:30,0 --> 01:53:30,0
+
+
+3403
+01:53:30,0 --> 01:53:30,0
+
+
+3404
+01:53:30,0 --> 01:53:30,0
+
+
+3405
+01:53:30,0 --> 01:53:30,0
+
+
+3406
+01:53:30,0 --> 01:53:30,0
+office
+
+3407
+01:53:30,0 --> 01:53:30,0
+
+
+3408
+01:53:30,0 --> 01:53:30,0
+
+
+3409
+01:53:30,0 --> 01:53:30,0
+
+
+3410
+01:53:30,0 --> 01:53:30,0
+
+
+3411
+01:53:30,0 --> 01:53:30,0
+upon
+
+3412
+01:53:30,0 --> 01:53:30,0
+
+
+3413
+01:53:30,0 --> 01:53:30,0
+
+
+3414
+01:53:30,0 --> 01:53:30,0
+
+
+3415
+01:53:30,0 --> 01:53:30,0
+
+
+3416
+01:53:30,0 --> 01:53:30,0
+him,
+
+3417
+01:53:30,0 --> 01:53:30,0
+
+
+3418
+01:53:30,0 --> 01:53:30,0
+
+
+3419
+01:53:30,0 --> 01:53:30,0
+
+
+3420
+01:53:30,0 --> 01:53:30,0
+and
+
+3421
+01:53:30,0 --> 01:53:30,0
+
+
+3422
+01:53:30,0 --> 01:53:30,0
+
+
+3423
+01:53:30,0 --> 01:53:30,0
+
+
+3424
+01:53:30,0 --> 01:53:30,0
+
+
+3425
+01:53:30,0 --> 01:53:30,0
+
+
+3426
+01:53:30,0 --> 01:53:30,0
+
+
+3427
+01:53:30,0 --> 01:53:30,0
+having
+
+3428
+01:53:30,0 --> 01:53:30,0
+
+
+3429
+01:53:30,0 --> 01:53:30,0
+
+
+3430
+01:53:30,0 --> 01:53:30,0
+
+
+3431
+01:53:30,0 --> 01:53:30,0
+
+
+3432
+01:53:30,0 --> 01:53:30,0
+
+
+3433
+01:53:30,0 --> 01:53:30,0
+given
+
+3434
+01:53:30,0 --> 01:53:30,0
+
+
+3435
+01:53:30,0 --> 01:53:30,0
+
+
+3436
+01:53:30,0 --> 01:53:30,0
+
+
+3437
+01:53:30,0 --> 01:53:30,0
+him
+
+3438
+01:53:30,0 --> 01:53:30,0
+
+
+3439
+01:53:30,0 --> 01:53:30,0
+
+
+3440
+01:53:30,0 --> 01:53:30,0
+
+
+3441
+01:53:30,0 --> 01:53:30,0
+the
+
+3442
+01:53:30,0 --> 01:53:30,0
+
+
+3443
+01:53:30,0 --> 01:53:30,0
+
+
+3444
+01:53:30,0 --> 01:53:30,0
+
+
+3445
+01:53:30,0 --> 01:53:30,0
+
+
+3446
+01:53:30,0 --> 01:53:30,0
+
+
+3447
+01:53:30,0 --> 01:53:30,0
+
+
+3448
+01:53:30,0 --> 01:53:30,0
+charge
+
+3449
+01:53:30,0 --> 01:53:30,0
+
+
+3450
+01:53:30,0 --> 01:53:30,0
+
+
+3451
+01:53:30,0 --> 01:53:30,0
+
+
+3452
+01:53:30,0 --> 01:53:30,0
+
+
+3453
+01:53:30,0 --> 01:53:30,0
+
+
+3454
+01:53:30,0 --> 01:53:30,0
+
+
+3455
+01:53:30,0 --> 01:53:30,0
+
+
+3456
+01:53:30,0 --> 01:53:30,0
+
+
+3457
+01:53:30,0 --> 01:53:30,0
+
+
+3458
+01:53:30,0 --> 01:53:30,0
+
+
+3459
+01:53:30,0 --> 01:53:30,0
+concerning
+
+3460
+01:53:30,0 --> 01:53:30,0
+
+
+3461
+01:53:30,0 --> 01:53:30,0
+
+
+3462
+01:53:30,0 --> 01:53:30,0
+
+
+3463
+01:53:30,0 --> 01:53:30,0
+all
+
+3464
+01:53:30,0 --> 01:53:30,0
+
+
+3465
+01:53:30,0 --> 01:53:30,0
+
+
+3466
+01:53:30,0 --> 01:53:30,0
+
+
+3467
+01:53:30,0 --> 01:53:30,0
+the
+
+3468
+01:53:30,0 --> 01:53:30,0
+
+
+3469
+01:53:30,0 --> 01:53:30,0
+
+
+3470
+01:53:30,0 --> 01:53:30,0
+
+
+3471
+01:53:30,0 --> 01:53:30,0
+
+
+3472
+01:53:30,0 --> 01:53:30,0
+
+
+3473
+01:53:30,0 --> 01:53:30,0
+
+
+3474
+01:53:30,0 --> 01:53:30,0
+
+
+3475
+01:53:30,0 --> 01:53:30,0
+affairs
+
+3476
+01:53:30,0 --> 01:53:30,0
+
+
+3477
+01:53:30,0 --> 01:53:30,0
+
+
+3478
+01:53:30,0 --> 01:53:30,0
+of
+
+3479
+01:53:30,0 --> 01:53:30,0
+
+
+3480
+01:53:30,0 --> 01:53:30,0
+
+
+3481
+01:53:30,0 --> 01:53:30,0
+
+
+3482
+01:53:30,0 --> 01:53:30,0
+the
+
+3483
+01:53:30,0 --> 01:53:30,0
+
+
+3484
+01:53:30,0 --> 01:53:30,0
+
+
+3485
+01:53:30,0 --> 01:53:30,0
+
+
+3486
+01:53:30,0 --> 01:53:30,0
+
+
+3487
+01:53:30,0 --> 01:53:30,0
+
+
+3488
+01:53:30,0 --> 01:53:30,0
+
+
+3489
+01:53:30,0 --> 01:53:30,0
+
+
+3490
+01:53:30,0 --> 01:58:58,
+church.
+
+3491
+01:58:58,0 --> 01:58:58,0
+43 And now it came to pass that Alma did walk in the ways of the Lord, and he did keep his commandments, and he did judge righteous judgments; and there was continual peace through the
+
+3492
+01:58:58,0 --> 01:58:58,0
+
+
+3493
+01:58:58,0 --> 01:58:58,0
+
+
+3494
+01:58:58,0 --> 01:58:58,0
+
+
+3495
+01:58:58,0 --> 01:58:58,0
+
+
+3496
+01:58:58,0 --> 01:58:58,0
+And
+
+3497
+01:58:58,0 --> 01:58:58,0
+
+
+3498
+01:58:58,0 --> 01:58:58,0
+
+
+3499
+01:58:58,0 --> 01:58:58,0
+
+
+3500
+01:58:58,0 --> 01:58:58,0
+now
+
+3501
+01:58:58,0 --> 01:58:58,0
+
+
+3502
+01:58:58,0 --> 01:58:58,0
+
+
+3503
+01:58:58,0 --> 01:58:58,0
+it
+
+3504
+01:58:58,0 --> 01:58:58,0
+
+
+3505
+01:58:58,0 --> 01:58:58,0
+
+
+3506
+01:58:58,0 --> 01:58:58,0
+
+
+3507
+01:58:58,0 --> 01:58:58,0
+
+
+3508
+01:58:58,0 --> 01:58:58,0
+came
+
+3509
+01:58:58,0 --> 01:58:58,0
+
+
+3510
+01:58:58,0 --> 01:58:58,0
+
+
+3511
+01:58:58,0 --> 01:58:58,0
+to
+
+3512
+01:58:58,0 --> 01:58:58,0
+
+
+3513
+01:58:58,0 --> 01:58:58,0
+
+
+3514
+01:58:58,0 --> 01:58:58,0
+
+
+3515
+01:58:58,0 --> 01:58:58,0
+
+
+3516
+01:58:58,0 --> 01:58:58,0
+pass
+
+3517
+01:58:58,0 --> 01:58:58,0
+
+
+3518
+01:58:58,0 --> 01:58:58,0
+
+
+3519
+01:58:58,0 --> 01:58:58,0
+
+
+3520
+01:58:58,0 --> 01:58:58,0
+
+
+3521
+01:58:58,0 --> 01:58:58,0
+that
+
+3522
+01:58:58,0 --> 01:58:58,0
+
+
+3523
+01:58:58,0 --> 01:58:58,0
+
+
+3524
+01:58:58,0 --> 01:58:58,0
+
+
+3525
+01:58:58,0 --> 01:58:58,0
+
+
+3526
+01:58:58,0 --> 01:58:58,0
+Alma
+
+3527
+01:58:58,0 --> 01:58:58,0
+
+
+3528
+01:58:58,0 --> 01:58:58,0
+
+
+3529
+01:58:58,0 --> 01:58:58,0
+
+
+3530
+01:58:58,0 --> 01:58:58,0
+did
+
+3531
+01:58:58,0 --> 01:58:58,0
+
+
+3532
+01:58:58,0 --> 01:58:58,0
+
+
+3533
+01:58:58,0 --> 01:58:58,0
+
+
+3534
+01:58:58,0 --> 01:58:58,0
+
+
+3535
+01:58:58,0 --> 01:58:58,0
+walk
+
+3536
+01:58:58,0 --> 01:58:58,0
+
+
+3537
+01:58:58,0 --> 01:58:58,0
+
+
+3538
+01:58:58,0 --> 01:58:58,0
+in
+
+3539
+01:58:58,0 --> 01:58:58,0
+
+
+3540
+01:58:58,0 --> 01:58:58,0
+
+
+3541
+01:58:58,0 --> 01:58:58,0
+
+
+3542
+01:58:58,0 --> 01:58:58,0
+the
+
+3543
+01:58:58,0 --> 01:58:58,0
+
+
+3544
+01:58:58,0 --> 01:58:58,0
+
+
+3545
+01:58:58,0 --> 01:58:58,0
+
+
+3546
+01:58:58,0 --> 01:58:58,0
+
+
+3547
+01:58:58,0 --> 01:58:58,0
+ways
+
+3548
+01:58:58,0 --> 01:58:58,0
+
+
+3549
+01:58:58,0 --> 01:58:58,0
+
+
+3550
+01:58:58,0 --> 01:58:58,0
+of
+
+3551
+01:58:58,0 --> 01:58:58,0
+
+
+3552
+01:58:58,0 --> 01:58:58,0
+
+
+3553
+01:58:58,0 --> 01:58:58,0
+
+
+3554
+01:58:58,0 --> 01:58:58,0
+the
+
+3555
+01:58:58,0 --> 01:58:58,0
+
+
+3556
+01:58:58,0 --> 01:58:58,0
+
+
+3557
+01:58:58,0 --> 01:58:58,0
+
+
+3558
+01:58:58,0 --> 01:58:58,0
+
+
+3559
+01:58:58,0 --> 01:58:58,0
+
+
+3560
+01:58:58,0 --> 01:58:58,0
+Lord,
+
+3561
+01:58:58,0 --> 01:58:58,0
+
+
+3562
+01:58:58,0 --> 01:58:58,0
+
+
+3563
+01:58:58,0 --> 01:58:58,0
+
+
+3564
+01:58:58,0 --> 01:58:58,0
+and
+
+3565
+01:58:58,0 --> 01:58:58,0
+
+
+3566
+01:58:58,0 --> 01:58:58,0
+
+
+3567
+01:58:58,0 --> 01:58:58,0
+he
+
+3568
+01:58:58,0 --> 01:58:58,0
+
+
+3569
+01:58:58,0 --> 01:58:58,0
+
+
+3570
+01:58:58,0 --> 01:58:58,0
+
+
+3571
+01:58:58,0 --> 01:58:58,0
+did
+
+3572
+01:58:58,0 --> 01:58:58,0
+
+
+3573
+01:58:58,0 --> 01:58:58,0
+
+
+3574
+01:58:58,0 --> 01:58:58,0
+
+
+3575
+01:58:58,0 --> 01:58:58,0
+
+
+3576
+01:58:58,0 --> 01:58:58,0
+keep
+
+3577
+01:58:58,0 --> 01:58:58,0
+
+
+3578
+01:58:58,0 --> 01:58:58,0
+
+
+3579
+01:58:58,0 --> 01:58:58,0
+
+
+3580
+01:58:58,0 --> 01:58:58,0
+his
+
+3581
+01:58:58,0 --> 01:58:58,0
+
+
+3582
+01:58:58,0 --> 01:58:58,0
+
+
+3583
+01:58:58,0 --> 01:58:58,0
+
+
+3584
+01:58:58,0 --> 01:58:58,0
+
+
+3585
+01:58:58,0 --> 01:58:58,0
+
+
+3586
+01:58:58,0 --> 01:58:58,0
+
+
+3587
+01:58:58,0 --> 01:58:58,0
+
+
+3588
+01:58:58,0 --> 01:58:58,0
+
+
+3589
+01:58:58,0 --> 01:58:58,0
+
+
+3590
+01:58:58,0 --> 01:58:58,0
+
+
+3591
+01:58:58,0 --> 01:58:58,0
+
+
+3592
+01:58:58,0 --> 01:58:58,0
+
+
+3593
+01:58:58,0 --> 01:58:58,0
+
+
+3594
+01:58:58,0 --> 01:58:58,0
+commandments,
+
+3595
+01:58:58,0 --> 01:58:58,0
+
+
+3596
+01:58:58,0 --> 01:58:58,0
+
+
+3597
+01:58:58,0 --> 01:58:58,0
+
+
+3598
+01:58:58,0 --> 01:58:58,0
+and
+
+3599
+01:58:58,0 --> 01:58:58,0
+
+
+3600
+01:58:58,0 --> 01:58:58,0
+
+
+3601
+01:58:58,0 --> 01:58:58,0
+he
+
+3602
+01:58:58,0 --> 01:58:58,0
+
+
+3603
+01:58:58,0 --> 01:58:58,0
+
+
+3604
+01:58:58,0 --> 01:58:58,0
+
+
+3605
+01:58:58,0 --> 01:58:58,0
+did
+
+3606
+01:58:58,0 --> 01:58:58,0
+
+
+3607
+01:58:58,0 --> 01:58:58,0
+
+
+3608
+01:58:58,0 --> 01:58:58,0
+
+
+3609
+01:58:58,0 --> 01:58:58,0
+
+
+3610
+01:58:58,0 --> 01:58:58,0
+
+
+3611
+01:58:58,0 --> 01:58:58,0
+judge
+
+3612
+01:58:58,0 --> 01:58:58,0
+
+
+3613
+01:58:58,0 --> 01:58:58,0
+
+
+3614
+01:58:58,0 --> 01:58:58,0
+
+
+3615
+01:58:58,0 --> 01:58:58,0
+
+
+3616
+01:58:58,0 --> 01:58:58,0
+
+
+3617
+01:58:58,0 --> 01:58:58,0
+
+
+3618
+01:58:58,0 --> 01:58:58,0
+
+
+3619
+01:58:58,0 --> 01:58:58,0
+
+
+3620
+01:58:58,0 --> 01:58:58,0
+
+
+3621
+01:58:58,0 --> 01:58:58,0
+righteous
+
+3622
+01:58:58,0 --> 01:58:58,0
+
+
+3623
+01:58:58,0 --> 01:58:58,0
+
+
+3624
+01:58:58,0 --> 01:58:58,0
+
+
+3625
+01:58:58,0 --> 01:58:58,0
+
+
+3626
+01:58:58,0 --> 01:58:58,0
+
+
+3627
+01:58:58,0 --> 01:58:58,0
+
+
+3628
+01:58:58,0 --> 01:58:58,0
+
+
+3629
+01:58:58,0 --> 01:58:58,0
+
+
+3630
+01:58:58,0 --> 01:58:58,0
+
+
+3631
+01:58:58,0 --> 01:58:58,0
+
+
+3632
+01:58:58,0 --> 01:58:58,0
+judgments;
+
+3633
+01:58:58,0 --> 01:58:58,0
+
+
+3634
+01:58:58,0 --> 01:58:58,0
+
+
+3635
+01:58:58,0 --> 01:58:58,0
+
+
+3636
+01:58:58,0 --> 01:58:58,0
+and
+
+3637
+01:58:58,0 --> 01:58:58,0
+
+
+3638
+01:58:58,0 --> 01:58:58,0
+
+
+3639
+01:58:58,0 --> 01:58:58,0
+
+
+3640
+01:58:58,0 --> 01:58:58,0
+
+
+3641
+01:58:58,0 --> 01:58:58,0
+
+
+3642
+01:58:58,0 --> 01:58:58,0
+there
+
+3643
+01:58:58,0 --> 01:58:58,0
+
+
+3644
+01:58:58,0 --> 01:58:58,0
+
+
+3645
+01:58:58,0 --> 01:58:58,0
+
+
+3646
+01:58:58,0 --> 01:58:58,0
+was
+
+3647
+01:58:58,0 --> 01:58:58,0
+
+
+3648
+01:58:58,0 --> 01:58:58,0
+
+
+3649
+01:58:58,0 --> 01:58:58,0
+
+
+3650
+01:58:58,0 --> 01:58:58,0
+
+
+3651
+01:58:58,0 --> 01:58:58,0
+
+
+3652
+01:58:58,0 --> 01:58:58,0
+
+
+3653
+01:58:58,0 --> 01:58:58,0
+
+
+3654
+01:58:58,0 --> 01:58:58,0
+
+
+3655
+01:58:58,0 --> 01:58:58,0
+
+
+3656
+01:58:58,0 --> 01:58:58,0
+continual
+
+3657
+01:58:58,0 --> 01:58:58,0
+
+
+3658
+01:58:58,0 --> 01:58:58,0
+
+
+3659
+01:58:58,0 --> 01:58:58,0
+
+
+3660
+01:58:58,0 --> 01:58:58,0
+
+
+3661
+01:58:58,0 --> 01:58:58,0
+
+
+3662
+01:58:58,0 --> 01:58:58,0
+peace
+
+3663
+01:58:58,0 --> 01:58:58,0
+
+
+3664
+01:58:58,0 --> 01:58:58,0
+
+
+3665
+01:58:58,0 --> 01:58:58,0
+
+
+3666
+01:58:58,0 --> 01:58:58,0
+
+
+3667
+01:58:58,0 --> 01:58:58,0
+
+
+3668
+01:58:58,0 --> 01:58:58,0
+
+
+3669
+01:58:58,0 --> 01:58:58,0
+
+
+3670
+01:58:58,0 --> 01:58:58,0
+through
+
+3671
+01:58:58,0 --> 01:58:58,0
+
+
+3672
+01:58:58,0 --> 01:58:58,0
+
+
+3673
+01:58:58,0 --> 01:58:58,0
+
+
+3674
+01:58:58,0 --> 01:58:58,0
+the
+
+3675
+01:58:58,0 --> 01:58:58,0
+
+
+3676
+01:58:58,0 --> 01:58:58,0
+
+
+3677
+01:58:58,0 --> 01:58:58,0
+
+
+3678
+01:58:58,0 --> 01:58:58,0
+
+
+3679
+01:58:58,0 --> 01:58:58,0
+
+
+3680
+01:58:58,0 --> 02:03:55,
+land.
+
+3681
+02:03:55,0 --> 02:03:55,0
+44 And thus commenced the reign of the judges throughout all the land of Zarahemla, among all the people who were called the Nephites; and Alma was the first and chief
+
+3682
+02:03:55,0 --> 02:03:55,0
+
+
+3683
+02:03:55,0 --> 02:03:55,0
+
+
+3684
+02:03:55,0 --> 02:03:55,0
+
+
+3685
+02:03:55,0 --> 02:03:55,0
+
+
+3686
+02:03:55,0 --> 02:03:55,0
+And
+
+3687
+02:03:55,0 --> 02:03:55,0
+
+
+3688
+02:03:55,0 --> 02:03:55,0
+
+
+3689
+02:03:55,0 --> 02:03:55,0
+
+
+3690
+02:03:55,0 --> 02:03:55,0
+
+
+3691
+02:03:55,0 --> 02:03:55,0
+thus
+
+3692
+02:03:55,0 --> 02:03:55,0
+
+
+3693
+02:03:55,0 --> 02:03:55,0
+
+
+3694
+02:03:55,0 --> 02:03:55,0
+
+
+3695
+02:03:55,0 --> 02:03:55,0
+
+
+3696
+02:03:55,0 --> 02:03:55,0
+
+
+3697
+02:03:55,0 --> 02:03:55,0
+
+
+3698
+02:03:55,0 --> 02:03:55,0
+
+
+3699
+02:03:55,0 --> 02:03:55,0
+
+
+3700
+02:03:55,0 --> 02:03:55,0
+
+
+3701
+02:03:55,0 --> 02:03:55,0
+commenced
+
+3702
+02:03:55,0 --> 02:03:55,0
+
+
+3703
+02:03:55,0 --> 02:03:55,0
+
+
+3704
+02:03:55,0 --> 02:03:55,0
+
+
+3705
+02:03:55,0 --> 02:03:55,0
+the
+
+3706
+02:03:55,0 --> 02:03:55,0
+
+
+3707
+02:03:55,0 --> 02:03:55,0
+
+
+3708
+02:03:55,0 --> 02:03:55,0
+
+
+3709
+02:03:55,0 --> 02:03:55,0
+
+
+3710
+02:03:55,0 --> 02:03:55,0
+
+
+3711
+02:03:55,0 --> 02:03:55,0
+reign
+
+3712
+02:03:55,0 --> 02:03:55,0
+
+
+3713
+02:03:55,0 --> 02:03:55,0
+
+
+3714
+02:03:55,0 --> 02:03:55,0
+of
+
+3715
+02:03:55,0 --> 02:03:55,0
+
+
+3716
+02:03:55,0 --> 02:03:55,0
+
+
+3717
+02:03:55,0 --> 02:03:55,0
+
+
+3718
+02:03:55,0 --> 02:03:55,0
+the
+
+3719
+02:03:55,0 --> 02:03:55,0
+
+
+3720
+02:03:55,0 --> 02:03:55,0
+
+
+3721
+02:03:55,0 --> 02:03:55,0
+
+
+3722
+02:03:55,0 --> 02:03:55,0
+
+
+3723
+02:03:55,0 --> 02:03:55,0
+
+
+3724
+02:03:55,0 --> 02:03:55,0
+
+
+3725
+02:03:55,0 --> 02:03:55,0
+judges
+
+3726
+02:03:55,0 --> 02:03:55,0
+
+
+3727
+02:03:55,0 --> 02:03:55,0
+
+
+3728
+02:03:55,0 --> 02:03:55,0
+
+
+3729
+02:03:55,0 --> 02:03:55,0
+
+
+3730
+02:03:55,0 --> 02:03:55,0
+
+
+3731
+02:03:55,0 --> 02:03:55,0
+
+
+3732
+02:03:55,0 --> 02:03:55,0
+
+
+3733
+02:03:55,0 --> 02:03:55,0
+
+
+3734
+02:03:55,0 --> 02:03:55,0
+
+
+3735
+02:03:55,0 --> 02:03:55,0
+
+
+3736
+02:03:55,0 --> 02:03:55,0
+throughout
+
+3737
+02:03:55,0 --> 02:03:55,0
+
+
+3738
+02:03:55,0 --> 02:03:55,0
+
+
+3739
+02:03:55,0 --> 02:03:55,0
+
+
+3740
+02:03:55,0 --> 02:03:55,0
+all
+
+3741
+02:03:55,0 --> 02:03:55,0
+
+
+3742
+02:03:55,0 --> 02:03:55,0
+
+
+3743
+02:03:55,0 --> 02:03:55,0
+
+
+3744
+02:03:55,0 --> 02:03:55,0
+the
+
+3745
+02:03:55,0 --> 02:03:55,0
+
+
+3746
+02:03:55,0 --> 02:03:55,0
+
+
+3747
+02:03:55,0 --> 02:03:55,0
+
+
+3748
+02:03:55,0 --> 02:03:55,0
+
+
+3749
+02:03:55,0 --> 02:03:55,0
+land
+
+3750
+02:03:55,0 --> 02:03:55,0
+
+
+3751
+02:03:55,0 --> 02:03:55,0
+
+
+3752
+02:03:55,0 --> 02:03:55,0
+of
+
+3753
+02:03:55,0 --> 02:03:55,0
+
+
+3754
+02:03:55,0 --> 02:03:55,0
+
+
+3755
+02:03:55,0 --> 02:03:55,0
+
+
+3756
+02:03:55,0 --> 02:03:55,0
+
+
+3757
+02:03:55,0 --> 02:03:55,0
+
+
+3758
+02:03:55,0 --> 02:03:55,0
+
+
+3759
+02:03:55,0 --> 02:03:55,0
+
+
+3760
+02:03:55,0 --> 02:03:55,0
+
+
+3761
+02:03:55,0 --> 02:03:55,0
+
+
+3762
+02:03:55,0 --> 02:03:55,0
+
+
+3763
+02:03:55,0 --> 02:03:55,0
+Zarahemla,
+
+3764
+02:03:55,0 --> 02:03:55,0
+
+
+3765
+02:03:55,0 --> 02:03:55,0
+
+
+3766
+02:03:55,0 --> 02:03:55,0
+
+
+3767
+02:03:55,0 --> 02:03:55,0
+
+
+3768
+02:03:55,0 --> 02:03:55,0
+
+
+3769
+02:03:55,0 --> 02:03:55,0
+among
+
+3770
+02:03:55,0 --> 02:03:55,0
+
+
+3771
+02:03:55,0 --> 02:03:55,0
+
+
+3772
+02:03:55,0 --> 02:03:55,0
+
+
+3773
+02:03:55,0 --> 02:03:55,0
+all
+
+3774
+02:03:55,0 --> 02:03:55,0
+
+
+3775
+02:03:55,0 --> 02:03:55,0
+
+
+3776
+02:03:55,0 --> 02:03:55,0
+
+
+3777
+02:03:55,0 --> 02:03:55,0
+the
+
+3778
+02:03:55,0 --> 02:03:55,0
+
+
+3779
+02:03:55,0 --> 02:03:55,0
+
+
+3780
+02:03:55,0 --> 02:03:55,0
+
+
+3781
+02:03:55,0 --> 02:03:55,0
+
+
+3782
+02:03:55,0 --> 02:03:55,0
+
+
+3783
+02:03:55,0 --> 02:03:55,0
+
+
+3784
+02:03:55,0 --> 02:03:55,0
+people
+
+3785
+02:03:55,0 --> 02:03:55,0
+
+
+3786
+02:03:55,0 --> 02:03:55,0
+
+
+3787
+02:03:55,0 --> 02:03:55,0
+
+
+3788
+02:03:55,0 --> 02:03:55,0
+who
+
+3789
+02:03:55,0 --> 02:03:55,0
+
+
+3790
+02:03:55,0 --> 02:03:55,0
+
+
+3791
+02:03:55,0 --> 02:03:55,0
+
+
+3792
+02:03:55,0 --> 02:03:55,0
+
+
+3793
+02:03:55,0 --> 02:03:55,0
+were
+
+3794
+02:03:55,0 --> 02:03:55,0
+
+
+3795
+02:03:55,0 --> 02:03:55,0
+
+
+3796
+02:03:55,0 --> 02:03:55,0
+
+
+3797
+02:03:55,0 --> 02:03:55,0
+
+
+3798
+02:03:55,0 --> 02:03:55,0
+
+
+3799
+02:03:55,0 --> 02:03:55,0
+
+
+3800
+02:03:55,0 --> 02:03:55,0
+called
+
+3801
+02:03:55,0 --> 02:03:55,0
+
+
+3802
+02:03:55,0 --> 02:03:55,0
+
+
+3803
+02:03:55,0 --> 02:03:55,0
+
+
+3804
+02:03:55,0 --> 02:03:55,0
+the
+
+3805
+02:03:55,0 --> 02:03:55,0
+
+
+3806
+02:03:55,0 --> 02:03:55,0
+
+
+3807
+02:03:55,0 --> 02:03:55,0
+
+
+3808
+02:03:55,0 --> 02:03:55,0
+
+
+3809
+02:03:55,0 --> 02:03:55,0
+
+
+3810
+02:03:55,0 --> 02:03:55,0
+
+
+3811
+02:03:55,0 --> 02:03:55,0
+
+
+3812
+02:03:55,0 --> 02:03:55,0
+
+
+3813
+02:03:55,0 --> 02:03:55,0
+
+
+3814
+02:03:55,0 --> 02:03:55,0
+Nephites;
+
+3815
+02:03:55,0 --> 02:03:55,0
+
+
+3816
+02:03:55,0 --> 02:03:55,0
+
+
+3817
+02:03:55,0 --> 02:03:55,0
+
+
+3818
+02:03:55,0 --> 02:03:55,0
+and
+
+3819
+02:03:55,0 --> 02:03:55,0
+
+
+3820
+02:03:55,0 --> 02:03:55,0
+
+
+3821
+02:03:55,0 --> 02:03:55,0
+
+
+3822
+02:03:55,0 --> 02:03:55,0
+
+
+3823
+02:03:55,0 --> 02:03:55,0
+Alma
+
+3824
+02:03:55,0 --> 02:03:55,0
+
+
+3825
+02:03:55,0 --> 02:03:55,0
+
+
+3826
+02:03:55,0 --> 02:03:55,0
+
+
+3827
+02:03:55,0 --> 02:03:55,0
+was
+
+3828
+02:03:55,0 --> 02:03:55,0
+
+
+3829
+02:03:55,0 --> 02:03:55,0
+
+
+3830
+02:03:55,0 --> 02:03:55,0
+
+
+3831
+02:03:55,0 --> 02:03:55,0
+the
+
+3832
+02:03:55,0 --> 02:03:55,0
+
+
+3833
+02:03:55,0 --> 02:03:55,0
+
+
+3834
+02:03:55,0 --> 02:03:55,0
+
+
+3835
+02:03:55,0 --> 02:03:55,0
+
+
+3836
+02:03:55,0 --> 02:03:55,0
+
+
+3837
+02:03:55,0 --> 02:03:55,0
+first
+
+3838
+02:03:55,0 --> 02:03:55,0
+
+
+3839
+02:03:55,0 --> 02:03:55,0
+
+
+3840
+02:03:55,0 --> 02:03:55,0
+
+
+3841
+02:03:55,0 --> 02:03:55,0
+and
+
+3842
+02:03:55,0 --> 02:03:55,0
+
+
+3843
+02:03:55,0 --> 02:03:55,0
+
+
+3844
+02:03:55,0 --> 02:03:55,0
+
+
+3845
+02:03:55,0 --> 02:03:55,0
+
+
+3846
+02:03:55,0 --> 02:03:55,0
+
+
+3847
+02:03:55,0 --> 02:03:55,0
+chief
+
+3848
+02:03:55,0 --> 02:03:55,0
+
+
+3849
+02:03:55,0 --> 02:03:55,0
+
+
+3850
+02:03:55,0 --> 02:03:55,0
+
+
+3851
+02:03:55,0 --> 02:03:55,0
+
+
+3852
+02:03:55,0 --> 02:03:55,0
+
+
+3853
+02:03:55,0 --> 02:03:55,0
+
+
+3854
+02:03:55,0 --> 02:03:41,
+judge.
+
+3855
+02:03:41,0 --> 02:03:41,0
+45 And now it came to pass that his father died, being eighty and two years old, having lived to fulfil the commandments of
+
+3856
+02:03:41,0 --> 02:03:41,0
+
+
+3857
+02:03:41,0 --> 02:03:41,0
+
+
+3858
+02:03:41,0 --> 02:03:41,0
+
+
+3859
+02:03:41,0 --> 02:03:41,0
+
+
+3860
+02:03:41,0 --> 02:03:41,0
+And
+
+3861
+02:03:41,0 --> 02:03:41,0
+
+
+3862
+02:03:41,0 --> 02:03:41,0
+
+
+3863
+02:03:41,0 --> 02:03:41,0
+
+
+3864
+02:03:41,0 --> 02:03:41,0
+now
+
+3865
+02:03:41,0 --> 02:03:41,0
+
+
+3866
+02:03:41,0 --> 02:03:41,0
+
+
+3867
+02:03:41,0 --> 02:03:41,0
+it
+
+3868
+02:03:41,0 --> 02:03:41,0
+
+
+3869
+02:03:41,0 --> 02:03:41,0
+
+
+3870
+02:03:41,0 --> 02:03:41,0
+
+
+3871
+02:03:41,0 --> 02:03:41,0
+
+
+3872
+02:03:41,0 --> 02:03:41,0
+came
+
+3873
+02:03:41,0 --> 02:03:41,0
+
+
+3874
+02:03:41,0 --> 02:03:41,0
+
+
+3875
+02:03:41,0 --> 02:03:41,0
+to
+
+3876
+02:03:41,0 --> 02:03:41,0
+
+
+3877
+02:03:41,0 --> 02:03:41,0
+
+
+3878
+02:03:41,0 --> 02:03:41,0
+
+
+3879
+02:03:41,0 --> 02:03:41,0
+
+
+3880
+02:03:41,0 --> 02:03:41,0
+pass
+
+3881
+02:03:41,0 --> 02:03:41,0
+
+
+3882
+02:03:41,0 --> 02:03:41,0
+
+
+3883
+02:03:41,0 --> 02:03:41,0
+
+
+3884
+02:03:41,0 --> 02:03:41,0
+
+
+3885
+02:03:41,0 --> 02:03:41,0
+that
+
+3886
+02:03:41,0 --> 02:03:41,0
+
+
+3887
+02:03:41,0 --> 02:03:41,0
+
+
+3888
+02:03:41,0 --> 02:03:41,0
+
+
+3889
+02:03:41,0 --> 02:03:41,0
+his
+
+3890
+02:03:41,0 --> 02:03:41,0
+
+
+3891
+02:03:41,0 --> 02:03:41,0
+
+
+3892
+02:03:41,0 --> 02:03:41,0
+
+
+3893
+02:03:41,0 --> 02:03:41,0
+
+
+3894
+02:03:41,0 --> 02:03:41,0
+
+
+3895
+02:03:41,0 --> 02:03:41,0
+
+
+3896
+02:03:41,0 --> 02:03:41,0
+father
+
+3897
+02:03:41,0 --> 02:03:41,0
+
+
+3898
+02:03:41,0 --> 02:03:41,0
+
+
+3899
+02:03:41,0 --> 02:03:41,0
+
+
+3900
+02:03:41,0 --> 02:03:41,0
+
+
+3901
+02:03:41,0 --> 02:03:41,0
+
+
+3902
+02:03:41,0 --> 02:03:41,0
+died,
+
+3903
+02:03:41,0 --> 02:03:41,0
+
+
+3904
+02:03:41,0 --> 02:03:41,0
+
+
+3905
+02:03:41,0 --> 02:03:41,0
+
+
+3906
+02:03:41,0 --> 02:03:41,0
+
+
+3907
+02:03:41,0 --> 02:03:41,0
+
+
+3908
+02:03:41,0 --> 02:03:41,0
+being
+
+3909
+02:03:41,0 --> 02:03:41,0
+
+
+3910
+02:03:41,0 --> 02:03:41,0
+
+
+3911
+02:03:41,0 --> 02:03:41,0
+
+
+3912
+02:03:41,0 --> 02:03:41,0
+
+
+3913
+02:03:41,0 --> 02:03:41,0
+
+
+3914
+02:03:41,0 --> 02:03:41,0
+
+
+3915
+02:03:41,0 --> 02:03:41,0
+eighty
+
+3916
+02:03:41,0 --> 02:03:41,0
+
+
+3917
+02:03:41,0 --> 02:03:41,0
+
+
+3918
+02:03:41,0 --> 02:03:41,0
+
+
+3919
+02:03:41,0 --> 02:03:41,0
+and
+
+3920
+02:03:41,0 --> 02:03:41,0
+
+
+3921
+02:03:41,0 --> 02:03:41,0
+
+
+3922
+02:03:41,0 --> 02:03:41,0
+
+
+3923
+02:03:41,0 --> 02:03:41,0
+two
+
+3924
+02:03:41,0 --> 02:03:41,0
+
+
+3925
+02:03:41,0 --> 02:03:41,0
+
+
+3926
+02:03:41,0 --> 02:03:41,0
+
+
+3927
+02:03:41,0 --> 02:03:41,0
+
+
+3928
+02:03:41,0 --> 02:03:41,0
+
+
+3929
+02:03:41,0 --> 02:03:41,0
+years
+
+3930
+02:03:41,0 --> 02:03:41,0
+
+
+3931
+02:03:41,0 --> 02:03:41,0
+
+
+3932
+02:03:41,0 --> 02:03:41,0
+
+
+3933
+02:03:41,0 --> 02:03:41,0
+
+
+3934
+02:03:41,0 --> 02:03:41,0
+old,
+
+3935
+02:03:41,0 --> 02:03:41,0
+
+
+3936
+02:03:41,0 --> 02:03:41,0
+
+
+3937
+02:03:41,0 --> 02:03:41,0
+
+
+3938
+02:03:41,0 --> 02:03:41,0
+
+
+3939
+02:03:41,0 --> 02:03:41,0
+
+
+3940
+02:03:41,0 --> 02:03:41,0
+
+
+3941
+02:03:41,0 --> 02:03:41,0
+having
+
+3942
+02:03:41,0 --> 02:03:41,0
+
+
+3943
+02:03:41,0 --> 02:03:41,0
+
+
+3944
+02:03:41,0 --> 02:03:41,0
+
+
+3945
+02:03:41,0 --> 02:03:41,0
+
+
+3946
+02:03:41,0 --> 02:03:41,0
+
+
+3947
+02:03:41,0 --> 02:03:41,0
+lived
+
+3948
+02:03:41,0 --> 02:03:41,0
+
+
+3949
+02:03:41,0 --> 02:03:41,0
+
+
+3950
+02:03:41,0 --> 02:03:41,0
+to
+
+3951
+02:03:41,0 --> 02:03:41,0
+
+
+3952
+02:03:41,0 --> 02:03:41,0
+
+
+3953
+02:03:41,0 --> 02:03:41,0
+
+
+3954
+02:03:41,0 --> 02:03:41,0
+
+
+3955
+02:03:41,0 --> 02:03:41,0
+
+
+3956
+02:03:41,0 --> 02:03:41,0
+
+
+3957
+02:03:41,0 --> 02:03:41,0
+fulfil
+
+3958
+02:03:41,0 --> 02:03:41,0
+
+
+3959
+02:03:41,0 --> 02:03:41,0
+
+
+3960
+02:03:41,0 --> 02:03:41,0
+
+
+3961
+02:03:41,0 --> 02:03:41,0
+the
+
+3962
+02:03:41,0 --> 02:03:41,0
+
+
+3963
+02:03:41,0 --> 02:03:41,0
+
+
+3964
+02:03:41,0 --> 02:03:41,0
+
+
+3965
+02:03:41,0 --> 02:03:41,0
+
+
+3966
+02:03:41,0 --> 02:03:41,0
+
+
+3967
+02:03:41,0 --> 02:03:41,0
+
+
+3968
+02:03:41,0 --> 02:03:41,0
+
+
+3969
+02:03:41,0 --> 02:03:41,0
+
+
+3970
+02:03:41,0 --> 02:03:41,0
+
+
+3971
+02:03:41,0 --> 02:03:41,0
+
+
+3972
+02:03:41,0 --> 02:03:41,0
+
+
+3973
+02:03:41,0 --> 02:03:41,0
+
+
+3974
+02:03:41,0 --> 02:03:41,0
+commandments
+
+3975
+02:03:41,0 --> 02:03:41,0
+
+
+3976
+02:03:41,0 --> 02:03:41,0
+
+
+3977
+02:03:41,0 --> 02:03:41,0
+of
+
+3978
+02:03:41,0 --> 02:03:41,0
+
+
+3979
+02:03:41,0 --> 02:03:41,0
+
+
+3980
+02:03:41,0 --> 02:03:41,0
+
+
+3981
+02:03:41,0 --> 02:03:41,0
+
+
+3982
+02:03:41,0 --> 02:03:13,
+God.
+
+3983
+02:03:13,0 --> 02:03:13,0
+46 And it came to pass that Mosiah died also, in the thirty and third year of his reign, being sixty and three years old; making in the whole, five hundred and nine years from the time Lehi left
+
+3984
+02:03:13,0 --> 02:03:13,0
+
+
+3985
+02:03:13,0 --> 02:03:13,0
+
+
+3986
+02:03:13,0 --> 02:03:13,0
+
+
+3987
+02:03:13,0 --> 02:03:13,0
+
+
+3988
+02:03:13,0 --> 02:03:13,0
+And
+
+3989
+02:03:13,0 --> 02:03:13,0
+
+
+3990
+02:03:13,0 --> 02:03:13,0
+
+
+3991
+02:03:13,0 --> 02:03:13,0
+it
+
+3992
+02:03:13,0 --> 02:03:13,0
+
+
+3993
+02:03:13,0 --> 02:03:13,0
+
+
+3994
+02:03:13,0 --> 02:03:13,0
+
+
+3995
+02:03:13,0 --> 02:03:13,0
+
+
+3996
+02:03:13,0 --> 02:03:13,0
+came
+
+3997
+02:03:13,0 --> 02:03:13,0
+
+
+3998
+02:03:13,0 --> 02:03:13,0
+
+
+3999
+02:03:13,0 --> 02:03:13,0
+to
+
+4000
+02:03:13,0 --> 02:03:13,0
+
+
+4001
+02:03:13,0 --> 02:03:13,0
+
+
+4002
+02:03:13,0 --> 02:03:13,0
+
+
+4003
+02:03:13,0 --> 02:03:13,0
+
+
+4004
+02:03:13,0 --> 02:03:13,0
+pass
+
+4005
+02:03:13,0 --> 02:03:13,0
+
+
+4006
+02:03:13,0 --> 02:03:13,0
+
+
+4007
+02:03:13,0 --> 02:03:13,0
+
+
+4008
+02:03:13,0 --> 02:03:13,0
+
+
+4009
+02:03:13,0 --> 02:03:13,0
+that
+
+4010
+02:03:13,0 --> 02:03:13,0
+
+
+4011
+02:03:13,0 --> 02:03:13,0
+
+
+4012
+02:03:13,0 --> 02:03:13,0
+
+
+4013
+02:03:13,0 --> 02:03:13,0
+
+
+4014
+02:03:13,0 --> 02:03:13,0
+
+
+4015
+02:03:13,0 --> 02:03:13,0
+
+
+4016
+02:03:13,0 --> 02:03:13,0
+Mosiah
+
+4017
+02:03:13,0 --> 02:03:13,0
+
+
+4018
+02:03:13,0 --> 02:03:13,0
+
+
+4019
+02:03:13,0 --> 02:03:13,0
+
+
+4020
+02:03:13,0 --> 02:03:13,0
+
+
+4021
+02:03:13,0 --> 02:03:13,0
+died
+
+4022
+02:03:13,0 --> 02:03:13,0
+
+
+4023
+02:03:13,0 --> 02:03:13,0
+
+
+4024
+02:03:13,0 --> 02:03:13,0
+
+
+4025
+02:03:13,0 --> 02:03:13,0
+
+
+4026
+02:03:13,0 --> 02:03:13,0
+
+
+4027
+02:03:13,0 --> 02:03:13,0
+also,
+
+4028
+02:03:13,0 --> 02:03:13,0
+
+
+4029
+02:03:13,0 --> 02:03:13,0
+
+
+4030
+02:03:13,0 --> 02:03:13,0
+in
+
+4031
+02:03:13,0 --> 02:03:13,0
+
+
+4032
+02:03:13,0 --> 02:03:13,0
+
+
+4033
+02:03:13,0 --> 02:03:13,0
+
+
+4034
+02:03:13,0 --> 02:03:13,0
+the
+
+4035
+02:03:13,0 --> 02:03:13,0
+
+
+4036
+02:03:13,0 --> 02:03:13,0
+
+
+4037
+02:03:13,0 --> 02:03:13,0
+
+
+4038
+02:03:13,0 --> 02:03:13,0
+
+
+4039
+02:03:13,0 --> 02:03:13,0
+
+
+4040
+02:03:13,0 --> 02:03:13,0
+
+
+4041
+02:03:13,0 --> 02:03:13,0
+thirty
+
+4042
+02:03:13,0 --> 02:03:13,0
+
+
+4043
+02:03:13,0 --> 02:03:13,0
+
+
+4044
+02:03:13,0 --> 02:03:13,0
+
+
+4045
+02:03:13,0 --> 02:03:13,0
+and
+
+4046
+02:03:13,0 --> 02:03:13,0
+
+
+4047
+02:03:13,0 --> 02:03:13,0
+
+
+4048
+02:03:13,0 --> 02:03:13,0
+
+
+4049
+02:03:13,0 --> 02:03:13,0
+
+
+4050
+02:03:13,0 --> 02:03:13,0
+
+
+4051
+02:03:13,0 --> 02:03:13,0
+third
+
+4052
+02:03:13,0 --> 02:03:13,0
+
+
+4053
+02:03:13,0 --> 02:03:13,0
+
+
+4054
+02:03:13,0 --> 02:03:13,0
+
+
+4055
+02:03:13,0 --> 02:03:13,0
+
+
+4056
+02:03:13,0 --> 02:03:13,0
+year
+
+4057
+02:03:13,0 --> 02:03:13,0
+
+
+4058
+02:03:13,0 --> 02:03:13,0
+
+
+4059
+02:03:13,0 --> 02:03:13,0
+of
+
+4060
+02:03:13,0 --> 02:03:13,0
+
+
+4061
+02:03:13,0 --> 02:03:13,0
+
+
+4062
+02:03:13,0 --> 02:03:13,0
+
+
+4063
+02:03:13,0 --> 02:03:13,0
+his
+
+4064
+02:03:13,0 --> 02:03:13,0
+
+
+4065
+02:03:13,0 --> 02:03:13,0
+
+
+4066
+02:03:13,0 --> 02:03:13,0
+
+
+4067
+02:03:13,0 --> 02:03:13,0
+
+
+4068
+02:03:13,0 --> 02:03:13,0
+
+
+4069
+02:03:13,0 --> 02:03:13,0
+
+
+4070
+02:03:13,0 --> 02:03:13,0
+reign,
+
+4071
+02:03:13,0 --> 02:03:13,0
+
+
+4072
+02:03:13,0 --> 02:03:13,0
+
+
+4073
+02:03:13,0 --> 02:03:13,0
+
+
+4074
+02:03:13,0 --> 02:03:13,0
+
+
+4075
+02:03:13,0 --> 02:03:13,0
+
+
+4076
+02:03:13,0 --> 02:03:13,0
+being
+
+4077
+02:03:13,0 --> 02:03:13,0
+
+
+4078
+02:03:13,0 --> 02:03:13,0
+
+
+4079
+02:03:13,0 --> 02:03:13,0
+
+
+4080
+02:03:13,0 --> 02:03:13,0
+
+
+4081
+02:03:13,0 --> 02:03:13,0
+
+
+4082
+02:03:13,0 --> 02:03:13,0
+sixty
+
+4083
+02:03:13,0 --> 02:03:13,0
+
+
+4084
+02:03:13,0 --> 02:03:13,0
+
+
+4085
+02:03:13,0 --> 02:03:13,0
+
+
+4086
+02:03:13,0 --> 02:03:13,0
+and
+
+4087
+02:03:13,0 --> 02:03:13,0
+
+
+4088
+02:03:13,0 --> 02:03:13,0
+
+
+4089
+02:03:13,0 --> 02:03:13,0
+
+
+4090
+02:03:13,0 --> 02:03:13,0
+
+
+4091
+02:03:13,0 --> 02:03:13,0
+
+
+4092
+02:03:13,0 --> 02:03:13,0
+three
+
+4093
+02:03:13,0 --> 02:03:13,0
+
+
+4094
+02:03:13,0 --> 02:03:13,0
+
+
+4095
+02:03:13,0 --> 02:03:13,0
+
+
+4096
+02:03:13,0 --> 02:03:13,0
+
+
+4097
+02:03:13,0 --> 02:03:13,0
+
+
+4098
+02:03:13,0 --> 02:03:13,0
+years
+
+4099
+02:03:13,0 --> 02:03:13,0
+
+
+4100
+02:03:13,0 --> 02:03:13,0
+
+
+4101
+02:03:13,0 --> 02:03:13,0
+
+
+4102
+02:03:13,0 --> 02:03:13,0
+
+
+4103
+02:03:13,0 --> 02:03:13,0
+old;
+
+4104
+02:03:13,0 --> 02:03:13,0
+
+
+4105
+02:03:13,0 --> 02:03:13,0
+
+
+4106
+02:03:13,0 --> 02:03:13,0
+
+
+4107
+02:03:13,0 --> 02:03:13,0
+
+
+4108
+02:03:13,0 --> 02:03:13,0
+
+
+4109
+02:03:13,0 --> 02:03:13,0
+
+
+4110
+02:03:13,0 --> 02:03:13,0
+making
+
+4111
+02:03:13,0 --> 02:03:13,0
+
+
+4112
+02:03:13,0 --> 02:03:13,0
+
+
+4113
+02:03:13,0 --> 02:03:13,0
+in
+
+4114
+02:03:13,0 --> 02:03:13,0
+
+
+4115
+02:03:13,0 --> 02:03:13,0
+
+
+4116
+02:03:13,0 --> 02:03:13,0
+
+
+4117
+02:03:13,0 --> 02:03:13,0
+the
+
+4118
+02:03:13,0 --> 02:03:13,0
+
+
+4119
+02:03:13,0 --> 02:03:13,0
+
+
+4120
+02:03:13,0 --> 02:03:13,0
+
+
+4121
+02:03:13,0 --> 02:03:13,0
+
+
+4122
+02:03:13,0 --> 02:03:13,0
+
+
+4123
+02:03:13,0 --> 02:03:13,0
+
+
+4124
+02:03:13,0 --> 02:03:13,0
+whole,
+
+4125
+02:03:13,0 --> 02:03:13,0
+
+
+4126
+02:03:13,0 --> 02:03:13,0
+
+
+4127
+02:03:13,0 --> 02:03:13,0
+
+
+4128
+02:03:13,0 --> 02:03:13,0
+
+
+4129
+02:03:13,0 --> 02:03:13,0
+five
+
+4130
+02:03:13,0 --> 02:03:13,0
+
+
+4131
+02:03:13,0 --> 02:03:13,0
+
+
+4132
+02:03:13,0 --> 02:03:13,0
+
+
+4133
+02:03:13,0 --> 02:03:13,0
+
+
+4134
+02:03:13,0 --> 02:03:13,0
+
+
+4135
+02:03:13,0 --> 02:03:13,0
+
+
+4136
+02:03:13,0 --> 02:03:13,0
+
+
+4137
+02:03:13,0 --> 02:03:13,0
+hundred
+
+4138
+02:03:13,0 --> 02:03:13,0
+
+
+4139
+02:03:13,0 --> 02:03:13,0
+
+
+4140
+02:03:13,0 --> 02:03:13,0
+
+
+4141
+02:03:13,0 --> 02:03:13,0
+and
+
+4142
+02:03:13,0 --> 02:03:13,0
+
+
+4143
+02:03:13,0 --> 02:03:13,0
+
+
+4144
+02:03:13,0 --> 02:03:13,0
+
+
+4145
+02:03:13,0 --> 02:03:13,0
+
+
+4146
+02:03:13,0 --> 02:03:13,0
+nine
+
+4147
+02:03:13,0 --> 02:03:13,0
+
+
+4148
+02:03:13,0 --> 02:03:13,0
+
+
+4149
+02:03:13,0 --> 02:03:13,0
+
+
+4150
+02:03:13,0 --> 02:03:13,0
+
+
+4151
+02:03:13,0 --> 02:03:13,0
+
+
+4152
+02:03:13,0 --> 02:03:13,0
+years
+
+4153
+02:03:13,0 --> 02:03:13,0
+
+
+4154
+02:03:13,0 --> 02:03:13,0
+
+
+4155
+02:03:13,0 --> 02:03:13,0
+
+
+4156
+02:03:13,0 --> 02:03:13,0
+
+
+4157
+02:03:13,0 --> 02:03:13,0
+from
+
+4158
+02:03:13,0 --> 02:03:13,0
+
+
+4159
+02:03:13,0 --> 02:03:13,0
+
+
+4160
+02:03:13,0 --> 02:03:13,0
+
+
+4161
+02:03:13,0 --> 02:03:13,0
+the
+
+4162
+02:03:13,0 --> 02:03:13,0
+
+
+4163
+02:03:13,0 --> 02:03:13,0
+
+
+4164
+02:03:13,0 --> 02:03:13,0
+
+
+4165
+02:03:13,0 --> 02:03:13,0
+
+
+4166
+02:03:13,0 --> 02:03:13,0
+time
+
+4167
+02:03:13,0 --> 02:03:13,0
+
+
+4168
+02:03:13,0 --> 02:03:13,0
+
+
+4169
+02:03:13,0 --> 02:03:13,0
+
+
+4170
+02:03:13,0 --> 02:03:13,0
+
+
+4171
+02:03:13,0 --> 02:03:13,0
+Lehi
+
+4172
+02:03:13,0 --> 02:03:13,0
+
+
+4173
+02:03:13,0 --> 02:03:13,0
+
+
+4174
+02:03:13,0 --> 02:03:13,0
+
+
+4175
+02:03:13,0 --> 02:03:13,0
+
+
+4176
+02:03:13,0 --> 02:03:13,0
+left
+
+4177
+02:03:13,0 --> 02:03:13,0
+
+
+4178
+02:03:13,0 --> 02:03:13,0
+
+
+4179
+02:03:13,0 --> 02:03:13,0
+
+
+4180
+02:03:13,0 --> 02:03:13,0
+
+
+4181
+02:03:13,0 --> 02:03:13,0
+
+
+4182
+02:03:13,0 --> 02:03:13,0
+
+
+4183
+02:03:13,0 --> 02:03:13,0
+
+
+4184
+02:03:13,0 --> 02:03:13,0
+
+
+4185
+02:03:13,0 --> 02:03:13,0
+
+
+4186
+02:03:13,0 --> 02:03:13,0
+
+
+4187
+02:03:13,0 --> 02:03:27,
+Jerusalem.
+
+4188
+02:03:27,0 --> 02:03:27,0
+47 And thus ended the reign of the kings over the people of Nephi; and thus ended the days of Alma, who was the founder of their church.
+
+4189
+02:03:27,0 --> 02:03:27,0
+
+
+4190
+02:03:27,0 --> 02:03:27,0
+
+
+4191
+02:03:27,0 --> 02:03:27,0
+
+
+4192
+02:03:27,0 --> 02:03:27,0
+
+
+4193
+02:03:27,0 --> 02:03:27,0
+And
+
+4194
+02:03:27,0 --> 02:03:27,0
+
+
+4195
+02:03:27,0 --> 02:03:27,0
+
+
+4196
+02:03:27,0 --> 02:03:27,0
+
+
+4197
+02:03:27,0 --> 02:03:27,0
+
+
+4198
+02:03:27,0 --> 02:03:27,0
+thus
+
+4199
+02:03:27,0 --> 02:03:27,0
+
+
+4200
+02:03:27,0 --> 02:03:27,0
+
+
+4201
+02:03:27,0 --> 02:03:27,0
+
+
+4202
+02:03:27,0 --> 02:03:27,0
+
+
+4203
+02:03:27,0 --> 02:03:27,0
+
+
+4204
+02:03:27,0 --> 02:03:27,0
+ended
+
+4205
+02:03:27,0 --> 02:03:27,0
+
+
+4206
+02:03:27,0 --> 02:03:27,0
+
+
+4207
+02:03:27,0 --> 02:03:27,0
+
+
+4208
+02:03:27,0 --> 02:03:27,0
+the
+
+4209
+02:03:27,0 --> 02:03:27,0
+
+
+4210
+02:03:27,0 --> 02:03:27,0
+
+
+4211
+02:03:27,0 --> 02:03:27,0
+
+
+4212
+02:03:27,0 --> 02:03:27,0
+
+
+4213
+02:03:27,0 --> 02:03:27,0
+
+
+4214
+02:03:27,0 --> 02:03:27,0
+reign
+
+4215
+02:03:27,0 --> 02:03:27,0
+
+
+4216
+02:03:27,0 --> 02:03:27,0
+
+
+4217
+02:03:27,0 --> 02:03:27,0
+of
+
+4218
+02:03:27,0 --> 02:03:27,0
+
+
+4219
+02:03:27,0 --> 02:03:27,0
+
+
+4220
+02:03:27,0 --> 02:03:27,0
+
+
+4221
+02:03:27,0 --> 02:03:27,0
+the
+
+4222
+02:03:27,0 --> 02:03:27,0
+
+
+4223
+02:03:27,0 --> 02:03:27,0
+
+
+4224
+02:03:27,0 --> 02:03:27,0
+
+
+4225
+02:03:27,0 --> 02:03:27,0
+
+
+4226
+02:03:27,0 --> 02:03:27,0
+
+
+4227
+02:03:27,0 --> 02:03:27,0
+kings
+
+4228
+02:03:27,0 --> 02:03:27,0
+
+
+4229
+02:03:27,0 --> 02:03:27,0
+
+
+4230
+02:03:27,0 --> 02:03:27,0
+
+
+4231
+02:03:27,0 --> 02:03:27,0
+
+
+4232
+02:03:27,0 --> 02:03:27,0
+over
+
+4233
+02:03:27,0 --> 02:03:27,0
+
+
+4234
+02:03:27,0 --> 02:03:27,0
+
+
+4235
+02:03:27,0 --> 02:03:27,0
+
+
+4236
+02:03:27,0 --> 02:03:27,0
+the
+
+4237
+02:03:27,0 --> 02:03:27,0
+
+
+4238
+02:03:27,0 --> 02:03:27,0
+
+
+4239
+02:03:27,0 --> 02:03:27,0
+
+
+4240
+02:03:27,0 --> 02:03:27,0
+
+
+4241
+02:03:27,0 --> 02:03:27,0
+
+
+4242
+02:03:27,0 --> 02:03:27,0
+
+
+4243
+02:03:27,0 --> 02:03:27,0
+people
+
+4244
+02:03:27,0 --> 02:03:27,0
+
+
+4245
+02:03:27,0 --> 02:03:27,0
+
+
+4246
+02:03:27,0 --> 02:03:27,0
+of
+
+4247
+02:03:27,0 --> 02:03:27,0
+
+
+4248
+02:03:27,0 --> 02:03:27,0
+
+
+4249
+02:03:27,0 --> 02:03:27,0
+
+
+4250
+02:03:27,0 --> 02:03:27,0
+
+
+4251
+02:03:27,0 --> 02:03:27,0
+
+
+4252
+02:03:27,0 --> 02:03:27,0
+
+
+4253
+02:03:27,0 --> 02:03:27,0
+Nephi;
+
+4254
+02:03:27,0 --> 02:03:27,0
+
+
+4255
+02:03:27,0 --> 02:03:27,0
+
+
+4256
+02:03:27,0 --> 02:03:27,0
+
+
+4257
+02:03:27,0 --> 02:03:27,0
+and
+
+4258
+02:03:27,0 --> 02:03:27,0
+
+
+4259
+02:03:27,0 --> 02:03:27,0
+
+
+4260
+02:03:27,0 --> 02:03:27,0
+
+
+4261
+02:03:27,0 --> 02:03:27,0
+
+
+4262
+02:03:27,0 --> 02:03:27,0
+thus
+
+4263
+02:03:27,0 --> 02:03:27,0
+
+
+4264
+02:03:27,0 --> 02:03:27,0
+
+
+4265
+02:03:27,0 --> 02:03:27,0
+
+
+4266
+02:03:27,0 --> 02:03:27,0
+
+
+4267
+02:03:27,0 --> 02:03:27,0
+
+
+4268
+02:03:27,0 --> 02:03:27,0
+ended
+
+4269
+02:03:27,0 --> 02:03:27,0
+
+
+4270
+02:03:27,0 --> 02:03:27,0
+
+
+4271
+02:03:27,0 --> 02:03:27,0
+
+
+4272
+02:03:27,0 --> 02:03:27,0
+the
+
+4273
+02:03:27,0 --> 02:03:27,0
+
+
+4274
+02:03:27,0 --> 02:03:27,0
+
+
+4275
+02:03:27,0 --> 02:03:27,0
+
+
+4276
+02:03:27,0 --> 02:03:27,0
+
+
+4277
+02:03:27,0 --> 02:03:27,0
+days
+
+4278
+02:03:27,0 --> 02:03:27,0
+
+
+4279
+02:03:27,0 --> 02:03:27,0
+
+
+4280
+02:03:27,0 --> 02:03:27,0
+of
+
+4281
+02:03:27,0 --> 02:03:27,0
+
+
+4282
+02:03:27,0 --> 02:03:27,0
+
+
+4283
+02:03:27,0 --> 02:03:27,0
+
+
+4284
+02:03:27,0 --> 02:03:27,0
+
+
+4285
+02:03:27,0 --> 02:03:27,0
+
+
+4286
+02:03:27,0 --> 02:03:27,0
+Alma,
+
+4287
+02:03:27,0 --> 02:03:27,0
+
+
+4288
+02:03:27,0 --> 02:03:27,0
+
+
+4289
+02:03:27,0 --> 02:03:27,0
+
+
+4290
+02:03:27,0 --> 02:03:27,0
+who
+
+4291
+02:03:27,0 --> 02:03:27,0
+
+
+4292
+02:03:27,0 --> 02:03:27,0
+
+
+4293
+02:03:27,0 --> 02:03:27,0
+
+
+4294
+02:03:27,0 --> 02:03:27,0
+was
+
+4295
+02:03:27,0 --> 02:03:27,0
+
+
+4296
+02:03:27,0 --> 02:03:27,0
+
+
+4297
+02:03:27,0 --> 02:03:27,0
+
+
+4298
+02:03:27,0 --> 02:03:27,0
+the
+
+4299
+02:03:27,0 --> 02:03:27,0
+
+
+4300
+02:03:27,0 --> 02:03:27,0
+
+
+4301
+02:03:27,0 --> 02:03:27,0
+
+
+4302
+02:03:27,0 --> 02:03:27,0
+
+
+4303
+02:03:27,0 --> 02:03:27,0
+
+
+4304
+02:03:27,0 --> 02:03:27,0
+
+
+4305
+02:03:27,0 --> 02:03:27,0
+
+
+4306
+02:03:27,0 --> 02:03:27,0
+founder
+
+4307
+02:03:27,0 --> 02:03:27,0
+
+
+4308
+02:03:27,0 --> 02:03:27,0
+
+
+4309
+02:03:27,0 --> 02:03:27,0
+of
+
+4310
+02:03:27,0 --> 02:03:27,0
+
+
+4311
+02:03:27,0 --> 02:03:27,0
+
+
+4312
+02:03:27,0 --> 02:03:27,0
+
+
+4313
+02:03:27,0 --> 02:03:27,0
+
+
+4314
+02:03:27,0 --> 02:03:27,0
+
+
+4315
+02:03:27,0 --> 02:03:27,0
+their
+
+4316
+02:03:27,0 --> 02:03:27,0
+
+
+4317
+02:03:27,0 --> 02:03:27,0
+
+
+4318
+02:03:27,0 --> 02:03:27,0
+
+
+4319
+02:03:27,0 --> 02:03:27,0
+
+
+4320
+02:03:27,0 --> 02:03:27,0
+
+
+4321
+02:03:27,0 --> 02:03:27,0
+
+
+4322
+02:03:27,0 --> 02:03:27,0
+
+
+4323
+02:03:27,0 --> 02:03:27,0
+church.
+
+4324
+02:03:27,0 --> 02:05:39,
+
 

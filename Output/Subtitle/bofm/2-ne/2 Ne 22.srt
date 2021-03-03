@@ -1,76 +1,121 @@
 1
-00:00:00,0 --> 00:00:02,333
-Chapter 22 In the millennial day all men will
+00:00:00,0 --> 00:00:00,0
+Chapter 22 In the millennial day all men
 
 2
-00:00:02,333 --> 00:00:04,666
- praise the Lord—He will dwell among them—Compare
+00:00:00,0 --> 00:00:00,0
+will praise the Lord—He will dwell among
 
 3
-00:00:04,666 --> 00:00:06,999
-Isaiah 12. About 559–545 B.C.
+00:00:00,0 --> 00:10:39,
+them—Compare 
+Isaiah 12. About 559–545 B.C. 
 
 4
-00:00:07,975 --> 00:00:10,642
-1 And in that day thou shalt say: O Lord, I will
+00:10:39,0 --> 00:10:39,0
+1 And in that day thou shalt say: O
 
 5
-00:00:10,642 --> 00:00:13,309
- praise thee; though thou wast angry with me thine
+00:10:39,0 --> 00:10:39,0
+Lord, I will praise thee; though
 
 6
-00:00:13,309 --> 00:00:15,976
- anger is turned away, and thou comfortedst me
+00:10:39,0 --> 00:10:39,0
+thou wast angry with me thine anger is
 
 7
-00:00:15,949 --> 00:00:18,616
-2 Behold, God is my salvation; I will trust, and
+00:10:39,0 --> 00:10:11,
+turned away, and thou comfortedst me.
 
 8
-00:00:18,616 --> 00:00:21,283
- not be afraid; for the Lord Jehovah is my strength
+00:10:11,0 --> 00:10:11,0
+2 Behold, God is my
 
 9
-00:00:21,283 --> 00:00:23,95
- and my song; he also has become my salvation
+00:10:11,0 --> 00:10:11,0
+salvation; I will trust, and not be
 
 10
-00:00:23,924 --> 00:00:27,924
-3 Therefore, with joy shall ye draw water out of
+00:10:11,0 --> 00:10:11,0
+afraid; for the Lord Jehovah is
 
 11
-00:00:27,924 --> 00:00:31,924
- the wells of salvation
+00:10:11,0 --> 00:10:11,0
+my strength and my song; he
 
 12
-00:00:31,899 --> 00:00:34,566
-4 And in that day shall ye say: Praise the Lord,
+00:10:11,0 --> 00:09:57,
+also has become my salvation.
 
 13
-00:00:34,566 --> 00:00:37,233
- call upon his name, declare his doings among the
+00:09:57,0 --> 00:09:57,0
+3 Therefore, with joy
 
 14
-00:00:37,233 --> 00:00:39,9
- people, make mention that his name is exalted
+00:09:57,0 --> 00:09:57,0
+shall ye draw water out of
 
 15
-00:00:39,873 --> 00:00:47,873
-5 Sing unto the Lord; for he hath done excellent
+00:09:57,0 --> 00:13:28,
+the wells of salvation.
 
 16
-00:00:47,873 --> 00:00:55,873
- things; this is known in all the earth
+00:13:28,0 --> 00:13:28,0
+4 And in that day shall
 
 17
-00:00:55,822 --> 00:00:56,155
-6 Cry out and shout, thou inhabitant of Zion; for
+00:13:28,0 --> 00:13:28,0
+ye say: Praise the Lord,
 
 18
-00:00:56,155 --> 00:00:56,488
- great is the Holy One of Israel in the midst of
+00:13:28,0 --> 00:13:28,0
+call upon his name,
 
 19
-00:00:56,488 --> 00:00:56,821
- thee.
+00:13:28,0 --> 00:13:28,0
+declare his doings among
+
+20
+00:13:28,0 --> 00:13:28,0
+the people, make mention
+
+21
+00:13:28,0 --> 00:17:41,
+that his name is exalted.
+
+22
+00:17:41,0 --> 00:17:41,0
+5 Sing unto the Lord;
+
+23
+00:17:41,0 --> 00:17:41,0
+for he hath done
+
+24
+00:17:41,0 --> 00:17:41,0
+excellent things; this is
+
+25
+00:17:41,0 --> 00:17:13,
+known in all the earth.
+
+26
+00:17:13,0 --> 00:17:13,0
+6 Cry out and shout,
+
+27
+00:17:13,0 --> 00:17:13,0
+thou inhabitant of
+
+28
+00:17:13,0 --> 00:17:13,0
+Zion; for great is
+
+29
+00:17:13,0 --> 00:17:13,0
+the Holy One of
+
+30
+00:17:13,0 --> 00:16:45,
+Israel in the midst of thee. 
 

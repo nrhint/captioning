@@ -1,452 +1,1860 @@
 1
-00:00:00,0 --> 00:00:09,0
+00:00:00,0 --> 00:00:00,0
 Chapter 8 Tempests, earthquakes, fires,
 
 2
-00:00:09,0 --> 00:00:18,0
- whirlwinds, and physical upheavals attest the crucifixion of
+00:00:00,0 --> 00:00:00,0
+whirlwinds, and physical upheavals attest the
 
 3
-00:00:18,0 --> 00:00:27,0
- Christ—Many people are destroyed—Darkness covers
+00:00:00,0 --> 00:00:00,0
+crucifixion of Christ—Many people are
 
 4
-00:00:27,0 --> 00:00:36,0
- the land for three days—Those who remain bemoan
+00:00:00,0 --> 00:00:00,0
+destroyed—Darkness covers the land for three days—Those
 
 5
-00:00:36,0 --> 00:00:45,0
- their fate. About A.D. 33–34.
+00:00:00,0 --> 00:18:52,
+who remain bemoan their fate. About A.D. 33–34. 
 
 6
-00:00:45,946 --> 00:00:47,089
-1 And now it came to pass that according to our
+00:18:52,0 --> 00:18:52,0
+1 And now it came to pass that
 
 7
-00:00:47,089 --> 00:00:48,232
- record, and we know our record to be true, for
+00:18:52,0 --> 00:18:52,0
+according to our record, and we know our record
 
 8
-00:00:48,232 --> 00:00:49,375
- behold, it was a just man who did keep the record—for
+00:18:52,0 --> 00:18:52,0
+to be true, for behold, it was a just
 
 9
-00:00:49,375 --> 00:00:50,518
- he truly did many miracles in the name of Jesus;
+00:18:52,0 --> 00:18:52,0
+man who did keep the record—for he
 
 10
-00:00:50,518 --> 00:00:51,661
- and there was not any man who could do a miracle in
+00:18:52,0 --> 00:18:52,0
+truly did many miracles in the name of
 
 11
-00:00:51,661 --> 00:00:52,804
- the name of Jesus save he were cleansed every whit
+00:18:52,0 --> 00:18:52,0
+Jesus; and there was not any man who could
 
 12
-00:00:52,804 --> 00:00:53,947
- from his iniquity
+00:18:52,0 --> 00:18:52,0
+do a miracle in the name of Jesus save
 
 13
-00:00:53,921 --> 00:01:11,921
-2 And now it came to pass, if there was no mistake
+00:18:52,0 --> 00:20:04,
+he were cleansed every whit from his iniquity—
 
 14
-00:01:11,921 --> 00:01:29,921
- made by this man in the reckoning of our time,
+00:20:04,0 --> 00:20:04,0
+2 And now it came to pass, if there
 
 15
-00:01:29,921 --> 00:01:47,921
- the thirty and third year had passed away
+00:20:04,0 --> 00:20:04,0
+was no mistake made by this man in
 
 16
-00:01:47,307 --> 00:01:52,107
-3 And the people began to look with great
+00:20:04,0 --> 00:20:04,0
+the reckoning of our time, the
 
 17
-00:01:52,107 --> 00:01:56,907
- earnestness for the sign which had been given by the
+00:20:04,0 --> 00:21:16,
+thirty and third year had passed away;
 
 18
-00:01:56,907 --> 00:02:01,707
- prophet Samuel, the Lamanite, yea, for the time that
+00:21:16,0 --> 00:21:16,0
+3 And the people began to look
 
 19
-00:02:01,707 --> 00:02:06,507
- there should be darkness for the space of three days
+00:21:16,0 --> 00:21:16,0
+with great earnestness for the
 
 20
-00:02:06,507 --> 00:02:11,307
- over the face of the land
+00:21:16,0 --> 00:21:16,0
+sign which had been given by the
 
 21
-00:02:11,832 --> 00:02:16,832
-4 And there began to be great doubtings and
+00:21:16,0 --> 00:21:16,0
+prophet Samuel, the Lamanite,
 
 22
-00:02:16,832 --> 00:02:21,832
- disputations among the people, notwithstanding so many
+00:21:16,0 --> 00:21:16,0
+yea, for the time that there should
 
 23
-00:02:21,832 --> 00:02:26,832
- signs had been given
+00:21:16,0 --> 00:21:16,0
+be darkness for the space of
 
 24
-00:02:26,847 --> 00:02:32,597
-5 And it came to pass in the thirty and fourth
+00:21:16,0 --> 00:22:28,
+three days over the face of the land.
 
 25
-00:02:32,597 --> 00:02:38,347
- year, in the first month, on the fourth day of the
+00:22:28,0 --> 00:22:28,0
+4 And there began to be great
 
 26
-00:02:38,347 --> 00:02:44,097
- month, there arose a great storm, such an one as
+00:22:28,0 --> 00:22:28,0
+doubtings and disputations
 
 27
-00:02:44,097 --> 00:02:49,847
- never had been known in all the land
+00:22:28,0 --> 00:22:28,0
+among the people, notwithstanding
 
 28
-00:02:49,336 --> 00:02:54,836
-6 And there was also a great and terrible tempest;
+00:22:28,0 --> 00:24:40,
+so many signs had been given.
 
 29
-00:02:54,836 --> 00:03:00,336
- and there was terrible thunder, insomuch that it
+00:24:40,0 --> 00:24:40,0
+5 And it came to pass in
 
 30
-00:03:00,336 --> 00:03:05,836
- did shake the whole earth as if it was about to
+00:24:40,0 --> 00:24:40,0
+the thirty and fourth year,
 
 31
-00:03:05,836 --> 00:03:11,336
- divide asunder
+00:24:40,0 --> 00:24:40,0
+in the first month, on
 
 32
-00:03:11,825 --> 00:03:18,825
-7 And there were exceedingly sharp lightnings,
+00:24:40,0 --> 00:24:40,0
+the fourth day of the month,
 
 33
-00:03:18,825 --> 00:03:25,825
- such as never had been known in all the land
+00:24:40,0 --> 00:24:40,0
+there arose a great
 
 34
-00:03:25,806 --> 00:03:49,806
-8 And the city of Zarahemla did take fire
+00:24:40,0 --> 00:24:40,0
+storm, such an one as never had
 
 35
-00:03:49,73 --> 00:03:50,062
-9 And the city of Moroni did sink into the depths
+00:24:40,0 --> 00:24:12,
+been known in all the land.
 
 36
-00:03:50,062 --> 00:03:50,395
- of the sea, and the inhabitants thereof were
+00:24:12,0 --> 00:24:12,0
+6 And there was also a
 
 37
-00:03:50,395 --> 00:03:50,728
- drowned
+00:24:12,0 --> 00:24:12,0
+great and terrible
 
 38
-00:03:50,13 --> 00:03:52,797
-10 And the earth was carried up upon the city of
+00:24:12,0 --> 00:24:12,0
+tempest; and there was
 
 39
-00:03:52,797 --> 00:03:55,464
- Moronihah, that in the place of the city there
+00:24:12,0 --> 00:24:12,0
+terrible thunder, insomuch
 
 40
-00:03:55,464 --> 00:03:58,131
- became a great mountain
+00:24:12,0 --> 00:24:12,0
+that it did shake the
 
 41
-00:03:58,705 --> 00:04:03,705
-11 And there was a great and terrible destruction
+00:24:12,0 --> 00:24:12,0
+whole earth as if it was
 
 42
-00:04:03,705 --> 00:04:08,705
- in the land southward
+00:24:12,0 --> 00:23:58,
+about to divide asunder.
 
 43
-00:04:08,782 --> 00:04:15,115
-12 But behold, there was a more great and terrible
+00:23:58,0 --> 00:23:58,0
+7 And there were
 
 44
-00:04:15,115 --> 00:04:21,448
- destruction in the land northward; for behold,
+00:23:58,0 --> 00:23:58,0
+exceedingly sharp lightnings,
 
 45
-00:04:21,448 --> 00:04:27,781
- the whole face of the land was changed, because of
+00:23:58,0 --> 00:23:58,0
+such as never had been
 
 46
-00:04:27,781 --> 00:04:34,114
- the tempest and the whirlwinds, and the thunderings
+00:23:58,0 --> 00:23:44,
+known in all the land.
 
 47
-00:04:34,114 --> 00:04:40,447
- and the lightnings, and the exceedingly great
+00:23:44,0 --> 00:23:44,0
+8 And the city of
 
 48
-00:04:40,447 --> 00:04:46,78
- quaking of the whole earth
+00:23:44,0 --> 00:23:58,
+Zarahemla did take fire.
 
 49
-00:04:46,219 --> 00:04:54,219
-13 And the highways were broken up, and the level
+00:23:58,0 --> 00:23:58,0
+9 And the city of
 
 50
-00:04:54,219 --> 00:05:02,219
- roads were spoiled, and many smooth places became
+00:23:58,0 --> 00:23:58,0
+Moroni did sink into
 
 51
-00:05:02,219 --> 00:05:10,219
- rough
+00:23:58,0 --> 00:23:58,0
+the depths of the
 
 52
-00:05:10,043 --> 00:05:18,043
-14 And many great and notable cities were sunk,
+00:23:58,0 --> 00:23:58,0
+sea, and the
 
 53
-00:05:18,043 --> 00:05:26,043
- and many were burned, and many were shaken till the
+00:23:58,0 --> 00:23:44,
+inhabitants thereof were drowned.
 
 54
-00:05:26,043 --> 00:05:34,043
- buildings thereof had fallen to the earth, and the
+00:23:44,0 --> 00:23:44,0
+10 And the earth was
 
 55
-00:05:34,043 --> 00:05:42,043
- inhabitants thereof were slain, and the places
+00:23:44,0 --> 00:23:44,0
+carried up upon the
 
 56
-00:05:42,043 --> 00:05:50,043
- were left desolate
+00:23:44,0 --> 00:23:44,0
+city of Moronihah,
 
 57
-00:05:50,55 --> 00:05:55,55
-15 And there were some cities which remained; but
+00:23:44,0 --> 00:23:44,0
+that in the place of
 
 58
-00:05:55,55 --> 00:06:00,55
- the damage thereof was exceedingly great, and
+00:23:44,0 --> 00:23:44,0
+the city there
 
 59
-00:06:00,55 --> 00:06:05,55
- there were many in them who were slain
+00:23:44,0 --> 00:23:58,
+became a great mountain.
 
 60
-00:06:05,131 --> 00:06:10,464
-16 And there were some who were carried away in
+00:23:58,0 --> 00:23:58,0
+11 And there was a
 
 61
-00:06:10,464 --> 00:06:15,797
- the whirlwind; and whither they went no man knoweth,
+00:23:58,0 --> 00:23:58,0
+great and
 
 62
-00:06:15,797 --> 00:06:21,13
- save they know that they were carried away
+00:23:58,0 --> 00:23:58,0
+terrible destruction in
 
 63
-00:06:21,948 --> 00:06:27,698
-17 And thus the face of the whole earth became
+00:23:58,0 --> 00:23:44,
+the land southward.
 
 64
-00:06:27,698 --> 00:06:33,448
- deformed, because of the tempests, and the
+00:23:44,0 --> 00:23:44,0
+12 But behold,
 
 65
-00:06:33,448 --> 00:06:39,198
- thunderings, and the lightnings, and the quaking of the
+00:23:44,0 --> 00:23:44,0
+there was a more
 
 66
-00:06:39,198 --> 00:06:44,948
- earth
+00:23:44,0 --> 00:23:44,0
+great and terrible
 
 67
-00:06:44,437 --> 00:06:50,237
-18 And behold, the rocks were rent in twain; they
+00:23:44,0 --> 00:23:44,0
+destruction in
 
 68
-00:06:50,237 --> 00:06:56,037
- were broken up upon the face of the whole earth,
+00:23:44,0 --> 00:23:44,0
+the land northward;
 
 69
-00:06:56,037 --> 00:07:01,837
- insomuch that they were found in broken fragments,
+00:23:44,0 --> 00:23:44,0
+for behold, the
 
 70
-00:07:01,837 --> 00:07:07,637
- and in seams and in cracks, upon all the face of
+00:23:44,0 --> 00:23:44,0
+whole face of the
 
 71
-00:07:07,637 --> 00:07:13,437
- the land
+00:23:44,0 --> 00:23:44,0
+land was
 
 72
-00:07:13,4 --> 00:07:19,067
-19 And it came to pass that when the thunderings,
+00:23:44,0 --> 00:23:44,0
+changed, because of the
 
 73
-00:07:19,067 --> 00:07:24,734
- and the lightnings, and the storm, and the
+00:23:44,0 --> 00:23:44,0
+tempest and the
 
 74
-00:07:24,734 --> 00:07:30,401
- tempest, and the quakings of the earth did cease—for
+00:23:44,0 --> 00:23:44,0
+whirlwinds, and
 
 75
-00:07:30,401 --> 00:07:36,068
- behold, they did last for about the space of three
+00:23:44,0 --> 00:23:44,0
+the thunderings and
 
 76
-00:07:36,068 --> 00:07:41,735
- hours; and it was said by some that the time was
+00:23:44,0 --> 00:23:44,0
+the lightnings,
 
 77
-00:07:41,735 --> 00:07:47,402
- greater; nevertheless, all these great and terrible
+00:23:44,0 --> 00:23:44,0
+and the
 
 78
-00:07:47,402 --> 00:07:53,069
- things were done in about the space of three
+00:23:44,0 --> 00:23:44,0
+exceedingly great quaking
 
 79
-00:07:53,069 --> 00:07:58,736
- hours—and then behold, there was darkness upon the face
+00:23:44,0 --> 00:23:58,
+of the whole earth;
 
 80
-00:07:58,736 --> 00:08:04,403
- of the land
+00:23:58,0 --> 00:23:58,0
+13 And the
 
 81
-00:08:04,951 --> 00:08:09,701
-20 And it came to pass that there was thick
+00:23:58,0 --> 00:23:58,0
+highways were
 
 82
-00:08:09,701 --> 00:08:14,451
- darkness upon all the face of the land, insomuch that
+00:23:58,0 --> 00:23:58,0
+broken up, and the
 
 83
-00:08:14,451 --> 00:08:19,201
- the inhabitants thereof who had not fallen could
+00:23:58,0 --> 00:23:58,0
+level roads were
 
 84
-00:08:19,201 --> 00:08:23,951
- feel the vapor of darkness
+00:23:58,0 --> 00:23:58,0
+spoiled, and
 
 85
-00:08:23,703 --> 00:08:29,903
-21 And there could be no light, because of the
+00:23:58,0 --> 00:23:58,0
+many smooth
 
 86
-00:08:29,903 --> 00:08:36,103
- darkness, neither candles, neither torches; neither
+00:23:58,0 --> 00:23:44,
+places became rough.
 
 87
-00:08:36,103 --> 00:08:42,303
- could there be fire kindled with their fine and
+00:23:44,0 --> 00:23:44,0
+14 And many
 
 88
-00:08:42,303 --> 00:08:48,503
- exceedingly dry wood, so that there could not be any
+00:23:44,0 --> 00:23:44,0
+great and
 
 89
-00:08:48,503 --> 00:08:54,703
- light at all
+00:23:44,0 --> 00:23:44,0
+notable cities were
 
 90
-00:08:54,167 --> 00:09:01,417
-22 And there was not any light seen, neither fire,
+00:23:44,0 --> 00:23:44,0
+sunk, and many
 
 91
-00:09:01,417 --> 00:09:08,667
- nor glimmer, neither the sun, nor the moon, nor
+00:23:44,0 --> 00:23:44,0
+were burned,
 
 92
-00:09:08,667 --> 00:09:15,917
- the stars, for so great were the mists of darkness
+00:23:44,0 --> 00:23:44,0
+and many were
 
 93
-00:09:15,917 --> 00:09:23,167
- which were upon the face of the land
+00:23:44,0 --> 00:23:44,0
+shaken till
 
 94
-00:09:23,463 --> 00:09:28,892
-23 And it came to pass that it did last for the
+00:23:44,0 --> 00:23:44,0
+the buildings
 
 95
-00:09:28,892 --> 00:09:34,321
- space of three days that there was no light seen;
+00:23:44,0 --> 00:23:44,0
+thereof had
 
 96
-00:09:34,321 --> 00:09:39,75
- and there was great mourning and howling and weeping
+00:23:44,0 --> 00:23:44,0
+fallen to the
 
 97
-00:09:39,75 --> 00:09:45,179
- among all the people continually; yea, great were
+00:23:44,0 --> 00:23:44,0
+earth, and the
 
 98
-00:09:45,179 --> 00:09:50,608
- the groanings of the people, because of the
+00:23:44,0 --> 00:23:44,0
+inhabitants
 
 99
-00:09:50,608 --> 00:09:56,037
- darkness and the great destruction which had come upon
+00:23:44,0 --> 00:23:44,0
+thereof were slain,
 
 100
-00:09:56,037 --> 00:10:01,466
- them
+00:23:44,0 --> 00:23:44,0
+and the
 
 101
-00:10:01,134 --> 00:10:07,734
-24 And in one place they were heard to cry,
+00:23:44,0 --> 00:23:58,
+places were left desolate.
 
 102
-00:10:07,734 --> 00:10:14,334
- saying: O that we had repented before this great and
+00:23:58,0 --> 00:23:58,0
+15 And there
 
 103
-00:10:14,334 --> 00:10:20,934
- terrible day, and then would our brethren have been
+00:23:58,0 --> 00:23:58,0
+were some
 
 104
-00:10:20,934 --> 00:10:27,534
- spared, and they would not have been burned in that
+00:23:58,0 --> 00:23:58,0
+cities which
 
 105
-00:10:27,534 --> 00:10:34,134
- great city Zarahemla
+00:23:58,0 --> 00:23:58,0
+remained; but
 
 106
-00:10:34,0 --> 00:10:34,75
-25 And in another place they were heard to cry and
+00:23:58,0 --> 00:23:58,0
+the damage
 
 107
-00:10:34,75 --> 00:10:35,5
- mourn, saying: O that we had repented before this
+00:23:58,0 --> 00:23:58,0
+thereof was
 
 108
-00:10:35,5 --> 00:10:36,25
- great and terrible day, and had not killed and
+00:23:58,0 --> 00:23:58,0
+exceedingly great,
 
 109
-00:10:36,25 --> 00:10:37,0
- stoned the prophets, and cast them out; then would
+00:23:58,0 --> 00:23:58,0
+and there
 
 110
-00:10:37,0 --> 00:10:37,75
- our mothers and our fair daughters, and our
+00:23:58,0 --> 00:23:58,0
+were many in
 
 111
-00:10:37,75 --> 00:10:38,5
- children have been spared, and not have been buried up in
+00:23:58,0 --> 00:23:44,
+them who were slain.
 
 112
-00:10:38,5 --> 00:10:39,25
- that great city Moronihah. And thus were the
+00:23:44,0 --> 00:23:44,0
+16 And there
 
 113
-00:10:39,25 --> 00:10:40,0
- howlings of the people great and terrible.
+00:23:44,0 --> 00:23:44,0
+were some
+
+114
+00:23:44,0 --> 00:23:44,0
+who were
+
+115
+00:23:44,0 --> 00:23:44,0
+carried away in
+
+116
+00:23:44,0 --> 00:23:44,0
+the
+
+117
+00:23:44,0 --> 00:23:44,0
+whirlwind; and
+
+118
+00:23:44,0 --> 00:23:44,0
+whither they went
+
+119
+00:23:44,0 --> 00:23:44,0
+no man
+
+120
+00:23:44,0 --> 00:23:44,0
+knoweth, save
+
+121
+00:23:44,0 --> 00:23:44,0
+they know that
+
+122
+00:23:44,0 --> 00:23:44,0
+they were
+
+123
+00:23:44,0 --> 00:23:58,
+carried away.
+
+124
+00:23:58,0 --> 00:23:58,0
+17 And thus
+
+125
+00:23:58,0 --> 00:23:58,0
+the face
+
+126
+00:23:58,0 --> 00:23:58,0
+of the whole
+
+127
+00:23:58,0 --> 00:23:58,0
+earth
+
+128
+00:23:58,0 --> 00:23:58,0
+became
+
+129
+00:23:58,0 --> 00:23:58,0
+deformed, because
+
+130
+00:23:58,0 --> 00:23:58,0
+of the
+
+131
+00:23:58,0 --> 00:23:58,0
+tempests, and
+
+132
+00:23:58,0 --> 00:23:58,0
+the
+
+133
+00:23:58,0 --> 00:23:58,0
+thunderings, and the
+
+134
+00:23:58,0 --> 00:23:58,0
+
+
+135
+00:23:58,0 --> 00:23:58,0
+lightnings, and the
+
+136
+00:23:58,0 --> 00:23:44,
+quaking of the earth.
+
+137
+00:23:44,0 --> 00:23:44,0
+18 And
+
+138
+00:23:44,0 --> 00:23:44,0
+behold, the
+
+139
+00:23:44,0 --> 00:23:44,0
+rocks were
+
+140
+00:23:44,0 --> 00:23:44,0
+rent in
+
+141
+00:23:44,0 --> 00:23:44,0
+twain; they
+
+142
+00:23:44,0 --> 00:23:44,0
+were
+
+143
+00:23:44,0 --> 00:23:44,0
+broken up upon
+
+144
+00:23:44,0 --> 00:23:44,0
+the face
+
+145
+00:23:44,0 --> 00:23:44,0
+of the
+
+146
+00:23:44,0 --> 00:23:44,0
+whole earth,
+
+147
+00:23:44,0 --> 00:23:44,0
+insomuch
+
+148
+00:23:44,0 --> 00:23:44,0
+that they
+
+149
+00:23:44,0 --> 00:23:44,0
+were found
+
+150
+00:23:44,0 --> 00:23:44,0
+in broken
+
+151
+00:23:44,0 --> 00:23:44,0
+fragments,
+
+152
+00:23:44,0 --> 00:23:44,0
+and in
+
+153
+00:23:44,0 --> 00:23:44,0
+seams and in
+
+154
+00:23:44,0 --> 00:23:44,0
+cracks,
+
+155
+00:23:44,0 --> 00:23:58,
+upon all the face of the land.
+
+156
+00:23:58,0 --> 00:23:58,0
+19 And it
+
+157
+00:23:58,0 --> 00:23:58,0
+came to
+
+158
+00:23:58,0 --> 00:23:58,0
+pass that
+
+159
+00:23:58,0 --> 00:23:58,0
+when the
+
+160
+00:23:58,0 --> 00:23:58,0
+
+
+161
+00:23:58,0 --> 00:23:58,0
+thunderings, and
+
+162
+00:23:58,0 --> 00:23:58,0
+the
+
+163
+00:23:58,0 --> 00:23:58,0
+lightnings,
+
+164
+00:23:58,0 --> 00:23:58,0
+and the
+
+165
+00:23:58,0 --> 00:23:58,0
+storm, and
+
+166
+00:23:58,0 --> 00:23:58,0
+the
+
+167
+00:23:58,0 --> 00:23:58,0
+tempest, and
+
+168
+00:23:58,0 --> 00:23:58,0
+the
+
+169
+00:23:58,0 --> 00:23:58,0
+quakings of the
+
+170
+00:23:58,0 --> 00:23:58,0
+earth did
+
+171
+00:23:58,0 --> 00:23:58,0
+
+
+172
+00:23:58,0 --> 00:23:58,0
+cease—for behold,
+
+173
+00:23:58,0 --> 00:23:58,0
+they did
+
+174
+00:23:58,0 --> 00:23:58,0
+last for
+
+175
+00:23:58,0 --> 00:23:58,0
+about
+
+176
+00:23:58,0 --> 00:23:58,0
+the space
+
+177
+00:23:58,0 --> 00:23:58,0
+of three
+
+178
+00:23:58,0 --> 00:23:58,0
+hours; and
+
+179
+00:23:58,0 --> 00:23:58,0
+it was
+
+180
+00:23:58,0 --> 00:23:58,0
+said by
+
+181
+00:23:58,0 --> 00:23:58,0
+some that
+
+182
+00:23:58,0 --> 00:23:58,0
+the time
+
+183
+00:23:58,0 --> 00:23:58,0
+was
+
+184
+00:23:58,0 --> 00:23:58,0
+greater;
+
+185
+00:23:58,0 --> 00:23:58,0
+nevertheless,
+
+186
+00:23:58,0 --> 00:23:58,0
+all these
+
+187
+00:23:58,0 --> 00:23:58,0
+great and
+
+188
+00:23:58,0 --> 00:23:58,0
+terrible
+
+189
+00:23:58,0 --> 00:23:58,0
+things
+
+190
+00:23:58,0 --> 00:23:58,0
+were done
+
+191
+00:23:58,0 --> 00:23:58,0
+in about
+
+192
+00:23:58,0 --> 00:23:58,0
+the space
+
+193
+00:23:58,0 --> 00:23:58,0
+of three
+
+194
+00:23:58,0 --> 00:23:58,0
+
+
+195
+00:23:58,0 --> 00:23:58,0
+hours—and then
+
+196
+00:23:58,0 --> 00:23:58,0
+behold,
+
+197
+00:23:58,0 --> 00:23:44,
+there was darkness upon the face of the land.
+
+198
+00:23:44,0 --> 00:23:44,0
+20 And
+
+199
+00:23:44,0 --> 00:23:44,0
+it came
+
+200
+00:23:44,0 --> 00:23:44,0
+to pass
+
+201
+00:23:44,0 --> 00:23:44,0
+that
+
+202
+00:23:44,0 --> 00:23:44,0
+there was
+
+203
+00:23:44,0 --> 00:23:44,0
+thick
+
+204
+00:23:44,0 --> 00:23:44,0
+darkness
+
+205
+00:23:44,0 --> 00:23:44,0
+upon all
+
+206
+00:23:44,0 --> 00:23:44,0
+the face
+
+207
+00:23:44,0 --> 00:23:44,0
+of the
+
+208
+00:23:44,0 --> 00:23:44,0
+land,
+
+209
+00:23:44,0 --> 00:23:44,0
+insomuch
+
+210
+00:23:44,0 --> 00:23:44,0
+that the
+
+211
+00:23:44,0 --> 00:23:44,0
+
+
+212
+00:23:44,0 --> 00:23:44,0
+inhabitants
+
+213
+00:23:44,0 --> 00:23:44,0
+thereof who
+
+214
+00:23:44,0 --> 00:23:44,0
+had not
+
+215
+00:23:44,0 --> 00:23:44,0
+fallen
+
+216
+00:23:44,0 --> 00:23:44,0
+could feel
+
+217
+00:23:44,0 --> 00:23:58,
+the vapor of darkness;
+
+218
+00:23:58,0 --> 00:23:58,0
+21 And
+
+219
+00:23:58,0 --> 00:23:58,0
+there
+
+220
+00:23:58,0 --> 00:23:58,0
+could be
+
+221
+00:23:58,0 --> 00:23:58,0
+no
+
+222
+00:23:58,0 --> 00:23:58,0
+light,
+
+223
+00:23:58,0 --> 00:23:58,0
+because of
+
+224
+00:23:58,0 --> 00:23:58,0
+the
+
+225
+00:23:58,0 --> 00:23:58,0
+darkness,
+
+226
+00:23:58,0 --> 00:23:58,0
+
+
+227
+00:23:58,0 --> 00:23:58,0
+neither
+
+228
+00:23:58,0 --> 00:23:58,0
+candles,
+
+229
+00:23:58,0 --> 00:23:58,0
+neither
+
+230
+00:23:58,0 --> 00:23:58,0
+torches;
+
+231
+00:23:58,0 --> 00:23:58,0
+neither
+
+232
+00:23:58,0 --> 00:23:58,0
+could
+
+233
+00:23:58,0 --> 00:23:58,0
+there
+
+234
+00:23:58,0 --> 00:23:58,0
+be fire
+
+235
+00:23:58,0 --> 00:23:58,0
+kindled
+
+236
+00:23:58,0 --> 00:23:58,0
+with
+
+237
+00:23:58,0 --> 00:23:58,0
+their
+
+238
+00:23:58,0 --> 00:23:58,0
+fine and
+
+239
+00:23:58,0 --> 00:23:58,0
+
+
+240
+00:23:58,0 --> 00:23:58,0
+exceedingly
+
+241
+00:23:58,0 --> 00:23:58,0
+dry wood,
+
+242
+00:23:58,0 --> 00:23:58,0
+so
+
+243
+00:23:58,0 --> 00:23:58,0
+that there
+
+244
+00:23:58,0 --> 00:23:44,
+could not be any light at all;
+
+245
+00:23:44,0 --> 00:23:44,0
+22 And
+
+246
+00:23:44,0 --> 00:23:44,0
+there
+
+247
+00:23:44,0 --> 00:23:44,0
+was
+
+248
+00:23:44,0 --> 00:23:44,0
+not any
+
+249
+00:23:44,0 --> 00:23:44,0
+light
+
+250
+00:23:44,0 --> 00:23:44,0
+seen,
+
+251
+00:23:44,0 --> 00:23:44,0
+
+
+252
+00:23:44,0 --> 00:23:44,0
+neither
+
+253
+00:23:44,0 --> 00:23:44,0
+fire, nor
+
+254
+00:23:44,0 --> 00:23:44,0
+
+
+255
+00:23:44,0 --> 00:23:44,0
+glimmer,
+
+256
+00:23:44,0 --> 00:23:44,0
+neither
+
+257
+00:23:44,0 --> 00:23:44,0
+the
+
+258
+00:23:44,0 --> 00:23:44,0
+sun, nor
+
+259
+00:23:44,0 --> 00:23:44,0
+the
+
+260
+00:23:44,0 --> 00:23:44,0
+moon,
+
+261
+00:23:44,0 --> 00:23:44,0
+nor the
+
+262
+00:23:44,0 --> 00:23:44,0
+
+
+263
+00:23:44,0 --> 00:23:44,0
+stars, for
+
+264
+00:23:44,0 --> 00:23:44,0
+so
+
+265
+00:23:44,0 --> 00:23:44,0
+great
+
+266
+00:23:44,0 --> 00:23:44,0
+were the
+
+267
+00:23:44,0 --> 00:23:44,0
+mists
+
+268
+00:23:44,0 --> 00:23:44,0
+of
+
+269
+00:23:44,0 --> 00:23:44,0
+darkness
+
+270
+00:23:44,0 --> 00:23:44,0
+which
+
+271
+00:23:44,0 --> 00:23:58,
+were upon the face of the land.
+
+272
+00:23:58,0 --> 00:23:58,0
+23
+
+273
+00:23:58,0 --> 00:23:58,0
+And it
+
+274
+00:23:58,0 --> 00:23:58,0
+came
+
+275
+00:23:58,0 --> 00:23:58,0
+to
+
+276
+00:23:58,0 --> 00:23:58,0
+pass
+
+277
+00:23:58,0 --> 00:23:58,0
+that it
+
+278
+00:23:58,0 --> 00:23:58,0
+did
+
+279
+00:23:58,0 --> 00:23:58,0
+last
+
+280
+00:23:58,0 --> 00:23:58,0
+for
+
+281
+00:23:58,0 --> 00:23:58,0
+the
+
+282
+00:23:58,0 --> 00:23:58,0
+space
+
+283
+00:23:58,0 --> 00:23:58,0
+of
+
+284
+00:23:58,0 --> 00:23:58,0
+three
+
+285
+00:23:58,0 --> 00:23:58,0
+days
+
+286
+00:23:58,0 --> 00:23:58,0
+that
+
+287
+00:23:58,0 --> 00:23:58,0
+there
+
+288
+00:23:58,0 --> 00:23:58,0
+was no
+
+289
+00:23:58,0 --> 00:23:58,0
+
+
+290
+00:23:58,0 --> 00:23:58,0
+light
+
+291
+00:23:58,0 --> 00:23:58,0
+seen;
+
+292
+00:23:58,0 --> 00:23:58,0
+and
+
+293
+00:23:58,0 --> 00:23:58,0
+there
+
+294
+00:23:58,0 --> 00:23:58,0
+was
+
+295
+00:23:58,0 --> 00:23:58,0
+great
+
+296
+00:23:58,0 --> 00:23:58,0
+
+
+297
+00:23:58,0 --> 00:23:58,0
+mourning and
+
+298
+00:23:58,0 --> 00:23:58,0
+
+
+299
+00:23:58,0 --> 00:23:58,0
+howling
+
+300
+00:23:58,0 --> 00:23:58,0
+and
+
+301
+00:23:58,0 --> 00:23:58,0
+weeping
+
+302
+00:23:58,0 --> 00:23:58,0
+
+
+303
+00:23:58,0 --> 00:23:58,0
+among all
+
+304
+00:23:58,0 --> 00:23:58,0
+the
+
+305
+00:23:58,0 --> 00:23:58,0
+
+
+306
+00:23:58,0 --> 00:23:58,0
+people
+
+307
+00:23:58,0 --> 00:23:58,0
+
+
+308
+00:23:58,0 --> 00:23:58,0
+continually;
+
+309
+00:23:58,0 --> 00:23:58,0
+yea,
+
+310
+00:23:58,0 --> 00:23:58,0
+great
+
+311
+00:23:58,0 --> 00:23:58,0
+were
+
+312
+00:23:58,0 --> 00:23:58,0
+the
+
+313
+00:23:58,0 --> 00:23:58,0
+
+
+314
+00:23:58,0 --> 00:23:58,0
+groanings
+
+315
+00:23:58,0 --> 00:23:58,0
+of
+
+316
+00:23:58,0 --> 00:23:58,0
+the
+
+317
+00:23:58,0 --> 00:23:58,0
+people,
+
+318
+00:23:58,0 --> 00:23:58,0
+
+
+319
+00:23:58,0 --> 00:23:58,0
+because of
+
+320
+00:23:58,0 --> 00:23:58,0
+the
+
+321
+00:23:58,0 --> 00:23:58,0
+
+
+322
+00:23:58,0 --> 00:23:44,
+darkness and the great destruction which had come upon them.
+
+323
+00:23:44,0 --> 00:23:44,0
+24
+
+324
+00:23:44,0 --> 00:23:44,0
+And
+
+325
+00:23:44,0 --> 00:23:44,0
+in
+
+326
+00:23:44,0 --> 00:23:44,0
+one
+
+327
+00:23:44,0 --> 00:23:44,0
+place
+
+328
+00:23:44,0 --> 00:23:44,0
+they
+
+329
+00:23:44,0 --> 00:23:44,0
+
+
+330
+00:23:44,0 --> 00:23:44,0
+were
+
+331
+00:23:44,0 --> 00:23:44,0
+heard
+
+332
+00:23:44,0 --> 00:23:44,0
+to
+
+333
+00:23:44,0 --> 00:23:44,0
+cry,
+
+334
+00:23:44,0 --> 00:23:44,0
+
+
+335
+00:23:44,0 --> 00:23:44,0
+saying:
+
+336
+00:23:44,0 --> 00:23:44,0
+O
+
+337
+00:23:44,0 --> 00:23:44,0
+that
+
+338
+00:23:44,0 --> 00:23:44,0
+we
+
+339
+00:23:44,0 --> 00:23:44,0
+had
+
+340
+00:23:44,0 --> 00:23:44,0
+
+
+341
+00:23:44,0 --> 00:23:44,0
+repented
+
+342
+00:23:44,0 --> 00:23:44,0
+
+
+343
+00:23:44,0 --> 00:23:44,0
+before
+
+344
+00:23:44,0 --> 00:23:44,0
+this
+
+345
+00:23:44,0 --> 00:23:44,0
+great
+
+346
+00:23:44,0 --> 00:23:44,0
+and
+
+347
+00:23:44,0 --> 00:23:44,0
+
+
+348
+00:23:44,0 --> 00:23:44,0
+
+
+349
+00:23:44,0 --> 00:23:44,0
+terrible
+
+350
+00:23:44,0 --> 00:23:44,0
+day,
+
+351
+00:23:44,0 --> 00:23:44,0
+and
+
+352
+00:23:44,0 --> 00:23:44,0
+then
+
+353
+00:23:44,0 --> 00:23:44,0
+
+
+354
+00:23:44,0 --> 00:23:44,0
+would
+
+355
+00:23:44,0 --> 00:23:44,0
+our
+
+356
+00:23:44,0 --> 00:23:44,0
+
+
+357
+00:23:44,0 --> 00:23:44,0
+brethren
+
+358
+00:23:44,0 --> 00:23:44,0
+have
+
+359
+00:23:44,0 --> 00:23:44,0
+been
+
+360
+00:23:44,0 --> 00:23:44,0
+
+
+361
+00:23:44,0 --> 00:23:44,0
+spared,
+
+362
+00:23:44,0 --> 00:23:44,0
+and
+
+363
+00:23:44,0 --> 00:23:44,0
+
+
+364
+00:23:44,0 --> 00:23:44,0
+they
+
+365
+00:23:44,0 --> 00:23:44,0
+would
+
+366
+00:23:44,0 --> 00:23:44,0
+not
+
+367
+00:23:44,0 --> 00:23:58,
+have been burned in that great city Zarahemla.
+
+368
+00:23:58,0 --> 00:23:58,0
+25
+
+369
+00:23:58,0 --> 00:23:58,0
+And
+
+370
+00:23:58,0 --> 00:23:58,0
+in
+
+371
+00:23:58,0 --> 00:23:58,0
+
+
+372
+00:23:58,0 --> 00:23:58,0
+
+
+373
+00:23:58,0 --> 00:23:58,0
+another
+
+374
+00:23:58,0 --> 00:23:58,0
+
+
+375
+00:23:58,0 --> 00:23:58,0
+place
+
+376
+00:23:58,0 --> 00:23:58,0
+
+
+377
+00:23:58,0 --> 00:23:58,0
+they
+
+378
+00:23:58,0 --> 00:23:58,0
+were
+
+379
+00:23:58,0 --> 00:23:58,0
+
+
+380
+00:23:58,0 --> 00:23:58,0
+heard
+
+381
+00:23:58,0 --> 00:23:58,0
+to
+
+382
+00:23:58,0 --> 00:23:58,0
+
+
+383
+00:23:58,0 --> 00:23:58,0
+cry
+
+384
+00:23:58,0 --> 00:23:58,0
+and
+
+385
+00:23:58,0 --> 00:23:58,0
+
+
+386
+00:23:58,0 --> 00:23:58,0
+mourn,
+
+387
+00:23:58,0 --> 00:23:58,0
+
+
+388
+00:23:58,0 --> 00:23:58,0
+
+
+389
+00:23:58,0 --> 00:23:58,0
+saying:
+
+390
+00:23:58,0 --> 00:23:58,0
+O
+
+391
+00:23:58,0 --> 00:23:58,0
+that
+
+392
+00:23:58,0 --> 00:23:58,0
+we
+
+393
+00:23:58,0 --> 00:23:58,0
+
+
+394
+00:23:58,0 --> 00:23:58,0
+had
+
+395
+00:23:58,0 --> 00:23:58,0
+
+
+396
+00:23:58,0 --> 00:23:58,0
+
+
+397
+00:23:58,0 --> 00:23:58,0
+repented
+
+398
+00:23:58,0 --> 00:23:58,0
+
+
+399
+00:23:58,0 --> 00:23:58,0
+before
+
+400
+00:23:58,0 --> 00:23:58,0
+
+
+401
+00:23:58,0 --> 00:23:58,0
+this
+
+402
+00:23:58,0 --> 00:23:58,0
+
+
+403
+00:23:58,0 --> 00:23:58,0
+great
+
+404
+00:23:58,0 --> 00:23:58,0
+and
+
+405
+00:23:58,0 --> 00:23:58,0
+
+
+406
+00:23:58,0 --> 00:23:58,0
+
+
+407
+00:23:58,0 --> 00:23:58,0
+terrible
+
+408
+00:23:58,0 --> 00:23:58,0
+
+
+409
+00:23:58,0 --> 00:23:58,0
+day,
+
+410
+00:23:58,0 --> 00:23:58,0
+and
+
+411
+00:23:58,0 --> 00:23:58,0
+had
+
+412
+00:23:58,0 --> 00:23:58,0
+
+
+413
+00:23:58,0 --> 00:23:58,0
+not
+
+414
+00:23:58,0 --> 00:23:58,0
+
+
+415
+00:23:58,0 --> 00:23:58,0
+killed
+
+416
+00:23:58,0 --> 00:23:58,0
+and
+
+417
+00:23:58,0 --> 00:23:58,0
+
+
+418
+00:23:58,0 --> 00:23:58,0
+
+
+419
+00:23:58,0 --> 00:23:58,0
+stoned
+
+420
+00:23:58,0 --> 00:23:58,0
+the
+
+421
+00:23:58,0 --> 00:23:58,0
+
+
+422
+00:23:58,0 --> 00:23:58,0
+
+
+423
+00:23:58,0 --> 00:23:58,0
+prophets,
+
+424
+00:23:58,0 --> 00:23:58,0
+
+
+425
+00:23:58,0 --> 00:23:58,0
+and
+
+426
+00:23:58,0 --> 00:23:58,0
+cast
+
+427
+00:23:58,0 --> 00:23:58,0
+
+
+428
+00:23:58,0 --> 00:23:58,0
+them
+
+429
+00:23:58,0 --> 00:23:58,0
+
+
+430
+00:23:58,0 --> 00:23:58,0
+out;
+
+431
+00:23:58,0 --> 00:23:58,0
+then
+
+432
+00:23:58,0 --> 00:23:58,0
+
+
+433
+00:23:58,0 --> 00:23:58,0
+would
+
+434
+00:23:58,0 --> 00:23:58,0
+
+
+435
+00:23:58,0 --> 00:23:58,0
+our
+
+436
+00:23:58,0 --> 00:23:58,0
+
+
+437
+00:23:58,0 --> 00:23:58,0
+mothers
+
+438
+00:23:58,0 --> 00:23:58,0
+
+
+439
+00:23:58,0 --> 00:23:58,0
+and
+
+440
+00:23:58,0 --> 00:23:58,0
+our
+
+441
+00:23:58,0 --> 00:23:58,0
+
+
+442
+00:23:58,0 --> 00:23:58,0
+fair
+
+443
+00:23:58,0 --> 00:23:58,0
+
+
+444
+00:23:58,0 --> 00:23:58,0
+
+
+445
+00:23:58,0 --> 00:23:58,0
+daughters,
+
+446
+00:23:58,0 --> 00:23:58,0
+
+
+447
+00:23:58,0 --> 00:23:58,0
+and
+
+448
+00:23:58,0 --> 00:23:58,0
+our
+
+449
+00:23:58,0 --> 00:23:58,0
+
+
+450
+00:23:58,0 --> 00:23:58,0
+
+
+451
+00:23:58,0 --> 00:23:58,0
+children
+
+452
+00:23:58,0 --> 00:23:58,0
+
+
+453
+00:23:58,0 --> 00:23:58,0
+have
+
+454
+00:23:58,0 --> 00:23:58,0
+been
+
+455
+00:23:58,0 --> 00:23:58,0
+
+
+456
+00:23:58,0 --> 00:23:58,0
+
+
+457
+00:23:58,0 --> 00:23:58,0
+spared,
+
+458
+00:23:58,0 --> 00:23:58,0
+and
+
+459
+00:23:58,0 --> 00:23:58,0
+
+
+460
+00:23:58,0 --> 00:23:58,0
+not
+
+461
+00:23:58,0 --> 00:23:58,0
+have
+
+462
+00:23:58,0 --> 00:23:58,0
+
+
+463
+00:23:58,0 --> 00:23:58,0
+been
+
+464
+00:23:58,0 --> 00:23:58,0
+
+
+465
+00:23:58,0 --> 00:23:44,
+buried up in that great city Moronihah. And thus were the howlings of the people great and terrible. 
 

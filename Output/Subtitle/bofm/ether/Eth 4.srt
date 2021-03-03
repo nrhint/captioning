@@ -1,440 +1,1036 @@
 1
-00:00:00,0 --> 00:00:08,167
+00:00:00,0 --> 00:00:00,0
 Chapter 4 Moroni is commanded to seal up the
 
 2
-00:00:08,167 --> 00:00:16,334
- writings of the brother of Jared—They will not be
+00:00:00,0 --> 00:00:00,0
+writings of the brother of Jared—They will not be
 
 3
-00:00:16,334 --> 00:00:24,501
- revealed until men have faith even as the brother of
+00:00:00,0 --> 00:00:00,0
+revealed until men have faith even as the
 
 4
-00:00:24,501 --> 00:00:32,668
- Jared—Christ commands men to believe His words and
+00:00:00,0 --> 00:00:00,0
+brother of Jared—Christ commands men to believe His
 
 5
-00:00:32,668 --> 00:00:40,835
- those of His disciples—Men are commanded to repent,
+00:00:00,0 --> 00:00:00,0
+words and those of His disciples—Men are
 
 6
-00:00:40,835 --> 00:00:49,002
- believe the gospel, and be saved.
+00:00:00,0 --> 00:05:11,
+commanded to repent, believe the gospel, and be saved. 
 
 7
-00:00:49,416 --> 00:00:55,083
-1 And the Lord commanded the brother of Jared to
+00:05:11,0 --> 00:05:11,0
+1 And the Lord commanded the brother of
 
 8
-00:00:55,083 --> 00:01:00,75
- go down out of the mount from the presence of the
+00:05:11,0 --> 00:05:11,0
+Jared to go down out of the mount from the
 
 9
-00:01:00,75 --> 00:01:06,417
- Lord, and write the things which he had seen; and
+00:05:11,0 --> 00:05:11,0
+presence of the Lord, and write the things which
 
 10
-00:01:06,417 --> 00:01:12,084
- they were forbidden to come unto the children of
+00:05:11,0 --> 00:05:11,0
+he had seen; and they were forbidden to come
 
 11
-00:01:12,084 --> 00:01:17,751
- men until after that he should be lifted up upon the
+00:05:11,0 --> 00:05:11,0
+unto the children of men until after that
 
 12
-00:01:17,751 --> 00:01:23,418
- cross; and for this cause did king Mosiah keep
+00:05:11,0 --> 00:05:11,0
+he should be lifted up upon the cross; and
 
 13
-00:01:23,418 --> 00:01:29,085
- them, that they should not come unto the world until
+00:05:11,0 --> 00:05:11,0
+for this cause did king Mosiah keep them, that
 
 14
-00:01:29,085 --> 00:01:34,752
- after Christ should show himself unto his people
+00:05:11,0 --> 00:05:11,0
+they should not come unto the world until
 
 15
-00:01:34,752 --> 00:01:40,419
-
+00:05:11,0 --> 00:20:53,
+after Christ should show himself unto his people.
 
 16
-00:01:40,3 --> 00:01:43,967
-2 And after Christ truly had showed himself unto
+00:20:53,0 --> 00:20:53,0
+2 And after Christ truly had showed
 
 17
-00:01:43,967 --> 00:01:47,634
- his people he commanded that they should be made
+00:20:53,0 --> 00:20:53,0
+himself unto his people he
 
 18
-00:01:47,634 --> 00:01:51,301
- manifest
+00:20:53,0 --> 00:22:05,
+commanded that they should be made manifest.
 
 19
-00:01:51,345 --> 00:01:56,745
-3 And now, after that, they have all dwindled in
+00:22:05,0 --> 00:22:05,0
+3 And now, after that, they
 
 20
-00:01:56,745 --> 00:02:02,145
- unbelief; and there is none save it be the
+00:22:05,0 --> 00:22:05,0
+have all dwindled in unbelief; and
 
 21
-00:02:02,145 --> 00:02:07,545
- Lamanites, and they have rejected the gospel of Christ;
+00:22:05,0 --> 00:22:05,0
+there is none save it be the
 
 22
-00:02:07,545 --> 00:02:12,945
- therefore I am commanded that I should hide them up
+00:22:05,0 --> 00:22:05,0
+Lamanites, and they have
 
 23
-00:02:12,945 --> 00:02:18,345
- again in the earth
+00:22:05,0 --> 00:22:05,0
+rejected the gospel of Christ;
 
 24
-00:02:18,572 --> 00:02:23,372
-4 Behold, I have written upon these plates the
+00:22:05,0 --> 00:22:05,0
+therefore I am commanded that I should
 
 25
-00:02:23,372 --> 00:02:28,172
- very things which the brother of Jared saw; and there
+00:22:05,0 --> 00:24:17,
+hide them up again in the earth.
 
 26
-00:02:28,172 --> 00:02:32,972
- never were greater things made manifest than
+00:24:17,0 --> 00:24:17,0
+4 Behold, I have written upon
 
 27
-00:02:32,972 --> 00:02:37,772
- those which were made manifest unto the brother of
+00:24:17,0 --> 00:24:17,0
+these plates the very things
 
 28
-00:02:37,772 --> 00:02:42,572
- Jared
+00:24:17,0 --> 00:24:17,0
+which the brother of Jared
 
 29
-00:02:42,029 --> 00:02:47,029
-5 Wherefore the Lord hath commanded me to write
+00:24:17,0 --> 00:24:17,0
+saw; and there never were
 
 30
-00:02:47,029 --> 00:02:52,029
- them; and I have written them. And he commanded me
+00:24:17,0 --> 00:24:17,0
+greater things made manifest than
 
 31
-00:02:52,029 --> 00:02:57,029
- that I should seal them up; and he also hath
+00:24:17,0 --> 00:24:17,0
+those which were made
 
 32
-00:02:57,029 --> 00:03:02,029
- commanded that I should seal up the interpretation
+00:24:17,0 --> 00:30:27,
+manifest unto the brother of Jared.
 
 33
-00:03:02,029 --> 00:03:07,029
- thereof; wherefore I have sealed up the interpreters,
+00:30:27,0 --> 00:30:27,0
+5 Wherefore the Lord hath
 
 34
-00:03:07,029 --> 00:03:12,029
- according to the commandment of the Lord
+00:30:27,0 --> 00:30:27,0
+commanded me to write them; and
 
 35
-00:03:12,959 --> 00:03:18,209
-6 For the Lord said unto me: They shall not go
+00:30:27,0 --> 00:30:27,0
+I have written them. And he
 
 36
-00:03:18,209 --> 00:03:23,459
- forth unto the Gentiles until the day that they shall
+00:30:27,0 --> 00:30:27,0
+commanded me that I should
 
 37
-00:03:23,459 --> 00:03:28,709
- repent of their iniquity, and become clean before
+00:30:27,0 --> 00:30:27,0
+seal them up; and he also hath
 
 38
-00:03:28,709 --> 00:03:33,959
- the Lord
+00:30:27,0 --> 00:30:27,0
+commanded that I should seal
 
 39
-00:03:33,38 --> 00:03:39,13
-7 And in that day that they shall exercise faith
+00:30:27,0 --> 00:30:27,0
+up the interpretation thereof;
 
 40
-00:03:39,13 --> 00:03:44,88
- in me, saith the Lord, even as the brother of Jared
+00:30:27,0 --> 00:30:27,0
+wherefore I have sealed up
 
 41
-00:03:44,88 --> 00:03:50,63
- did, that they may become sanctified in me, then
+00:30:27,0 --> 00:30:27,0
+the interpreters, according to
 
 42
-00:03:50,63 --> 00:03:56,38
- will I manifest unto them the things which the
+00:30:27,0 --> 00:46:37,
+the commandment of the Lord.
 
 43
-00:03:56,38 --> 00:04:02,13
- brother of Jared saw, even to the unfolding unto them
+00:46:37,0 --> 00:46:37,0
+6 For the Lord said unto
 
 44
-00:04:02,13 --> 00:04:07,88
- all my revelations, saith Jesus Christ, the Son
+00:46:37,0 --> 00:46:37,0
+me: They shall not go forth
 
 45
-00:04:07,88 --> 00:04:13,63
- of God, the Father of the heavens and of the earth,
+00:46:37,0 --> 00:46:37,0
+unto the Gentiles until
 
 46
-00:04:13,63 --> 00:04:19,38
- and all things that in them are
+00:46:37,0 --> 00:46:37,0
+the day that they shall
 
 47
-00:04:19,025 --> 00:04:24,825
-8 And he that will contend against the word of the
+00:46:37,0 --> 00:46:37,0
+repent of their iniquity, and
 
 48
-00:04:24,825 --> 00:04:30,625
- Lord, let him be accursed; and he that shall deny
+00:46:37,0 --> 00:48:49,
+become clean before the Lord.
 
 49
-00:04:30,625 --> 00:04:36,425
- these things, let him be accursed; for unto them
+00:48:49,0 --> 00:48:49,0
+7 And in that day that
 
 50
-00:04:36,425 --> 00:04:42,225
- will I show no greater things, saith Jesus Christ;
+00:48:49,0 --> 00:48:49,0
+they shall exercise faith
 
 51
-00:04:42,225 --> 00:04:48,025
- for I am he who speaketh
+00:48:49,0 --> 00:48:49,0
+in me, saith the Lord,
 
 52
-00:04:48,955 --> 00:04:54,455
-9 And at my command the heavens are opened and are
+00:48:49,0 --> 00:48:49,0
+even as the brother of Jared
 
 53
-00:04:54,455 --> 00:04:59,955
- shut; and at my word the earth shall shake; and
+00:48:49,0 --> 00:48:49,0
+did, that they may
 
 54
-00:04:59,955 --> 00:05:05,455
- at my command the inhabitants thereof shall pass
+00:48:49,0 --> 00:48:49,0
+become sanctified in me, then
 
 55
-00:05:05,455 --> 00:05:10,955
- away, even so as by fire
+00:48:49,0 --> 00:48:49,0
+will I manifest unto them
 
 56
-00:05:10,677 --> 00:05:16,927
-10 And he that believeth not my words believeth
+00:48:49,0 --> 00:48:49,0
+the things which the
 
 57
-00:05:16,927 --> 00:05:23,177
- not my disciples; and if it so be that I do not
+00:48:49,0 --> 00:48:49,0
+brother of Jared saw, even
 
 58
-00:05:23,177 --> 00:05:29,427
- speak, judge ye; for ye shall know that it is I that
+00:48:49,0 --> 00:48:49,0
+to the unfolding unto them
 
 59
-00:05:29,427 --> 00:05:35,677
- speaketh, at the last day
+00:48:49,0 --> 00:48:49,0
+all my revelations,
 
 60
-00:05:35,936 --> 00:05:42,336
-11 But he that believeth these things which I have
+00:48:49,0 --> 00:48:49,0
+saith Jesus Christ, the Son
 
 61
-00:05:42,336 --> 00:05:48,736
- spoken, him will I visit with the manifestations
+00:48:49,0 --> 00:48:49,0
+of God, the Father of the
 
 62
-00:05:48,736 --> 00:05:55,136
- of my Spirit, and he shall know and bear record.
+00:48:49,0 --> 00:48:49,0
+heavens and of the earth,
 
 63
-00:05:55,136 --> 00:06:01,536
- For because of my Spirit he shall know that these
+00:48:49,0 --> 00:55:00,
+and all things that in them are.
 
 64
-00:06:01,536 --> 00:06:07,936
- things are true; for it persuadeth men to do good
+00:55:00,0 --> 00:55:00,0
+8 And he that will
 
 65
-00:06:07,834 --> 00:06:16,084
-12 And whatsoever thing persuadeth men to do good
+00:55:00,0 --> 00:55:00,0
+contend against the word
 
 66
-00:06:16,084 --> 00:06:24,334
- is of me; for good cometh of none save it be of
+00:55:00,0 --> 00:55:00,0
+of the Lord, let him
 
 67
-00:06:24,334 --> 00:06:32,584
- me. I am the same that leadeth men to all good; he
+00:55:00,0 --> 00:55:00,0
+be accursed; and he
 
 68
-00:06:32,584 --> 00:06:40,834
- that will not believe my words will not believe
+00:55:00,0 --> 00:55:00,0
+that shall deny these
 
 69
-00:06:40,834 --> 00:06:49,084
- me—that I am; and he that will not believe me will
+00:55:00,0 --> 00:55:00,0
+things, let him be
 
 70
-00:06:49,084 --> 00:06:57,334
- not believe the Father who sent me. For behold, I am
+00:55:00,0 --> 00:55:00,0
+accursed; for unto them will
 
 71
-00:06:57,334 --> 00:07:05,584
- the Father, I am the light, and the life, and the
+00:55:00,0 --> 00:55:00,0
+I show no greater
 
 72
-00:07:05,584 --> 00:07:13,834
- truth of the world
+00:55:00,0 --> 00:55:00,0
+things, saith Jesus
 
 73
-00:07:13,466 --> 00:07:19,799
-13 Come unto me, O ye Gentiles, and I will show
+00:55:00,0 --> 01:08:09,
+Christ; for I am he who speaketh.
 
 74
-00:07:19,799 --> 00:07:26,132
- unto you the greater things, the knowledge which is
+01:08:09,0 --> 01:08:09,0
+9 And at my command
 
 75
-00:07:26,132 --> 00:07:32,465
- hid up because of unbelief
+01:08:09,0 --> 01:08:09,0
+the heavens are opened
 
 76
-00:07:32,018 --> 00:07:37,018
-14 Come unto me, O ye house of Israel, and it
+01:08:09,0 --> 01:08:09,0
+and are shut; and at
 
 77
-00:07:37,018 --> 00:07:42,018
- shall be made manifest unto you how great things the
+01:08:09,0 --> 01:08:09,0
+my word the earth
 
 78
-00:07:42,018 --> 00:07:47,018
- Father hath laid up for you, from the foundation of
+01:08:09,0 --> 01:08:09,0
+shall shake; and at my
 
 79
-00:07:47,018 --> 00:07:52,018
- the world; and it hath not come unto you, because
+01:08:09,0 --> 01:08:09,0
+command the
 
 80
-00:07:52,018 --> 00:07:57,018
- of unbelief
+01:08:09,0 --> 01:08:09,0
+inhabitants thereof shall pass
 
 81
-00:07:57,978 --> 00:08:04,478
-15 Behold, when ye shall rend that veil of
+01:08:09,0 --> 01:19:17,
+away, even so as by fire.
 
 82
-00:08:04,478 --> 00:08:10,978
- unbelief which doth cause you to remain in your awful
+01:19:17,0 --> 01:19:17,0
+10 And he that
 
 83
-00:08:10,978 --> 00:08:17,478
- state of wickedness, and hardness of heart, and
+01:19:17,0 --> 01:19:17,0
+believeth not my words
 
 84
-00:08:17,478 --> 00:08:23,978
- blindness of mind, then shall the great and marvelous
+01:19:17,0 --> 01:19:17,0
+believeth not my
 
 85
-00:08:23,978 --> 00:08:30,478
- things which have been hid up from the foundation
+01:19:17,0 --> 01:19:17,0
+disciples; and if it
 
 86
-00:08:30,478 --> 00:08:36,977
- of the world from you—yea, when ye shall call upon
+01:19:17,0 --> 01:19:17,0
+so be that I do not
 
 87
-00:08:36,977 --> 00:08:43,477
- the Father in my name, with a broken heart and a
+01:19:17,0 --> 01:19:17,0
+speak, judge ye;
 
 88
-00:08:43,477 --> 00:08:49,977
- contrite spirit, then shall ye know that the Father
+01:19:17,0 --> 01:19:17,0
+for ye shall know
 
 89
-00:08:49,977 --> 00:08:56,477
- hath remembered the covenant which he made unto
+01:19:17,0 --> 01:19:17,0
+that it is I that
 
 90
-00:08:56,477 --> 00:09:02,977
- your fathers, O house of Israel
+01:19:17,0 --> 01:33:25,
+speaketh, at the last day.
 
 91
-00:09:02,842 --> 00:09:08,342
-16 And then shall my revelations which I have
+01:33:25,0 --> 01:33:25,0
+11 But he that
 
 92
-00:09:08,342 --> 00:09:13,842
- caused to be written by my servant John be unfolded in
+01:33:25,0 --> 01:33:25,0
+believeth these
 
 93
-00:09:13,842 --> 00:09:19,342
- the eyes of all the people. Remember, when ye see
+01:33:25,0 --> 01:33:25,0
+things which I have
 
 94
-00:09:19,342 --> 00:09:24,842
- these things, ye shall know that the time is at
+01:33:25,0 --> 01:33:25,0
+spoken, him will
 
 95
-00:09:24,842 --> 00:09:30,342
- hand that they shall be made manifest in very deed
+01:33:25,0 --> 01:33:25,0
+I visit with the
 
 96
-00:09:30,342 --> 00:09:35,842
-
+01:33:25,0 --> 01:33:25,0
+manifestations of
 
 97
-00:09:35,341 --> 00:09:40,674
-17 Therefore, when ye shall receive this record ye
+01:33:25,0 --> 01:33:25,0
+my Spirit, and
 
 98
-00:09:40,674 --> 00:09:46,007
- may know that the work of the Father has
+01:33:25,0 --> 01:33:25,0
+he shall know and
 
 99
-00:09:46,007 --> 00:09:51,34
- commenced upon all the face of the land
+01:33:25,0 --> 01:33:25,0
+bear record. For
 
 100
-00:09:51,658 --> 00:09:57,825
-18 Therefore, repent all ye ends of the earth, and
+01:33:25,0 --> 01:33:25,0
+because of my
 
 101
-00:09:57,825 --> 00:10:03,992
- come unto me, and believe in my gospel, and be
+01:33:25,0 --> 01:33:25,0
+Spirit he shall know
 
 102
-00:10:03,992 --> 00:10:10,159
- baptized in my name; for he that believeth and is
+01:33:25,0 --> 01:33:25,0
+that these
 
 103
-00:10:10,159 --> 00:10:16,326
- baptized shall be saved; but he that believeth not
+01:33:25,0 --> 01:33:25,0
+things are true; for
 
 104
-00:10:16,326 --> 00:10:22,493
- shall be damned; and signs shall follow them that
+01:33:25,0 --> 01:36:07,
+it persuadeth men to do good.
 
 105
-00:10:22,493 --> 00:10:28,66
- believe in my name
+01:36:07,0 --> 01:36:07,0
+12 And
 
 106
-00:10:28,128 --> 00:10:35,528
-19 And blessed is he that is found faithful unto
+01:36:07,0 --> 01:36:07,0
+whatsoever thing
 
 107
-00:10:35,528 --> 00:10:42,928
- my name at the last day, for he shall be lifted up
+01:36:07,0 --> 01:36:07,0
+persuadeth men to do
 
 108
-00:10:42,928 --> 00:10:50,328
- to dwell in the kingdom prepared for him from the
+01:36:07,0 --> 01:36:07,0
+good is of me; for
 
 109
-00:10:50,328 --> 00:10:57,728
- foundation of the world. And behold it is I that
+01:36:07,0 --> 01:36:07,0
+good cometh of
 
 110
-00:10:57,728 --> 00:11:05,128
- hath spoken it. Amen.
+01:36:07,0 --> 01:36:07,0
+none save it be
+
+111
+01:36:07,0 --> 01:36:07,0
+of me. I am the
+
+112
+01:36:07,0 --> 01:36:07,0
+same that leadeth
+
+113
+01:36:07,0 --> 01:36:07,0
+men to all
+
+114
+01:36:07,0 --> 01:36:07,0
+good; he that will
+
+115
+01:36:07,0 --> 01:36:07,0
+not believe my
+
+116
+01:36:07,0 --> 01:36:07,0
+words will not
+
+117
+01:36:07,0 --> 01:36:07,0
+believe me—that I
+
+118
+01:36:07,0 --> 01:36:07,0
+am; and he that
+
+119
+01:36:07,0 --> 01:36:07,0
+will not believe
+
+120
+01:36:07,0 --> 01:36:07,0
+me will not
+
+121
+01:36:07,0 --> 01:36:07,0
+believe the Father
+
+122
+01:36:07,0 --> 01:36:07,0
+who sent me. For
+
+123
+01:36:07,0 --> 01:36:07,0
+behold, I am the
+
+124
+01:36:07,0 --> 01:36:07,0
+Father, I am
+
+125
+01:36:07,0 --> 01:36:07,0
+the light, and the
+
+126
+01:36:07,0 --> 01:43:15,
+life, and the truth of the world.
+
+127
+01:43:15,0 --> 01:43:15,0
+13 Come unto
+
+128
+01:43:15,0 --> 01:43:15,0
+me, O ye
+
+129
+01:43:15,0 --> 01:43:15,0
+Gentiles, and I will
+
+130
+01:43:15,0 --> 01:43:15,0
+show unto you the
+
+131
+01:43:15,0 --> 01:43:15,0
+greater
+
+132
+01:43:15,0 --> 01:43:15,0
+things, the knowledge
+
+133
+01:43:15,0 --> 01:43:15,0
+which is hid
+
+134
+01:43:15,0 --> 01:46:25,
+up because of unbelief.
+
+135
+01:46:25,0 --> 01:46:25,0
+14 Come unto
+
+136
+01:46:25,0 --> 01:46:25,0
+me, O ye house
+
+137
+01:46:25,0 --> 01:46:25,0
+of Israel, and
+
+138
+01:46:25,0 --> 01:46:25,0
+it shall be
+
+139
+01:46:25,0 --> 01:46:25,0
+made manifest
+
+140
+01:46:25,0 --> 01:46:25,0
+unto you how
+
+141
+01:46:25,0 --> 01:46:25,0
+great things the
+
+142
+01:46:25,0 --> 01:46:25,0
+Father hath
+
+143
+01:46:25,0 --> 01:46:25,0
+laid up for
+
+144
+01:46:25,0 --> 01:46:25,0
+you, from the
+
+145
+01:46:25,0 --> 01:46:25,0
+foundation of the
+
+146
+01:46:25,0 --> 01:46:25,0
+world; and it
+
+147
+01:46:25,0 --> 01:46:25,0
+hath not come
+
+148
+01:46:25,0 --> 01:46:25,0
+unto you,
+
+149
+01:46:25,0 --> 01:53:33,
+because of unbelief.
+
+150
+01:53:33,0 --> 01:53:33,0
+15 Behold,
+
+151
+01:53:33,0 --> 01:53:33,0
+when ye shall
+
+152
+01:53:33,0 --> 01:53:33,0
+rend that veil
+
+153
+01:53:33,0 --> 01:53:33,0
+of unbelief
+
+154
+01:53:33,0 --> 01:53:33,0
+which doth
+
+155
+01:53:33,0 --> 01:53:33,0
+cause you to
+
+156
+01:53:33,0 --> 01:53:33,0
+remain in your
+
+157
+01:53:33,0 --> 01:53:33,0
+awful state
+
+158
+01:53:33,0 --> 01:53:33,0
+of wickedness,
+
+159
+01:53:33,0 --> 01:53:33,0
+and hardness
+
+160
+01:53:33,0 --> 01:53:33,0
+of heart,
+
+161
+01:53:33,0 --> 01:53:33,0
+and blindness
+
+162
+01:53:33,0 --> 01:53:33,0
+of mind, then
+
+163
+01:53:33,0 --> 01:53:33,0
+shall the
+
+164
+01:53:33,0 --> 01:53:33,0
+great and
+
+165
+01:53:33,0 --> 01:53:33,0
+marvelous things
+
+166
+01:53:33,0 --> 01:53:33,0
+which have been
+
+167
+01:53:33,0 --> 01:53:33,0
+hid up from
+
+168
+01:53:33,0 --> 01:53:33,0
+the
+
+169
+01:53:33,0 --> 01:53:33,0
+foundation of the
+
+170
+01:53:33,0 --> 01:53:33,0
+world from
+
+171
+01:53:33,0 --> 01:53:33,0
+you—yea, when ye
+
+172
+01:53:33,0 --> 01:53:33,0
+shall call upon
+
+173
+01:53:33,0 --> 01:53:33,0
+the Father
+
+174
+01:53:33,0 --> 01:53:33,0
+in my name,
+
+175
+01:53:33,0 --> 01:53:33,0
+with a broken
+
+176
+01:53:33,0 --> 01:53:33,0
+heart and a
+
+177
+01:53:33,0 --> 01:53:33,0
+contrite
+
+178
+01:53:33,0 --> 01:53:33,0
+spirit, then shall
+
+179
+01:53:33,0 --> 01:53:33,0
+ye know that
+
+180
+01:53:33,0 --> 01:53:33,0
+the Father
+
+181
+01:53:33,0 --> 01:53:33,0
+hath remembered
+
+182
+01:53:33,0 --> 01:53:33,0
+the covenant
+
+183
+01:53:33,0 --> 01:53:33,0
+which he
+
+184
+01:53:33,0 --> 02:00:28,
+made unto your fathers, O house of Israel.
+
+185
+02:00:28,0 --> 02:00:28,0
+16 And then
+
+186
+02:00:28,0 --> 02:00:28,0
+shall my
+
+187
+02:00:28,0 --> 02:00:28,0
+revelations
+
+188
+02:00:28,0 --> 02:00:28,0
+which I have
+
+189
+02:00:28,0 --> 02:00:28,0
+caused to be
+
+190
+02:00:28,0 --> 02:00:28,0
+written by my
+
+191
+02:00:28,0 --> 02:00:28,0
+servant
+
+192
+02:00:28,0 --> 02:00:28,0
+John be
+
+193
+02:00:28,0 --> 02:00:28,0
+unfolded in the
+
+194
+02:00:28,0 --> 02:00:28,0
+eyes of all the
+
+195
+02:00:28,0 --> 02:00:28,0
+people.
+
+196
+02:00:28,0 --> 02:00:28,0
+Remember, when
+
+197
+02:00:28,0 --> 02:00:28,0
+ye see these
+
+198
+02:00:28,0 --> 02:00:28,0
+things, ye
+
+199
+02:00:28,0 --> 02:00:28,0
+shall know
+
+200
+02:00:28,0 --> 02:00:28,0
+that the time
+
+201
+02:00:28,0 --> 02:00:28,0
+is at hand
+
+202
+02:00:28,0 --> 02:00:28,0
+that they
+
+203
+02:00:28,0 --> 02:00:28,0
+shall be made
+
+204
+02:00:28,0 --> 02:08:40,
+manifest in very deed.
+
+205
+02:08:40,0 --> 02:08:40,0
+17
+
+206
+02:08:40,0 --> 02:08:40,0
+Therefore, when ye
+
+207
+02:08:40,0 --> 02:08:40,0
+shall receive
+
+208
+02:08:40,0 --> 02:08:40,0
+this record
+
+209
+02:08:40,0 --> 02:08:40,0
+ye may know
+
+210
+02:08:40,0 --> 02:08:40,0
+that the
+
+211
+02:08:40,0 --> 02:08:40,0
+work of the
+
+212
+02:08:40,0 --> 02:08:40,0
+Father has
+
+213
+02:08:40,0 --> 02:08:40,0
+commenced upon
+
+214
+02:08:40,0 --> 02:08:40,0
+all the face
+
+215
+02:08:40,0 --> 02:15:48,
+of the land.
+
+216
+02:15:48,0 --> 02:15:48,0
+18
+
+217
+02:15:48,0 --> 02:15:48,0
+Therefore, repent
+
+218
+02:15:48,0 --> 02:15:48,0
+all ye ends
+
+219
+02:15:48,0 --> 02:15:48,0
+of the
+
+220
+02:15:48,0 --> 02:15:48,0
+earth, and come
+
+221
+02:15:48,0 --> 02:15:48,0
+unto me,
+
+222
+02:15:48,0 --> 02:15:48,0
+and believe
+
+223
+02:15:48,0 --> 02:15:48,0
+in my
+
+224
+02:15:48,0 --> 02:15:48,0
+gospel, and be
+
+225
+02:15:48,0 --> 02:15:48,0
+baptized in
+
+226
+02:15:48,0 --> 02:15:48,0
+my name;
+
+227
+02:15:48,0 --> 02:15:48,0
+for he that
+
+228
+02:15:48,0 --> 02:15:48,0
+believeth
+
+229
+02:15:48,0 --> 02:15:48,0
+and is
+
+230
+02:15:48,0 --> 02:15:48,0
+baptized shall be
+
+231
+02:15:48,0 --> 02:15:48,0
+saved; but
+
+232
+02:15:48,0 --> 02:15:48,0
+he that
+
+233
+02:15:48,0 --> 02:15:48,0
+believeth not
+
+234
+02:15:48,0 --> 02:15:48,0
+shall be
+
+235
+02:15:48,0 --> 02:15:48,0
+damned; and
+
+236
+02:15:48,0 --> 02:15:48,0
+signs shall
+
+237
+02:15:48,0 --> 02:15:48,0
+follow
+
+238
+02:15:48,0 --> 02:28:56,
+them that believe in my name.
+
+239
+02:28:56,0 --> 02:28:56,0
+19 And
+
+240
+02:28:56,0 --> 02:28:56,0
+blessed is he
+
+241
+02:28:56,0 --> 02:28:56,0
+that is
+
+242
+02:28:56,0 --> 02:28:56,0
+found
+
+243
+02:28:56,0 --> 02:28:56,0
+faithful unto
+
+244
+02:28:56,0 --> 02:28:56,0
+my name at
+
+245
+02:28:56,0 --> 02:28:56,0
+the last
+
+246
+02:28:56,0 --> 02:28:56,0
+day, for he
+
+247
+02:28:56,0 --> 02:28:56,0
+shall be
+
+248
+02:28:56,0 --> 02:28:56,0
+lifted up
+
+249
+02:28:56,0 --> 02:28:56,0
+to dwell
+
+250
+02:28:56,0 --> 02:28:56,0
+in the
+
+251
+02:28:56,0 --> 02:28:56,0
+kingdom
+
+252
+02:28:56,0 --> 02:28:56,0
+prepared for him
+
+253
+02:28:56,0 --> 02:28:56,0
+from the
+
+254
+02:28:56,0 --> 02:28:56,0
+foundation
+
+255
+02:28:56,0 --> 02:28:56,0
+of the
+
+256
+02:28:56,0 --> 02:28:56,0
+world. And
+
+257
+02:28:56,0 --> 02:28:56,0
+behold it
+
+258
+02:28:56,0 --> 02:28:56,0
+is I that
+
+259
+02:28:56,0 --> 02:34:07,
+hath spoken it. Amen. 
 

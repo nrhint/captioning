@@ -1,720 +1,6616 @@
 1
-00:00:00,0 --> 00:00:08,368
+00:00:00,0 --> 00:00:00,0
 The Book of HelamanAn account of the Nephites.
 
 2
-00:00:08,368 --> 00:00:16,736
- Their wars and contentions, and their dissensions.
+00:00:00,0 --> 00:00:00,0
+Their wars and contentions, and their
 
 3
-00:00:16,736 --> 00:00:25,104
- And also the prophecies of many holy prophets,
+00:00:00,0 --> 00:00:00,0
+dissensions. And also the prophecies of many holy prophets,
 
 4
-00:00:25,104 --> 00:00:33,472
- before the coming of Christ, according to the records
+00:00:00,0 --> 00:00:00,0
+before the coming of Christ, according to the
 
 5
-00:00:33,472 --> 00:00:41,84
- of Helaman, who was the son of Helaman, and also
+00:00:00,0 --> 00:00:00,0
+records of Helaman, who was the son of Helaman,
 
 6
-00:00:41,84 --> 00:00:50,208
- according to the records of his sons, even down to
+00:00:00,0 --> 00:00:00,0
+and also according to the records of his sons,
 
 7
-00:00:50,208 --> 00:00:58,576
- the coming of Christ. And also many of the
+00:00:00,0 --> 00:00:00,0
+even down to the coming of Christ. And also many
 
 8
-00:00:58,576 --> 00:01:06,944
- Lamanites are converted. An account of their conversion.
+00:00:00,0 --> 00:00:00,0
+of the Lamanites are converted. An account of
 
 9
-00:01:06,944 --> 00:01:15,312
- An account of the righteousness of the Lamanites,
+00:00:00,0 --> 00:00:00,0
+their conversion. An account of the righteousness
 
 10
-00:01:15,312 --> 00:01:23,68
- and the wickedness and abominations of the
+00:00:00,0 --> 00:00:00,0
+of the Lamanites, and the wickedness and
 
 11
-00:01:23,68 --> 00:01:32,048
- Nephites, according to the record of Helaman and his sons,
+00:00:00,0 --> 00:00:00,0
+abominations of the Nephites, according to the record of
 
 12
-00:01:32,048 --> 00:01:40,416
- even down to the coming of Christ, which is
+00:00:00,0 --> 00:00:00,0
+Helaman and his sons, even down to the coming
 
 13
-00:01:40,416 --> 00:01:48,784
- called the book of Helaman, and so forth.Chapter 1
+00:00:00,0 --> 00:00:00,0
+of Christ, which is called the book of Helaman,
 
 14
-00:01:48,784 --> 00:01:57,152
- Pahoran the second becomes chief judge and is murdered
+00:00:00,0 --> 00:00:00,0
+and so forth.Chapter 1 Pahoran the second becomes
 
 15
-00:01:57,152 --> 00:02:05,52
- by Kishkumen—Pacumeni fills the judgment
+00:00:00,0 --> 00:00:00,0
+chief judge and is murdered by
 
 16
-00:02:05,52 --> 00:02:13,888
- seat—Coriantumr leads the Lamanite armies, takes
+00:00:00,0 --> 00:00:00,0
+Kishkumen—Pacumeni fills the judgment seat—Coriantumr leads the
 
 17
-00:02:13,888 --> 00:02:22,256
- Zarahemla, and slays Pacumeni—Moronihah defeats the
+00:00:00,0 --> 00:00:00,0
+Lamanite armies, takes Zarahemla, and slays
 
 18
-00:02:22,256 --> 00:02:30,624
- Lamanites and retakes Zarahemla, and Coriantumr is slain.
+00:00:00,0 --> 00:00:00,0
+Pacumeni—Moronihah defeats the Lamanites and retakes
 
 19
-00:02:30,624 --> 00:02:38,992
- About 52–50 B.C.
+00:00:00,0 --> 00:09:09,
+Zarahemla, and Coriantumr is slain. About 52–50 B.C. 
 
 20
-00:02:39,493 --> 00:02:40,693
+00:09:09,0 --> 00:09:09,0
 1 And now behold, it came to pass in the
 
 21
-00:02:40,693 --> 00:02:41,893
- commencement of the fortieth year of the reign of the
+00:09:09,0 --> 00:09:09,0
+commencement of the fortieth year of
 
 22
-00:02:41,893 --> 00:02:43,093
- judges over the people of Nephi, there began to be a
+00:09:09,0 --> 00:09:09,0
+the reign of the judges over the people of
 
 23
-00:02:43,093 --> 00:02:44,293
- serious difficulty among the people of the Nephites
+00:09:09,0 --> 00:09:09,0
+Nephi, there began to be a serious
 
 24
-00:02:44,293 --> 00:02:45,493
-
+00:09:09,0 --> 00:17:21,
+difficulty among the people of the Nephites.
 
 25
-00:02:45,732 --> 00:02:52,132
-2 For behold, Pahoran had died, and gone the way
+00:17:21,0 --> 00:17:21,0
+2 For behold, Pahoran had died, and
 
 26
-00:02:52,132 --> 00:02:58,532
- of all the earth; therefore there began to be a
+00:17:21,0 --> 00:17:21,0
+gone the way of all the earth;
 
 27
-00:02:58,532 --> 00:03:04,932
- serious contention concerning who should have the
+00:17:21,0 --> 00:17:21,0
+therefore there began to be a serious
 
 28
-00:03:04,932 --> 00:03:11,332
- judgment-seat among the brethren, who were the sons
+00:17:21,0 --> 00:17:21,0
+contention concerning who should
 
 29
-00:03:11,332 --> 00:03:17,732
- of Pahoran
+00:17:21,0 --> 00:17:21,0
+have the judgment-seat among the
 
 30
-00:03:17,03 --> 00:03:22,363
-3 Now these are their names who did contend for
+00:17:21,0 --> 00:19:33,
+brethren, who were the sons of Pahoran.
 
 31
-00:03:22,363 --> 00:03:27,696
- the judgment-seat, who did also cause the people to
+00:19:33,0 --> 00:19:33,0
+3 Now these are their names who did
 
 32
-00:03:27,696 --> 00:03:33,029
- contend: Pahoran, Paanchi, and Pacumeni
+00:19:33,0 --> 00:19:33,0
+contend for the judgment-seat, who
 
 33
-00:03:33,046 --> 00:03:44,796
-4 Now these are not all the sons of Pahoran (for
+00:19:33,0 --> 00:19:33,0
+did also cause the people to
 
 34
-00:03:44,796 --> 00:03:56,546
- he had many), but these are they who did contend
+00:19:33,0 --> 00:24:43,
+contend: Pahoran, Paanchi, and Pacumeni.
 
 35
-00:03:56,546 --> 00:04:08,296
- for the judgment-seat; therefore, they did cause
+00:24:43,0 --> 00:24:43,0
+4 Now these are not all the
 
 36
-00:04:08,296 --> 00:04:20,046
- three divisions among the people
+00:24:43,0 --> 00:24:43,0
+sons of Pahoran (for he had
 
 37
-00:04:20,894 --> 00:04:21,227
-5 Nevertheless, it came to pass that Pahoran was
+00:24:43,0 --> 00:24:43,0
+many), but these are they who did
 
 38
-00:04:21,227 --> 00:04:21,56
- appointed by the voice of the people to be chief
+00:24:43,0 --> 00:24:43,0
+contend for the judgment-seat;
 
 39
-00:04:21,56 --> 00:04:21,893
- judge and a governor over the people of Nephi
+00:24:43,0 --> 00:24:43,0
+therefore, they did cause
 
 40
-00:04:21,328 --> 00:04:24,661
-6 And it came to pass that Pacumeni, when he saw
+00:24:43,0 --> 00:41:23,
+three divisions among the people.
 
 41
-00:04:24,661 --> 00:04:27,994
- that he could not obtain the judgment-seat, he did
+00:41:23,0 --> 00:41:23,0
+5 Nevertheless, it came to
 
 42
-00:04:27,994 --> 00:04:31,327
- unite with the voice of the people
+00:41:23,0 --> 00:41:23,0
+pass that Pahoran was
 
 43
-00:04:31,238 --> 00:04:45,638
-7 But behold, Paanchi, and that part of the people
+00:41:23,0 --> 00:41:23,0
+appointed by the voice of the
 
 44
-00:04:45,638 --> 00:05:00,038
- that were desirous that he should be their
+00:41:23,0 --> 00:41:23,0
+people to be chief judge and a
 
 45
-00:05:00,038 --> 00:05:14,438
- governor, was exceedingly wroth; therefore, he was about
+00:41:23,0 --> 00:56:29,
+governor over the people of Nephi.
 
 46
-00:05:14,438 --> 00:05:28,838
- to flatter away those people to rise up in
+00:56:29,0 --> 00:56:29,0
+6 And it came to pass that
 
 47
-00:05:28,838 --> 00:05:43,238
- rebellion against their brethren
+00:56:29,0 --> 00:56:29,0
+Pacumeni, when he saw that
 
 48
-00:05:43,009 --> 00:05:43,009
-8 And it came to pass as he was about to do this,
+00:56:29,0 --> 00:56:29,0
+he could not obtain the
 
 49
-00:05:43,009 --> 00:05:43,009
- behold, he was taken, and was tried according to
+00:56:29,0 --> 00:56:29,0
+judgment-seat, he did unite
 
 50
-00:05:43,009 --> 00:05:43,009
- the voice of the people, and condemned unto death;
+00:56:29,0 --> 00:58:41,
+with the voice of the people.
 
 51
-00:05:43,009 --> 00:05:43,009
- for he had raised up in rebellion and sought to
+00:58:41,0 --> 00:58:41,0
+7 But behold, Paanchi,
 
 52
-00:05:43,009 --> 00:05:43,009
- destroy the liberty of the people
+00:58:41,0 --> 00:58:41,0
+and that part of the people
 
 53
-00:05:43,41 --> 00:05:45,91
-9 Now when those people who were desirous that he
+00:58:41,0 --> 00:58:41,0
+that were desirous that
 
 54
-00:05:45,91 --> 00:05:48,41
- should be their governor saw that he was condemned
+00:58:41,0 --> 00:58:41,0
+he should be their
 
 55
-00:05:48,41 --> 00:05:50,91
- unto death, therefore they were angry, and
+00:58:41,0 --> 00:58:41,0
+governor, was exceedingly
 
 56
-00:05:50,91 --> 00:05:53,41
- behold, they sent forth one Kishkumen, even to the
+00:58:41,0 --> 00:58:41,0
+wroth; therefore, he was about
 
 57
-00:05:53,41 --> 00:05:55,91
- judgment-seat of Pahoran, and murdered Pahoran as he
+00:58:41,0 --> 00:58:41,0
+to flatter away those
 
 58
-00:05:55,91 --> 00:05:58,41
- sat upon the judgment-seat
+00:58:41,0 --> 00:58:41,0
+people to rise up in
 
 59
-00:05:58,391 --> 00:06:03,391
-10 And he was pursued by the servants of Pahoran;
+00:58:41,0 --> 01:07:50,
+rebellion against their brethren.
 
 60
-00:06:03,391 --> 00:06:08,391
- but behold, so speedy was the flight of Kishkumen
+01:07:50,0 --> 01:07:50,0
+8 And it came to pass
 
 61
-00:06:08,391 --> 00:06:13,391
- that no man could overtake him
+01:07:50,0 --> 01:07:50,0
+as he was about to do
 
 62
-00:06:13,64 --> 00:06:20,64
-11 And he went unto those that sent him, and they
+01:07:50,0 --> 01:07:50,0
+this, behold, he was
 
 63
-00:06:20,64 --> 00:06:27,64
- all entered into a covenant, yea, swearing by
+01:07:50,0 --> 01:07:50,0
+taken, and was tried
 
 64
-00:06:27,64 --> 00:06:34,64
- their everlasting Maker, that they would tell no man
+01:07:50,0 --> 01:07:50,0
+according to the voice of the
 
 65
-00:06:34,64 --> 00:06:41,64
- that Kishkumen had murdered Pahoran
+01:07:50,0 --> 01:07:50,0
+people, and condemned
 
 66
-00:06:41,601 --> 00:06:47,887
-12 Therefore, Kishkumen was not known among the
+01:07:50,0 --> 01:07:50,0
+unto death; for he had
 
 67
-00:06:47,887 --> 00:06:54,173
- people of Nephi, for he was in disguise at the time
+01:07:50,0 --> 01:07:50,0
+raised up in rebellion
 
 68
-00:06:54,173 --> 00:07:00,459
- that he murdered Pahoran. And Kishkumen and his
+01:07:50,0 --> 01:07:50,0
+and sought to destroy
 
 69
-00:07:00,459 --> 00:07:06,745
- band, who had covenanted with him, did mingle
+01:07:50,0 --> 01:17:46,
+the liberty of the people.
 
 70
-00:07:06,745 --> 00:07:13,031
- themselves among the people, in a manner that they all
+01:17:46,0 --> 01:17:46,0
+9 Now when those
 
 71
-00:07:13,031 --> 00:07:19,317
- could not be found; but as many as were found were
+01:17:46,0 --> 01:17:46,0
+people who were desirous
 
 72
-00:07:19,317 --> 00:07:25,603
- condemned unto death
+01:17:46,0 --> 01:17:46,0
+that he should be their
 
 73
-00:07:25,845 --> 00:07:31,131
-13 And now behold, Pacumeni was appointed,
+01:17:46,0 --> 01:17:46,0
+governor saw that he
 
 74
-00:07:31,131 --> 00:07:36,417
- according to the voice of the people, to be a chief judge
+01:17:46,0 --> 01:17:46,0
+was condemned unto
 
 75
-00:07:36,417 --> 00:07:41,703
- and a governor over the people, to reign in the
+01:17:46,0 --> 01:17:46,0
+death, therefore they were
 
 76
-00:07:41,703 --> 00:07:46,989
- stead of his brother Pahoran; and it was according
+01:17:46,0 --> 01:17:46,0
+angry, and behold,
 
 77
-00:07:46,989 --> 00:07:52,275
- to his right. And all this was done in the
+01:17:46,0 --> 01:17:46,0
+they sent forth one
 
 78
-00:07:52,275 --> 00:07:57,561
- fortieth year of the reign of the judges; and it had an
+01:17:46,0 --> 01:17:46,0
+Kishkumen, even to the
 
 79
-00:07:57,561 --> 00:08:02,847
- end
+01:17:46,0 --> 01:17:46,0
+judgment-seat of Pahoran,
 
 80
-00:08:02,549 --> 00:08:08,12
-14 And it came to pass in the forty and first year
+01:17:46,0 --> 01:17:46,0
+and murdered Pahoran
 
 81
-00:08:08,12 --> 00:08:13,691
- of the reign of the judges, that the Lamanites
+01:17:46,0 --> 01:30:54,
+as he sat upon the judgment-seat.
 
 82
-00:08:13,691 --> 00:08:19,262
- had gathered together an innumerable army of men,
+01:30:54,0 --> 01:30:54,0
+10 And he was pursued
 
 83
-00:08:19,262 --> 00:08:24,833
- and armed them with swords, and with cimeters and
+01:30:54,0 --> 01:30:54,0
+by the servants of
 
 84
-00:08:24,833 --> 00:08:30,404
- with bows, and with arrows, and with head-plates,
+01:30:54,0 --> 01:30:54,0
+Pahoran; but behold,
 
 85
-00:08:30,404 --> 00:08:35,975
- and with breastplates, and with all manner of
+01:30:54,0 --> 01:30:54,0
+so speedy was the
 
 86
-00:08:35,975 --> 00:08:41,546
- shields of every kind
+01:30:54,0 --> 01:30:54,0
+flight of Kishkumen that
 
 87
-00:08:41,955 --> 00:08:47,288
-15 And they came down again that they might pitch
+01:30:54,0 --> 01:33:22,
+no man could overtake him.
 
 88
-00:08:47,288 --> 00:08:52,621
- battle against the Nephites. And they were led by
+01:33:22,0 --> 01:33:22,0
+11 And he went unto
 
 89
-00:08:52,621 --> 00:08:57,954
- a man whose name was Coriantumr; and he was a
+01:33:22,0 --> 01:33:22,0
+those that sent him,
 
 90
-00:08:57,954 --> 00:09:03,287
- descendant of Zarahemla; and he was a dissenter from
+01:33:22,0 --> 01:33:22,0
+and they all
 
 91
-00:09:03,287 --> 00:09:08,62
- among the Nephites; and he was a large and a mighty
+01:33:22,0 --> 01:33:22,0
+entered into a covenant,
 
 92
-00:09:08,62 --> 00:09:13,953
- man
+01:33:22,0 --> 01:33:22,0
+yea, swearing by
 
 93
-00:09:13,153 --> 00:09:22,153
-16 Therefore, the king of the Lamanites, whose
+01:33:22,0 --> 01:33:22,0
+their everlasting Maker,
 
 94
-00:09:22,153 --> 00:09:31,153
- name was Tubaloth, who was the son of Ammoron,
+01:33:22,0 --> 01:33:22,0
+that they would
 
 95
-00:09:31,153 --> 00:09:40,153
- supposing that Coriantumr, being a mighty man, could
+01:33:22,0 --> 01:33:22,0
+tell no man that
 
 96
-00:09:40,153 --> 00:09:49,153
- stand against the Nephites, with his strength and
+01:33:22,0 --> 01:45:33,
+Kishkumen had murdered Pahoran.
 
 97
-00:09:49,153 --> 00:09:58,153
- also with his great wisdom, insomuch that by sending
+01:45:33,0 --> 01:45:33,0
+12 Therefore,
 
 98
-00:09:58,153 --> 00:10:07,153
- him forth he should gain power over the Nephites
+01:45:33,0 --> 01:45:33,0
+Kishkumen was not
 
 99
-00:10:07,006 --> 00:10:09,006
-17 Therefore he did stir them up to anger, and he
+01:45:33,0 --> 01:45:33,0
+known among the people
 
 100
-00:10:09,006 --> 00:10:11,006
- did gather together his armies, and he did appoint
+01:45:33,0 --> 01:45:33,0
+of Nephi, for he
 
 101
-00:10:11,006 --> 00:10:13,006
- Coriantumr to be their leader, and did cause that
+01:45:33,0 --> 01:45:33,0
+was in disguise at
 
 102
-00:10:13,006 --> 00:10:15,006
- they should march down to the land of Zarahemla
+01:45:33,0 --> 01:45:33,0
+the time that he
 
 103
-00:10:15,006 --> 00:10:17,006
- to battle against the Nephites
+01:45:33,0 --> 01:45:33,0
+murdered Pahoran.
 
 104
-00:10:17,25 --> 00:10:23,25
-18 And it came to pass that because of so much
+01:45:33,0 --> 01:45:33,0
+And Kishkumen and
 
 105
-00:10:23,25 --> 00:10:29,25
- contention and so much difficulty in the government,
+01:45:33,0 --> 01:45:33,0
+his band, who had
 
 106
-00:10:29,25 --> 00:10:35,25
- that they had not kept sufficient guards in the
+01:45:33,0 --> 01:45:33,0
+covenanted with
 
 107
-00:10:35,25 --> 00:10:41,25
- land of Zarahemla; for they had supposed that the
+01:45:33,0 --> 01:45:33,0
+him, did mingle
 
 108
-00:10:41,25 --> 00:10:47,25
- Lamanites durst not come into the heart of their
+01:45:33,0 --> 01:45:33,0
+themselves among the
 
 109
-00:10:47,25 --> 00:10:53,25
- lands to attack that great city Zarahemla
+01:45:33,0 --> 01:45:33,0
+people, in a manner
 
 110
-00:10:53,419 --> 00:10:58,252
-19 But it came to pass that Coriantumr did march
+01:45:33,0 --> 01:45:33,0
+that they all
 
 111
-00:10:58,252 --> 00:11:03,085
- forth at the head of his numerous host, and came
+01:45:33,0 --> 01:45:33,0
+could not be found;
 
 112
-00:11:03,085 --> 00:11:07,918
- upon the inhabitants of the city, and their march
+01:45:33,0 --> 01:45:33,0
+but as many as were
 
 113
-00:11:07,918 --> 00:11:12,751
- was with such exceedingly great speed that there was
+01:45:33,0 --> 01:50:43,
+found were condemned unto death.
 
 114
-00:11:12,751 --> 00:11:17,584
- no time for the Nephites to gather together their
+01:50:43,0 --> 01:50:43,0
+13 And now
 
 115
-00:11:17,584 --> 00:11:22,417
- armies
+01:50:43,0 --> 01:50:43,0
+behold, Pacumeni was
 
 116
-00:11:22,982 --> 00:11:29,382
-20 Therefore Coriantumr did cut down the watch by
+01:50:43,0 --> 01:50:43,0
+appointed,
 
 117
-00:11:29,382 --> 00:11:35,782
- the entrance of the city, and did march forth with
+01:50:43,0 --> 01:50:43,0
+according to the voice of
 
 118
-00:11:35,782 --> 00:11:42,182
- his whole army into the city, and they did slay
+01:50:43,0 --> 01:50:43,0
+the people, to
 
 119
-00:11:42,182 --> 00:11:48,582
- every one who did oppose them, insomuch that they
+01:50:43,0 --> 01:50:43,0
+be a chief judge
 
 120
-00:11:48,582 --> 00:11:54,982
- did take possession of the whole city
+01:50:43,0 --> 01:50:43,0
+and a governor
 
 121
-00:11:54,881 --> 00:12:02,881
-21 And it came to pass that Pacumeni, who was the
+01:50:43,0 --> 01:50:43,0
+over the people, to
 
 122
-00:12:02,881 --> 00:12:10,881
- chief judge, did flee before Coriantumr, even to
+01:50:43,0 --> 01:50:43,0
+reign in the
 
 123
-00:12:10,881 --> 00:12:18,881
- the walls of the city. And it came to pass that
+01:50:43,0 --> 01:50:43,0
+stead of his brother
 
 124
-00:12:18,881 --> 00:12:26,881
- Coriantumr did smite him against the wall, insomuch
+01:50:43,0 --> 01:50:43,0
+Pahoran; and it
 
 125
-00:12:26,881 --> 00:12:34,881
- that he died. And thus ended the days of Pacumeni
+01:50:43,0 --> 01:50:43,0
+was according to
 
 126
-00:12:34,754 --> 00:12:45,754
-22 And now when Coriantumr saw that he was in
+01:50:43,0 --> 01:50:43,0
+his right. And all
 
 127
-00:12:45,754 --> 00:12:56,754
- possession of the city of Zarahemla, and saw that the
+01:50:43,0 --> 01:50:43,0
+this was done in
 
 128
-00:12:56,754 --> 00:13:07,754
- Nephites had fled before them, and were slain, and
+01:50:43,0 --> 01:50:43,0
+the fortieth
 
 129
-00:13:07,754 --> 00:13:18,754
- were taken, and were cast into prison, and that
+01:50:43,0 --> 01:50:43,0
+year of the reign of
 
 130
-00:13:18,754 --> 00:13:29,754
- he had obtained the possession of the strongest
+01:50:43,0 --> 02:05:50,
+the judges; and it had an end.
 
 131
-00:13:29,754 --> 00:13:40,754
- hold in all the land, his heart took courage insomuch
+02:05:50,0 --> 02:05:50,0
+14 And it came
 
 132
-00:13:40,754 --> 00:13:51,754
- that he was about to go forth against all the
+02:05:50,0 --> 02:05:50,0
+to pass in the
 
 133
-00:13:51,754 --> 00:14:02,754
- land
+02:05:50,0 --> 02:05:50,0
+forty and first
 
 134
-00:14:02,475 --> 00:14:10,475
-23 And now he did not tarry in the land of
+02:05:50,0 --> 02:05:50,0
+year of the reign
 
 135
-00:14:10,475 --> 00:14:18,475
- Zarahemla, but he did march forth with a large army, even
+02:05:50,0 --> 02:05:50,0
+of the judges,
 
 136
-00:14:18,475 --> 00:14:26,475
- towards the city of Bountiful; for it was his
+02:05:50,0 --> 02:05:50,0
+that the
 
 137
-00:14:26,475 --> 00:14:34,475
- determination to go forth and cut his way through
+02:05:50,0 --> 02:05:50,0
+Lamanites had gathered
 
 138
-00:14:34,475 --> 00:14:42,475
- with the sword, that he might obtain the north parts
+02:05:50,0 --> 02:05:50,0
+together an
 
 139
-00:14:42,475 --> 00:14:50,475
- of the land
+02:05:50,0 --> 02:05:50,0
+innumerable army of
 
 140
-00:14:50,323 --> 00:15:11,49
-24 And, supposing that their greatest strength was
+02:05:50,0 --> 02:05:50,0
+men, and armed
 
 141
-00:15:11,49 --> 00:15:32,657
- in the center of the land, therefore he did march
+02:05:50,0 --> 02:05:50,0
+them with swords,
 
 142
-00:15:32,657 --> 00:15:53,824
- forth, giving them no time to assemble themselves
+02:05:50,0 --> 02:05:50,0
+and with
 
 143
-00:15:53,824 --> 00:16:14,991
- together save it were in small bodies; and in
+02:05:50,0 --> 02:05:50,0
+cimeters and with bows,
 
 144
-00:16:14,991 --> 00:16:36,158
- this manner they did fall upon them and cut them down
+02:05:50,0 --> 02:05:50,0
+and with
 
 145
-00:16:36,158 --> 00:16:57,325
- to the earth
+02:05:50,0 --> 02:05:50,0
+arrows, and with
 
 146
-00:16:57,917 --> 00:17:07,917
-25 But behold, this march of Coriantumr through
+02:05:50,0 --> 02:05:50,0
+head-plates, and with
 
 147
-00:17:07,917 --> 00:17:17,917
- the center of the land gave Moronihah great
+02:05:50,0 --> 02:05:50,0
+breastplates,
 
 148
-00:17:17,917 --> 00:17:27,917
- advantage over them, notwithstanding the greatness of the
+02:05:50,0 --> 02:05:50,0
+and with all
 
 149
-00:17:27,917 --> 00:17:37,917
- number of the Nephites who were slain
+02:05:50,0 --> 02:07:02,
+manner of shields of every kind.
 
 150
-00:17:37,79 --> 00:17:44,647
-26 For behold, Moronihah had supposed that the
+02:07:02,0 --> 02:07:02,0
+15 And they
 
 151
-00:17:44,647 --> 00:17:51,504
- Lamanites durst not come into the center of the land,
+02:07:02,0 --> 02:07:02,0
+came down again
 
 152
-00:17:51,504 --> 00:17:58,361
- but that they would attack the cities round about
+02:07:02,0 --> 02:07:02,0
+that they might
 
 153
-00:17:58,361 --> 00:18:05,218
- in the borders as they had hitherto done;
+02:07:02,0 --> 02:07:02,0
+pitch battle
 
 154
-00:18:05,218 --> 00:18:12,075
- therefore Moronihah had caused that their strong armies
+02:07:02,0 --> 02:07:02,0
+against the
 
 155
-00:18:12,075 --> 00:18:18,932
- should maintain those parts round about by the
+02:07:02,0 --> 02:07:02,0
+Nephites. And they
 
 156
-00:18:18,932 --> 00:18:25,789
- borders
+02:07:02,0 --> 02:07:02,0
+were led by a man
 
 157
-00:02:39,493 --> 00:02:49,493
-29 And thus he did; and he did head them before
+02:07:02,0 --> 02:07:02,0
+whose name was
 
 158
-00:02:49,493 --> 00:02:59,493
- they came to the land Bountiful, and gave unto them
+02:07:02,0 --> 02:07:02,0
+Coriantumr;
 
 159
-00:02:59,493 --> 00:03:09,493
- battle, insomuch that they began to retreat back
+02:07:02,0 --> 02:07:02,0
+and he was a
 
 160
-00:03:09,493 --> 00:03:19,493
- towards the land of Zarahemla
+02:07:02,0 --> 02:07:02,0
+descendant of
 
 161
-00:03:19,366 --> 00:03:24,166
-30 And it came to pass that Moronihah did head
+02:07:02,0 --> 02:07:02,0
+Zarahemla; and he
 
 162
-00:03:24,166 --> 00:03:28,966
- them in their retreat, and did give unto them battle,
+02:07:02,0 --> 02:07:02,0
+was a dissenter
 
 163
-00:03:28,966 --> 00:03:33,766
- insomuch that it became an exceedingly bloody
+02:07:02,0 --> 02:07:02,0
+from among the
 
 164
-00:03:33,766 --> 00:03:38,566
- battle; yea, many were slain, and among the number
+02:07:02,0 --> 02:07:02,0
+Nephites; and he
 
 165
-00:03:38,566 --> 00:03:43,366
- who were slain Coriantumr was also found
+02:07:02,0 --> 02:15:14,
+was a large and a mighty man.
 
 166
-00:03:43,29 --> 00:03:47,29
-31 And now, behold, the Lamanites could not
+02:15:14,0 --> 02:15:14,0
+16 Therefore,
 
 167
-00:03:47,29 --> 00:03:51,29
- retreat either way, neither on the north, nor on the
+02:15:14,0 --> 02:15:14,0
+the king of
 
 168
-00:03:51,29 --> 00:03:55,29
- south, nor on the east, nor on the west, for they
+02:15:14,0 --> 02:15:14,0
+the Lamanites,
 
 169
-00:03:55,29 --> 00:03:59,29
- were surrounded on every hand by the Nephites
+02:15:14,0 --> 02:15:14,0
+whose name was
 
 170
-00:03:59,239 --> 00:04:04,039
-32 And thus had Coriantumr plunged the Lamanites
+02:15:14,0 --> 02:15:14,0
+Tubaloth, who
 
 171
-00:04:04,039 --> 00:04:08,839
- into the midst of the Nephites, insomuch that they
+02:15:14,0 --> 02:15:14,0
+was the son of
 
 172
-00:04:08,839 --> 00:04:13,639
- were in the power of the Nephites, and he himself
+02:15:14,0 --> 02:15:14,0
+Ammoron,
 
 173
-00:04:13,639 --> 00:04:18,439
- was slain, and the Lamanites did yield themselves
+02:15:14,0 --> 02:15:14,0
+supposing that
 
 174
-00:04:18,439 --> 00:04:23,239
- into the hands of the Nephites
+02:15:14,0 --> 02:15:14,0
+Coriantumr, being
 
 175
-00:04:23,163 --> 00:04:29,163
-33 And it came to pass that Moronihah took
+02:15:14,0 --> 02:15:14,0
+a mighty man,
 
 176
-00:04:29,163 --> 00:04:35,163
- possession of the city of Zarahemla again, and caused
+02:15:14,0 --> 02:15:14,0
+could stand
 
 177
-00:04:35,163 --> 00:04:41,163
- that the Lamanites who had been taken prisoners
+02:15:14,0 --> 02:15:14,0
+against the
 
 178
-00:04:41,163 --> 00:04:47,163
- should depart out of the land in peace
+02:15:14,0 --> 02:15:14,0
+Nephites, with
 
 179
-00:04:47,087 --> 00:04:47,087
-34 And thus ended the forty and first year of the
+02:15:14,0 --> 02:15:14,0
+his strength and
 
 180
-00:04:47,087 --> 00:04:47,087
- reign of the judges.
+02:15:14,0 --> 02:15:14,0
+also with his
+
+181
+02:15:14,0 --> 02:15:14,0
+great wisdom,
+
+182
+02:15:14,0 --> 02:15:14,0
+insomuch that
+
+183
+02:15:14,0 --> 02:15:14,0
+by sending
+
+184
+02:15:14,0 --> 02:15:14,0
+him forth he
+
+185
+02:15:14,0 --> 02:27:25,
+should gain power over the Nephites—
+
+186
+02:27:25,0 --> 02:27:25,0
+17 Therefore
+
+187
+02:27:25,0 --> 02:27:25,0
+he did stir
+
+188
+02:27:25,0 --> 02:27:25,0
+them up to
+
+189
+02:27:25,0 --> 02:27:25,0
+anger, and he
+
+190
+02:27:25,0 --> 02:27:25,0
+did gather
+
+191
+02:27:25,0 --> 02:27:25,0
+together his
+
+192
+02:27:25,0 --> 02:27:25,0
+armies, and he
+
+193
+02:27:25,0 --> 02:27:25,0
+did appoint
+
+194
+02:27:25,0 --> 02:27:25,0
+Coriantumr to be
+
+195
+02:27:25,0 --> 02:27:25,0
+their
+
+196
+02:27:25,0 --> 02:27:25,0
+leader, and did
+
+197
+02:27:25,0 --> 02:27:25,0
+cause that they
+
+198
+02:27:25,0 --> 02:27:25,0
+should march
+
+199
+02:27:25,0 --> 02:27:25,0
+down to the
+
+200
+02:27:25,0 --> 02:27:25,0
+land of
+
+201
+02:27:25,0 --> 02:27:25,0
+Zarahemla to battle
+
+202
+02:27:25,0 --> 02:32:36,
+against the Nephites.
+
+203
+02:32:36,0 --> 02:32:36,0
+18 And it
+
+204
+02:32:36,0 --> 02:32:36,0
+came to pass
+
+205
+02:32:36,0 --> 02:32:36,0
+that because
+
+206
+02:32:36,0 --> 02:32:36,0
+of so much
+
+207
+02:32:36,0 --> 02:32:36,0
+contention
+
+208
+02:32:36,0 --> 02:32:36,0
+and so much
+
+209
+02:32:36,0 --> 02:32:36,0
+difficulty in
+
+210
+02:32:36,0 --> 02:32:36,0
+the
+
+211
+02:32:36,0 --> 02:32:36,0
+government, that
+
+212
+02:32:36,0 --> 02:32:36,0
+they had not
+
+213
+02:32:36,0 --> 02:32:36,0
+kept
+
+214
+02:32:36,0 --> 02:32:36,0
+sufficient guards in
+
+215
+02:32:36,0 --> 02:32:36,0
+the land of
+
+216
+02:32:36,0 --> 02:32:36,0
+Zarahemla;
+
+217
+02:32:36,0 --> 02:32:36,0
+for they had
+
+218
+02:32:36,0 --> 02:32:36,0
+supposed
+
+219
+02:32:36,0 --> 02:32:36,0
+that the
+
+220
+02:32:36,0 --> 02:32:36,0
+Lamanites durst
+
+221
+02:32:36,0 --> 02:32:36,0
+not come into
+
+222
+02:32:36,0 --> 02:32:36,0
+the heart of
+
+223
+02:32:36,0 --> 02:32:36,0
+their lands
+
+224
+02:32:36,0 --> 02:32:36,0
+to attack
+
+225
+02:32:36,0 --> 02:38:47,
+that great city Zarahemla.
+
+226
+02:38:47,0 --> 02:38:47,0
+19 But it
+
+227
+02:38:47,0 --> 02:38:47,0
+came to pass
+
+228
+02:38:47,0 --> 02:38:47,0
+that
+
+229
+02:38:47,0 --> 02:38:47,0
+Coriantumr did
+
+230
+02:38:47,0 --> 02:38:47,0
+march forth
+
+231
+02:38:47,0 --> 02:38:47,0
+at the head
+
+232
+02:38:47,0 --> 02:38:47,0
+of his
+
+233
+02:38:47,0 --> 02:38:47,0
+numerous host,
+
+234
+02:38:47,0 --> 02:38:47,0
+and came
+
+235
+02:38:47,0 --> 02:38:47,0
+upon the
+
+236
+02:38:47,0 --> 02:38:47,0
+inhabitants of
+
+237
+02:38:47,0 --> 02:38:47,0
+the city,
+
+238
+02:38:47,0 --> 02:38:47,0
+and their
+
+239
+02:38:47,0 --> 02:38:47,0
+march was
+
+240
+02:38:47,0 --> 02:38:47,0
+with such
+
+241
+02:38:47,0 --> 02:38:47,0
+exceedingly
+
+242
+02:38:47,0 --> 02:38:47,0
+great speed
+
+243
+02:38:47,0 --> 02:38:47,0
+that there
+
+244
+02:38:47,0 --> 02:38:47,0
+was no time
+
+245
+02:38:47,0 --> 02:38:47,0
+for the
+
+246
+02:38:47,0 --> 02:38:47,0
+Nephites to
+
+247
+02:38:47,0 --> 02:56:13,
+gather together their armies.
+
+248
+02:56:13,0 --> 02:56:13,0
+20
+
+249
+02:56:13,0 --> 02:56:13,0
+Therefore
+
+250
+02:56:13,0 --> 02:56:13,0
+Coriantumr did
+
+251
+02:56:13,0 --> 02:56:13,0
+cut down the
+
+252
+02:56:13,0 --> 02:56:13,0
+watch by
+
+253
+02:56:13,0 --> 02:56:13,0
+the
+
+254
+02:56:13,0 --> 02:56:13,0
+entrance of the
+
+255
+02:56:13,0 --> 02:56:13,0
+city, and
+
+256
+02:56:13,0 --> 02:56:13,0
+did march
+
+257
+02:56:13,0 --> 02:56:13,0
+forth with
+
+258
+02:56:13,0 --> 02:56:13,0
+his whole
+
+259
+02:56:13,0 --> 02:56:13,0
+army into
+
+260
+02:56:13,0 --> 02:56:13,0
+the city,
+
+261
+02:56:13,0 --> 02:56:13,0
+and they
+
+262
+02:56:13,0 --> 02:56:13,0
+did slay
+
+263
+02:56:13,0 --> 02:56:13,0
+every one
+
+264
+02:56:13,0 --> 02:56:13,0
+who did
+
+265
+02:56:13,0 --> 02:56:13,0
+oppose them,
+
+266
+02:56:13,0 --> 02:56:13,0
+insomuch
+
+267
+02:56:13,0 --> 02:56:13,0
+that they
+
+268
+02:56:13,0 --> 02:56:13,0
+did take
+
+269
+02:56:13,0 --> 03:03:21,
+possession of the whole city.
+
+270
+03:03:21,0 --> 03:03:21,0
+21 And it
+
+271
+03:03:21,0 --> 03:03:21,0
+came to
+
+272
+03:03:21,0 --> 03:03:21,0
+pass that
+
+273
+03:03:21,0 --> 03:03:21,0
+
+
+274
+03:03:21,0 --> 03:03:21,0
+Pacumeni, who was
+
+275
+03:03:21,0 --> 03:03:21,0
+the
+
+276
+03:03:21,0 --> 03:03:21,0
+chief judge,
+
+277
+03:03:21,0 --> 03:03:21,0
+did flee
+
+278
+03:03:21,0 --> 03:03:21,0
+before
+
+279
+03:03:21,0 --> 03:03:21,0
+Coriantumr,
+
+280
+03:03:21,0 --> 03:03:21,0
+even to
+
+281
+03:03:21,0 --> 03:03:21,0
+the walls
+
+282
+03:03:21,0 --> 03:03:21,0
+of the
+
+283
+03:03:21,0 --> 03:03:21,0
+city. And
+
+284
+03:03:21,0 --> 03:03:21,0
+it came
+
+285
+03:03:21,0 --> 03:03:21,0
+to pass
+
+286
+03:03:21,0 --> 03:03:21,0
+that
+
+287
+03:03:21,0 --> 03:03:21,0
+Coriantumr did
+
+288
+03:03:21,0 --> 03:03:21,0
+smite him
+
+289
+03:03:21,0 --> 03:03:21,0
+against
+
+290
+03:03:21,0 --> 03:03:21,0
+the wall,
+
+291
+03:03:21,0 --> 03:03:21,0
+insomuch
+
+292
+03:03:21,0 --> 03:03:21,0
+that he
+
+293
+03:03:21,0 --> 03:03:21,0
+died. And
+
+294
+03:03:21,0 --> 03:06:03,
+thus ended the days of Pacumeni.
+
+295
+03:06:03,0 --> 03:06:03,0
+22 And
+
+296
+03:06:03,0 --> 03:06:03,0
+now when
+
+297
+03:06:03,0 --> 03:06:03,0
+
+
+298
+03:06:03,0 --> 03:06:03,0
+Coriantumr saw
+
+299
+03:06:03,0 --> 03:06:03,0
+that he
+
+300
+03:06:03,0 --> 03:06:03,0
+was in
+
+301
+03:06:03,0 --> 03:06:03,0
+possession
+
+302
+03:06:03,0 --> 03:06:03,0
+of the
+
+303
+03:06:03,0 --> 03:06:03,0
+city of
+
+304
+03:06:03,0 --> 03:06:03,0
+
+
+305
+03:06:03,0 --> 03:06:03,0
+Zarahemla, and
+
+306
+03:06:03,0 --> 03:06:03,0
+saw that
+
+307
+03:06:03,0 --> 03:06:03,0
+the
+
+308
+03:06:03,0 --> 03:06:03,0
+Nephites had
+
+309
+03:06:03,0 --> 03:06:03,0
+fled
+
+310
+03:06:03,0 --> 03:06:03,0
+before
+
+311
+03:06:03,0 --> 03:06:03,0
+them, and
+
+312
+03:06:03,0 --> 03:06:03,0
+were
+
+313
+03:06:03,0 --> 03:06:03,0
+slain, and
+
+314
+03:06:03,0 --> 03:06:03,0
+were
+
+315
+03:06:03,0 --> 03:06:03,0
+taken, and
+
+316
+03:06:03,0 --> 03:06:03,0
+were cast
+
+317
+03:06:03,0 --> 03:06:03,0
+into
+
+318
+03:06:03,0 --> 03:06:03,0
+prison,
+
+319
+03:06:03,0 --> 03:06:03,0
+and that
+
+320
+03:06:03,0 --> 03:06:03,0
+he had
+
+321
+03:06:03,0 --> 03:06:03,0
+obtained
+
+322
+03:06:03,0 --> 03:06:03,0
+the
+
+323
+03:06:03,0 --> 03:06:03,0
+possession of
+
+324
+03:06:03,0 --> 03:06:03,0
+the
+
+325
+03:06:03,0 --> 03:06:03,0
+strongest
+
+326
+03:06:03,0 --> 03:06:03,0
+hold in
+
+327
+03:06:03,0 --> 03:06:03,0
+all the
+
+328
+03:06:03,0 --> 03:06:03,0
+land, his
+
+329
+03:06:03,0 --> 03:06:03,0
+heart
+
+330
+03:06:03,0 --> 03:06:03,0
+took
+
+331
+03:06:03,0 --> 03:06:03,0
+courage
+
+332
+03:06:03,0 --> 03:06:03,0
+insomuch
+
+333
+03:06:03,0 --> 03:06:03,0
+that he was
+
+334
+03:06:03,0 --> 03:19:12,
+about to go forth against all the land.
+
+335
+03:19:12,0 --> 03:19:12,0
+23 And
+
+336
+03:19:12,0 --> 03:19:12,0
+now he
+
+337
+03:19:12,0 --> 03:19:12,0
+did not
+
+338
+03:19:12,0 --> 03:19:12,0
+tarry
+
+339
+03:19:12,0 --> 03:19:12,0
+in the
+
+340
+03:19:12,0 --> 03:19:12,0
+land of
+
+341
+03:19:12,0 --> 03:19:12,0
+
+
+342
+03:19:12,0 --> 03:19:12,0
+Zarahemla,
+
+343
+03:19:12,0 --> 03:19:12,0
+but he
+
+344
+03:19:12,0 --> 03:19:12,0
+did march
+
+345
+03:19:12,0 --> 03:19:12,0
+forth
+
+346
+03:19:12,0 --> 03:19:12,0
+with a
+
+347
+03:19:12,0 --> 03:19:12,0
+large
+
+348
+03:19:12,0 --> 03:19:12,0
+army,
+
+349
+03:19:12,0 --> 03:19:12,0
+even
+
+350
+03:19:12,0 --> 03:19:12,0
+towards the
+
+351
+03:19:12,0 --> 03:19:12,0
+city
+
+352
+03:19:12,0 --> 03:19:12,0
+of
+
+353
+03:19:12,0 --> 03:19:12,0
+Bountiful;
+
+354
+03:19:12,0 --> 03:19:12,0
+for it
+
+355
+03:19:12,0 --> 03:19:12,0
+was his
+
+356
+03:19:12,0 --> 03:19:12,0
+
+
+357
+03:19:12,0 --> 03:19:12,0
+determination
+
+358
+03:19:12,0 --> 03:19:12,0
+to go
+
+359
+03:19:12,0 --> 03:19:12,0
+forth
+
+360
+03:19:12,0 --> 03:19:12,0
+and cut
+
+361
+03:19:12,0 --> 03:19:12,0
+his way
+
+362
+03:19:12,0 --> 03:19:12,0
+through
+
+363
+03:19:12,0 --> 03:19:12,0
+with
+
+364
+03:19:12,0 --> 03:19:12,0
+the
+
+365
+03:19:12,0 --> 03:19:12,0
+sword, that
+
+366
+03:19:12,0 --> 03:19:12,0
+he
+
+367
+03:19:12,0 --> 03:33:20,
+might obtain the north parts of the land.
+
+368
+03:33:20,0 --> 03:33:20,0
+24
+
+369
+03:33:20,0 --> 03:33:20,0
+And,
+
+370
+03:33:20,0 --> 03:33:20,0
+supposing
+
+371
+03:33:20,0 --> 03:33:20,0
+that
+
+372
+03:33:20,0 --> 03:33:20,0
+their
+
+373
+03:33:20,0 --> 03:33:20,0
+
+
+374
+03:33:20,0 --> 03:33:20,0
+greatest
+
+375
+03:33:20,0 --> 03:33:20,0
+strength
+
+376
+03:33:20,0 --> 03:33:20,0
+was in
+
+377
+03:33:20,0 --> 03:33:20,0
+the
+
+378
+03:33:20,0 --> 03:33:20,0
+center
+
+379
+03:33:20,0 --> 03:33:20,0
+of the
+
+380
+03:33:20,0 --> 03:33:20,0
+land,
+
+381
+03:33:20,0 --> 03:33:20,0
+
+
+382
+03:33:20,0 --> 03:33:20,0
+therefore he
+
+383
+03:33:20,0 --> 03:33:20,0
+did
+
+384
+03:33:20,0 --> 03:33:20,0
+march
+
+385
+03:33:20,0 --> 03:33:20,0
+forth,
+
+386
+03:33:20,0 --> 03:33:20,0
+giving
+
+387
+03:33:20,0 --> 03:33:20,0
+them
+
+388
+03:33:20,0 --> 03:33:20,0
+no
+
+389
+03:33:20,0 --> 03:33:20,0
+time to
+
+390
+03:33:20,0 --> 03:33:20,0
+
+
+391
+03:33:20,0 --> 03:33:20,0
+assemble
+
+392
+03:33:20,0 --> 03:33:20,0
+themselves
+
+393
+03:33:20,0 --> 03:33:20,0
+
+
+394
+03:33:20,0 --> 03:33:20,0
+together
+
+395
+03:33:20,0 --> 03:33:20,0
+save it
+
+396
+03:33:20,0 --> 03:33:20,0
+were
+
+397
+03:33:20,0 --> 03:33:20,0
+in
+
+398
+03:33:20,0 --> 03:33:20,0
+small
+
+399
+03:33:20,0 --> 03:33:20,0
+bodies;
+
+400
+03:33:20,0 --> 03:33:20,0
+and in
+
+401
+03:33:20,0 --> 03:33:20,0
+this
+
+402
+03:33:20,0 --> 03:33:20,0
+manner
+
+403
+03:33:20,0 --> 03:33:20,0
+they
+
+404
+03:33:20,0 --> 03:33:20,0
+did fall
+
+405
+03:33:20,0 --> 03:40:28,
+upon them and cut them down to the earth.
+
+406
+03:40:28,0 --> 03:40:28,0
+25
+
+407
+03:40:28,0 --> 03:40:28,0
+But
+
+408
+03:40:28,0 --> 03:40:28,0
+behold,
+
+409
+03:40:28,0 --> 03:40:28,0
+this
+
+410
+03:40:28,0 --> 03:40:28,0
+march
+
+411
+03:40:28,0 --> 03:40:28,0
+of
+
+412
+03:40:28,0 --> 03:40:28,0
+
+
+413
+03:40:28,0 --> 03:40:28,0
+Coriantumr
+
+414
+03:40:28,0 --> 03:40:28,0
+
+
+415
+03:40:28,0 --> 03:40:28,0
+through
+
+416
+03:40:28,0 --> 03:40:28,0
+the
+
+417
+03:40:28,0 --> 03:40:28,0
+center
+
+418
+03:40:28,0 --> 03:40:28,0
+of the
+
+419
+03:40:28,0 --> 03:40:28,0
+land
+
+420
+03:40:28,0 --> 03:40:28,0
+gave
+
+421
+03:40:28,0 --> 03:40:28,0
+
+
+422
+03:40:28,0 --> 03:40:28,0
+Moronihah
+
+423
+03:40:28,0 --> 03:40:28,0
+
+
+424
+03:40:28,0 --> 03:40:28,0
+great
+
+425
+03:40:28,0 --> 03:40:28,0
+
+
+426
+03:40:28,0 --> 03:40:28,0
+advantage
+
+427
+03:40:28,0 --> 03:40:28,0
+over
+
+428
+03:40:28,0 --> 03:40:28,0
+them,
+
+429
+03:40:28,0 --> 03:40:28,0
+
+
+430
+03:40:28,0 --> 03:40:28,0
+
+
+431
+03:40:28,0 --> 03:40:28,0
+notwithstanding
+
+432
+03:40:28,0 --> 03:40:28,0
+the
+
+433
+03:40:28,0 --> 03:40:28,0
+
+
+434
+03:40:28,0 --> 03:40:28,0
+greatness of
+
+435
+03:40:28,0 --> 03:40:28,0
+the
+
+436
+03:40:28,0 --> 03:40:28,0
+
+
+437
+03:40:28,0 --> 03:41:40,
+number of the Nephites who were slain.
+
+438
+03:41:40,0 --> 03:41:40,0
+26
+
+439
+03:41:40,0 --> 03:41:40,0
+For
+
+440
+03:41:40,0 --> 03:41:40,0
+
+
+441
+03:41:40,0 --> 03:41:40,0
+behold,
+
+442
+03:41:40,0 --> 03:41:40,0
+
+
+443
+03:41:40,0 --> 03:41:40,0
+Moronihah
+
+444
+03:41:40,0 --> 03:41:40,0
+had
+
+445
+03:41:40,0 --> 03:41:40,0
+
+
+446
+03:41:40,0 --> 03:41:40,0
+
+
+447
+03:41:40,0 --> 03:41:40,0
+supposed
+
+448
+03:41:40,0 --> 03:41:40,0
+that
+
+449
+03:41:40,0 --> 03:41:40,0
+the
+
+450
+03:41:40,0 --> 03:41:40,0
+
+
+451
+03:41:40,0 --> 03:41:40,0
+Lamanites
+
+452
+03:41:40,0 --> 03:41:40,0
+
+
+453
+03:41:40,0 --> 03:41:40,0
+durst
+
+454
+03:41:40,0 --> 03:41:40,0
+not
+
+455
+03:41:40,0 --> 03:41:40,0
+come
+
+456
+03:41:40,0 --> 03:41:40,0
+into
+
+457
+03:41:40,0 --> 03:41:40,0
+the
+
+458
+03:41:40,0 --> 03:41:40,0
+
+
+459
+03:41:40,0 --> 03:41:40,0
+center
+
+460
+03:41:40,0 --> 03:41:40,0
+of
+
+461
+03:41:40,0 --> 03:41:40,0
+the
+
+462
+03:41:40,0 --> 03:41:40,0
+land,
+
+463
+03:41:40,0 --> 03:41:40,0
+but
+
+464
+03:41:40,0 --> 03:41:40,0
+
+
+465
+03:41:40,0 --> 03:41:40,0
+that
+
+466
+03:41:40,0 --> 03:41:40,0
+they
+
+467
+03:41:40,0 --> 03:41:40,0
+would
+
+468
+03:41:40,0 --> 03:41:40,0
+
+
+469
+03:41:40,0 --> 03:41:40,0
+attack
+
+470
+03:41:40,0 --> 03:41:40,0
+the
+
+471
+03:41:40,0 --> 03:41:40,0
+
+
+472
+03:41:40,0 --> 03:41:40,0
+cities
+
+473
+03:41:40,0 --> 03:41:40,0
+round
+
+474
+03:41:40,0 --> 03:41:40,0
+
+
+475
+03:41:40,0 --> 03:41:40,0
+about
+
+476
+03:41:40,0 --> 03:41:40,0
+in
+
+477
+03:41:40,0 --> 03:41:40,0
+the
+
+478
+03:41:40,0 --> 03:41:40,0
+
+
+479
+03:41:40,0 --> 03:41:40,0
+borders as
+
+480
+03:41:40,0 --> 03:41:40,0
+
+
+481
+03:41:40,0 --> 03:41:40,0
+they
+
+482
+03:41:40,0 --> 03:41:40,0
+had
+
+483
+03:41:40,0 --> 03:41:40,0
+
+
+484
+03:41:40,0 --> 03:41:40,0
+hitherto
+
+485
+03:41:40,0 --> 03:41:40,0
+done;
+
+486
+03:41:40,0 --> 03:41:40,0
+
+
+487
+03:41:40,0 --> 03:41:40,0
+
+
+488
+03:41:40,0 --> 03:41:40,0
+therefore
+
+489
+03:41:40,0 --> 03:41:40,0
+
+
+490
+03:41:40,0 --> 03:41:40,0
+Moronihah
+
+491
+03:41:40,0 --> 03:41:40,0
+had
+
+492
+03:41:40,0 --> 03:41:40,0
+
+
+493
+03:41:40,0 --> 03:41:40,0
+caused
+
+494
+03:41:40,0 --> 03:41:40,0
+that
+
+495
+03:41:40,0 --> 03:41:40,0
+
+
+496
+03:41:40,0 --> 03:41:40,0
+their
+
+497
+03:41:40,0 --> 03:41:40,0
+
+
+498
+03:41:40,0 --> 03:58:47,
+strong armies should maintain those parts round about by the borders.
+
+499
+03:58:47,0 --> 03:58:47,0
+27
+
+500
+03:58:47,0 --> 03:58:47,0
+But
+
+501
+03:58:47,0 --> 03:58:47,0
+
+
+502
+03:58:47,0 --> 03:58:47,0
+
+
+503
+03:58:47,0 --> 03:58:47,0
+behold,
+
+504
+03:58:47,0 --> 03:58:47,0
+the
+
+505
+03:58:47,0 --> 03:58:47,0
+
+
+506
+03:58:47,0 --> 03:58:47,0
+
+
+507
+03:58:47,0 --> 03:58:47,0
+
+
+508
+03:58:47,0 --> 03:58:47,0
+Lamanites
+
+509
+03:58:47,0 --> 03:58:47,0
+were
+
+510
+03:58:47,0 --> 03:58:47,0
+
+
+511
+03:58:47,0 --> 03:58:47,0
+not
+
+512
+03:58:47,0 --> 03:58:47,0
+
+
+513
+03:58:47,0 --> 03:58:47,0
+
+
+514
+03:58:47,0 --> 03:58:47,0
+frightened
+
+515
+03:58:47,0 --> 03:58:47,0
+
+
+516
+03:58:47,0 --> 03:58:47,0
+
+
+517
+03:58:47,0 --> 03:58:47,0
+
+
+518
+03:58:47,0 --> 03:58:47,0
+according
+
+519
+03:58:47,0 --> 03:58:47,0
+to
+
+520
+03:58:47,0 --> 03:58:47,0
+his
+
+521
+03:58:47,0 --> 03:58:47,0
+
+
+522
+03:58:47,0 --> 03:58:47,0
+
+
+523
+03:58:47,0 --> 03:58:47,0
+desire,
+
+524
+03:58:47,0 --> 03:58:47,0
+but
+
+525
+03:58:47,0 --> 03:58:47,0
+
+
+526
+03:58:47,0 --> 03:58:47,0
+they
+
+527
+03:58:47,0 --> 03:58:47,0
+had
+
+528
+03:58:47,0 --> 03:58:47,0
+
+
+529
+03:58:47,0 --> 03:58:47,0
+come
+
+530
+03:58:47,0 --> 03:58:47,0
+into
+
+531
+03:58:47,0 --> 03:58:47,0
+
+
+532
+03:58:47,0 --> 03:58:47,0
+the
+
+533
+03:58:47,0 --> 03:58:47,0
+
+
+534
+03:58:47,0 --> 03:58:47,0
+center
+
+535
+03:58:47,0 --> 03:58:47,0
+of
+
+536
+03:58:47,0 --> 03:58:47,0
+the
+
+537
+03:58:47,0 --> 03:58:47,0
+
+
+538
+03:58:47,0 --> 03:58:47,0
+land,
+
+539
+03:58:47,0 --> 03:58:47,0
+
+
+540
+03:58:47,0 --> 03:58:47,0
+and
+
+541
+03:58:47,0 --> 03:58:47,0
+had
+
+542
+03:58:47,0 --> 03:58:47,0
+
+
+543
+03:58:47,0 --> 03:58:47,0
+taken
+
+544
+03:58:47,0 --> 03:58:47,0
+the
+
+545
+03:58:47,0 --> 03:58:47,0
+
+
+546
+03:58:47,0 --> 03:58:47,0
+
+
+547
+03:58:47,0 --> 03:58:47,0
+capital
+
+548
+03:58:47,0 --> 03:58:47,0
+
+
+549
+03:58:47,0 --> 03:58:47,0
+city
+
+550
+03:58:47,0 --> 03:58:47,0
+
+
+551
+03:58:47,0 --> 03:58:47,0
+which
+
+552
+03:58:47,0 --> 03:58:47,0
+was
+
+553
+03:58:47,0 --> 03:58:47,0
+the
+
+554
+03:58:47,0 --> 03:58:47,0
+
+
+555
+03:58:47,0 --> 03:58:47,0
+city
+
+556
+03:58:47,0 --> 03:58:47,0
+of
+
+557
+03:58:47,0 --> 03:58:47,0
+
+
+558
+03:58:47,0 --> 03:58:47,0
+
+
+559
+03:58:47,0 --> 03:58:47,0
+
+
+560
+03:58:47,0 --> 03:58:47,0
+Zarahemla,
+
+561
+03:58:47,0 --> 03:58:47,0
+and
+
+562
+03:58:47,0 --> 03:58:47,0
+
+
+563
+03:58:47,0 --> 03:58:47,0
+were
+
+564
+03:58:47,0 --> 03:58:47,0
+
+
+565
+03:58:47,0 --> 03:58:47,0
+
+
+566
+03:58:47,0 --> 03:58:47,0
+marching
+
+567
+03:58:47,0 --> 03:58:47,0
+
+
+568
+03:58:47,0 --> 03:58:47,0
+through
+
+569
+03:58:47,0 --> 03:58:47,0
+
+
+570
+03:58:47,0 --> 03:58:47,0
+the
+
+571
+03:58:47,0 --> 03:58:47,0
+most
+
+572
+03:58:47,0 --> 03:58:47,0
+
+
+573
+03:58:47,0 --> 03:58:47,0
+
+
+574
+03:58:47,0 --> 03:58:47,0
+capital
+
+575
+03:58:47,0 --> 03:58:47,0
+
+
+576
+03:58:47,0 --> 03:58:47,0
+parts
+
+577
+03:58:47,0 --> 03:58:47,0
+of
+
+578
+03:58:47,0 --> 03:58:47,0
+the
+
+579
+03:58:47,0 --> 03:58:47,0
+
+
+580
+03:58:47,0 --> 03:58:47,0
+land,
+
+581
+03:58:47,0 --> 03:58:47,0
+
+
+582
+03:58:47,0 --> 03:58:47,0
+
+
+583
+03:58:47,0 --> 03:58:47,0
+slaying
+
+584
+03:58:47,0 --> 03:58:47,0
+the
+
+585
+03:58:47,0 --> 03:58:47,0
+
+
+586
+03:58:47,0 --> 03:58:47,0
+
+
+587
+03:58:47,0 --> 03:58:47,0
+people
+
+588
+03:58:47,0 --> 03:58:47,0
+with
+
+589
+03:58:47,0 --> 03:58:47,0
+a
+
+590
+03:58:47,0 --> 03:58:47,0
+
+
+591
+03:58:47,0 --> 03:58:47,0
+great
+
+592
+03:58:47,0 --> 03:58:47,0
+
+
+593
+03:58:47,0 --> 03:58:19,
+slaughter, both men, women, and children, taking possession of many cities and of many strongholds.
+
+594
+03:58:19,0 --> 03:58:19,0
+28
+
+595
+03:58:19,0 --> 03:58:19,0
+
+
+596
+03:58:19,0 --> 03:58:19,0
+But
+
+597
+03:58:19,0 --> 03:58:19,0
+
+
+598
+03:58:19,0 --> 03:58:19,0
+
+
+599
+03:58:19,0 --> 03:58:19,0
+when
+
+600
+03:58:19,0 --> 03:58:19,0
+
+
+601
+03:58:19,0 --> 03:58:19,0
+
+
+602
+03:58:19,0 --> 03:58:19,0
+
+
+603
+03:58:19,0 --> 03:58:19,0
+
+
+604
+03:58:19,0 --> 03:58:19,0
+Moronihah
+
+605
+03:58:19,0 --> 03:58:19,0
+
+
+606
+03:58:19,0 --> 03:58:19,0
+had
+
+607
+03:58:19,0 --> 03:58:19,0
+
+
+608
+03:58:19,0 --> 03:58:19,0
+
+
+609
+03:58:19,0 --> 03:58:19,0
+
+
+610
+03:58:19,0 --> 03:58:19,0
+
+
+611
+03:58:19,0 --> 03:58:19,0
+discovered
+
+612
+03:58:19,0 --> 03:58:19,0
+
+
+613
+03:58:19,0 --> 03:58:19,0
+
+
+614
+03:58:19,0 --> 03:58:19,0
+this,
+
+615
+03:58:19,0 --> 03:58:19,0
+
+
+616
+03:58:19,0 --> 03:58:19,0
+he
+
+617
+03:58:19,0 --> 03:58:19,0
+
+
+618
+03:58:19,0 --> 03:58:19,0
+
+
+619
+03:58:19,0 --> 03:58:19,0
+
+
+620
+03:58:19,0 --> 03:58:19,0
+
+
+621
+03:58:19,0 --> 03:58:19,0
+
+
+622
+03:58:19,0 --> 03:58:19,0
+immediately
+
+623
+03:58:19,0 --> 03:58:19,0
+
+
+624
+03:58:19,0 --> 03:58:19,0
+sent
+
+625
+03:58:19,0 --> 03:58:19,0
+
+
+626
+03:58:19,0 --> 03:58:19,0
+
+
+627
+03:58:19,0 --> 03:58:19,0
+forth
+
+628
+03:58:19,0 --> 03:58:19,0
+
+
+629
+03:58:19,0 --> 03:58:19,0
+
+
+630
+03:58:19,0 --> 03:58:19,0
+Lehi
+
+631
+03:58:19,0 --> 03:58:19,0
+
+
+632
+03:58:19,0 --> 03:58:19,0
+with
+
+633
+03:58:19,0 --> 03:58:19,0
+
+
+634
+03:58:19,0 --> 03:58:19,0
+an
+
+635
+03:58:19,0 --> 03:58:19,0
+
+
+636
+03:58:19,0 --> 03:58:19,0
+army
+
+637
+03:58:19,0 --> 03:58:19,0
+
+
+638
+03:58:19,0 --> 03:58:19,0
+
+
+639
+03:58:19,0 --> 03:58:19,0
+round
+
+640
+03:58:19,0 --> 03:58:19,0
+
+
+641
+03:58:19,0 --> 03:58:19,0
+
+
+642
+03:58:19,0 --> 03:58:19,0
+about
+
+643
+03:58:19,0 --> 03:58:19,0
+
+
+644
+03:58:19,0 --> 03:58:19,0
+to
+
+645
+03:58:19,0 --> 03:58:19,0
+
+
+646
+03:58:19,0 --> 03:57:51,
+head them before they should come to the land Bountiful.
+
+647
+03:57:51,0 --> 03:57:51,0
+29 And thus he did; and he did head them before they came to the land Bountiful, and gave unto them battle, insomuch that they began to retreat back towards the land of
+
+648
+03:57:51,0 --> 03:57:51,0
+
+
+649
+03:57:51,0 --> 03:57:51,0
+
+
+650
+03:57:51,0 --> 03:57:51,0
+
+
+651
+03:57:51,0 --> 03:57:51,0
+
+
+652
+03:57:51,0 --> 03:57:51,0
+And
+
+653
+03:57:51,0 --> 03:57:51,0
+
+
+654
+03:57:51,0 --> 03:57:51,0
+
+
+655
+03:57:51,0 --> 03:57:51,0
+
+
+656
+03:57:51,0 --> 03:57:51,0
+
+
+657
+03:57:51,0 --> 03:57:51,0
+thus
+
+658
+03:57:51,0 --> 03:57:51,0
+
+
+659
+03:57:51,0 --> 03:57:51,0
+
+
+660
+03:57:51,0 --> 03:57:51,0
+he
+
+661
+03:57:51,0 --> 03:57:51,0
+
+
+662
+03:57:51,0 --> 03:57:51,0
+
+
+663
+03:57:51,0 --> 03:57:51,0
+
+
+664
+03:57:51,0 --> 03:57:51,0
+
+
+665
+03:57:51,0 --> 03:57:51,0
+did;
+
+666
+03:57:51,0 --> 03:57:51,0
+
+
+667
+03:57:51,0 --> 03:57:51,0
+
+
+668
+03:57:51,0 --> 03:57:51,0
+
+
+669
+03:57:51,0 --> 03:57:51,0
+and
+
+670
+03:57:51,0 --> 03:57:51,0
+
+
+671
+03:57:51,0 --> 03:57:51,0
+
+
+672
+03:57:51,0 --> 03:57:51,0
+he
+
+673
+03:57:51,0 --> 03:57:51,0
+
+
+674
+03:57:51,0 --> 03:57:51,0
+
+
+675
+03:57:51,0 --> 03:57:51,0
+
+
+676
+03:57:51,0 --> 03:57:51,0
+did
+
+677
+03:57:51,0 --> 03:57:51,0
+
+
+678
+03:57:51,0 --> 03:57:51,0
+
+
+679
+03:57:51,0 --> 03:57:51,0
+
+
+680
+03:57:51,0 --> 03:57:51,0
+
+
+681
+03:57:51,0 --> 03:57:51,0
+head
+
+682
+03:57:51,0 --> 03:57:51,0
+
+
+683
+03:57:51,0 --> 03:57:51,0
+
+
+684
+03:57:51,0 --> 03:57:51,0
+
+
+685
+03:57:51,0 --> 03:57:51,0
+
+
+686
+03:57:51,0 --> 03:57:51,0
+them
+
+687
+03:57:51,0 --> 03:57:51,0
+
+
+688
+03:57:51,0 --> 03:57:51,0
+
+
+689
+03:57:51,0 --> 03:57:51,0
+
+
+690
+03:57:51,0 --> 03:57:51,0
+
+
+691
+03:57:51,0 --> 03:57:51,0
+
+
+692
+03:57:51,0 --> 03:57:51,0
+
+
+693
+03:57:51,0 --> 03:57:51,0
+before
+
+694
+03:57:51,0 --> 03:57:51,0
+
+
+695
+03:57:51,0 --> 03:57:51,0
+
+
+696
+03:57:51,0 --> 03:57:51,0
+
+
+697
+03:57:51,0 --> 03:57:51,0
+
+
+698
+03:57:51,0 --> 03:57:51,0
+they
+
+699
+03:57:51,0 --> 03:57:51,0
+
+
+700
+03:57:51,0 --> 03:57:51,0
+
+
+701
+03:57:51,0 --> 03:57:51,0
+
+
+702
+03:57:51,0 --> 03:57:51,0
+
+
+703
+03:57:51,0 --> 03:57:51,0
+came
+
+704
+03:57:51,0 --> 03:57:51,0
+
+
+705
+03:57:51,0 --> 03:57:51,0
+
+
+706
+03:57:51,0 --> 03:57:51,0
+to
+
+707
+03:57:51,0 --> 03:57:51,0
+
+
+708
+03:57:51,0 --> 03:57:51,0
+
+
+709
+03:57:51,0 --> 03:57:51,0
+
+
+710
+03:57:51,0 --> 03:57:51,0
+the
+
+711
+03:57:51,0 --> 03:57:51,0
+
+
+712
+03:57:51,0 --> 03:57:51,0
+
+
+713
+03:57:51,0 --> 03:57:51,0
+
+
+714
+03:57:51,0 --> 03:57:51,0
+
+
+715
+03:57:51,0 --> 03:57:51,0
+land
+
+716
+03:57:51,0 --> 03:57:51,0
+
+
+717
+03:57:51,0 --> 03:57:51,0
+
+
+718
+03:57:51,0 --> 03:57:51,0
+
+
+719
+03:57:51,0 --> 03:57:51,0
+
+
+720
+03:57:51,0 --> 03:57:51,0
+
+
+721
+03:57:51,0 --> 03:57:51,0
+
+
+722
+03:57:51,0 --> 03:57:51,0
+
+
+723
+03:57:51,0 --> 03:57:51,0
+
+
+724
+03:57:51,0 --> 03:57:51,0
+
+
+725
+03:57:51,0 --> 03:57:51,0
+
+
+726
+03:57:51,0 --> 03:57:51,0
+Bountiful,
+
+727
+03:57:51,0 --> 03:57:51,0
+
+
+728
+03:57:51,0 --> 03:57:51,0
+
+
+729
+03:57:51,0 --> 03:57:51,0
+
+
+730
+03:57:51,0 --> 03:57:51,0
+and
+
+731
+03:57:51,0 --> 03:57:51,0
+
+
+732
+03:57:51,0 --> 03:57:51,0
+
+
+733
+03:57:51,0 --> 03:57:51,0
+
+
+734
+03:57:51,0 --> 03:57:51,0
+
+
+735
+03:57:51,0 --> 03:57:51,0
+gave
+
+736
+03:57:51,0 --> 03:59:03,
+unto them battle, insomuch that they began to retreat back towards the land of Zarahemla.
+
+737
+03:59:03,0 --> 03:59:03,0
+30 And it came to pass that Moronihah did head them in their retreat, and did give unto them battle, insomuch that it became an exceedingly bloody battle; yea, many were slain, and among the number who were slain Coriantumr was also
+
+738
+03:59:03,0 --> 03:59:03,0
+
+
+739
+03:59:03,0 --> 03:59:03,0
+
+
+740
+03:59:03,0 --> 03:59:03,0
+
+
+741
+03:59:03,0 --> 03:59:03,0
+
+
+742
+03:59:03,0 --> 03:59:03,0
+And
+
+743
+03:59:03,0 --> 03:59:03,0
+
+
+744
+03:59:03,0 --> 03:59:03,0
+
+
+745
+03:59:03,0 --> 03:59:03,0
+it
+
+746
+03:59:03,0 --> 03:59:03,0
+
+
+747
+03:59:03,0 --> 03:59:03,0
+
+
+748
+03:59:03,0 --> 03:59:03,0
+
+
+749
+03:59:03,0 --> 03:59:03,0
+
+
+750
+03:59:03,0 --> 03:59:03,0
+came
+
+751
+03:59:03,0 --> 03:59:03,0
+
+
+752
+03:59:03,0 --> 03:59:03,0
+
+
+753
+03:59:03,0 --> 03:59:03,0
+to
+
+754
+03:59:03,0 --> 03:59:03,0
+
+
+755
+03:59:03,0 --> 03:59:03,0
+
+
+756
+03:59:03,0 --> 03:59:03,0
+
+
+757
+03:59:03,0 --> 03:59:03,0
+
+
+758
+03:59:03,0 --> 03:59:03,0
+pass
+
+759
+03:59:03,0 --> 03:59:03,0
+
+
+760
+03:59:03,0 --> 03:59:03,0
+
+
+761
+03:59:03,0 --> 03:59:03,0
+
+
+762
+03:59:03,0 --> 03:59:03,0
+
+
+763
+03:59:03,0 --> 03:59:03,0
+that
+
+764
+03:59:03,0 --> 03:59:03,0
+
+
+765
+03:59:03,0 --> 03:59:03,0
+
+
+766
+03:59:03,0 --> 03:59:03,0
+
+
+767
+03:59:03,0 --> 03:59:03,0
+
+
+768
+03:59:03,0 --> 03:59:03,0
+
+
+769
+03:59:03,0 --> 03:59:03,0
+
+
+770
+03:59:03,0 --> 03:59:03,0
+
+
+771
+03:59:03,0 --> 03:59:03,0
+
+
+772
+03:59:03,0 --> 03:59:03,0
+
+
+773
+03:59:03,0 --> 03:59:03,0
+Moronihah
+
+774
+03:59:03,0 --> 03:59:03,0
+
+
+775
+03:59:03,0 --> 03:59:03,0
+
+
+776
+03:59:03,0 --> 03:59:03,0
+
+
+777
+03:59:03,0 --> 03:59:03,0
+did
+
+778
+03:59:03,0 --> 03:59:03,0
+
+
+779
+03:59:03,0 --> 03:59:03,0
+
+
+780
+03:59:03,0 --> 03:59:03,0
+
+
+781
+03:59:03,0 --> 03:59:03,0
+
+
+782
+03:59:03,0 --> 03:59:03,0
+head
+
+783
+03:59:03,0 --> 03:59:03,0
+
+
+784
+03:59:03,0 --> 03:59:03,0
+
+
+785
+03:59:03,0 --> 03:59:03,0
+
+
+786
+03:59:03,0 --> 03:59:03,0
+
+
+787
+03:59:03,0 --> 03:59:03,0
+them
+
+788
+03:59:03,0 --> 03:59:03,0
+
+
+789
+03:59:03,0 --> 03:59:03,0
+
+
+790
+03:59:03,0 --> 03:59:03,0
+in
+
+791
+03:59:03,0 --> 03:59:03,0
+
+
+792
+03:59:03,0 --> 03:59:03,0
+
+
+793
+03:59:03,0 --> 03:59:03,0
+
+
+794
+03:59:03,0 --> 03:59:03,0
+
+
+795
+03:59:03,0 --> 03:59:03,0
+
+
+796
+03:59:03,0 --> 03:59:03,0
+their
+
+797
+03:59:03,0 --> 03:59:03,0
+
+
+798
+03:59:03,0 --> 03:59:03,0
+
+
+799
+03:59:03,0 --> 03:59:03,0
+
+
+800
+03:59:03,0 --> 03:59:03,0
+
+
+801
+03:59:03,0 --> 03:59:03,0
+
+
+802
+03:59:03,0 --> 03:59:03,0
+
+
+803
+03:59:03,0 --> 03:59:03,0
+
+
+804
+03:59:03,0 --> 03:59:03,0
+
+
+805
+03:59:03,0 --> 03:59:03,0
+retreat,
+
+806
+03:59:03,0 --> 03:59:03,0
+
+
+807
+03:59:03,0 --> 03:59:03,0
+
+
+808
+03:59:03,0 --> 03:59:03,0
+
+
+809
+03:59:03,0 --> 03:59:03,0
+and
+
+810
+03:59:03,0 --> 03:59:03,0
+
+
+811
+03:59:03,0 --> 03:59:03,0
+
+
+812
+03:59:03,0 --> 03:59:03,0
+
+
+813
+03:59:03,0 --> 03:59:03,0
+did
+
+814
+03:59:03,0 --> 03:59:03,0
+
+
+815
+03:59:03,0 --> 03:59:03,0
+
+
+816
+03:59:03,0 --> 03:59:03,0
+
+
+817
+03:59:03,0 --> 03:59:03,0
+
+
+818
+03:59:03,0 --> 03:59:03,0
+give
+
+819
+03:59:03,0 --> 03:59:03,0
+
+
+820
+03:59:03,0 --> 03:59:03,0
+
+
+821
+03:59:03,0 --> 03:59:03,0
+
+
+822
+03:59:03,0 --> 03:59:03,0
+
+
+823
+03:59:03,0 --> 03:59:03,0
+unto
+
+824
+03:59:03,0 --> 03:59:03,0
+
+
+825
+03:59:03,0 --> 03:59:03,0
+
+
+826
+03:59:03,0 --> 03:59:03,0
+
+
+827
+03:59:03,0 --> 03:59:03,0
+
+
+828
+03:59:03,0 --> 03:59:03,0
+them
+
+829
+03:59:03,0 --> 03:59:03,0
+
+
+830
+03:59:03,0 --> 03:59:03,0
+
+
+831
+03:59:03,0 --> 03:59:03,0
+
+
+832
+03:59:03,0 --> 03:59:03,0
+
+
+833
+03:59:03,0 --> 03:59:03,0
+
+
+834
+03:59:03,0 --> 03:59:03,0
+
+
+835
+03:59:03,0 --> 03:59:03,0
+
+
+836
+03:59:03,0 --> 03:59:03,0
+battle,
+
+837
+03:59:03,0 --> 03:59:03,0
+
+
+838
+03:59:03,0 --> 03:59:03,0
+
+
+839
+03:59:03,0 --> 03:59:03,0
+
+
+840
+03:59:03,0 --> 03:59:03,0
+
+
+841
+03:59:03,0 --> 03:59:03,0
+
+
+842
+03:59:03,0 --> 03:59:03,0
+
+
+843
+03:59:03,0 --> 03:59:03,0
+
+
+844
+03:59:03,0 --> 03:59:03,0
+
+
+845
+03:59:03,0 --> 03:59:03,0
+insomuch
+
+846
+03:59:03,0 --> 03:59:03,0
+
+
+847
+03:59:03,0 --> 03:59:03,0
+
+
+848
+03:59:03,0 --> 03:59:03,0
+
+
+849
+03:59:03,0 --> 03:59:03,0
+
+
+850
+03:59:03,0 --> 03:59:03,0
+that
+
+851
+03:59:03,0 --> 03:59:03,0
+
+
+852
+03:59:03,0 --> 03:59:03,0
+
+
+853
+03:59:03,0 --> 03:59:03,0
+it
+
+854
+03:59:03,0 --> 03:59:03,0
+
+
+855
+03:59:03,0 --> 03:59:03,0
+
+
+856
+03:59:03,0 --> 03:59:03,0
+
+
+857
+03:59:03,0 --> 03:59:03,0
+
+
+858
+03:59:03,0 --> 03:59:03,0
+
+
+859
+03:59:03,0 --> 03:59:03,0
+
+
+860
+03:59:03,0 --> 03:59:03,0
+became
+
+861
+03:59:03,0 --> 03:59:03,0
+
+
+862
+03:59:03,0 --> 03:59:03,0
+
+
+863
+03:59:03,0 --> 03:59:03,0
+an
+
+864
+03:59:03,0 --> 03:59:03,0
+
+
+865
+03:59:03,0 --> 03:59:03,0
+
+
+866
+03:59:03,0 --> 03:59:03,0
+
+
+867
+03:59:03,0 --> 03:59:03,0
+
+
+868
+03:59:03,0 --> 03:59:03,0
+
+
+869
+03:59:03,0 --> 03:59:03,0
+
+
+870
+03:59:03,0 --> 03:59:03,0
+
+
+871
+03:59:03,0 --> 03:59:03,0
+
+
+872
+03:59:03,0 --> 03:59:03,0
+
+
+873
+03:59:03,0 --> 03:59:03,0
+
+
+874
+03:59:03,0 --> 03:59:03,0
+
+
+875
+03:59:03,0 --> 03:59:03,0
+exceedingly
+
+876
+03:59:03,0 --> 03:59:03,0
+
+
+877
+03:59:03,0 --> 03:59:03,0
+
+
+878
+03:59:03,0 --> 03:59:03,0
+
+
+879
+03:59:03,0 --> 03:59:03,0
+
+
+880
+03:59:03,0 --> 03:59:03,0
+
+
+881
+03:59:03,0 --> 03:59:03,0
+
+
+882
+03:59:03,0 --> 03:59:03,0
+bloody
+
+883
+03:59:03,0 --> 03:59:03,0
+
+
+884
+03:59:03,0 --> 03:59:03,0
+
+
+885
+03:59:03,0 --> 03:59:03,0
+
+
+886
+03:59:03,0 --> 03:59:03,0
+
+
+887
+03:59:03,0 --> 03:59:03,0
+
+
+888
+03:59:03,0 --> 03:59:03,0
+
+
+889
+03:59:03,0 --> 03:59:03,0
+
+
+890
+03:59:03,0 --> 03:59:03,0
+battle;
+
+891
+03:59:03,0 --> 03:59:03,0
+
+
+892
+03:59:03,0 --> 03:59:03,0
+
+
+893
+03:59:03,0 --> 03:59:03,0
+
+
+894
+03:59:03,0 --> 03:59:03,0
+
+
+895
+03:59:03,0 --> 03:59:03,0
+yea,
+
+896
+03:59:03,0 --> 03:59:03,0
+
+
+897
+03:59:03,0 --> 03:59:03,0
+
+
+898
+03:59:03,0 --> 03:59:03,0
+
+
+899
+03:59:03,0 --> 03:59:03,0
+
+
+900
+03:59:03,0 --> 03:59:03,0
+many
+
+901
+03:59:03,0 --> 03:59:03,0
+
+
+902
+03:59:03,0 --> 03:59:03,0
+
+
+903
+03:59:03,0 --> 03:59:03,0
+
+
+904
+03:59:03,0 --> 03:59:03,0
+
+
+905
+03:59:03,0 --> 03:59:03,0
+were
+
+906
+03:59:03,0 --> 03:59:03,0
+
+
+907
+03:59:03,0 --> 03:59:03,0
+
+
+908
+03:59:03,0 --> 03:59:03,0
+
+
+909
+03:59:03,0 --> 03:59:03,0
+
+
+910
+03:59:03,0 --> 03:59:03,0
+
+
+911
+03:59:03,0 --> 03:59:03,0
+
+
+912
+03:59:03,0 --> 03:59:03,0
+slain,
+
+913
+03:59:03,0 --> 03:59:03,0
+
+
+914
+03:59:03,0 --> 03:59:03,0
+
+
+915
+03:59:03,0 --> 03:59:03,0
+
+
+916
+03:59:03,0 --> 03:59:03,0
+and
+
+917
+03:59:03,0 --> 03:59:03,0
+
+
+918
+03:59:03,0 --> 03:59:03,0
+
+
+919
+03:59:03,0 --> 03:59:03,0
+
+
+920
+03:59:03,0 --> 03:59:03,0
+
+
+921
+03:59:03,0 --> 03:59:03,0
+
+
+922
+03:59:03,0 --> 03:59:03,0
+among
+
+923
+03:59:03,0 --> 03:59:03,0
+
+
+924
+03:59:03,0 --> 03:59:03,0
+
+
+925
+03:59:03,0 --> 03:59:03,0
+
+
+926
+03:59:03,0 --> 03:59:03,0
+the
+
+927
+03:59:03,0 --> 03:59:03,0
+
+
+928
+03:59:03,0 --> 03:59:03,0
+
+
+929
+03:59:03,0 --> 03:59:03,0
+
+
+930
+03:59:03,0 --> 03:59:03,0
+
+
+931
+03:59:03,0 --> 03:59:03,0
+
+
+932
+03:59:03,0 --> 03:59:03,0
+
+
+933
+03:59:03,0 --> 03:59:03,0
+number
+
+934
+03:59:03,0 --> 03:59:03,0
+
+
+935
+03:59:03,0 --> 03:59:03,0
+
+
+936
+03:59:03,0 --> 03:59:03,0
+
+
+937
+03:59:03,0 --> 03:59:03,0
+who
+
+938
+03:59:03,0 --> 03:59:03,0
+
+
+939
+03:59:03,0 --> 03:59:03,0
+
+
+940
+03:59:03,0 --> 03:59:03,0
+
+
+941
+03:59:03,0 --> 03:59:03,0
+
+
+942
+03:59:03,0 --> 03:59:03,0
+were
+
+943
+03:59:03,0 --> 03:59:03,0
+
+
+944
+03:59:03,0 --> 03:59:03,0
+
+
+945
+03:59:03,0 --> 03:59:03,0
+
+
+946
+03:59:03,0 --> 03:59:03,0
+
+
+947
+03:59:03,0 --> 03:59:03,0
+
+
+948
+03:59:03,0 --> 03:59:03,0
+slain
+
+949
+03:59:03,0 --> 03:59:03,0
+
+
+950
+03:59:03,0 --> 03:59:03,0
+
+
+951
+03:59:03,0 --> 03:59:03,0
+
+
+952
+03:59:03,0 --> 03:59:03,0
+
+
+953
+03:59:03,0 --> 03:59:03,0
+
+
+954
+03:59:03,0 --> 03:59:03,0
+
+
+955
+03:59:03,0 --> 03:59:03,0
+
+
+956
+03:59:03,0 --> 03:59:03,0
+
+
+957
+03:59:03,0 --> 03:59:03,0
+
+
+958
+03:59:03,0 --> 03:59:03,0
+
+
+959
+03:59:03,0 --> 03:59:03,0
+Coriantumr
+
+960
+03:59:03,0 --> 03:59:03,0
+
+
+961
+03:59:03,0 --> 03:59:03,0
+
+
+962
+03:59:03,0 --> 03:59:03,0
+
+
+963
+03:59:03,0 --> 03:59:03,0
+was
+
+964
+03:59:03,0 --> 03:59:03,0
+
+
+965
+03:59:03,0 --> 03:59:03,0
+
+
+966
+03:59:03,0 --> 03:59:03,0
+
+
+967
+03:59:03,0 --> 03:59:03,0
+
+
+968
+03:59:03,0 --> 03:59:03,0
+also
+
+969
+03:59:03,0 --> 03:59:03,0
+
+
+970
+03:59:03,0 --> 03:59:03,0
+
+
+971
+03:59:03,0 --> 03:59:03,0
+
+
+972
+03:59:03,0 --> 03:59:03,0
+
+
+973
+03:59:03,0 --> 03:59:03,0
+
+
+974
+03:59:03,0 --> 03:59:03,0
+
+
+975
+03:59:03,0 --> 04:19:42,
+found.
+
+976
+04:19:42,0 --> 04:19:42,0
+31 And now, behold, the Lamanites could not retreat either way, neither on the north, nor on the south, nor on the east, nor on the west, for they were surrounded on every hand by the
+
+977
+04:19:42,0 --> 04:19:42,0
+
+
+978
+04:19:42,0 --> 04:19:42,0
+
+
+979
+04:19:42,0 --> 04:19:42,0
+
+
+980
+04:19:42,0 --> 04:19:42,0
+
+
+981
+04:19:42,0 --> 04:19:42,0
+And
+
+982
+04:19:42,0 --> 04:19:42,0
+
+
+983
+04:19:42,0 --> 04:19:42,0
+
+
+984
+04:19:42,0 --> 04:19:42,0
+
+
+985
+04:19:42,0 --> 04:19:42,0
+
+
+986
+04:19:42,0 --> 04:19:42,0
+now,
+
+987
+04:19:42,0 --> 04:19:42,0
+
+
+988
+04:19:42,0 --> 04:19:42,0
+
+
+989
+04:19:42,0 --> 04:19:42,0
+
+
+990
+04:19:42,0 --> 04:19:42,0
+
+
+991
+04:19:42,0 --> 04:19:42,0
+
+
+992
+04:19:42,0 --> 04:19:42,0
+
+
+993
+04:19:42,0 --> 04:19:42,0
+
+
+994
+04:19:42,0 --> 04:19:42,0
+behold,
+
+995
+04:19:42,0 --> 04:19:42,0
+
+
+996
+04:19:42,0 --> 04:19:42,0
+
+
+997
+04:19:42,0 --> 04:19:42,0
+
+
+998
+04:19:42,0 --> 04:19:42,0
+the
+
+999
+04:19:42,0 --> 04:19:42,0
+
+
+1000
+04:19:42,0 --> 04:19:42,0
+
+
+1001
+04:19:42,0 --> 04:19:42,0
+
+
+1002
+04:19:42,0 --> 04:19:42,0
+
+
+1003
+04:19:42,0 --> 04:19:42,0
+
+
+1004
+04:19:42,0 --> 04:19:42,0
+
+
+1005
+04:19:42,0 --> 04:19:42,0
+
+
+1006
+04:19:42,0 --> 04:19:42,0
+
+
+1007
+04:19:42,0 --> 04:19:42,0
+
+
+1008
+04:19:42,0 --> 04:19:42,0
+Lamanites
+
+1009
+04:19:42,0 --> 04:19:42,0
+
+
+1010
+04:19:42,0 --> 04:19:42,0
+
+
+1011
+04:19:42,0 --> 04:19:42,0
+
+
+1012
+04:19:42,0 --> 04:19:42,0
+
+
+1013
+04:19:42,0 --> 04:19:42,0
+
+
+1014
+04:19:42,0 --> 04:19:42,0
+could
+
+1015
+04:19:42,0 --> 04:19:42,0
+
+
+1016
+04:19:42,0 --> 04:19:42,0
+
+
+1017
+04:19:42,0 --> 04:19:42,0
+
+
+1018
+04:19:42,0 --> 04:19:42,0
+not
+
+1019
+04:19:42,0 --> 04:19:42,0
+
+
+1020
+04:19:42,0 --> 04:19:42,0
+
+
+1021
+04:19:42,0 --> 04:19:42,0
+
+
+1022
+04:19:42,0 --> 04:19:42,0
+
+
+1023
+04:19:42,0 --> 04:19:42,0
+
+
+1024
+04:19:42,0 --> 04:19:42,0
+
+
+1025
+04:19:42,0 --> 04:19:42,0
+
+
+1026
+04:19:42,0 --> 04:19:42,0
+retreat
+
+1027
+04:19:42,0 --> 04:19:42,0
+
+
+1028
+04:19:42,0 --> 04:19:42,0
+
+
+1029
+04:19:42,0 --> 04:19:42,0
+
+
+1030
+04:19:42,0 --> 04:19:42,0
+
+
+1031
+04:19:42,0 --> 04:19:42,0
+
+
+1032
+04:19:42,0 --> 04:19:42,0
+
+
+1033
+04:19:42,0 --> 04:19:42,0
+either
+
+1034
+04:19:42,0 --> 04:19:42,0
+
+
+1035
+04:19:42,0 --> 04:19:42,0
+
+
+1036
+04:19:42,0 --> 04:19:42,0
+
+
+1037
+04:19:42,0 --> 04:19:42,0
+
+
+1038
+04:19:42,0 --> 04:19:42,0
+way,
+
+1039
+04:19:42,0 --> 04:19:42,0
+
+
+1040
+04:19:42,0 --> 04:19:42,0
+
+
+1041
+04:19:42,0 --> 04:19:42,0
+
+
+1042
+04:19:42,0 --> 04:19:42,0
+
+
+1043
+04:19:42,0 --> 04:19:42,0
+
+
+1044
+04:19:42,0 --> 04:19:42,0
+
+
+1045
+04:19:42,0 --> 04:19:42,0
+
+
+1046
+04:19:42,0 --> 04:19:42,0
+neither
+
+1047
+04:19:42,0 --> 04:19:42,0
+
+
+1048
+04:19:42,0 --> 04:19:42,0
+
+
+1049
+04:19:42,0 --> 04:19:42,0
+on
+
+1050
+04:19:42,0 --> 04:19:42,0
+
+
+1051
+04:19:42,0 --> 04:19:42,0
+
+
+1052
+04:19:42,0 --> 04:19:42,0
+
+
+1053
+04:19:42,0 --> 04:19:42,0
+the
+
+1054
+04:19:42,0 --> 04:19:42,0
+
+
+1055
+04:19:42,0 --> 04:19:42,0
+
+
+1056
+04:19:42,0 --> 04:19:42,0
+
+
+1057
+04:19:42,0 --> 04:19:42,0
+
+
+1058
+04:19:42,0 --> 04:19:42,0
+
+
+1059
+04:19:42,0 --> 04:19:42,0
+
+
+1060
+04:19:42,0 --> 04:19:42,0
+north,
+
+1061
+04:19:42,0 --> 04:19:42,0
+
+
+1062
+04:19:42,0 --> 04:19:42,0
+
+
+1063
+04:19:42,0 --> 04:19:42,0
+
+
+1064
+04:19:42,0 --> 04:19:42,0
+nor
+
+1065
+04:19:42,0 --> 04:19:42,0
+
+
+1066
+04:19:42,0 --> 04:19:42,0
+
+
+1067
+04:19:42,0 --> 04:19:42,0
+on
+
+1068
+04:19:42,0 --> 04:19:42,0
+
+
+1069
+04:19:42,0 --> 04:19:42,0
+
+
+1070
+04:19:42,0 --> 04:19:42,0
+
+
+1071
+04:19:42,0 --> 04:19:42,0
+the
+
+1072
+04:19:42,0 --> 04:19:42,0
+
+
+1073
+04:19:42,0 --> 04:19:42,0
+
+
+1074
+04:19:42,0 --> 04:19:42,0
+
+
+1075
+04:19:42,0 --> 04:19:42,0
+
+
+1076
+04:19:42,0 --> 04:19:42,0
+
+
+1077
+04:19:42,0 --> 04:19:42,0
+
+
+1078
+04:19:42,0 --> 04:19:42,0
+south,
+
+1079
+04:19:42,0 --> 04:19:42,0
+
+
+1080
+04:19:42,0 --> 04:19:42,0
+
+
+1081
+04:19:42,0 --> 04:19:42,0
+
+
+1082
+04:19:42,0 --> 04:19:42,0
+nor
+
+1083
+04:19:42,0 --> 04:19:42,0
+
+
+1084
+04:19:42,0 --> 04:19:42,0
+
+
+1085
+04:19:42,0 --> 04:19:42,0
+on
+
+1086
+04:19:42,0 --> 04:19:42,0
+
+
+1087
+04:19:42,0 --> 04:19:42,0
+
+
+1088
+04:19:42,0 --> 04:19:42,0
+
+
+1089
+04:19:42,0 --> 04:19:42,0
+the
+
+1090
+04:19:42,0 --> 04:19:42,0
+
+
+1091
+04:19:42,0 --> 04:19:42,0
+
+
+1092
+04:19:42,0 --> 04:19:42,0
+
+
+1093
+04:19:42,0 --> 04:19:42,0
+
+
+1094
+04:19:42,0 --> 04:19:42,0
+
+
+1095
+04:19:42,0 --> 04:19:42,0
+east,
+
+1096
+04:19:42,0 --> 04:19:42,0
+
+
+1097
+04:19:42,0 --> 04:19:42,0
+
+
+1098
+04:19:42,0 --> 04:19:42,0
+
+
+1099
+04:19:42,0 --> 04:19:42,0
+nor
+
+1100
+04:19:42,0 --> 04:19:42,0
+
+
+1101
+04:19:42,0 --> 04:19:42,0
+
+
+1102
+04:19:42,0 --> 04:19:42,0
+on
+
+1103
+04:19:42,0 --> 04:19:42,0
+
+
+1104
+04:19:42,0 --> 04:19:42,0
+
+
+1105
+04:19:42,0 --> 04:19:42,0
+
+
+1106
+04:19:42,0 --> 04:19:42,0
+the
+
+1107
+04:19:42,0 --> 04:19:42,0
+
+
+1108
+04:19:42,0 --> 04:19:42,0
+
+
+1109
+04:19:42,0 --> 04:19:42,0
+
+
+1110
+04:19:42,0 --> 04:19:42,0
+
+
+1111
+04:19:42,0 --> 04:19:42,0
+
+
+1112
+04:19:42,0 --> 04:19:42,0
+west,
+
+1113
+04:19:42,0 --> 04:19:42,0
+
+
+1114
+04:19:42,0 --> 04:19:42,0
+
+
+1115
+04:19:42,0 --> 04:19:42,0
+
+
+1116
+04:19:42,0 --> 04:19:42,0
+for
+
+1117
+04:19:42,0 --> 04:19:42,0
+
+
+1118
+04:19:42,0 --> 04:19:42,0
+
+
+1119
+04:19:42,0 --> 04:19:42,0
+
+
+1120
+04:19:42,0 --> 04:19:42,0
+
+
+1121
+04:19:42,0 --> 04:19:42,0
+they
+
+1122
+04:19:42,0 --> 04:19:42,0
+
+
+1123
+04:19:42,0 --> 04:19:42,0
+
+
+1124
+04:19:42,0 --> 04:19:42,0
+
+
+1125
+04:19:42,0 --> 04:19:42,0
+
+
+1126
+04:19:42,0 --> 04:19:42,0
+were
+
+1127
+04:19:42,0 --> 04:19:42,0
+
+
+1128
+04:19:42,0 --> 04:19:42,0
+
+
+1129
+04:19:42,0 --> 04:19:42,0
+
+
+1130
+04:19:42,0 --> 04:19:42,0
+
+
+1131
+04:19:42,0 --> 04:19:42,0
+
+
+1132
+04:19:42,0 --> 04:19:42,0
+
+
+1133
+04:19:42,0 --> 04:19:42,0
+
+
+1134
+04:19:42,0 --> 04:19:42,0
+
+
+1135
+04:19:42,0 --> 04:19:42,0
+
+
+1136
+04:19:42,0 --> 04:19:42,0
+
+
+1137
+04:19:42,0 --> 04:19:42,0
+surrounded
+
+1138
+04:19:42,0 --> 04:19:42,0
+
+
+1139
+04:19:42,0 --> 04:19:42,0
+
+
+1140
+04:19:42,0 --> 04:19:42,0
+on
+
+1141
+04:19:42,0 --> 04:19:42,0
+
+
+1142
+04:19:42,0 --> 04:19:42,0
+
+
+1143
+04:19:42,0 --> 04:19:42,0
+
+
+1144
+04:19:42,0 --> 04:19:42,0
+
+
+1145
+04:19:42,0 --> 04:19:42,0
+
+
+1146
+04:19:42,0 --> 04:19:42,0
+every
+
+1147
+04:19:42,0 --> 04:19:42,0
+
+
+1148
+04:19:42,0 --> 04:19:42,0
+
+
+1149
+04:19:42,0 --> 04:19:42,0
+
+
+1150
+04:19:42,0 --> 04:19:42,0
+
+
+1151
+04:19:42,0 --> 04:19:42,0
+hand
+
+1152
+04:19:42,0 --> 04:19:42,0
+
+
+1153
+04:19:42,0 --> 04:19:42,0
+
+
+1154
+04:19:42,0 --> 04:19:42,0
+by
+
+1155
+04:19:42,0 --> 04:19:42,0
+
+
+1156
+04:19:42,0 --> 04:19:42,0
+
+
+1157
+04:19:42,0 --> 04:19:42,0
+
+
+1158
+04:19:42,0 --> 04:19:42,0
+the
+
+1159
+04:19:42,0 --> 04:19:42,0
+
+
+1160
+04:19:42,0 --> 04:19:42,0
+
+
+1161
+04:19:42,0 --> 04:19:42,0
+
+
+1162
+04:19:42,0 --> 04:19:42,0
+
+
+1163
+04:19:42,0 --> 04:19:42,0
+
+
+1164
+04:19:42,0 --> 04:19:42,0
+
+
+1165
+04:19:42,0 --> 04:19:42,0
+
+
+1166
+04:19:42,0 --> 04:19:42,0
+
+
+1167
+04:19:42,0 --> 04:19:42,0
+
+
+1168
+04:19:42,0 --> 04:35:52,
+Nephites.
+
+1169
+04:35:52,0 --> 04:35:52,0
+32 And thus had Coriantumr plunged the Lamanites into the midst of the Nephites, insomuch that they were in the power of the Nephites, and he himself was slain, and the Lamanites did yield themselves into the hands of the
+
+1170
+04:35:52,0 --> 04:35:52,0
+
+
+1171
+04:35:52,0 --> 04:35:52,0
+
+
+1172
+04:35:52,0 --> 04:35:52,0
+
+
+1173
+04:35:52,0 --> 04:35:52,0
+
+
+1174
+04:35:52,0 --> 04:35:52,0
+And
+
+1175
+04:35:52,0 --> 04:35:52,0
+
+
+1176
+04:35:52,0 --> 04:35:52,0
+
+
+1177
+04:35:52,0 --> 04:35:52,0
+
+
+1178
+04:35:52,0 --> 04:35:52,0
+
+
+1179
+04:35:52,0 --> 04:35:52,0
+thus
+
+1180
+04:35:52,0 --> 04:35:52,0
+
+
+1181
+04:35:52,0 --> 04:35:52,0
+
+
+1182
+04:35:52,0 --> 04:35:52,0
+
+
+1183
+04:35:52,0 --> 04:35:52,0
+had
+
+1184
+04:35:52,0 --> 04:35:52,0
+
+
+1185
+04:35:52,0 --> 04:35:52,0
+
+
+1186
+04:35:52,0 --> 04:35:52,0
+
+
+1187
+04:35:52,0 --> 04:35:52,0
+
+
+1188
+04:35:52,0 --> 04:35:52,0
+
+
+1189
+04:35:52,0 --> 04:35:52,0
+
+
+1190
+04:35:52,0 --> 04:35:52,0
+
+
+1191
+04:35:52,0 --> 04:35:52,0
+
+
+1192
+04:35:52,0 --> 04:35:52,0
+
+
+1193
+04:35:52,0 --> 04:35:52,0
+
+
+1194
+04:35:52,0 --> 04:35:52,0
+Coriantumr
+
+1195
+04:35:52,0 --> 04:35:52,0
+
+
+1196
+04:35:52,0 --> 04:35:52,0
+
+
+1197
+04:35:52,0 --> 04:35:52,0
+
+
+1198
+04:35:52,0 --> 04:35:52,0
+
+
+1199
+04:35:52,0 --> 04:35:52,0
+
+
+1200
+04:35:52,0 --> 04:35:52,0
+
+
+1201
+04:35:52,0 --> 04:35:52,0
+
+
+1202
+04:35:52,0 --> 04:35:52,0
+plunged
+
+1203
+04:35:52,0 --> 04:35:52,0
+
+
+1204
+04:35:52,0 --> 04:35:52,0
+
+
+1205
+04:35:52,0 --> 04:35:52,0
+
+
+1206
+04:35:52,0 --> 04:35:52,0
+the
+
+1207
+04:35:52,0 --> 04:35:52,0
+
+
+1208
+04:35:52,0 --> 04:35:52,0
+
+
+1209
+04:35:52,0 --> 04:35:52,0
+
+
+1210
+04:35:52,0 --> 04:35:52,0
+
+
+1211
+04:35:52,0 --> 04:35:52,0
+
+
+1212
+04:35:52,0 --> 04:35:52,0
+
+
+1213
+04:35:52,0 --> 04:35:52,0
+
+
+1214
+04:35:52,0 --> 04:35:52,0
+
+
+1215
+04:35:52,0 --> 04:35:52,0
+
+
+1216
+04:35:52,0 --> 04:35:52,0
+Lamanites
+
+1217
+04:35:52,0 --> 04:35:52,0
+
+
+1218
+04:35:52,0 --> 04:35:52,0
+
+
+1219
+04:35:52,0 --> 04:35:52,0
+
+
+1220
+04:35:52,0 --> 04:35:52,0
+
+
+1221
+04:35:52,0 --> 04:35:52,0
+into
+
+1222
+04:35:52,0 --> 04:35:52,0
+
+
+1223
+04:35:52,0 --> 04:35:52,0
+
+
+1224
+04:35:52,0 --> 04:35:52,0
+
+
+1225
+04:35:52,0 --> 04:35:52,0
+the
+
+1226
+04:35:52,0 --> 04:35:52,0
+
+
+1227
+04:35:52,0 --> 04:35:52,0
+
+
+1228
+04:35:52,0 --> 04:35:52,0
+
+
+1229
+04:35:52,0 --> 04:35:52,0
+
+
+1230
+04:35:52,0 --> 04:35:52,0
+
+
+1231
+04:35:52,0 --> 04:35:52,0
+midst
+
+1232
+04:35:52,0 --> 04:35:52,0
+
+
+1233
+04:35:52,0 --> 04:35:52,0
+
+
+1234
+04:35:52,0 --> 04:35:52,0
+of
+
+1235
+04:35:52,0 --> 04:35:52,0
+
+
+1236
+04:35:52,0 --> 04:35:52,0
+
+
+1237
+04:35:52,0 --> 04:35:52,0
+
+
+1238
+04:35:52,0 --> 04:35:52,0
+the
+
+1239
+04:35:52,0 --> 04:35:52,0
+
+
+1240
+04:35:52,0 --> 04:35:52,0
+
+
+1241
+04:35:52,0 --> 04:35:52,0
+
+
+1242
+04:35:52,0 --> 04:35:52,0
+
+
+1243
+04:35:52,0 --> 04:35:52,0
+
+
+1244
+04:35:52,0 --> 04:35:52,0
+
+
+1245
+04:35:52,0 --> 04:35:52,0
+
+
+1246
+04:35:52,0 --> 04:35:52,0
+
+
+1247
+04:35:52,0 --> 04:35:52,0
+
+
+1248
+04:35:52,0 --> 04:35:52,0
+Nephites,
+
+1249
+04:35:52,0 --> 04:35:52,0
+
+
+1250
+04:35:52,0 --> 04:35:52,0
+
+
+1251
+04:35:52,0 --> 04:35:52,0
+
+
+1252
+04:35:52,0 --> 04:35:52,0
+
+
+1253
+04:35:52,0 --> 04:35:52,0
+
+
+1254
+04:35:52,0 --> 04:35:52,0
+
+
+1255
+04:35:52,0 --> 04:35:52,0
+
+
+1256
+04:35:52,0 --> 04:35:52,0
+
+
+1257
+04:35:52,0 --> 04:35:52,0
+insomuch
+
+1258
+04:35:52,0 --> 04:35:52,0
+
+
+1259
+04:35:52,0 --> 04:35:52,0
+
+
+1260
+04:35:52,0 --> 04:35:52,0
+
+
+1261
+04:35:52,0 --> 04:35:52,0
+
+
+1262
+04:35:52,0 --> 04:35:52,0
+that
+
+1263
+04:35:52,0 --> 04:35:52,0
+
+
+1264
+04:35:52,0 --> 04:35:52,0
+
+
+1265
+04:35:52,0 --> 04:35:52,0
+
+
+1266
+04:35:52,0 --> 04:35:52,0
+
+
+1267
+04:35:52,0 --> 04:35:52,0
+they
+
+1268
+04:35:52,0 --> 04:35:52,0
+
+
+1269
+04:35:52,0 --> 04:35:52,0
+
+
+1270
+04:35:52,0 --> 04:35:52,0
+
+
+1271
+04:35:52,0 --> 04:35:52,0
+
+
+1272
+04:35:52,0 --> 04:35:52,0
+were
+
+1273
+04:35:52,0 --> 04:35:52,0
+
+
+1274
+04:35:52,0 --> 04:35:52,0
+
+
+1275
+04:35:52,0 --> 04:35:52,0
+in
+
+1276
+04:35:52,0 --> 04:35:52,0
+
+
+1277
+04:35:52,0 --> 04:35:52,0
+
+
+1278
+04:35:52,0 --> 04:35:52,0
+
+
+1279
+04:35:52,0 --> 04:35:52,0
+the
+
+1280
+04:35:52,0 --> 04:35:52,0
+
+
+1281
+04:35:52,0 --> 04:35:52,0
+
+
+1282
+04:35:52,0 --> 04:35:52,0
+
+
+1283
+04:35:52,0 --> 04:35:52,0
+
+
+1284
+04:35:52,0 --> 04:35:52,0
+
+
+1285
+04:35:52,0 --> 04:35:52,0
+power
+
+1286
+04:35:52,0 --> 04:35:52,0
+
+
+1287
+04:35:52,0 --> 04:35:52,0
+
+
+1288
+04:35:52,0 --> 04:35:52,0
+of
+
+1289
+04:35:52,0 --> 04:35:52,0
+
+
+1290
+04:35:52,0 --> 04:35:52,0
+
+
+1291
+04:35:52,0 --> 04:35:52,0
+
+
+1292
+04:35:52,0 --> 04:35:52,0
+the
+
+1293
+04:35:52,0 --> 04:35:52,0
+
+
+1294
+04:35:52,0 --> 04:35:52,0
+
+
+1295
+04:35:52,0 --> 04:35:52,0
+
+
+1296
+04:35:52,0 --> 04:35:52,0
+
+
+1297
+04:35:52,0 --> 04:35:52,0
+
+
+1298
+04:35:52,0 --> 04:35:52,0
+
+
+1299
+04:35:52,0 --> 04:35:52,0
+
+
+1300
+04:35:52,0 --> 04:35:52,0
+
+
+1301
+04:35:52,0 --> 04:35:52,0
+
+
+1302
+04:35:52,0 --> 04:35:52,0
+Nephites,
+
+1303
+04:35:52,0 --> 04:35:52,0
+
+
+1304
+04:35:52,0 --> 04:35:52,0
+
+
+1305
+04:35:52,0 --> 04:35:52,0
+
+
+1306
+04:35:52,0 --> 04:35:52,0
+and
+
+1307
+04:35:52,0 --> 04:35:52,0
+
+
+1308
+04:35:52,0 --> 04:35:52,0
+
+
+1309
+04:35:52,0 --> 04:35:52,0
+he
+
+1310
+04:35:52,0 --> 04:35:52,0
+
+
+1311
+04:35:52,0 --> 04:35:52,0
+
+
+1312
+04:35:52,0 --> 04:35:52,0
+
+
+1313
+04:35:52,0 --> 04:35:52,0
+
+
+1314
+04:35:52,0 --> 04:35:52,0
+
+
+1315
+04:35:52,0 --> 04:35:52,0
+
+
+1316
+04:35:52,0 --> 04:35:52,0
+
+
+1317
+04:35:52,0 --> 04:35:52,0
+himself
+
+1318
+04:35:52,0 --> 04:35:52,0
+
+
+1319
+04:35:52,0 --> 04:35:52,0
+
+
+1320
+04:35:52,0 --> 04:35:52,0
+
+
+1321
+04:35:52,0 --> 04:35:52,0
+was
+
+1322
+04:35:52,0 --> 04:35:52,0
+
+
+1323
+04:35:52,0 --> 04:35:52,0
+
+
+1324
+04:35:52,0 --> 04:35:52,0
+
+
+1325
+04:35:52,0 --> 04:35:52,0
+
+
+1326
+04:35:52,0 --> 04:35:52,0
+
+
+1327
+04:35:52,0 --> 04:35:52,0
+
+
+1328
+04:35:52,0 --> 04:35:52,0
+slain,
+
+1329
+04:35:52,0 --> 04:35:52,0
+
+
+1330
+04:35:52,0 --> 04:35:52,0
+
+
+1331
+04:35:52,0 --> 04:35:52,0
+
+
+1332
+04:35:52,0 --> 04:35:52,0
+and
+
+1333
+04:35:52,0 --> 04:35:52,0
+
+
+1334
+04:35:52,0 --> 04:35:52,0
+
+
+1335
+04:35:52,0 --> 04:35:52,0
+
+
+1336
+04:35:52,0 --> 04:35:52,0
+the
+
+1337
+04:35:52,0 --> 04:35:52,0
+
+
+1338
+04:35:52,0 --> 04:35:52,0
+
+
+1339
+04:35:52,0 --> 04:35:52,0
+
+
+1340
+04:35:52,0 --> 04:35:52,0
+
+
+1341
+04:35:52,0 --> 04:35:52,0
+
+
+1342
+04:35:52,0 --> 04:35:52,0
+
+
+1343
+04:35:52,0 --> 04:35:52,0
+
+
+1344
+04:35:52,0 --> 04:35:52,0
+
+
+1345
+04:35:52,0 --> 04:35:52,0
+
+
+1346
+04:35:52,0 --> 04:35:52,0
+Lamanites
+
+1347
+04:35:52,0 --> 04:35:52,0
+
+
+1348
+04:35:52,0 --> 04:35:52,0
+
+
+1349
+04:35:52,0 --> 04:35:52,0
+
+
+1350
+04:35:52,0 --> 04:35:52,0
+did
+
+1351
+04:35:52,0 --> 04:35:52,0
+
+
+1352
+04:35:52,0 --> 04:35:52,0
+
+
+1353
+04:35:52,0 --> 04:35:52,0
+
+
+1354
+04:35:52,0 --> 04:35:52,0
+
+
+1355
+04:35:52,0 --> 04:35:52,0
+
+
+1356
+04:35:52,0 --> 04:35:52,0
+yield
+
+1357
+04:35:52,0 --> 04:35:52,0
+
+
+1358
+04:35:52,0 --> 04:35:52,0
+
+
+1359
+04:35:52,0 --> 04:35:52,0
+
+
+1360
+04:35:52,0 --> 04:35:52,0
+
+
+1361
+04:35:52,0 --> 04:35:52,0
+
+
+1362
+04:35:52,0 --> 04:35:52,0
+
+
+1363
+04:35:52,0 --> 04:35:52,0
+
+
+1364
+04:35:52,0 --> 04:35:52,0
+
+
+1365
+04:35:52,0 --> 04:35:52,0
+
+
+1366
+04:35:52,0 --> 04:35:52,0
+
+
+1367
+04:35:52,0 --> 04:35:52,0
+themselves
+
+1368
+04:35:52,0 --> 04:35:52,0
+
+
+1369
+04:35:52,0 --> 04:35:52,0
+
+
+1370
+04:35:52,0 --> 04:35:52,0
+
+
+1371
+04:35:52,0 --> 04:35:52,0
+
+
+1372
+04:35:52,0 --> 04:35:52,0
+into
+
+1373
+04:35:52,0 --> 04:35:52,0
+
+
+1374
+04:35:52,0 --> 04:35:52,0
+
+
+1375
+04:35:52,0 --> 04:35:52,0
+
+
+1376
+04:35:52,0 --> 04:35:52,0
+the
+
+1377
+04:35:52,0 --> 04:35:52,0
+
+
+1378
+04:35:52,0 --> 04:35:52,0
+
+
+1379
+04:35:52,0 --> 04:35:52,0
+
+
+1380
+04:35:52,0 --> 04:35:52,0
+
+
+1381
+04:35:52,0 --> 04:35:52,0
+
+
+1382
+04:35:52,0 --> 04:35:52,0
+hands
+
+1383
+04:35:52,0 --> 04:35:52,0
+
+
+1384
+04:35:52,0 --> 04:35:52,0
+
+
+1385
+04:35:52,0 --> 04:35:52,0
+of
+
+1386
+04:35:52,0 --> 04:35:52,0
+
+
+1387
+04:35:52,0 --> 04:35:52,0
+
+
+1388
+04:35:52,0 --> 04:35:52,0
+
+
+1389
+04:35:52,0 --> 04:35:52,0
+the
+
+1390
+04:35:52,0 --> 04:35:52,0
+
+
+1391
+04:35:52,0 --> 04:35:52,0
+
+
+1392
+04:35:52,0 --> 04:35:52,0
+
+
+1393
+04:35:52,0 --> 04:35:52,0
+
+
+1394
+04:35:52,0 --> 04:35:52,0
+
+
+1395
+04:35:52,0 --> 04:35:52,0
+
+
+1396
+04:35:52,0 --> 04:35:52,0
+
+
+1397
+04:35:52,0 --> 04:35:52,0
+
+
+1398
+04:35:52,0 --> 04:35:52,0
+
+
+1399
+04:35:52,0 --> 04:38:48,
+Nephites.
+
+1400
+04:38:48,0 --> 04:38:48,0
+33 And it came to pass that Moronihah took possession of the city of Zarahemla again, and caused that the Lamanites who had been taken prisoners should depart out of the land in
+
+1401
+04:38:48,0 --> 04:38:48,0
+
+
+1402
+04:38:48,0 --> 04:38:48,0
+
+
+1403
+04:38:48,0 --> 04:38:48,0
+
+
+1404
+04:38:48,0 --> 04:38:48,0
+
+
+1405
+04:38:48,0 --> 04:38:48,0
+And
+
+1406
+04:38:48,0 --> 04:38:48,0
+
+
+1407
+04:38:48,0 --> 04:38:48,0
+
+
+1408
+04:38:48,0 --> 04:38:48,0
+it
+
+1409
+04:38:48,0 --> 04:38:48,0
+
+
+1410
+04:38:48,0 --> 04:38:48,0
+
+
+1411
+04:38:48,0 --> 04:38:48,0
+
+
+1412
+04:38:48,0 --> 04:38:48,0
+
+
+1413
+04:38:48,0 --> 04:38:48,0
+came
+
+1414
+04:38:48,0 --> 04:38:48,0
+
+
+1415
+04:38:48,0 --> 04:38:48,0
+
+
+1416
+04:38:48,0 --> 04:38:48,0
+to
+
+1417
+04:38:48,0 --> 04:38:48,0
+
+
+1418
+04:38:48,0 --> 04:38:48,0
+
+
+1419
+04:38:48,0 --> 04:38:48,0
+
+
+1420
+04:38:48,0 --> 04:38:48,0
+
+
+1421
+04:38:48,0 --> 04:38:48,0
+pass
+
+1422
+04:38:48,0 --> 04:38:48,0
+
+
+1423
+04:38:48,0 --> 04:38:48,0
+
+
+1424
+04:38:48,0 --> 04:38:48,0
+
+
+1425
+04:38:48,0 --> 04:38:48,0
+
+
+1426
+04:38:48,0 --> 04:38:48,0
+that
+
+1427
+04:38:48,0 --> 04:38:48,0
+
+
+1428
+04:38:48,0 --> 04:38:48,0
+
+
+1429
+04:38:48,0 --> 04:38:48,0
+
+
+1430
+04:38:48,0 --> 04:38:48,0
+
+
+1431
+04:38:48,0 --> 04:38:48,0
+
+
+1432
+04:38:48,0 --> 04:38:48,0
+
+
+1433
+04:38:48,0 --> 04:38:48,0
+
+
+1434
+04:38:48,0 --> 04:38:48,0
+
+
+1435
+04:38:48,0 --> 04:38:48,0
+
+
+1436
+04:38:48,0 --> 04:38:48,0
+Moronihah
+
+1437
+04:38:48,0 --> 04:38:48,0
+
+
+1438
+04:38:48,0 --> 04:38:48,0
+
+
+1439
+04:38:48,0 --> 04:38:48,0
+
+
+1440
+04:38:48,0 --> 04:38:48,0
+
+
+1441
+04:38:48,0 --> 04:38:48,0
+took
+
+1442
+04:38:48,0 --> 04:38:48,0
+
+
+1443
+04:38:48,0 --> 04:38:48,0
+
+
+1444
+04:38:48,0 --> 04:38:48,0
+
+
+1445
+04:38:48,0 --> 04:38:48,0
+
+
+1446
+04:38:48,0 --> 04:38:48,0
+
+
+1447
+04:38:48,0 --> 04:38:48,0
+
+
+1448
+04:38:48,0 --> 04:38:48,0
+
+
+1449
+04:38:48,0 --> 04:38:48,0
+
+
+1450
+04:38:48,0 --> 04:38:48,0
+
+
+1451
+04:38:48,0 --> 04:38:48,0
+
+
+1452
+04:38:48,0 --> 04:38:48,0
+possession
+
+1453
+04:38:48,0 --> 04:38:48,0
+
+
+1454
+04:38:48,0 --> 04:38:48,0
+
+
+1455
+04:38:48,0 --> 04:38:48,0
+of
+
+1456
+04:38:48,0 --> 04:38:48,0
+
+
+1457
+04:38:48,0 --> 04:38:48,0
+
+
+1458
+04:38:48,0 --> 04:38:48,0
+
+
+1459
+04:38:48,0 --> 04:38:48,0
+the
+
+1460
+04:38:48,0 --> 04:38:48,0
+
+
+1461
+04:38:48,0 --> 04:38:48,0
+
+
+1462
+04:38:48,0 --> 04:38:48,0
+
+
+1463
+04:38:48,0 --> 04:38:48,0
+
+
+1464
+04:38:48,0 --> 04:38:48,0
+city
+
+1465
+04:38:48,0 --> 04:38:48,0
+
+
+1466
+04:38:48,0 --> 04:38:48,0
+
+
+1467
+04:38:48,0 --> 04:38:48,0
+of
+
+1468
+04:38:48,0 --> 04:38:48,0
+
+
+1469
+04:38:48,0 --> 04:38:48,0
+
+
+1470
+04:38:48,0 --> 04:38:48,0
+
+
+1471
+04:38:48,0 --> 04:38:48,0
+
+
+1472
+04:38:48,0 --> 04:38:48,0
+
+
+1473
+04:38:48,0 --> 04:38:48,0
+
+
+1474
+04:38:48,0 --> 04:38:48,0
+
+
+1475
+04:38:48,0 --> 04:38:48,0
+
+
+1476
+04:38:48,0 --> 04:38:48,0
+
+
+1477
+04:38:48,0 --> 04:38:48,0
+Zarahemla
+
+1478
+04:38:48,0 --> 04:38:48,0
+
+
+1479
+04:38:48,0 --> 04:38:48,0
+
+
+1480
+04:38:48,0 --> 04:38:48,0
+
+
+1481
+04:38:48,0 --> 04:38:48,0
+
+
+1482
+04:38:48,0 --> 04:38:48,0
+
+
+1483
+04:38:48,0 --> 04:38:48,0
+
+
+1484
+04:38:48,0 --> 04:38:48,0
+again,
+
+1485
+04:38:48,0 --> 04:38:48,0
+
+
+1486
+04:38:48,0 --> 04:38:48,0
+
+
+1487
+04:38:48,0 --> 04:38:48,0
+
+
+1488
+04:38:48,0 --> 04:38:48,0
+and
+
+1489
+04:38:48,0 --> 04:38:48,0
+
+
+1490
+04:38:48,0 --> 04:38:48,0
+
+
+1491
+04:38:48,0 --> 04:38:48,0
+
+
+1492
+04:38:48,0 --> 04:38:48,0
+
+
+1493
+04:38:48,0 --> 04:38:48,0
+
+
+1494
+04:38:48,0 --> 04:38:48,0
+
+
+1495
+04:38:48,0 --> 04:38:48,0
+caused
+
+1496
+04:38:48,0 --> 04:38:48,0
+
+
+1497
+04:38:48,0 --> 04:38:48,0
+
+
+1498
+04:38:48,0 --> 04:38:48,0
+
+
+1499
+04:38:48,0 --> 04:38:48,0
+
+
+1500
+04:38:48,0 --> 04:38:48,0
+that
+
+1501
+04:38:48,0 --> 04:38:48,0
+
+
+1502
+04:38:48,0 --> 04:38:48,0
+
+
+1503
+04:38:48,0 --> 04:38:48,0
+
+
+1504
+04:38:48,0 --> 04:38:48,0
+the
+
+1505
+04:38:48,0 --> 04:38:48,0
+
+
+1506
+04:38:48,0 --> 04:38:48,0
+
+
+1507
+04:38:48,0 --> 04:38:48,0
+
+
+1508
+04:38:48,0 --> 04:38:48,0
+
+
+1509
+04:38:48,0 --> 04:38:48,0
+
+
+1510
+04:38:48,0 --> 04:38:48,0
+
+
+1511
+04:38:48,0 --> 04:38:48,0
+
+
+1512
+04:38:48,0 --> 04:38:48,0
+
+
+1513
+04:38:48,0 --> 04:38:48,0
+
+
+1514
+04:38:48,0 --> 04:38:48,0
+Lamanites
+
+1515
+04:38:48,0 --> 04:38:48,0
+
+
+1516
+04:38:48,0 --> 04:38:48,0
+
+
+1517
+04:38:48,0 --> 04:38:48,0
+
+
+1518
+04:38:48,0 --> 04:38:48,0
+who
+
+1519
+04:38:48,0 --> 04:38:48,0
+
+
+1520
+04:38:48,0 --> 04:38:48,0
+
+
+1521
+04:38:48,0 --> 04:38:48,0
+
+
+1522
+04:38:48,0 --> 04:38:48,0
+had
+
+1523
+04:38:48,0 --> 04:38:48,0
+
+
+1524
+04:38:48,0 --> 04:38:48,0
+
+
+1525
+04:38:48,0 --> 04:38:48,0
+
+
+1526
+04:38:48,0 --> 04:38:48,0
+
+
+1527
+04:38:48,0 --> 04:38:48,0
+been
+
+1528
+04:38:48,0 --> 04:38:48,0
+
+
+1529
+04:38:48,0 --> 04:38:48,0
+
+
+1530
+04:38:48,0 --> 04:38:48,0
+
+
+1531
+04:38:48,0 --> 04:38:48,0
+
+
+1532
+04:38:48,0 --> 04:38:48,0
+
+
+1533
+04:38:48,0 --> 04:38:48,0
+taken
+
+1534
+04:38:48,0 --> 04:38:48,0
+
+
+1535
+04:38:48,0 --> 04:38:48,0
+
+
+1536
+04:38:48,0 --> 04:38:48,0
+
+
+1537
+04:38:48,0 --> 04:38:48,0
+
+
+1538
+04:38:48,0 --> 04:38:48,0
+
+
+1539
+04:38:48,0 --> 04:38:48,0
+
+
+1540
+04:38:48,0 --> 04:38:48,0
+
+
+1541
+04:38:48,0 --> 04:38:48,0
+
+
+1542
+04:38:48,0 --> 04:38:48,0
+
+
+1543
+04:38:48,0 --> 04:38:48,0
+prisoners
+
+1544
+04:38:48,0 --> 04:38:48,0
+
+
+1545
+04:38:48,0 --> 04:38:48,0
+
+
+1546
+04:38:48,0 --> 04:38:48,0
+
+
+1547
+04:38:48,0 --> 04:38:48,0
+
+
+1548
+04:38:48,0 --> 04:38:48,0
+
+
+1549
+04:38:48,0 --> 04:38:48,0
+
+
+1550
+04:38:48,0 --> 04:38:48,0
+should
+
+1551
+04:38:48,0 --> 04:38:48,0
+
+
+1552
+04:38:48,0 --> 04:38:48,0
+
+
+1553
+04:38:48,0 --> 04:38:48,0
+
+
+1554
+04:38:48,0 --> 04:38:48,0
+
+
+1555
+04:38:48,0 --> 04:38:48,0
+
+
+1556
+04:38:48,0 --> 04:38:48,0
+
+
+1557
+04:38:48,0 --> 04:38:48,0
+depart
+
+1558
+04:38:48,0 --> 04:38:48,0
+
+
+1559
+04:38:48,0 --> 04:38:48,0
+
+
+1560
+04:38:48,0 --> 04:38:48,0
+
+
+1561
+04:38:48,0 --> 04:38:48,0
+out
+
+1562
+04:38:48,0 --> 04:38:48,0
+
+
+1563
+04:38:48,0 --> 04:38:48,0
+
+
+1564
+04:38:48,0 --> 04:38:48,0
+of
+
+1565
+04:38:48,0 --> 04:38:48,0
+
+
+1566
+04:38:48,0 --> 04:38:48,0
+
+
+1567
+04:38:48,0 --> 04:38:48,0
+
+
+1568
+04:38:48,0 --> 04:38:48,0
+the
+
+1569
+04:38:48,0 --> 04:38:48,0
+
+
+1570
+04:38:48,0 --> 04:38:48,0
+
+
+1571
+04:38:48,0 --> 04:38:48,0
+
+
+1572
+04:38:48,0 --> 04:38:48,0
+
+
+1573
+04:38:48,0 --> 04:38:48,0
+land
+
+1574
+04:38:48,0 --> 04:38:48,0
+
+
+1575
+04:38:48,0 --> 04:38:48,0
+
+
+1576
+04:38:48,0 --> 04:38:48,0
+in
+
+1577
+04:38:48,0 --> 04:38:48,0
+
+
+1578
+04:38:48,0 --> 04:38:48,0
+
+
+1579
+04:38:48,0 --> 04:38:48,0
+
+
+1580
+04:38:48,0 --> 04:38:48,0
+
+
+1581
+04:38:48,0 --> 04:38:48,0
+
+
+1582
+04:38:48,0 --> 04:38:48,0
+
+
+1583
+04:38:48,0 --> 04:49:55,
+peace.
+
+1584
+04:49:55,0 --> 04:49:55,0
+34 And thus ended the forty and first year of the reign of the judges.
+
+1585
+04:49:55,0 --> 04:49:55,0
+
+
+1586
+04:49:55,0 --> 04:49:55,0
+
+
+1587
+04:49:55,0 --> 04:49:55,0
+
+
+1588
+04:49:55,0 --> 04:49:55,0
+
+
+1589
+04:49:55,0 --> 04:49:55,0
+And
+
+1590
+04:49:55,0 --> 04:49:55,0
+
+
+1591
+04:49:55,0 --> 04:49:55,0
+
+
+1592
+04:49:55,0 --> 04:49:55,0
+
+
+1593
+04:49:55,0 --> 04:49:55,0
+
+
+1594
+04:49:55,0 --> 04:49:55,0
+thus
+
+1595
+04:49:55,0 --> 04:49:55,0
+
+
+1596
+04:49:55,0 --> 04:49:55,0
+
+
+1597
+04:49:55,0 --> 04:49:55,0
+
+
+1598
+04:49:55,0 --> 04:49:55,0
+
+
+1599
+04:49:55,0 --> 04:49:55,0
+
+
+1600
+04:49:55,0 --> 04:49:55,0
+ended
+
+1601
+04:49:55,0 --> 04:49:55,0
+
+
+1602
+04:49:55,0 --> 04:49:55,0
+
+
+1603
+04:49:55,0 --> 04:49:55,0
+
+
+1604
+04:49:55,0 --> 04:49:55,0
+the
+
+1605
+04:49:55,0 --> 04:49:55,0
+
+
+1606
+04:49:55,0 --> 04:49:55,0
+
+
+1607
+04:49:55,0 --> 04:49:55,0
+
+
+1608
+04:49:55,0 --> 04:49:55,0
+
+
+1609
+04:49:55,0 --> 04:49:55,0
+
+
+1610
+04:49:55,0 --> 04:49:55,0
+forty
+
+1611
+04:49:55,0 --> 04:49:55,0
+
+
+1612
+04:49:55,0 --> 04:49:55,0
+
+
+1613
+04:49:55,0 --> 04:49:55,0
+
+
+1614
+04:49:55,0 --> 04:49:55,0
+and
+
+1615
+04:49:55,0 --> 04:49:55,0
+
+
+1616
+04:49:55,0 --> 04:49:55,0
+
+
+1617
+04:49:55,0 --> 04:49:55,0
+
+
+1618
+04:49:55,0 --> 04:49:55,0
+
+
+1619
+04:49:55,0 --> 04:49:55,0
+
+
+1620
+04:49:55,0 --> 04:49:55,0
+first
+
+1621
+04:49:55,0 --> 04:49:55,0
+
+
+1622
+04:49:55,0 --> 04:49:55,0
+
+
+1623
+04:49:55,0 --> 04:49:55,0
+
+
+1624
+04:49:55,0 --> 04:49:55,0
+
+
+1625
+04:49:55,0 --> 04:49:55,0
+year
+
+1626
+04:49:55,0 --> 04:49:55,0
+
+
+1627
+04:49:55,0 --> 04:49:55,0
+
+
+1628
+04:49:55,0 --> 04:49:55,0
+of
+
+1629
+04:49:55,0 --> 04:49:55,0
+
+
+1630
+04:49:55,0 --> 04:49:55,0
+
+
+1631
+04:49:55,0 --> 04:49:55,0
+
+
+1632
+04:49:55,0 --> 04:49:55,0
+the
+
+1633
+04:49:55,0 --> 04:49:55,0
+
+
+1634
+04:49:55,0 --> 04:49:55,0
+
+
+1635
+04:49:55,0 --> 04:49:55,0
+
+
+1636
+04:49:55,0 --> 04:49:55,0
+
+
+1637
+04:49:55,0 --> 04:49:55,0
+
+
+1638
+04:49:55,0 --> 04:49:55,0
+reign
+
+1639
+04:49:55,0 --> 04:49:55,0
+
+
+1640
+04:49:55,0 --> 04:49:55,0
+
+
+1641
+04:49:55,0 --> 04:49:55,0
+of
+
+1642
+04:49:55,0 --> 04:49:55,0
+
+
+1643
+04:49:55,0 --> 04:49:55,0
+
+
+1644
+04:49:55,0 --> 04:49:55,0
+
+
+1645
+04:49:55,0 --> 04:49:55,0
+the
+
+1646
+04:49:55,0 --> 04:49:55,0
+
+
+1647
+04:49:55,0 --> 04:49:55,0
+
+
+1648
+04:49:55,0 --> 04:49:55,0
+
+
+1649
+04:49:55,0 --> 04:49:55,0
+
+
+1650
+04:49:55,0 --> 04:49:55,0
+
+
+1651
+04:49:55,0 --> 04:49:55,0
+
+
+1652
+04:49:55,0 --> 04:49:55,0
+
+
+1653
+04:49:55,0 --> 04:49:55,0
+judges.
+
+1654
+04:49:55,0 --> 04:54:38,
+
 

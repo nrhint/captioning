@@ -1,448 +1,892 @@
 1
-00:00:00,0 --> 00:00:14,5
-Chapter 6 Jacob recounts Jewish history: The
+00:00:00,0 --> 00:00:00,0
+Chapter 6 Jacob recounts Jewish history:
 
 2
-00:00:14,5 --> 00:00:29,0
- Babylonian captivity and return; the ministry and
+00:00:00,0 --> 00:00:00,0
+The Babylonian captivity and return; the
 
 3
-00:00:29,0 --> 00:00:43,5
- crucifixion of the Holy One of Israel; the help
+00:00:00,0 --> 00:00:00,0
+ministry and crucifixion of the Holy One of
 
 4
-00:00:43,5 --> 00:00:58,0
- received from the Gentiles; and the Jews’ latter-day
+00:00:00,0 --> 00:00:00,0
+Israel; the help received from the Gentiles;
 
 5
-00:00:58,0 --> 00:01:12,5
- restoration when they believe in the Messiah. About
+00:00:00,0 --> 00:00:00,0
+and the Jews’ latter-day restoration when
 
 6
-00:01:12,5 --> 00:01:27,0
- 559–545 B.C.
+00:00:00,0 --> 00:08:27,
+they believe in the Messiah. About 559–545 B.C. 
 
 7
-00:01:27,721 --> 00:01:28,221
-1 The words of Jacob, the brother of Nephi, which
+00:08:27,0 --> 00:08:27,0
+1 The words of Jacob, the brother of
 
 8
-00:01:28,221 --> 00:01:28,721
- he spake unto the people of Nephi
+00:08:27,0 --> 00:08:13,
+Nephi, which he spake unto the people of Nephi:
 
 9
-00:01:28,221 --> 00:01:33,792
-2 Behold, my beloved brethren, I, Jacob, having
+00:08:13,0 --> 00:08:13,0
+2 Behold, my beloved brethren, I,
 
 10
-00:01:33,792 --> 00:01:39,363
- been called of God, and ordained after the manner of
+00:08:13,0 --> 00:08:13,0
+Jacob, having been called of God, and
 
 11
-00:01:39,363 --> 00:01:44,934
- his holy order, and having been consecrated by my
+00:08:13,0 --> 00:08:13,0
+ordained after the manner of his holy
 
 12
-00:01:44,934 --> 00:01:50,505
- brother Nephi, unto whom ye look as a king or a
+00:08:13,0 --> 00:08:13,0
+order, and having been consecrated by my
 
 13
-00:01:50,505 --> 00:01:56,076
- protector, and on whom ye depend for safety, behold
+00:08:13,0 --> 00:08:13,0
+brother Nephi, unto whom ye look as a
 
 14
-00:01:56,076 --> 00:02:01,647
- ye know that I have spoken unto you exceedingly
+00:08:13,0 --> 00:08:13,0
+king or a protector, and on whom ye
 
 15
-00:02:01,647 --> 00:02:07,218
- many things
+00:08:13,0 --> 00:08:13,0
+depend for safety, behold ye know that I
 
 16
-00:02:07,16 --> 00:02:13,16
-3 Nevertheless, I speak unto you again; for I am
+00:08:13,0 --> 00:07:45,
+have spoken unto you exceedingly many things.
 
 17
-00:02:13,16 --> 00:02:19,16
- desirous for the welfare of your souls. Yea, mine
+00:07:45,0 --> 00:07:45,0
+3 Nevertheless, I speak unto you
 
 18
-00:02:19,16 --> 00:02:25,16
- anxiety is great for you; and ye yourselves know
+00:07:45,0 --> 00:07:45,0
+again; for I am desirous for the
 
 19
-00:02:25,16 --> 00:02:31,16
- that it ever has been. For I have exhorted you with
+00:07:45,0 --> 00:07:45,0
+welfare of your souls. Yea, mine anxiety
 
 20
-00:02:31,16 --> 00:02:37,16
- all diligence; and I have taught you the words of
+00:07:45,0 --> 00:07:45,0
+is great for you; and ye yourselves
 
 21
-00:02:37,16 --> 00:02:43,16
- my father; and I have spoken unto you concerning
+00:07:45,0 --> 00:07:45,0
+know that it ever has been. For I
 
 22
-00:02:43,16 --> 00:02:49,16
- all things which are written, from the creation of
+00:07:45,0 --> 00:07:45,0
+have exhorted you with all diligence;
 
 23
-00:02:49,16 --> 00:02:55,16
- the world
+00:07:45,0 --> 00:07:45,0
+and I have taught you the words of my
 
 24
-00:02:55,008 --> 00:03:01,151
-4 And now, behold, I would speak unto you
+00:07:45,0 --> 00:07:45,0
+father; and I have spoken unto you
 
 25
-00:03:01,151 --> 00:03:07,294
- concerning things which are, and which are to come;
+00:07:45,0 --> 00:07:45,0
+concerning all things which are
 
 26
-00:03:07,294 --> 00:03:13,437
- wherefore, I will read you the words of Isaiah. And they
+00:07:45,0 --> 00:11:16,
+written, from the creation of the world.
 
 27
-00:03:13,437 --> 00:03:19,58
- are the words which my brother has desired that I
+00:11:16,0 --> 00:11:16,0
+4 And now, behold, I would speak
 
 28
-00:03:19,58 --> 00:03:25,723
- should speak unto you. And I speak unto you for
+00:11:16,0 --> 00:11:16,0
+unto you concerning things which
 
 29
-00:03:25,723 --> 00:03:31,866
- your sakes, that ye may learn and glorify the name
+00:11:16,0 --> 00:11:16,0
+are, and which are to come;
 
 30
-00:03:31,866 --> 00:03:38,009
- of your God
+00:11:16,0 --> 00:11:16,0
+wherefore, I will read you the words of
 
 31
-00:03:38,885 --> 00:03:44,599
-5 And now, the words which I shall read are they
+00:11:16,0 --> 00:11:16,0
+Isaiah. And they are the words which
 
 32
-00:03:44,599 --> 00:03:50,313
- which Isaiah spake concerning all the house of
+00:11:16,0 --> 00:11:16,0
+my brother has desired that I
 
 33
-00:03:50,313 --> 00:03:56,027
- Israel; wherefore, they may be likened unto you, for
+00:11:16,0 --> 00:11:16,0
+should speak unto you. And I speak
 
 34
-00:03:56,027 --> 00:04:01,741
- ye are of the house of Israel. And there are many
+00:11:16,0 --> 00:11:16,0
+unto you for your sakes, that ye may
 
 35
-00:04:01,741 --> 00:04:07,455
- things which have been spoken by Isaiah which may
+00:11:16,0 --> 00:16:12,
+learn and glorify the name of your God.
 
 36
-00:04:07,455 --> 00:04:13,169
- be likened unto you, because ye are of the house of
+00:16:12,0 --> 00:16:12,0
+5 And now, the words which I
 
 37
-00:04:13,169 --> 00:04:18,883
- Israel
+00:16:12,0 --> 00:16:12,0
+shall read are they which
 
 38
-00:04:18,525 --> 00:04:25,325
-6 And now, these are the words: Thus saith the
+00:16:12,0 --> 00:16:12,0
+Isaiah spake concerning all the
 
 39
-00:04:25,325 --> 00:04:32,125
- Lord God: Behold, I will lift up mine hand to the
+00:16:12,0 --> 00:16:12,0
+house of Israel; wherefore, they
 
 40
-00:04:32,125 --> 00:04:38,925
- Gentiles, and set up my standard to the people; and
+00:16:12,0 --> 00:16:12,0
+may be likened unto you, for
 
 41
-00:04:38,925 --> 00:04:45,725
- they shall bring thy sons in their arms, and thy
+00:16:12,0 --> 00:16:12,0
+ye are of the house of Israel.
 
 42
-00:04:45,725 --> 00:04:52,525
- daughters shall be carried upon their shoulders
+00:16:12,0 --> 00:16:12,0
+And there are many things
 
 43
-00:04:52,225 --> 00:04:59,558
-7 And kings shall be thy nursing fathers, and
+00:16:12,0 --> 00:16:12,0
+which have been spoken by Isaiah
 
 44
-00:04:59,558 --> 00:05:06,891
- their queens thy nursing mothers; they shall bow down
+00:16:12,0 --> 00:16:12,0
+which may be likened unto you,
 
 45
-00:05:06,891 --> 00:05:14,224
- to thee with their faces towards the earth, and
+00:16:12,0 --> 00:20:11,
+because ye are of the house of Israel.
 
 46
-00:05:14,224 --> 00:05:21,557
- lick up the dust of thy feet; and thou shalt know
+00:20:11,0 --> 00:20:11,0
+6 And now, these are the
 
 47
-00:05:21,557 --> 00:05:28,89
- that I am the Lord; for they shall not be ashamed
+00:20:11,0 --> 00:20:11,0
+words: Thus saith the Lord
 
 48
-00:05:28,89 --> 00:05:36,223
- that wait for me
+00:20:11,0 --> 00:20:11,0
+God: Behold, I will lift up
 
 49
-00:05:36,102 --> 00:05:43,102
-8 And now I, Jacob, would speak somewhat
+00:20:11,0 --> 00:20:11,0
+mine hand to the Gentiles,
 
 50
-00:05:43,102 --> 00:05:50,102
- concerning these words. For behold, the Lord has shown me
+00:20:11,0 --> 00:20:11,0
+and set up my standard to
 
 51
-00:05:50,102 --> 00:05:57,102
- that those who were at Jerusalem, from whence we
+00:20:11,0 --> 00:20:11,0
+the people; and they shall
 
 52
-00:05:57,102 --> 00:06:04,102
- came, have been slain and carried away captive
+00:20:11,0 --> 00:20:11,0
+bring thy sons in their arms,
 
 53
-00:06:04,164 --> 00:06:26,878
-9 Nevertheless, the Lord has shown unto me that
+00:20:11,0 --> 00:20:11,0
+and thy daughters shall be
 
 54
-00:06:26,878 --> 00:06:49,592
- they should return again. And he also has shown unto
+00:20:11,0 --> 00:23:56,
+carried upon their shoulders.
 
 55
-00:06:49,592 --> 00:07:12,306
- me that the Lord God, the Holy One of Israel,
+00:23:56,0 --> 00:23:56,0
+7 And kings shall be thy
 
 56
-00:07:12,306 --> 00:07:35,02
- should manifest himself unto them in the flesh; and
+00:23:56,0 --> 00:23:56,0
+nursing fathers, and their
 
 57
-00:07:35,02 --> 00:07:57,734
- after he should manifest himself they should
+00:23:56,0 --> 00:23:56,0
+queens thy nursing
 
 58
-00:07:57,734 --> 00:08:20,448
- scourge him and crucify him, according to the words of
+00:23:56,0 --> 00:23:56,0
+mothers; they shall bow down to
 
 59
-00:08:20,448 --> 00:08:43,162
- the angel who spake it unto me
+00:23:56,0 --> 00:23:56,0
+thee with their faces
 
 60
-00:08:43,656 --> 00:08:48,456
-10 And after they have hardened their hearts and
+00:23:56,0 --> 00:23:56,0
+towards the earth, and lick up
 
 61
-00:08:48,456 --> 00:08:53,256
- stiffened their necks against the Holy One of
+00:23:56,0 --> 00:23:56,0
+the dust of thy feet; and
 
 62
-00:08:53,256 --> 00:08:58,056
- Israel, behold, the judgments of the Holy One of Israel
+00:23:56,0 --> 00:23:56,0
+thou shalt know that I am
 
 63
-00:08:58,056 --> 00:09:02,856
- shall come upon them. And the day cometh that
+00:23:56,0 --> 00:23:56,0
+the Lord; for they shall
 
 64
-00:09:02,856 --> 00:09:07,656
- they shall be smitten and afflicted
+00:23:56,0 --> 00:25:26,
+not be ashamed that wait for me.
 
 65
-00:09:07,58 --> 00:09:07,691
-11 Wherefore, after they are driven to and fro,
+00:25:26,0 --> 00:25:26,0
+8 And now I, Jacob,
 
 66
-00:09:07,691 --> 00:09:07,802
- for thus saith the angel, many shall be afflicted in
+00:25:26,0 --> 00:25:26,0
+would speak somewhat
 
 67
-00:09:07,802 --> 00:09:07,913
- the flesh, and shall not be suffered to perish,
+00:25:26,0 --> 00:25:26,0
+concerning these words. For
 
 68
-00:09:07,913 --> 00:09:08,024
- because of the prayers of the faithful; they shall
+00:25:26,0 --> 00:25:26,0
+behold, the Lord has shown
 
 69
-00:09:08,024 --> 00:09:08,135
- be scattered, and smitten, and hated;
+00:25:26,0 --> 00:25:26,0
+me that those who were
 
 70
-00:09:08,135 --> 00:09:08,246
- nevertheless, the Lord will be merciful unto them, that when
+00:25:26,0 --> 00:25:26,0
+at Jerusalem, from whence
 
 71
-00:09:08,246 --> 00:09:08,357
- they shall come to the knowledge of their Redeemer,
+00:25:26,0 --> 00:25:26,0
+we came, have been
 
 72
-00:09:08,357 --> 00:09:08,468
- they shall be gathered together again to the
+00:25:26,0 --> 00:30:23,
+slain and carried away captive.
 
 73
-00:09:08,468 --> 00:09:08,579
- lands of their inheritance
+00:30:23,0 --> 00:30:23,0
+9 Nevertheless, the
 
 74
-00:09:08,148 --> 00:09:09,023
-12 And blessed are the Gentiles, they of whom the
+00:30:23,0 --> 00:30:23,0
+Lord has shown unto me
 
 75
-00:09:09,023 --> 00:09:09,898
- prophet has written; for behold, if it so be that
+00:30:23,0 --> 00:30:23,0
+that they should return
 
 76
-00:09:09,898 --> 00:09:10,773
- they shall repent and fight not against Zion, and
+00:30:23,0 --> 00:30:23,0
+again. And he also has
 
 77
-00:09:10,773 --> 00:09:11,648
- do not unite themselves to that great and
+00:30:23,0 --> 00:30:23,0
+shown unto me that the
 
 78
-00:09:11,648 --> 00:09:12,523
- abominable church, they shall be saved; for the Lord God
+00:30:23,0 --> 00:30:23,0
+Lord God, the Holy One of
 
 79
-00:09:12,523 --> 00:09:13,398
- will fulfil his covenants which he has made unto
+00:30:23,0 --> 00:30:23,0
+Israel, should
 
 80
-00:09:13,398 --> 00:09:14,273
- his children; and for this cause the prophet has
+00:30:23,0 --> 00:30:23,0
+manifest himself unto them in
 
 81
-00:09:14,273 --> 00:09:15,148
- written these things
+00:30:23,0 --> 00:30:23,0
+the flesh; and after he
 
 82
-00:09:15,155 --> 00:09:23,322
-13 Wherefore, they that fight against Zion and the
+00:30:23,0 --> 00:30:23,0
+should manifest
 
 83
-00:09:23,322 --> 00:09:31,489
- covenant people of the Lord shall lick up the
+00:30:23,0 --> 00:30:23,0
+himself they should scourge
 
 84
-00:09:31,489 --> 00:09:39,656
- dust of their feet; and the people of the Lord shall
+00:30:23,0 --> 00:30:23,0
+him and crucify him,
 
 85
-00:09:39,656 --> 00:09:47,823
- not be ashamed. For the people of the Lord are
+00:30:23,0 --> 00:30:23,0
+according to the words of
 
 86
-00:09:47,823 --> 00:09:55,99
- they who wait for him; for they still wait for the
+00:30:23,0 --> 00:30:09,
+the angel who spake it unto me.
 
 87
-00:09:55,99 --> 00:10:04,157
- coming of the Messiah
+00:30:09,0 --> 00:30:09,0
+10 And after they
 
 88
-00:10:04,104 --> 00:10:10,389
-14 And behold, according to the words of the
+00:30:09,0 --> 00:30:09,0
+have hardened their
 
 89
-00:10:10,389 --> 00:10:16,676
- prophet, the Messiah will set himself again the second
+00:30:09,0 --> 00:30:09,0
+hearts and stiffened
 
 90
-00:10:16,676 --> 00:10:22,962
- time to recover them; wherefore, he will manifest
+00:30:09,0 --> 00:30:09,0
+their necks against the
 
 91
-00:10:22,962 --> 00:10:29,248
- himself unto them in power and great glory, unto
+00:30:09,0 --> 00:30:09,0
+Holy One of Israel,
 
 92
-00:10:29,248 --> 00:10:35,534
- the destruction of their enemies, when that day
+00:30:09,0 --> 00:30:09,0
+behold, the judgments
 
 93
-00:10:35,534 --> 00:10:41,82
- cometh when they shall believe in him; and none will
+00:30:09,0 --> 00:30:09,0
+of the Holy One of
 
 94
-00:10:41,82 --> 00:10:48,106
- he destroy that believe in him
+00:30:09,0 --> 00:30:09,0
+Israel shall come upon
 
 95
-00:10:48,815 --> 00:10:57,615
-15 And they that believe not in him shall be
+00:30:09,0 --> 00:30:09,0
+them. And the day
 
 96
-00:10:57,615 --> 00:11:06,415
- destroyed, both by fire, and by tempest, and by
+00:30:09,0 --> 00:30:09,0
+cometh that they shall be
 
 97
-00:11:06,415 --> 00:11:15,215
- earthquakes, and by bloodsheds, and by pestilence, and by
+00:30:09,0 --> 00:32:21,
+smitten and afflicted.
 
 98
-00:11:15,215 --> 00:11:24,015
- famine. And they shall know that the Lord is God,
+00:32:21,0 --> 00:32:21,0
+11 Wherefore, after
 
 99
-00:11:24,015 --> 00:11:32,815
- the Holy One of Israel
+00:32:21,0 --> 00:32:21,0
+they are driven to
 
 100
-00:11:32,125 --> 00:11:41,125
-16 For shall the prey be taken from the mighty, or
+00:32:21,0 --> 00:32:21,0
+and fro, for thus
 
 101
-00:11:41,125 --> 00:11:50,125
- the lawful captive delivered
+00:32:21,0 --> 00:32:21,0
+saith the angel, many
 
 102
-00:11:50,176 --> 00:11:57,676
-17 But thus saith the Lord: Even the captives of
+00:32:21,0 --> 00:32:21,0
+shall be afflicted in
 
 103
-00:11:57,676 --> 00:12:05,176
- the mighty shall be taken away, and the prey of the
+00:32:21,0 --> 00:32:21,0
+the flesh, and
 
 104
-00:12:05,176 --> 00:12:12,676
- terrible shall be delivered; for the Mighty God
+00:32:21,0 --> 00:32:21,0
+shall not be suffered to
 
 105
-00:12:12,676 --> 00:12:20,176
- shall deliver his covenant people. For thus saith
+00:32:21,0 --> 00:32:21,0
+perish, because of
 
 106
-00:12:20,176 --> 00:12:27,676
- the Lord: I will contend with them that contendeth
+00:32:21,0 --> 00:32:21,0
+the prayers of the
 
 107
-00:12:27,676 --> 00:12:35,176
- with thee
+00:32:21,0 --> 00:32:21,0
+faithful; they shall
 
 108
-00:12:35,822 --> 00:12:39,422
-18 And I will feed them that oppress thee, with
+00:32:21,0 --> 00:32:21,0
+be scattered, and
 
 109
-00:12:39,422 --> 00:12:43,022
- their own flesh; and they shall be drunken with
+00:32:21,0 --> 00:32:21,0
+smitten, and hated;
 
 110
-00:12:43,022 --> 00:12:46,622
- their own blood as with sweet wine; and all flesh
+00:32:21,0 --> 00:32:21,0
+nevertheless, the Lord
 
 111
-00:12:46,622 --> 00:12:50,222
- shall know that I the Lord am thy Savior and thy
+00:32:21,0 --> 00:32:21,0
+will be merciful
 
 112
-00:12:50,222 --> 00:12:53,822
- Redeemer, the Mighty One of Jacob.
+00:32:21,0 --> 00:32:21,0
+unto them, that when
+
+113
+00:32:21,0 --> 00:32:21,0
+they shall come to
+
+114
+00:32:21,0 --> 00:32:21,0
+the knowledge of their
+
+115
+00:32:21,0 --> 00:32:21,0
+Redeemer, they
+
+116
+00:32:21,0 --> 00:32:21,0
+shall be gathered
+
+117
+00:32:21,0 --> 00:32:21,0
+together again to the
+
+118
+00:32:21,0 --> 00:31:53,
+lands of their inheritance.
+
+119
+00:31:53,0 --> 00:31:53,0
+12 And blessed are
+
+120
+00:31:53,0 --> 00:31:53,0
+the Gentiles, they
+
+121
+00:31:53,0 --> 00:31:53,0
+of whom the prophet
+
+122
+00:31:53,0 --> 00:31:53,0
+has written; for
+
+123
+00:31:53,0 --> 00:31:53,0
+behold, if it so be
+
+124
+00:31:53,0 --> 00:31:53,0
+that they shall
+
+125
+00:31:53,0 --> 00:31:53,0
+repent and fight not
+
+126
+00:31:53,0 --> 00:31:53,0
+against Zion, and do
+
+127
+00:31:53,0 --> 00:31:53,0
+not unite
+
+128
+00:31:53,0 --> 00:31:53,0
+themselves to that great
+
+129
+00:31:53,0 --> 00:31:53,0
+and abominable
+
+130
+00:31:53,0 --> 00:31:53,0
+church, they shall be
+
+131
+00:31:53,0 --> 00:31:53,0
+saved; for the Lord
+
+132
+00:31:53,0 --> 00:31:53,0
+God will fulfil his
+
+133
+00:31:53,0 --> 00:31:53,0
+covenants which he
+
+134
+00:31:53,0 --> 00:31:53,0
+has made unto his
+
+135
+00:31:53,0 --> 00:31:53,0
+children; and for
+
+136
+00:31:53,0 --> 00:31:53,0
+this cause the prophet
+
+137
+00:31:53,0 --> 00:34:05,
+has written these things.
+
+138
+00:34:05,0 --> 00:34:05,0
+13 Wherefore, they
+
+139
+00:34:05,0 --> 00:34:05,0
+that fight
+
+140
+00:34:05,0 --> 00:34:05,0
+against Zion and the
+
+141
+00:34:05,0 --> 00:34:05,0
+covenant people of
+
+142
+00:34:05,0 --> 00:34:05,0
+the Lord shall lick
+
+143
+00:34:05,0 --> 00:34:05,0
+up the dust of
+
+144
+00:34:05,0 --> 00:34:05,0
+their feet; and the
+
+145
+00:34:05,0 --> 00:34:05,0
+people of the Lord
+
+146
+00:34:05,0 --> 00:34:05,0
+shall not be
+
+147
+00:34:05,0 --> 00:34:05,0
+ashamed. For the people
+
+148
+00:34:05,0 --> 00:34:05,0
+of the Lord are
+
+149
+00:34:05,0 --> 00:34:05,0
+they who wait for
+
+150
+00:34:05,0 --> 00:34:05,0
+him; for they still
+
+151
+00:34:05,0 --> 00:34:05,0
+wait for the
+
+152
+00:34:05,0 --> 00:39:48,
+coming of the Messiah.
+
+153
+00:39:48,0 --> 00:39:48,0
+14 And behold,
+
+154
+00:39:48,0 --> 00:39:48,0
+according to the
+
+155
+00:39:48,0 --> 00:39:48,0
+words of the
+
+156
+00:39:48,0 --> 00:39:48,0
+prophet, the Messiah
+
+157
+00:39:48,0 --> 00:39:48,0
+will set himself
+
+158
+00:39:48,0 --> 00:39:48,0
+again the second
+
+159
+00:39:48,0 --> 00:39:48,0
+time to recover
+
+160
+00:39:48,0 --> 00:39:48,0
+them; wherefore, he
+
+161
+00:39:48,0 --> 00:39:48,0
+will manifest
+
+162
+00:39:48,0 --> 00:39:48,0
+himself unto them in
+
+163
+00:39:48,0 --> 00:39:48,0
+power and great
+
+164
+00:39:48,0 --> 00:39:48,0
+glory, unto the
+
+165
+00:39:48,0 --> 00:39:48,0
+destruction of
+
+166
+00:39:48,0 --> 00:39:48,0
+their enemies, when
+
+167
+00:39:48,0 --> 00:39:48,0
+that day cometh
+
+168
+00:39:48,0 --> 00:39:48,0
+when they shall
+
+169
+00:39:48,0 --> 00:39:48,0
+believe in him; and
+
+170
+00:39:48,0 --> 00:39:48,0
+none will he
+
+171
+00:39:48,0 --> 00:44:16,
+destroy that believe in him.
+
+172
+00:44:16,0 --> 00:44:16,0
+15 And they that
+
+173
+00:44:16,0 --> 00:44:16,0
+believe not in
+
+174
+00:44:16,0 --> 00:44:16,0
+him shall be
+
+175
+00:44:16,0 --> 00:44:16,0
+destroyed, both by
+
+176
+00:44:16,0 --> 00:44:16,0
+fire, and by
+
+177
+00:44:16,0 --> 00:44:16,0
+tempest, and by
+
+178
+00:44:16,0 --> 00:44:16,0
+earthquakes, and by
+
+179
+00:44:16,0 --> 00:44:16,0
+bloodsheds, and
+
+180
+00:44:16,0 --> 00:44:16,0
+by pestilence,
+
+181
+00:44:16,0 --> 00:44:16,0
+and by famine.
+
+182
+00:44:16,0 --> 00:44:16,0
+And they shall
+
+183
+00:44:16,0 --> 00:44:16,0
+know that the Lord
+
+184
+00:44:16,0 --> 00:44:16,0
+is God, the
+
+185
+00:44:16,0 --> 00:43:48,
+Holy One of Israel.
+
+186
+00:43:48,0 --> 00:43:48,0
+16 For shall the
+
+187
+00:43:48,0 --> 00:43:48,0
+prey be taken
+
+188
+00:43:48,0 --> 00:43:48,0
+from the mighty,
+
+189
+00:43:48,0 --> 00:43:48,0
+or the lawful
+
+190
+00:43:48,0 --> 00:43:20,
+captive delivered?
+
+191
+00:43:20,0 --> 00:43:20,0
+17 But thus
+
+192
+00:43:20,0 --> 00:43:20,0
+saith the Lord:
+
+193
+00:43:20,0 --> 00:43:20,0
+Even the captives
+
+194
+00:43:20,0 --> 00:43:20,0
+of the mighty
+
+195
+00:43:20,0 --> 00:43:20,0
+shall be taken
+
+196
+00:43:20,0 --> 00:43:20,0
+away, and the
+
+197
+00:43:20,0 --> 00:43:20,0
+prey of the
+
+198
+00:43:20,0 --> 00:43:20,0
+terrible shall be
+
+199
+00:43:20,0 --> 00:43:20,0
+delivered; for
+
+200
+00:43:20,0 --> 00:43:20,0
+the Mighty God
+
+201
+00:43:20,0 --> 00:43:20,0
+shall deliver
+
+202
+00:43:20,0 --> 00:43:20,0
+his covenant
+
+203
+00:43:20,0 --> 00:43:20,0
+people. For thus
+
+204
+00:43:20,0 --> 00:43:20,0
+saith the Lord: I
+
+205
+00:43:20,0 --> 00:43:20,0
+will contend
+
+206
+00:43:20,0 --> 00:43:20,0
+with them that
+
+207
+00:43:20,0 --> 00:42:52,
+contendeth with thee—
+
+208
+00:42:52,0 --> 00:42:52,0
+18 And I will
+
+209
+00:42:52,0 --> 00:42:52,0
+feed them that
+
+210
+00:42:52,0 --> 00:42:52,0
+oppress thee,
+
+211
+00:42:52,0 --> 00:42:52,0
+with their
+
+212
+00:42:52,0 --> 00:42:52,0
+own flesh; and
+
+213
+00:42:52,0 --> 00:42:52,0
+they shall be
+
+214
+00:42:52,0 --> 00:42:52,0
+drunken with
+
+215
+00:42:52,0 --> 00:42:52,0
+their own blood
+
+216
+00:42:52,0 --> 00:42:52,0
+as with sweet
+
+217
+00:42:52,0 --> 00:42:52,0
+wine; and all
+
+218
+00:42:52,0 --> 00:42:52,0
+flesh shall
+
+219
+00:42:52,0 --> 00:42:52,0
+know that I the
+
+220
+00:42:52,0 --> 00:42:52,0
+Lord am thy
+
+221
+00:42:52,0 --> 00:42:52,0
+Savior and thy
+
+222
+00:42:52,0 --> 00:42:52,0
+Redeemer, the
+
+223
+00:42:52,0 --> 00:44:36,
+Mighty One of Jacob. 
 

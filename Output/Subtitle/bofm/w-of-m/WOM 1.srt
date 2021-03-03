@@ -1,372 +1,912 @@
 1
-00:00:00,0 --> 00:00:31,75
-The Words of MormonChapter 1 Mormon abridges the
+00:00:00,0 --> 00:00:00,0
+The Words of MormonChapter 1 Mormon abridges
 
 2
-00:00:31,75 --> 00:01:03,5
- large plates of Nephi—He puts the small plates with
+00:00:00,0 --> 00:00:00,0
+the large plates of Nephi—He puts the small
 
 3
-00:01:03,5 --> 00:01:35,25
- the other plates—King Benjamin establishes peace
+00:00:00,0 --> 00:00:00,0
+plates with the other plates—King Benjamin
 
 4
-00:01:35,25 --> 00:02:07,0
- in the land. About A.D. 385.
+00:00:00,0 --> 00:06:55,
+establishes peace in the land. About A.D. 385. 
 
 5
-00:02:07,594 --> 00:02:15,594
-1 And now I, Mormon, being about to deliver up the
+00:06:55,0 --> 00:06:55,0
+1 And now I, Mormon, being about to
 
 6
-00:02:15,594 --> 00:02:23,594
- record which I have been making into the hands of
+00:06:55,0 --> 00:06:55,0
+deliver up the record which I have been
 
 7
-00:02:23,594 --> 00:02:31,594
- my son Moroni, behold I have witnessed almost all
+00:06:55,0 --> 00:06:55,0
+making into the hands of my son
 
 8
-00:02:31,594 --> 00:02:39,594
- the destruction of my people, the Nephites
+00:06:55,0 --> 00:06:55,0
+Moroni, behold I have witnessed almost all
 
 9
-00:02:39,493 --> 00:02:39,618
-2 And it is many hundred years after the coming of
+00:06:55,0 --> 00:08:25,
+the destruction of my people, the Nephites.
 
 10
-00:02:39,618 --> 00:02:39,743
- Christ that I deliver these records into the
+00:08:25,0 --> 00:08:25,0
+2 And it is many hundred years
 
 11
-00:02:39,743 --> 00:02:39,868
- hands of my son; and it supposeth me that he will
+00:08:25,0 --> 00:08:25,0
+after the coming of Christ that I
 
 12
-00:02:39,868 --> 00:02:39,993
- witness the entire destruction of my people. But may
+00:08:25,0 --> 00:08:25,0
+deliver these records into the hands of
 
 13
-00:02:39,993 --> 00:02:40,118
- God grant that he may survive them, that he may
+00:08:25,0 --> 00:08:25,0
+my son; and it supposeth me that he
 
 14
-00:02:40,118 --> 00:02:40,243
- write somewhat concerning them, and somewhat
+00:08:25,0 --> 00:08:25,0
+will witness the entire
 
 15
-00:02:40,243 --> 00:02:40,368
- concerning Christ, that perhaps some day it may profit
+00:08:25,0 --> 00:08:25,0
+destruction of my people. But may God grant
 
 16
-00:02:40,368 --> 00:02:40,493
- them
+00:08:25,0 --> 00:08:25,0
+that he may survive them, that he
 
 17
-00:02:40,594 --> 00:02:44,261
-3 And now, I speak somewhat concerning that which
+00:08:25,0 --> 00:08:25,0
+may write somewhat concerning them,
 
 18
-00:02:44,261 --> 00:02:47,928
- I have written; for after I had made an abridgment
+00:08:25,0 --> 00:08:25,0
+and somewhat concerning Christ, that
 
 19
-00:02:47,928 --> 00:02:51,595
- from the plates of Nephi, down to the reign of
+00:08:25,0 --> 00:10:09,
+perhaps some day it may profit them.
 
 20
-00:02:51,595 --> 00:02:55,262
- this king Benjamin, of whom Amaleki spake, I
+00:10:09,0 --> 00:10:09,0
+3 And now, I speak somewhat
 
 21
-00:02:55,262 --> 00:02:58,929
- searched among the records which had been delivered into
+00:10:09,0 --> 00:10:09,0
+concerning that which I have
 
 22
-00:02:58,929 --> 00:03:02,596
- my hands, and I found these plates, which
+00:10:09,0 --> 00:10:09,0
+written; for after I had made an
 
 23
-00:03:02,596 --> 00:03:06,263
- contained this small account of the prophets, from Jacob
+00:10:09,0 --> 00:10:09,0
+abridgment from the plates of Nephi,
 
 24
-00:03:06,263 --> 00:03:09,93
- down to the reign of this king Benjamin, and also
+00:10:09,0 --> 00:10:09,0
+down to the reign of this king
 
 25
-00:03:09,93 --> 00:03:13,597
- many of the words of Nephi
+00:10:09,0 --> 00:10:09,0
+Benjamin, of whom Amaleki spake, I
 
 26
-00:03:13,727 --> 00:03:25,156
-4 And the things which are upon these plates
+00:10:09,0 --> 00:10:09,0
+searched among the records
 
 27
-00:03:25,156 --> 00:03:36,585
- pleasing me, because of the prophecies of the coming of
+00:10:09,0 --> 00:10:09,0
+which had been delivered into my
 
 28
-00:03:36,585 --> 00:03:48,014
- Christ; and my fathers knowing that many of them
+00:10:09,0 --> 00:10:09,0
+hands, and I found these plates,
 
 29
-00:03:48,014 --> 00:03:59,443
- have been fulfilled; yea, and I also know that as
+00:10:09,0 --> 00:10:09,0
+which contained this small account
 
 30
-00:03:59,443 --> 00:04:10,872
- many things as have been prophesied concerning us
+00:10:09,0 --> 00:10:09,0
+of the prophets, from Jacob
 
 31
-00:04:10,872 --> 00:04:22,301
- down to this day have been fulfilled, and as many
+00:10:09,0 --> 00:10:09,0
+down to the reign of this king
 
 32
-00:04:22,301 --> 00:04:33,73
- as go beyond this day must surely come to pass
+00:10:09,0 --> 00:11:53,
+Benjamin, and also many of the words of Nephi.
 
 33
-00:04:33,473 --> 00:04:33,723
-5 Wherefore, I chose these things, to finish my
+00:11:53,0 --> 00:11:53,0
+4 And the things which are upon
 
 34
-00:04:33,723 --> 00:04:33,973
- record upon them, which remainder of my record I
+00:11:53,0 --> 00:11:53,0
+these plates pleasing me,
 
 35
-00:04:33,973 --> 00:04:34,223
- shall take from the plates of Nephi; and I cannot
+00:11:53,0 --> 00:11:53,0
+because of the prophecies of the
 
 36
-00:04:34,223 --> 00:04:34,473
- write the hundredth part of the things of my people
+00:11:53,0 --> 00:11:53,0
+coming of Christ; and my fathers
 
 37
-00:04:34,207 --> 00:04:40,007
-6 But behold, I shall take these plates, which
+00:11:53,0 --> 00:11:53,0
+knowing that many of them have
 
 38
-00:04:40,007 --> 00:04:45,807
- contain these prophesyings and revelations, and put
+00:11:53,0 --> 00:11:53,0
+been fulfilled; yea, and I also
 
 39
-00:04:45,807 --> 00:04:51,607
- them with the remainder of my record, for they are
+00:11:53,0 --> 00:11:53,0
+know that as many things as
 
 40
-00:04:51,607 --> 00:04:57,407
- choice unto me; and I know they will be choice
+00:11:53,0 --> 00:11:53,0
+have been prophesied concerning
 
 41
-00:04:57,407 --> 00:05:03,207
- unto my brethren
+00:11:53,0 --> 00:11:53,0
+us down to this day have been
 
 42
-00:05:03,77 --> 00:05:18,437
-7 And I do this for a wise purpose; for thus it
+00:11:53,0 --> 00:11:53,0
+fulfilled, and as many as go
 
 43
-00:05:18,437 --> 00:05:33,104
- whispereth me, according to the workings of the
+00:11:53,0 --> 00:16:50,
+beyond this day must surely come to pass—
 
 44
-00:05:33,104 --> 00:05:47,771
- Spirit of the Lord which is in me. And now, I do not
+00:16:50,0 --> 00:16:50,0
+5 Wherefore, I chose these
 
 45
-00:05:47,771 --> 00:06:02,438
- know all things; but the Lord knoweth all things
+00:16:50,0 --> 00:16:50,0
+things, to finish my record
 
 46
-00:06:02,438 --> 00:06:17,105
- which are to come; wherefore, he worketh in me to do
+00:16:50,0 --> 00:16:50,0
+upon them, which remainder of
 
 47
-00:06:17,105 --> 00:06:31,772
- according to his will
+00:16:50,0 --> 00:16:50,0
+my record I shall take from
 
 48
-00:06:31,491 --> 00:06:33,491
-8 And my prayer to God is concerning my brethren,
+00:16:50,0 --> 00:16:50,0
+the plates of Nephi; and I
 
 49
-00:06:33,491 --> 00:06:35,491
- that they may once again come to the knowledge of
+00:16:50,0 --> 00:16:50,0
+cannot write the hundredth
 
 50
-00:06:35,491 --> 00:06:37,491
- God, yea, the redemption of Christ; that they may
+00:16:50,0 --> 00:16:22,
+part of the things of my people.
 
 51
-00:06:37,491 --> 00:06:39,491
- once again be a delightsome people
+00:16:22,0 --> 00:16:22,0
+6 But behold, I shall take
 
 52
-00:06:39,466 --> 00:06:59,466
-9 And now I, Mormon, proceed to finish out my
+00:16:22,0 --> 00:16:22,0
+these plates, which
 
 53
-00:06:59,466 --> 00:07:19,466
- record, which I take from the plates of Nephi; and I
+00:16:22,0 --> 00:16:22,0
+contain these prophesyings and
 
 54
-00:07:19,466 --> 00:07:39,466
- make it according to the knowledge and the
+00:16:22,0 --> 00:16:22,0
+revelations, and put them
 
 55
-00:07:39,466 --> 00:07:59,466
- understanding which God has given me
+00:16:22,0 --> 00:16:22,0
+with the remainder of my
 
 56
-00:07:59,212 --> 00:08:17,712
-10 Wherefore, it came to pass that after Amaleki
+00:16:22,0 --> 00:16:22,0
+record, for they are choice
 
 57
-00:08:17,712 --> 00:08:36,212
- had delivered up these plates into the hands of
+00:16:22,0 --> 00:16:22,0
+unto me; and I know they
 
 58
-00:08:36,212 --> 00:08:54,712
- king Benjamin, he took them and put them with the
+00:16:22,0 --> 00:15:54,
+will be choice unto my brethren.
 
 59
-00:08:54,712 --> 00:09:13,212
- other plates, which contained records which had been
+00:15:54,0 --> 00:15:54,0
+7 And I do this for a
 
 60
-00:09:13,212 --> 00:09:31,712
- handed down by the kings, from generation to
+00:15:54,0 --> 00:15:54,0
+wise purpose; for thus it
 
 61
-00:09:31,712 --> 00:09:50,212
- generation until the days of king Benjamin
+00:15:54,0 --> 00:15:54,0
+whispereth me, according
 
 62
-00:09:50,857 --> 00:09:55,301
-11 And they were handed down from king Benjamin,
+00:15:54,0 --> 00:15:54,0
+to the workings of the
 
 63
-00:09:55,301 --> 00:09:59,745
- from generation to generation until they have
+00:15:54,0 --> 00:15:54,0
+Spirit of the Lord which
 
 64
-00:09:59,745 --> 00:10:04,189
- fallen into my hands. And I, Mormon, pray to God that
+00:15:54,0 --> 00:15:54,0
+is in me. And now, I do
 
 65
-00:10:04,189 --> 00:10:08,633
- they may be preserved from this time henceforth.
+00:15:54,0 --> 00:15:54,0
+not know all things;
 
 66
-00:10:08,633 --> 00:10:13,077
- And I know that they will be preserved; for there
+00:15:54,0 --> 00:15:54,0
+but the Lord knoweth all
 
 67
-00:10:13,077 --> 00:10:17,521
- are great things written upon them, out of which my
+00:15:54,0 --> 00:15:54,0
+things which are to come;
 
 68
-00:10:17,521 --> 00:10:21,965
- people and their brethren shall be judged at the
+00:15:54,0 --> 00:15:54,0
+wherefore, he worketh
 
 69
-00:10:21,965 --> 00:10:26,409
- great and last day, according to the word of God
+00:15:54,0 --> 00:16:08,
+in me to do according to his will.
 
 70
-00:10:26,409 --> 00:10:30,853
- which is written
+00:16:08,0 --> 00:16:08,0
+8 And my prayer to God
 
 71
-00:10:30,73 --> 00:11:10,73
-12 And now, concerning this king Benjamin—he had
+00:16:08,0 --> 00:16:08,0
+is concerning my
 
 72
-00:11:10,73 --> 00:11:50,73
- somewhat of contentions among his own people
+00:16:08,0 --> 00:16:08,0
+brethren, that they may once
 
 73
-00:02:07,594 --> 00:02:18,261
-15 And it came to pass that after there had been
+00:16:08,0 --> 00:16:08,0
+again come to the
 
 74
-00:02:18,261 --> 00:02:28,928
- false Christs, and their mouths had been shut, and
+00:16:08,0 --> 00:16:08,0
+knowledge of God, yea, the
 
 75
-00:02:28,928 --> 00:02:39,595
- they punished according to their crimes
+00:16:08,0 --> 00:16:08,0
+redemption of Christ;
 
 76
-00:02:39,493 --> 00:02:40,493
-16 And after there had been false prophets, and
+00:16:08,0 --> 00:16:08,0
+that they may once again
 
 77
-00:02:40,493 --> 00:02:41,493
- false preachers and teachers among the people, and
+00:16:08,0 --> 00:18:20,
+be a delightsome people.
 
 78
-00:02:41,493 --> 00:02:42,493
- all these having been punished according to their
+00:18:20,0 --> 00:18:20,0
+9 And now I, Mormon,
 
 79
-00:02:42,493 --> 00:02:43,493
- crimes; and after there having been much contention
+00:18:20,0 --> 00:18:20,0
+proceed to finish out
 
 80
-00:02:43,493 --> 00:02:44,493
- and many dissensions away unto the Lamanites,
+00:18:20,0 --> 00:18:20,0
+my record, which I take
 
 81
-00:02:44,493 --> 00:02:45,493
- behold, it came to pass that king Benjamin, with the
+00:18:20,0 --> 00:18:20,0
+from the plates of
 
 82
-00:02:45,493 --> 00:02:46,493
- assistance of the holy prophets who were among his
+00:18:20,0 --> 00:18:20,0
+Nephi; and I make it
 
 83
-00:02:46,493 --> 00:02:47,493
- people
+00:18:20,0 --> 00:18:20,0
+according to the
 
 84
-00:02:47,467 --> 00:02:50,134
-17 For behold, king Benjamin was a holy man, and
+00:18:20,0 --> 00:18:20,0
+knowledge and the
 
 85
-00:02:50,134 --> 00:02:52,801
- he did reign over his people in righteousness; and
+00:18:20,0 --> 00:33:48,
+understanding which God has given me.
 
 86
-00:02:52,801 --> 00:02:55,468
- there were many holy men in the land, and they did
+00:33:48,0 --> 00:33:48,0
+10 Wherefore, it
 
 87
-00:02:55,468 --> 00:02:58,135
- speak the word of God with power and with
+00:33:48,0 --> 00:33:48,0
+came to pass that after
 
 88
-00:02:58,135 --> 00:03:00,802
- authority; and they did use much sharpness because of the
+00:33:48,0 --> 00:33:48,0
+Amaleki had
 
 89
-00:03:00,802 --> 00:03:03,469
- stiffneckedness of the people
+00:33:48,0 --> 00:33:48,0
+delivered up these plates
 
 90
-00:03:03,417 --> 00:03:03,667
-18 Wherefore, with the help of these, king
+00:33:48,0 --> 00:33:48,0
+into the hands of
 
 91
-00:03:03,667 --> 00:03:03,917
- Benjamin, by laboring with all the might of his body and
+00:33:48,0 --> 00:33:48,0
+king Benjamin, he took
 
 92
-00:03:03,917 --> 00:03:04,167
- the faculty of his whole soul, and also the
+00:33:48,0 --> 00:33:48,0
+them and put them
 
 93
-00:03:04,167 --> 00:03:04,417
- prophets, did once more establish peace in the land.
+00:33:48,0 --> 00:33:48,0
+with the other plates,
+
+94
+00:33:48,0 --> 00:33:48,0
+which contained
+
+95
+00:33:48,0 --> 00:33:48,0
+records which had been
+
+96
+00:33:48,0 --> 00:33:48,0
+handed down by the
+
+97
+00:33:48,0 --> 00:33:48,0
+kings, from
+
+98
+00:33:48,0 --> 00:33:48,0
+generation to generation
+
+99
+00:33:48,0 --> 00:43:43,
+until the days of king Benjamin.
+
+100
+00:43:43,0 --> 00:43:43,0
+11 And they were
+
+101
+00:43:43,0 --> 00:43:43,0
+handed down from king
+
+102
+00:43:43,0 --> 00:43:43,0
+Benjamin, from
+
+103
+00:43:43,0 --> 00:43:43,0
+generation to
+
+104
+00:43:43,0 --> 00:43:43,0
+generation until they have
+
+105
+00:43:43,0 --> 00:43:43,0
+fallen into my
+
+106
+00:43:43,0 --> 00:43:43,0
+hands. And I, Mormon,
+
+107
+00:43:43,0 --> 00:43:43,0
+pray to God that
+
+108
+00:43:43,0 --> 00:43:43,0
+they may be preserved
+
+109
+00:43:43,0 --> 00:43:43,0
+from this time
+
+110
+00:43:43,0 --> 00:43:43,0
+henceforth. And I know
+
+111
+00:43:43,0 --> 00:43:43,0
+that they will be
+
+112
+00:43:43,0 --> 00:43:43,0
+preserved; for there
+
+113
+00:43:43,0 --> 00:43:43,0
+are great things
+
+114
+00:43:43,0 --> 00:43:43,0
+written upon them,
+
+115
+00:43:43,0 --> 00:43:43,0
+out of which my
+
+116
+00:43:43,0 --> 00:43:43,0
+people and their
+
+117
+00:43:43,0 --> 00:43:43,0
+brethren shall be judged
+
+118
+00:43:43,0 --> 00:43:43,0
+at the great and
+
+119
+00:43:43,0 --> 00:43:43,0
+last day, according
+
+120
+00:43:43,0 --> 00:54:36,
+to the word of God which is written.
+
+121
+00:54:36,0 --> 00:54:36,0
+12 And now,
+
+122
+00:54:36,0 --> 00:54:36,0
+concerning this king
+
+123
+00:54:36,0 --> 00:54:36,0
+Benjamin—he had
+
+124
+00:54:36,0 --> 00:54:36,0
+somewhat of contentions
+
+125
+00:54:36,0 --> 00:59:46,
+among his own people.
+
+126
+00:59:46,0 --> 00:59:46,0
+13 And it came to
+
+127
+00:59:46,0 --> 00:59:46,0
+pass also that
+
+128
+00:59:46,0 --> 00:59:46,0
+the armies of the
+
+129
+00:59:46,0 --> 00:59:46,0
+Lamanites came
+
+130
+00:59:46,0 --> 00:59:46,0
+down out of the
+
+131
+00:59:46,0 --> 00:59:46,0
+land of Nephi, to
+
+132
+00:59:46,0 --> 00:59:46,0
+battle against his
+
+133
+00:59:46,0 --> 00:59:46,0
+people. But
+
+134
+00:59:46,0 --> 00:59:46,0
+behold, king Benjamin
+
+135
+00:59:46,0 --> 00:59:46,0
+gathered together
+
+136
+00:59:46,0 --> 00:59:46,0
+his armies, and
+
+137
+00:59:46,0 --> 00:59:46,0
+he did stand
+
+138
+00:59:46,0 --> 00:59:46,0
+against them; and he
+
+139
+00:59:46,0 --> 00:59:46,0
+did fight with
+
+140
+00:59:46,0 --> 00:59:46,0
+the strength of his
+
+141
+00:59:46,0 --> 00:59:46,0
+own arm, with
+
+142
+00:59:46,0 --> 01:09:13,
+the sword of Laban.
+
+143
+01:09:13,0 --> 01:09:13,0
+14 And in the
+
+144
+01:09:13,0 --> 01:09:13,0
+strength of the
+
+145
+01:09:13,0 --> 01:09:13,0
+Lord they did
+
+146
+01:09:13,0 --> 01:09:13,0
+contend against
+
+147
+01:09:13,0 --> 01:09:13,0
+their enemies, until
+
+148
+01:09:13,0 --> 01:09:13,0
+they had slain
+
+149
+01:09:13,0 --> 01:09:13,0
+many thousands
+
+150
+01:09:13,0 --> 01:09:13,0
+of the Lamanites.
+
+151
+01:09:13,0 --> 01:09:13,0
+And it came to
+
+152
+01:09:13,0 --> 01:09:13,0
+pass that they
+
+153
+01:09:13,0 --> 01:09:13,0
+did contend
+
+154
+01:09:13,0 --> 01:09:13,0
+against the Lamanites
+
+155
+01:09:13,0 --> 01:09:13,0
+until they had
+
+156
+01:09:13,0 --> 01:09:13,0
+driven them out
+
+157
+01:09:13,0 --> 01:09:13,0
+of all the lands
+
+158
+01:09:13,0 --> 01:30:19,
+of their inheritance.
+
+159
+01:30:19,0 --> 01:30:19,0
+15 And it came
+
+160
+01:30:19,0 --> 01:30:19,0
+to pass that
+
+161
+01:30:19,0 --> 01:30:19,0
+after there had
+
+162
+01:30:19,0 --> 01:30:19,0
+been false
+
+163
+01:30:19,0 --> 01:30:19,0
+Christs, and their
+
+164
+01:30:19,0 --> 01:30:19,0
+mouths had been
+
+165
+01:30:19,0 --> 01:30:19,0
+shut, and they
+
+166
+01:30:19,0 --> 01:30:19,0
+punished
+
+167
+01:30:19,0 --> 01:31:49,
+according to their crimes;
+
+168
+01:31:49,0 --> 01:31:49,0
+16 And after
+
+169
+01:31:49,0 --> 01:31:49,0
+there had been
+
+170
+01:31:49,0 --> 01:31:49,0
+false
+
+171
+01:31:49,0 --> 01:31:49,0
+prophets, and false
+
+172
+01:31:49,0 --> 01:31:49,0
+preachers and
+
+173
+01:31:49,0 --> 01:31:49,0
+teachers among
+
+174
+01:31:49,0 --> 01:31:49,0
+the people, and
+
+175
+01:31:49,0 --> 01:31:49,0
+all these
+
+176
+01:31:49,0 --> 01:31:49,0
+having been
+
+177
+01:31:49,0 --> 01:31:49,0
+punished according
+
+178
+01:31:49,0 --> 01:31:49,0
+to their
+
+179
+01:31:49,0 --> 01:31:49,0
+crimes; and after
+
+180
+01:31:49,0 --> 01:31:49,0
+there having
+
+181
+01:31:49,0 --> 01:31:49,0
+been much
+
+182
+01:31:49,0 --> 01:31:49,0
+contention and many
+
+183
+01:31:49,0 --> 01:31:49,0
+dissensions
+
+184
+01:31:49,0 --> 01:31:49,0
+away unto the
+
+185
+01:31:49,0 --> 01:31:49,0
+Lamanites,
+
+186
+01:31:49,0 --> 01:31:49,0
+behold, it came to
+
+187
+01:31:49,0 --> 01:31:49,0
+pass that king
+
+188
+01:31:49,0 --> 01:31:49,0
+Benjamin,
+
+189
+01:31:49,0 --> 01:31:49,0
+with the
+
+190
+01:31:49,0 --> 01:31:49,0
+assistance of the holy
+
+191
+01:31:49,0 --> 01:35:20,
+prophets who were among his people—
+
+192
+01:35:20,0 --> 01:35:20,0
+17 For
+
+193
+01:35:20,0 --> 01:35:20,0
+behold, king
+
+194
+01:35:20,0 --> 01:35:20,0
+Benjamin was a holy
+
+195
+01:35:20,0 --> 01:35:20,0
+man, and he
+
+196
+01:35:20,0 --> 01:35:20,0
+did reign
+
+197
+01:35:20,0 --> 01:35:20,0
+over his people
+
+198
+01:35:20,0 --> 01:35:20,0
+in
+
+199
+01:35:20,0 --> 01:35:20,0
+righteousness; and
+
+200
+01:35:20,0 --> 01:35:20,0
+there were many
+
+201
+01:35:20,0 --> 01:35:20,0
+holy men in
+
+202
+01:35:20,0 --> 01:35:20,0
+the land, and
+
+203
+01:35:20,0 --> 01:35:20,0
+they did speak
+
+204
+01:35:20,0 --> 01:35:20,0
+the word of
+
+205
+01:35:20,0 --> 01:35:20,0
+God with
+
+206
+01:35:20,0 --> 01:35:20,0
+power and with
+
+207
+01:35:20,0 --> 01:35:20,0
+authority; and
+
+208
+01:35:20,0 --> 01:35:20,0
+they did use
+
+209
+01:35:20,0 --> 01:35:20,0
+much
+
+210
+01:35:20,0 --> 01:35:20,0
+sharpness because of
+
+211
+01:35:20,0 --> 01:35:20,0
+the
+
+212
+01:35:20,0 --> 02:00:26,
+stiffneckedness of the people—
+
+213
+02:00:26,0 --> 02:00:26,0
+18
+
+214
+02:00:26,0 --> 02:00:26,0
+Wherefore, with the
+
+215
+02:00:26,0 --> 02:00:26,0
+help of
+
+216
+02:00:26,0 --> 02:00:26,0
+these, king
+
+217
+02:00:26,0 --> 02:00:26,0
+Benjamin, by
+
+218
+02:00:26,0 --> 02:00:26,0
+laboring with
+
+219
+02:00:26,0 --> 02:00:26,0
+all the might
+
+220
+02:00:26,0 --> 02:00:26,0
+of his body
+
+221
+02:00:26,0 --> 02:00:26,0
+and the
+
+222
+02:00:26,0 --> 02:00:26,0
+faculty of his
+
+223
+02:00:26,0 --> 02:00:26,0
+whole soul,
+
+224
+02:00:26,0 --> 02:00:26,0
+and also the
+
+225
+02:00:26,0 --> 02:00:26,0
+prophets,
+
+226
+02:00:26,0 --> 02:00:26,0
+did once more
+
+227
+02:00:26,0 --> 02:00:26,0
+establish
+
+228
+02:00:26,0 --> 02:00:12,
+peace in the land. 
 

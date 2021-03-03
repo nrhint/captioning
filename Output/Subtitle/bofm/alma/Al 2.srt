@@ -1,744 +1,9400 @@
 1
-00:00:00,0 --> 00:00:08,833
-Chapter 2 Amlici seeks to be king and is rejected
+00:00:00,0 --> 00:00:00,0
+Chapter 2 Amlici seeks to be king and is
 
 2
-00:00:08,833 --> 00:00:17,666
- by the voice of the people—His followers make him
+00:00:00,0 --> 00:00:00,0
+rejected by the voice of the people—His
 
 3
-00:00:17,666 --> 00:00:26,499
- king—The Amlicites make war on the Nephites and
+00:00:00,0 --> 00:00:00,0
+followers make him king—The Amlicites make
 
 4
-00:00:26,499 --> 00:00:35,332
- are defeated—The Lamanites and Amlicites join forces
+00:00:00,0 --> 00:00:00,0
+war on the Nephites and are defeated—The
 
 5
-00:00:35,332 --> 00:00:44,165
- and are defeated—Alma slays Amlici. About 87 B.C.
+00:00:00,0 --> 00:00:00,0
+Lamanites and Amlicites join forces and
 
 6
-00:00:44,165 --> 00:00:52,998
-
+00:00:00,0 --> 00:03:45,
+are defeated—Alma slays Amlici. About 87 B.C. 
 
 7
-00:00:53,854 --> 00:00:59,997
-1 And it came to pass in the commencement of the
+00:03:45,0 --> 00:03:45,0
+1 And it came to pass in the
 
 8
-00:00:59,997 --> 00:01:06,14
- fifth year of their reign there began to be a
+00:03:45,0 --> 00:03:45,0
+commencement of the fifth year of their reign
 
 9
-00:01:06,14 --> 00:01:12,283
- contention among the people; for a certain man, being
+00:03:45,0 --> 00:03:45,0
+there began to be a contention among
 
 10
-00:01:12,283 --> 00:01:18,426
- called Amlici, he being a very cunning man, yea, a
+00:03:45,0 --> 00:03:45,0
+the people; for a certain man, being
 
 11
-00:01:18,426 --> 00:01:24,569
- wise man as to the wisdom of the world, he being
+00:03:45,0 --> 00:03:45,0
+called Amlici, he being a very cunning
 
 12
-00:01:24,569 --> 00:01:30,712
- after the order of the man that slew Gideon by the
+00:03:45,0 --> 00:03:45,0
+man, yea, a wise man as to the wisdom of
 
 13
-00:01:30,712 --> 00:01:36,855
- sword, who was executed according to the law
+00:03:45,0 --> 00:03:45,0
+the world, he being after the order
 
 14
-00:01:36,063 --> 00:01:43,313
-2 Now this Amlici had, by his cunning, drawn away
+00:03:45,0 --> 00:03:45,0
+of the man that slew Gideon by the
 
 15
-00:01:43,313 --> 00:01:50,563
- much people after him; even so much that they
+00:03:45,0 --> 00:07:16,
+sword, who was executed according to the law—
 
 16
-00:01:50,563 --> 00:01:57,813
- began to be very powerful; and they began to endeavor
+00:07:16,0 --> 00:07:16,0
+2 Now this Amlici had, by his
 
 17
-00:01:57,813 --> 00:02:05,063
- to establish Amlici to be a king over the people
+00:07:16,0 --> 00:07:16,0
+cunning, drawn away much people
 
 18
-00:02:05,759 --> 00:02:11,159
-3 Now this was alarming to the people of the
+00:07:16,0 --> 00:07:16,0
+after him; even so much that they
 
 19
-00:02:11,159 --> 00:02:16,559
- church, and also to all those who had not been drawn
+00:07:16,0 --> 00:07:16,0
+began to be very powerful; and they
 
 20
-00:02:16,559 --> 00:02:21,959
- away after the persuasions of Amlici; for they knew
+00:07:16,0 --> 00:07:16,0
+began to endeavor to establish
 
 21
-00:02:21,959 --> 00:02:27,359
- that according to their law that such things must
+00:07:16,0 --> 00:14:24,
+Amlici to be a king over the people.
 
 22
-00:02:27,359 --> 00:02:32,759
- be established by the voice of the people
+00:14:24,0 --> 00:14:24,0
+3 Now this was alarming to the
 
 23
-00:02:32,319 --> 00:02:37,719
-4 Therefore, if it were possible that Amlici
+00:14:24,0 --> 00:14:24,0
+people of the church, and
 
 24
-00:02:37,719 --> 00:02:43,119
- should gain the voice of the people, he, being a wicked
+00:14:24,0 --> 00:14:24,0
+also to all those who had not
 
 25
-00:02:43,119 --> 00:02:48,519
- man, would deprive them of their rights and
+00:14:24,0 --> 00:14:24,0
+been drawn away after the
 
 26
-00:02:48,519 --> 00:02:53,919
- privileges of the church; for it was his intent to
+00:14:24,0 --> 00:14:24,0
+persuasions of Amlici; for they knew
 
 27
-00:02:53,919 --> 00:02:59,319
- destroy the church of God
+00:14:24,0 --> 00:14:24,0
+that according to their law
 
 28
-00:02:59,146 --> 00:03:04,546
-5 And it came to pass that the people assembled
+00:14:24,0 --> 00:14:24,0
+that such things must be
 
 29
-00:03:04,546 --> 00:03:09,946
- themselves together throughout all the land, every
+00:14:24,0 --> 00:13:56,
+established by the voice of the people.
 
 30
-00:03:09,946 --> 00:03:15,346
- man according to his mind, whether it were for or
+00:13:56,0 --> 00:13:56,0
+4 Therefore, if it were
 
 31
-00:03:15,346 --> 00:03:20,746
- against Amlici, in separate bodies, having much
+00:13:56,0 --> 00:13:56,0
+possible that Amlici should
 
 32
-00:03:20,746 --> 00:03:26,146
- dispute and wonderful contentions one with another
+00:13:56,0 --> 00:13:56,0
+gain the voice of the people,
 
 33
-00:03:26,84 --> 00:03:31,507
-6 And thus they did assemble themselves together
+00:13:56,0 --> 00:13:56,0
+he, being a wicked man,
 
 34
-00:03:31,507 --> 00:03:36,174
- to cast in their voices concerning the matter; and
+00:13:56,0 --> 00:13:56,0
+would deprive them of their
 
 35
-00:03:36,174 --> 00:03:40,841
- they were laid before the judges
+00:13:56,0 --> 00:13:56,0
+rights and privileges of the
 
 36
-00:03:40,854 --> 00:03:45,521
-7 And it came to pass that the voice of the people
+00:13:56,0 --> 00:13:56,0
+church; for it was his
 
 37
-00:03:45,521 --> 00:03:50,188
- came against Amlici, that he was not made king
+00:13:56,0 --> 00:14:40,
+intent to destroy the church of God.
 
 38
-00:03:50,188 --> 00:03:54,855
- over the people
+00:14:40,0 --> 00:14:40,0
+5 And it came to pass
 
 39
-00:03:54,634 --> 00:04:00,134
-8 Now this did cause much joy in the hearts of
+00:14:40,0 --> 00:14:40,0
+that the people assembled
 
 40
-00:04:00,134 --> 00:04:05,634
- those who were against him; but Amlici did stir up
+00:14:40,0 --> 00:14:40,0
+themselves together
 
 41
-00:04:05,634 --> 00:04:11,134
- those who were in his favor to anger against those
+00:14:40,0 --> 00:14:40,0
+throughout all the land,
 
 42
-00:04:11,134 --> 00:04:16,634
- who were not in his favor
+00:14:40,0 --> 00:14:40,0
+every man according to his
 
 43
-00:04:16,356 --> 00:04:19,689
-9 And it came to pass that they gathered
+00:14:40,0 --> 00:14:40,0
+mind, whether it were
 
 44
-00:04:19,689 --> 00:04:23,022
- themselves together, and did consecrate Amlici to be their
+00:14:40,0 --> 00:14:40,0
+for or against Amlici, in
 
 45
-00:04:23,022 --> 00:04:26,355
- king
+00:14:40,0 --> 00:14:40,0
+separate bodies, having
 
 46
-00:04:26,9 --> 00:04:33,15
-10 Now when Amlici was made king over them he
+00:14:40,0 --> 00:14:40,0
+much dispute and
 
 47
-00:04:33,15 --> 00:04:39,4
- commanded them that they should take up arms against
+00:14:40,0 --> 00:14:12,
+wonderful contentions one with another.
 
 48
-00:04:39,4 --> 00:04:45,65
- their brethren; and this he did that he might
+00:14:12,0 --> 00:14:12,0
+6 And thus they did
 
 49
-00:04:45,65 --> 00:04:51,9
- subject them to him
+00:14:12,0 --> 00:14:12,0
+assemble themselves
 
 50
-00:04:51,658 --> 00:04:58,658
-11 Now the people of Amlici were distinguished by
+00:14:12,0 --> 00:14:12,0
+together to cast in their
 
 51
-00:04:58,658 --> 00:05:05,658
- the name of Amlici, being called Amlicites; and
+00:14:12,0 --> 00:14:12,0
+voices concerning the
 
 52
-00:05:05,658 --> 00:05:12,658
- the remainder were called Nephites, or the people of
+00:14:12,0 --> 00:14:12,0
+matter; and they were
 
 53
-00:05:12,658 --> 00:05:19,658
- God
+00:14:12,0 --> 00:18:54,
+laid before the judges.
 
 54
-00:05:19,486 --> 00:05:25,057
-12 Therefore the people of the Nephites were aware
+00:18:54,0 --> 00:18:54,0
+7 And it came to
 
 55
-00:05:25,057 --> 00:05:30,628
- of the intent of the Amlicites, and therefore
+00:18:54,0 --> 00:18:54,0
+pass that the voice
 
 56
-00:05:30,628 --> 00:05:36,199
- they did prepare to meet them; yea, they did arm
+00:18:54,0 --> 00:18:54,0
+of the people came
 
 57
-00:05:36,199 --> 00:05:41,77
- themselves with swords, and with cimeters, and with
+00:18:54,0 --> 00:18:54,0
+against Amlici, that
 
 58
-00:05:41,77 --> 00:05:47,341
- bows, and with arrows, and with stones, and with
+00:18:54,0 --> 00:18:54,0
+he was not made
 
 59
-00:05:47,341 --> 00:05:52,912
- slings, and with all manner of weapons of war, of
+00:18:54,0 --> 00:22:25,
+king over the people.
 
 60
-00:05:52,912 --> 00:05:58,483
- every kind
+00:22:25,0 --> 00:22:25,0
+8 Now this did
 
 61
-00:05:58,391 --> 00:06:03,641
-13 And thus they were prepared to meet the
+00:22:25,0 --> 00:22:25,0
+cause much joy in
 
 62
-00:06:03,641 --> 00:06:08,891
- Amlicites at the time of their coming. And there were
+00:22:25,0 --> 00:22:25,0
+the hearts of
 
 63
-00:06:08,891 --> 00:06:14,141
- appointed captains, and higher captains, and chief
+00:22:25,0 --> 00:22:25,0
+those who were
 
 64
-00:06:14,141 --> 00:06:19,391
- captains, according to their numbers
+00:22:25,0 --> 00:22:25,0
+against him; but Amlici
 
 65
-00:06:19,88 --> 00:06:25,079
-14 And it came to pass that Amlici did arm his men
+00:22:25,0 --> 00:22:25,0
+did stir up
 
 66
-00:06:25,079 --> 00:06:30,279
- with all manner of weapons of war of every kind;
+00:22:25,0 --> 00:22:25,0
+those who were in his
 
 67
-00:06:30,279 --> 00:06:35,48
- and he also appointed rulers and leaders over his
+00:22:25,0 --> 00:22:25,0
+favor to anger
 
 68
-00:06:35,48 --> 00:06:40,68
- people, to lead them to war against their
+00:22:25,0 --> 00:22:25,0
+against those who
 
 69
-00:06:40,68 --> 00:06:45,88
- brethren
+00:22:25,0 --> 00:24:09,
+were not in his favor.
 
 70
-00:06:45,605 --> 00:06:51,855
-15 And it came to pass that the Amlicites came
+00:24:09,0 --> 00:24:09,0
+9 And it came
 
 71
-00:06:51,855 --> 00:06:58,105
- upon the hill Amnihu, which was east of the river
+00:24:09,0 --> 00:24:09,0
+to pass that
 
 72
-00:06:58,105 --> 00:07:04,355
- Sidon, which ran by the land of Zarahemla, and there
+00:24:09,0 --> 00:24:09,0
+they gathered
 
 73
-00:07:04,355 --> 00:07:10,605
- they began to make war with the Nephites
+00:24:09,0 --> 00:24:09,0
+themselves
 
 74
-00:07:10,864 --> 00:07:17,064
-16 Now Alma, being the chief judge and the
+00:24:09,0 --> 00:24:09,0
+together, and did
 
 75
-00:07:17,064 --> 00:07:23,264
- governor of the people of Nephi, therefore he went up
+00:24:09,0 --> 00:24:09,0
+consecrate Amlici to
 
 76
-00:07:23,264 --> 00:07:29,464
- with his people, yea, with his captains, and chief
+00:24:09,0 --> 00:26:21,
+be their king.
 
 77
-00:07:29,464 --> 00:07:35,664
- captains, yea, at the head of his armies, against
+00:26:21,0 --> 00:26:21,0
+10 Now when
 
 78
-00:07:35,664 --> 00:07:41,864
- the Amlicites to battle
+00:26:21,0 --> 00:26:21,0
+Amlici was made
 
 79
-00:07:41,561 --> 00:07:47,361
-17 And they began to slay the Amlicites upon the
+00:26:21,0 --> 00:26:21,0
+king over them he
 
 80
-00:07:47,361 --> 00:07:53,161
- hill east of Sidon. And the Amlicites did contend
+00:26:21,0 --> 00:26:21,0
+commanded them
 
 81
-00:07:53,161 --> 00:07:58,961
- with the Nephites with great strength, insomuch
+00:26:21,0 --> 00:26:21,0
+that they
 
 82
-00:07:58,961 --> 00:08:04,761
- that many of the Nephites did fall before the
+00:26:21,0 --> 00:26:21,0
+should take up arms
 
 83
-00:08:04,761 --> 00:08:10,561
- Amlicites
+00:26:21,0 --> 00:26:21,0
+against their
 
 84
-00:08:10,59 --> 00:08:16,09
-18 Nevertheless the Lord did strengthen the hand
+00:26:21,0 --> 00:26:21,0
+brethren; and
 
 85
-00:08:16,09 --> 00:08:21,59
- of the Nephites, that they slew the Amlicites with
+00:26:21,0 --> 00:26:21,0
+this he did that
 
 86
-00:08:21,59 --> 00:08:27,09
- great slaughter, that they began to flee before
+00:26:21,0 --> 00:26:21,0
+he might
 
 87
-00:08:27,09 --> 00:08:32,59
- them
+00:26:21,0 --> 00:29:51,
+subject them to him.
 
 88
-00:08:32,846 --> 00:08:37,703
-19 And it came to pass that the Nephites did
+00:29:51,0 --> 00:29:51,0
+11 Now the
 
 89
-00:08:37,703 --> 00:08:42,56
- pursue the Amlicites all that day, and did slay them
+00:29:51,0 --> 00:29:51,0
+people of Amlici
 
 90
-00:08:42,56 --> 00:08:47,417
- with much slaughter, insomuch that there were slain
+00:29:51,0 --> 00:29:51,0
+were
 
 91
-00:08:47,417 --> 00:08:52,274
- of the Amlicites twelve thousand five hundred
+00:29:51,0 --> 00:29:51,0
+distinguished by the
 
 92
-00:08:52,274 --> 00:08:57,131
- thirty and two souls; and there were slain of the
+00:29:51,0 --> 00:29:51,0
+name of Amlici,
 
 93
-00:08:57,131 --> 00:09:01,988
- Nephites six thousand five hundred sixty and two
+00:29:51,0 --> 00:29:51,0
+being called
 
 94
-00:09:01,988 --> 00:09:06,845
- souls
+00:29:51,0 --> 00:29:51,0
+Amlicites; and
 
 95
-00:09:06,846 --> 00:09:12,989
-20 And it came to pass that when Alma could pursue
+00:29:51,0 --> 00:29:51,0
+the remainder
 
 96
-00:09:12,989 --> 00:09:19,132
- the Amlicites no longer he caused that his people
+00:29:51,0 --> 00:29:51,0
+were called
 
 97
-00:09:19,132 --> 00:09:25,275
- should pitch their tents in the valley of Gideon,
+00:29:51,0 --> 00:29:51,0
+Nephites, or the
 
 98
-00:09:25,275 --> 00:09:31,418
- the valley being called after that Gideon who was
+00:29:51,0 --> 00:29:23,
+people of God.
 
 99
-00:09:31,418 --> 00:09:37,561
- slain by the hand of Nehor with the sword; and in
+00:29:23,0 --> 00:29:23,0
+12 Therefore
 
 100
-00:09:37,561 --> 00:09:43,704
- this valley the Nephites did pitch their tents
+00:29:23,0 --> 00:29:23,0
+the people of
 
 101
-00:09:43,704 --> 00:09:49,847
- for the night
+00:29:23,0 --> 00:29:23,0
+the Nephites
 
 102
-00:09:49,756 --> 00:09:55,556
-21 And Alma sent spies to follow the remnant of
+00:29:23,0 --> 00:29:23,0
+were aware of
 
 103
-00:09:55,556 --> 00:10:01,356
- the Amlicites, that he might know of their plans and
+00:29:23,0 --> 00:29:23,0
+the intent of
 
 104
-00:10:01,356 --> 00:10:07,156
- their plots, whereby he might guard himself
+00:29:23,0 --> 00:29:23,0
+the Amlicites,
 
 105
-00:10:07,156 --> 00:10:12,956
- against them, that he might preserve his people from
+00:29:23,0 --> 00:29:23,0
+and therefore
 
 106
-00:10:12,956 --> 00:10:18,756
- being destroyed
+00:29:23,0 --> 00:29:23,0
+they did
 
 107
-00:10:18,551 --> 00:10:24,151
-22 Now those whom he had sent out to watch the
+00:29:23,0 --> 00:29:23,0
+prepare to meet
 
 108
-00:10:24,151 --> 00:10:29,751
- camp of the Amlicites were called Zeram, and Amnor,
+00:29:23,0 --> 00:29:23,0
+them; yea, they
 
 109
-00:10:29,751 --> 00:10:35,351
- and Manti, and Limher; these were they who went out
+00:29:23,0 --> 00:29:23,0
+did arm
 
 110
-00:10:35,351 --> 00:10:40,951
- with their men to watch the camp of the
+00:29:23,0 --> 00:29:23,0
+themselves with
 
 111
-00:10:40,951 --> 00:10:46,551
- Amlicites
+00:29:23,0 --> 00:29:23,0
+swords, and with
 
 112
-00:10:46,479 --> 00:10:50,979
-23 And it came to pass that on the morrow they
+00:29:23,0 --> 00:29:23,0
+cimeters, and
 
 113
-00:10:50,979 --> 00:10:55,479
- returned into the camp of the Nephites in great
+00:29:23,0 --> 00:29:23,0
+with bows, and
 
 114
-00:10:55,479 --> 00:10:59,979
- haste, being greatly astonished, and struck with much
+00:29:23,0 --> 00:29:23,0
+with arrows, and
 
 115
-00:10:59,979 --> 00:11:04,479
- fear, saying
+00:29:23,0 --> 00:29:23,0
+with stones,
 
 116
-00:11:04,531 --> 00:11:09,531
-24 Behold, we followed the camp of the Amlicites,
+00:29:23,0 --> 00:29:23,0
+and with
 
 117
-00:11:09,531 --> 00:11:14,531
- and to our great astonishment, in the land of
+00:29:23,0 --> 00:29:23,0
+slings, and with
 
 118
-00:11:14,531 --> 00:11:19,531
- Minon, above the land of Zarahemla, in the course of
+00:29:23,0 --> 00:29:23,0
+all manner of
 
 119
-00:11:19,531 --> 00:11:24,531
- the land of Nephi, we saw a numerous host of the
+00:29:23,0 --> 00:29:23,0
+weapons of war,
 
 120
-00:11:24,531 --> 00:11:29,531
- Lamanites; and behold, the Amlicites have joined
+00:29:23,0 --> 00:29:23,
+of every kind.
 
 121
-00:11:29,531 --> 00:11:34,531
- them
+00:29:23,0 --> 00:29:23,0
+13 And thus
 
 122
-00:11:34,494 --> 00:11:40,827
-25 And they are upon our brethren in that land;
+00:29:23,0 --> 00:29:23,0
+they were
 
 123
-00:11:40,827 --> 00:11:47,16
- and they are fleeing before them with their flocks,
+00:29:23,0 --> 00:29:23,0
+prepared to meet
 
 124
-00:11:47,16 --> 00:11:53,493
- and their wives, and their children, towards our
+00:29:23,0 --> 00:29:23,0
+the Amlicites
 
 125
-00:11:53,493 --> 00:11:59,826
- city; and except we make haste they obtain
+00:29:23,0 --> 00:29:23,0
+at the time
 
 126
-00:11:59,826 --> 00:12:06,159
- possession of our city, and our fathers, and our wives,
+00:29:23,0 --> 00:29:23,0
+of their
 
 127
-00:12:06,159 --> 00:12:12,492
- and our children be slain
+00:29:23,0 --> 00:29:23,0
+coming. And there
 
 128
-00:12:12,932 --> 00:12:17,432
-26 And it came to pass that the people of Nephi
+00:29:23,0 --> 00:29:23,0
+were
 
 129
-00:12:17,432 --> 00:12:21,932
- took their tents, and departed out of the valley of
+00:29:23,0 --> 00:29:23,0
+appointed captains,
 
 130
-00:12:21,932 --> 00:12:26,432
- Gideon towards their city, which was the city of
+00:29:23,0 --> 00:29:23,0
+and higher
 
 131
-00:12:26,432 --> 00:12:30,932
- Zarahemla
+00:29:23,0 --> 00:29:23,0
+captains, and
 
 132
-00:12:30,917 --> 00:12:37,667
-27 And behold, as they were crossing the river
+00:29:23,0 --> 00:29:23,0
+chief
 
 133
-00:12:37,667 --> 00:12:44,417
- Sidon, the Lamanites and the Amlicites, being as
+00:29:23,0 --> 00:29:23,0
+captains, according
 
 134
-00:12:44,417 --> 00:12:51,167
- numerous almost, as it were, as the sands of the sea,
+00:29:23,0 --> 00:29:23,
+to their numbers.
 
 135
-00:12:51,167 --> 00:12:57,917
- came upon them to destroy them
+00:29:23,0 --> 00:29:23,0
+14 And it
 
 136
-00:12:57,644 --> 00:13:04,311
-28 Nevertheless, the Nephites being strengthened
+00:29:23,0 --> 00:29:23,0
+came to pass
 
 137
-00:13:04,311 --> 00:13:10,978
- by the hand of the Lord, having prayed mightily to
+00:29:23,0 --> 00:29:23,0
+that Amlici
 
 138
-00:13:10,978 --> 00:13:17,645
- him that he would deliver them out of the hands of
+00:29:23,0 --> 00:29:23,0
+did arm his
 
 139
-00:13:17,645 --> 00:13:24,312
- their enemies, therefore the Lord did hear their
+00:29:23,0 --> 00:29:23,0
+men with all
 
 140
-00:13:24,312 --> 00:13:30,979
- cries, and did strengthen them, and the Lamanites
+00:29:23,0 --> 00:29:23,0
+manner of
 
 141
-00:13:30,979 --> 00:13:37,646
- and the Amlicites did fall before them
+00:29:23,0 --> 00:29:23,0
+weapons of war
 
 142
-00:13:37,05 --> 00:13:41,383
-29 And it came to pass that Alma fought with
+00:29:23,0 --> 00:29:23,0
+of every
 
 143
-00:13:41,383 --> 00:13:45,716
- Amlici with the sword, face to face; and they did
+00:29:23,0 --> 00:29:23,0
+kind; and he
 
 144
-00:13:45,716 --> 00:13:50,049
- contend mightily, one with another
+00:29:23,0 --> 00:29:23,0
+also
 
 145
-00:13:50,063 --> 00:13:56,263
-30 And it came to pass that Alma, being a man of
+00:29:23,0 --> 00:29:23,0
+appointed rulers and
 
 146
-00:13:56,263 --> 00:14:02,463
- God, being exercised with much faith, cried,
+00:29:23,0 --> 00:29:23,0
+leaders
 
 147
-00:14:02,463 --> 00:14:08,663
- saying: O Lord, have mercy and spare my life, that I may
+00:29:23,0 --> 00:29:23,0
+over his
 
 148
-00:14:08,663 --> 00:14:14,863
- be an instrument in thy hands to save and
+00:29:23,0 --> 00:29:23,0
+people, to lead
 
 149
-00:14:14,863 --> 00:14:21,063
- preserve this people
+00:29:23,0 --> 00:29:23,0
+them to war
 
 150
-00:14:21,26 --> 00:14:27,927
-31 Now when Alma had said these words he contended
+00:29:23,0 --> 00:29:23,
+against their brethren.
 
 151
-00:14:27,927 --> 00:14:34,594
- again with Amlici; and he was strengthened,
+00:29:23,0 --> 00:29:23,0
+15 And it
 
 152
-00:14:34,594 --> 00:14:41,261
- insomuch that he slew Amlici with the sword
+00:29:23,0 --> 00:29:23,0
+came to pass
 
 153
-00:14:41,28 --> 00:14:46,53
-32 And he also contended with the king of the
+00:29:23,0 --> 00:29:23,0
+that the
 
 154
-00:14:46,53 --> 00:14:51,78
- Lamanites; but the king of the Lamanites fled back
+00:29:23,0 --> 00:29:23,0
+Amlicites
 
 155
-00:14:51,78 --> 00:14:57,03
- from before Alma and sent his guards to contend with
+00:29:23,0 --> 00:29:23,0
+came upon the
 
 156
-00:14:57,03 --> 00:15:02,28
- Alma
+00:29:23,0 --> 00:29:23,0
+hill
 
 157
-00:15:02,769 --> 00:15:09,436
-33 But Alma, with his guards, contended with the
+00:29:23,0 --> 00:29:23,0
+Amnihu, which
 
 158
-00:15:09,436 --> 00:15:16,103
- guards of the king of the Lamanites until he slew
+00:29:23,0 --> 00:29:23,0
+was east of
 
 159
-00:15:16,103 --> 00:15:22,77
- and drove them back
+00:29:23,0 --> 00:29:23,0
+the river
 
 160
-00:15:22,722 --> 00:15:28,436
-34 And thus he cleared the ground, or rather the
+00:29:23,0 --> 00:29:23,0
+Sidon, which
 
 161
-00:15:28,436 --> 00:15:34,15
- bank, which was on the west of the river Sidon,
+00:29:23,0 --> 00:29:23,0
+ran by the
 
 162
-00:15:34,15 --> 00:15:39,864
- throwing the bodies of the Lamanites who had been
+00:29:23,0 --> 00:29:23,0
+land of
 
 163
-00:15:39,864 --> 00:15:45,578
- slain into the waters of Sidon, that thereby his
+00:29:23,0 --> 00:29:23,0
+Zarahemla, and
 
 164
-00:15:45,578 --> 00:15:51,292
- people might have room to cross and contend with the
+00:29:23,0 --> 00:29:23,0
+there they
 
 165
-00:15:51,292 --> 00:15:57,006
- Lamanites and the Amlicites on the west side of the
+00:29:23,0 --> 00:29:23,0
+began to
 
 166
-00:15:57,006 --> 00:16:02,72
- river Sidon
+00:29:23,0 --> 00:29:23,
+make war with the Nephites.
 
 167
-00:16:02,728 --> 00:16:08,328
-35 And it came to pass that when they had all
+00:29:23,0 --> 00:29:23,0
+16 Now
 
 168
-00:16:08,328 --> 00:16:13,928
- crossed the river Sidon that the Lamanites and the
+00:29:23,0 --> 00:29:23,0
+Alma, being
 
 169
-00:16:13,928 --> 00:16:19,528
- Amlicites began to flee before them, notwithstanding
+00:29:23,0 --> 00:29:23,0
+the chief
 
 170
-00:16:19,528 --> 00:16:25,128
- they were so numerous that they could not be
+00:29:23,0 --> 00:29:23,0
+judge and
 
 171
-00:16:25,128 --> 00:16:30,728
- numbered
+00:29:23,0 --> 00:29:23,0
+the
 
 172
-00:16:30,423 --> 00:16:36,923
-36 And they fled before the Nephites towards the
+00:29:23,0 --> 00:29:23,0
+governor of the
 
 173
-00:16:36,923 --> 00:16:43,423
- wilderness which was west and north, away beyond
+00:29:23,0 --> 00:29:23,0
+people of
 
 174
-00:16:43,423 --> 00:16:49,923
- the borders of the land; and the Nephites did pursue
+00:29:23,0 --> 00:29:23,0
+Nephi,
 
 175
-00:16:49,923 --> 00:16:56,423
- them with their might, and did slay them
+00:29:23,0 --> 00:29:23,0
+therefore he
 
 176
-00:16:56,916 --> 00:17:03,083
-37 Yea, they were met on every hand, and slain and
+00:29:23,0 --> 00:29:23,0
+went up
 
 177
-00:17:03,083 --> 00:17:09,25
- driven, until they were scattered on the west,
+00:29:23,0 --> 00:29:23,0
+with his
 
 178
-00:17:09,25 --> 00:17:15,417
- and on the north, until they had reached the
+00:29:23,0 --> 00:29:23,0
+people, yea,
 
 179
-00:17:15,417 --> 00:17:21,584
- wilderness, which was called Hermounts; and it was that
+00:29:23,0 --> 00:29:23,0
+with his
 
 180
-00:17:21,584 --> 00:17:27,751
- part of the wilderness which was infested by wild
+00:29:23,0 --> 00:29:23,0
+captains,
 
 181
-00:17:27,751 --> 00:17:33,918
- and ravenous beasts
+00:29:23,0 --> 00:29:23,0
+and chief
 
 182
-00:17:33,653 --> 00:17:38,453
-38 And it came to pass that many died in the
+00:29:23,0 --> 00:29:23,0
+captains,
 
 183
-00:17:38,453 --> 00:17:43,253
- wilderness of their wounds, and were devoured by those
+00:29:23,0 --> 00:29:23,0
+yea, at the
 
 184
-00:17:43,253 --> 00:17:48,053
- beasts and also the vultures of the air; and their
+00:29:23,0 --> 00:29:23,0
+head of
 
 185
-00:17:48,053 --> 00:17:52,853
- bones have been found, and have been heaped up on
+00:29:23,0 --> 00:29:23,0
+his armies,
 
 186
-00:17:52,853 --> 00:17:57,653
- the earth.
+00:29:23,0 --> 00:29:23,0
+against
+
+187
+00:29:23,0 --> 00:29:23,
+the Amlicites to battle.
+
+188
+00:29:23,0 --> 00:29:23,0
+17 And
+
+189
+00:29:23,0 --> 00:29:23,0
+they began
+
+190
+00:29:23,0 --> 00:29:23,0
+to slay
+
+191
+00:29:23,0 --> 00:29:23,0
+the
+
+192
+00:29:23,0 --> 00:29:23,0
+Amlicites upon
+
+193
+00:29:23,0 --> 00:29:23,0
+the hill
+
+194
+00:29:23,0 --> 00:29:23,0
+east of
+
+195
+00:29:23,0 --> 00:29:23,0
+Sidon. And
+
+196
+00:29:23,0 --> 00:29:23,0
+the
+
+197
+00:29:23,0 --> 00:29:23,0
+Amlicites did
+
+198
+00:29:23,0 --> 00:29:23,0
+contend
+
+199
+00:29:23,0 --> 00:29:23,0
+with the
+
+200
+00:29:23,0 --> 00:29:23,0
+Nephites
+
+201
+00:29:23,0 --> 00:29:23,0
+with
+
+202
+00:29:23,0 --> 00:29:23,0
+great
+
+203
+00:29:23,0 --> 00:29:23,0
+strength,
+
+204
+00:29:23,0 --> 00:29:23,0
+insomuch that
+
+205
+00:29:23,0 --> 00:29:23,0
+many of
+
+206
+00:29:23,0 --> 00:29:23,0
+the
+
+207
+00:29:23,0 --> 00:29:23,0
+Nephites did
+
+208
+00:29:23,0 --> 00:29:23,
+fall before the Amlicites.
+
+209
+00:29:23,0 --> 00:29:23,0
+18
+
+210
+00:29:23,0 --> 00:29:23,0
+Nevertheless
+
+211
+00:29:23,0 --> 00:29:23,0
+the Lord
+
+212
+00:29:23,0 --> 00:29:23,0
+did
+
+213
+00:29:23,0 --> 00:29:23,0
+strengthen the
+
+214
+00:29:23,0 --> 00:29:23,0
+hand of
+
+215
+00:29:23,0 --> 00:29:23,0
+the
+
+216
+00:29:23,0 --> 00:29:23,0
+Nephites, that
+
+217
+00:29:23,0 --> 00:29:23,0
+they slew
+
+218
+00:29:23,0 --> 00:29:23,0
+the
+
+219
+00:29:23,0 --> 00:29:23,0
+Amlicites with
+
+220
+00:29:23,0 --> 00:29:23,0
+great
+
+221
+00:29:23,0 --> 00:29:23,0
+slaughter,
+
+222
+00:29:23,0 --> 00:29:23,0
+that they
+
+223
+00:29:23,0 --> 00:29:23,0
+began to
+
+224
+00:29:23,0 --> 00:29:23,0
+flee
+
+225
+00:29:23,0 --> 00:29:23,
+before them.
+
+226
+00:29:23,0 --> 00:29:23,0
+19 And
+
+227
+00:29:23,0 --> 00:29:23,0
+it came
+
+228
+00:29:23,0 --> 00:29:23,0
+to pass
+
+229
+00:29:23,0 --> 00:29:23,0
+that the
+
+230
+00:29:23,0 --> 00:29:23,0
+Nephites
+
+231
+00:29:23,0 --> 00:29:23,0
+did
+
+232
+00:29:23,0 --> 00:29:23,0
+pursue the
+
+233
+00:29:23,0 --> 00:29:23,0
+
+
+234
+00:29:23,0 --> 00:29:23,0
+Amlicites all
+
+235
+00:29:23,0 --> 00:29:23,0
+that day,
+
+236
+00:29:23,0 --> 00:29:23,0
+and did
+
+237
+00:29:23,0 --> 00:29:23,0
+slay
+
+238
+00:29:23,0 --> 00:29:23,0
+them with
+
+239
+00:29:23,0 --> 00:29:23,0
+much
+
+240
+00:29:23,0 --> 00:29:23,0
+slaughter,
+
+241
+00:29:23,0 --> 00:29:23,0
+insomuch
+
+242
+00:29:23,0 --> 00:29:23,0
+that
+
+243
+00:29:23,0 --> 00:29:23,0
+there were
+
+244
+00:29:23,0 --> 00:29:23,0
+slain of
+
+245
+00:29:23,0 --> 00:29:23,0
+the
+
+246
+00:29:23,0 --> 00:29:23,0
+Amlicites
+
+247
+00:29:23,0 --> 00:29:23,0
+twelve
+
+248
+00:29:23,0 --> 00:29:23,0
+thousand
+
+249
+00:29:23,0 --> 00:29:23,0
+five
+
+250
+00:29:23,0 --> 00:29:23,0
+hundred
+
+251
+00:29:23,0 --> 00:29:23,0
+thirty and
+
+252
+00:29:23,0 --> 00:29:23,0
+two
+
+253
+00:29:23,0 --> 00:29:23,0
+souls; and
+
+254
+00:29:23,0 --> 00:29:23,0
+there were
+
+255
+00:29:23,0 --> 00:29:23,0
+slain
+
+256
+00:29:23,0 --> 00:29:23,0
+of the
+
+257
+00:29:23,0 --> 00:29:23,0
+Nephites
+
+258
+00:29:23,0 --> 00:29:23,0
+six
+
+259
+00:29:23,0 --> 00:29:23,
+thousand five hundred sixty and two souls.
+
+260
+00:29:23,0 --> 00:29:23,0
+20 And
+
+261
+00:29:23,0 --> 00:29:23,0
+it came
+
+262
+00:29:23,0 --> 00:29:23,0
+to pass
+
+263
+00:29:23,0 --> 00:29:23,0
+that when
+
+264
+00:29:23,0 --> 00:29:23,0
+Alma
+
+265
+00:29:23,0 --> 00:29:23,0
+could
+
+266
+00:29:23,0 --> 00:29:23,0
+pursue the
+
+267
+00:29:23,0 --> 00:29:23,0
+Amlicites
+
+268
+00:29:23,0 --> 00:29:23,0
+no
+
+269
+00:29:23,0 --> 00:29:23,0
+longer he
+
+270
+00:29:23,0 --> 00:29:23,0
+caused
+
+271
+00:29:23,0 --> 00:29:23,0
+that his
+
+272
+00:29:23,0 --> 00:29:23,0
+people
+
+273
+00:29:23,0 --> 00:29:23,0
+should
+
+274
+00:29:23,0 --> 00:29:23,0
+pitch their
+
+275
+00:29:23,0 --> 00:29:23,0
+tents in
+
+276
+00:29:23,0 --> 00:29:23,0
+the
+
+277
+00:29:23,0 --> 00:29:23,0
+valley of
+
+278
+00:29:23,0 --> 00:29:23,0
+Gideon,
+
+279
+00:29:23,0 --> 00:29:23,0
+the
+
+280
+00:29:23,0 --> 00:29:23,0
+valley being
+
+281
+00:29:23,0 --> 00:29:23,0
+called
+
+282
+00:29:23,0 --> 00:29:23,0
+after
+
+283
+00:29:23,0 --> 00:29:23,0
+that Gideon
+
+284
+00:29:23,0 --> 00:29:23,0
+who was
+
+285
+00:29:23,0 --> 00:29:23,0
+slain
+
+286
+00:29:23,0 --> 00:29:23,0
+by the
+
+287
+00:29:23,0 --> 00:29:23,0
+hand of
+
+288
+00:29:23,0 --> 00:29:23,0
+Nehor with
+
+289
+00:29:23,0 --> 00:29:23,0
+the
+
+290
+00:29:23,0 --> 00:29:23,0
+sword; and
+
+291
+00:29:23,0 --> 00:29:23,0
+in this
+
+292
+00:29:23,0 --> 00:29:23,0
+valley
+
+293
+00:29:23,0 --> 00:29:23,0
+the
+
+294
+00:29:23,0 --> 00:29:23,0
+Nephites did
+
+295
+00:29:23,0 --> 00:29:23,0
+pitch
+
+296
+00:29:23,0 --> 00:29:23,0
+their
+
+297
+00:29:23,0 --> 00:29:23,0
+tents for
+
+298
+00:29:23,0 --> 00:29:23,
+the night.
+
+299
+00:29:23,0 --> 00:29:23,0
+21 And
+
+300
+00:29:23,0 --> 00:29:23,0
+Alma
+
+301
+00:29:23,0 --> 00:29:23,0
+sent
+
+302
+00:29:23,0 --> 00:29:23,0
+spies to
+
+303
+00:29:23,0 --> 00:29:23,0
+follow
+
+304
+00:29:23,0 --> 00:29:23,0
+the
+
+305
+00:29:23,0 --> 00:29:23,0
+remnant of
+
+306
+00:29:23,0 --> 00:29:23,0
+the
+
+307
+00:29:23,0 --> 00:29:23,0
+Amlicites,
+
+308
+00:29:23,0 --> 00:29:23,0
+that he
+
+309
+00:29:23,0 --> 00:29:23,0
+might
+
+310
+00:29:23,0 --> 00:29:23,0
+know of
+
+311
+00:29:23,0 --> 00:29:23,0
+their
+
+312
+00:29:23,0 --> 00:29:23,0
+plans
+
+313
+00:29:23,0 --> 00:29:23,0
+and
+
+314
+00:29:23,0 --> 00:29:23,0
+their
+
+315
+00:29:23,0 --> 00:29:23,0
+plots,
+
+316
+00:29:23,0 --> 00:29:23,0
+whereby he
+
+317
+00:29:23,0 --> 00:29:23,0
+might
+
+318
+00:29:23,0 --> 00:29:23,0
+guard
+
+319
+00:29:23,0 --> 00:29:23,0
+himself
+
+320
+00:29:23,0 --> 00:29:23,0
+against
+
+321
+00:29:23,0 --> 00:29:23,0
+them,
+
+322
+00:29:23,0 --> 00:29:23,0
+that he
+
+323
+00:29:23,0 --> 00:29:23,0
+might
+
+324
+00:29:23,0 --> 00:29:23,0
+preserve
+
+325
+00:29:23,0 --> 00:29:23,
+his people from being destroyed.
+
+326
+00:29:23,0 --> 00:29:23,0
+22 Now
+
+327
+00:29:23,0 --> 00:29:23,0
+those
+
+328
+00:29:23,0 --> 00:29:23,0
+whom
+
+329
+00:29:23,0 --> 00:29:23,0
+he had
+
+330
+00:29:23,0 --> 00:29:23,0
+sent
+
+331
+00:29:23,0 --> 00:29:23,0
+out to
+
+332
+00:29:23,0 --> 00:29:23,0
+watch
+
+333
+00:29:23,0 --> 00:29:23,0
+the
+
+334
+00:29:23,0 --> 00:29:23,0
+camp of
+
+335
+00:29:23,0 --> 00:29:23,0
+the
+
+336
+00:29:23,0 --> 00:29:23,0
+
+
+337
+00:29:23,0 --> 00:29:23,0
+Amlicites
+
+338
+00:29:23,0 --> 00:29:23,0
+were
+
+339
+00:29:23,0 --> 00:29:23,0
+called
+
+340
+00:29:23,0 --> 00:29:23,0
+Zeram,
+
+341
+00:29:23,0 --> 00:29:23,0
+and
+
+342
+00:29:23,0 --> 00:29:23,0
+Amnor, and
+
+343
+00:29:23,0 --> 00:29:23,0
+
+
+344
+00:29:23,0 --> 00:29:23,0
+Manti, and
+
+345
+00:29:23,0 --> 00:29:23,0
+
+
+346
+00:29:23,0 --> 00:29:23,0
+Limher;
+
+347
+00:29:23,0 --> 00:29:23,0
+these were
+
+348
+00:29:23,0 --> 00:29:23,0
+they
+
+349
+00:29:23,0 --> 00:29:23,0
+who
+
+350
+00:29:23,0 --> 00:29:23,0
+went out
+
+351
+00:29:23,0 --> 00:29:23,0
+with
+
+352
+00:29:23,0 --> 00:29:23,0
+their
+
+353
+00:29:23,0 --> 00:29:23,0
+men to
+
+354
+00:29:23,0 --> 00:29:23,
+watch the camp of the Amlicites.
+
+355
+00:29:23,0 --> 00:29:23,0
+23 And
+
+356
+00:29:23,0 --> 00:29:23,0
+it
+
+357
+00:29:23,0 --> 00:29:23,0
+came to
+
+358
+00:29:23,0 --> 00:29:23,0
+pass
+
+359
+00:29:23,0 --> 00:29:23,0
+that on
+
+360
+00:29:23,0 --> 00:29:23,0
+the
+
+361
+00:29:23,0 --> 00:29:23,0
+morrow
+
+362
+00:29:23,0 --> 00:29:23,0
+they
+
+363
+00:29:23,0 --> 00:29:23,0
+
+
+364
+00:29:23,0 --> 00:29:23,0
+returned into
+
+365
+00:29:23,0 --> 00:29:23,0
+the
+
+366
+00:29:23,0 --> 00:29:23,0
+camp of
+
+367
+00:29:23,0 --> 00:29:23,0
+the
+
+368
+00:29:23,0 --> 00:29:23,0
+
+
+369
+00:29:23,0 --> 00:29:23,0
+Nephites in
+
+370
+00:29:23,0 --> 00:29:23,0
+great
+
+371
+00:29:23,0 --> 00:29:23,0
+haste,
+
+372
+00:29:23,0 --> 00:29:23,0
+being
+
+373
+00:29:23,0 --> 00:29:23,0
+
+
+374
+00:29:23,0 --> 00:29:23,0
+greatly
+
+375
+00:29:23,0 --> 00:29:23,0
+
+
+376
+00:29:23,0 --> 00:29:23,0
+astonished, and
+
+377
+00:29:23,0 --> 00:29:23,0
+struck
+
+378
+00:29:23,0 --> 00:29:23,0
+with
+
+379
+00:29:23,0 --> 00:29:23,0
+much
+
+380
+00:29:23,0 --> 00:29:23,0
+fear,
+
+381
+00:29:23,0 --> 00:29:23,
+saying:
+
+382
+00:29:23,0 --> 00:29:23,0
+24
+
+383
+00:29:23,0 --> 00:29:23,0
+Behold,
+
+384
+00:29:23,0 --> 00:29:23,0
+we
+
+385
+00:29:23,0 --> 00:29:23,0
+followed
+
+386
+00:29:23,0 --> 00:29:23,0
+the
+
+387
+00:29:23,0 --> 00:29:23,0
+camp of
+
+388
+00:29:23,0 --> 00:29:23,0
+the
+
+389
+00:29:23,0 --> 00:29:23,0
+
+
+390
+00:29:23,0 --> 00:29:23,0
+Amlicites, and
+
+391
+00:29:23,0 --> 00:29:23,0
+to our
+
+392
+00:29:23,0 --> 00:29:23,0
+great
+
+393
+00:29:23,0 --> 00:29:23,0
+
+
+394
+00:29:23,0 --> 00:29:23,0
+
+
+395
+00:29:23,0 --> 00:29:23,0
+astonishment, in
+
+396
+00:29:23,0 --> 00:29:23,0
+the
+
+397
+00:29:23,0 --> 00:29:23,0
+land of
+
+398
+00:29:23,0 --> 00:29:23,0
+Minon,
+
+399
+00:29:23,0 --> 00:29:23,0
+above
+
+400
+00:29:23,0 --> 00:29:23,0
+the
+
+401
+00:29:23,0 --> 00:29:23,0
+land of
+
+402
+00:29:23,0 --> 00:29:23,0
+
+
+403
+00:29:23,0 --> 00:29:23,0
+Zarahemla,
+
+404
+00:29:23,0 --> 00:29:23,0
+in the
+
+405
+00:29:23,0 --> 00:29:23,0
+
+
+406
+00:29:23,0 --> 00:29:23,0
+course of
+
+407
+00:29:23,0 --> 00:29:23,0
+the
+
+408
+00:29:23,0 --> 00:29:23,0
+land of
+
+409
+00:29:23,0 --> 00:29:23,0
+Nephi,
+
+410
+00:29:23,0 --> 00:29:23,0
+we saw
+
+411
+00:29:23,0 --> 00:29:23,0
+a
+
+412
+00:29:23,0 --> 00:29:23,0
+numerous
+
+413
+00:29:23,0 --> 00:29:23,0
+host
+
+414
+00:29:23,0 --> 00:29:23,0
+of the
+
+415
+00:29:23,0 --> 00:29:23,0
+
+
+416
+00:29:23,0 --> 00:29:23,0
+Lamanites;
+
+417
+00:29:23,0 --> 00:29:23,0
+and
+
+418
+00:29:23,0 --> 00:29:23,0
+behold,
+
+419
+00:29:23,0 --> 00:29:23,0
+the
+
+420
+00:29:23,0 --> 00:29:23,0
+Amlicites
+
+421
+00:29:23,0 --> 00:29:23,0
+have
+
+422
+00:29:23,0 --> 00:29:23,0
+joined
+
+423
+00:29:23,0 --> 00:29:23,
+them;
+
+424
+00:29:23,0 --> 00:29:23,0
+25
+
+425
+00:29:23,0 --> 00:29:23,0
+And
+
+426
+00:29:23,0 --> 00:29:23,0
+they are
+
+427
+00:29:23,0 --> 00:29:23,0
+upon
+
+428
+00:29:23,0 --> 00:29:23,0
+our
+
+429
+00:29:23,0 --> 00:29:23,0
+
+
+430
+00:29:23,0 --> 00:29:23,0
+brethren
+
+431
+00:29:23,0 --> 00:29:23,0
+in
+
+432
+00:29:23,0 --> 00:29:23,0
+that
+
+433
+00:29:23,0 --> 00:29:23,0
+land;
+
+434
+00:29:23,0 --> 00:29:23,0
+and
+
+435
+00:29:23,0 --> 00:29:23,0
+they are
+
+436
+00:29:23,0 --> 00:29:23,0
+
+
+437
+00:29:23,0 --> 00:29:23,0
+fleeing
+
+438
+00:29:23,0 --> 00:29:23,0
+before
+
+439
+00:29:23,0 --> 00:29:23,0
+them
+
+440
+00:29:23,0 --> 00:29:23,0
+with
+
+441
+00:29:23,0 --> 00:29:23,0
+
+
+442
+00:29:23,0 --> 00:29:23,0
+their
+
+443
+00:29:23,0 --> 00:29:23,0
+flocks,
+
+444
+00:29:23,0 --> 00:29:23,0
+and
+
+445
+00:29:23,0 --> 00:29:23,0
+their
+
+446
+00:29:23,0 --> 00:29:23,0
+
+
+447
+00:29:23,0 --> 00:29:23,0
+wives, and
+
+448
+00:29:23,0 --> 00:29:23,0
+
+
+449
+00:29:23,0 --> 00:29:23,0
+their
+
+450
+00:29:23,0 --> 00:29:23,0
+
+
+451
+00:29:23,0 --> 00:29:23,0
+children,
+
+452
+00:29:23,0 --> 00:29:23,0
+towards
+
+453
+00:29:23,0 --> 00:29:23,0
+our
+
+454
+00:29:23,0 --> 00:29:23,0
+city;
+
+455
+00:29:23,0 --> 00:29:23,0
+and
+
+456
+00:29:23,0 --> 00:29:23,0
+except
+
+457
+00:29:23,0 --> 00:29:23,0
+we
+
+458
+00:29:23,0 --> 00:29:23,0
+make
+
+459
+00:29:23,0 --> 00:29:23,0
+haste
+
+460
+00:29:23,0 --> 00:29:23,0
+they
+
+461
+00:29:23,0 --> 00:29:23,0
+
+
+462
+00:29:23,0 --> 00:29:23,0
+obtain
+
+463
+00:29:23,0 --> 00:29:23,0
+
+
+464
+00:29:23,0 --> 00:29:23,0
+possession of
+
+465
+00:29:23,0 --> 00:29:23,0
+our
+
+466
+00:29:23,0 --> 00:29:23,0
+city,
+
+467
+00:29:23,0 --> 00:29:23,0
+and
+
+468
+00:29:23,0 --> 00:29:23,0
+our
+
+469
+00:29:23,0 --> 00:29:23,
+fathers, and our wives, and our children be slain.
+
+470
+00:29:23,0 --> 00:29:23,0
+26
+
+471
+00:29:23,0 --> 00:29:23,0
+And
+
+472
+00:29:23,0 --> 00:29:23,0
+it
+
+473
+00:29:23,0 --> 00:29:23,0
+came
+
+474
+00:29:23,0 --> 00:29:23,0
+to
+
+475
+00:29:23,0 --> 00:29:23,0
+pass
+
+476
+00:29:23,0 --> 00:29:23,0
+that
+
+477
+00:29:23,0 --> 00:29:23,0
+the
+
+478
+00:29:23,0 --> 00:29:23,0
+
+
+479
+00:29:23,0 --> 00:29:23,0
+people
+
+480
+00:29:23,0 --> 00:29:23,0
+of
+
+481
+00:29:23,0 --> 00:29:23,0
+Nephi
+
+482
+00:29:23,0 --> 00:29:23,0
+took
+
+483
+00:29:23,0 --> 00:29:23,0
+
+
+484
+00:29:23,0 --> 00:29:23,0
+their
+
+485
+00:29:23,0 --> 00:29:23,0
+
+
+486
+00:29:23,0 --> 00:29:23,0
+tents,
+
+487
+00:29:23,0 --> 00:29:23,0
+and
+
+488
+00:29:23,0 --> 00:29:23,0
+
+
+489
+00:29:23,0 --> 00:29:23,0
+departed
+
+490
+00:29:23,0 --> 00:29:23,0
+out
+
+491
+00:29:23,0 --> 00:29:23,0
+of
+
+492
+00:29:23,0 --> 00:29:23,0
+the
+
+493
+00:29:23,0 --> 00:29:23,0
+valley
+
+494
+00:29:23,0 --> 00:29:23,0
+of
+
+495
+00:29:23,0 --> 00:29:23,0
+
+
+496
+00:29:23,0 --> 00:29:23,0
+Gideon
+
+497
+00:29:23,0 --> 00:29:23,0
+
+
+498
+00:29:23,0 --> 00:29:23,0
+towards
+
+499
+00:29:23,0 --> 00:29:23,0
+their
+
+500
+00:29:23,0 --> 00:29:23,0
+
+
+501
+00:29:23,0 --> 00:29:23,
+city, which was the city of Zarahemla.
+
+502
+00:29:23,0 --> 00:29:23,0
+27
+
+503
+00:29:23,0 --> 00:29:23,0
+And
+
+504
+00:29:23,0 --> 00:29:23,0
+
+
+505
+00:29:23,0 --> 00:29:23,0
+
+
+506
+00:29:23,0 --> 00:29:23,0
+behold,
+
+507
+00:29:23,0 --> 00:29:23,0
+as
+
+508
+00:29:23,0 --> 00:29:23,0
+
+
+509
+00:29:23,0 --> 00:29:23,0
+they
+
+510
+00:29:23,0 --> 00:29:23,0
+were
+
+511
+00:29:23,0 --> 00:29:23,0
+
+
+512
+00:29:23,0 --> 00:29:23,0
+
+
+513
+00:29:23,0 --> 00:29:23,0
+crossing
+
+514
+00:29:23,0 --> 00:29:23,0
+
+
+515
+00:29:23,0 --> 00:29:23,0
+the
+
+516
+00:29:23,0 --> 00:29:23,0
+
+
+517
+00:29:23,0 --> 00:29:23,0
+river
+
+518
+00:29:23,0 --> 00:29:23,0
+
+
+519
+00:29:23,0 --> 00:29:23,0
+Sidon,
+
+520
+00:29:23,0 --> 00:29:23,0
+the
+
+521
+00:29:23,0 --> 00:29:23,0
+
+
+522
+00:29:23,0 --> 00:29:23,0
+
+
+523
+00:29:23,0 --> 00:29:23,0
+
+
+524
+00:29:23,0 --> 00:29:23,0
+Lamanites
+
+525
+00:29:23,0 --> 00:29:23,0
+and
+
+526
+00:29:23,0 --> 00:29:23,0
+the
+
+527
+00:29:23,0 --> 00:29:23,0
+
+
+528
+00:29:23,0 --> 00:29:23,0
+
+
+529
+00:29:23,0 --> 00:29:23,0
+
+
+530
+00:29:23,0 --> 00:29:23,0
+Amlicites,
+
+531
+00:29:23,0 --> 00:29:23,0
+
+
+532
+00:29:23,0 --> 00:29:23,0
+being
+
+533
+00:29:23,0 --> 00:29:23,0
+as
+
+534
+00:29:23,0 --> 00:29:23,0
+
+
+535
+00:29:23,0 --> 00:29:23,0
+
+
+536
+00:29:23,0 --> 00:29:23,0
+numerous
+
+537
+00:29:23,0 --> 00:29:23,0
+
+
+538
+00:29:23,0 --> 00:29:23,0
+
+
+539
+00:29:23,0 --> 00:29:23,0
+almost,
+
+540
+00:29:23,0 --> 00:29:23,0
+as
+
+541
+00:29:23,0 --> 00:29:23,0
+it
+
+542
+00:29:23,0 --> 00:29:23,0
+
+
+543
+00:29:23,0 --> 00:29:23,0
+were,
+
+544
+00:29:23,0 --> 00:29:23,0
+as
+
+545
+00:29:23,0 --> 00:29:23,0
+the
+
+546
+00:29:23,0 --> 00:29:23,0
+
+
+547
+00:29:23,0 --> 00:29:23,
+sands of the sea, came upon them to destroy them.
+
+548
+00:29:23,0 --> 00:29:23,0
+28
+
+549
+00:29:23,0 --> 00:29:23,0
+
+
+550
+00:29:23,0 --> 00:29:23,0
+
+
+551
+00:29:23,0 --> 00:29:23,0
+
+
+552
+00:29:23,0 --> 00:29:23,0
+
+
+553
+00:29:23,0 --> 00:29:23,0
+
+
+554
+00:29:23,0 --> 00:29:23,0
+
+
+555
+00:29:23,0 --> 00:29:23,0
+Nevertheless,
+
+556
+00:29:23,0 --> 00:29:23,0
+
+
+557
+00:29:23,0 --> 00:29:23,0
+the
+
+558
+00:29:23,0 --> 00:29:23,0
+
+
+559
+00:29:23,0 --> 00:29:23,0
+
+
+560
+00:29:23,0 --> 00:29:23,0
+
+
+561
+00:29:23,0 --> 00:29:23,0
+
+
+562
+00:29:23,0 --> 00:29:23,0
+Nephites
+
+563
+00:29:23,0 --> 00:29:23,0
+
+
+564
+00:29:23,0 --> 00:29:23,0
+
+
+565
+00:29:23,0 --> 00:29:23,0
+being
+
+566
+00:29:23,0 --> 00:29:23,0
+
+
+567
+00:29:23,0 --> 00:29:23,0
+
+
+568
+00:29:23,0 --> 00:29:23,0
+
+
+569
+00:29:23,0 --> 00:29:23,0
+
+
+570
+00:29:23,0 --> 00:29:23,0
+
+
+571
+00:29:23,0 --> 00:29:23,0
+strengthened
+
+572
+00:29:23,0 --> 00:29:23,0
+
+
+573
+00:29:23,0 --> 00:29:23,0
+by
+
+574
+00:29:23,0 --> 00:29:23,0
+
+
+575
+00:29:23,0 --> 00:29:23,0
+the
+
+576
+00:29:23,0 --> 00:29:23,0
+
+
+577
+00:29:23,0 --> 00:29:23,0
+hand
+
+578
+00:29:23,0 --> 00:29:23,0
+
+
+579
+00:29:23,0 --> 00:29:23,0
+of
+
+580
+00:29:23,0 --> 00:29:23,0
+
+
+581
+00:29:23,0 --> 00:29:23,0
+the
+
+582
+00:29:23,0 --> 00:29:23,0
+
+
+583
+00:29:23,0 --> 00:29:23,0
+
+
+584
+00:29:23,0 --> 00:29:23,0
+Lord,
+
+585
+00:29:23,0 --> 00:29:23,0
+
+
+586
+00:29:23,0 --> 00:29:23,0
+
+
+587
+00:29:23,0 --> 00:29:23,0
+having
+
+588
+00:29:23,0 --> 00:29:23,0
+
+
+589
+00:29:23,0 --> 00:29:23,0
+
+
+590
+00:29:23,0 --> 00:29:23,0
+
+
+591
+00:29:23,0 --> 00:29:23,0
+prayed
+
+592
+00:29:23,0 --> 00:29:23,0
+
+
+593
+00:29:23,0 --> 00:29:23,0
+
+
+594
+00:29:23,0 --> 00:29:23,0
+
+
+595
+00:29:23,0 --> 00:29:23,0
+mightily
+
+596
+00:29:23,0 --> 00:29:23,0
+
+
+597
+00:29:23,0 --> 00:29:23,0
+to
+
+598
+00:29:23,0 --> 00:29:23,0
+
+
+599
+00:29:23,0 --> 00:29:23,0
+him
+
+600
+00:29:23,0 --> 00:29:23,0
+
+
+601
+00:29:23,0 --> 00:29:23,0
+that
+
+602
+00:29:23,0 --> 00:29:23,0
+
+
+603
+00:29:23,0 --> 00:29:23,0
+he
+
+604
+00:29:23,0 --> 00:29:23,0
+
+
+605
+00:29:23,0 --> 00:29:23,0
+
+
+606
+00:29:23,0 --> 00:29:23,0
+would
+
+607
+00:29:23,0 --> 00:29:23,0
+
+
+608
+00:29:23,0 --> 00:29:23,0
+
+
+609
+00:29:23,0 --> 00:29:23,0
+
+
+610
+00:29:23,0 --> 00:29:23,0
+deliver
+
+611
+00:29:23,0 --> 00:29:23,0
+
+
+612
+00:29:23,0 --> 00:29:23,0
+them
+
+613
+00:29:23,0 --> 00:29:23,0
+
+
+614
+00:29:23,0 --> 00:29:23,0
+out
+
+615
+00:29:23,0 --> 00:29:23,0
+
+
+616
+00:29:23,0 --> 00:29:23,0
+of
+
+617
+00:29:23,0 --> 00:29:23,0
+
+
+618
+00:29:23,0 --> 00:29:23,0
+the
+
+619
+00:29:23,0 --> 00:29:23,0
+
+
+620
+00:29:23,0 --> 00:29:23,0
+
+
+621
+00:29:23,0 --> 00:29:23,0
+hands
+
+622
+00:29:23,0 --> 00:29:23,0
+of
+
+623
+00:29:23,0 --> 00:29:23,0
+
+
+624
+00:29:23,0 --> 00:29:23,0
+
+
+625
+00:29:23,0 --> 00:29:23,0
+their
+
+626
+00:29:23,0 --> 00:29:23,0
+
+
+627
+00:29:23,0 --> 00:29:23,0
+
+
+628
+00:29:23,0 --> 00:29:23,0
+
+
+629
+00:29:23,0 --> 00:29:23,0
+
+
+630
+00:29:23,0 --> 00:29:23,0
+enemies,
+
+631
+00:29:23,0 --> 00:29:23,0
+
+
+632
+00:29:23,0 --> 00:29:23,0
+
+
+633
+00:29:23,0 --> 00:29:23,0
+
+
+634
+00:29:23,0 --> 00:29:23,0
+
+
+635
+00:29:23,0 --> 00:29:23,0
+therefore
+
+636
+00:29:23,0 --> 00:29:23,0
+
+
+637
+00:29:23,0 --> 00:29:23,0
+the
+
+638
+00:29:23,0 --> 00:29:23,0
+
+
+639
+00:29:23,0 --> 00:29:23,0
+Lord
+
+640
+00:29:23,0 --> 00:29:23,0
+
+
+641
+00:29:23,0 --> 00:29:23,0
+did
+
+642
+00:29:23,0 --> 00:29:23,0
+
+
+643
+00:29:23,0 --> 00:29:23,0
+
+
+644
+00:29:23,0 --> 00:29:23,
+hear their cries, and did strengthen them, and the Lamanites and the Amlicites did fall before them.
+
+645
+00:29:23,0 --> 00:29:23,0
+29
+
+646
+00:29:23,0 --> 00:29:23,0
+
+
+647
+00:29:23,0 --> 00:29:23,0
+And
+
+648
+00:29:23,0 --> 00:29:23,0
+
+
+649
+00:29:23,0 --> 00:29:23,0
+it
+
+650
+00:29:23,0 --> 00:29:23,0
+
+
+651
+00:29:23,0 --> 00:29:23,0
+came
+
+652
+00:29:23,0 --> 00:29:23,0
+
+
+653
+00:29:23,0 --> 00:29:23,0
+to
+
+654
+00:29:23,0 --> 00:29:23,0
+
+
+655
+00:29:23,0 --> 00:29:23,0
+pass
+
+656
+00:29:23,0 --> 00:29:23,0
+
+
+657
+00:29:23,0 --> 00:29:23,0
+
+
+658
+00:29:23,0 --> 00:29:23,0
+that
+
+659
+00:29:23,0 --> 00:29:23,0
+
+
+660
+00:29:23,0 --> 00:29:23,0
+Alma
+
+661
+00:29:23,0 --> 00:29:23,0
+
+
+662
+00:29:23,0 --> 00:29:23,0
+
+
+663
+00:29:23,0 --> 00:29:23,0
+
+
+664
+00:29:23,0 --> 00:29:23,0
+fought
+
+665
+00:29:23,0 --> 00:29:23,0
+
+
+666
+00:29:23,0 --> 00:29:23,0
+with
+
+667
+00:29:23,0 --> 00:29:23,0
+
+
+668
+00:29:23,0 --> 00:29:23,0
+
+
+669
+00:29:23,0 --> 00:29:23,0
+
+
+670
+00:29:23,0 --> 00:29:23,0
+Amlici
+
+671
+00:29:23,0 --> 00:29:23,0
+
+
+672
+00:29:23,0 --> 00:29:23,0
+with
+
+673
+00:29:23,0 --> 00:29:23,0
+
+
+674
+00:29:23,0 --> 00:29:23,0
+the
+
+675
+00:29:23,0 --> 00:29:23,0
+
+
+676
+00:29:23,0 --> 00:29:23,0
+
+
+677
+00:29:23,0 --> 00:29:23,0
+
+
+678
+00:29:23,0 --> 00:29:23,0
+sword,
+
+679
+00:29:23,0 --> 00:29:23,0
+
+
+680
+00:29:23,0 --> 00:29:23,0
+face
+
+681
+00:29:23,0 --> 00:29:23,0
+
+
+682
+00:29:23,0 --> 00:29:23,0
+to
+
+683
+00:29:23,0 --> 00:29:23,0
+
+
+684
+00:29:23,0 --> 00:29:23,0
+
+
+685
+00:29:23,0 --> 00:29:23,0
+face;
+
+686
+00:29:23,0 --> 00:29:23,0
+
+
+687
+00:29:23,0 --> 00:29:23,0
+and
+
+688
+00:29:23,0 --> 00:29:23,0
+
+
+689
+00:29:23,0 --> 00:29:23,0
+they
+
+690
+00:29:23,0 --> 00:29:23,0
+
+
+691
+00:29:23,0 --> 00:29:23,0
+did
+
+692
+00:29:23,0 --> 00:29:23,0
+
+
+693
+00:29:23,0 --> 00:29:23,0
+
+
+694
+00:29:23,0 --> 00:29:23,0
+
+
+695
+00:29:23,0 --> 00:29:23,0
+contend
+
+696
+00:29:23,0 --> 00:29:23,0
+
+
+697
+00:29:23,0 --> 00:29:23,0
+
+
+698
+00:29:23,0 --> 00:29:23,0
+
+
+699
+00:29:23,0 --> 00:29:23,0
+
+
+700
+00:29:23,0 --> 00:29:23,0
+mightily,
+
+701
+00:29:23,0 --> 00:29:23,0
+
+
+702
+00:29:23,0 --> 00:29:23,0
+one
+
+703
+00:29:23,0 --> 00:29:23,0
+
+
+704
+00:29:23,0 --> 00:29:23,0
+
+
+705
+00:29:23,0 --> 00:29:23,0
+with
+
+706
+00:29:23,0 --> 00:29:23,0
+
+
+707
+00:29:23,0 --> 00:29:23,0
+
+
+708
+00:29:23,0 --> 00:29:23,0
+
+
+709
+00:29:23,0 --> 00:29:23,
+another.
+
+710
+00:29:23,0 --> 00:29:23,0
+30
+
+711
+00:29:23,0 --> 00:29:23,0
+
+
+712
+00:29:23,0 --> 00:29:23,0
+And
+
+713
+00:29:23,0 --> 00:29:23,0
+
+
+714
+00:29:23,0 --> 00:29:23,0
+it
+
+715
+00:29:23,0 --> 00:29:23,0
+
+
+716
+00:29:23,0 --> 00:29:23,0
+came
+
+717
+00:29:23,0 --> 00:29:23,0
+
+
+718
+00:29:23,0 --> 00:29:23,0
+to
+
+719
+00:29:23,0 --> 00:29:23,0
+
+
+720
+00:29:23,0 --> 00:29:23,0
+pass
+
+721
+00:29:23,0 --> 00:29:23,0
+
+
+722
+00:29:23,0 --> 00:29:23,0
+
+
+723
+00:29:23,0 --> 00:29:23,0
+that
+
+724
+00:29:23,0 --> 00:29:23,0
+
+
+725
+00:29:23,0 --> 00:29:23,0
+
+
+726
+00:29:23,0 --> 00:29:23,0
+Alma,
+
+727
+00:29:23,0 --> 00:29:23,0
+
+
+728
+00:29:23,0 --> 00:29:23,0
+
+
+729
+00:29:23,0 --> 00:29:23,0
+being
+
+730
+00:29:23,0 --> 00:29:23,0
+a
+
+731
+00:29:23,0 --> 00:29:23,0
+
+
+732
+00:29:23,0 --> 00:29:23,0
+man
+
+733
+00:29:23,0 --> 00:29:23,0
+of
+
+734
+00:29:23,0 --> 00:29:23,0
+
+
+735
+00:29:23,0 --> 00:29:23,0
+
+
+736
+00:29:23,0 --> 00:29:23,0
+God,
+
+737
+00:29:23,0 --> 00:29:23,0
+
+
+738
+00:29:23,0 --> 00:29:23,0
+
+
+739
+00:29:23,0 --> 00:29:23,0
+being
+
+740
+00:29:23,0 --> 00:29:23,0
+
+
+741
+00:29:23,0 --> 00:29:23,0
+
+
+742
+00:29:23,0 --> 00:29:23,0
+
+
+743
+00:29:23,0 --> 00:29:23,0
+
+
+744
+00:29:23,0 --> 00:29:23,0
+exercised
+
+745
+00:29:23,0 --> 00:29:23,0
+
+
+746
+00:29:23,0 --> 00:29:23,0
+with
+
+747
+00:29:23,0 --> 00:29:23,0
+
+
+748
+00:29:23,0 --> 00:29:23,0
+
+
+749
+00:29:23,0 --> 00:29:23,0
+much
+
+750
+00:29:23,0 --> 00:29:23,0
+
+
+751
+00:29:23,0 --> 00:29:23,0
+
+
+752
+00:29:23,0 --> 00:29:23,0
+faith,
+
+753
+00:29:23,0 --> 00:29:23,0
+
+
+754
+00:29:23,0 --> 00:29:23,0
+
+
+755
+00:29:23,0 --> 00:29:23,0
+
+
+756
+00:29:23,0 --> 00:29:23,0
+cried,
+
+757
+00:29:23,0 --> 00:29:23,0
+
+
+758
+00:29:23,0 --> 00:29:23,0
+
+
+759
+00:29:23,0 --> 00:29:23,0
+
+
+760
+00:29:23,0 --> 00:29:23,0
+saying:
+
+761
+00:29:23,0 --> 00:29:23,0
+O
+
+762
+00:29:23,0 --> 00:29:23,0
+
+
+763
+00:29:23,0 --> 00:29:23,0
+
+
+764
+00:29:23,0 --> 00:29:23,0
+Lord,
+
+765
+00:29:23,0 --> 00:29:23,0
+
+
+766
+00:29:23,0 --> 00:29:23,0
+have
+
+767
+00:29:23,0 --> 00:29:23,0
+
+
+768
+00:29:23,0 --> 00:29:23,0
+
+
+769
+00:29:23,0 --> 00:29:23,0
+mercy
+
+770
+00:29:23,0 --> 00:29:23,0
+
+
+771
+00:29:23,0 --> 00:29:23,0
+and
+
+772
+00:29:23,0 --> 00:29:23,0
+
+
+773
+00:29:23,0 --> 00:29:23,0
+
+
+774
+00:29:23,0 --> 00:29:23,0
+spare
+
+775
+00:29:23,0 --> 00:29:23,0
+
+
+776
+00:29:23,0 --> 00:29:23,0
+my
+
+777
+00:29:23,0 --> 00:29:23,0
+
+
+778
+00:29:23,0 --> 00:29:23,0
+
+
+779
+00:29:23,0 --> 00:29:23,0
+life,
+
+780
+00:29:23,0 --> 00:29:23,0
+
+
+781
+00:29:23,0 --> 00:29:23,0
+that
+
+782
+00:29:23,0 --> 00:29:23,0
+I
+
+783
+00:29:23,0 --> 00:29:23,0
+
+
+784
+00:29:23,0 --> 00:29:23,0
+may
+
+785
+00:29:23,0 --> 00:29:23,0
+
+
+786
+00:29:23,0 --> 00:29:23,0
+be
+
+787
+00:29:23,0 --> 00:29:23,0
+an
+
+788
+00:29:23,0 --> 00:29:23,0
+
+
+789
+00:29:23,0 --> 00:29:23,0
+
+
+790
+00:29:23,0 --> 00:29:23,0
+
+
+791
+00:29:23,0 --> 00:29:23,0
+
+
+792
+00:29:23,0 --> 00:29:23,0
+
+
+793
+00:29:23,0 --> 00:29:23,0
+instrument
+
+794
+00:29:23,0 --> 00:29:23,0
+in
+
+795
+00:29:23,0 --> 00:29:23,0
+
+
+796
+00:29:23,0 --> 00:29:23,0
+thy
+
+797
+00:29:23,0 --> 00:29:23,0
+
+
+798
+00:29:23,0 --> 00:29:23,0
+
+
+799
+00:29:23,0 --> 00:29:23,0
+hands
+
+800
+00:29:23,0 --> 00:29:23,0
+
+
+801
+00:29:23,0 --> 00:29:23,0
+to
+
+802
+00:29:23,0 --> 00:29:23,0
+
+
+803
+00:29:23,0 --> 00:29:23,0
+save
+
+804
+00:29:23,0 --> 00:29:23,0
+
+
+805
+00:29:23,0 --> 00:29:23,0
+and
+
+806
+00:29:23,0 --> 00:29:23,0
+
+
+807
+00:29:23,0 --> 00:29:23,0
+
+
+808
+00:29:23,0 --> 00:29:23,0
+
+
+809
+00:29:23,0 --> 00:29:23,0
+
+
+810
+00:29:23,0 --> 00:29:23,0
+preserve
+
+811
+00:29:23,0 --> 00:29:23,0
+
+
+812
+00:29:23,0 --> 00:29:23,0
+this
+
+813
+00:29:23,0 --> 00:29:23,0
+
+
+814
+00:29:23,0 --> 00:29:23,0
+
+
+815
+00:29:23,0 --> 00:29:23,0
+
+
+816
+00:29:23,0 --> 00:29:23,
+people.
+
+817
+00:29:23,0 --> 00:29:23,0
+31 Now when Alma had said these words he contended again with Amlici; and he was strengthened, insomuch that he slew Amlici with the
+
+818
+00:29:23,0 --> 00:29:23,0
+
+
+819
+00:29:23,0 --> 00:29:23,0
+
+
+820
+00:29:23,0 --> 00:29:23,0
+
+
+821
+00:29:23,0 --> 00:29:23,0
+
+
+822
+00:29:23,0 --> 00:29:23,0
+Now
+
+823
+00:29:23,0 --> 00:29:23,0
+
+
+824
+00:29:23,0 --> 00:29:23,0
+
+
+825
+00:29:23,0 --> 00:29:23,0
+
+
+826
+00:29:23,0 --> 00:29:23,0
+
+
+827
+00:29:23,0 --> 00:29:23,0
+when
+
+828
+00:29:23,0 --> 00:29:23,0
+
+
+829
+00:29:23,0 --> 00:29:23,0
+
+
+830
+00:29:23,0 --> 00:29:23,0
+
+
+831
+00:29:23,0 --> 00:29:23,0
+
+
+832
+00:29:23,0 --> 00:29:23,0
+Alma
+
+833
+00:29:23,0 --> 00:29:23,0
+
+
+834
+00:29:23,0 --> 00:29:23,0
+
+
+835
+00:29:23,0 --> 00:29:23,0
+
+
+836
+00:29:23,0 --> 00:29:23,0
+had
+
+837
+00:29:23,0 --> 00:29:23,0
+
+
+838
+00:29:23,0 --> 00:29:23,0
+
+
+839
+00:29:23,0 --> 00:29:23,0
+
+
+840
+00:29:23,0 --> 00:29:23,0
+
+
+841
+00:29:23,0 --> 00:29:23,0
+said
+
+842
+00:29:23,0 --> 00:29:23,0
+
+
+843
+00:29:23,0 --> 00:29:23,0
+
+
+844
+00:29:23,0 --> 00:29:23,0
+
+
+845
+00:29:23,0 --> 00:29:23,0
+
+
+846
+00:29:23,0 --> 00:29:23,0
+
+
+847
+00:29:23,0 --> 00:29:23,0
+these
+
+848
+00:29:23,0 --> 00:29:23,0
+
+
+849
+00:29:23,0 --> 00:29:23,0
+
+
+850
+00:29:23,0 --> 00:29:23,0
+
+
+851
+00:29:23,0 --> 00:29:23,0
+
+
+852
+00:29:23,0 --> 00:29:23,0
+
+
+853
+00:29:23,0 --> 00:29:23,0
+words
+
+854
+00:29:23,0 --> 00:29:23,0
+
+
+855
+00:29:23,0 --> 00:29:23,0
+
+
+856
+00:29:23,0 --> 00:29:23,0
+he
+
+857
+00:29:23,0 --> 00:29:23,0
+
+
+858
+00:29:23,0 --> 00:29:23,0
+
+
+859
+00:29:23,0 --> 00:29:23,0
+
+
+860
+00:29:23,0 --> 00:29:23,0
+
+
+861
+00:29:23,0 --> 00:29:23,0
+
+
+862
+00:29:23,0 --> 00:29:23,0
+
+
+863
+00:29:23,0 --> 00:29:23,0
+
+
+864
+00:29:23,0 --> 00:29:23,0
+
+
+865
+00:29:23,0 --> 00:29:23,0
+
+
+866
+00:29:23,0 --> 00:29:23,0
+contended
+
+867
+00:29:23,0 --> 00:29:23,0
+
+
+868
+00:29:23,0 --> 00:29:23,0
+
+
+869
+00:29:23,0 --> 00:29:23,0
+
+
+870
+00:29:23,0 --> 00:29:23,0
+
+
+871
+00:29:23,0 --> 00:29:23,0
+
+
+872
+00:29:23,0 --> 00:29:23,0
+again
+
+873
+00:29:23,0 --> 00:29:23,0
+
+
+874
+00:29:23,0 --> 00:29:23,0
+
+
+875
+00:29:23,0 --> 00:29:23,0
+
+
+876
+00:29:23,0 --> 00:29:23,0
+
+
+877
+00:29:23,0 --> 00:29:23,0
+with
+
+878
+00:29:23,0 --> 00:29:23,0
+
+
+879
+00:29:23,0 --> 00:29:23,0
+
+
+880
+00:29:23,0 --> 00:29:23,0
+
+
+881
+00:29:23,0 --> 00:29:23,0
+
+
+882
+00:29:23,0 --> 00:29:23,0
+
+
+883
+00:29:23,0 --> 00:29:23,0
+
+
+884
+00:29:23,0 --> 00:29:23,0
+
+
+885
+00:29:23,0 --> 00:29:23,0
+Amlici;
+
+886
+00:29:23,0 --> 00:29:23,
+and he was strengthened, insomuch that he slew Amlici with the sword.
+
+887
+00:29:23,0 --> 00:29:23,0
+32 And he also contended with the king of the Lamanites; but the king of the Lamanites fled back from before Alma and sent his guards to contend with
+
+888
+00:29:23,0 --> 00:29:23,0
+
+
+889
+00:29:23,0 --> 00:29:23,0
+
+
+890
+00:29:23,0 --> 00:29:23,0
+
+
+891
+00:29:23,0 --> 00:29:23,0
+
+
+892
+00:29:23,0 --> 00:29:23,0
+And
+
+893
+00:29:23,0 --> 00:29:23,0
+
+
+894
+00:29:23,0 --> 00:29:23,0
+
+
+895
+00:29:23,0 --> 00:29:23,0
+he
+
+896
+00:29:23,0 --> 00:29:23,0
+
+
+897
+00:29:23,0 --> 00:29:23,0
+
+
+898
+00:29:23,0 --> 00:29:23,0
+
+
+899
+00:29:23,0 --> 00:29:23,0
+
+
+900
+00:29:23,0 --> 00:29:23,0
+also
+
+901
+00:29:23,0 --> 00:29:23,0
+
+
+902
+00:29:23,0 --> 00:29:23,0
+
+
+903
+00:29:23,0 --> 00:29:23,0
+
+
+904
+00:29:23,0 --> 00:29:23,0
+
+
+905
+00:29:23,0 --> 00:29:23,0
+
+
+906
+00:29:23,0 --> 00:29:23,0
+
+
+907
+00:29:23,0 --> 00:29:23,0
+
+
+908
+00:29:23,0 --> 00:29:23,0
+
+
+909
+00:29:23,0 --> 00:29:23,0
+
+
+910
+00:29:23,0 --> 00:29:23,0
+contended
+
+911
+00:29:23,0 --> 00:29:23,0
+
+
+912
+00:29:23,0 --> 00:29:23,0
+
+
+913
+00:29:23,0 --> 00:29:23,0
+
+
+914
+00:29:23,0 --> 00:29:23,0
+
+
+915
+00:29:23,0 --> 00:29:23,0
+with
+
+916
+00:29:23,0 --> 00:29:23,0
+
+
+917
+00:29:23,0 --> 00:29:23,0
+
+
+918
+00:29:23,0 --> 00:29:23,0
+
+
+919
+00:29:23,0 --> 00:29:23,0
+the
+
+920
+00:29:23,0 --> 00:29:23,0
+
+
+921
+00:29:23,0 --> 00:29:23,0
+
+
+922
+00:29:23,0 --> 00:29:23,0
+
+
+923
+00:29:23,0 --> 00:29:23,0
+
+
+924
+00:29:23,0 --> 00:29:23,0
+king
+
+925
+00:29:23,0 --> 00:29:23,0
+
+
+926
+00:29:23,0 --> 00:29:23,0
+
+
+927
+00:29:23,0 --> 00:29:23,0
+of
+
+928
+00:29:23,0 --> 00:29:23,0
+
+
+929
+00:29:23,0 --> 00:29:23,0
+
+
+930
+00:29:23,0 --> 00:29:23,0
+
+
+931
+00:29:23,0 --> 00:29:23,0
+the
+
+932
+00:29:23,0 --> 00:29:23,0
+
+
+933
+00:29:23,0 --> 00:29:23,0
+
+
+934
+00:29:23,0 --> 00:29:23,0
+
+
+935
+00:29:23,0 --> 00:29:23,0
+
+
+936
+00:29:23,0 --> 00:29:23,0
+
+
+937
+00:29:23,0 --> 00:29:23,0
+
+
+938
+00:29:23,0 --> 00:29:23,0
+
+
+939
+00:29:23,0 --> 00:29:23,0
+
+
+940
+00:29:23,0 --> 00:29:23,0
+
+
+941
+00:29:23,0 --> 00:29:23,0
+
+
+942
+00:29:23,0 --> 00:29:23,0
+Lamanites;
+
+943
+00:29:23,0 --> 00:29:23,0
+
+
+944
+00:29:23,0 --> 00:29:23,0
+
+
+945
+00:29:23,0 --> 00:29:23,0
+
+
+946
+00:29:23,0 --> 00:29:23,0
+but
+
+947
+00:29:23,0 --> 00:29:23,0
+
+
+948
+00:29:23,0 --> 00:29:23,0
+
+
+949
+00:29:23,0 --> 00:29:23,0
+
+
+950
+00:29:23,0 --> 00:29:23,0
+the
+
+951
+00:29:23,0 --> 00:29:23,0
+
+
+952
+00:29:23,0 --> 00:29:23,0
+
+
+953
+00:29:23,0 --> 00:29:23,0
+
+
+954
+00:29:23,0 --> 00:29:23,0
+
+
+955
+00:29:23,0 --> 00:29:23,0
+king
+
+956
+00:29:23,0 --> 00:29:23,0
+
+
+957
+00:29:23,0 --> 00:29:23,0
+
+
+958
+00:29:23,0 --> 00:29:23,0
+of
+
+959
+00:29:23,0 --> 00:29:23,0
+
+
+960
+00:29:23,0 --> 00:29:23,0
+
+
+961
+00:29:23,0 --> 00:29:23,0
+
+
+962
+00:29:23,0 --> 00:29:23,0
+the
+
+963
+00:29:23,0 --> 00:29:23,0
+
+
+964
+00:29:23,0 --> 00:29:23,0
+
+
+965
+00:29:23,0 --> 00:29:23,0
+
+
+966
+00:29:23,0 --> 00:29:23,0
+
+
+967
+00:29:23,0 --> 00:29:23,0
+
+
+968
+00:29:23,0 --> 00:29:23,0
+
+
+969
+00:29:23,0 --> 00:29:23,0
+
+
+970
+00:29:23,0 --> 00:29:23,0
+
+
+971
+00:29:23,0 --> 00:29:23,0
+
+
+972
+00:29:23,0 --> 00:29:23,0
+Lamanites
+
+973
+00:29:23,0 --> 00:29:23,0
+
+
+974
+00:29:23,0 --> 00:29:23,0
+
+
+975
+00:29:23,0 --> 00:29:23,0
+
+
+976
+00:29:23,0 --> 00:29:23,0
+
+
+977
+00:29:23,0 --> 00:29:23,0
+fled
+
+978
+00:29:23,0 --> 00:29:23,0
+
+
+979
+00:29:23,0 --> 00:29:23,0
+
+
+980
+00:29:23,0 --> 00:29:23,0
+
+
+981
+00:29:23,0 --> 00:29:23,0
+
+
+982
+00:29:23,0 --> 00:29:23,0
+back
+
+983
+00:29:23,0 --> 00:29:23,0
+
+
+984
+00:29:23,0 --> 00:29:23,0
+
+
+985
+00:29:23,0 --> 00:29:23,0
+
+
+986
+00:29:23,0 --> 00:29:23,0
+
+
+987
+00:29:23,0 --> 00:29:23,0
+from
+
+988
+00:29:23,0 --> 00:29:23,0
+
+
+989
+00:29:23,0 --> 00:29:23,0
+
+
+990
+00:29:23,0 --> 00:29:23,0
+
+
+991
+00:29:23,0 --> 00:29:23,0
+
+
+992
+00:29:23,0 --> 00:29:23,0
+
+
+993
+00:29:23,0 --> 00:29:23,0
+
+
+994
+00:29:23,0 --> 00:29:23,0
+before
+
+995
+00:29:23,0 --> 00:29:23,0
+
+
+996
+00:29:23,0 --> 00:29:23,0
+
+
+997
+00:29:23,0 --> 00:29:23,0
+
+
+998
+00:29:23,0 --> 00:29:23,0
+
+
+999
+00:29:23,0 --> 00:29:23,0
+Alma
+
+1000
+00:29:23,0 --> 00:29:23,0
+
+
+1001
+00:29:23,0 --> 00:29:23,0
+
+
+1002
+00:29:23,0 --> 00:29:23,0
+
+
+1003
+00:29:23,0 --> 00:29:23,0
+and
+
+1004
+00:29:23,0 --> 00:29:23,0
+
+
+1005
+00:29:23,0 --> 00:29:23,0
+
+
+1006
+00:29:23,0 --> 00:29:23,0
+
+
+1007
+00:29:23,0 --> 00:29:23,0
+
+
+1008
+00:29:23,0 --> 00:29:23,0
+sent
+
+1009
+00:29:23,0 --> 00:29:23,0
+
+
+1010
+00:29:23,0 --> 00:29:23,0
+
+
+1011
+00:29:23,0 --> 00:29:23,0
+
+
+1012
+00:29:23,0 --> 00:29:23,0
+his
+
+1013
+00:29:23,0 --> 00:29:23,0
+
+
+1014
+00:29:23,0 --> 00:29:23,0
+
+
+1015
+00:29:23,0 --> 00:29:23,0
+
+
+1016
+00:29:23,0 --> 00:29:23,0
+
+
+1017
+00:29:23,0 --> 00:29:23,0
+
+
+1018
+00:29:23,0 --> 00:29:23,0
+
+
+1019
+00:29:23,0 --> 00:29:23,0
+guards
+
+1020
+00:29:23,0 --> 00:29:23,0
+
+
+1021
+00:29:23,0 --> 00:29:23,0
+
+
+1022
+00:29:23,0 --> 00:29:23,0
+to
+
+1023
+00:29:23,0 --> 00:29:23,0
+
+
+1024
+00:29:23,0 --> 00:29:23,0
+
+
+1025
+00:29:23,0 --> 00:29:23,0
+
+
+1026
+00:29:23,0 --> 00:29:23,0
+
+
+1027
+00:29:23,0 --> 00:29:23,0
+
+
+1028
+00:29:23,0 --> 00:29:23,0
+
+
+1029
+00:29:23,0 --> 00:29:23,0
+
+
+1030
+00:29:23,0 --> 00:29:23,0
+contend
+
+1031
+00:29:23,0 --> 00:29:23,0
+
+
+1032
+00:29:23,0 --> 00:29:23,0
+
+
+1033
+00:29:23,0 --> 00:29:23,0
+
+
+1034
+00:29:23,0 --> 00:29:23,0
+
+
+1035
+00:29:23,0 --> 00:29:23,0
+with
+
+1036
+00:29:23,0 --> 00:29:23,0
+
+
+1037
+00:29:23,0 --> 00:29:23,0
+
+
+1038
+00:29:23,0 --> 00:29:23,0
+
+
+1039
+00:29:23,0 --> 00:29:23,0
+
+
+1040
+00:29:23,0 --> 00:29:23,0
+
+
+1041
+00:29:23,0 --> 00:29:23,
+Alma.
+
+1042
+00:29:23,0 --> 00:29:23,0
+33 But Alma, with his guards, contended with the guards of the king of the Lamanites until he slew and drove them
+
+1043
+00:29:23,0 --> 00:29:23,0
+
+
+1044
+00:29:23,0 --> 00:29:23,0
+
+
+1045
+00:29:23,0 --> 00:29:23,0
+
+
+1046
+00:29:23,0 --> 00:29:23,0
+
+
+1047
+00:29:23,0 --> 00:29:23,0
+But
+
+1048
+00:29:23,0 --> 00:29:23,0
+
+
+1049
+00:29:23,0 --> 00:29:23,0
+
+
+1050
+00:29:23,0 --> 00:29:23,0
+
+
+1051
+00:29:23,0 --> 00:29:23,0
+
+
+1052
+00:29:23,0 --> 00:29:23,0
+
+
+1053
+00:29:23,0 --> 00:29:23,0
+Alma,
+
+1054
+00:29:23,0 --> 00:29:23,0
+
+
+1055
+00:29:23,0 --> 00:29:23,0
+
+
+1056
+00:29:23,0 --> 00:29:23,0
+
+
+1057
+00:29:23,0 --> 00:29:23,0
+
+
+1058
+00:29:23,0 --> 00:29:23,0
+with
+
+1059
+00:29:23,0 --> 00:29:23,0
+
+
+1060
+00:29:23,0 --> 00:29:23,0
+
+
+1061
+00:29:23,0 --> 00:29:23,0
+
+
+1062
+00:29:23,0 --> 00:29:23,0
+his
+
+1063
+00:29:23,0 --> 00:29:23,0
+
+
+1064
+00:29:23,0 --> 00:29:23,0
+
+
+1065
+00:29:23,0 --> 00:29:23,0
+
+
+1066
+00:29:23,0 --> 00:29:23,0
+
+
+1067
+00:29:23,0 --> 00:29:23,0
+
+
+1068
+00:29:23,0 --> 00:29:23,0
+
+
+1069
+00:29:23,0 --> 00:29:23,0
+
+
+1070
+00:29:23,0 --> 00:29:23,0
+guards,
+
+1071
+00:29:23,0 --> 00:29:23,0
+
+
+1072
+00:29:23,0 --> 00:29:23,0
+
+
+1073
+00:29:23,0 --> 00:29:23,0
+
+
+1074
+00:29:23,0 --> 00:29:23,0
+
+
+1075
+00:29:23,0 --> 00:29:23,0
+
+
+1076
+00:29:23,0 --> 00:29:23,0
+
+
+1077
+00:29:23,0 --> 00:29:23,0
+
+
+1078
+00:29:23,0 --> 00:29:23,0
+
+
+1079
+00:29:23,0 --> 00:29:23,0
+
+
+1080
+00:29:23,0 --> 00:29:23,0
+contended
+
+1081
+00:29:23,0 --> 00:29:23,0
+
+
+1082
+00:29:23,0 --> 00:29:23,0
+
+
+1083
+00:29:23,0 --> 00:29:23,0
+
+
+1084
+00:29:23,0 --> 00:29:23,0
+
+
+1085
+00:29:23,0 --> 00:29:23,0
+with
+
+1086
+00:29:23,0 --> 00:29:23,0
+
+
+1087
+00:29:23,0 --> 00:29:23,0
+
+
+1088
+00:29:23,0 --> 00:29:23,0
+
+
+1089
+00:29:23,0 --> 00:29:23,0
+the
+
+1090
+00:29:23,0 --> 00:29:23,0
+
+
+1091
+00:29:23,0 --> 00:29:23,0
+
+
+1092
+00:29:23,0 --> 00:29:23,0
+
+
+1093
+00:29:23,0 --> 00:29:23,0
+
+
+1094
+00:29:23,0 --> 00:29:23,0
+
+
+1095
+00:29:23,0 --> 00:29:23,0
+
+
+1096
+00:29:23,0 --> 00:29:23,0
+guards
+
+1097
+00:29:23,0 --> 00:29:23,0
+
+
+1098
+00:29:23,0 --> 00:29:23,0
+
+
+1099
+00:29:23,0 --> 00:29:23,0
+of
+
+1100
+00:29:23,0 --> 00:29:23,0
+
+
+1101
+00:29:23,0 --> 00:29:23,0
+
+
+1102
+00:29:23,0 --> 00:29:23,0
+
+
+1103
+00:29:23,0 --> 00:29:23,0
+the
+
+1104
+00:29:23,0 --> 00:29:23,0
+
+
+1105
+00:29:23,0 --> 00:29:23,0
+
+
+1106
+00:29:23,0 --> 00:29:23,0
+
+
+1107
+00:29:23,0 --> 00:29:23,0
+
+
+1108
+00:29:23,0 --> 00:29:23,0
+king
+
+1109
+00:29:23,0 --> 00:29:23,0
+
+
+1110
+00:29:23,0 --> 00:29:23,0
+
+
+1111
+00:29:23,0 --> 00:29:23,0
+of
+
+1112
+00:29:23,0 --> 00:29:23,0
+
+
+1113
+00:29:23,0 --> 00:29:23,0
+
+
+1114
+00:29:23,0 --> 00:29:23,0
+
+
+1115
+00:29:23,0 --> 00:29:23,0
+the
+
+1116
+00:29:23,0 --> 00:29:23,0
+
+
+1117
+00:29:23,0 --> 00:29:23,0
+
+
+1118
+00:29:23,0 --> 00:29:23,0
+
+
+1119
+00:29:23,0 --> 00:29:23,0
+
+
+1120
+00:29:23,0 --> 00:29:23,0
+
+
+1121
+00:29:23,0 --> 00:29:23,0
+
+
+1122
+00:29:23,0 --> 00:29:23,0
+
+
+1123
+00:29:23,0 --> 00:29:23,0
+
+
+1124
+00:29:23,0 --> 00:29:23,0
+
+
+1125
+00:29:23,0 --> 00:29:23,0
+Lamanites
+
+1126
+00:29:23,0 --> 00:29:23,0
+
+
+1127
+00:29:23,0 --> 00:29:23,0
+
+
+1128
+00:29:23,0 --> 00:29:23,0
+
+
+1129
+00:29:23,0 --> 00:29:23,0
+
+
+1130
+00:29:23,0 --> 00:29:23,0
+
+
+1131
+00:29:23,0 --> 00:29:23,0
+until
+
+1132
+00:29:23,0 --> 00:29:23,0
+
+
+1133
+00:29:23,0 --> 00:29:23,0
+
+
+1134
+00:29:23,0 --> 00:29:23,0
+he
+
+1135
+00:29:23,0 --> 00:29:23,0
+
+
+1136
+00:29:23,0 --> 00:29:23,0
+
+
+1137
+00:29:23,0 --> 00:29:23,0
+
+
+1138
+00:29:23,0 --> 00:29:23,0
+
+
+1139
+00:29:23,0 --> 00:29:23,0
+slew
+
+1140
+00:29:23,0 --> 00:29:23,0
+
+
+1141
+00:29:23,0 --> 00:29:23,0
+
+
+1142
+00:29:23,0 --> 00:29:23,0
+
+
+1143
+00:29:23,0 --> 00:29:23,0
+and
+
+1144
+00:29:23,0 --> 00:29:23,0
+
+
+1145
+00:29:23,0 --> 00:29:23,0
+
+
+1146
+00:29:23,0 --> 00:29:23,0
+
+
+1147
+00:29:23,0 --> 00:29:23,0
+
+
+1148
+00:29:23,0 --> 00:29:23,0
+
+
+1149
+00:29:23,0 --> 00:29:23,0
+drove
+
+1150
+00:29:23,0 --> 00:29:23,0
+
+
+1151
+00:29:23,0 --> 00:29:23,0
+
+
+1152
+00:29:23,0 --> 00:29:23,0
+
+
+1153
+00:29:23,0 --> 00:29:23,0
+
+
+1154
+00:29:23,0 --> 00:29:23,0
+them
+
+1155
+00:29:23,0 --> 00:29:23,0
+
+
+1156
+00:29:23,0 --> 00:29:23,0
+
+
+1157
+00:29:23,0 --> 00:29:23,0
+
+
+1158
+00:29:23,0 --> 00:29:23,0
+
+
+1159
+00:29:23,0 --> 00:29:23,0
+
+
+1160
+00:29:23,0 --> 00:29:23,
+back.
+
+1161
+00:29:23,0 --> 00:29:23,0
+34 And thus he cleared the ground, or rather the bank, which was on the west of the river Sidon, throwing the bodies of the Lamanites who had been slain into the waters of Sidon, that thereby his people might have room to cross and contend with the Lamanites and the Amlicites on the west side of the river
+
+1162
+00:29:23,0 --> 00:29:23,0
+
+
+1163
+00:29:23,0 --> 00:29:23,0
+
+
+1164
+00:29:23,0 --> 00:29:23,0
+
+
+1165
+00:29:23,0 --> 00:29:23,0
+
+
+1166
+00:29:23,0 --> 00:29:23,0
+And
+
+1167
+00:29:23,0 --> 00:29:23,0
+
+
+1168
+00:29:23,0 --> 00:29:23,0
+
+
+1169
+00:29:23,0 --> 00:29:23,0
+
+
+1170
+00:29:23,0 --> 00:29:23,0
+
+
+1171
+00:29:23,0 --> 00:29:23,0
+thus
+
+1172
+00:29:23,0 --> 00:29:23,0
+
+
+1173
+00:29:23,0 --> 00:29:23,0
+
+
+1174
+00:29:23,0 --> 00:29:23,0
+he
+
+1175
+00:29:23,0 --> 00:29:23,0
+
+
+1176
+00:29:23,0 --> 00:29:23,0
+
+
+1177
+00:29:23,0 --> 00:29:23,0
+
+
+1178
+00:29:23,0 --> 00:29:23,0
+
+
+1179
+00:29:23,0 --> 00:29:23,0
+
+
+1180
+00:29:23,0 --> 00:29:23,0
+
+
+1181
+00:29:23,0 --> 00:29:23,0
+
+
+1182
+00:29:23,0 --> 00:29:23,0
+cleared
+
+1183
+00:29:23,0 --> 00:29:23,0
+
+
+1184
+00:29:23,0 --> 00:29:23,0
+
+
+1185
+00:29:23,0 --> 00:29:23,0
+
+
+1186
+00:29:23,0 --> 00:29:23,0
+the
+
+1187
+00:29:23,0 --> 00:29:23,0
+
+
+1188
+00:29:23,0 --> 00:29:23,0
+
+
+1189
+00:29:23,0 --> 00:29:23,0
+
+
+1190
+00:29:23,0 --> 00:29:23,0
+
+
+1191
+00:29:23,0 --> 00:29:23,0
+
+
+1192
+00:29:23,0 --> 00:29:23,0
+
+
+1193
+00:29:23,0 --> 00:29:23,0
+
+
+1194
+00:29:23,0 --> 00:29:23,0
+ground,
+
+1195
+00:29:23,0 --> 00:29:23,0
+
+
+1196
+00:29:23,0 --> 00:29:23,0
+
+
+1197
+00:29:23,0 --> 00:29:23,0
+or
+
+1198
+00:29:23,0 --> 00:29:23,0
+
+
+1199
+00:29:23,0 --> 00:29:23,0
+
+
+1200
+00:29:23,0 --> 00:29:23,0
+
+
+1201
+00:29:23,0 --> 00:29:23,0
+
+
+1202
+00:29:23,0 --> 00:29:23,0
+
+
+1203
+00:29:23,0 --> 00:29:23,0
+
+
+1204
+00:29:23,0 --> 00:29:23,0
+rather
+
+1205
+00:29:23,0 --> 00:29:23,0
+
+
+1206
+00:29:23,0 --> 00:29:23,0
+
+
+1207
+00:29:23,0 --> 00:29:23,0
+
+
+1208
+00:29:23,0 --> 00:29:23,0
+the
+
+1209
+00:29:23,0 --> 00:29:23,0
+
+
+1210
+00:29:23,0 --> 00:29:23,0
+
+
+1211
+00:29:23,0 --> 00:29:23,0
+
+
+1212
+00:29:23,0 --> 00:29:23,0
+
+
+1213
+00:29:23,0 --> 00:29:23,0
+
+
+1214
+00:29:23,0 --> 00:29:23,0
+bank,
+
+1215
+00:29:23,0 --> 00:29:23,0
+
+
+1216
+00:29:23,0 --> 00:29:23,0
+
+
+1217
+00:29:23,0 --> 00:29:23,0
+
+
+1218
+00:29:23,0 --> 00:29:23,0
+
+
+1219
+00:29:23,0 --> 00:29:23,0
+
+
+1220
+00:29:23,0 --> 00:29:23,0
+which
+
+1221
+00:29:23,0 --> 00:29:23,0
+
+
+1222
+00:29:23,0 --> 00:29:23,0
+
+
+1223
+00:29:23,0 --> 00:29:23,0
+
+
+1224
+00:29:23,0 --> 00:29:23,0
+was
+
+1225
+00:29:23,0 --> 00:29:23,0
+
+
+1226
+00:29:23,0 --> 00:29:23,0
+
+
+1227
+00:29:23,0 --> 00:29:23,0
+on
+
+1228
+00:29:23,0 --> 00:29:23,0
+
+
+1229
+00:29:23,0 --> 00:29:23,0
+
+
+1230
+00:29:23,0 --> 00:29:23,0
+
+
+1231
+00:29:23,0 --> 00:29:23,0
+the
+
+1232
+00:29:23,0 --> 00:29:23,0
+
+
+1233
+00:29:23,0 --> 00:29:23,0
+
+
+1234
+00:29:23,0 --> 00:29:23,0
+
+
+1235
+00:29:23,0 --> 00:29:23,0
+
+
+1236
+00:29:23,0 --> 00:29:23,0
+west
+
+1237
+00:29:23,0 --> 00:29:23,0
+
+
+1238
+00:29:23,0 --> 00:29:23,0
+
+
+1239
+00:29:23,0 --> 00:29:23,0
+of
+
+1240
+00:29:23,0 --> 00:29:23,0
+
+
+1241
+00:29:23,0 --> 00:29:23,0
+
+
+1242
+00:29:23,0 --> 00:29:23,0
+
+
+1243
+00:29:23,0 --> 00:29:23,0
+the
+
+1244
+00:29:23,0 --> 00:29:23,0
+
+
+1245
+00:29:23,0 --> 00:29:23,0
+
+
+1246
+00:29:23,0 --> 00:29:23,0
+
+
+1247
+00:29:23,0 --> 00:29:23,0
+
+
+1248
+00:29:23,0 --> 00:29:23,0
+
+
+1249
+00:29:23,0 --> 00:29:23,0
+river
+
+1250
+00:29:23,0 --> 00:29:23,0
+
+
+1251
+00:29:23,0 --> 00:29:23,0
+
+
+1252
+00:29:23,0 --> 00:29:23,0
+
+
+1253
+00:29:23,0 --> 00:29:23,0
+
+
+1254
+00:29:23,0 --> 00:29:23,0
+
+
+1255
+00:29:23,0 --> 00:29:23,0
+
+
+1256
+00:29:23,0 --> 00:29:23,0
+Sidon,
+
+1257
+00:29:23,0 --> 00:29:23,0
+
+
+1258
+00:29:23,0 --> 00:29:23,0
+
+
+1259
+00:29:23,0 --> 00:29:23,0
+
+
+1260
+00:29:23,0 --> 00:29:23,0
+
+
+1261
+00:29:23,0 --> 00:29:23,0
+
+
+1262
+00:29:23,0 --> 00:29:23,0
+
+
+1263
+00:29:23,0 --> 00:29:23,0
+
+
+1264
+00:29:23,0 --> 00:29:23,0
+
+
+1265
+00:29:23,0 --> 00:29:23,0
+throwing
+
+1266
+00:29:23,0 --> 00:29:23,0
+
+
+1267
+00:29:23,0 --> 00:29:23,0
+
+
+1268
+00:29:23,0 --> 00:29:23,0
+
+
+1269
+00:29:23,0 --> 00:29:23,0
+the
+
+1270
+00:29:23,0 --> 00:29:23,0
+
+
+1271
+00:29:23,0 --> 00:29:23,0
+
+
+1272
+00:29:23,0 --> 00:29:23,0
+
+
+1273
+00:29:23,0 --> 00:29:23,0
+
+
+1274
+00:29:23,0 --> 00:29:23,0
+
+
+1275
+00:29:23,0 --> 00:29:23,0
+
+
+1276
+00:29:23,0 --> 00:29:23,0
+bodies
+
+1277
+00:29:23,0 --> 00:29:23,0
+
+
+1278
+00:29:23,0 --> 00:29:23,0
+
+
+1279
+00:29:23,0 --> 00:29:23,0
+of
+
+1280
+00:29:23,0 --> 00:29:23,0
+
+
+1281
+00:29:23,0 --> 00:29:23,0
+
+
+1282
+00:29:23,0 --> 00:29:23,0
+
+
+1283
+00:29:23,0 --> 00:29:23,0
+the
+
+1284
+00:29:23,0 --> 00:29:23,0
+
+
+1285
+00:29:23,0 --> 00:29:23,0
+
+
+1286
+00:29:23,0 --> 00:29:23,0
+
+
+1287
+00:29:23,0 --> 00:29:23,0
+
+
+1288
+00:29:23,0 --> 00:29:23,0
+
+
+1289
+00:29:23,0 --> 00:29:23,0
+
+
+1290
+00:29:23,0 --> 00:29:23,0
+
+
+1291
+00:29:23,0 --> 00:29:23,0
+
+
+1292
+00:29:23,0 --> 00:29:23,0
+
+
+1293
+00:29:23,0 --> 00:29:23,0
+Lamanites
+
+1294
+00:29:23,0 --> 00:29:23,0
+
+
+1295
+00:29:23,0 --> 00:29:23,0
+
+
+1296
+00:29:23,0 --> 00:29:23,0
+
+
+1297
+00:29:23,0 --> 00:29:23,0
+who
+
+1298
+00:29:23,0 --> 00:29:23,0
+
+
+1299
+00:29:23,0 --> 00:29:23,0
+
+
+1300
+00:29:23,0 --> 00:29:23,0
+
+
+1301
+00:29:23,0 --> 00:29:23,0
+had
+
+1302
+00:29:23,0 --> 00:29:23,0
+
+
+1303
+00:29:23,0 --> 00:29:23,0
+
+
+1304
+00:29:23,0 --> 00:29:23,0
+
+
+1305
+00:29:23,0 --> 00:29:23,0
+
+
+1306
+00:29:23,0 --> 00:29:23,0
+been
+
+1307
+00:29:23,0 --> 00:29:23,0
+
+
+1308
+00:29:23,0 --> 00:29:23,0
+
+
+1309
+00:29:23,0 --> 00:29:23,0
+
+
+1310
+00:29:23,0 --> 00:29:23,0
+
+
+1311
+00:29:23,0 --> 00:29:23,0
+
+
+1312
+00:29:23,0 --> 00:29:23,0
+slain
+
+1313
+00:29:23,0 --> 00:29:23,0
+
+
+1314
+00:29:23,0 --> 00:29:23,0
+
+
+1315
+00:29:23,0 --> 00:29:23,0
+
+
+1316
+00:29:23,0 --> 00:29:23,0
+
+
+1317
+00:29:23,0 --> 00:29:23,0
+into
+
+1318
+00:29:23,0 --> 00:29:23,0
+
+
+1319
+00:29:23,0 --> 00:29:23,0
+
+
+1320
+00:29:23,0 --> 00:29:23,0
+
+
+1321
+00:29:23,0 --> 00:29:23,0
+the
+
+1322
+00:29:23,0 --> 00:29:23,0
+
+
+1323
+00:29:23,0 --> 00:29:23,0
+
+
+1324
+00:29:23,0 --> 00:29:23,0
+
+
+1325
+00:29:23,0 --> 00:29:23,0
+
+
+1326
+00:29:23,0 --> 00:29:23,0
+
+
+1327
+00:29:23,0 --> 00:29:23,0
+
+
+1328
+00:29:23,0 --> 00:29:23,0
+waters
+
+1329
+00:29:23,0 --> 00:29:23,0
+
+
+1330
+00:29:23,0 --> 00:29:23,0
+
+
+1331
+00:29:23,0 --> 00:29:23,0
+of
+
+1332
+00:29:23,0 --> 00:29:23,0
+
+
+1333
+00:29:23,0 --> 00:29:23,0
+
+
+1334
+00:29:23,0 --> 00:29:23,0
+
+
+1335
+00:29:23,0 --> 00:29:23,0
+
+
+1336
+00:29:23,0 --> 00:29:23,0
+
+
+1337
+00:29:23,0 --> 00:29:23,0
+
+
+1338
+00:29:23,0 --> 00:29:23,0
+Sidon,
+
+1339
+00:29:23,0 --> 00:29:23,0
+
+
+1340
+00:29:23,0 --> 00:29:23,0
+
+
+1341
+00:29:23,0 --> 00:29:23,0
+
+
+1342
+00:29:23,0 --> 00:29:23,0
+
+
+1343
+00:29:23,0 --> 00:29:23,0
+that
+
+1344
+00:29:23,0 --> 00:29:23,0
+
+
+1345
+00:29:23,0 --> 00:29:23,0
+
+
+1346
+00:29:23,0 --> 00:29:23,0
+
+
+1347
+00:29:23,0 --> 00:29:23,0
+
+
+1348
+00:29:23,0 --> 00:29:23,0
+
+
+1349
+00:29:23,0 --> 00:29:23,0
+
+
+1350
+00:29:23,0 --> 00:29:23,0
+
+
+1351
+00:29:23,0 --> 00:29:23,0
+thereby
+
+1352
+00:29:23,0 --> 00:29:23,0
+
+
+1353
+00:29:23,0 --> 00:29:23,0
+
+
+1354
+00:29:23,0 --> 00:29:23,0
+
+
+1355
+00:29:23,0 --> 00:29:23,0
+his
+
+1356
+00:29:23,0 --> 00:29:23,0
+
+
+1357
+00:29:23,0 --> 00:29:23,0
+
+
+1358
+00:29:23,0 --> 00:29:23,0
+
+
+1359
+00:29:23,0 --> 00:29:23,0
+
+
+1360
+00:29:23,0 --> 00:29:23,0
+
+
+1361
+00:29:23,0 --> 00:29:23,0
+
+
+1362
+00:29:23,0 --> 00:29:23,0
+people
+
+1363
+00:29:23,0 --> 00:29:23,0
+
+
+1364
+00:29:23,0 --> 00:29:23,0
+
+
+1365
+00:29:23,0 --> 00:29:23,0
+
+
+1366
+00:29:23,0 --> 00:29:23,0
+
+
+1367
+00:29:23,0 --> 00:29:23,0
+
+
+1368
+00:29:23,0 --> 00:29:23,0
+might
+
+1369
+00:29:23,0 --> 00:29:23,0
+
+
+1370
+00:29:23,0 --> 00:29:23,0
+
+
+1371
+00:29:23,0 --> 00:29:23,0
+
+
+1372
+00:29:23,0 --> 00:29:23,0
+
+
+1373
+00:29:23,0 --> 00:29:23,0
+have
+
+1374
+00:29:23,0 --> 00:29:23,0
+
+
+1375
+00:29:23,0 --> 00:29:23,0
+
+
+1376
+00:29:23,0 --> 00:29:23,0
+
+
+1377
+00:29:23,0 --> 00:29:23,0
+
+
+1378
+00:29:23,0 --> 00:29:23,0
+room
+
+1379
+00:29:23,0 --> 00:29:23,0
+
+
+1380
+00:29:23,0 --> 00:29:23,0
+
+
+1381
+00:29:23,0 --> 00:29:23,0
+to
+
+1382
+00:29:23,0 --> 00:29:23,0
+
+
+1383
+00:29:23,0 --> 00:29:23,0
+
+
+1384
+00:29:23,0 --> 00:29:23,0
+
+
+1385
+00:29:23,0 --> 00:29:23,0
+
+
+1386
+00:29:23,0 --> 00:29:23,0
+
+
+1387
+00:29:23,0 --> 00:29:23,0
+cross
+
+1388
+00:29:23,0 --> 00:29:23,0
+
+
+1389
+00:29:23,0 --> 00:29:23,0
+
+
+1390
+00:29:23,0 --> 00:29:23,0
+
+
+1391
+00:29:23,0 --> 00:29:23,0
+and
+
+1392
+00:29:23,0 --> 00:29:23,0
+
+
+1393
+00:29:23,0 --> 00:29:23,0
+
+
+1394
+00:29:23,0 --> 00:29:23,0
+
+
+1395
+00:29:23,0 --> 00:29:23,0
+
+
+1396
+00:29:23,0 --> 00:29:23,0
+
+
+1397
+00:29:23,0 --> 00:29:23,0
+
+
+1398
+00:29:23,0 --> 00:29:23,0
+
+
+1399
+00:29:23,0 --> 00:29:23,0
+contend
+
+1400
+00:29:23,0 --> 00:29:23,0
+
+
+1401
+00:29:23,0 --> 00:29:23,0
+
+
+1402
+00:29:23,0 --> 00:29:23,0
+
+
+1403
+00:29:23,0 --> 00:29:23,0
+
+
+1404
+00:29:23,0 --> 00:29:23,0
+with
+
+1405
+00:29:23,0 --> 00:29:23,0
+
+
+1406
+00:29:23,0 --> 00:29:23,0
+
+
+1407
+00:29:23,0 --> 00:29:23,0
+
+
+1408
+00:29:23,0 --> 00:29:23,0
+the
+
+1409
+00:29:23,0 --> 00:29:23,0
+
+
+1410
+00:29:23,0 --> 00:29:23,0
+
+
+1411
+00:29:23,0 --> 00:29:23,0
+
+
+1412
+00:29:23,0 --> 00:29:23,0
+
+
+1413
+00:29:23,0 --> 00:29:23,0
+
+
+1414
+00:29:23,0 --> 00:29:23,0
+
+
+1415
+00:29:23,0 --> 00:29:23,0
+
+
+1416
+00:29:23,0 --> 00:29:23,0
+
+
+1417
+00:29:23,0 --> 00:29:23,0
+
+
+1418
+00:29:23,0 --> 00:29:23,0
+Lamanites
+
+1419
+00:29:23,0 --> 00:29:23,0
+
+
+1420
+00:29:23,0 --> 00:29:23,0
+
+
+1421
+00:29:23,0 --> 00:29:23,0
+
+
+1422
+00:29:23,0 --> 00:29:23,0
+and
+
+1423
+00:29:23,0 --> 00:29:23,0
+
+
+1424
+00:29:23,0 --> 00:29:23,0
+
+
+1425
+00:29:23,0 --> 00:29:23,0
+
+
+1426
+00:29:23,0 --> 00:29:23,0
+the
+
+1427
+00:29:23,0 --> 00:29:23,0
+
+
+1428
+00:29:23,0 --> 00:29:23,0
+
+
+1429
+00:29:23,0 --> 00:29:23,0
+
+
+1430
+00:29:23,0 --> 00:29:23,0
+
+
+1431
+00:29:23,0 --> 00:29:23,0
+
+
+1432
+00:29:23,0 --> 00:29:23,0
+
+
+1433
+00:29:23,0 --> 00:29:23,0
+
+
+1434
+00:29:23,0 --> 00:29:23,0
+
+
+1435
+00:29:23,0 --> 00:29:23,0
+
+
+1436
+00:29:23,0 --> 00:29:23,0
+Amlicites
+
+1437
+00:29:23,0 --> 00:29:23,0
+
+
+1438
+00:29:23,0 --> 00:29:23,0
+
+
+1439
+00:29:23,0 --> 00:29:23,0
+on
+
+1440
+00:29:23,0 --> 00:29:23,0
+
+
+1441
+00:29:23,0 --> 00:29:23,0
+
+
+1442
+00:29:23,0 --> 00:29:23,0
+
+
+1443
+00:29:23,0 --> 00:29:23,0
+the
+
+1444
+00:29:23,0 --> 00:29:23,0
+
+
+1445
+00:29:23,0 --> 00:29:23,0
+
+
+1446
+00:29:23,0 --> 00:29:23,0
+
+
+1447
+00:29:23,0 --> 00:29:23,0
+
+
+1448
+00:29:23,0 --> 00:29:23,0
+west
+
+1449
+00:29:23,0 --> 00:29:23,0
+
+
+1450
+00:29:23,0 --> 00:29:23,0
+
+
+1451
+00:29:23,0 --> 00:29:23,0
+
+
+1452
+00:29:23,0 --> 00:29:23,0
+
+
+1453
+00:29:23,0 --> 00:29:23,0
+side
+
+1454
+00:29:23,0 --> 00:29:23,0
+
+
+1455
+00:29:23,0 --> 00:29:23,0
+
+
+1456
+00:29:23,0 --> 00:29:23,0
+of
+
+1457
+00:29:23,0 --> 00:29:23,0
+
+
+1458
+00:29:23,0 --> 00:29:23,0
+
+
+1459
+00:29:23,0 --> 00:29:23,0
+
+
+1460
+00:29:23,0 --> 00:29:23,0
+the
+
+1461
+00:29:23,0 --> 00:29:23,0
+
+
+1462
+00:29:23,0 --> 00:29:23,0
+
+
+1463
+00:29:23,0 --> 00:29:23,0
+
+
+1464
+00:29:23,0 --> 00:29:23,0
+
+
+1465
+00:29:23,0 --> 00:29:23,0
+
+
+1466
+00:29:23,0 --> 00:29:23,0
+river
+
+1467
+00:29:23,0 --> 00:29:23,0
+
+
+1468
+00:29:23,0 --> 00:29:23,0
+
+
+1469
+00:29:23,0 --> 00:29:23,0
+
+
+1470
+00:29:23,0 --> 00:29:23,0
+
+
+1471
+00:29:23,0 --> 00:29:23,0
+
+
+1472
+00:29:23,0 --> 00:29:23,0
+
+
+1473
+00:29:23,0 --> 00:29:23,
+Sidon.
+
+1474
+00:29:23,0 --> 00:29:23,0
+35 And it came to pass that when they had all crossed the river Sidon that the Lamanites and the Amlicites began to flee before them, notwithstanding they were so numerous that they could not be
+
+1475
+00:29:23,0 --> 00:29:23,0
+
+
+1476
+00:29:23,0 --> 00:29:23,0
+
+
+1477
+00:29:23,0 --> 00:29:23,0
+
+
+1478
+00:29:23,0 --> 00:29:23,0
+
+
+1479
+00:29:23,0 --> 00:29:23,0
+And
+
+1480
+00:29:23,0 --> 00:29:23,0
+
+
+1481
+00:29:23,0 --> 00:29:23,0
+
+
+1482
+00:29:23,0 --> 00:29:23,0
+it
+
+1483
+00:29:23,0 --> 00:29:23,0
+
+
+1484
+00:29:23,0 --> 00:29:23,0
+
+
+1485
+00:29:23,0 --> 00:29:23,0
+
+
+1486
+00:29:23,0 --> 00:29:23,0
+
+
+1487
+00:29:23,0 --> 00:29:23,0
+came
+
+1488
+00:29:23,0 --> 00:29:23,0
+
+
+1489
+00:29:23,0 --> 00:29:23,0
+
+
+1490
+00:29:23,0 --> 00:29:23,0
+to
+
+1491
+00:29:23,0 --> 00:29:23,0
+
+
+1492
+00:29:23,0 --> 00:29:23,0
+
+
+1493
+00:29:23,0 --> 00:29:23,0
+
+
+1494
+00:29:23,0 --> 00:29:23,0
+
+
+1495
+00:29:23,0 --> 00:29:23,0
+pass
+
+1496
+00:29:23,0 --> 00:29:23,0
+
+
+1497
+00:29:23,0 --> 00:29:23,0
+
+
+1498
+00:29:23,0 --> 00:29:23,0
+
+
+1499
+00:29:23,0 --> 00:29:23,0
+
+
+1500
+00:29:23,0 --> 00:29:23,0
+that
+
+1501
+00:29:23,0 --> 00:29:23,0
+
+
+1502
+00:29:23,0 --> 00:29:23,0
+
+
+1503
+00:29:23,0 --> 00:29:23,0
+
+
+1504
+00:29:23,0 --> 00:29:23,0
+
+
+1505
+00:29:23,0 --> 00:29:23,0
+when
+
+1506
+00:29:23,0 --> 00:29:23,0
+
+
+1507
+00:29:23,0 --> 00:29:23,0
+
+
+1508
+00:29:23,0 --> 00:29:23,0
+
+
+1509
+00:29:23,0 --> 00:29:23,0
+
+
+1510
+00:29:23,0 --> 00:29:23,0
+they
+
+1511
+00:29:23,0 --> 00:29:23,0
+
+
+1512
+00:29:23,0 --> 00:29:23,0
+
+
+1513
+00:29:23,0 --> 00:29:23,0
+
+
+1514
+00:29:23,0 --> 00:29:23,0
+had
+
+1515
+00:29:23,0 --> 00:29:23,0
+
+
+1516
+00:29:23,0 --> 00:29:23,0
+
+
+1517
+00:29:23,0 --> 00:29:23,0
+
+
+1518
+00:29:23,0 --> 00:29:23,0
+all
+
+1519
+00:29:23,0 --> 00:29:23,0
+
+
+1520
+00:29:23,0 --> 00:29:23,0
+
+
+1521
+00:29:23,0 --> 00:29:23,0
+
+
+1522
+00:29:23,0 --> 00:29:23,0
+
+
+1523
+00:29:23,0 --> 00:29:23,0
+
+
+1524
+00:29:23,0 --> 00:29:23,0
+
+
+1525
+00:29:23,0 --> 00:29:23,0
+
+
+1526
+00:29:23,0 --> 00:29:23,0
+crossed
+
+1527
+00:29:23,0 --> 00:29:23,0
+
+
+1528
+00:29:23,0 --> 00:29:23,0
+
+
+1529
+00:29:23,0 --> 00:29:23,0
+
+
+1530
+00:29:23,0 --> 00:29:23,0
+the
+
+1531
+00:29:23,0 --> 00:29:23,0
+
+
+1532
+00:29:23,0 --> 00:29:23,0
+
+
+1533
+00:29:23,0 --> 00:29:23,0
+
+
+1534
+00:29:23,0 --> 00:29:23,0
+
+
+1535
+00:29:23,0 --> 00:29:23,0
+
+
+1536
+00:29:23,0 --> 00:29:23,0
+river
+
+1537
+00:29:23,0 --> 00:29:23,0
+
+
+1538
+00:29:23,0 --> 00:29:23,0
+
+
+1539
+00:29:23,0 --> 00:29:23,0
+
+
+1540
+00:29:23,0 --> 00:29:23,0
+
+
+1541
+00:29:23,0 --> 00:29:23,0
+
+
+1542
+00:29:23,0 --> 00:29:23,0
+Sidon
+
+1543
+00:29:23,0 --> 00:29:23,0
+
+
+1544
+00:29:23,0 --> 00:29:23,0
+
+
+1545
+00:29:23,0 --> 00:29:23,0
+
+
+1546
+00:29:23,0 --> 00:29:23,0
+
+
+1547
+00:29:23,0 --> 00:29:23,0
+that
+
+1548
+00:29:23,0 --> 00:29:23,0
+
+
+1549
+00:29:23,0 --> 00:29:23,0
+
+
+1550
+00:29:23,0 --> 00:29:23,0
+
+
+1551
+00:29:23,0 --> 00:29:23,0
+the
+
+1552
+00:29:23,0 --> 00:29:23,0
+
+
+1553
+00:29:23,0 --> 00:29:23,0
+
+
+1554
+00:29:23,0 --> 00:29:23,0
+
+
+1555
+00:29:23,0 --> 00:29:23,0
+
+
+1556
+00:29:23,0 --> 00:29:23,0
+
+
+1557
+00:29:23,0 --> 00:29:23,0
+
+
+1558
+00:29:23,0 --> 00:29:23,0
+
+
+1559
+00:29:23,0 --> 00:29:23,0
+
+
+1560
+00:29:23,0 --> 00:29:23,0
+
+
+1561
+00:29:23,0 --> 00:29:23,0
+Lamanites
+
+1562
+00:29:23,0 --> 00:29:23,0
+
+
+1563
+00:29:23,0 --> 00:29:23,0
+
+
+1564
+00:29:23,0 --> 00:29:23,0
+
+
+1565
+00:29:23,0 --> 00:29:23,0
+and
+
+1566
+00:29:23,0 --> 00:29:23,0
+
+
+1567
+00:29:23,0 --> 00:29:23,0
+
+
+1568
+00:29:23,0 --> 00:29:23,0
+
+
+1569
+00:29:23,0 --> 00:29:23,0
+the
+
+1570
+00:29:23,0 --> 00:29:23,0
+
+
+1571
+00:29:23,0 --> 00:29:23,0
+
+
+1572
+00:29:23,0 --> 00:29:23,0
+
+
+1573
+00:29:23,0 --> 00:29:23,0
+
+
+1574
+00:29:23,0 --> 00:29:23,0
+
+
+1575
+00:29:23,0 --> 00:29:23,0
+
+
+1576
+00:29:23,0 --> 00:29:23,0
+
+
+1577
+00:29:23,0 --> 00:29:23,0
+
+
+1578
+00:29:23,0 --> 00:29:23,0
+
+
+1579
+00:29:23,0 --> 00:29:23,0
+Amlicites
+
+1580
+00:29:23,0 --> 00:29:23,0
+
+
+1581
+00:29:23,0 --> 00:29:23,0
+
+
+1582
+00:29:23,0 --> 00:29:23,0
+
+
+1583
+00:29:23,0 --> 00:29:23,0
+
+
+1584
+00:29:23,0 --> 00:29:23,0
+
+
+1585
+00:29:23,0 --> 00:29:23,0
+began
+
+1586
+00:29:23,0 --> 00:29:23,0
+
+
+1587
+00:29:23,0 --> 00:29:23,0
+
+
+1588
+00:29:23,0 --> 00:29:23,0
+to
+
+1589
+00:29:23,0 --> 00:29:23,0
+
+
+1590
+00:29:23,0 --> 00:29:23,0
+
+
+1591
+00:29:23,0 --> 00:29:23,0
+
+
+1592
+00:29:23,0 --> 00:29:23,0
+
+
+1593
+00:29:23,0 --> 00:29:23,0
+flee
+
+1594
+00:29:23,0 --> 00:29:23,0
+
+
+1595
+00:29:23,0 --> 00:29:23,0
+
+
+1596
+00:29:23,0 --> 00:29:23,0
+
+
+1597
+00:29:23,0 --> 00:29:23,0
+
+
+1598
+00:29:23,0 --> 00:29:23,0
+
+
+1599
+00:29:23,0 --> 00:29:23,0
+
+
+1600
+00:29:23,0 --> 00:29:23,0
+before
+
+1601
+00:29:23,0 --> 00:29:23,0
+
+
+1602
+00:29:23,0 --> 00:29:23,0
+
+
+1603
+00:29:23,0 --> 00:29:23,0
+
+
+1604
+00:29:23,0 --> 00:29:23,0
+
+
+1605
+00:29:23,0 --> 00:29:23,0
+
+
+1606
+00:29:23,0 --> 00:29:23,0
+them,
+
+1607
+00:29:23,0 --> 00:29:23,0
+
+
+1608
+00:29:23,0 --> 00:29:23,0
+
+
+1609
+00:29:23,0 --> 00:29:23,0
+
+
+1610
+00:29:23,0 --> 00:29:23,0
+
+
+1611
+00:29:23,0 --> 00:29:23,0
+
+
+1612
+00:29:23,0 --> 00:29:23,0
+
+
+1613
+00:29:23,0 --> 00:29:23,0
+
+
+1614
+00:29:23,0 --> 00:29:23,0
+
+
+1615
+00:29:23,0 --> 00:29:23,0
+
+
+1616
+00:29:23,0 --> 00:29:23,0
+
+
+1617
+00:29:23,0 --> 00:29:23,0
+
+
+1618
+00:29:23,0 --> 00:29:23,0
+
+
+1619
+00:29:23,0 --> 00:29:23,0
+
+
+1620
+00:29:23,0 --> 00:29:23,0
+
+
+1621
+00:29:23,0 --> 00:29:23,0
+
+
+1622
+00:29:23,0 --> 00:29:23,0
+notwithstanding
+
+1623
+00:29:23,0 --> 00:29:23,0
+
+
+1624
+00:29:23,0 --> 00:29:23,0
+
+
+1625
+00:29:23,0 --> 00:29:23,0
+
+
+1626
+00:29:23,0 --> 00:29:23,0
+
+
+1627
+00:29:23,0 --> 00:29:23,0
+they
+
+1628
+00:29:23,0 --> 00:29:23,0
+
+
+1629
+00:29:23,0 --> 00:29:23,0
+
+
+1630
+00:29:23,0 --> 00:29:23,0
+
+
+1631
+00:29:23,0 --> 00:29:23,0
+
+
+1632
+00:29:23,0 --> 00:29:23,0
+were
+
+1633
+00:29:23,0 --> 00:29:23,0
+
+
+1634
+00:29:23,0 --> 00:29:23,0
+
+
+1635
+00:29:23,0 --> 00:29:23,0
+so
+
+1636
+00:29:23,0 --> 00:29:23,0
+
+
+1637
+00:29:23,0 --> 00:29:23,0
+
+
+1638
+00:29:23,0 --> 00:29:23,0
+
+
+1639
+00:29:23,0 --> 00:29:23,0
+
+
+1640
+00:29:23,0 --> 00:29:23,0
+
+
+1641
+00:29:23,0 --> 00:29:23,0
+
+
+1642
+00:29:23,0 --> 00:29:23,0
+
+
+1643
+00:29:23,0 --> 00:29:23,0
+
+
+1644
+00:29:23,0 --> 00:29:23,0
+numerous
+
+1645
+00:29:23,0 --> 00:29:23,0
+
+
+1646
+00:29:23,0 --> 00:29:23,0
+
+
+1647
+00:29:23,0 --> 00:29:23,0
+
+
+1648
+00:29:23,0 --> 00:29:23,0
+
+
+1649
+00:29:23,0 --> 00:29:23,0
+that
+
+1650
+00:29:23,0 --> 00:29:23,0
+
+
+1651
+00:29:23,0 --> 00:29:23,0
+
+
+1652
+00:29:23,0 --> 00:29:23,0
+
+
+1653
+00:29:23,0 --> 00:29:23,0
+
+
+1654
+00:29:23,0 --> 00:29:23,0
+they
+
+1655
+00:29:23,0 --> 00:29:23,0
+
+
+1656
+00:29:23,0 --> 00:29:23,0
+
+
+1657
+00:29:23,0 --> 00:29:23,0
+
+
+1658
+00:29:23,0 --> 00:29:23,0
+
+
+1659
+00:29:23,0 --> 00:29:23,0
+
+
+1660
+00:29:23,0 --> 00:29:23,0
+could
+
+1661
+00:29:23,0 --> 00:29:23,0
+
+
+1662
+00:29:23,0 --> 00:29:23,0
+
+
+1663
+00:29:23,0 --> 00:29:23,0
+
+
+1664
+00:29:23,0 --> 00:29:23,0
+not
+
+1665
+00:29:23,0 --> 00:29:23,0
+
+
+1666
+00:29:23,0 --> 00:29:23,0
+
+
+1667
+00:29:23,0 --> 00:29:23,0
+be
+
+1668
+00:29:23,0 --> 00:29:23,0
+
+
+1669
+00:29:23,0 --> 00:29:23,0
+
+
+1670
+00:29:23,0 --> 00:29:23,0
+
+
+1671
+00:29:23,0 --> 00:29:23,0
+
+
+1672
+00:29:23,0 --> 00:29:23,0
+
+
+1673
+00:29:23,0 --> 00:29:23,0
+
+
+1674
+00:29:23,0 --> 00:29:23,0
+
+
+1675
+00:29:23,0 --> 00:29:23,0
+
+
+1676
+00:29:23,0 --> 00:29:23,0
+
+
+1677
+00:29:23,0 --> 00:29:23,
+numbered.
+
+1678
+00:29:23,0 --> 00:29:23,0
+36 And they fled before the Nephites towards the wilderness which was west and north, away beyond the borders of the land; and the Nephites did pursue them with their might, and did slay
+
+1679
+00:29:23,0 --> 00:29:23,0
+
+
+1680
+00:29:23,0 --> 00:29:23,0
+
+
+1681
+00:29:23,0 --> 00:29:23,0
+
+
+1682
+00:29:23,0 --> 00:29:23,0
+
+
+1683
+00:29:23,0 --> 00:29:23,0
+And
+
+1684
+00:29:23,0 --> 00:29:23,0
+
+
+1685
+00:29:23,0 --> 00:29:23,0
+
+
+1686
+00:29:23,0 --> 00:29:23,0
+
+
+1687
+00:29:23,0 --> 00:29:23,0
+
+
+1688
+00:29:23,0 --> 00:29:23,0
+they
+
+1689
+00:29:23,0 --> 00:29:23,0
+
+
+1690
+00:29:23,0 --> 00:29:23,0
+
+
+1691
+00:29:23,0 --> 00:29:23,0
+
+
+1692
+00:29:23,0 --> 00:29:23,0
+
+
+1693
+00:29:23,0 --> 00:29:23,0
+fled
+
+1694
+00:29:23,0 --> 00:29:23,0
+
+
+1695
+00:29:23,0 --> 00:29:23,0
+
+
+1696
+00:29:23,0 --> 00:29:23,0
+
+
+1697
+00:29:23,0 --> 00:29:23,0
+
+
+1698
+00:29:23,0 --> 00:29:23,0
+
+
+1699
+00:29:23,0 --> 00:29:23,0
+
+
+1700
+00:29:23,0 --> 00:29:23,0
+before
+
+1701
+00:29:23,0 --> 00:29:23,0
+
+
+1702
+00:29:23,0 --> 00:29:23,0
+
+
+1703
+00:29:23,0 --> 00:29:23,0
+
+
+1704
+00:29:23,0 --> 00:29:23,0
+the
+
+1705
+00:29:23,0 --> 00:29:23,0
+
+
+1706
+00:29:23,0 --> 00:29:23,0
+
+
+1707
+00:29:23,0 --> 00:29:23,0
+
+
+1708
+00:29:23,0 --> 00:29:23,0
+
+
+1709
+00:29:23,0 --> 00:29:23,0
+
+
+1710
+00:29:23,0 --> 00:29:23,0
+
+
+1711
+00:29:23,0 --> 00:29:23,0
+
+
+1712
+00:29:23,0 --> 00:29:23,0
+
+
+1713
+00:29:23,0 --> 00:29:23,0
+Nephites
+
+1714
+00:29:23,0 --> 00:29:23,0
+
+
+1715
+00:29:23,0 --> 00:29:23,0
+
+
+1716
+00:29:23,0 --> 00:29:23,0
+
+
+1717
+00:29:23,0 --> 00:29:23,0
+
+
+1718
+00:29:23,0 --> 00:29:23,0
+
+
+1719
+00:29:23,0 --> 00:29:23,0
+
+
+1720
+00:29:23,0 --> 00:29:23,0
+
+
+1721
+00:29:23,0 --> 00:29:23,0
+towards
+
+1722
+00:29:23,0 --> 00:29:23,0
+
+
+1723
+00:29:23,0 --> 00:29:23,0
+
+
+1724
+00:29:23,0 --> 00:29:23,0
+
+
+1725
+00:29:23,0 --> 00:29:23,0
+the
+
+1726
+00:29:23,0 --> 00:29:23,0
+
+
+1727
+00:29:23,0 --> 00:29:23,0
+
+
+1728
+00:29:23,0 --> 00:29:23,0
+
+
+1729
+00:29:23,0 --> 00:29:23,0
+
+
+1730
+00:29:23,0 --> 00:29:23,0
+
+
+1731
+00:29:23,0 --> 00:29:23,0
+
+
+1732
+00:29:23,0 --> 00:29:23,0
+
+
+1733
+00:29:23,0 --> 00:29:23,0
+
+
+1734
+00:29:23,0 --> 00:29:23,0
+
+
+1735
+00:29:23,0 --> 00:29:23,0
+
+
+1736
+00:29:23,0 --> 00:29:23,0
+wilderness
+
+1737
+00:29:23,0 --> 00:29:23,0
+
+
+1738
+00:29:23,0 --> 00:29:23,0
+
+
+1739
+00:29:23,0 --> 00:29:23,0
+
+
+1740
+00:29:23,0 --> 00:29:23,0
+
+
+1741
+00:29:23,0 --> 00:29:23,0
+
+
+1742
+00:29:23,0 --> 00:29:23,0
+which
+
+1743
+00:29:23,0 --> 00:29:23,0
+
+
+1744
+00:29:23,0 --> 00:29:23,0
+
+
+1745
+00:29:23,0 --> 00:29:23,0
+
+
+1746
+00:29:23,0 --> 00:29:23,0
+was
+
+1747
+00:29:23,0 --> 00:29:23,0
+
+
+1748
+00:29:23,0 --> 00:29:23,0
+
+
+1749
+00:29:23,0 --> 00:29:23,0
+
+
+1750
+00:29:23,0 --> 00:29:23,0
+
+
+1751
+00:29:23,0 --> 00:29:23,0
+west
+
+1752
+00:29:23,0 --> 00:29:23,0
+
+
+1753
+00:29:23,0 --> 00:29:23,0
+
+
+1754
+00:29:23,0 --> 00:29:23,0
+
+
+1755
+00:29:23,0 --> 00:29:23,0
+and
+
+1756
+00:29:23,0 --> 00:29:23,0
+
+
+1757
+00:29:23,0 --> 00:29:23,0
+
+
+1758
+00:29:23,0 --> 00:29:23,0
+
+
+1759
+00:29:23,0 --> 00:29:23,0
+
+
+1760
+00:29:23,0 --> 00:29:23,0
+
+
+1761
+00:29:23,0 --> 00:29:23,0
+
+
+1762
+00:29:23,0 --> 00:29:23,0
+north,
+
+1763
+00:29:23,0 --> 00:29:23,0
+
+
+1764
+00:29:23,0 --> 00:29:23,0
+
+
+1765
+00:29:23,0 --> 00:29:23,0
+
+
+1766
+00:29:23,0 --> 00:29:23,0
+
+
+1767
+00:29:23,0 --> 00:29:23,0
+away
+
+1768
+00:29:23,0 --> 00:29:23,0
+
+
+1769
+00:29:23,0 --> 00:29:23,0
+
+
+1770
+00:29:23,0 --> 00:29:23,0
+
+
+1771
+00:29:23,0 --> 00:29:23,0
+
+
+1772
+00:29:23,0 --> 00:29:23,0
+
+
+1773
+00:29:23,0 --> 00:29:23,0
+
+
+1774
+00:29:23,0 --> 00:29:23,0
+beyond
+
+1775
+00:29:23,0 --> 00:29:23,0
+
+
+1776
+00:29:23,0 --> 00:29:23,0
+
+
+1777
+00:29:23,0 --> 00:29:23,0
+
+
+1778
+00:29:23,0 --> 00:29:23,0
+the
+
+1779
+00:29:23,0 --> 00:29:23,0
+
+
+1780
+00:29:23,0 --> 00:29:23,0
+
+
+1781
+00:29:23,0 --> 00:29:23,0
+
+
+1782
+00:29:23,0 --> 00:29:23,0
+
+
+1783
+00:29:23,0 --> 00:29:23,0
+
+
+1784
+00:29:23,0 --> 00:29:23,0
+
+
+1785
+00:29:23,0 --> 00:29:23,0
+
+
+1786
+00:29:23,0 --> 00:29:23,0
+borders
+
+1787
+00:29:23,0 --> 00:29:23,0
+
+
+1788
+00:29:23,0 --> 00:29:23,0
+
+
+1789
+00:29:23,0 --> 00:29:23,0
+of
+
+1790
+00:29:23,0 --> 00:29:23,0
+
+
+1791
+00:29:23,0 --> 00:29:23,0
+
+
+1792
+00:29:23,0 --> 00:29:23,0
+
+
+1793
+00:29:23,0 --> 00:29:23,0
+the
+
+1794
+00:29:23,0 --> 00:29:23,0
+
+
+1795
+00:29:23,0 --> 00:29:23,0
+
+
+1796
+00:29:23,0 --> 00:29:23,0
+
+
+1797
+00:29:23,0 --> 00:29:23,0
+
+
+1798
+00:29:23,0 --> 00:29:23,0
+
+
+1799
+00:29:23,0 --> 00:29:23,0
+land;
+
+1800
+00:29:23,0 --> 00:29:23,0
+
+
+1801
+00:29:23,0 --> 00:29:23,0
+
+
+1802
+00:29:23,0 --> 00:29:23,0
+
+
+1803
+00:29:23,0 --> 00:29:23,0
+and
+
+1804
+00:29:23,0 --> 00:29:23,0
+
+
+1805
+00:29:23,0 --> 00:29:23,0
+
+
+1806
+00:29:23,0 --> 00:29:23,0
+
+
+1807
+00:29:23,0 --> 00:29:23,0
+the
+
+1808
+00:29:23,0 --> 00:29:23,0
+
+
+1809
+00:29:23,0 --> 00:29:23,0
+
+
+1810
+00:29:23,0 --> 00:29:23,0
+
+
+1811
+00:29:23,0 --> 00:29:23,0
+
+
+1812
+00:29:23,0 --> 00:29:23,0
+
+
+1813
+00:29:23,0 --> 00:29:23,0
+
+
+1814
+00:29:23,0 --> 00:29:23,0
+
+
+1815
+00:29:23,0 --> 00:29:23,0
+
+
+1816
+00:29:23,0 --> 00:29:23,0
+Nephites
+
+1817
+00:29:23,0 --> 00:29:23,0
+
+
+1818
+00:29:23,0 --> 00:29:23,0
+
+
+1819
+00:29:23,0 --> 00:29:23,0
+
+
+1820
+00:29:23,0 --> 00:29:23,0
+did
+
+1821
+00:29:23,0 --> 00:29:23,0
+
+
+1822
+00:29:23,0 --> 00:29:23,0
+
+
+1823
+00:29:23,0 --> 00:29:23,0
+
+
+1824
+00:29:23,0 --> 00:29:23,0
+
+
+1825
+00:29:23,0 --> 00:29:23,0
+
+
+1826
+00:29:23,0 --> 00:29:23,0
+
+
+1827
+00:29:23,0 --> 00:29:23,0
+pursue
+
+1828
+00:29:23,0 --> 00:29:23,0
+
+
+1829
+00:29:23,0 --> 00:29:23,0
+
+
+1830
+00:29:23,0 --> 00:29:23,0
+
+
+1831
+00:29:23,0 --> 00:29:23,0
+
+
+1832
+00:29:23,0 --> 00:29:23,0
+them
+
+1833
+00:29:23,0 --> 00:29:23,0
+
+
+1834
+00:29:23,0 --> 00:29:23,0
+
+
+1835
+00:29:23,0 --> 00:29:23,0
+
+
+1836
+00:29:23,0 --> 00:29:23,0
+
+
+1837
+00:29:23,0 --> 00:29:23,0
+with
+
+1838
+00:29:23,0 --> 00:29:23,0
+
+
+1839
+00:29:23,0 --> 00:29:23,0
+
+
+1840
+00:29:23,0 --> 00:29:23,0
+
+
+1841
+00:29:23,0 --> 00:29:23,0
+
+
+1842
+00:29:23,0 --> 00:29:23,0
+
+
+1843
+00:29:23,0 --> 00:29:23,0
+their
+
+1844
+00:29:23,0 --> 00:29:23,0
+
+
+1845
+00:29:23,0 --> 00:29:23,0
+
+
+1846
+00:29:23,0 --> 00:29:23,0
+
+
+1847
+00:29:23,0 --> 00:29:23,0
+
+
+1848
+00:29:23,0 --> 00:29:23,0
+
+
+1849
+00:29:23,0 --> 00:29:23,0
+
+
+1850
+00:29:23,0 --> 00:29:23,0
+might,
+
+1851
+00:29:23,0 --> 00:29:23,0
+
+
+1852
+00:29:23,0 --> 00:29:23,0
+
+
+1853
+00:29:23,0 --> 00:29:23,0
+
+
+1854
+00:29:23,0 --> 00:29:23,0
+and
+
+1855
+00:29:23,0 --> 00:29:23,0
+
+
+1856
+00:29:23,0 --> 00:29:23,0
+
+
+1857
+00:29:23,0 --> 00:29:23,0
+
+
+1858
+00:29:23,0 --> 00:29:23,0
+did
+
+1859
+00:29:23,0 --> 00:29:23,0
+
+
+1860
+00:29:23,0 --> 00:29:23,0
+
+
+1861
+00:29:23,0 --> 00:29:23,0
+
+
+1862
+00:29:23,0 --> 00:29:23,0
+
+
+1863
+00:29:23,0 --> 00:29:23,0
+slay
+
+1864
+00:29:23,0 --> 00:29:23,0
+
+
+1865
+00:29:23,0 --> 00:29:23,0
+
+
+1866
+00:29:23,0 --> 00:29:23,0
+
+
+1867
+00:29:23,0 --> 00:29:23,0
+
+
+1868
+00:29:23,0 --> 00:29:23,0
+
+
+1869
+00:29:23,0 --> 00:29:23,
+them.
+
+1870
+00:29:23,0 --> 00:29:23,0
+37 Yea, they were met on every hand, and slain and driven, until they were scattered on the west, and on the north, until they had reached the wilderness, which was called Hermounts; and it was that part of the wilderness which was infested by wild and ravenous
+
+1871
+00:29:23,0 --> 00:29:23,0
+
+
+1872
+00:29:23,0 --> 00:29:23,0
+
+
+1873
+00:29:23,0 --> 00:29:23,0
+
+
+1874
+00:29:23,0 --> 00:29:23,0
+
+
+1875
+00:29:23,0 --> 00:29:23,0
+
+
+1876
+00:29:23,0 --> 00:29:23,0
+Yea,
+
+1877
+00:29:23,0 --> 00:29:23,0
+
+
+1878
+00:29:23,0 --> 00:29:23,0
+
+
+1879
+00:29:23,0 --> 00:29:23,0
+
+
+1880
+00:29:23,0 --> 00:29:23,0
+
+
+1881
+00:29:23,0 --> 00:29:23,0
+they
+
+1882
+00:29:23,0 --> 00:29:23,0
+
+
+1883
+00:29:23,0 --> 00:29:23,0
+
+
+1884
+00:29:23,0 --> 00:29:23,0
+
+
+1885
+00:29:23,0 --> 00:29:23,0
+
+
+1886
+00:29:23,0 --> 00:29:23,0
+were
+
+1887
+00:29:23,0 --> 00:29:23,0
+
+
+1888
+00:29:23,0 --> 00:29:23,0
+
+
+1889
+00:29:23,0 --> 00:29:23,0
+
+
+1890
+00:29:23,0 --> 00:29:23,0
+met
+
+1891
+00:29:23,0 --> 00:29:23,0
+
+
+1892
+00:29:23,0 --> 00:29:23,0
+
+
+1893
+00:29:23,0 --> 00:29:23,0
+on
+
+1894
+00:29:23,0 --> 00:29:23,0
+
+
+1895
+00:29:23,0 --> 00:29:23,0
+
+
+1896
+00:29:23,0 --> 00:29:23,0
+
+
+1897
+00:29:23,0 --> 00:29:23,0
+
+
+1898
+00:29:23,0 --> 00:29:23,0
+
+
+1899
+00:29:23,0 --> 00:29:23,0
+every
+
+1900
+00:29:23,0 --> 00:29:23,0
+
+
+1901
+00:29:23,0 --> 00:29:23,0
+
+
+1902
+00:29:23,0 --> 00:29:23,0
+
+
+1903
+00:29:23,0 --> 00:29:23,0
+
+
+1904
+00:29:23,0 --> 00:29:23,0
+
+
+1905
+00:29:23,0 --> 00:29:23,0
+hand,
+
+1906
+00:29:23,0 --> 00:29:23,0
+
+
+1907
+00:29:23,0 --> 00:29:23,0
+
+
+1908
+00:29:23,0 --> 00:29:23,0
+
+
+1909
+00:29:23,0 --> 00:29:23,0
+and
+
+1910
+00:29:23,0 --> 00:29:23,0
+
+
+1911
+00:29:23,0 --> 00:29:23,0
+
+
+1912
+00:29:23,0 --> 00:29:23,0
+
+
+1913
+00:29:23,0 --> 00:29:23,0
+
+
+1914
+00:29:23,0 --> 00:29:23,0
+
+
+1915
+00:29:23,0 --> 00:29:23,0
+slain
+
+1916
+00:29:23,0 --> 00:29:23,0
+
+
+1917
+00:29:23,0 --> 00:29:23,0
+
+
+1918
+00:29:23,0 --> 00:29:23,0
+
+
+1919
+00:29:23,0 --> 00:29:23,0
+and
+
+1920
+00:29:23,0 --> 00:29:23,0
+
+
+1921
+00:29:23,0 --> 00:29:23,0
+
+
+1922
+00:29:23,0 --> 00:29:23,0
+
+
+1923
+00:29:23,0 --> 00:29:23,0
+
+
+1924
+00:29:23,0 --> 00:29:23,0
+
+
+1925
+00:29:23,0 --> 00:29:23,0
+
+
+1926
+00:29:23,0 --> 00:29:23,0
+
+
+1927
+00:29:23,0 --> 00:29:23,0
+driven,
+
+1928
+00:29:23,0 --> 00:29:23,0
+
+
+1929
+00:29:23,0 --> 00:29:23,0
+
+
+1930
+00:29:23,0 --> 00:29:23,0
+
+
+1931
+00:29:23,0 --> 00:29:23,0
+
+
+1932
+00:29:23,0 --> 00:29:23,0
+
+
+1933
+00:29:23,0 --> 00:29:23,0
+until
+
+1934
+00:29:23,0 --> 00:29:23,0
+
+
+1935
+00:29:23,0 --> 00:29:23,0
+
+
+1936
+00:29:23,0 --> 00:29:23,0
+
+
+1937
+00:29:23,0 --> 00:29:23,0
+
+
+1938
+00:29:23,0 --> 00:29:23,0
+they
+
+1939
+00:29:23,0 --> 00:29:23,0
+
+
+1940
+00:29:23,0 --> 00:29:23,0
+
+
+1941
+00:29:23,0 --> 00:29:23,0
+
+
+1942
+00:29:23,0 --> 00:29:23,0
+
+
+1943
+00:29:23,0 --> 00:29:23,0
+were
+
+1944
+00:29:23,0 --> 00:29:23,0
+
+
+1945
+00:29:23,0 --> 00:29:23,0
+
+
+1946
+00:29:23,0 --> 00:29:23,0
+
+
+1947
+00:29:23,0 --> 00:29:23,0
+
+
+1948
+00:29:23,0 --> 00:29:23,0
+
+
+1949
+00:29:23,0 --> 00:29:23,0
+
+
+1950
+00:29:23,0 --> 00:29:23,0
+
+
+1951
+00:29:23,0 --> 00:29:23,0
+
+
+1952
+00:29:23,0 --> 00:29:23,0
+
+
+1953
+00:29:23,0 --> 00:29:23,0
+scattered
+
+1954
+00:29:23,0 --> 00:29:23,0
+
+
+1955
+00:29:23,0 --> 00:29:23,0
+
+
+1956
+00:29:23,0 --> 00:29:23,0
+on
+
+1957
+00:29:23,0 --> 00:29:23,0
+
+
+1958
+00:29:23,0 --> 00:29:23,0
+
+
+1959
+00:29:23,0 --> 00:29:23,0
+
+
+1960
+00:29:23,0 --> 00:29:23,0
+the
+
+1961
+00:29:23,0 --> 00:29:23,0
+
+
+1962
+00:29:23,0 --> 00:29:23,0
+
+
+1963
+00:29:23,0 --> 00:29:23,0
+
+
+1964
+00:29:23,0 --> 00:29:23,0
+
+
+1965
+00:29:23,0 --> 00:29:23,0
+
+
+1966
+00:29:23,0 --> 00:29:23,0
+west,
+
+1967
+00:29:23,0 --> 00:29:23,0
+
+
+1968
+00:29:23,0 --> 00:29:23,0
+
+
+1969
+00:29:23,0 --> 00:29:23,0
+
+
+1970
+00:29:23,0 --> 00:29:23,0
+and
+
+1971
+00:29:23,0 --> 00:29:23,0
+
+
+1972
+00:29:23,0 --> 00:29:23,0
+
+
+1973
+00:29:23,0 --> 00:29:23,0
+on
+
+1974
+00:29:23,0 --> 00:29:23,0
+
+
+1975
+00:29:23,0 --> 00:29:23,0
+
+
+1976
+00:29:23,0 --> 00:29:23,0
+
+
+1977
+00:29:23,0 --> 00:29:23,0
+the
+
+1978
+00:29:23,0 --> 00:29:23,0
+
+
+1979
+00:29:23,0 --> 00:29:23,0
+
+
+1980
+00:29:23,0 --> 00:29:23,0
+
+
+1981
+00:29:23,0 --> 00:29:23,0
+
+
+1982
+00:29:23,0 --> 00:29:23,0
+
+
+1983
+00:29:23,0 --> 00:29:23,0
+
+
+1984
+00:29:23,0 --> 00:29:23,0
+north,
+
+1985
+00:29:23,0 --> 00:29:23,0
+
+
+1986
+00:29:23,0 --> 00:29:23,0
+
+
+1987
+00:29:23,0 --> 00:29:23,0
+
+
+1988
+00:29:23,0 --> 00:29:23,0
+
+
+1989
+00:29:23,0 --> 00:29:23,0
+
+
+1990
+00:29:23,0 --> 00:29:23,0
+until
+
+1991
+00:29:23,0 --> 00:29:23,0
+
+
+1992
+00:29:23,0 --> 00:29:23,0
+
+
+1993
+00:29:23,0 --> 00:29:23,0
+
+
+1994
+00:29:23,0 --> 00:29:23,0
+
+
+1995
+00:29:23,0 --> 00:29:23,0
+they
+
+1996
+00:29:23,0 --> 00:29:23,0
+
+
+1997
+00:29:23,0 --> 00:29:23,0
+
+
+1998
+00:29:23,0 --> 00:29:23,0
+
+
+1999
+00:29:23,0 --> 00:29:23,0
+had
+
+2000
+00:29:23,0 --> 00:29:23,0
+
+
+2001
+00:29:23,0 --> 00:29:23,0
+
+
+2002
+00:29:23,0 --> 00:29:23,0
+
+
+2003
+00:29:23,0 --> 00:29:23,0
+
+
+2004
+00:29:23,0 --> 00:29:23,0
+
+
+2005
+00:29:23,0 --> 00:29:23,0
+
+
+2006
+00:29:23,0 --> 00:29:23,0
+
+
+2007
+00:29:23,0 --> 00:29:23,0
+reached
+
+2008
+00:29:23,0 --> 00:29:23,0
+
+
+2009
+00:29:23,0 --> 00:29:23,0
+
+
+2010
+00:29:23,0 --> 00:29:23,0
+
+
+2011
+00:29:23,0 --> 00:29:23,0
+the
+
+2012
+00:29:23,0 --> 00:29:23,0
+
+
+2013
+00:29:23,0 --> 00:29:23,0
+
+
+2014
+00:29:23,0 --> 00:29:23,0
+
+
+2015
+00:29:23,0 --> 00:29:23,0
+
+
+2016
+00:29:23,0 --> 00:29:23,0
+
+
+2017
+00:29:23,0 --> 00:29:23,0
+
+
+2018
+00:29:23,0 --> 00:29:23,0
+
+
+2019
+00:29:23,0 --> 00:29:23,0
+
+
+2020
+00:29:23,0 --> 00:29:23,0
+
+
+2021
+00:29:23,0 --> 00:29:23,0
+
+
+2022
+00:29:23,0 --> 00:29:23,0
+
+
+2023
+00:29:23,0 --> 00:29:23,0
+wilderness,
+
+2024
+00:29:23,0 --> 00:29:23,0
+
+
+2025
+00:29:23,0 --> 00:29:23,0
+
+
+2026
+00:29:23,0 --> 00:29:23,0
+
+
+2027
+00:29:23,0 --> 00:29:23,0
+
+
+2028
+00:29:23,0 --> 00:29:23,0
+
+
+2029
+00:29:23,0 --> 00:29:23,0
+which
+
+2030
+00:29:23,0 --> 00:29:23,0
+
+
+2031
+00:29:23,0 --> 00:29:23,0
+
+
+2032
+00:29:23,0 --> 00:29:23,0
+
+
+2033
+00:29:23,0 --> 00:29:23,0
+was
+
+2034
+00:29:23,0 --> 00:29:23,0
+
+
+2035
+00:29:23,0 --> 00:29:23,0
+
+
+2036
+00:29:23,0 --> 00:29:23,0
+
+
+2037
+00:29:23,0 --> 00:29:23,0
+
+
+2038
+00:29:23,0 --> 00:29:23,0
+
+
+2039
+00:29:23,0 --> 00:29:23,0
+
+
+2040
+00:29:23,0 --> 00:29:23,0
+called
+
+2041
+00:29:23,0 --> 00:29:23,0
+
+
+2042
+00:29:23,0 --> 00:29:23,0
+
+
+2043
+00:29:23,0 --> 00:29:23,0
+
+
+2044
+00:29:23,0 --> 00:29:23,0
+
+
+2045
+00:29:23,0 --> 00:29:23,0
+
+
+2046
+00:29:23,0 --> 00:29:23,0
+
+
+2047
+00:29:23,0 --> 00:29:23,0
+
+
+2048
+00:29:23,0 --> 00:29:23,0
+
+
+2049
+00:29:23,0 --> 00:29:23,0
+
+
+2050
+00:29:23,0 --> 00:29:23,0
+
+
+2051
+00:29:23,0 --> 00:29:23,0
+Hermounts;
+
+2052
+00:29:23,0 --> 00:29:23,0
+
+
+2053
+00:29:23,0 --> 00:29:23,0
+
+
+2054
+00:29:23,0 --> 00:29:23,0
+
+
+2055
+00:29:23,0 --> 00:29:23,0
+and
+
+2056
+00:29:23,0 --> 00:29:23,0
+
+
+2057
+00:29:23,0 --> 00:29:23,0
+
+
+2058
+00:29:23,0 --> 00:29:23,0
+it
+
+2059
+00:29:23,0 --> 00:29:23,0
+
+
+2060
+00:29:23,0 --> 00:29:23,0
+
+
+2061
+00:29:23,0 --> 00:29:23,0
+
+
+2062
+00:29:23,0 --> 00:29:23,0
+was
+
+2063
+00:29:23,0 --> 00:29:23,0
+
+
+2064
+00:29:23,0 --> 00:29:23,0
+
+
+2065
+00:29:23,0 --> 00:29:23,0
+
+
+2066
+00:29:23,0 --> 00:29:23,0
+
+
+2067
+00:29:23,0 --> 00:29:23,0
+that
+
+2068
+00:29:23,0 --> 00:29:23,0
+
+
+2069
+00:29:23,0 --> 00:29:23,0
+
+
+2070
+00:29:23,0 --> 00:29:23,0
+
+
+2071
+00:29:23,0 --> 00:29:23,0
+
+
+2072
+00:29:23,0 --> 00:29:23,0
+part
+
+2073
+00:29:23,0 --> 00:29:23,0
+
+
+2074
+00:29:23,0 --> 00:29:23,0
+
+
+2075
+00:29:23,0 --> 00:29:23,0
+of
+
+2076
+00:29:23,0 --> 00:29:23,0
+
+
+2077
+00:29:23,0 --> 00:29:23,0
+
+
+2078
+00:29:23,0 --> 00:29:23,0
+
+
+2079
+00:29:23,0 --> 00:29:23,0
+the
+
+2080
+00:29:23,0 --> 00:29:23,0
+
+
+2081
+00:29:23,0 --> 00:29:23,0
+
+
+2082
+00:29:23,0 --> 00:29:23,0
+
+
+2083
+00:29:23,0 --> 00:29:23,0
+
+
+2084
+00:29:23,0 --> 00:29:23,0
+
+
+2085
+00:29:23,0 --> 00:29:23,0
+
+
+2086
+00:29:23,0 --> 00:29:23,0
+
+
+2087
+00:29:23,0 --> 00:29:23,0
+
+
+2088
+00:29:23,0 --> 00:29:23,0
+
+
+2089
+00:29:23,0 --> 00:29:23,0
+
+
+2090
+00:29:23,0 --> 00:29:23,0
+wilderness
+
+2091
+00:29:23,0 --> 00:29:23,0
+
+
+2092
+00:29:23,0 --> 00:29:23,0
+
+
+2093
+00:29:23,0 --> 00:29:23,0
+
+
+2094
+00:29:23,0 --> 00:29:23,0
+
+
+2095
+00:29:23,0 --> 00:29:23,0
+
+
+2096
+00:29:23,0 --> 00:29:23,0
+which
+
+2097
+00:29:23,0 --> 00:29:23,0
+
+
+2098
+00:29:23,0 --> 00:29:23,0
+
+
+2099
+00:29:23,0 --> 00:29:23,0
+
+
+2100
+00:29:23,0 --> 00:29:23,0
+was
+
+2101
+00:29:23,0 --> 00:29:23,0
+
+
+2102
+00:29:23,0 --> 00:29:23,0
+
+
+2103
+00:29:23,0 --> 00:29:23,0
+
+
+2104
+00:29:23,0 --> 00:29:23,0
+
+
+2105
+00:29:23,0 --> 00:29:23,0
+
+
+2106
+00:29:23,0 --> 00:29:23,0
+
+
+2107
+00:29:23,0 --> 00:29:23,0
+
+
+2108
+00:29:23,0 --> 00:29:23,0
+
+
+2109
+00:29:23,0 --> 00:29:23,0
+infested
+
+2110
+00:29:23,0 --> 00:29:23,0
+
+
+2111
+00:29:23,0 --> 00:29:23,0
+
+
+2112
+00:29:23,0 --> 00:29:23,0
+by
+
+2113
+00:29:23,0 --> 00:29:23,0
+
+
+2114
+00:29:23,0 --> 00:29:23,0
+
+
+2115
+00:29:23,0 --> 00:29:23,0
+
+
+2116
+00:29:23,0 --> 00:29:23,0
+
+
+2117
+00:29:23,0 --> 00:29:23,0
+wild
+
+2118
+00:29:23,0 --> 00:29:23,0
+
+
+2119
+00:29:23,0 --> 00:29:23,0
+
+
+2120
+00:29:23,0 --> 00:29:23,0
+
+
+2121
+00:29:23,0 --> 00:29:23,0
+and
+
+2122
+00:29:23,0 --> 00:29:23,0
+
+
+2123
+00:29:23,0 --> 00:29:23,0
+
+
+2124
+00:29:23,0 --> 00:29:23,0
+
+
+2125
+00:29:23,0 --> 00:29:23,0
+
+
+2126
+00:29:23,0 --> 00:29:23,0
+
+
+2127
+00:29:23,0 --> 00:29:23,0
+
+
+2128
+00:29:23,0 --> 00:29:23,0
+
+
+2129
+00:29:23,0 --> 00:29:23,0
+
+
+2130
+00:29:23,0 --> 00:29:23,0
+ravenous
+
+2131
+00:29:23,0 --> 00:29:23,0
+
+
+2132
+00:29:23,0 --> 00:29:23,0
+
+
+2133
+00:29:23,0 --> 00:29:23,0
+
+
+2134
+00:29:23,0 --> 00:29:23,0
+
+
+2135
+00:29:23,0 --> 00:29:23,0
+
+
+2136
+00:29:23,0 --> 00:29:23,0
+
+
+2137
+00:29:23,0 --> 00:29:23,0
+
+
+2138
+00:29:23,0 --> 00:29:23,
+beasts.
+
+2139
+00:29:23,0 --> 00:29:23,0
+38 And it came to pass that many died in the wilderness of their wounds, and were devoured by those beasts and also the vultures of the air; and their bones have been found, and have been heaped up on the earth.
+
+2140
+00:29:23,0 --> 00:29:23,0
+
+
+2141
+00:29:23,0 --> 00:29:23,0
+
+
+2142
+00:29:23,0 --> 00:29:23,0
+
+
+2143
+00:29:23,0 --> 00:29:23,0
+
+
+2144
+00:29:23,0 --> 00:29:23,0
+And
+
+2145
+00:29:23,0 --> 00:29:23,0
+
+
+2146
+00:29:23,0 --> 00:29:23,0
+
+
+2147
+00:29:23,0 --> 00:29:23,0
+it
+
+2148
+00:29:23,0 --> 00:29:23,0
+
+
+2149
+00:29:23,0 --> 00:29:23,0
+
+
+2150
+00:29:23,0 --> 00:29:23,0
+
+
+2151
+00:29:23,0 --> 00:29:23,0
+
+
+2152
+00:29:23,0 --> 00:29:23,0
+came
+
+2153
+00:29:23,0 --> 00:29:23,0
+
+
+2154
+00:29:23,0 --> 00:29:23,0
+
+
+2155
+00:29:23,0 --> 00:29:23,0
+to
+
+2156
+00:29:23,0 --> 00:29:23,0
+
+
+2157
+00:29:23,0 --> 00:29:23,0
+
+
+2158
+00:29:23,0 --> 00:29:23,0
+
+
+2159
+00:29:23,0 --> 00:29:23,0
+
+
+2160
+00:29:23,0 --> 00:29:23,0
+pass
+
+2161
+00:29:23,0 --> 00:29:23,0
+
+
+2162
+00:29:23,0 --> 00:29:23,0
+
+
+2163
+00:29:23,0 --> 00:29:23,0
+
+
+2164
+00:29:23,0 --> 00:29:23,0
+
+
+2165
+00:29:23,0 --> 00:29:23,0
+that
+
+2166
+00:29:23,0 --> 00:29:23,0
+
+
+2167
+00:29:23,0 --> 00:29:23,0
+
+
+2168
+00:29:23,0 --> 00:29:23,0
+
+
+2169
+00:29:23,0 --> 00:29:23,0
+
+
+2170
+00:29:23,0 --> 00:29:23,0
+many
+
+2171
+00:29:23,0 --> 00:29:23,0
+
+
+2172
+00:29:23,0 --> 00:29:23,0
+
+
+2173
+00:29:23,0 --> 00:29:23,0
+
+
+2174
+00:29:23,0 --> 00:29:23,0
+
+
+2175
+00:29:23,0 --> 00:29:23,0
+died
+
+2176
+00:29:23,0 --> 00:29:23,0
+
+
+2177
+00:29:23,0 --> 00:29:23,0
+
+
+2178
+00:29:23,0 --> 00:29:23,0
+in
+
+2179
+00:29:23,0 --> 00:29:23,0
+
+
+2180
+00:29:23,0 --> 00:29:23,0
+
+
+2181
+00:29:23,0 --> 00:29:23,0
+
+
+2182
+00:29:23,0 --> 00:29:23,0
+the
+
+2183
+00:29:23,0 --> 00:29:23,0
+
+
+2184
+00:29:23,0 --> 00:29:23,0
+
+
+2185
+00:29:23,0 --> 00:29:23,0
+
+
+2186
+00:29:23,0 --> 00:29:23,0
+
+
+2187
+00:29:23,0 --> 00:29:23,0
+
+
+2188
+00:29:23,0 --> 00:29:23,0
+
+
+2189
+00:29:23,0 --> 00:29:23,0
+
+
+2190
+00:29:23,0 --> 00:29:23,0
+
+
+2191
+00:29:23,0 --> 00:29:23,0
+
+
+2192
+00:29:23,0 --> 00:29:23,0
+
+
+2193
+00:29:23,0 --> 00:29:23,0
+wilderness
+
+2194
+00:29:23,0 --> 00:29:23,0
+
+
+2195
+00:29:23,0 --> 00:29:23,0
+
+
+2196
+00:29:23,0 --> 00:29:23,0
+of
+
+2197
+00:29:23,0 --> 00:29:23,0
+
+
+2198
+00:29:23,0 --> 00:29:23,0
+
+
+2199
+00:29:23,0 --> 00:29:23,0
+
+
+2200
+00:29:23,0 --> 00:29:23,0
+
+
+2201
+00:29:23,0 --> 00:29:23,0
+
+
+2202
+00:29:23,0 --> 00:29:23,0
+their
+
+2203
+00:29:23,0 --> 00:29:23,0
+
+
+2204
+00:29:23,0 --> 00:29:23,0
+
+
+2205
+00:29:23,0 --> 00:29:23,0
+
+
+2206
+00:29:23,0 --> 00:29:23,0
+
+
+2207
+00:29:23,0 --> 00:29:23,0
+
+
+2208
+00:29:23,0 --> 00:29:23,0
+
+
+2209
+00:29:23,0 --> 00:29:23,0
+
+
+2210
+00:29:23,0 --> 00:29:23,0
+wounds,
+
+2211
+00:29:23,0 --> 00:29:23,0
+
+
+2212
+00:29:23,0 --> 00:29:23,0
+
+
+2213
+00:29:23,0 --> 00:29:23,0
+
+
+2214
+00:29:23,0 --> 00:29:23,0
+and
+
+2215
+00:29:23,0 --> 00:29:23,0
+
+
+2216
+00:29:23,0 --> 00:29:23,0
+
+
+2217
+00:29:23,0 --> 00:29:23,0
+
+
+2218
+00:29:23,0 --> 00:29:23,0
+
+
+2219
+00:29:23,0 --> 00:29:23,0
+were
+
+2220
+00:29:23,0 --> 00:29:23,0
+
+
+2221
+00:29:23,0 --> 00:29:23,0
+
+
+2222
+00:29:23,0 --> 00:29:23,0
+
+
+2223
+00:29:23,0 --> 00:29:23,0
+
+
+2224
+00:29:23,0 --> 00:29:23,0
+
+
+2225
+00:29:23,0 --> 00:29:23,0
+
+
+2226
+00:29:23,0 --> 00:29:23,0
+
+
+2227
+00:29:23,0 --> 00:29:23,0
+
+
+2228
+00:29:23,0 --> 00:29:23,0
+devoured
+
+2229
+00:29:23,0 --> 00:29:23,0
+
+
+2230
+00:29:23,0 --> 00:29:23,0
+
+
+2231
+00:29:23,0 --> 00:29:23,0
+by
+
+2232
+00:29:23,0 --> 00:29:23,0
+
+
+2233
+00:29:23,0 --> 00:29:23,0
+
+
+2234
+00:29:23,0 --> 00:29:23,0
+
+
+2235
+00:29:23,0 --> 00:29:23,0
+
+
+2236
+00:29:23,0 --> 00:29:23,0
+
+
+2237
+00:29:23,0 --> 00:29:23,0
+those
+
+2238
+00:29:23,0 --> 00:29:23,0
+
+
+2239
+00:29:23,0 --> 00:29:23,0
+
+
+2240
+00:29:23,0 --> 00:29:23,0
+
+
+2241
+00:29:23,0 --> 00:29:23,0
+
+
+2242
+00:29:23,0 --> 00:29:23,0
+
+
+2243
+00:29:23,0 --> 00:29:23,0
+
+
+2244
+00:29:23,0 --> 00:29:23,0
+beasts
+
+2245
+00:29:23,0 --> 00:29:23,0
+
+
+2246
+00:29:23,0 --> 00:29:23,0
+
+
+2247
+00:29:23,0 --> 00:29:23,0
+
+
+2248
+00:29:23,0 --> 00:29:23,0
+and
+
+2249
+00:29:23,0 --> 00:29:23,0
+
+
+2250
+00:29:23,0 --> 00:29:23,0
+
+
+2251
+00:29:23,0 --> 00:29:23,0
+
+
+2252
+00:29:23,0 --> 00:29:23,0
+
+
+2253
+00:29:23,0 --> 00:29:23,0
+also
+
+2254
+00:29:23,0 --> 00:29:23,0
+
+
+2255
+00:29:23,0 --> 00:29:23,0
+
+
+2256
+00:29:23,0 --> 00:29:23,0
+
+
+2257
+00:29:23,0 --> 00:29:23,0
+the
+
+2258
+00:29:23,0 --> 00:29:23,0
+
+
+2259
+00:29:23,0 --> 00:29:23,0
+
+
+2260
+00:29:23,0 --> 00:29:23,0
+
+
+2261
+00:29:23,0 --> 00:29:23,0
+
+
+2262
+00:29:23,0 --> 00:29:23,0
+
+
+2263
+00:29:23,0 --> 00:29:23,0
+
+
+2264
+00:29:23,0 --> 00:29:23,0
+
+
+2265
+00:29:23,0 --> 00:29:23,0
+
+
+2266
+00:29:23,0 --> 00:29:23,0
+vultures
+
+2267
+00:29:23,0 --> 00:29:23,0
+
+
+2268
+00:29:23,0 --> 00:29:23,0
+
+
+2269
+00:29:23,0 --> 00:29:23,0
+of
+
+2270
+00:29:23,0 --> 00:29:23,0
+
+
+2271
+00:29:23,0 --> 00:29:23,0
+
+
+2272
+00:29:23,0 --> 00:29:23,0
+
+
+2273
+00:29:23,0 --> 00:29:23,0
+the
+
+2274
+00:29:23,0 --> 00:29:23,0
+
+
+2275
+00:29:23,0 --> 00:29:23,0
+
+
+2276
+00:29:23,0 --> 00:29:23,0
+
+
+2277
+00:29:23,0 --> 00:29:23,0
+
+
+2278
+00:29:23,0 --> 00:29:23,0
+air;
+
+2279
+00:29:23,0 --> 00:29:23,0
+
+
+2280
+00:29:23,0 --> 00:29:23,0
+
+
+2281
+00:29:23,0 --> 00:29:23,0
+
+
+2282
+00:29:23,0 --> 00:29:23,0
+and
+
+2283
+00:29:23,0 --> 00:29:23,0
+
+
+2284
+00:29:23,0 --> 00:29:23,0
+
+
+2285
+00:29:23,0 --> 00:29:23,0
+
+
+2286
+00:29:23,0 --> 00:29:23,0
+
+
+2287
+00:29:23,0 --> 00:29:23,0
+
+
+2288
+00:29:23,0 --> 00:29:23,0
+their
+
+2289
+00:29:23,0 --> 00:29:23,0
+
+
+2290
+00:29:23,0 --> 00:29:23,0
+
+
+2291
+00:29:23,0 --> 00:29:23,0
+
+
+2292
+00:29:23,0 --> 00:29:23,0
+
+
+2293
+00:29:23,0 --> 00:29:23,0
+
+
+2294
+00:29:23,0 --> 00:29:23,0
+bones
+
+2295
+00:29:23,0 --> 00:29:23,0
+
+
+2296
+00:29:23,0 --> 00:29:23,0
+
+
+2297
+00:29:23,0 --> 00:29:23,0
+
+
+2298
+00:29:23,0 --> 00:29:23,0
+
+
+2299
+00:29:23,0 --> 00:29:23,0
+have
+
+2300
+00:29:23,0 --> 00:29:23,0
+
+
+2301
+00:29:23,0 --> 00:29:23,0
+
+
+2302
+00:29:23,0 --> 00:29:23,0
+
+
+2303
+00:29:23,0 --> 00:29:23,0
+
+
+2304
+00:29:23,0 --> 00:29:23,0
+been
+
+2305
+00:29:23,0 --> 00:29:23,0
+
+
+2306
+00:29:23,0 --> 00:29:23,0
+
+
+2307
+00:29:23,0 --> 00:29:23,0
+
+
+2308
+00:29:23,0 --> 00:29:23,0
+
+
+2309
+00:29:23,0 --> 00:29:23,0
+
+
+2310
+00:29:23,0 --> 00:29:23,0
+
+
+2311
+00:29:23,0 --> 00:29:23,0
+found,
+
+2312
+00:29:23,0 --> 00:29:23,0
+
+
+2313
+00:29:23,0 --> 00:29:23,0
+
+
+2314
+00:29:23,0 --> 00:29:23,0
+
+
+2315
+00:29:23,0 --> 00:29:23,0
+and
+
+2316
+00:29:23,0 --> 00:29:23,0
+
+
+2317
+00:29:23,0 --> 00:29:23,0
+
+
+2318
+00:29:23,0 --> 00:29:23,0
+
+
+2319
+00:29:23,0 --> 00:29:23,0
+
+
+2320
+00:29:23,0 --> 00:29:23,0
+have
+
+2321
+00:29:23,0 --> 00:29:23,0
+
+
+2322
+00:29:23,0 --> 00:29:23,0
+
+
+2323
+00:29:23,0 --> 00:29:23,0
+
+
+2324
+00:29:23,0 --> 00:29:23,0
+
+
+2325
+00:29:23,0 --> 00:29:23,0
+been
+
+2326
+00:29:23,0 --> 00:29:23,0
+
+
+2327
+00:29:23,0 --> 00:29:23,0
+
+
+2328
+00:29:23,0 --> 00:29:23,0
+
+
+2329
+00:29:23,0 --> 00:29:23,0
+
+
+2330
+00:29:23,0 --> 00:29:23,0
+
+
+2331
+00:29:23,0 --> 00:29:23,0
+
+
+2332
+00:29:23,0 --> 00:29:23,0
+heaped
+
+2333
+00:29:23,0 --> 00:29:23,0
+
+
+2334
+00:29:23,0 --> 00:29:23,0
+
+
+2335
+00:29:23,0 --> 00:29:23,0
+up
+
+2336
+00:29:23,0 --> 00:29:23,0
+
+
+2337
+00:29:23,0 --> 00:29:23,0
+
+
+2338
+00:29:23,0 --> 00:29:23,0
+on
+
+2339
+00:29:23,0 --> 00:29:23,0
+
+
+2340
+00:29:23,0 --> 00:29:23,0
+
+
+2341
+00:29:23,0 --> 00:29:23,0
+
+
+2342
+00:29:23,0 --> 00:29:23,0
+the
+
+2343
+00:29:23,0 --> 00:29:23,0
+
+
+2344
+00:29:23,0 --> 00:29:23,0
+
+
+2345
+00:29:23,0 --> 00:29:23,0
+
+
+2346
+00:29:23,0 --> 00:29:23,0
+
+
+2347
+00:29:23,0 --> 00:29:23,0
+
+
+2348
+00:29:23,0 --> 00:29:23,0
+
+
+2349
+00:29:23,0 --> 00:29:23,0
+earth.
+
+2350
+00:29:23,0 --> 00:29:23,
+
 

@@ -1,604 +1,3368 @@
 1
-00:00:00,0 --> 00:00:10,889
-The Book of OmniChapter 1 Omni, Amaron, Chemish,
+00:00:00,0 --> 00:00:00,0
+The Book of OmniChapter 1 Omni, Amaron,
 
 2
-00:00:10,889 --> 00:00:21,778
- Abinadom, and Amaleki, each in turn, keep the
+00:00:00,0 --> 00:00:00,0
+Chemish, Abinadom, and Amaleki, each in turn, keep
 
 3
-00:00:21,778 --> 00:00:32,667
- records—Mosiah discovers the people of Zarahemla, who
+00:00:00,0 --> 00:00:00,0
+the records—Mosiah discovers the people of
 
 4
-00:00:32,667 --> 00:00:43,556
- came from Jerusalem in the days of Zedekiah—Mosiah
+00:00:00,0 --> 00:00:00,0
+Zarahemla, who came from Jerusalem in the days of
 
 5
-00:00:43,556 --> 00:00:54,445
- is made king over them—The descendants of Mulek at
+00:00:00,0 --> 00:00:00,0
+Zedekiah—Mosiah is made king over them—The
 
 6
-00:00:54,445 --> 00:01:05,334
- Zarahemla had discovered Coriantumr, the last of
+00:00:00,0 --> 00:00:00,0
+descendants of Mulek at Zarahemla had discovered
 
 7
-00:01:05,334 --> 00:01:16,223
- the Jaredites—King Benjamin succeeds Mosiah—Men
+00:00:00,0 --> 00:00:00,0
+Coriantumr, the last of the Jaredites—King
 
 8
-00:01:16,223 --> 00:01:27,112
- should offer their souls as an offering to Christ.
+00:00:00,0 --> 00:00:00,0
+Benjamin succeeds Mosiah—Men should offer their
 
 9
-00:01:27,112 --> 00:01:38,001
- About 323–130 B.C.
+00:00:00,0 --> 00:04:13,
+souls as an offering to Christ. About 323–130 B.C. 
 
 10
-00:01:38,532 --> 00:01:43,282
-1 Behold, it came to pass that I, Omni, being
+00:04:13,0 --> 00:04:13,0
+1 Behold, it came to pass that I,
 
 11
-00:01:43,282 --> 00:01:48,032
- commanded by my father, Jarom, that I should write
+00:04:13,0 --> 00:04:13,0
+Omni, being commanded by my father,
 
 12
-00:01:48,032 --> 00:01:52,782
- somewhat upon these plates, to preserve our
+00:04:13,0 --> 00:04:13,0
+Jarom, that I should write somewhat upon
 
 13
-00:01:52,782 --> 00:01:57,532
- genealogy
+00:04:13,0 --> 00:10:10,
+these plates, to preserve our genealogy—
 
 14
-00:01:57,184 --> 00:02:07,041
-2 Wherefore, in my days, I would that ye should
+00:10:10,0 --> 00:10:10,0
+2 Wherefore, in my days, I would
 
 15
-00:02:07,041 --> 00:02:16,898
- know that I fought much with the sword to preserve
+00:10:10,0 --> 00:10:10,0
+that ye should know that I fought
 
 16
-00:02:16,898 --> 00:02:26,755
- my people, the Nephites, from falling into the
+00:10:10,0 --> 00:10:10,0
+much with the sword to preserve my
 
 17
-00:02:26,755 --> 00:02:36,612
- hands of their enemies, the Lamanites. But behold, I
+00:10:10,0 --> 00:10:10,0
+people, the Nephites, from falling
 
 18
-00:02:36,612 --> 00:02:46,469
- of myself am a wicked man, and I have not kept the
+00:10:10,0 --> 00:10:10,0
+into the hands of their enemies, the
 
 19
-00:02:46,469 --> 00:02:56,326
- statutes and the commandments of the Lord as I
+00:10:10,0 --> 00:10:10,0
+Lamanites. But behold, I of myself
 
 20
-00:02:56,326 --> 00:03:06,183
- ought to have done
+00:10:10,0 --> 00:10:10,0
+am a wicked man, and I have not kept
 
 21
-00:03:06,353 --> 00:03:13,353
-3 And it came to pass that two hundred and seventy
+00:10:10,0 --> 00:10:10,0
+the statutes and the commandments
 
 22
-00:03:13,353 --> 00:03:20,353
- and six years had passed away, and we had many
+00:10:10,0 --> 00:14:23,
+of the Lord as I ought to have done.
 
 23
-00:03:20,353 --> 00:03:27,353
- seasons of peace; and we had many seasons of serious
+00:14:23,0 --> 00:14:23,0
+3 And it came to pass that two
 
 24
-00:03:27,353 --> 00:03:34,353
- war and bloodshed. Yea, and in fine, two hundred
+00:14:23,0 --> 00:14:23,0
+hundred and seventy and six years had
 
 25
-00:03:34,353 --> 00:03:41,353
- and eighty and two years had passed away, and I
+00:14:23,0 --> 00:14:23,0
+passed away, and we had many
 
 26
-00:03:41,353 --> 00:03:48,353
- had kept these plates according to the commandments
+00:14:23,0 --> 00:14:23,0
+seasons of peace; and we had many
 
 27
-00:03:48,353 --> 00:03:55,353
- of my fathers; and I conferred them upon my son
+00:14:23,0 --> 00:14:23,0
+seasons of serious war and bloodshed.
 
 28
-00:03:55,353 --> 00:04:02,353
- Amaron. And I make an end
+00:14:23,0 --> 00:14:23,0
+Yea, and in fine, two hundred and
 
 29
-00:04:02,175 --> 00:06:25,675
-4 And now I, Amaron, write the things whatsoever I
+00:14:23,0 --> 00:14:23,0
+eighty and two years had passed
 
 30
-00:06:25,675 --> 00:08:49,175
- write, which are few, in the book of my father
+00:14:23,0 --> 00:14:23,0
+away, and I had kept these plates
 
 31
-00:08:49,262 --> 00:09:13,262
-5 Behold, it came to pass that three hundred and
+00:14:23,0 --> 00:14:23,0
+according to the commandments of my
 
 32
-00:09:13,262 --> 00:09:37,262
- twenty years had passed away, and the more wicked
+00:14:23,0 --> 00:14:23,0
+fathers; and I conferred them upon
 
 33
-00:09:37,262 --> 00:10:01,262
- part of the Nephites were destroyed
+00:14:23,0 --> 00:13:55,
+my son Amaron. And I make an end.
 
 34
-00:10:01,034 --> 00:10:04,32
-6 For the Lord would not suffer, after he had led
+00:13:55,0 --> 00:13:55,0
+4 And now I, Amaron, write the
 
 35
-00:10:04,32 --> 00:10:07,606
- them out of the land of Jerusalem and kept and
+00:13:55,0 --> 00:13:55,0
+things whatsoever I write, which
 
 36
-00:10:07,606 --> 00:10:10,892
- preserved them from falling into the hands of their
+00:13:55,0 --> 00:14:53,
+are few, in the book of my father.
 
 37
-00:10:10,892 --> 00:10:14,178
- enemies, yea, he would not suffer that the words
+00:14:53,0 --> 00:14:53,0
+5 Behold, it came to pass
 
 38
-00:10:14,178 --> 00:10:17,464
- should not be verified, which he spake unto our
+00:14:53,0 --> 00:14:53,0
+that three hundred and
 
 39
-00:10:17,464 --> 00:10:20,75
- fathers, saying that: Inasmuch as ye will not keep my
+00:14:53,0 --> 00:14:53,0
+twenty years had passed away,
 
 40
-00:10:20,75 --> 00:10:24,036
- commandments ye shall not prosper in the land
+00:14:53,0 --> 00:14:53,0
+and the more wicked part of
 
 41
-00:10:24,958 --> 00:10:32,958
-7 Wherefore, the Lord did visit them in great
+00:14:53,0 --> 00:30:35,
+the Nephites were destroyed.
 
 42
-00:10:32,958 --> 00:10:40,958
- judgment; nevertheless, he did spare the righteous
+00:30:35,0 --> 00:30:35,0
+6 For the Lord would not
 
 43
-00:10:40,958 --> 00:10:48,958
- that they should not perish, but did deliver them out
+00:30:35,0 --> 00:30:35,0
+suffer, after he had led
 
 44
-00:10:48,958 --> 00:10:56,958
- of the hands of their enemies
+00:30:35,0 --> 00:30:35,0
+them out of the land of
 
 45
-00:10:56,856 --> 00:12:00,856
-8 And it came to pass that I did deliver the
+00:30:35,0 --> 00:30:35,0
+Jerusalem and kept and
 
 46
-00:12:00,856 --> 00:13:04,856
- plates unto my brother Chemish
+00:30:35,0 --> 00:30:35,0
+preserved them from falling into
 
 47
-00:13:04,45 --> 00:13:27,164
-9 Now I, Chemish, write what few things I write,
+00:30:35,0 --> 00:30:35,0
+the hands of their
 
 48
-00:13:27,164 --> 00:13:49,878
- in the same book with my brother; for behold, I saw
+00:30:35,0 --> 00:30:35,0
+enemies, yea, he would not suffer
 
 49
-00:13:49,878 --> 00:14:12,592
- the last which he wrote, that he wrote it with
+00:30:35,0 --> 00:30:35,0
+that the words should not
 
 50
-00:14:12,592 --> 00:14:35,306
- his own hand; and he wrote it in the day that he
+00:30:35,0 --> 00:30:35,0
+be verified, which he
 
 51
-00:14:35,306 --> 00:14:58,02
- delivered them unto me. And after this manner we keep
+00:30:35,0 --> 00:30:35,0
+spake unto our fathers,
 
 52
-00:14:58,02 --> 00:15:20,734
- the records, for it is according to the
+00:30:35,0 --> 00:30:35,0
+saying that: Inasmuch as ye
 
 53
-00:15:20,734 --> 00:15:43,448
- commandments of our fathers. And I make an end
+00:30:35,0 --> 00:30:35,0
+will not keep my commandments
 
 54
-00:01:43,67 --> 00:01:54,67
-12 Behold, I am Amaleki, the son of Abinadom.
+00:30:35,0 --> 00:34:19,
+ye shall not prosper in the land.
 
 55
-00:01:54,67 --> 00:02:05,67
- Behold, I will speak unto you somewhat concerning
+00:34:19,0 --> 00:34:19,0
+7 Wherefore, the Lord did
 
 56
-00:02:05,67 --> 00:02:16,67
- Mosiah, who was made king over the land of Zarahemla;
+00:34:19,0 --> 00:34:19,0
+visit them in great
 
 57
-00:02:16,67 --> 00:02:27,67
- for behold, he being warned of the Lord that he
+00:34:19,0 --> 00:34:19,0
+judgment; nevertheless, he
 
 58
-00:02:27,67 --> 00:02:38,67
- should flee out of the land of Nephi, and as many as
+00:34:19,0 --> 00:34:19,0
+did spare the righteous
 
 59
-00:02:38,67 --> 00:02:49,67
- would hearken unto the voice of the Lord should
+00:34:19,0 --> 00:34:19,0
+that they should not perish,
 
 60
-00:02:49,67 --> 00:03:00,67
- also depart out of the land with him, into the
+00:34:19,0 --> 00:34:19,0
+but did deliver them out
 
 61
-00:03:00,67 --> 00:03:11,67
- wilderness
+00:34:19,0 --> 00:33:51,
+of the hands of their enemies.
 
 62
-00:03:11,391 --> 00:03:21,169
-13 And it came to pass that he did according as
+00:33:51,0 --> 00:33:51,0
+8 And it came to
 
 63
-00:03:21,169 --> 00:03:30,947
- the Lord had commanded him. And they departed out of
+00:33:51,0 --> 00:33:51,0
+pass that I did
 
 64
-00:03:30,947 --> 00:03:40,725
- the land into the wilderness, as many as would
+00:33:51,0 --> 00:33:51,0
+deliver the plates unto
 
 65
-00:03:40,725 --> 00:03:50,503
- hearken unto the voice of the Lord; and they were
+00:33:51,0 --> 00:37:35,
+my brother Chemish.
 
 66
-00:03:50,503 --> 00:04:00,281
- led by many preachings and prophesyings. And they
+00:37:35,0 --> 00:37:35,0
+9 Now I, Chemish,
 
 67
-00:04:00,281 --> 00:04:10,059
- were admonished continually by the word of God; and
+00:37:35,0 --> 00:37:35,0
+write what few
 
 68
-00:04:10,059 --> 00:04:19,837
- they were led by the power of his arm, through the
+00:37:35,0 --> 00:37:35,0
+things I write, in
 
 69
-00:04:19,837 --> 00:04:29,615
- wilderness until they came down into the land
+00:37:35,0 --> 00:37:35,0
+the same book with
 
 70
-00:04:29,615 --> 00:04:39,393
- which is called the land of Zarahemla
+00:37:35,0 --> 00:37:35,0
+my brother; for
 
 71
-00:04:39,112 --> 00:04:54,945
-14 And they discovered a people, who were called
+00:37:35,0 --> 00:37:35,0
+behold, I saw the
 
 72
-00:04:54,945 --> 00:05:10,778
- the people of Zarahemla. Now, there was great
+00:37:35,0 --> 00:37:35,0
+last which he wrote,
 
 73
-00:05:10,778 --> 00:05:26,611
- rejoicing among the people of Zarahemla; and also
+00:37:35,0 --> 00:37:35,0
+that he wrote it
 
 74
-00:05:26,611 --> 00:05:42,444
- Zarahemla did rejoice exceedingly, because the Lord had
+00:37:35,0 --> 00:37:35,0
+with his own hand;
 
 75
-00:05:42,444 --> 00:05:58,277
- sent the people of Mosiah with the plates of
+00:37:35,0 --> 00:37:35,0
+and he wrote it in
 
 76
-00:05:58,277 --> 00:06:14,11
- brass which contained the record of the Jews
+00:37:35,0 --> 00:37:35,0
+the day that he
 
 77
-00:06:14,808 --> 00:06:20,808
-15 Behold, it came to pass that Mosiah discovered
+00:37:35,0 --> 00:37:35,0
+delivered them unto
 
 78
-00:06:20,808 --> 00:06:26,808
- that the people of Zarahemla came out from
+00:37:35,0 --> 00:37:35,0
+me. And after
 
 79
-00:06:26,808 --> 00:06:32,808
- Jerusalem at the time that Zedekiah, king of Judah, was
+00:37:35,0 --> 00:37:35,0
+this manner we keep
 
 80
-00:06:32,808 --> 00:06:38,808
- carried away captive into Babylon
+00:37:35,0 --> 00:37:35,0
+the records, for it
 
 81
-00:06:38,732 --> 00:07:02,732
-16 And they journeyed in the wilderness, and were
+00:37:35,0 --> 00:37:35,0
+is according to
 
 82
-00:07:02,732 --> 00:07:26,732
- brought by the hand of the Lord across the great
+00:37:35,0 --> 00:37:35,0
+the commandments of
 
 83
-00:07:26,732 --> 00:07:50,732
- waters, into the land where Mosiah discovered them;
+00:37:35,0 --> 00:37:35,
+our fathers. And I make an end.
 
 84
-00:07:50,732 --> 00:08:14,732
- and they had dwelt there from that time forth
+00:37:35,0 --> 00:37:35,0
+10 Behold, I,
 
 85
-00:08:14,427 --> 00:08:26,427
-17 And at the time that Mosiah discovered them,
+00:37:35,0 --> 00:37:35,0
+Abinadom, am the son
 
 86
-00:08:26,427 --> 00:08:38,427
- they had become exceedingly numerous. Nevertheless,
+00:37:35,0 --> 00:37:35,0
+of Chemish.
 
 87
-00:08:38,427 --> 00:08:50,427
- they had had many wars and serious contentions,
+00:37:35,0 --> 00:37:35,0
+Behold, it came to
 
 88
-00:08:50,427 --> 00:09:02,427
- and had fallen by the sword from time to time; and
+00:37:35,0 --> 00:37:35,0
+pass that I saw
 
 89
-00:09:02,427 --> 00:09:14,427
- their language had become corrupted; and they had
+00:37:35,0 --> 00:37:35,0
+much war and
 
 90
-00:09:14,427 --> 00:09:26,427
- brought no records with them; and they denied the
+00:37:35,0 --> 00:37:35,0
+contention between my
 
 91
-00:09:26,427 --> 00:09:38,427
- being of their Creator; and Mosiah, nor the people
+00:37:35,0 --> 00:37:35,0
+people, the
 
 92
-00:09:38,427 --> 00:09:50,427
- of Mosiah, could understand them
+00:37:35,0 --> 00:37:35,0
+Nephites, and the
 
 93
-00:09:50,123 --> 00:10:07,29
-18 But it came to pass that Mosiah caused that
+00:37:35,0 --> 00:37:35,0
+Lamanites; and I, with
 
 94
-00:10:07,29 --> 00:10:24,457
- they should be taught in his language. And it came to
+00:37:35,0 --> 00:37:35,0
+my own sword,
 
 95
-00:10:24,457 --> 00:10:41,624
- pass that after they were taught in the language
+00:37:35,0 --> 00:37:35,0
+have taken the lives
 
 96
-00:10:41,624 --> 00:10:58,791
- of Mosiah, Zarahemla gave a genealogy of his
+00:37:35,0 --> 00:37:35,0
+of many of the
 
 97
-00:10:58,791 --> 00:11:15,958
- fathers, according to his memory; and they are written,
+00:37:35,0 --> 00:37:35,0
+Lamanites in the
 
 98
-00:11:15,958 --> 00:11:33,125
- but not in these plates
+00:37:35,0 --> 00:37:35,
+defence of my brethren.
 
 99
-00:11:33,793 --> 00:11:47,126
-19 And it came to pass that the people of
+00:37:35,0 --> 00:37:35,0
+11 And behold,
 
 100
-00:11:47,126 --> 00:12:00,459
- Zarahemla, and of Mosiah, did unite together; and Mosiah
+00:37:35,0 --> 00:37:35,0
+the record of
 
 101
-00:12:00,459 --> 00:12:13,792
- was appointed to be their king
+00:37:35,0 --> 00:37:35,0
+this people is
 
 102
-00:12:13,666 --> 00:12:15,666
-20 And it came to pass in the days of Mosiah,
+00:37:35,0 --> 00:37:35,0
+engraven upon plates
 
 103
-00:12:15,666 --> 00:12:17,666
- there was a large stone brought unto him with
+00:37:35,0 --> 00:37:35,0
+which is had by
 
 104
-00:12:17,666 --> 00:12:19,666
- engravings on it; and he did interpret the engravings by
+00:37:35,0 --> 00:37:35,0
+the kings,
 
 105
-00:12:19,666 --> 00:12:21,666
- the gift and power of God
+00:37:35,0 --> 00:37:35,0
+according to the
 
 106
-00:12:21,641 --> 00:12:47,641
-21 And they gave an account of one Coriantumr, and
+00:37:35,0 --> 00:37:35,0
+generations; and I
 
 107
-00:12:47,641 --> 00:13:13,641
- the slain of his people. And Coriantumr was
+00:37:35,0 --> 00:37:35,0
+know of no
 
 108
-00:13:13,641 --> 00:13:39,641
- discovered by the people of Zarahemla; and he dwelt
+00:37:35,0 --> 00:37:35,0
+revelation save that
 
 109
-00:13:39,641 --> 00:14:05,641
- with them for the space of nine moons
+00:37:35,0 --> 00:37:35,0
+which has been
 
 110
-00:14:05,311 --> 00:14:12,168
-22 It also spake a few words concerning his
+00:37:35,0 --> 00:37:35,0
+written, neither
 
 111
-00:14:12,168 --> 00:14:19,025
- fathers. And his first parents came out from the tower,
+00:37:35,0 --> 00:37:35,0
+prophecy;
 
 112
-00:14:19,025 --> 00:14:25,882
- at the time the Lord confounded the language of
+00:37:35,0 --> 00:37:35,0
+wherefore, that which
 
 113
-00:14:25,882 --> 00:14:32,739
- the people; and the severity of the Lord fell upon
+00:37:35,0 --> 00:37:35,0
+is sufficient is
 
 114
-00:14:32,739 --> 00:14:39,596
- them according to his judgments, which are just;
+00:37:35,0 --> 00:37:35,
+written. And I make an end.
 
 115
-00:14:39,596 --> 00:14:46,453
- and their bones lay scattered in the land northward
+00:37:35,0 --> 00:37:35,0
+12 Behold, I am
 
 116
-00:14:46,453 --> 00:14:53,31
-
+00:37:35,0 --> 00:37:35,0
+Amaleki, the
 
 117
-00:14:53,159 --> 00:15:30,159
-23 Behold, I, Amaleki, was born in the days of
+00:37:35,0 --> 00:37:35,0
+son of Abinadom.
 
 118
-00:15:30,159 --> 00:16:07,159
- Mosiah; and I have lived to see his death; and
+00:37:35,0 --> 00:37:35,0
+Behold, I will
 
 119
-00:16:07,159 --> 00:16:44,159
- Benjamin, his son, reigneth in his stead
+00:37:35,0 --> 00:37:35,0
+speak unto you
 
 120
-00:16:44,804 --> 00:16:45,471
-24 And behold, I have seen, in the days of king
+00:37:35,0 --> 00:37:35,0
+somewhat
 
 121
-00:16:45,471 --> 00:16:46,138
- Benjamin, a serious war and much bloodshed between
+00:37:35,0 --> 00:37:35,0
+concerning Mosiah,
 
 122
-00:16:46,138 --> 00:16:46,805
- the Nephites and the Lamanites. But behold, the
+00:37:35,0 --> 00:37:35,0
+who was made
 
 123
-00:16:46,805 --> 00:16:47,472
- Nephites did obtain much advantage over them; yea,
+00:37:35,0 --> 00:37:35,0
+king over the land
 
 124
-00:16:47,472 --> 00:16:48,139
- insomuch that king Benjamin did drive them out of
+00:37:35,0 --> 00:37:35,0
+of Zarahemla;
 
 125
-00:16:48,139 --> 00:16:48,806
- the land of Zarahemla
+00:37:35,0 --> 00:37:35,0
+for behold, he
 
 126
-00:16:48,074 --> 00:17:02,657
-25 And it came to pass that I began to be old;
+00:37:35,0 --> 00:37:35,0
+being warned of
 
 127
-00:17:02,657 --> 00:17:17,24
- and, having no seed, and knowing king Benjamin to be
+00:37:35,0 --> 00:37:35,0
+the Lord that
 
 128
-00:17:17,24 --> 00:17:31,823
- a just man before the Lord, wherefore, I shall
+00:37:35,0 --> 00:37:35,0
+he should flee
 
 129
-00:17:31,823 --> 00:17:46,406
- deliver up these plates unto him, exhorting all men
+00:37:35,0 --> 00:37:35,0
+out of the land
 
 130
-00:17:46,406 --> 00:18:00,989
- to come unto God, the Holy One of Israel, and
+00:37:35,0 --> 00:37:35,0
+of Nephi, and
 
 131
-00:18:00,989 --> 00:18:15,572
- believe in prophesying, and in revelations, and in the
+00:37:35,0 --> 00:37:35,0
+as many as
 
 132
-00:18:15,572 --> 00:18:30,155
- ministering of angels, and in the gift of speaking
+00:37:35,0 --> 00:37:35,0
+would hearken unto
 
 133
-00:18:30,155 --> 00:18:44,738
- with tongues, and in the gift of interpreting
+00:37:35,0 --> 00:37:35,0
+the voice of
 
 134
-00:18:44,738 --> 00:18:59,321
- languages, and in all things which are good; for
+00:37:35,0 --> 00:37:35,0
+the Lord should
 
 135
-00:18:59,321 --> 00:19:13,904
- there is nothing which is good save it comes from the
+00:37:35,0 --> 00:37:35,0
+also depart out
 
 136
-00:19:13,904 --> 00:19:28,487
- Lord: and that which is evil cometh from the
+00:37:35,0 --> 00:37:35,0
+of the land
 
 137
-00:19:28,487 --> 00:19:43,07
- devil
+00:37:35,0 --> 00:37:35,
+with him, into the wilderness—
 
 138
-00:01:43,67 --> 00:01:58,337
-28 Wherefore, they went up into the wilderness.
+00:37:35,0 --> 00:37:35,0
+13 And it came
 
 139
-00:01:58,337 --> 00:02:13,004
- And their leader being a strong and mighty man, and
+00:37:35,0 --> 00:37:35,0
+to pass that he
 
 140
-00:02:13,004 --> 00:02:27,671
- a stiffnecked man, wherefore he caused a
+00:37:35,0 --> 00:37:35,0
+did according
 
 141
-00:02:27,671 --> 00:02:42,338
- contention among them; and they were all slain, save fifty,
+00:37:35,0 --> 00:37:35,0
+as the Lord had
 
 142
-00:02:42,338 --> 00:02:57,005
- in the wilderness, and they returned again to the
+00:37:35,0 --> 00:37:35,0
+commanded him.
 
 143
-00:02:57,005 --> 00:03:11,672
- land of Zarahemla
+00:37:35,0 --> 00:37:35,0
+And they
 
 144
-00:03:11,391 --> 00:03:40,724
-29 And it came to pass that they also took others
+00:37:35,0 --> 00:37:35,0
+departed out of the
 
 145
-00:03:40,724 --> 00:04:10,057
- to a considerable number, and took their journey
+00:37:35,0 --> 00:37:35,0
+land into the
 
 146
-00:04:10,057 --> 00:04:39,39
- again into the wilderness
+00:37:35,0 --> 00:37:35,0
+wilderness, as
 
 147
-00:04:39,112 --> 00:04:39,112
-30 And I, Amaleki, had a brother, who also went
+00:37:35,0 --> 00:37:35,0
+many as would
 
 148
-00:04:39,112 --> 00:04:39,112
- with them; and I have not since known concerning
+00:37:35,0 --> 00:37:35,0
+hearken unto the
 
 149
-00:04:39,112 --> 00:04:39,112
- them. And I am about to lie down in my grave; and
+00:37:35,0 --> 00:37:35,0
+voice of the
 
 150
-00:04:39,112 --> 00:04:39,112
- these plates are full. And I make an end of my
+00:37:35,0 --> 00:37:35,0
+Lord; and they
 
 151
-00:04:39,112 --> 00:04:39,112
- speaking.
+00:37:35,0 --> 00:37:35,0
+were led by many
+
+152
+00:37:35,0 --> 00:37:35,0
+preachings and
+
+153
+00:37:35,0 --> 00:37:35,0
+prophesyings.
+
+154
+00:37:35,0 --> 00:37:35,0
+And they were
+
+155
+00:37:35,0 --> 00:37:35,0
+admonished
+
+156
+00:37:35,0 --> 00:37:35,0
+continually by the
+
+157
+00:37:35,0 --> 00:37:35,0
+word of God; and
+
+158
+00:37:35,0 --> 00:37:35,0
+they were led
+
+159
+00:37:35,0 --> 00:37:35,0
+by the power of
+
+160
+00:37:35,0 --> 00:37:35,0
+his arm,
+
+161
+00:37:35,0 --> 00:37:35,0
+through the
+
+162
+00:37:35,0 --> 00:37:35,0
+wilderness until they
+
+163
+00:37:35,0 --> 00:37:35,0
+came down into
+
+164
+00:37:35,0 --> 00:37:35,0
+the land which is
+
+165
+00:37:35,0 --> 00:37:35,0
+called the
+
+166
+00:37:35,0 --> 00:37:35,
+land of Zarahemla.
+
+167
+00:37:35,0 --> 00:37:35,0
+14 And they
+
+168
+00:37:35,0 --> 00:37:35,0
+discovered a
+
+169
+00:37:35,0 --> 00:37:35,0
+people, who were
+
+170
+00:37:35,0 --> 00:37:35,0
+called the
+
+171
+00:37:35,0 --> 00:37:35,0
+people of
+
+172
+00:37:35,0 --> 00:37:35,0
+Zarahemla. Now, there
+
+173
+00:37:35,0 --> 00:37:35,0
+was great
+
+174
+00:37:35,0 --> 00:37:35,0
+rejoicing among
+
+175
+00:37:35,0 --> 00:37:35,0
+the people of
+
+176
+00:37:35,0 --> 00:37:35,0
+Zarahemla; and
+
+177
+00:37:35,0 --> 00:37:35,0
+also Zarahemla
+
+178
+00:37:35,0 --> 00:37:35,0
+did rejoice
+
+179
+00:37:35,0 --> 00:37:35,0
+exceedingly,
+
+180
+00:37:35,0 --> 00:37:35,0
+because the Lord
+
+181
+00:37:35,0 --> 00:37:35,0
+had sent the
+
+182
+00:37:35,0 --> 00:37:35,0
+people of
+
+183
+00:37:35,0 --> 00:37:35,0
+Mosiah with the
+
+184
+00:37:35,0 --> 00:37:35,0
+plates of brass
+
+185
+00:37:35,0 --> 00:37:35,0
+which
+
+186
+00:37:35,0 --> 00:37:35,
+contained the record of the Jews.
+
+187
+00:37:35,0 --> 00:37:35,0
+15 Behold, it
+
+188
+00:37:35,0 --> 00:37:35,0
+came to pass
+
+189
+00:37:35,0 --> 00:37:35,0
+that Mosiah
+
+190
+00:37:35,0 --> 00:37:35,0
+discovered
+
+191
+00:37:35,0 --> 00:37:35,0
+that the people
+
+192
+00:37:35,0 --> 00:37:35,0
+of Zarahemla
+
+193
+00:37:35,0 --> 00:37:35,0
+came out
+
+194
+00:37:35,0 --> 00:37:35,0
+from Jerusalem
+
+195
+00:37:35,0 --> 00:37:35,0
+at the time
+
+196
+00:37:35,0 --> 00:37:35,0
+that Zedekiah,
+
+197
+00:37:35,0 --> 00:37:35,0
+king of
+
+198
+00:37:35,0 --> 00:37:35,0
+Judah, was carried
+
+199
+00:37:35,0 --> 00:37:35,0
+away captive
+
+200
+00:37:35,0 --> 00:37:35,
+into Babylon.
+
+201
+00:37:35,0 --> 00:37:35,0
+16 And they
+
+202
+00:37:35,0 --> 00:37:35,0
+journeyed in
+
+203
+00:37:35,0 --> 00:37:35,0
+the
+
+204
+00:37:35,0 --> 00:37:35,0
+wilderness, and
+
+205
+00:37:35,0 --> 00:37:35,0
+were brought by
+
+206
+00:37:35,0 --> 00:37:35,0
+the hand of
+
+207
+00:37:35,0 --> 00:37:35,0
+the Lord
+
+208
+00:37:35,0 --> 00:37:35,0
+across the
+
+209
+00:37:35,0 --> 00:37:35,0
+great waters,
+
+210
+00:37:35,0 --> 00:37:35,0
+into the land
+
+211
+00:37:35,0 --> 00:37:35,0
+where
+
+212
+00:37:35,0 --> 00:37:35,0
+Mosiah discovered
+
+213
+00:37:35,0 --> 00:37:35,0
+them; and
+
+214
+00:37:35,0 --> 00:37:35,0
+they had
+
+215
+00:37:35,0 --> 00:37:35,0
+dwelt there from
+
+216
+00:37:35,0 --> 00:37:35,
+that time forth.
+
+217
+00:37:35,0 --> 00:37:35,0
+17 And at
+
+218
+00:37:35,0 --> 00:37:35,0
+the time
+
+219
+00:37:35,0 --> 00:37:35,0
+that Mosiah
+
+220
+00:37:35,0 --> 00:37:35,0
+discovered
+
+221
+00:37:35,0 --> 00:37:35,0
+them, they
+
+222
+00:37:35,0 --> 00:37:35,0
+had become
+
+223
+00:37:35,0 --> 00:37:35,0
+exceedingly
+
+224
+00:37:35,0 --> 00:37:35,0
+numerous.
+
+225
+00:37:35,0 --> 00:37:35,0
+Nevertheless,
+
+226
+00:37:35,0 --> 00:37:35,0
+they had
+
+227
+00:37:35,0 --> 00:37:35,0
+had many
+
+228
+00:37:35,0 --> 00:37:35,0
+wars and
+
+229
+00:37:35,0 --> 00:37:35,0
+serious
+
+230
+00:37:35,0 --> 00:37:35,0
+contentions, and
+
+231
+00:37:35,0 --> 00:37:35,0
+had fallen by
+
+232
+00:37:35,0 --> 00:37:35,0
+the sword
+
+233
+00:37:35,0 --> 00:37:35,0
+from time
+
+234
+00:37:35,0 --> 00:37:35,0
+to time; and
+
+235
+00:37:35,0 --> 00:37:35,0
+their
+
+236
+00:37:35,0 --> 00:37:35,0
+language had
+
+237
+00:37:35,0 --> 00:37:35,0
+become
+
+238
+00:37:35,0 --> 00:37:35,0
+corrupted; and
+
+239
+00:37:35,0 --> 00:37:35,0
+they had
+
+240
+00:37:35,0 --> 00:37:35,0
+brought no
+
+241
+00:37:35,0 --> 00:37:35,0
+records with
+
+242
+00:37:35,0 --> 00:37:35,0
+them; and
+
+243
+00:37:35,0 --> 00:37:35,0
+they denied
+
+244
+00:37:35,0 --> 00:37:35,0
+the being of
+
+245
+00:37:35,0 --> 00:37:35,0
+their
+
+246
+00:37:35,0 --> 00:37:35,0
+Creator; and
+
+247
+00:37:35,0 --> 00:37:35,0
+Mosiah, nor
+
+248
+00:37:35,0 --> 00:37:35,
+the people of Mosiah, could understand them.
+
+249
+00:37:35,0 --> 00:37:35,0
+18 But it
+
+250
+00:37:35,0 --> 00:37:35,0
+came to pass
+
+251
+00:37:35,0 --> 00:37:35,0
+that
+
+252
+00:37:35,0 --> 00:37:35,0
+Mosiah caused
+
+253
+00:37:35,0 --> 00:37:35,0
+that they
+
+254
+00:37:35,0 --> 00:37:35,0
+should be
+
+255
+00:37:35,0 --> 00:37:35,0
+taught in his
+
+256
+00:37:35,0 --> 00:37:35,0
+language.
+
+257
+00:37:35,0 --> 00:37:35,0
+And it came
+
+258
+00:37:35,0 --> 00:37:35,0
+to pass that
+
+259
+00:37:35,0 --> 00:37:35,0
+after they
+
+260
+00:37:35,0 --> 00:37:35,0
+were
+
+261
+00:37:35,0 --> 00:37:35,0
+taught in the
+
+262
+00:37:35,0 --> 00:37:35,0
+language of
+
+263
+00:37:35,0 --> 00:37:35,0
+Mosiah,
+
+264
+00:37:35,0 --> 00:37:35,0
+Zarahemla gave
+
+265
+00:37:35,0 --> 00:37:35,0
+a genealogy
+
+266
+00:37:35,0 --> 00:37:35,0
+of his
+
+267
+00:37:35,0 --> 00:37:35,0
+fathers,
+
+268
+00:37:35,0 --> 00:37:35,0
+according to his
+
+269
+00:37:35,0 --> 00:37:35,0
+memory;
+
+270
+00:37:35,0 --> 00:37:35,0
+and they are
+
+271
+00:37:35,0 --> 00:37:35,0
+written,
+
+272
+00:37:35,0 --> 00:37:35,0
+but not in
+
+273
+00:37:35,0 --> 00:37:35,
+these plates.
+
+274
+00:37:35,0 --> 00:37:35,0
+19 And it
+
+275
+00:37:35,0 --> 00:37:35,0
+came to
+
+276
+00:37:35,0 --> 00:37:35,0
+pass that
+
+277
+00:37:35,0 --> 00:37:35,0
+the people
+
+278
+00:37:35,0 --> 00:37:35,0
+of
+
+279
+00:37:35,0 --> 00:37:35,0
+Zarahemla, and of
+
+280
+00:37:35,0 --> 00:37:35,0
+Mosiah,
+
+281
+00:37:35,0 --> 00:37:35,0
+did unite
+
+282
+00:37:35,0 --> 00:37:35,0
+together;
+
+283
+00:37:35,0 --> 00:37:35,0
+and Mosiah
+
+284
+00:37:35,0 --> 00:37:35,0
+was
+
+285
+00:37:35,0 --> 00:37:35,
+appointed to be their king.
+
+286
+00:37:35,0 --> 00:37:35,0
+20 And it
+
+287
+00:37:35,0 --> 00:37:35,0
+came to
+
+288
+00:37:35,0 --> 00:37:35,0
+pass in
+
+289
+00:37:35,0 --> 00:37:35,0
+the days
+
+290
+00:37:35,0 --> 00:37:35,0
+of Mosiah,
+
+291
+00:37:35,0 --> 00:37:35,0
+there
+
+292
+00:37:35,0 --> 00:37:35,0
+was a large
+
+293
+00:37:35,0 --> 00:37:35,0
+stone
+
+294
+00:37:35,0 --> 00:37:35,0
+brought
+
+295
+00:37:35,0 --> 00:37:35,0
+unto him
+
+296
+00:37:35,0 --> 00:37:35,0
+with
+
+297
+00:37:35,0 --> 00:37:35,0
+engravings on
+
+298
+00:37:35,0 --> 00:37:35,0
+it; and he
+
+299
+00:37:35,0 --> 00:37:35,0
+did
+
+300
+00:37:35,0 --> 00:37:35,0
+interpret the
+
+301
+00:37:35,0 --> 00:37:35,0
+
+
+302
+00:37:35,0 --> 00:37:35,0
+engravings by the
+
+303
+00:37:35,0 --> 00:37:35,
+gift and power of God.
+
+304
+00:37:35,0 --> 00:37:35,0
+21 And
+
+305
+00:37:35,0 --> 00:37:35,0
+they gave
+
+306
+00:37:35,0 --> 00:37:35,0
+an
+
+307
+00:37:35,0 --> 00:37:35,0
+account of
+
+308
+00:37:35,0 --> 00:37:35,0
+one
+
+309
+00:37:35,0 --> 00:37:35,0
+Coriantumr,
+
+310
+00:37:35,0 --> 00:37:35,0
+and the
+
+311
+00:37:35,0 --> 00:37:35,0
+slain of
+
+312
+00:37:35,0 --> 00:37:35,0
+his
+
+313
+00:37:35,0 --> 00:37:35,0
+people. And
+
+314
+00:37:35,0 --> 00:37:35,0
+
+
+315
+00:37:35,0 --> 00:37:35,0
+Coriantumr was
+
+316
+00:37:35,0 --> 00:37:35,0
+
+
+317
+00:37:35,0 --> 00:37:35,0
+discovered by the
+
+318
+00:37:35,0 --> 00:37:35,0
+people
+
+319
+00:37:35,0 --> 00:37:35,0
+of
+
+320
+00:37:35,0 --> 00:37:35,0
+Zarahemla;
+
+321
+00:37:35,0 --> 00:37:35,0
+and he
+
+322
+00:37:35,0 --> 00:37:35,0
+dwelt with
+
+323
+00:37:35,0 --> 00:37:35,0
+them for
+
+324
+00:37:35,0 --> 00:37:35,
+the space of nine moons.
+
+325
+00:37:35,0 --> 00:37:35,0
+22 It
+
+326
+00:37:35,0 --> 00:37:35,0
+also
+
+327
+00:37:35,0 --> 00:37:35,0
+spake a
+
+328
+00:37:35,0 --> 00:37:35,0
+few words
+
+329
+00:37:35,0 --> 00:37:35,0
+
+
+330
+00:37:35,0 --> 00:37:35,0
+concerning
+
+331
+00:37:35,0 --> 00:37:35,0
+his
+
+332
+00:37:35,0 --> 00:37:35,0
+fathers. And
+
+333
+00:37:35,0 --> 00:37:35,0
+his
+
+334
+00:37:35,0 --> 00:37:35,0
+first
+
+335
+00:37:35,0 --> 00:37:35,0
+parents
+
+336
+00:37:35,0 --> 00:37:35,0
+came out
+
+337
+00:37:35,0 --> 00:37:35,0
+from
+
+338
+00:37:35,0 --> 00:37:35,0
+the
+
+339
+00:37:35,0 --> 00:37:35,0
+tower, at
+
+340
+00:37:35,0 --> 00:37:35,0
+the time
+
+341
+00:37:35,0 --> 00:37:35,0
+the
+
+342
+00:37:35,0 --> 00:37:35,0
+Lord
+
+343
+00:37:35,0 --> 00:37:35,0
+confounded
+
+344
+00:37:35,0 --> 00:37:35,0
+the
+
+345
+00:37:35,0 --> 00:37:35,0
+language of
+
+346
+00:37:35,0 --> 00:37:35,0
+the
+
+347
+00:37:35,0 --> 00:37:35,0
+people;
+
+348
+00:37:35,0 --> 00:37:35,0
+and the
+
+349
+00:37:35,0 --> 00:37:35,0
+
+
+350
+00:37:35,0 --> 00:37:35,0
+severity of
+
+351
+00:37:35,0 --> 00:37:35,0
+the Lord
+
+352
+00:37:35,0 --> 00:37:35,0
+fell
+
+353
+00:37:35,0 --> 00:37:35,0
+upon them
+
+354
+00:37:35,0 --> 00:37:35,0
+
+
+355
+00:37:35,0 --> 00:37:35,0
+according to
+
+356
+00:37:35,0 --> 00:37:35,0
+his
+
+357
+00:37:35,0 --> 00:37:35,0
+judgments,
+
+358
+00:37:35,0 --> 00:37:35,0
+which
+
+359
+00:37:35,0 --> 00:37:35,0
+are
+
+360
+00:37:35,0 --> 00:37:35,0
+just; and
+
+361
+00:37:35,0 --> 00:37:35,0
+their
+
+362
+00:37:35,0 --> 00:37:35,
+bones lay scattered in the land northward.
+
+363
+00:37:35,0 --> 00:37:35,0
+23
+
+364
+00:37:35,0 --> 00:37:35,0
+Behold,
+
+365
+00:37:35,0 --> 00:37:35,0
+I,
+
+366
+00:37:35,0 --> 00:37:35,0
+Amaleki,
+
+367
+00:37:35,0 --> 00:37:35,0
+was
+
+368
+00:37:35,0 --> 00:37:35,0
+born in
+
+369
+00:37:35,0 --> 00:37:35,0
+the
+
+370
+00:37:35,0 --> 00:37:35,0
+days of
+
+371
+00:37:35,0 --> 00:37:35,0
+Mosiah;
+
+372
+00:37:35,0 --> 00:37:35,0
+and I
+
+373
+00:37:35,0 --> 00:37:35,0
+have
+
+374
+00:37:35,0 --> 00:37:35,0
+lived
+
+375
+00:37:35,0 --> 00:37:35,0
+to see
+
+376
+00:37:35,0 --> 00:37:35,0
+his
+
+377
+00:37:35,0 --> 00:37:35,0
+death;
+
+378
+00:37:35,0 --> 00:37:35,0
+and
+
+379
+00:37:35,0 --> 00:37:35,0
+
+
+380
+00:37:35,0 --> 00:37:35,0
+Benjamin, his
+
+381
+00:37:35,0 --> 00:37:35,0
+son,
+
+382
+00:37:35,0 --> 00:37:35,
+reigneth in his stead.
+
+383
+00:37:35,0 --> 00:37:35,0
+24 And
+
+384
+00:37:35,0 --> 00:37:35,0
+
+
+385
+00:37:35,0 --> 00:37:35,0
+behold, I
+
+386
+00:37:35,0 --> 00:37:35,0
+have
+
+387
+00:37:35,0 --> 00:37:35,0
+seen, in
+
+388
+00:37:35,0 --> 00:37:35,0
+the
+
+389
+00:37:35,0 --> 00:37:35,0
+days of
+
+390
+00:37:35,0 --> 00:37:35,0
+king
+
+391
+00:37:35,0 --> 00:37:35,0
+
+
+392
+00:37:35,0 --> 00:37:35,0
+Benjamin, a
+
+393
+00:37:35,0 --> 00:37:35,0
+
+
+394
+00:37:35,0 --> 00:37:35,0
+serious war
+
+395
+00:37:35,0 --> 00:37:35,0
+and
+
+396
+00:37:35,0 --> 00:37:35,0
+much
+
+397
+00:37:35,0 --> 00:37:35,0
+bloodshed
+
+398
+00:37:35,0 --> 00:37:35,0
+
+
+399
+00:37:35,0 --> 00:37:35,0
+between the
+
+400
+00:37:35,0 --> 00:37:35,0
+
+
+401
+00:37:35,0 --> 00:37:35,0
+Nephites
+
+402
+00:37:35,0 --> 00:37:35,0
+and the
+
+403
+00:37:35,0 --> 00:37:35,0
+
+
+404
+00:37:35,0 --> 00:37:35,0
+Lamanites.
+
+405
+00:37:35,0 --> 00:37:35,0
+But
+
+406
+00:37:35,0 --> 00:37:35,0
+behold,
+
+407
+00:37:35,0 --> 00:37:35,0
+the
+
+408
+00:37:35,0 --> 00:37:35,0
+Nephites
+
+409
+00:37:35,0 --> 00:37:35,0
+did
+
+410
+00:37:35,0 --> 00:37:35,0
+obtain
+
+411
+00:37:35,0 --> 00:37:35,0
+much
+
+412
+00:37:35,0 --> 00:37:35,0
+
+
+413
+00:37:35,0 --> 00:37:35,0
+advantage over
+
+414
+00:37:35,0 --> 00:37:35,0
+them;
+
+415
+00:37:35,0 --> 00:37:35,0
+yea,
+
+416
+00:37:35,0 --> 00:37:35,0
+
+
+417
+00:37:35,0 --> 00:37:35,0
+insomuch
+
+418
+00:37:35,0 --> 00:37:35,0
+that king
+
+419
+00:37:35,0 --> 00:37:35,0
+
+
+420
+00:37:35,0 --> 00:37:35,0
+Benjamin
+
+421
+00:37:35,0 --> 00:37:35,0
+did
+
+422
+00:37:35,0 --> 00:37:35,0
+drive them
+
+423
+00:37:35,0 --> 00:37:35,0
+out
+
+424
+00:37:35,0 --> 00:37:35,0
+of the
+
+425
+00:37:35,0 --> 00:37:35,0
+land
+
+426
+00:37:35,0 --> 00:37:35,0
+of
+
+427
+00:37:35,0 --> 00:37:35,
+Zarahemla.
+
+428
+00:37:35,0 --> 00:37:35,0
+25
+
+429
+00:37:35,0 --> 00:37:35,0
+And it
+
+430
+00:37:35,0 --> 00:37:35,0
+came
+
+431
+00:37:35,0 --> 00:37:35,0
+to
+
+432
+00:37:35,0 --> 00:37:35,0
+pass
+
+433
+00:37:35,0 --> 00:37:35,0
+that I
+
+434
+00:37:35,0 --> 00:37:35,0
+began
+
+435
+00:37:35,0 --> 00:37:35,0
+to
+
+436
+00:37:35,0 --> 00:37:35,0
+be
+
+437
+00:37:35,0 --> 00:37:35,0
+old;
+
+438
+00:37:35,0 --> 00:37:35,0
+and,
+
+439
+00:37:35,0 --> 00:37:35,0
+having
+
+440
+00:37:35,0 --> 00:37:35,0
+no
+
+441
+00:37:35,0 --> 00:37:35,0
+seed,
+
+442
+00:37:35,0 --> 00:37:35,0
+and
+
+443
+00:37:35,0 --> 00:37:35,0
+knowing
+
+444
+00:37:35,0 --> 00:37:35,0
+king
+
+445
+00:37:35,0 --> 00:37:35,0
+
+
+446
+00:37:35,0 --> 00:37:35,0
+Benjamin
+
+447
+00:37:35,0 --> 00:37:35,0
+to be
+
+448
+00:37:35,0 --> 00:37:35,0
+a
+
+449
+00:37:35,0 --> 00:37:35,0
+just man
+
+450
+00:37:35,0 --> 00:37:35,0
+
+
+451
+00:37:35,0 --> 00:37:35,0
+before
+
+452
+00:37:35,0 --> 00:37:35,0
+the
+
+453
+00:37:35,0 --> 00:37:35,0
+Lord,
+
+454
+00:37:35,0 --> 00:37:35,0
+
+
+455
+00:37:35,0 --> 00:37:35,0
+wherefore, I
+
+456
+00:37:35,0 --> 00:37:35,0
+
+
+457
+00:37:35,0 --> 00:37:35,0
+shall
+
+458
+00:37:35,0 --> 00:37:35,0
+deliver
+
+459
+00:37:35,0 --> 00:37:35,0
+up
+
+460
+00:37:35,0 --> 00:37:35,0
+these
+
+461
+00:37:35,0 --> 00:37:35,0
+plates
+
+462
+00:37:35,0 --> 00:37:35,0
+unto
+
+463
+00:37:35,0 --> 00:37:35,0
+him,
+
+464
+00:37:35,0 --> 00:37:35,0
+
+
+465
+00:37:35,0 --> 00:37:35,0
+exhorting
+
+466
+00:37:35,0 --> 00:37:35,0
+all
+
+467
+00:37:35,0 --> 00:37:35,0
+men
+
+468
+00:37:35,0 --> 00:37:35,0
+to
+
+469
+00:37:35,0 --> 00:37:35,0
+come
+
+470
+00:37:35,0 --> 00:37:35,0
+unto
+
+471
+00:37:35,0 --> 00:37:35,0
+God, the
+
+472
+00:37:35,0 --> 00:37:35,0
+Holy
+
+473
+00:37:35,0 --> 00:37:35,0
+One
+
+474
+00:37:35,0 --> 00:37:35,0
+of
+
+475
+00:37:35,0 --> 00:37:35,0
+Israel,
+
+476
+00:37:35,0 --> 00:37:35,0
+and
+
+477
+00:37:35,0 --> 00:37:35,0
+
+
+478
+00:37:35,0 --> 00:37:35,0
+believe in
+
+479
+00:37:35,0 --> 00:37:35,0
+
+
+480
+00:37:35,0 --> 00:37:35,0
+
+
+481
+00:37:35,0 --> 00:37:35,0
+prophesying,
+
+482
+00:37:35,0 --> 00:37:35,0
+and in
+
+483
+00:37:35,0 --> 00:37:35,0
+
+
+484
+00:37:35,0 --> 00:37:35,0
+
+
+485
+00:37:35,0 --> 00:37:35,0
+revelations,
+
+486
+00:37:35,0 --> 00:37:35,0
+and in
+
+487
+00:37:35,0 --> 00:37:35,0
+the
+
+488
+00:37:35,0 --> 00:37:35,0
+
+
+489
+00:37:35,0 --> 00:37:35,0
+
+
+490
+00:37:35,0 --> 00:37:35,0
+ministering of
+
+491
+00:37:35,0 --> 00:37:35,0
+
+
+492
+00:37:35,0 --> 00:37:35,0
+angels,
+
+493
+00:37:35,0 --> 00:37:35,0
+and in
+
+494
+00:37:35,0 --> 00:37:35,0
+the
+
+495
+00:37:35,0 --> 00:37:35,0
+gift
+
+496
+00:37:35,0 --> 00:37:35,0
+of
+
+497
+00:37:35,0 --> 00:37:35,0
+speaking
+
+498
+00:37:35,0 --> 00:37:35,0
+with
+
+499
+00:37:35,0 --> 00:37:35,0
+
+
+500
+00:37:35,0 --> 00:37:35,0
+tongues,
+
+501
+00:37:35,0 --> 00:37:35,0
+and
+
+502
+00:37:35,0 --> 00:37:35,0
+in the
+
+503
+00:37:35,0 --> 00:37:35,0
+gift
+
+504
+00:37:35,0 --> 00:37:35,0
+of
+
+505
+00:37:35,0 --> 00:37:35,0
+
+
+506
+00:37:35,0 --> 00:37:35,0
+
+
+507
+00:37:35,0 --> 00:37:35,0
+interpreting
+
+508
+00:37:35,0 --> 00:37:35,0
+
+
+509
+00:37:35,0 --> 00:37:35,0
+languages,
+
+510
+00:37:35,0 --> 00:37:35,0
+and in
+
+511
+00:37:35,0 --> 00:37:35,0
+all
+
+512
+00:37:35,0 --> 00:37:35,0
+things
+
+513
+00:37:35,0 --> 00:37:35,0
+
+
+514
+00:37:35,0 --> 00:37:35,0
+which are
+
+515
+00:37:35,0 --> 00:37:35,0
+
+
+516
+00:37:35,0 --> 00:37:35,0
+good; for
+
+517
+00:37:35,0 --> 00:37:35,0
+
+
+518
+00:37:35,0 --> 00:37:35,0
+there is
+
+519
+00:37:35,0 --> 00:37:35,
+nothing which is good save it comes from the Lord: and that which is evil cometh from the devil.
+
+520
+00:37:35,0 --> 00:37:35,0
+26
+
+521
+00:37:35,0 --> 00:37:35,0
+And
+
+522
+00:37:35,0 --> 00:37:35,0
+now, my
+
+523
+00:37:35,0 --> 00:37:35,0
+
+
+524
+00:37:35,0 --> 00:37:35,0
+beloved
+
+525
+00:37:35,0 --> 00:37:35,0
+
+
+526
+00:37:35,0 --> 00:37:35,0
+brethren, I
+
+527
+00:37:35,0 --> 00:37:35,0
+would
+
+528
+00:37:35,0 --> 00:37:35,0
+that
+
+529
+00:37:35,0 --> 00:37:35,0
+ye
+
+530
+00:37:35,0 --> 00:37:35,0
+should
+
+531
+00:37:35,0 --> 00:37:35,0
+come
+
+532
+00:37:35,0 --> 00:37:35,0
+unto
+
+533
+00:37:35,0 --> 00:37:35,0
+
+
+534
+00:37:35,0 --> 00:37:35,0
+Christ,
+
+535
+00:37:35,0 --> 00:37:35,0
+who is
+
+536
+00:37:35,0 --> 00:37:35,0
+the
+
+537
+00:37:35,0 --> 00:37:35,0
+Holy
+
+538
+00:37:35,0 --> 00:37:35,0
+One
+
+539
+00:37:35,0 --> 00:37:35,0
+of
+
+540
+00:37:35,0 --> 00:37:35,0
+Israel,
+
+541
+00:37:35,0 --> 00:37:35,0
+and
+
+542
+00:37:35,0 --> 00:37:35,0
+
+
+543
+00:37:35,0 --> 00:37:35,0
+partake of
+
+544
+00:37:35,0 --> 00:37:35,0
+his
+
+545
+00:37:35,0 --> 00:37:35,0
+
+
+546
+00:37:35,0 --> 00:37:35,0
+salvation,
+
+547
+00:37:35,0 --> 00:37:35,0
+and
+
+548
+00:37:35,0 --> 00:37:35,0
+the
+
+549
+00:37:35,0 --> 00:37:35,0
+power
+
+550
+00:37:35,0 --> 00:37:35,0
+of his
+
+551
+00:37:35,0 --> 00:37:35,0
+
+
+552
+00:37:35,0 --> 00:37:35,0
+
+
+553
+00:37:35,0 --> 00:37:35,0
+redemption.
+
+554
+00:37:35,0 --> 00:37:35,0
+Yea,
+
+555
+00:37:35,0 --> 00:37:35,0
+come
+
+556
+00:37:35,0 --> 00:37:35,0
+unto
+
+557
+00:37:35,0 --> 00:37:35,0
+him,
+
+558
+00:37:35,0 --> 00:37:35,0
+and
+
+559
+00:37:35,0 --> 00:37:35,0
+offer
+
+560
+00:37:35,0 --> 00:37:35,0
+your
+
+561
+00:37:35,0 --> 00:37:35,0
+whole
+
+562
+00:37:35,0 --> 00:37:35,0
+souls
+
+563
+00:37:35,0 --> 00:37:35,0
+as an
+
+564
+00:37:35,0 --> 00:37:35,0
+
+
+565
+00:37:35,0 --> 00:37:35,0
+offering
+
+566
+00:37:35,0 --> 00:37:35,0
+unto
+
+567
+00:37:35,0 --> 00:37:35,0
+him,
+
+568
+00:37:35,0 --> 00:37:35,0
+and
+
+569
+00:37:35,0 --> 00:37:35,0
+
+
+570
+00:37:35,0 --> 00:37:35,0
+continue in
+
+571
+00:37:35,0 --> 00:37:35,0
+
+
+572
+00:37:35,0 --> 00:37:35,0
+fasting
+
+573
+00:37:35,0 --> 00:37:35,0
+and
+
+574
+00:37:35,0 --> 00:37:35,0
+
+
+575
+00:37:35,0 --> 00:37:35,0
+praying, and
+
+576
+00:37:35,0 --> 00:37:35,0
+
+
+577
+00:37:35,0 --> 00:37:35,0
+endure to
+
+578
+00:37:35,0 --> 00:37:35,0
+the
+
+579
+00:37:35,0 --> 00:37:35,0
+end;
+
+580
+00:37:35,0 --> 00:37:35,0
+and
+
+581
+00:37:35,0 --> 00:37:35,0
+as the
+
+582
+00:37:35,0 --> 00:37:35,0
+Lord
+
+583
+00:37:35,0 --> 00:37:35,0
+
+
+584
+00:37:35,0 --> 00:37:35,0
+liveth ye
+
+585
+00:37:35,0 --> 00:37:35,0
+will
+
+586
+00:37:35,0 --> 00:37:35,0
+be
+
+587
+00:37:35,0 --> 00:37:35,
+saved.
+
+588
+00:37:35,0 --> 00:37:35,0
+27
+
+589
+00:37:35,0 --> 00:37:35,0
+And
+
+590
+00:37:35,0 --> 00:37:35,0
+now I
+
+591
+00:37:35,0 --> 00:37:35,0
+
+
+592
+00:37:35,0 --> 00:37:35,0
+would
+
+593
+00:37:35,0 --> 00:37:35,0
+speak
+
+594
+00:37:35,0 --> 00:37:35,0
+
+
+595
+00:37:35,0 --> 00:37:35,0
+
+
+596
+00:37:35,0 --> 00:37:35,0
+somewhat
+
+597
+00:37:35,0 --> 00:37:35,0
+
+
+598
+00:37:35,0 --> 00:37:35,0
+concerning
+
+599
+00:37:35,0 --> 00:37:35,0
+a
+
+600
+00:37:35,0 --> 00:37:35,0
+
+
+601
+00:37:35,0 --> 00:37:35,0
+certain
+
+602
+00:37:35,0 --> 00:37:35,0
+
+
+603
+00:37:35,0 --> 00:37:35,0
+number
+
+604
+00:37:35,0 --> 00:37:35,0
+who
+
+605
+00:37:35,0 --> 00:37:35,0
+went
+
+606
+00:37:35,0 --> 00:37:35,0
+up
+
+607
+00:37:35,0 --> 00:37:35,0
+into
+
+608
+00:37:35,0 --> 00:37:35,0
+the
+
+609
+00:37:35,0 --> 00:37:35,0
+
+
+610
+00:37:35,0 --> 00:37:35,0
+
+
+611
+00:37:35,0 --> 00:37:35,0
+wilderness to
+
+612
+00:37:35,0 --> 00:37:35,0
+
+
+613
+00:37:35,0 --> 00:37:35,0
+return
+
+614
+00:37:35,0 --> 00:37:35,0
+to
+
+615
+00:37:35,0 --> 00:37:35,0
+the
+
+616
+00:37:35,0 --> 00:37:35,0
+land
+
+617
+00:37:35,0 --> 00:37:35,0
+of
+
+618
+00:37:35,0 --> 00:37:35,0
+
+
+619
+00:37:35,0 --> 00:37:35,0
+Nephi;
+
+620
+00:37:35,0 --> 00:37:35,0
+for
+
+621
+00:37:35,0 --> 00:37:35,0
+there
+
+622
+00:37:35,0 --> 00:37:35,0
+was
+
+623
+00:37:35,0 --> 00:37:35,0
+a
+
+624
+00:37:35,0 --> 00:37:35,0
+large
+
+625
+00:37:35,0 --> 00:37:35,0
+
+
+626
+00:37:35,0 --> 00:37:35,0
+number
+
+627
+00:37:35,0 --> 00:37:35,0
+who
+
+628
+00:37:35,0 --> 00:37:35,0
+were
+
+629
+00:37:35,0 --> 00:37:35,0
+
+
+630
+00:37:35,0 --> 00:37:35,
+desirous to possess the land of their inheritance.
+
+631
+00:37:35,0 --> 00:37:35,0
+28
+
+632
+00:37:35,0 --> 00:37:35,0
+
+
+633
+00:37:35,0 --> 00:37:35,0
+
+
+634
+00:37:35,0 --> 00:37:35,0
+
+
+635
+00:37:35,0 --> 00:37:35,0
+Wherefore,
+
+636
+00:37:35,0 --> 00:37:35,0
+they
+
+637
+00:37:35,0 --> 00:37:35,0
+
+
+638
+00:37:35,0 --> 00:37:35,0
+went
+
+639
+00:37:35,0 --> 00:37:35,0
+up
+
+640
+00:37:35,0 --> 00:37:35,0
+
+
+641
+00:37:35,0 --> 00:37:35,0
+into
+
+642
+00:37:35,0 --> 00:37:35,0
+the
+
+643
+00:37:35,0 --> 00:37:35,0
+
+
+644
+00:37:35,0 --> 00:37:35,0
+
+
+645
+00:37:35,0 --> 00:37:35,0
+
+
+646
+00:37:35,0 --> 00:37:35,0
+wilderness.
+
+647
+00:37:35,0 --> 00:37:35,0
+And
+
+648
+00:37:35,0 --> 00:37:35,0
+
+
+649
+00:37:35,0 --> 00:37:35,0
+their
+
+650
+00:37:35,0 --> 00:37:35,0
+
+
+651
+00:37:35,0 --> 00:37:35,0
+
+
+652
+00:37:35,0 --> 00:37:35,0
+leader
+
+653
+00:37:35,0 --> 00:37:35,0
+
+
+654
+00:37:35,0 --> 00:37:35,0
+being a
+
+655
+00:37:35,0 --> 00:37:35,0
+
+
+656
+00:37:35,0 --> 00:37:35,0
+
+
+657
+00:37:35,0 --> 00:37:35,0
+strong
+
+658
+00:37:35,0 --> 00:37:35,0
+and
+
+659
+00:37:35,0 --> 00:37:35,0
+
+
+660
+00:37:35,0 --> 00:37:35,0
+mighty
+
+661
+00:37:35,0 --> 00:37:35,0
+
+
+662
+00:37:35,0 --> 00:37:35,0
+man,
+
+663
+00:37:35,0 --> 00:37:35,0
+and
+
+664
+00:37:35,0 --> 00:37:35,0
+a
+
+665
+00:37:35,0 --> 00:37:35,0
+
+
+666
+00:37:35,0 --> 00:37:35,0
+
+
+667
+00:37:35,0 --> 00:37:35,0
+
+
+668
+00:37:35,0 --> 00:37:35,0
+stiffnecked
+
+669
+00:37:35,0 --> 00:37:35,0
+
+
+670
+00:37:35,0 --> 00:37:35,0
+man,
+
+671
+00:37:35,0 --> 00:37:35,0
+
+
+672
+00:37:35,0 --> 00:37:35,0
+
+
+673
+00:37:35,0 --> 00:37:35,0
+wherefore
+
+674
+00:37:35,0 --> 00:37:35,0
+he
+
+675
+00:37:35,0 --> 00:37:35,0
+
+
+676
+00:37:35,0 --> 00:37:35,0
+caused
+
+677
+00:37:35,0 --> 00:37:35,0
+a
+
+678
+00:37:35,0 --> 00:37:35,0
+
+
+679
+00:37:35,0 --> 00:37:35,0
+
+
+680
+00:37:35,0 --> 00:37:35,0
+
+
+681
+00:37:35,0 --> 00:37:35,0
+contention
+
+682
+00:37:35,0 --> 00:37:35,0
+
+
+683
+00:37:35,0 --> 00:37:35,0
+among
+
+684
+00:37:35,0 --> 00:37:35,0
+
+
+685
+00:37:35,0 --> 00:37:35,0
+them;
+
+686
+00:37:35,0 --> 00:37:35,0
+and
+
+687
+00:37:35,0 --> 00:37:35,0
+
+
+688
+00:37:35,0 --> 00:37:35,0
+they
+
+689
+00:37:35,0 --> 00:37:35,0
+were
+
+690
+00:37:35,0 --> 00:37:35,0
+
+
+691
+00:37:35,0 --> 00:37:35,0
+all
+
+692
+00:37:35,0 --> 00:37:35,0
+
+
+693
+00:37:35,0 --> 00:37:35,0
+slain,
+
+694
+00:37:35,0 --> 00:37:35,0
+
+
+695
+00:37:35,0 --> 00:37:35,0
+save
+
+696
+00:37:35,0 --> 00:37:35,0
+
+
+697
+00:37:35,0 --> 00:37:35,0
+fifty,
+
+698
+00:37:35,0 --> 00:37:35,
+in the wilderness, and they returned again to the land of Zarahemla.
+
+699
+00:37:35,0 --> 00:37:35,0
+29
+
+700
+00:37:35,0 --> 00:37:35,0
+
+
+701
+00:37:35,0 --> 00:37:35,0
+And
+
+702
+00:37:35,0 --> 00:37:35,0
+
+
+703
+00:37:35,0 --> 00:37:35,0
+it
+
+704
+00:37:35,0 --> 00:37:35,0
+
+
+705
+00:37:35,0 --> 00:37:35,0
+came
+
+706
+00:37:35,0 --> 00:37:35,0
+
+
+707
+00:37:35,0 --> 00:37:35,0
+to
+
+708
+00:37:35,0 --> 00:37:35,0
+
+
+709
+00:37:35,0 --> 00:37:35,0
+pass
+
+710
+00:37:35,0 --> 00:37:35,0
+
+
+711
+00:37:35,0 --> 00:37:35,0
+
+
+712
+00:37:35,0 --> 00:37:35,0
+that
+
+713
+00:37:35,0 --> 00:37:35,0
+
+
+714
+00:37:35,0 --> 00:37:35,0
+they
+
+715
+00:37:35,0 --> 00:37:35,0
+
+
+716
+00:37:35,0 --> 00:37:35,0
+
+
+717
+00:37:35,0 --> 00:37:35,0
+also
+
+718
+00:37:35,0 --> 00:37:35,0
+
+
+719
+00:37:35,0 --> 00:37:35,0
+took
+
+720
+00:37:35,0 --> 00:37:35,0
+
+
+721
+00:37:35,0 --> 00:37:35,0
+
+
+722
+00:37:35,0 --> 00:37:35,0
+
+
+723
+00:37:35,0 --> 00:37:35,0
+others
+
+724
+00:37:35,0 --> 00:37:35,0
+to
+
+725
+00:37:35,0 --> 00:37:35,0
+a
+
+726
+00:37:35,0 --> 00:37:35,0
+
+
+727
+00:37:35,0 --> 00:37:35,0
+
+
+728
+00:37:35,0 --> 00:37:35,0
+
+
+729
+00:37:35,0 --> 00:37:35,0
+
+
+730
+00:37:35,0 --> 00:37:35,0
+
+
+731
+00:37:35,0 --> 00:37:35,0
+
+
+732
+00:37:35,0 --> 00:37:35,0
+considerable
+
+733
+00:37:35,0 --> 00:37:35,0
+
+
+734
+00:37:35,0 --> 00:37:35,0
+
+
+735
+00:37:35,0 --> 00:37:35,0
+
+
+736
+00:37:35,0 --> 00:37:35,0
+number,
+
+737
+00:37:35,0 --> 00:37:35,0
+
+
+738
+00:37:35,0 --> 00:37:35,0
+and
+
+739
+00:37:35,0 --> 00:37:35,0
+
+
+740
+00:37:35,0 --> 00:37:35,
+took their journey again into the wilderness.
+
+741
+00:37:35,0 --> 00:37:35,0
+30
+
+742
+00:37:35,0 --> 00:37:35,0
+
+
+743
+00:37:35,0 --> 00:37:35,0
+And
+
+744
+00:37:35,0 --> 00:37:35,0
+
+
+745
+00:37:35,0 --> 00:37:35,0
+I,
+
+746
+00:37:35,0 --> 00:37:35,0
+
+
+747
+00:37:35,0 --> 00:37:35,0
+
+
+748
+00:37:35,0 --> 00:37:35,0
+
+
+749
+00:37:35,0 --> 00:37:35,0
+Amaleki,
+
+750
+00:37:35,0 --> 00:37:35,0
+
+
+751
+00:37:35,0 --> 00:37:35,0
+had
+
+752
+00:37:35,0 --> 00:37:35,0
+a
+
+753
+00:37:35,0 --> 00:37:35,0
+
+
+754
+00:37:35,0 --> 00:37:35,0
+
+
+755
+00:37:35,0 --> 00:37:35,0
+
+
+756
+00:37:35,0 --> 00:37:35,0
+
+
+757
+00:37:35,0 --> 00:37:35,0
+brother,
+
+758
+00:37:35,0 --> 00:37:35,0
+
+
+759
+00:37:35,0 --> 00:37:35,0
+who
+
+760
+00:37:35,0 --> 00:37:35,0
+
+
+761
+00:37:35,0 --> 00:37:35,0
+also
+
+762
+00:37:35,0 --> 00:37:35,0
+
+
+763
+00:37:35,0 --> 00:37:35,0
+
+
+764
+00:37:35,0 --> 00:37:35,0
+went
+
+765
+00:37:35,0 --> 00:37:35,0
+
+
+766
+00:37:35,0 --> 00:37:35,0
+with
+
+767
+00:37:35,0 --> 00:37:35,0
+
+
+768
+00:37:35,0 --> 00:37:35,0
+
+
+769
+00:37:35,0 --> 00:37:35,0
+them;
+
+770
+00:37:35,0 --> 00:37:35,0
+
+
+771
+00:37:35,0 --> 00:37:35,0
+and
+
+772
+00:37:35,0 --> 00:37:35,0
+I
+
+773
+00:37:35,0 --> 00:37:35,0
+
+
+774
+00:37:35,0 --> 00:37:35,0
+
+
+775
+00:37:35,0 --> 00:37:35,0
+have
+
+776
+00:37:35,0 --> 00:37:35,0
+
+
+777
+00:37:35,0 --> 00:37:35,0
+not
+
+778
+00:37:35,0 --> 00:37:35,0
+
+
+779
+00:37:35,0 --> 00:37:35,0
+
+
+780
+00:37:35,0 --> 00:37:35,0
+since
+
+781
+00:37:35,0 --> 00:37:35,0
+
+
+782
+00:37:35,0 --> 00:37:35,0
+
+
+783
+00:37:35,0 --> 00:37:35,0
+known
+
+784
+00:37:35,0 --> 00:37:35,0
+
+
+785
+00:37:35,0 --> 00:37:35,0
+
+
+786
+00:37:35,0 --> 00:37:35,0
+
+
+787
+00:37:35,0 --> 00:37:35,0
+
+
+788
+00:37:35,0 --> 00:37:35,0
+concerning
+
+789
+00:37:35,0 --> 00:37:35,0
+
+
+790
+00:37:35,0 --> 00:37:35,0
+
+
+791
+00:37:35,0 --> 00:37:35,0
+them.
+
+792
+00:37:35,0 --> 00:37:35,0
+
+
+793
+00:37:35,0 --> 00:37:35,0
+And
+
+794
+00:37:35,0 --> 00:37:35,0
+I
+
+795
+00:37:35,0 --> 00:37:35,0
+
+
+796
+00:37:35,0 --> 00:37:35,0
+am
+
+797
+00:37:35,0 --> 00:37:35,0
+
+
+798
+00:37:35,0 --> 00:37:35,0
+
+
+799
+00:37:35,0 --> 00:37:35,0
+about
+
+800
+00:37:35,0 --> 00:37:35,0
+to
+
+801
+00:37:35,0 --> 00:37:35,0
+
+
+802
+00:37:35,0 --> 00:37:35,0
+lie
+
+803
+00:37:35,0 --> 00:37:35,0
+
+
+804
+00:37:35,0 --> 00:37:35,0
+
+
+805
+00:37:35,0 --> 00:37:35,0
+down
+
+806
+00:37:35,0 --> 00:37:35,0
+in
+
+807
+00:37:35,0 --> 00:37:35,0
+
+
+808
+00:37:35,0 --> 00:37:35,0
+my
+
+809
+00:37:35,0 --> 00:37:35,0
+
+
+810
+00:37:35,0 --> 00:37:35,0
+
+
+811
+00:37:35,0 --> 00:37:35,0
+grave;
+
+812
+00:37:35,0 --> 00:37:35,0
+
+
+813
+00:37:35,0 --> 00:37:35,0
+and
+
+814
+00:37:35,0 --> 00:37:35,0
+
+
+815
+00:37:35,0 --> 00:37:35,0
+
+
+816
+00:37:35,0 --> 00:37:35,0
+these
+
+817
+00:37:35,0 --> 00:37:35,0
+
+
+818
+00:37:35,0 --> 00:37:35,0
+
+
+819
+00:37:35,0 --> 00:37:35,0
+
+
+820
+00:37:35,0 --> 00:37:35,0
+plates
+
+821
+00:37:35,0 --> 00:37:35,0
+
+
+822
+00:37:35,0 --> 00:37:35,0
+are
+
+823
+00:37:35,0 --> 00:37:35,0
+
+
+824
+00:37:35,0 --> 00:37:35,0
+
+
+825
+00:37:35,0 --> 00:37:35,0
+full.
+
+826
+00:37:35,0 --> 00:37:35,0
+
+
+827
+00:37:35,0 --> 00:37:35,0
+And
+
+828
+00:37:35,0 --> 00:37:35,0
+I
+
+829
+00:37:35,0 --> 00:37:35,0
+
+
+830
+00:37:35,0 --> 00:37:35,0
+make
+
+831
+00:37:35,0 --> 00:37:35,0
+
+
+832
+00:37:35,0 --> 00:37:35,0
+an
+
+833
+00:37:35,0 --> 00:37:35,0
+
+
+834
+00:37:35,0 --> 00:37:35,0
+end
+
+835
+00:37:35,0 --> 00:37:35,0
+of
+
+836
+00:37:35,0 --> 00:37:35,0
+
+
+837
+00:37:35,0 --> 00:37:35,0
+my
+
+838
+00:37:35,0 --> 00:37:35,0
+
+
+839
+00:37:35,0 --> 00:37:35,0
+
+
+840
+00:37:35,0 --> 00:37:35,0
+
+
+841
+00:37:35,0 --> 00:37:35,0
+
+
+842
+00:37:35,0 --> 00:37:35,
+speaking. 
 

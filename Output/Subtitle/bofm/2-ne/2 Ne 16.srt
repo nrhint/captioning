@@ -1,169 +1,469 @@
 1
-00:00:00,0 --> 00:00:01,4
-Chapter 16 Isaiah sees the Lord—Isaiah’s sins are
+00:00:00,0 --> 00:00:00,0
+Chapter 16 Isaiah sees the Lord—Isaiah’s
 
 2
-00:00:01,4 --> 00:00:02,8
- forgiven—He is called to prophesy—He prophesies of
+00:00:00,0 --> 00:00:00,0
+sins are forgiven—He is called to
 
 3
-00:00:02,8 --> 00:00:04,2
- the rejection by the Jews of Christ’s teachings—A
+00:00:00,0 --> 00:00:00,0
+prophesy—He prophesies of the rejection by the
 
 4
-00:00:04,2 --> 00:00:05,6
- remnant will return—Compare 
-Isaiah 6. About
+00:00:00,0 --> 00:00:00,0
+Jews of Christ’s teachings—A remnant will
 
 5
-00:00:05,6 --> 00:00:07,0
- 559–545 B.C.
+00:00:00,0 --> 00:04:43,
+return—Compare 
+Isaiah 6. About 559–545 B.C. 
 
 6
-00:00:07,975 --> 00:00:10,642
-1 In the year that king Uzziah died, I saw also
+00:04:43,0 --> 00:04:43,0
+1 In the year that king Uzziah
 
 7
-00:00:10,642 --> 00:00:13,309
- the Lord sitting upon a throne, high and lifted up,
+00:04:43,0 --> 00:04:43,0
+died, I saw also the Lord sitting
 
 8
-00:00:13,309 --> 00:00:15,976
- and his train filled the temple
+00:04:43,0 --> 00:04:43,0
+upon a throne, high and lifted up,
 
 9
-00:00:15,949 --> 00:00:18,616
-2 Above it stood the seraphim; each one had six
+00:04:43,0 --> 00:06:13,
+and his train filled the temple.
 
 10
-00:00:18,616 --> 00:00:21,283
- wings; with twain he covered his face, and with
+00:06:13,0 --> 00:06:13,0
+2 Above it stood the
 
 11
-00:00:21,283 --> 00:00:23,95
- twain he covered his feet, and with twain he did fly
+00:06:13,0 --> 00:06:13,0
+seraphim; each one had six wings;
 
 12
-00:00:23,924 --> 00:00:26,591
-3 And one cried unto another, and said: Holy,
+00:06:13,0 --> 00:06:13,0
+with twain he covered his face,
 
 13
-00:00:26,591 --> 00:00:29,258
- holy, holy, is the Lord of Hosts; the whole earth is
+00:06:13,0 --> 00:06:13,0
+and with twain he covered his
 
 14
-00:00:29,258 --> 00:00:31,925
- full of his glory
+00:06:13,0 --> 00:13:42,
+feet, and with twain he did fly.
 
 15
-00:00:31,899 --> 00:00:34,566
-4 And the posts of the door moved at the voice of
+00:13:42,0 --> 00:13:42,0
+3 And one cried unto
 
 16
-00:00:34,566 --> 00:00:37,233
- him that cried, and the house was filled with
+00:13:42,0 --> 00:13:42,0
+another, and said: Holy,
 
 17
-00:00:37,233 --> 00:00:39,9
- smoke
+00:13:42,0 --> 00:13:42,0
+holy, holy, is the Lord
 
 18
-00:00:39,873 --> 00:00:41,873
-5 Then said I: Wo is unto me! for I am undone;
+00:13:42,0 --> 00:13:42,0
+of Hosts; the whole
 
 19
-00:00:41,873 --> 00:00:43,873
- because I am a man of unclean lips; and I dwell in
+00:13:42,0 --> 00:13:14,
+earth is full of his glory.
 
 20
-00:00:43,873 --> 00:00:45,873
- the midst of a people of unclean lips; for mine eyes
+00:13:14,0 --> 00:13:14,0
+4 And the posts of
 
 21
-00:00:45,873 --> 00:00:47,873
- have seen the King, the Lord of Hosts
+00:13:14,0 --> 00:13:14,0
+the door moved at the
 
 22
-00:00:47,848 --> 00:00:50,515
-6 Then flew one of the seraphim unto me, having a
+00:13:14,0 --> 00:13:14,0
+voice of him that
 
 23
-00:00:50,515 --> 00:00:53,182
- live coal in his hand, which he had taken with the
+00:13:14,0 --> 00:13:14,0
+cried, and the house
 
 24
-00:00:53,182 --> 00:00:55,849
- tongs from off the altar
+00:13:14,0 --> 00:23:39,
+was filled with smoke.
 
 25
-00:00:55,822 --> 00:02:10,489
-7 And he laid it upon my mouth, and said: Lo, this
+00:23:39,0 --> 00:23:39,0
+5 Then said I: Wo
 
 26
-00:02:10,489 --> 00:03:25,156
- has touched thy lips; and thine iniquity is taken
+00:23:39,0 --> 00:23:39,0
+is unto me! for I
 
 27
-00:03:25,156 --> 00:04:39,823
- away, and thy sin purged
+00:23:39,0 --> 00:23:39,0
+am undone; because
 
 28
-00:04:39,112 --> 00:04:54,779
-8 Also I heard the voice of the Lord, saying: Whom
+00:23:39,0 --> 00:23:39,0
+I am a man of
 
 29
-00:04:54,779 --> 00:05:10,446
- shall I send, and who will go for us? Then I
+00:23:39,0 --> 00:23:39,0
+unclean lips; and I
 
 30
-00:05:10,446 --> 00:05:26,113
- said: Here am I; send me
+00:23:39,0 --> 00:23:39,0
+dwell in the midst
 
 31
-00:00:07,975 --> 00:00:09,975
-11 Then said I: Lord, how long? And he said: Until
+00:23:39,0 --> 00:23:39,0
+of a people of
 
 32
-00:00:09,975 --> 00:00:11,975
- the cities be wasted without inhabitant, and the
+00:23:39,0 --> 00:23:39,0
+unclean lips; for
 
 33
-00:00:11,975 --> 00:00:13,975
- houses without man, and the land be utterly
+00:23:39,0 --> 00:23:39,0
+mine eyes have seen
 
 34
-00:00:13,975 --> 00:00:15,975
- desolate
+00:23:39,0 --> 00:23:39,
+the King, the Lord of Hosts.
 
 35
-00:00:15,949 --> 00:00:18,616
-12 And the Lord have removed men far away, for
+00:23:39,0 --> 00:23:39,0
+6 Then flew one of
 
 36
-00:00:18,616 --> 00:00:21,283
- there shall be a great forsaking in the midst of the
+00:23:39,0 --> 00:23:39,0
+the seraphim unto
 
 37
-00:00:21,283 --> 00:00:23,95
- land
+00:23:39,0 --> 00:23:39,0
+me, having a live
 
 38
-00:00:23,924 --> 00:00:25,524
-13 But yet there shall be a tenth, and they shall
+00:23:39,0 --> 00:23:39,0
+coal in his hand,
 
 39
-00:00:25,524 --> 00:00:27,124
- return, and shall be eaten, as a teil tree, and as
+00:23:39,0 --> 00:23:39,0
+which he had
 
 40
-00:00:27,124 --> 00:00:28,724
- an oak whose substance is in them when they cast
+00:23:39,0 --> 00:23:39,0
+taken with the tongs
 
 41
-00:00:28,724 --> 00:00:30,324
- their leaves; so the holy seed shall be the
+00:23:39,0 --> 00:23:39,
+from off the altar;
 
 42
-00:00:30,324 --> 00:00:31,924
- substance thereof.
+00:23:39,0 --> 00:23:39,0
+7 And he laid it
+
+43
+00:23:39,0 --> 00:23:39,0
+upon my mouth, and
+
+44
+00:23:39,0 --> 00:23:39,0
+said: Lo, this has
+
+45
+00:23:39,0 --> 00:23:39,0
+touched thy lips;
+
+46
+00:23:39,0 --> 00:23:39,0
+and thine
+
+47
+00:23:39,0 --> 00:23:39,0
+iniquity is taken away,
+
+48
+00:23:39,0 --> 00:23:39,
+and thy sin purged.
+
+49
+00:23:39,0 --> 00:23:39,0
+8 Also I heard
+
+50
+00:23:39,0 --> 00:23:39,0
+the voice of the
+
+51
+00:23:39,0 --> 00:23:39,0
+Lord, saying: Whom
+
+52
+00:23:39,0 --> 00:23:39,0
+shall I send, and
+
+53
+00:23:39,0 --> 00:23:39,0
+who will go for
+
+54
+00:23:39,0 --> 00:23:39,0
+us? Then I said:
+
+55
+00:23:39,0 --> 00:23:39,
+Here am I; send me.
+
+56
+00:23:39,0 --> 00:23:39,0
+9 And he said:
+
+57
+00:23:39,0 --> 00:23:39,0
+Go and tell
+
+58
+00:23:39,0 --> 00:23:39,0
+this people—Hear
+
+59
+00:23:39,0 --> 00:23:39,0
+ye indeed, but
+
+60
+00:23:39,0 --> 00:23:39,0
+they understood
+
+61
+00:23:39,0 --> 00:23:39,0
+not; and see ye
+
+62
+00:23:39,0 --> 00:23:39,0
+indeed, but
+
+63
+00:23:39,0 --> 00:23:39,
+they perceived not.
+
+64
+00:23:39,0 --> 00:23:39,0
+10 Make the
+
+65
+00:23:39,0 --> 00:23:39,0
+heart of this
+
+66
+00:23:39,0 --> 00:23:39,0
+people fat, and
+
+67
+00:23:39,0 --> 00:23:39,0
+make their
+
+68
+00:23:39,0 --> 00:23:39,0
+ears heavy, and
+
+69
+00:23:39,0 --> 00:23:39,0
+shut their
+
+70
+00:23:39,0 --> 00:23:39,0
+eyes—lest they see
+
+71
+00:23:39,0 --> 00:23:39,0
+with their
+
+72
+00:23:39,0 --> 00:23:39,0
+eyes, and hear
+
+73
+00:23:39,0 --> 00:23:39,0
+with their
+
+74
+00:23:39,0 --> 00:23:39,0
+ears, and
+
+75
+00:23:39,0 --> 00:23:39,0
+understand with their
+
+76
+00:23:39,0 --> 00:23:39,0
+heart, and be
+
+77
+00:23:39,0 --> 00:23:39,
+converted and be healed.
+
+78
+00:23:39,0 --> 00:23:39,0
+11 Then said
+
+79
+00:23:39,0 --> 00:23:39,0
+I: Lord, how
+
+80
+00:23:39,0 --> 00:23:39,0
+long? And he
+
+81
+00:23:39,0 --> 00:23:39,0
+said: Until
+
+82
+00:23:39,0 --> 00:23:39,0
+the cities be
+
+83
+00:23:39,0 --> 00:23:39,0
+wasted
+
+84
+00:23:39,0 --> 00:23:39,0
+without inhabitant,
+
+85
+00:23:39,0 --> 00:23:39,0
+and the
+
+86
+00:23:39,0 --> 00:23:39,0
+houses without
+
+87
+00:23:39,0 --> 00:23:39,0
+man, and the
+
+88
+00:23:39,0 --> 00:23:39,
+land be utterly desolate;
+
+89
+00:23:39,0 --> 00:23:39,0
+12 And the
+
+90
+00:23:39,0 --> 00:23:39,0
+Lord have
+
+91
+00:23:39,0 --> 00:23:39,0
+removed men
+
+92
+00:23:39,0 --> 00:23:39,0
+far away,
+
+93
+00:23:39,0 --> 00:23:39,0
+for there
+
+94
+00:23:39,0 --> 00:23:39,0
+shall be a
+
+95
+00:23:39,0 --> 00:23:39,0
+great
+
+96
+00:23:39,0 --> 00:23:39,0
+forsaking in the
+
+97
+00:23:39,0 --> 00:23:39,
+midst of the land.
+
+98
+00:23:39,0 --> 00:23:39,0
+13 But yet
+
+99
+00:23:39,0 --> 00:23:39,0
+there
+
+100
+00:23:39,0 --> 00:23:39,0
+shall be a
+
+101
+00:23:39,0 --> 00:23:39,0
+tenth, and
+
+102
+00:23:39,0 --> 00:23:39,0
+they shall
+
+103
+00:23:39,0 --> 00:23:39,0
+return,
+
+104
+00:23:39,0 --> 00:23:39,0
+and shall be
+
+105
+00:23:39,0 --> 00:23:39,0
+eaten, as
+
+106
+00:23:39,0 --> 00:23:39,0
+a teil
+
+107
+00:23:39,0 --> 00:23:39,0
+tree, and as
+
+108
+00:23:39,0 --> 00:23:39,0
+an oak
+
+109
+00:23:39,0 --> 00:23:39,0
+whose
+
+110
+00:23:39,0 --> 00:23:39,0
+substance is in
+
+111
+00:23:39,0 --> 00:23:39,0
+them when
+
+112
+00:23:39,0 --> 00:23:39,0
+they cast
+
+113
+00:23:39,0 --> 00:23:39,0
+their
+
+114
+00:23:39,0 --> 00:23:39,0
+leaves; so the
+
+115
+00:23:39,0 --> 00:23:39,0
+holy seed
+
+116
+00:23:39,0 --> 00:23:39,0
+shall be
+
+117
+00:23:39,0 --> 00:23:39,
+the substance thereof. 
 

@@ -1,272 +1,580 @@
 1
-00:00:00,0 --> 00:00:01,75
+00:00:00,0 --> 00:00:00,0
 Chapter 3 The pure in heart receive the pleasing
 
 2
-00:00:01,75 --> 00:00:03,5
- word of God—Lamanite righteousness exceeds that of
+00:00:00,0 --> 00:00:00,0
+word of God—Lamanite righteousness exceeds that
 
 3
-00:00:03,5 --> 00:00:05,25
- the Nephites—Jacob warns against fornication,
+00:00:00,0 --> 00:00:00,0
+of the Nephites—Jacob warns against fornication,
 
 4
-00:00:05,25 --> 00:00:07,0
- lasciviousness, and every sin. About 544–421 B.C.
+00:00:00,0 --> 00:08:27,
+lasciviousness, and every sin. About 544–421 B.C. 
 
 5
-00:00:07,975 --> 00:00:09,308
-1 But behold, I, Jacob, would speak unto you that
+00:08:27,0 --> 00:08:27,0
+1 But behold, I, Jacob, would speak unto you
 
 6
-00:00:09,308 --> 00:00:10,641
- are pure in heart. Look unto God with firmness of
+00:08:27,0 --> 00:08:27,0
+that are pure in heart. Look unto God with
 
 7
-00:00:10,641 --> 00:00:11,974
- mind, and pray unto him with exceeding faith, and
+00:08:27,0 --> 00:08:27,0
+firmness of mind, and pray unto him with exceeding
 
 8
-00:00:11,974 --> 00:00:13,307
- he will console you in your afflictions, and he
+00:08:27,0 --> 00:08:27,0
+faith, and he will console you in your
 
 9
-00:00:13,307 --> 00:00:14,64
- will plead your cause, and send down justice upon
+00:08:27,0 --> 00:08:27,0
+afflictions, and he will plead your cause, and send
 
 10
-00:00:14,64 --> 00:00:15,973
- those who seek your destruction
+00:08:27,0 --> 00:08:13,
+down justice upon those who seek your destruction.
 
 11
-00:00:15,949 --> 00:00:17,949
-2 O all ye that are pure in heart, lift up your
+00:08:13,0 --> 00:08:13,0
+2 O all ye that are pure in heart, lift
 
 12
-00:00:17,949 --> 00:00:19,949
- heads and receive the pleasing word of God, and
+00:08:13,0 --> 00:08:13,0
+up your heads and receive the pleasing
 
 13
-00:00:19,949 --> 00:00:21,949
- feast upon his love; for ye may, if your minds are
+00:08:13,0 --> 00:08:13,0
+word of God, and feast upon his love; for
 
 14
-00:00:21,949 --> 00:00:23,949
- firm, forever
+00:08:13,0 --> 00:09:57,
+ye may, if your minds are firm, forever.
 
 15
-00:00:23,924 --> 00:00:25,257
-3 But, wo, wo, unto you that are not pure in
+00:09:57,0 --> 00:09:57,0
+3 But, wo, wo, unto you that are not
 
 16
-00:00:25,257 --> 00:00:26,59
- heart, that are filthy this day before God; for except
+00:09:57,0 --> 00:09:57,0
+pure in heart, that are filthy this
 
 17
-00:00:26,59 --> 00:00:27,923
- ye repent the land is cursed for your sakes; and
+00:09:57,0 --> 00:09:57,0
+day before God; for except ye
 
 18
-00:00:27,923 --> 00:00:29,256
- the Lamanites, which are not filthy like unto you,
+00:09:57,0 --> 00:09:57,0
+repent the land is cursed for your sakes;
 
 19
-00:00:29,256 --> 00:00:30,589
- nevertheless they are cursed with a sore cursing,
+00:09:57,0 --> 00:09:57,0
+and the Lamanites, which are not
 
 20
-00:00:30,589 --> 00:00:31,922
- shall scourge you even unto destruction
+00:09:57,0 --> 00:09:57,0
+filthy like unto you, nevertheless
 
 21
-00:00:31,899 --> 00:00:33,899
-4 And the time speedily cometh, that except ye
+00:09:57,0 --> 00:09:57,0
+they are cursed with a sore cursing,
 
 22
-00:00:33,899 --> 00:00:35,899
- repent they shall possess the land of your
+00:09:57,0 --> 00:13:28,
+shall scourge you even unto destruction.
 
 23
-00:00:35,899 --> 00:00:37,899
- inheritance, and the Lord God will lead away the righteous
+00:13:28,0 --> 00:13:28,0
+4 And the time speedily cometh,
 
 24
-00:00:37,899 --> 00:00:39,899
- out from among you
+00:13:28,0 --> 00:13:28,0
+that except ye repent they shall
 
 25
-00:00:39,873 --> 00:01:31,748
-5 Behold, the Lamanites your brethren, whom ye
+00:13:28,0 --> 00:13:28,0
+possess the land of your
 
 26
-00:01:31,748 --> 00:02:23,623
- hate because of their filthiness and the cursing
+00:13:28,0 --> 00:13:28,0
+inheritance, and the Lord God will lead
 
 27
-00:02:23,623 --> 00:03:15,498
- which hath come upon their skins, are more righteous
+00:13:28,0 --> 00:15:56,
+away the righteous out from among you.
 
 28
-00:03:15,498 --> 00:04:07,373
- than you; for they have not forgotten the
+00:15:56,0 --> 00:15:56,0
+5 Behold, the Lamanites your
 
 29
-00:04:07,373 --> 00:04:59,248
- commandment of the Lord, which was given unto our
+00:15:56,0 --> 00:15:56,0
+brethren, whom ye hate because of
 
 30
-00:04:59,248 --> 00:05:51,123
- father—that they should have save it were one wife, and
+00:15:56,0 --> 00:15:56,0
+their filthiness and the cursing
 
 31
-00:05:51,123 --> 00:06:42,998
- concubines they should have none, and there should
+00:15:56,0 --> 00:15:56,0
+which hath come upon their
 
 32
-00:06:42,998 --> 00:07:34,873
- not be whoredoms committed among them
+00:15:56,0 --> 00:15:56,0
+skins, are more righteous than you;
 
 33
-00:07:34,554 --> 00:07:36,154
-6 And now, this commandment they observe to keep;
+00:15:56,0 --> 00:15:56,0
+for they have not forgotten the
 
 34
-00:07:36,154 --> 00:07:37,754
- wherefore, because of this observance, in keeping
+00:15:56,0 --> 00:15:56,0
+commandment of the Lord, which
 
 35
-00:07:37,754 --> 00:07:39,354
- this commandment, the Lord God will not destroy
+00:15:56,0 --> 00:15:56,0
+was given unto our father—that
 
 36
-00:07:39,354 --> 00:07:40,954
- them, but will be merciful unto them; and one day
+00:15:56,0 --> 00:15:56,0
+they should have save it were one
 
 37
-00:07:40,954 --> 00:07:42,554
- they shall become a blessed people
+00:15:56,0 --> 00:15:56,0
+wife, and concubines they should
 
 38
-00:07:42,529 --> 00:07:44,815
-7 Behold, their husbands love their wives, and
+00:15:56,0 --> 00:15:56,0
+have none, and there should not
 
 39
-00:07:44,815 --> 00:07:47,101
- their wives love their husbands; and their husbands
+00:15:56,0 --> 00:16:26,
+be whoredoms committed among them.
 
 40
-00:07:47,101 --> 00:07:49,387
- and their wives love their children; and their
+00:16:26,0 --> 00:16:26,0
+6 And now, this commandment
 
 41
-00:07:49,387 --> 00:07:51,673
- unbelief and their hatred towards you is because of
+00:16:26,0 --> 00:16:26,0
+they observe to keep;
 
 42
-00:07:51,673 --> 00:07:53,959
- the iniquity of their fathers; wherefore, how much
+00:16:26,0 --> 00:16:26,0
+wherefore, because of this
 
 43
-00:07:53,959 --> 00:07:56,245
- better are you than they, in the sight of your
+00:16:26,0 --> 00:16:26,0
+observance, in keeping this
 
 44
-00:07:56,245 --> 00:07:58,531
- great Creator
+00:16:26,0 --> 00:16:26,0
+commandment, the Lord God will not
 
 45
-00:07:58,478 --> 00:08:02,478
-8 O my brethren, I fear that unless ye shall
+00:16:26,0 --> 00:16:26,0
+destroy them, but will be merciful
 
 46
-00:08:02,478 --> 00:08:06,478
- repent of your sins that their skins will be whiter
+00:16:26,0 --> 00:16:26,0
+unto them; and one day they
 
 47
-00:08:06,478 --> 00:08:10,478
- than yours, when ye shall be brought with them before
+00:16:26,0 --> 00:15:58,
+shall become a blessed people.
 
 48
-00:08:10,478 --> 00:08:14,478
- the throne of God
+00:15:58,0 --> 00:15:58,0
+7 Behold, their husbands
 
 49
-00:08:14,427 --> 00:08:18,998
-9 Wherefore, a commandment I give unto you, which
+00:15:58,0 --> 00:15:58,0
+love their wives, and their
 
 50
-00:08:18,998 --> 00:08:23,569
- is the word of God, that ye revile no more against
+00:15:58,0 --> 00:15:58,0
+wives love their husbands; and
 
 51
-00:08:23,569 --> 00:08:28,14
- them because of the darkness of their skins;
+00:15:58,0 --> 00:15:58,0
+their husbands and their
 
 52
-00:08:28,14 --> 00:08:32,711
- neither shall ye revile against them because of their
+00:15:58,0 --> 00:15:58,0
+wives love their children; and
 
 53
-00:08:32,711 --> 00:08:37,282
- filthiness; but ye shall remember your own
+00:15:58,0 --> 00:15:58,0
+their unbelief and their
 
 54
-00:08:37,282 --> 00:08:41,853
- filthiness, and remember that their filthiness came
+00:15:58,0 --> 00:15:58,0
+hatred towards you is because
 
 55
-00:08:41,853 --> 00:08:46,424
- because of their fathers
+00:15:58,0 --> 00:15:58,0
+of the iniquity of their
 
 56
-00:00:07,975 --> 00:00:09,975
-12 And now I, Jacob, spake many more things unto
+00:15:58,0 --> 00:15:58,0
+fathers; wherefore, how much
 
 57
-00:00:09,975 --> 00:00:11,975
- the people of Nephi, warning them against
+00:15:58,0 --> 00:15:58,0
+better are you than they, in
 
 58
-00:00:11,975 --> 00:00:13,975
- fornication and lasciviousness, and every kind of sin,
+00:15:58,0 --> 00:20:27,
+the sight of your great Creator?
 
 59
-00:00:13,975 --> 00:00:15,975
- telling them the awful consequences of them
+00:20:27,0 --> 00:20:27,0
+8 O my brethren, I fear
 
 60
-00:00:15,949 --> 00:00:17,282
-13 And a hundredth part of the proceedings of this
+00:20:27,0 --> 00:20:27,0
+that unless ye shall
 
 61
-00:00:17,282 --> 00:00:18,615
- people, which now began to be numerous, cannot be
+00:20:27,0 --> 00:20:27,0
+repent of your sins that
 
 62
-00:00:18,615 --> 00:00:19,948
- written upon these plates; but many of their
+00:20:27,0 --> 00:20:27,0
+their skins will be whiter
 
 63
-00:00:19,948 --> 00:00:21,281
- proceedings are written upon the larger plates, and
+00:20:27,0 --> 00:20:27,0
+than yours, when ye
 
 64
-00:00:21,281 --> 00:00:22,614
- their wars, and their contentions, and the reigns of
+00:20:27,0 --> 00:20:27,0
+shall be brought with them
 
 65
-00:00:22,614 --> 00:00:23,947
- their kings
+00:20:27,0 --> 00:19:59,
+before the throne of God.
 
 66
-00:00:23,924 --> 00:00:24,257
-14 These plates are called the plates of Jacob,
+00:19:59,0 --> 00:19:59,0
+9 Wherefore, a
 
 67
-00:00:24,257 --> 00:00:24,59
- and they were made by the hand of Nephi. And I make
+00:19:59,0 --> 00:19:59,0
+commandment I give unto you,
 
 68
-00:00:24,59 --> 00:00:24,923
- an end of speaking these words.
+00:19:59,0 --> 00:19:59,0
+which is the word of
+
+69
+00:19:59,0 --> 00:19:59,0
+God, that ye revile no
+
+70
+00:19:59,0 --> 00:19:59,0
+more against them
+
+71
+00:19:59,0 --> 00:19:59,0
+because of the darkness of
+
+72
+00:19:59,0 --> 00:19:59,0
+their skins; neither
+
+73
+00:19:59,0 --> 00:19:59,0
+shall ye revile
+
+74
+00:19:59,0 --> 00:19:59,0
+against them because of
+
+75
+00:19:59,0 --> 00:19:59,0
+their filthiness; but ye
+
+76
+00:19:59,0 --> 00:19:59,0
+shall remember your own
+
+77
+00:19:59,0 --> 00:19:59,0
+filthiness, and
+
+78
+00:19:59,0 --> 00:19:59,0
+remember that their
+
+79
+00:19:59,0 --> 00:22:11,
+filthiness came because of their fathers.
+
+80
+00:22:11,0 --> 00:22:11,0
+10 Wherefore, ye
+
+81
+00:22:11,0 --> 00:22:11,0
+shall remember your
+
+82
+00:22:11,0 --> 00:22:11,0
+children, how that ye
+
+83
+00:22:11,0 --> 00:22:11,0
+have grieved their
+
+84
+00:22:11,0 --> 00:22:11,0
+hearts because of the
+
+85
+00:22:11,0 --> 00:22:11,0
+example that ye have
+
+86
+00:22:11,0 --> 00:22:11,0
+set before them;
+
+87
+00:22:11,0 --> 00:22:11,0
+and also, remember
+
+88
+00:22:11,0 --> 00:22:11,0
+that ye may, because of
+
+89
+00:22:11,0 --> 00:22:11,0
+your filthiness,
+
+90
+00:22:11,0 --> 00:22:11,0
+bring your children
+
+91
+00:22:11,0 --> 00:22:11,0
+unto destruction, and
+
+92
+00:22:11,0 --> 00:22:11,0
+their sins be heaped
+
+93
+00:22:11,0 --> 00:21:43,
+upon your heads at the last day.
+
+94
+00:21:43,0 --> 00:21:43,0
+11 O my brethren,
+
+95
+00:21:43,0 --> 00:21:43,0
+hearken unto my
+
+96
+00:21:43,0 --> 00:21:43,0
+words; arouse the
+
+97
+00:21:43,0 --> 00:21:43,0
+faculties of your
+
+98
+00:21:43,0 --> 00:21:43,0
+souls; shake
+
+99
+00:21:43,0 --> 00:21:43,0
+yourselves that ye may
+
+100
+00:21:43,0 --> 00:21:43,0
+awake from the
+
+101
+00:21:43,0 --> 00:21:43,0
+slumber of death; and
+
+102
+00:21:43,0 --> 00:21:43,0
+loose yourselves
+
+103
+00:21:43,0 --> 00:21:43,0
+from the pains of
+
+104
+00:21:43,0 --> 00:21:43,0
+hell that ye may not
+
+105
+00:21:43,0 --> 00:21:43,0
+become angels to
+
+106
+00:21:43,0 --> 00:21:43,0
+the devil, to be
+
+107
+00:21:43,0 --> 00:21:43,0
+cast into that lake
+
+108
+00:21:43,0 --> 00:21:43,0
+of fire and
+
+109
+00:21:43,0 --> 00:21:15,
+brimstone which is the second death.
+
+110
+00:21:15,0 --> 00:21:15,0
+12 And now I,
+
+111
+00:21:15,0 --> 00:21:15,0
+Jacob, spake many
+
+112
+00:21:15,0 --> 00:21:15,0
+more things unto
+
+113
+00:21:15,0 --> 00:21:15,0
+the people of
+
+114
+00:21:15,0 --> 00:21:15,0
+Nephi, warning them
+
+115
+00:21:15,0 --> 00:21:15,0
+against fornication
+
+116
+00:21:15,0 --> 00:21:15,0
+and
+
+117
+00:21:15,0 --> 00:21:15,0
+lasciviousness, and every
+
+118
+00:21:15,0 --> 00:21:15,0
+kind of sin, telling
+
+119
+00:21:15,0 --> 00:21:15,0
+them the awful
+
+120
+00:21:15,0 --> 00:20:47,
+consequences of them.
+
+121
+00:20:47,0 --> 00:20:47,0
+13 And a
+
+122
+00:20:47,0 --> 00:20:47,0
+hundredth part of the
+
+123
+00:20:47,0 --> 00:20:47,0
+proceedings of
+
+124
+00:20:47,0 --> 00:20:47,0
+this people, which
+
+125
+00:20:47,0 --> 00:20:47,0
+now began to be
+
+126
+00:20:47,0 --> 00:20:47,0
+numerous,
+
+127
+00:20:47,0 --> 00:20:47,0
+cannot be written
+
+128
+00:20:47,0 --> 00:20:47,0
+upon these plates;
+
+129
+00:20:47,0 --> 00:20:47,0
+but many of
+
+130
+00:20:47,0 --> 00:20:47,0
+their proceedings
+
+131
+00:20:47,0 --> 00:20:47,0
+are written upon
+
+132
+00:20:47,0 --> 00:20:47,0
+the larger
+
+133
+00:20:47,0 --> 00:20:47,0
+plates, and their
+
+134
+00:20:47,0 --> 00:20:47,0
+wars, and their
+
+135
+00:20:47,0 --> 00:20:47,0
+contentions, and the
+
+136
+00:20:47,0 --> 00:20:19,
+reigns of their kings.
+
+137
+00:20:19,0 --> 00:20:19,0
+14 These
+
+138
+00:20:19,0 --> 00:20:19,0
+plates are called
+
+139
+00:20:19,0 --> 00:20:19,0
+the plates of
+
+140
+00:20:19,0 --> 00:20:19,0
+Jacob, and they
+
+141
+00:20:19,0 --> 00:20:19,0
+were made by
+
+142
+00:20:19,0 --> 00:20:19,0
+the hand of
+
+143
+00:20:19,0 --> 00:20:19,0
+Nephi. And I
+
+144
+00:20:19,0 --> 00:20:19,0
+make an end of
+
+145
+00:20:19,0 --> 00:19:51,
+speaking these words. 
 

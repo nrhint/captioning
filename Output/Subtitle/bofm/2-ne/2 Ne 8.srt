@@ -1,388 +1,1412 @@
 1
-00:00:00,0 --> 00:00:48,0
-Isaiah 51 and 52:1–2. About 559–545 B.C.
+00:00:00,0 --> 00:10:39,
+Isaiah 51 and 52:1–2. About 559–545 B.C. 
 
 2
-00:00:48,248 --> 00:00:55,248
-1 Hearken unto me, ye that follow after
+00:10:39,0 --> 00:10:39,0
+1 Hearken unto me, ye that follow
 
 3
-00:00:55,248 --> 00:01:02,248
- righteousness. Look unto the rock from whence ye are hewn,
+00:10:39,0 --> 00:10:39,0
+after righteousness. Look unto the rock
 
 4
-00:01:02,248 --> 00:01:09,248
- and to the hole of the pit from whence ye are
+00:10:39,0 --> 00:10:39,0
+from whence ye are hewn, and to the hole
 
 5
-00:01:09,248 --> 00:01:16,248
- digged
+00:10:39,0 --> 00:11:37,
+of the pit from whence ye are digged.
 
 6
-00:01:16,577 --> 00:01:24,244
-2 Look unto Abraham, your father, and unto Sarah,
+00:11:37,0 --> 00:11:37,0
+2 Look unto Abraham, your father,
 
 7
-00:01:24,244 --> 00:01:31,911
- she that bare you; for I called him alone, and
+00:11:37,0 --> 00:11:37,0
+and unto Sarah, she that bare you; for
 
 8
-00:01:31,911 --> 00:01:39,578
- blessed him
+00:11:37,0 --> 00:11:09,
+I called him alone, and blessed him.
 
 9
-00:01:39,199 --> 00:01:48,799
-3 For the Lord shall comfort Zion, he will comfort
+00:11:09,0 --> 00:11:09,0
+3 For the Lord shall comfort Zion,
 
 10
-00:01:48,799 --> 00:01:58,399
- all her waste places; and he will make her
+00:11:09,0 --> 00:11:09,0
+he will comfort all her waste
 
 11
-00:01:58,399 --> 00:02:07,999
- wilderness like Eden, and her desert like the garden of
+00:11:09,0 --> 00:11:09,0
+places; and he will make her
 
 12
-00:02:07,999 --> 00:02:17,599
- the Lord. Joy and gladness shall be found therein,
+00:11:09,0 --> 00:11:09,0
+wilderness like Eden, and her desert like
 
 13
-00:02:17,599 --> 00:02:27,199
- thanksgiving and the voice of melody
+00:11:09,0 --> 00:11:09,0
+the garden of the Lord. Joy and
 
 14
-00:02:27,047 --> 00:02:33,797
-4 Hearken unto me, my people; and give ear unto
+00:11:09,0 --> 00:11:09,0
+gladness shall be found therein,
 
 15
-00:02:33,797 --> 00:02:40,547
- me, O my nation; for a law shall proceed from me,
+00:11:09,0 --> 00:21:34,
+thanksgiving and the voice of melody.
 
 16
-00:02:40,547 --> 00:02:47,297
- and I will make my judgment to rest for a light for
+00:21:34,0 --> 00:21:34,0
+4 Hearken unto me, my people;
 
 17
-00:02:47,297 --> 00:02:54,047
- the people
+00:21:34,0 --> 00:21:34,0
+and give ear unto me, O my nation;
 
 18
-00:02:54,007 --> 00:03:00,257
-5 My righteousness is near; my salvation is gone
+00:21:34,0 --> 00:21:34,0
+for a law shall proceed from
 
 19
-00:03:00,257 --> 00:03:06,507
- forth, and mine arm shall judge the people. The
+00:21:34,0 --> 00:21:34,0
+me, and I will make my judgment to
 
 20
-00:03:06,507 --> 00:03:12,757
- isles shall wait upon me, and on mine arm shall they
+00:21:34,0 --> 00:21:06,
+rest for a light for the people.
 
 21
-00:03:12,757 --> 00:03:19,007
- trust
+00:21:06,0 --> 00:21:06,0
+5 My righteousness is near; my
 
 22
-00:03:19,766 --> 00:03:28,099
-6 Lift up your eyes to the heavens, and look upon
+00:21:06,0 --> 00:21:06,0
+salvation is gone forth, and
 
 23
-00:03:28,099 --> 00:03:36,432
- the earth beneath; for the heavens shall vanish
+00:21:06,0 --> 00:21:06,0
+mine arm shall judge the people.
 
 24
-00:03:36,432 --> 00:03:44,765
- away like smoke, and the earth shall wax old like a
+00:21:06,0 --> 00:21:06,0
+The isles shall wait upon me,
 
 25
-00:03:44,765 --> 00:03:53,098
- garment; and they that dwell therein shall die in
+00:21:06,0 --> 00:20:38,
+and on mine arm shall they trust.
 
 26
-00:03:53,098 --> 00:04:01,431
- like manner. But my salvation shall be forever,
+00:20:38,0 --> 00:20:38,0
+6 Lift up your eyes to the
 
 27
-00:04:01,431 --> 00:04:09,764
- and my righteousness shall not be abolished
+00:20:38,0 --> 00:20:38,0
+heavens, and look upon the
 
 28
-00:04:09,416 --> 00:04:17,166
-7 Hearken unto me, ye that know righteousness, the
+00:20:38,0 --> 00:20:38,0
+earth beneath; for the heavens
 
 29
-00:04:17,166 --> 00:04:24,916
- people in whose heart I have written my law, fear
+00:20:38,0 --> 00:20:38,0
+shall vanish away like smoke,
 
 30
-00:04:24,916 --> 00:04:32,666
- ye not the reproach of men, neither be ye afraid
+00:20:38,0 --> 00:20:38,0
+and the earth shall wax old
 
 31
-00:04:32,666 --> 00:04:40,416
- of their revilings
+00:20:38,0 --> 00:20:38,0
+like a garment; and they that
 
 32
-00:04:40,18 --> 00:04:47,43
-8 For the moth shall eat them up like a garment,
+00:20:38,0 --> 00:20:38,0
+dwell therein shall die in
 
 33
-00:04:47,43 --> 00:04:54,68
- and the worm shall eat them like wool. But my
+00:20:38,0 --> 00:20:38,0
+like manner. But my salvation
 
 34
-00:04:54,68 --> 00:05:01,93
- righteousness shall be forever, and my salvation from
+00:20:38,0 --> 00:20:38,0
+shall be forever, and my
 
 35
-00:05:01,93 --> 00:05:09,18
- generation to generation
+00:20:38,0 --> 00:20:52,
+righteousness shall not be abolished.
 
 36
-00:05:09,176 --> 00:05:17,509
-9 Awake, awake! Put on strength, O arm of the
+00:20:52,0 --> 00:20:52,0
+7 Hearken unto me, ye that
 
 37
-00:05:17,509 --> 00:05:25,842
- Lord; awake as in the ancient days. Art thou not he
+00:20:52,0 --> 00:20:52,0
+know righteousness, the
 
 38
-00:05:25,842 --> 00:05:34,175
- that hath cut Rahab, and wounded the dragon
+00:20:52,0 --> 00:20:52,0
+people in whose heart I have
 
 39
-00:05:34,734 --> 00:05:43,401
-10 Art thou not he who hath dried the sea, the
+00:20:52,0 --> 00:20:52,0
+written my law, fear ye not the
 
 40
-00:05:43,401 --> 00:05:52,068
- waters of the great deep; that hath made the depths
+00:20:52,0 --> 00:20:52,0
+reproach of men, neither be
 
 41
-00:05:52,068 --> 00:06:00,735
- of the sea a way for the ransomed to pass over
+00:20:52,0 --> 00:22:04,
+ye afraid of their revilings.
 
 42
-00:06:00,06 --> 00:06:06,66
-11 Therefore, the redeemed of the Lord shall
+00:22:04,0 --> 00:22:04,0
+8 For the moth shall eat
 
 43
-00:06:06,66 --> 00:06:13,26
- return, and come with singing unto Zion; and
+00:22:04,0 --> 00:22:04,0
+them up like a garment,
 
 44
-00:06:13,26 --> 00:06:19,86
- everlasting joy and holiness shall be upon their heads; and
+00:22:04,0 --> 00:22:04,0
+and the worm shall eat
 
 45
-00:06:19,86 --> 00:06:26,46
- they shall obtain gladness and joy; sorrow and
+00:22:04,0 --> 00:22:04,0
+them like wool. But my
 
 46
-00:06:26,46 --> 00:06:33,06
- mourning shall flee away
+00:22:04,0 --> 00:22:04,0
+righteousness shall be
 
 47
-00:06:33,059 --> 00:06:40,809
-12 I am he; yea, I am he that comforteth you.
+00:22:04,0 --> 00:22:04,0
+forever, and my salvation
 
 48
-00:06:40,809 --> 00:06:48,559
- Behold, who art thou, that thou shouldst be afraid of
+00:22:04,0 --> 00:21:36,
+from generation to generation.
 
 49
-00:06:48,559 --> 00:06:56,309
- man, who shall die, and of the son of man, who
+00:21:36,0 --> 00:21:36,0
+9 Awake, awake! Put on
 
 50
-00:06:56,309 --> 00:07:04,059
- shall be made like unto grass
+00:21:36,0 --> 00:21:36,0
+strength, O arm of the
 
 51
-00:07:04,958 --> 00:07:10,958
-13 And forgettest the Lord thy maker, that hath
+00:21:36,0 --> 00:21:36,0
+Lord; awake as in the
 
 52
-00:07:10,958 --> 00:07:16,958
- stretched forth the heavens, and laid the
+00:21:36,0 --> 00:21:36,0
+ancient days. Art thou
 
 53
-00:07:16,958 --> 00:07:22,958
- foundations of the earth, and hast feared continually every
+00:21:36,0 --> 00:21:36,0
+not he that hath cut
 
 54
-00:07:22,958 --> 00:07:28,958
- day, because of the fury of the oppressor, as if
+00:21:36,0 --> 00:21:08,
+Rahab, and wounded the dragon?
 
 55
-00:07:28,958 --> 00:07:34,958
- he were ready to destroy? And where is the fury of
+00:21:08,0 --> 00:21:08,0
+10 Art thou not he
 
 56
-00:07:34,958 --> 00:07:40,958
- the oppressor
+00:21:08,0 --> 00:21:08,0
+who hath dried the
 
 57
-00:07:40,627 --> 00:07:47,96
-14 The captive exile hasteneth, that he may be
+00:21:08,0 --> 00:21:08,0
+sea, the waters of the
 
 58
-00:07:47,96 --> 00:07:55,293
- loosed, and that he should not die in the pit, nor
+00:21:08,0 --> 00:21:08,0
+great deep; that
 
 59
-00:07:55,293 --> 00:08:02,626
- that his bread should fail
+00:21:08,0 --> 00:21:08,0
+hath made the depths
 
 60
-00:08:02,682 --> 00:08:11,182
-15 But I am the Lord thy God, whose waves roared;
+00:21:08,0 --> 00:21:08,0
+of the sea a way for
 
 61
-00:08:11,182 --> 00:08:19,682
- the Lord of Hosts is my name
+00:21:08,0 --> 00:20:40,
+the ransomed to pass over?
 
 62
-00:08:19,766 --> 00:08:26,166
-16 And I have put my words in thy mouth, and have
+00:20:40,0 --> 00:20:40,0
+11 Therefore, the
 
 63
-00:08:26,166 --> 00:08:32,566
- covered thee in the shadow of mine hand, that I
+00:20:40,0 --> 00:20:40,0
+redeemed of the
 
 64
-00:08:32,566 --> 00:08:38,966
- may plant the heavens and lay the foundations of the
+00:20:40,0 --> 00:20:40,0
+Lord shall return,
 
 65
-00:08:38,966 --> 00:08:45,366
- earth, and say unto Zion: Behold, thou art my
+00:20:40,0 --> 00:20:40,0
+and come with
 
 66
-00:08:45,366 --> 00:08:51,766
- people
+00:20:40,0 --> 00:20:40,0
+singing unto Zion; and
 
 67
-00:08:51,664 --> 00:09:00,414
-17 Awake, awake, stand up, O Jerusalem, which hast
+00:20:40,0 --> 00:20:40,0
+everlasting joy
 
 68
-00:09:00,414 --> 00:09:09,164
- drunk at the hand of the Lord the cup of his
+00:20:40,0 --> 00:20:40,0
+and holiness shall
 
 69
-00:09:09,164 --> 00:09:17,914
- fury—thou hast drunken the dregs of the cup of
+00:20:40,0 --> 00:20:40,0
+be upon their
 
 70
-00:09:17,914 --> 00:09:26,664
- trembling wrung out
+00:20:40,0 --> 00:20:40,0
+heads; and they shall
 
 71
-00:09:26,232 --> 00:09:32,899
-18 And none to guide her among all the sons she
+00:20:40,0 --> 00:20:40,0
+obtain gladness and
 
 72
-00:09:32,899 --> 00:09:39,566
- hath brought forth; neither that taketh her by the
+00:20:40,0 --> 00:20:40,0
+joy; sorrow and
 
 73
-00:09:39,566 --> 00:09:46,233
- hand, of all the sons she hath brought up
+00:20:40,0 --> 00:22:10,
+mourning shall flee away.
 
 74
-00:09:46,786 --> 00:09:52,786
-19 These two sons are come unto thee, who shall be
+00:22:10,0 --> 00:22:10,0
+12 I am he; yea,
 
 75
-00:09:52,786 --> 00:09:58,786
- sorry for thee—thy desolation and destruction,
+00:22:10,0 --> 00:22:10,0
+I am he that
 
 76
-00:09:58,786 --> 00:10:04,786
- and the famine and the sword—and by whom shall I
+00:22:10,0 --> 00:22:10,0
+comforteth you.
 
 77
-00:10:04,786 --> 00:10:10,786
- comfort thee
+00:22:10,0 --> 00:22:10,0
+Behold, who art thou,
 
 78
-00:10:10,243 --> 00:10:17,993
-20 Thy sons have fainted, save these two; they lie
+00:22:10,0 --> 00:22:10,0
+that thou
 
 79
-00:10:17,993 --> 00:10:25,743
- at the head of all the streets; as a wild bull in
+00:22:10,0 --> 00:22:10,0
+shouldst be afraid of
 
 80
-00:10:25,743 --> 00:10:33,493
- a net, they are full of the fury of the Lord, the
+00:22:10,0 --> 00:22:10,0
+man, who shall die,
 
 81
-00:10:33,493 --> 00:10:41,243
- rebuke of thy God
+00:22:10,0 --> 00:22:10,0
+and of the son
 
 82
-00:10:41,674 --> 00:10:49,174
-21 Therefore hear now this, thou afflicted, and
+00:22:10,0 --> 00:22:10,0
+of man, who shall
 
 83
-00:10:49,174 --> 00:10:56,674
- drunken, and not with wine
+00:22:10,0 --> 00:21:42,
+be made like unto grass?
 
 84
-00:10:56,923 --> 00:11:04,323
-22 Thus saith thy Lord, the Lord and thy God
+00:21:42,0 --> 00:21:42,0
+13 And
 
 85
-00:11:04,323 --> 00:11:11,723
- pleadeth the cause of his people; behold, I have taken
+00:21:42,0 --> 00:21:42,0
+forgettest the Lord thy
 
 86
-00:11:11,723 --> 00:11:19,123
- out of thine hand the cup of trembling, the dregs
+00:21:42,0 --> 00:21:42,0
+maker, that hath
 
 87
-00:11:19,123 --> 00:11:26,523
- of the cup of my fury; thou shalt no more drink it
+00:21:42,0 --> 00:21:42,0
+stretched forth
 
 88
-00:11:26,523 --> 00:11:33,923
- again
+00:21:42,0 --> 00:21:42,0
+the heavens, and
 
 89
-00:11:33,86 --> 00:11:41,46
-23 But I will put it into the hand of them that
+00:21:42,0 --> 00:21:42,0
+laid the
 
 90
-00:11:41,46 --> 00:11:49,06
- afflict thee; who have said to thy soul: Bow down,
+00:21:42,0 --> 00:21:42,0
+foundations of the
 
 91
-00:11:49,06 --> 00:11:56,66
- that we may go over—and thou hast laid thy body as
+00:21:42,0 --> 00:21:42,0
+earth, and hast
 
 92
-00:11:56,66 --> 00:12:04,26
- the ground and as the street to them that went
+00:21:42,0 --> 00:21:42,0
+feared continually
 
 93
-00:12:04,26 --> 00:12:11,86
- over
+00:21:42,0 --> 00:21:42,0
+every day,
 
 94
-00:12:11,097 --> 00:12:18,597
-24 Awake, awake, put on thy strength, O Zion; put
+00:21:42,0 --> 00:21:42,0
+because of the fury
 
 95
-00:12:18,597 --> 00:12:26,097
- on thy beautiful garments, O Jerusalem, the holy
+00:21:42,0 --> 00:21:42,0
+of the oppressor,
 
 96
-00:12:26,097 --> 00:12:33,597
- city; for henceforth there shall no more come into
+00:21:42,0 --> 00:21:42,0
+as if he were
 
 97
-00:12:33,597 --> 00:12:41,097
- thee the uncircumcised and the unclean
+00:21:42,0 --> 00:21:42,0
+ready to destroy?
+
+98
+00:21:42,0 --> 00:21:42,0
+And where is
+
+99
+00:21:42,0 --> 00:21:14,
+the fury of the oppressor?
+
+100
+00:21:14,0 --> 00:21:14,0
+14 The captive
+
+101
+00:21:14,0 --> 00:21:14,0
+exile
+
+102
+00:21:14,0 --> 00:21:14,0
+hasteneth, that he may
+
+103
+00:21:14,0 --> 00:21:14,0
+be loosed, and
+
+104
+00:21:14,0 --> 00:21:14,0
+that he should
+
+105
+00:21:14,0 --> 00:21:14,0
+not die in the
+
+106
+00:21:14,0 --> 00:21:14,0
+pit, nor that
+
+107
+00:21:14,0 --> 00:20:46,
+his bread should fail.
+
+108
+00:20:46,0 --> 00:20:46,0
+15 But I am
+
+109
+00:20:46,0 --> 00:20:46,0
+the Lord thy
+
+110
+00:20:46,0 --> 00:20:46,0
+God, whose
+
+111
+00:20:46,0 --> 00:20:46,0
+waves roared;
+
+112
+00:20:46,0 --> 00:20:46,0
+the Lord of
+
+113
+00:20:46,0 --> 00:21:30,
+Hosts is my name.
+
+114
+00:21:30,0 --> 00:21:30,0
+16 And I
+
+115
+00:21:30,0 --> 00:21:30,0
+have put my
+
+116
+00:21:30,0 --> 00:21:30,0
+words in thy
+
+117
+00:21:30,0 --> 00:21:30,0
+mouth, and
+
+118
+00:21:30,0 --> 00:21:30,0
+have covered
+
+119
+00:21:30,0 --> 00:21:30,0
+thee in the
+
+120
+00:21:30,0 --> 00:21:30,0
+shadow of mine
+
+121
+00:21:30,0 --> 00:21:30,0
+hand, that
+
+122
+00:21:30,0 --> 00:21:30,0
+I may plant
+
+123
+00:21:30,0 --> 00:21:30,0
+the heavens
+
+124
+00:21:30,0 --> 00:21:30,0
+and lay the
+
+125
+00:21:30,0 --> 00:21:30,0
+foundations
+
+126
+00:21:30,0 --> 00:21:30,0
+of the
+
+127
+00:21:30,0 --> 00:21:30,0
+earth, and say
+
+128
+00:21:30,0 --> 00:21:30,0
+unto Zion:
+
+129
+00:21:30,0 --> 00:21:02,
+Behold, thou art my people.
+
+130
+00:21:02,0 --> 00:21:02,0
+17 Awake,
+
+131
+00:21:02,0 --> 00:21:02,0
+awake, stand
+
+132
+00:21:02,0 --> 00:21:02,0
+up, O
+
+133
+00:21:02,0 --> 00:21:02,0
+Jerusalem,
+
+134
+00:21:02,0 --> 00:21:02,0
+which hast
+
+135
+00:21:02,0 --> 00:21:02,0
+drunk at the
+
+136
+00:21:02,0 --> 00:21:02,0
+hand of the
+
+137
+00:21:02,0 --> 00:21:02,0
+Lord the cup
+
+138
+00:21:02,0 --> 00:21:02,0
+of his
+
+139
+00:21:02,0 --> 00:21:02,0
+fury—thou hast
+
+140
+00:21:02,0 --> 00:21:02,0
+drunken
+
+141
+00:21:02,0 --> 00:21:02,0
+the dregs of
+
+142
+00:21:02,0 --> 00:21:02,0
+the cup of
+
+143
+00:21:02,0 --> 00:20:48,
+trembling wrung out—
+
+144
+00:20:48,0 --> 00:20:48,0
+18 And
+
+145
+00:20:48,0 --> 00:20:48,0
+none to guide
+
+146
+00:20:48,0 --> 00:20:48,0
+her among
+
+147
+00:20:48,0 --> 00:20:48,0
+all the
+
+148
+00:20:48,0 --> 00:20:48,0
+sons she
+
+149
+00:20:48,0 --> 00:20:48,0
+hath brought
+
+150
+00:20:48,0 --> 00:20:48,0
+forth;
+
+151
+00:20:48,0 --> 00:20:48,0
+neither that
+
+152
+00:20:48,0 --> 00:20:48,0
+taketh
+
+153
+00:20:48,0 --> 00:20:48,0
+her by the
+
+154
+00:20:48,0 --> 00:20:48,0
+hand, of
+
+155
+00:20:48,0 --> 00:20:48,0
+all the sons
+
+156
+00:20:48,0 --> 00:22:18,
+she hath brought up.
+
+157
+00:22:18,0 --> 00:22:18,0
+19 These
+
+158
+00:22:18,0 --> 00:22:18,0
+two sons
+
+159
+00:22:18,0 --> 00:22:18,0
+are come
+
+160
+00:22:18,0 --> 00:22:18,0
+unto thee,
+
+161
+00:22:18,0 --> 00:22:18,0
+who shall be
+
+162
+00:22:18,0 --> 00:22:18,0
+sorry for
+
+163
+00:22:18,0 --> 00:22:18,0
+thee—thy
+
+164
+00:22:18,0 --> 00:22:18,0
+desolation
+
+165
+00:22:18,0 --> 00:22:18,0
+and
+
+166
+00:22:18,0 --> 00:22:18,0
+destruction,
+
+167
+00:22:18,0 --> 00:22:18,0
+and the
+
+168
+00:22:18,0 --> 00:22:18,0
+famine and the
+
+169
+00:22:18,0 --> 00:22:18,0
+sword—and
+
+170
+00:22:18,0 --> 00:22:18,0
+by whom
+
+171
+00:22:18,0 --> 00:22:18,0
+shall I
+
+172
+00:22:18,0 --> 00:21:50,
+comfort thee?
+
+173
+00:21:50,0 --> 00:21:50,0
+20 Thy
+
+174
+00:21:50,0 --> 00:21:50,0
+sons have
+
+175
+00:21:50,0 --> 00:21:50,0
+fainted,
+
+176
+00:21:50,0 --> 00:21:50,0
+save these
+
+177
+00:21:50,0 --> 00:21:50,0
+two;
+
+178
+00:21:50,0 --> 00:21:50,0
+they lie at
+
+179
+00:21:50,0 --> 00:21:50,0
+the head
+
+180
+00:21:50,0 --> 00:21:50,0
+of all
+
+181
+00:21:50,0 --> 00:21:50,0
+the
+
+182
+00:21:50,0 --> 00:21:50,0
+streets; as a
+
+183
+00:21:50,0 --> 00:21:50,0
+wild bull
+
+184
+00:21:50,0 --> 00:21:50,0
+in a net,
+
+185
+00:21:50,0 --> 00:21:50,0
+they are
+
+186
+00:21:50,0 --> 00:21:50,0
+full of
+
+187
+00:21:50,0 --> 00:21:50,0
+the fury
+
+188
+00:21:50,0 --> 00:21:50,0
+of the
+
+189
+00:21:50,0 --> 00:24:02,
+Lord, the rebuke of thy God.
+
+190
+00:24:02,0 --> 00:24:02,0
+21
+
+191
+00:24:02,0 --> 00:24:02,0
+Therefore
+
+192
+00:24:02,0 --> 00:24:02,0
+hear now
+
+193
+00:24:02,0 --> 00:24:02,0
+this, thou
+
+194
+00:24:02,0 --> 00:24:02,0
+
+
+195
+00:24:02,0 --> 00:24:02,0
+afflicted, and
+
+196
+00:24:02,0 --> 00:24:02,0
+drunken,
+
+197
+00:24:02,0 --> 00:24:02,0
+and not
+
+198
+00:24:02,0 --> 00:30:43,
+with wine:
+
+199
+00:30:43,0 --> 00:30:43,0
+22 Thus
+
+200
+00:30:43,0 --> 00:30:43,0
+saith
+
+201
+00:30:43,0 --> 00:30:43,0
+thy
+
+202
+00:30:43,0 --> 00:30:43,0
+Lord, the
+
+203
+00:30:43,0 --> 00:30:43,0
+Lord
+
+204
+00:30:43,0 --> 00:30:43,0
+and thy
+
+205
+00:30:43,0 --> 00:30:43,0
+God
+
+206
+00:30:43,0 --> 00:30:43,0
+pleadeth
+
+207
+00:30:43,0 --> 00:30:43,0
+the cause
+
+208
+00:30:43,0 --> 00:30:43,0
+of his
+
+209
+00:30:43,0 --> 00:30:43,0
+
+
+210
+00:30:43,0 --> 00:30:43,0
+people;
+
+211
+00:30:43,0 --> 00:30:43,0
+behold, I
+
+212
+00:30:43,0 --> 00:30:43,0
+have
+
+213
+00:30:43,0 --> 00:30:43,0
+taken out
+
+214
+00:30:43,0 --> 00:30:43,0
+of thine
+
+215
+00:30:43,0 --> 00:30:43,0
+hand
+
+216
+00:30:43,0 --> 00:30:43,0
+the cup
+
+217
+00:30:43,0 --> 00:30:43,0
+of
+
+218
+00:30:43,0 --> 00:30:43,0
+trembling,
+
+219
+00:30:43,0 --> 00:30:43,0
+the
+
+220
+00:30:43,0 --> 00:30:43,0
+dregs of
+
+221
+00:30:43,0 --> 00:30:43,0
+the cup
+
+222
+00:30:43,0 --> 00:30:43,0
+of my
+
+223
+00:30:43,0 --> 00:30:43,0
+fury;
+
+224
+00:30:43,0 --> 00:37:52,
+thou shalt no more drink it again.
+
+225
+00:37:52,0 --> 00:37:52,0
+23 But
+
+226
+00:37:52,0 --> 00:37:52,0
+I
+
+227
+00:37:52,0 --> 00:37:52,0
+will put
+
+228
+00:37:52,0 --> 00:37:52,0
+it
+
+229
+00:37:52,0 --> 00:37:52,0
+into the
+
+230
+00:37:52,0 --> 00:37:52,0
+hand
+
+231
+00:37:52,0 --> 00:37:52,0
+of them
+
+232
+00:37:52,0 --> 00:37:52,0
+that
+
+233
+00:37:52,0 --> 00:37:52,0
+
+
+234
+00:37:52,0 --> 00:37:52,0
+afflict
+
+235
+00:37:52,0 --> 00:37:52,0
+thee; who
+
+236
+00:37:52,0 --> 00:37:52,0
+have
+
+237
+00:37:52,0 --> 00:37:52,0
+said to
+
+238
+00:37:52,0 --> 00:37:52,0
+thy
+
+239
+00:37:52,0 --> 00:37:52,0
+soul:
+
+240
+00:37:52,0 --> 00:37:52,0
+Bow
+
+241
+00:37:52,0 --> 00:37:52,0
+down,
+
+242
+00:37:52,0 --> 00:37:52,0
+that we
+
+243
+00:37:52,0 --> 00:37:52,0
+may go
+
+244
+00:37:52,0 --> 00:37:52,0
+
+
+245
+00:37:52,0 --> 00:37:52,0
+over—and
+
+246
+00:37:52,0 --> 00:37:52,0
+thou hast
+
+247
+00:37:52,0 --> 00:37:52,0
+laid
+
+248
+00:37:52,0 --> 00:37:52,0
+thy
+
+249
+00:37:52,0 --> 00:37:52,0
+body as
+
+250
+00:37:52,0 --> 00:37:52,0
+the
+
+251
+00:37:52,0 --> 00:37:52,0
+ground
+
+252
+00:37:52,0 --> 00:37:52,0
+and as
+
+253
+00:37:52,0 --> 00:42:48,
+the street to them that went over.
+
+254
+00:42:48,0 --> 00:42:48,0
+24
+
+255
+00:42:48,0 --> 00:42:48,0
+Awake,
+
+256
+00:42:48,0 --> 00:42:48,0
+
+
+257
+00:42:48,0 --> 00:42:48,0
+awake, put
+
+258
+00:42:48,0 --> 00:42:48,0
+on
+
+259
+00:42:48,0 --> 00:42:48,0
+thy
+
+260
+00:42:48,0 --> 00:42:48,0
+
+
+261
+00:42:48,0 --> 00:42:48,0
+strength, O
+
+262
+00:42:48,0 --> 00:42:48,0
+Zion;
+
+263
+00:42:48,0 --> 00:42:48,0
+put
+
+264
+00:42:48,0 --> 00:42:48,0
+on
+
+265
+00:42:48,0 --> 00:42:48,0
+thy
+
+266
+00:42:48,0 --> 00:42:48,0
+
+
+267
+00:42:48,0 --> 00:42:48,0
+beautiful
+
+268
+00:42:48,0 --> 00:42:48,0
+
+
+269
+00:42:48,0 --> 00:42:48,0
+garments, O
+
+270
+00:42:48,0 --> 00:42:48,0
+
+
+271
+00:42:48,0 --> 00:42:48,0
+Jerusalem,
+
+272
+00:42:48,0 --> 00:42:48,0
+the
+
+273
+00:42:48,0 --> 00:42:48,0
+holy
+
+274
+00:42:48,0 --> 00:42:48,0
+city;
+
+275
+00:42:48,0 --> 00:42:48,0
+for
+
+276
+00:42:48,0 --> 00:42:48,0
+
+
+277
+00:42:48,0 --> 00:42:48,0
+henceforth
+
+278
+00:42:48,0 --> 00:42:48,0
+there
+
+279
+00:42:48,0 --> 00:42:48,0
+
+
+280
+00:42:48,0 --> 00:42:48,0
+shall no
+
+281
+00:42:48,0 --> 00:42:48,0
+more
+
+282
+00:42:48,0 --> 00:42:48,0
+come
+
+283
+00:42:48,0 --> 00:42:48,0
+into
+
+284
+00:42:48,0 --> 00:42:48,0
+thee
+
+285
+00:42:48,0 --> 00:47:45,
+the uncircumcised and the unclean.
+
+286
+00:47:45,0 --> 00:47:45,0
+25
+
+287
+00:47:45,0 --> 00:47:45,0
+Shake
+
+288
+00:47:45,0 --> 00:47:45,0
+
+
+289
+00:47:45,0 --> 00:47:45,0
+thyself
+
+290
+00:47:45,0 --> 00:47:45,0
+
+
+291
+00:47:45,0 --> 00:47:45,0
+from
+
+292
+00:47:45,0 --> 00:47:45,0
+the
+
+293
+00:47:45,0 --> 00:47:45,0
+dust;
+
+294
+00:47:45,0 --> 00:47:45,0
+
+
+295
+00:47:45,0 --> 00:47:45,0
+arise,
+
+296
+00:47:45,0 --> 00:47:45,0
+sit
+
+297
+00:47:45,0 --> 00:47:45,0
+down,
+
+298
+00:47:45,0 --> 00:47:45,0
+O
+
+299
+00:47:45,0 --> 00:47:45,0
+
+
+300
+00:47:45,0 --> 00:47:45,0
+
+
+301
+00:47:45,0 --> 00:47:45,0
+Jerusalem;
+
+302
+00:47:45,0 --> 00:47:45,0
+loose
+
+303
+00:47:45,0 --> 00:47:45,0
+
+
+304
+00:47:45,0 --> 00:47:45,0
+thyself
+
+305
+00:47:45,0 --> 00:47:45,0
+from
+
+306
+00:47:45,0 --> 00:47:45,0
+the
+
+307
+00:47:45,0 --> 00:47:45,0
+
+
+308
+00:47:45,0 --> 00:47:45,0
+bands
+
+309
+00:47:45,0 --> 00:47:45,0
+of
+
+310
+00:47:45,0 --> 00:47:45,0
+thy
+
+311
+00:47:45,0 --> 00:47:45,0
+neck,
+
+312
+00:47:45,0 --> 00:47:31,
+O captive daughter of Zion. 
+
+313
+00:47:31,0 --> 00:47:31,0
+Chapter 8 Jacob continues reading from Isaiah: In the last days, the Lord will comfort Zion and gather Israel—The redeemed will come to Zion amid great joy—Compare
+
+314
+00:47:31,0 --> 00:47:31,0
+
+
+315
+00:47:31,0 --> 00:47:31,0
+8
+
+316
+00:47:31,0 --> 00:47:31,0
+Jacob
+
+317
+00:47:31,0 --> 00:47:31,0
+
+
+318
+00:47:31,0 --> 00:47:31,0
+
+
+319
+00:47:31,0 --> 00:47:31,0
+continues
+
+320
+00:47:31,0 --> 00:47:31,0
+
+
+321
+00:47:31,0 --> 00:47:31,0
+reading
+
+322
+00:47:31,0 --> 00:47:31,0
+from
+
+323
+00:47:31,0 --> 00:47:31,0
+
+
+324
+00:47:31,0 --> 00:47:31,0
+Isaiah:
+
+325
+00:47:31,0 --> 00:47:31,0
+In
+
+326
+00:47:31,0 --> 00:47:31,0
+the
+
+327
+00:47:31,0 --> 00:47:31,0
+last
+
+328
+00:47:31,0 --> 00:47:31,0
+days,
+
+329
+00:47:31,0 --> 00:47:31,0
+the
+
+330
+00:47:31,0 --> 00:47:31,0
+
+
+331
+00:47:31,0 --> 00:47:31,0
+Lord
+
+332
+00:47:31,0 --> 00:47:31,0
+will
+
+333
+00:47:31,0 --> 00:47:31,0
+
+
+334
+00:47:31,0 --> 00:47:31,0
+comfort
+
+335
+00:47:31,0 --> 00:47:31,0
+Zion
+
+336
+00:47:31,0 --> 00:47:31,0
+and
+
+337
+00:47:31,0 --> 00:47:31,0
+
+
+338
+00:47:31,0 --> 00:47:31,0
+gather
+
+339
+00:47:31,0 --> 00:47:31,0
+
+
+340
+00:47:31,0 --> 00:47:31,0
+
+
+341
+00:47:31,0 --> 00:47:31,0
+Israel—The
+
+342
+00:47:31,0 --> 00:47:31,0
+
+
+343
+00:47:31,0 --> 00:47:31,0
+redeemed
+
+344
+00:47:31,0 --> 00:47:31,0
+will
+
+345
+00:47:31,0 --> 00:47:31,0
+come
+
+346
+00:47:31,0 --> 00:47:31,0
+to
+
+347
+00:47:31,0 --> 00:47:31,0
+Zion
+
+348
+00:47:31,0 --> 00:47:31,0
+
+
+349
+00:47:31,0 --> 00:47:31,0
+amid
+
+350
+00:47:31,0 --> 00:47:31,0
+great
+
+351
+00:47:31,0 --> 00:47:31,0
+
+
+352
+00:47:31,0 --> 00:47:31,0
+
+
+353
+00:47:31,0 --> 00:47:17,
+joy—Compare 
 

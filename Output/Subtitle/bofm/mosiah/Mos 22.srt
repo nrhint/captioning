@@ -1,320 +1,668 @@
 1
-00:00:00,0 --> 00:00:01,75
-Chapter 22 Plans are made for the people to escape
+00:00:00,0 --> 00:00:00,0
+Chapter 22 Plans are made for the people to
 
 2
-00:00:01,75 --> 00:00:03,5
- from Lamanite bondage—The Lamanites are made
+00:00:00,0 --> 00:00:00,0
+escape from Lamanite bondage—The Lamanites are made
 
 3
-00:00:03,5 --> 00:00:05,25
- drunk—The people escape, return to Zarahemla, and
+00:00:00,0 --> 00:00:00,0
+drunk—The people escape, return to Zarahemla, and
 
 4
-00:00:05,25 --> 00:00:07,0
- become subject to King Mosiah. About 121–120 B.C.
+00:00:00,0 --> 00:14:52,
+become subject to King Mosiah. About 121–120 B.C. 
 
 5
-00:00:07,975 --> 00:00:09,118
-1 And now it came to pass that Ammon and king
+00:14:52,0 --> 00:14:52,0
+1 And now it came to pass that Ammon and
 
 6
-00:00:09,118 --> 00:00:10,261
- Limhi began to consult with the people how they should
+00:14:52,0 --> 00:14:52,0
+king Limhi began to consult with the people
 
 7
-00:00:10,261 --> 00:00:11,404
- deliver themselves out of bondage; and even they
+00:14:52,0 --> 00:14:52,0
+how they should deliver themselves out of
 
 8
-00:00:11,404 --> 00:00:12,547
- did cause that all the people should gather
+00:14:52,0 --> 00:14:52,0
+bondage; and even they did cause that all
 
 9
-00:00:12,547 --> 00:00:13,69
- themselves together; and this they did that they might
+00:14:52,0 --> 00:14:52,0
+the people should gather themselves
 
 10
-00:00:13,69 --> 00:00:14,833
- have the voice of the people concerning the matter
+00:14:52,0 --> 00:14:52,0
+together; and this they did that they might
 
 11
-00:00:14,833 --> 00:00:15,976
-
+00:14:52,0 --> 00:14:24,
+have the voice of the people concerning the matter.
 
 12
-00:00:15,949 --> 00:00:17,949
-2 And it came to pass that they could find no way
+00:14:24,0 --> 00:14:24,0
+2 And it came to pass that they could
 
 13
-00:00:17,949 --> 00:00:19,949
- to deliver themselves out of bondage, except it
+00:14:24,0 --> 00:14:24,0
+find no way to deliver themselves out
 
 14
-00:00:19,949 --> 00:00:21,949
- were to take their women and children, and their
+00:14:24,0 --> 00:14:24,0
+of bondage, except it were to take
 
 15
-00:00:21,949 --> 00:00:23,949
- flocks, and their herds, and their tents, and depart
+00:14:24,0 --> 00:14:24,0
+their women and children, and their
 
 16
-00:00:23,949 --> 00:00:25,949
- into the wilderness; for the Lamanites being so
+00:14:24,0 --> 00:14:24,0
+flocks, and their herds, and their tents,
 
 17
-00:00:25,949 --> 00:00:27,949
- numerous, it was impossible for the people of Limhi
+00:14:24,0 --> 00:14:24,0
+and depart into the wilderness; for the
 
 18
-00:00:27,949 --> 00:00:29,949
- to contend with them, thinking to deliver
+00:14:24,0 --> 00:14:24,0
+Lamanites being so numerous, it was
 
 19
-00:00:29,949 --> 00:00:31,949
- themselves out of bondage by the sword
+00:14:24,0 --> 00:14:24,0
+impossible for the people of Limhi to
 
 20
-00:00:31,899 --> 00:00:35,099
-3 Now it came to pass that Gideon went forth and
+00:14:24,0 --> 00:14:24,0
+contend with them, thinking to deliver
 
 21
-00:00:35,099 --> 00:00:38,299
- stood before the king, and said unto him: Now O
+00:14:24,0 --> 00:16:22,
+themselves out of bondage by the sword.
 
 22
-00:00:38,299 --> 00:00:41,499
- king, thou hast hitherto hearkened unto my words many
+00:16:22,0 --> 00:16:22,0
+3 Now it came to pass that Gideon
 
 23
-00:00:41,499 --> 00:00:44,699
- times when we have been contending with our
+00:16:22,0 --> 00:16:22,0
+went forth and stood before the king,
 
 24
-00:00:44,699 --> 00:00:47,899
- brethren, the Lamanites
+00:16:22,0 --> 00:16:22,0
+and said unto him: Now O king, thou
 
 25
-00:00:47,848 --> 00:00:48,991
-4 And now O king, if thou hast not found me to be
+00:16:22,0 --> 00:16:22,0
+hast hitherto hearkened unto my
 
 26
-00:00:48,991 --> 00:00:50,134
- an unprofitable servant, or if thou hast hitherto
+00:16:22,0 --> 00:16:22,0
+words many times when we have been
 
 27
-00:00:50,134 --> 00:00:51,277
- listened to my words in any degree, and they have
+00:16:22,0 --> 00:17:52,
+contending with our brethren, the Lamanites.
 
 28
-00:00:51,277 --> 00:00:52,42
- been of service to thee, even so I desire that
+00:17:52,0 --> 00:17:52,0
+4 And now O king, if thou hast not
 
 29
-00:00:52,42 --> 00:00:53,563
- thou wouldst listen to my words at this time, and I
+00:17:52,0 --> 00:17:52,0
+found me to be an unprofitable
 
 30
-00:00:53,563 --> 00:00:54,706
- will be thy servant and deliver this people out of
+00:17:52,0 --> 00:17:52,0
+servant, or if thou hast hitherto
 
 31
-00:00:54,706 --> 00:00:55,849
- bondage
+00:17:52,0 --> 00:17:52,0
+listened to my words in any degree,
 
 32
-00:00:55,822 --> 00:00:59,822
-5 And the king granted unto him that he might
+00:17:52,0 --> 00:17:52,0
+and they have been of service to
 
 33
-00:00:59,822 --> 00:01:03,822
- speak. And Gideon said unto him
+00:17:52,0 --> 00:17:52,0
+thee, even so I desire that thou
 
 34
-00:01:03,797 --> 00:01:04,94
-6 Behold the back pass, through the back wall, on
+00:17:52,0 --> 00:17:52,0
+wouldst listen to my words at this
 
 35
-00:01:04,94 --> 00:01:06,083
- the back side of the city. The Lamanites, or the
+00:17:52,0 --> 00:17:52,0
+time, and I will be thy servant and
 
 36
-00:01:06,083 --> 00:01:07,226
- guards of the Lamanites, by night are drunken;
+00:17:52,0 --> 00:17:24,
+deliver this people out of bondage.
 
 37
-00:01:07,226 --> 00:01:08,369
- therefore let us send a proclamation among all this
+00:17:24,0 --> 00:17:24,0
+5 And the king granted
 
 38
-00:01:08,369 --> 00:01:09,512
- people that they gather together their flocks and
+00:17:24,0 --> 00:17:24,0
+unto him that he might speak.
 
 39
-00:01:09,512 --> 00:01:10,655
- herds, that they may drive them into the wilderness
+00:17:24,0 --> 00:18:22,
+And Gideon said unto him:
 
 40
-00:01:10,655 --> 00:01:11,798
- by night
+00:18:22,0 --> 00:18:22,0
+6 Behold the back pass,
 
 41
-00:01:11,772 --> 00:01:13,372
-7 And I will go according to thy command and pay
+00:18:22,0 --> 00:18:22,0
+through the back wall, on
 
 42
-00:01:13,372 --> 00:01:14,972
- the last tribute of wine to the Lamanites, and they
+00:18:22,0 --> 00:18:22,0
+the back side of the
 
 43
-00:01:14,972 --> 00:01:16,572
- will be drunken; and we will pass through the
+00:18:22,0 --> 00:18:22,0
+city. The Lamanites, or the
 
 44
-00:01:16,572 --> 00:01:18,172
- secret pass on the left of their camp when they are
+00:18:22,0 --> 00:18:22,0
+guards of the Lamanites,
 
 45
-00:01:18,172 --> 00:01:19,772
- drunken and asleep
+00:18:22,0 --> 00:18:22,0
+by night are drunken;
 
 46
-00:01:19,746 --> 00:01:22,413
-8 Thus we will depart with our women and our
+00:18:22,0 --> 00:18:22,0
+therefore let us send a
 
 47
-00:01:22,413 --> 00:01:25,08
- children, our flocks, and our herds into the
+00:18:22,0 --> 00:18:22,0
+proclamation among all this
 
 48
-00:01:25,08 --> 00:01:27,747
- wilderness; and we will travel around the land of Shilom
+00:18:22,0 --> 00:18:22,0
+people that they gather
 
 49
-00:01:27,721 --> 00:01:31,721
-9 And it came to pass that the king hearkened unto
+00:18:22,0 --> 00:18:22,0
+together their flocks and
 
 50
-00:01:31,721 --> 00:01:35,721
- the words of Gideon
+00:18:22,0 --> 00:18:22,0
+herds, that they may drive
 
 51
-00:01:35,696 --> 00:01:37,029
-10 And king Limhi caused that his people should
+00:18:22,0 --> 00:17:54,
+them into the wilderness by night.
 
 52
-00:01:37,029 --> 00:01:38,362
- gather their flocks together; and he sent the
+00:17:54,0 --> 00:17:54,0
+7 And I will go
 
 53
-00:01:38,362 --> 00:01:39,695
- tribute of wine to the Lamanites; and he also sent more
+00:17:54,0 --> 00:17:54,0
+according to thy command and pay
 
 54
-00:01:39,695 --> 00:01:41,028
- wine, as a present unto them; and they did drink
+00:17:54,0 --> 00:17:54,0
+the last tribute of
 
 55
-00:01:41,028 --> 00:01:42,361
- freely of the wine which king Limhi did send unto
+00:17:54,0 --> 00:17:54,0
+wine to the Lamanites, and
 
 56
-00:01:42,361 --> 00:01:43,694
- them
+00:17:54,0 --> 00:17:54,0
+they will be drunken;
 
 57
-00:01:43,67 --> 00:01:45,003
-11 And it came to pass that the people of king
+00:17:54,0 --> 00:17:54,0
+and we will pass through
 
 58
-00:01:45,003 --> 00:01:46,336
- Limhi did depart by night into the wilderness with
+00:17:54,0 --> 00:17:54,0
+the secret pass on the
 
 59
-00:01:46,336 --> 00:01:47,669
- their flocks and their herds, and they went round
+00:17:54,0 --> 00:17:54,0
+left of their camp when
 
 60
-00:01:47,669 --> 00:01:49,002
- about the land of Shilom in the wilderness, and bent
+00:17:54,0 --> 00:17:26,
+they are drunken and asleep.
 
 61
-00:01:49,002 --> 00:01:50,335
- their course towards the land of Zarahemla, being
+00:17:26,0 --> 00:17:26,0
+8 Thus we will depart
 
 62
-00:01:50,335 --> 00:01:51,668
- led by Ammon and his brethren
+00:17:26,0 --> 00:17:26,0
+with our women and
 
 63
-00:01:51,645 --> 00:01:53,645
-12 And they had taken all their gold, and silver,
+00:17:26,0 --> 00:17:26,0
+our children, our
 
 64
-00:01:53,645 --> 00:01:55,645
- and their precious things, which they could carry,
+00:17:26,0 --> 00:17:26,0
+flocks, and our herds
 
 65
-00:01:55,645 --> 00:01:57,645
- and also their provisions with them, into the
+00:17:26,0 --> 00:17:26,0
+into the wilderness; and
 
 66
-00:01:57,645 --> 00:01:59,645
- wilderness; and they pursued their journey
+00:17:26,0 --> 00:17:26,0
+we will travel
 
 67
-00:01:59,62 --> 00:02:02,287
-13 And after being many days in the wilderness
+00:17:26,0 --> 00:17:56,
+around the land of Shilom.
 
 68
-00:02:02,287 --> 00:02:04,954
- they arrived in the land of Zarahemla, and joined
+00:17:56,0 --> 00:17:56,0
+9 And it came to
 
 69
-00:02:04,954 --> 00:02:07,621
- Mosiah’s people, and became his subjects
+00:17:56,0 --> 00:17:56,0
+pass that the
 
 70
-00:02:07,594 --> 00:02:09,594
-14 And it came to pass that Mosiah received them
+00:17:56,0 --> 00:17:56,0
+king hearkened unto
 
 71
-00:02:09,594 --> 00:02:11,594
- with joy; and he also received their records, and
+00:17:56,0 --> 00:17:28,
+the words of Gideon.
 
 72
-00:02:11,594 --> 00:02:13,594
- also the records which had been found by the people
+00:17:28,0 --> 00:17:28,0
+10 And king
 
 73
-00:02:13,594 --> 00:02:15,594
- of Limhi
+00:17:28,0 --> 00:17:28,0
+Limhi caused that
 
 74
-00:02:15,569 --> 00:02:17,569
-15 And now it came to pass when the Lamanites had
+00:17:28,0 --> 00:17:28,0
+his people should
 
 75
-00:02:17,569 --> 00:02:19,569
- found that the people of Limhi had departed out of
+00:17:28,0 --> 00:17:28,0
+gather their
 
 76
-00:02:19,569 --> 00:02:21,569
- the land by night, that they sent an army into
+00:17:28,0 --> 00:17:28,0
+flocks together;
 
 77
-00:02:21,569 --> 00:02:23,569
- the wilderness to pursue them
+00:17:28,0 --> 00:17:28,0
+and he sent the
 
 78
-00:02:23,543 --> 00:02:26,21
-16 And after they had pursued them two days, they
+00:17:28,0 --> 00:17:28,0
+tribute of wine to
 
 79
-00:02:26,21 --> 00:02:28,877
- could no longer follow their tracks; therefore
+00:17:28,0 --> 00:17:28,0
+the Lamanites;
 
 80
-00:02:28,877 --> 00:02:31,544
- they were lost in the wilderness.
+00:17:28,0 --> 00:17:28,0
+and he also sent
+
+81
+00:17:28,0 --> 00:17:28,0
+more wine, as a
+
+82
+00:17:28,0 --> 00:17:28,0
+present unto
+
+83
+00:17:28,0 --> 00:17:28,0
+them; and they did
+
+84
+00:17:28,0 --> 00:17:28,0
+drink freely of
+
+85
+00:17:28,0 --> 00:17:28,0
+the wine which
+
+86
+00:17:28,0 --> 00:18:26,
+king Limhi did send unto them.
+
+87
+00:18:26,0 --> 00:18:26,0
+11 And it came
+
+88
+00:18:26,0 --> 00:18:26,0
+to pass that
+
+89
+00:18:26,0 --> 00:18:26,0
+the people of
+
+90
+00:18:26,0 --> 00:18:26,0
+king Limhi did
+
+91
+00:18:26,0 --> 00:18:26,0
+depart by night
+
+92
+00:18:26,0 --> 00:18:26,0
+into the
+
+93
+00:18:26,0 --> 00:18:26,0
+wilderness with their
+
+94
+00:18:26,0 --> 00:18:26,0
+flocks and their
+
+95
+00:18:26,0 --> 00:18:26,0
+herds, and
+
+96
+00:18:26,0 --> 00:18:26,0
+they went round
+
+97
+00:18:26,0 --> 00:18:26,0
+about the land of
+
+98
+00:18:26,0 --> 00:18:26,0
+Shilom in the
+
+99
+00:18:26,0 --> 00:18:26,0
+wilderness, and
+
+100
+00:18:26,0 --> 00:18:26,0
+bent their
+
+101
+00:18:26,0 --> 00:18:26,0
+course towards the
+
+102
+00:18:26,0 --> 00:18:26,0
+land of
+
+103
+00:18:26,0 --> 00:18:26,0
+Zarahemla, being led
+
+104
+00:18:26,0 --> 00:19:38,
+by Ammon and his brethren.
+
+105
+00:19:38,0 --> 00:19:38,0
+12 And they
+
+106
+00:19:38,0 --> 00:19:38,0
+had taken all
+
+107
+00:19:38,0 --> 00:19:38,0
+their gold, and
+
+108
+00:19:38,0 --> 00:19:38,0
+silver, and
+
+109
+00:19:38,0 --> 00:19:38,0
+their precious
+
+110
+00:19:38,0 --> 00:19:38,0
+things, which
+
+111
+00:19:38,0 --> 00:19:38,0
+they could
+
+112
+00:19:38,0 --> 00:19:38,0
+carry, and also
+
+113
+00:19:38,0 --> 00:19:38,0
+their provisions
+
+114
+00:19:38,0 --> 00:19:38,0
+with them,
+
+115
+00:19:38,0 --> 00:19:38,0
+into the
+
+116
+00:19:38,0 --> 00:19:38,0
+wilderness; and they
+
+117
+00:19:38,0 --> 00:23:23,
+pursued their journey.
+
+118
+00:23:23,0 --> 00:23:23,0
+13 And after
+
+119
+00:23:23,0 --> 00:23:23,0
+being many
+
+120
+00:23:23,0 --> 00:23:23,0
+days in the
+
+121
+00:23:23,0 --> 00:23:23,0
+wilderness they
+
+122
+00:23:23,0 --> 00:23:23,0
+arrived in
+
+123
+00:23:23,0 --> 00:23:23,0
+the land of
+
+124
+00:23:23,0 --> 00:23:23,0
+Zarahemla, and
+
+125
+00:23:23,0 --> 00:23:23,0
+joined
+
+126
+00:23:23,0 --> 00:23:23,0
+Mosiah’s people, and
+
+127
+00:23:23,0 --> 00:27:22,
+became his subjects.
+
+128
+00:27:22,0 --> 00:27:22,0
+14 And it
+
+129
+00:27:22,0 --> 00:27:22,0
+came to pass
+
+130
+00:27:22,0 --> 00:27:22,0
+that Mosiah
+
+131
+00:27:22,0 --> 00:27:22,0
+received them
+
+132
+00:27:22,0 --> 00:27:22,0
+with joy;
+
+133
+00:27:22,0 --> 00:27:22,0
+and he also
+
+134
+00:27:22,0 --> 00:27:22,0
+received
+
+135
+00:27:22,0 --> 00:27:22,0
+their records,
+
+136
+00:27:22,0 --> 00:27:22,0
+and also the
+
+137
+00:27:22,0 --> 00:27:22,0
+records
+
+138
+00:27:22,0 --> 00:27:22,0
+which had been
+
+139
+00:27:22,0 --> 00:27:22,0
+found by the
+
+140
+00:27:22,0 --> 00:30:18,
+people of Limhi.
+
+141
+00:30:18,0 --> 00:30:18,0
+15 And now
+
+142
+00:30:18,0 --> 00:30:18,0
+it came to
+
+143
+00:30:18,0 --> 00:30:18,0
+pass when
+
+144
+00:30:18,0 --> 00:30:18,0
+the
+
+145
+00:30:18,0 --> 00:30:18,0
+Lamanites had found
+
+146
+00:30:18,0 --> 00:30:18,0
+that the
+
+147
+00:30:18,0 --> 00:30:18,0
+people of
+
+148
+00:30:18,0 --> 00:30:18,0
+Limhi had
+
+149
+00:30:18,0 --> 00:30:18,0
+departed out
+
+150
+00:30:18,0 --> 00:30:18,0
+of the land
+
+151
+00:30:18,0 --> 00:30:18,0
+by night,
+
+152
+00:30:18,0 --> 00:30:18,0
+that they
+
+153
+00:30:18,0 --> 00:30:18,0
+sent an army
+
+154
+00:30:18,0 --> 00:30:18,0
+into the
+
+155
+00:30:18,0 --> 00:33:49,
+wilderness to pursue them;
+
+156
+00:33:49,0 --> 00:33:49,0
+16 And
+
+157
+00:33:49,0 --> 00:33:49,0
+after they
+
+158
+00:33:49,0 --> 00:33:49,0
+had pursued
+
+159
+00:33:49,0 --> 00:33:49,0
+them two
+
+160
+00:33:49,0 --> 00:33:49,0
+days, they
+
+161
+00:33:49,0 --> 00:33:49,0
+could no
+
+162
+00:33:49,0 --> 00:33:49,0
+longer
+
+163
+00:33:49,0 --> 00:33:49,0
+follow their
+
+164
+00:33:49,0 --> 00:33:49,0
+tracks;
+
+165
+00:33:49,0 --> 00:33:49,0
+therefore
+
+166
+00:33:49,0 --> 00:33:49,0
+they were
+
+167
+00:33:49,0 --> 00:33:21,
+lost in the wilderness. 
 

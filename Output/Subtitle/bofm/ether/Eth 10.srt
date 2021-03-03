@@ -1,664 +1,5956 @@
 1
-00:00:00,0 --> 00:00:01,75
-Chapter 10 One king succeeds another—Some of the
+00:00:00,0 --> 00:00:00,0
+Chapter 10 One king succeeds another—Some
 
 2
-00:00:01,75 --> 00:00:03,5
- kings are righteous; others are wicked—When
+00:00:00,0 --> 00:00:00,0
+of the kings are righteous; others are
 
 3
-00:00:03,5 --> 00:00:05,25
- righteousness prevails, the people are blessed and
+00:00:00,0 --> 00:00:00,0
+wicked—When righteousness prevails, the
 
 4
-00:00:05,25 --> 00:00:07,0
- prospered by the Lord.
+00:00:00,0 --> 00:11:43,
+people are blessed and prospered by the Lord. 
 
 5
-00:00:07,975 --> 00:00:09,975
-1 And it came to pass that Shez, who was a
+00:11:43,0 --> 00:11:43,0
+1 And it came to pass that Shez, who
 
 6
-00:00:09,975 --> 00:00:11,975
- descendant of Heth—for Heth had perished by the famine,
+00:11:43,0 --> 00:11:43,0
+was a descendant of Heth—for Heth had
 
 7
-00:00:11,975 --> 00:00:13,975
- and all his household save it were Shez—wherefore,
+00:11:43,0 --> 00:11:43,0
+perished by the famine, and all his
 
 8
-00:00:13,975 --> 00:00:15,975
- Shez began to build up again a broken people
+00:11:43,0 --> 00:11:43,0
+household save it were Shez—wherefore, Shez
 
 9
-00:00:15,949 --> 00:00:17,282
-2 And it came to pass that Shez did remember the
+00:11:43,0 --> 00:13:55,
+began to build up again a broken people.
 
 10
-00:00:17,282 --> 00:00:18,615
- destruction of his fathers, and he did build up a
+00:13:55,0 --> 00:13:55,0
+2 And it came to pass that Shez did
 
 11
-00:00:18,615 --> 00:00:19,948
- righteous kingdom; for he remembered what the Lord
+00:13:55,0 --> 00:13:55,0
+remember the destruction of his
 
 12
-00:00:19,948 --> 00:00:21,281
- had done in bringing Jared and his brother across
+00:13:55,0 --> 00:13:55,0
+fathers, and he did build up a
 
 13
-00:00:21,281 --> 00:00:22,614
- the deep; and he did walk in the ways of the Lord;
+00:13:55,0 --> 00:13:55,0
+righteous kingdom; for he remembered what
 
 14
-00:00:22,614 --> 00:00:23,947
- and he begat sons and daughters
+00:13:55,0 --> 00:13:55,0
+the Lord had done in bringing
 
 15
-00:00:23,924 --> 00:00:25,924
-3 And his eldest son, whose name was Shez, did
+00:13:55,0 --> 00:13:55,0
+Jared and his brother across the deep;
 
 16
-00:00:25,924 --> 00:00:27,924
- rebel against him; nevertheless, Shez was smitten by
+00:13:55,0 --> 00:13:55,0
+and he did walk in the ways of the
 
 17
-00:00:27,924 --> 00:00:29,924
- the hand of a robber, because of his exceeding
+00:13:55,0 --> 00:13:27,
+Lord; and he begat sons and daughters.
 
 18
-00:00:29,924 --> 00:00:31,924
- riches, which brought peace again unto his father
+00:13:27,0 --> 00:13:27,0
+3 And his eldest son, whose name
 
 19
-00:00:31,899 --> 00:00:33,232
-4 And it came to pass that his father did build up
+00:13:27,0 --> 00:13:27,0
+was Shez, did rebel against
 
 20
-00:00:33,232 --> 00:00:34,565
- many cities upon the face of the land, and the
+00:13:27,0 --> 00:13:27,0
+him; nevertheless, Shez was smitten
 
 21
-00:00:34,565 --> 00:00:35,898
- people began again to spread over all the face of
+00:13:27,0 --> 00:13:27,0
+by the hand of a robber,
 
 22
-00:00:35,898 --> 00:00:37,231
- the land. And Shez did live to an exceedingly old
+00:13:27,0 --> 00:13:27,0
+because of his exceeding riches, which
 
 23
-00:00:37,231 --> 00:00:38,564
- age; and he begat Riplakish. And he died, and
+00:13:27,0 --> 00:12:59,
+brought peace again unto his father.
 
 24
-00:00:38,564 --> 00:00:39,897
- Riplakish reigned in his stead
+00:12:59,0 --> 00:12:59,0
+4 And it came to pass that his
 
 25
-00:00:39,873 --> 00:00:41,016
-5 And it came to pass that Riplakish did not do
+00:12:59,0 --> 00:12:59,0
+father did build up many
 
 26
-00:00:41,016 --> 00:00:42,159
- that which was right in the sight of the Lord, for
+00:12:59,0 --> 00:12:59,0
+cities upon the face of the land,
 
 27
-00:00:42,159 --> 00:00:43,302
- he did have many wives and concubines, and did lay
+00:12:59,0 --> 00:12:59,0
+and the people began again to
 
 28
-00:00:43,302 --> 00:00:44,445
- that upon men’s shoulders which was grievous to be
+00:12:59,0 --> 00:12:59,0
+spread over all the face of
 
 29
-00:00:44,445 --> 00:00:45,588
- borne; yea, he did tax them with heavy taxes; and
+00:12:59,0 --> 00:12:59,0
+the land. And Shez did live to
 
 30
-00:00:45,588 --> 00:00:46,731
- with the taxes he did build many spacious
+00:12:59,0 --> 00:12:59,0
+an exceedingly old age; and he
 
 31
-00:00:46,731 --> 00:00:47,874
- buildings
+00:12:59,0 --> 00:12:59,0
+begat Riplakish. And he died,
 
 32
-00:00:47,848 --> 00:00:48,991
-6 And he did erect him an exceedingly beautiful
+00:12:59,0 --> 00:15:11,
+and Riplakish reigned in his stead.
 
 33
-00:00:48,991 --> 00:00:50,134
- throne; and he did build many prisons, and whoso
+00:15:11,0 --> 00:15:11,0
+5 And it came to pass that
 
 34
-00:00:50,134 --> 00:00:51,277
- would not be subject unto taxes he did cast into
+00:15:11,0 --> 00:15:11,0
+Riplakish did not do that
 
 35
-00:00:51,277 --> 00:00:52,42
- prison; and whoso was not able to pay taxes he did
+00:15:11,0 --> 00:15:11,0
+which was right in the sight
 
 36
-00:00:52,42 --> 00:00:53,563
- cast into prison; and he did cause that they should
+00:15:11,0 --> 00:15:11,0
+of the Lord, for he did
 
 37
-00:00:53,563 --> 00:00:54,706
- labor continually for their support; and whoso
+00:15:11,0 --> 00:15:11,0
+have many wives and
 
 38
-00:00:54,706 --> 00:00:55,849
- refused to labor he did cause to be put to death
+00:15:11,0 --> 00:15:11,0
+concubines, and did lay that upon
 
 39
-00:00:55,822 --> 00:00:57,155
-7 Wherefore he did obtain all his fine work, yea,
+00:15:11,0 --> 00:15:11,0
+men’s shoulders which was
 
 40
-00:00:57,155 --> 00:00:58,488
- even his fine gold he did cause to be refined in
+00:15:11,0 --> 00:15:11,0
+grievous to be borne; yea, he
 
 41
-00:00:58,488 --> 00:00:59,821
- prison; and all manner of fine workmanship he did
+00:15:11,0 --> 00:15:11,0
+did tax them with heavy
 
 42
-00:00:59,821 --> 00:01:01,154
- cause to be wrought in prison. And it came to pass
+00:15:11,0 --> 00:15:11,0
+taxes; and with the taxes he
 
 43
-00:01:01,154 --> 00:01:02,487
- that he did afflict the people with his whoredoms
+00:15:11,0 --> 00:30:39,
+did build many spacious buildings.
 
 44
-00:01:02,487 --> 00:01:03,82
- and abominations
+00:30:39,0 --> 00:30:39,0
+6 And he did erect him an
 
 45
-00:01:03,797 --> 00:01:05,397
-8 And when he had reigned for the space of forty
+00:30:39,0 --> 00:30:39,0
+exceedingly beautiful
 
 46
-00:01:05,397 --> 00:01:06,997
- and two years the people did rise up in rebellion
+00:30:39,0 --> 00:30:39,0
+throne; and he did build many
 
 47
-00:01:06,997 --> 00:01:08,597
- against him; and there began to be war again in the
+00:30:39,0 --> 00:30:39,0
+prisons, and whoso would
 
 48
-00:01:08,597 --> 00:01:10,197
- land, insomuch that Riplakish was killed, and his
+00:30:39,0 --> 00:30:39,0
+not be subject unto taxes
 
 49
-00:01:10,197 --> 00:01:11,797
- descendants were driven out of the land
+00:30:39,0 --> 00:30:39,0
+he did cast into prison;
 
 50
-00:01:11,772 --> 00:01:13,772
-9 And it came to pass after the space of many
+00:30:39,0 --> 00:30:39,0
+and whoso was not able to
 
 51
-00:01:13,772 --> 00:01:15,772
- years, Morianton, (he being a descendant of Riplakish)
+00:30:39,0 --> 00:30:39,0
+pay taxes he did cast into
 
 52
-00:01:15,772 --> 00:01:17,772
- gathered together an army of outcasts, and went
+00:30:39,0 --> 00:30:39,0
+prison; and he did cause
 
 53
-00:01:17,772 --> 00:01:19,772
- forth and gave battle unto the people; and he
+00:30:39,0 --> 00:30:39,0
+that they should labor
 
 54
-00:01:19,772 --> 00:01:21,772
- gained power over many cities; and the war became
+00:30:39,0 --> 00:30:39,0
+continually for their support;
 
 55
-00:01:21,772 --> 00:01:23,772
- exceedingly sore, and did last for the space of many
+00:30:39,0 --> 00:30:39,0
+and whoso refused to labor
 
 56
-00:01:23,772 --> 00:01:25,772
- years; and he did gain power over all the land, and
+00:30:39,0 --> 00:36:49,
+he did cause to be put to death.
 
 57
-00:01:25,772 --> 00:01:27,772
- did establish himself king over all the land
+00:36:49,0 --> 00:36:49,0
+7 Wherefore he did
 
 58
-00:01:27,721 --> 00:01:29,721
-10 And after that he had established himself king
+00:36:49,0 --> 00:36:49,0
+obtain all his fine work,
 
 59
-00:01:29,721 --> 00:01:31,721
- he did ease the burden of the people, by which he
+00:36:49,0 --> 00:36:49,0
+yea, even his fine gold he
 
 60
-00:01:31,721 --> 00:01:33,721
- did gain favor in the eyes of the people, and they
+00:36:49,0 --> 00:36:49,0
+did cause to be refined
 
 61
-00:01:33,721 --> 00:01:35,721
- did anoint him to be their king
+00:36:49,0 --> 00:36:49,0
+in prison; and all
 
 62
-00:01:35,696 --> 00:01:38,363
-11 And he did do justice unto the people, but not
+00:36:49,0 --> 00:36:49,0
+manner of fine workmanship he
 
 63
-00:01:38,363 --> 00:01:41,03
- unto himself because of his many whoredoms;
+00:36:49,0 --> 00:36:49,0
+did cause to be wrought
 
 64
-00:01:41,03 --> 00:01:43,697
- wherefore he was cut off from the presence of the Lord
+00:36:49,0 --> 00:36:49,0
+in prison. And it came
 
 65
-00:01:43,67 --> 00:01:45,003
-12 And it came to pass that Morianton built up
+00:36:49,0 --> 00:36:49,0
+to pass that he did
 
 66
-00:01:45,003 --> 00:01:46,336
- many cities, and the people became exceedingly rich
+00:36:49,0 --> 00:36:49,0
+afflict the people with his
 
 67
-00:01:46,336 --> 00:01:47,669
- under his reign, both in buildings, and in gold and
+00:36:49,0 --> 00:46:16,
+whoredoms and abominations.
 
 68
-00:01:47,669 --> 00:01:49,002
- silver, and in raising grain, and in flocks, and
+00:46:16,0 --> 00:46:16,0
+8 And when he had
 
 69
-00:01:49,002 --> 00:01:50,335
- herds, and such things which had been restored
+00:46:16,0 --> 00:46:16,0
+reigned for the space of
 
 70
-00:01:50,335 --> 00:01:51,668
- unto them
+00:46:16,0 --> 00:46:16,0
+forty and two years
 
 71
-00:01:51,645 --> 00:01:52,978
-13 And Morianton did live to an exceedingly great
+00:46:16,0 --> 00:46:16,0
+the people did rise
 
 72
-00:01:52,978 --> 00:01:54,311
- age, and then he begat Kim; and Kim did reign in
+00:46:16,0 --> 00:46:16,0
+up in rebellion
 
 73
-00:01:54,311 --> 00:01:55,644
- the stead of his father; and he did reign eight
+00:46:16,0 --> 00:46:16,0
+against him; and there
 
 74
-00:01:55,644 --> 00:01:56,977
- years, and his father died. And it came to pass that
+00:46:16,0 --> 00:46:16,0
+began to be war again in
 
 75
-00:01:56,977 --> 00:01:58,31
- Kim did not reign in righteousness, wherefore he
+00:46:16,0 --> 00:46:16,0
+the land, insomuch
 
 76
-00:01:58,31 --> 00:01:59,643
- was not favored of the Lord
+00:46:16,0 --> 00:46:16,0
+that Riplakish was
 
 77
-00:01:59,62 --> 00:02:01,219
-14 And his brother did rise up in rebellion
+00:46:16,0 --> 00:46:16,0
+killed, and his
 
 78
-00:02:01,219 --> 00:02:02,82
- against him, by which he did bring him into captivity;
+00:46:16,0 --> 00:48:28,
+descendants were driven out of the land.
 
 79
-00:02:02,82 --> 00:02:04,419
- and he did remain in captivity all his days; and he
+00:48:28,0 --> 00:48:28,0
+9 And it came to
 
 80
-00:02:04,419 --> 00:02:06,02
- begat sons and daughters in captivity, and in his
+00:48:28,0 --> 00:48:28,0
+pass after the space of
 
 81
-00:02:06,02 --> 00:02:07,62
- old age he begat Levi; and he died
+00:48:28,0 --> 00:48:28,0
+many years,
 
 82
-00:02:07,594 --> 00:02:09,194
-15 And it came to pass that Levi did serve in
+00:48:28,0 --> 00:48:28,0
+Morianton, (he being a
 
 83
-00:02:09,194 --> 00:02:10,794
- captivity after the death of his father, for the space
+00:48:28,0 --> 00:48:28,0
+descendant of Riplakish)
 
 84
-00:02:10,794 --> 00:02:12,394
- of forty and two years. And he did make war
+00:48:28,0 --> 00:48:28,0
+gathered together
 
 85
-00:02:12,394 --> 00:02:13,994
- against the king of the land, by which he did obtain
+00:48:28,0 --> 00:48:28,0
+an army of outcasts,
 
 86
-00:02:13,994 --> 00:02:15,594
- unto himself the kingdom
+00:48:28,0 --> 00:48:28,0
+and went forth and
 
 87
-00:02:15,569 --> 00:02:16,902
-16 And after he had obtained unto himself the
+00:48:28,0 --> 00:48:28,0
+gave battle unto the
 
 88
-00:02:16,902 --> 00:02:18,235
- kingdom he did that which was right in the sight of
+00:48:28,0 --> 00:48:28,0
+people; and he
 
 89
-00:02:18,235 --> 00:02:19,568
- the Lord; and the people did prosper in the land;
+00:48:28,0 --> 00:48:28,0
+gained power over many
 
 90
-00:02:19,568 --> 00:02:20,901
- and he did live to a good old age, and begat sons
+00:48:28,0 --> 00:48:28,0
+cities; and the war
 
 91
-00:02:20,901 --> 00:02:22,234
- and daughters; and he also begat Corom, whom he
+00:48:28,0 --> 00:48:28,0
+became exceedingly
 
 92
-00:02:22,234 --> 00:02:23,567
- anointed king in his stead
+00:48:28,0 --> 00:48:28,0
+sore, and did last for
 
 93
-00:02:23,543 --> 00:02:24,876
-17 And it came to pass that Corom did that which
+00:48:28,0 --> 00:48:28,0
+the space of many
 
 94
-00:02:24,876 --> 00:02:26,209
- was good in the sight of the Lord all his days; and
+00:48:28,0 --> 00:48:28,0
+years; and he did gain
 
 95
-00:02:26,209 --> 00:02:27,542
- he begat many sons and daughters; and after he
+00:48:28,0 --> 00:48:28,0
+power over all the
 
 96
-00:02:27,542 --> 00:02:28,875
- had seen many days he did pass away, even like unto
+00:48:28,0 --> 00:48:28,0
+land, and did
 
 97
-00:02:28,875 --> 00:02:30,208
- the rest of the earth; and Kish reigned in his
+00:48:28,0 --> 00:54:39,
+establish himself king over all the land.
 
 98
-00:02:30,208 --> 00:02:31,541
- stead
+00:54:39,0 --> 00:54:39,0
+10 And after that
 
 99
-00:02:31,518 --> 00:02:35,518
-18 And it came to pass that Kish passed away also,
+00:54:39,0 --> 00:54:39,0
+he had established
 
 100
-00:02:35,518 --> 00:02:39,518
- and Lib reigned in his stead
+00:54:39,0 --> 00:54:39,0
+himself king he
 
 101
-00:02:39,493 --> 00:02:40,636
-19 And it came to pass that Lib also did that
+00:54:39,0 --> 00:54:39,0
+did ease the burden
 
 102
-00:02:40,636 --> 00:02:41,779
- which was good in the sight of the Lord. And in the
+00:54:39,0 --> 00:54:39,0
+of the people, by
 
 103
-00:02:41,779 --> 00:02:42,922
- days of Lib the poisonous serpents were destroyed.
+00:54:39,0 --> 00:54:39,0
+which he did gain
 
 104
-00:02:42,922 --> 00:02:44,065
- Wherefore they did go into the land southward, to
+00:54:39,0 --> 00:54:39,0
+favor in the eyes
 
 105
-00:02:44,065 --> 00:02:45,208
- hunt food for the people of the land, for the land
+00:54:39,0 --> 00:54:39,0
+of the people,
 
 106
-00:02:45,208 --> 00:02:46,351
- was covered with animals of the forest. And Lib
+00:54:39,0 --> 00:54:39,0
+and they did anoint
 
 107
-00:02:46,351 --> 00:02:47,494
- also himself became a great hunter
+00:54:39,0 --> 00:59:50,
+him to be their king.
 
 108
-00:02:47,467 --> 00:02:50,134
-20 And they built a great city by the narrow neck
+00:59:50,0 --> 00:59:50,0
+11 And he did do
 
 109
-00:02:50,134 --> 00:02:52,801
- of land, by the place where the sea divides the
+00:59:50,0 --> 00:59:50,0
+justice unto
 
 110
-00:02:52,801 --> 00:02:55,468
- land
+00:59:50,0 --> 00:59:50,0
+the people, but
 
 111
-00:02:55,442 --> 00:02:58,109
-21 And they did preserve the land southward for a
+00:59:50,0 --> 00:59:50,0
+not unto himself
 
 112
-00:02:58,109 --> 00:03:00,776
- wilderness, to get game. And the whole face of the
+00:59:50,0 --> 00:59:50,0
+because of his
 
 113
-00:03:00,776 --> 00:03:03,443
- land northward was covered with inhabitants
+00:59:50,0 --> 00:59:50,0
+many whoredoms;
 
 114
-00:03:03,417 --> 00:03:06,084
-22 And they were exceedingly industrious, and they
+00:59:50,0 --> 00:59:50,0
+wherefore he was
 
 115
-00:03:06,084 --> 00:03:08,751
- did buy and sell and traffic one with another,
+00:59:50,0 --> 00:59:50,0
+cut off from the
 
 116
-00:03:08,751 --> 00:03:11,418
- that they might get gain
+00:59:50,0 --> 01:12:59,
+presence of the Lord.
 
 117
-00:03:11,391 --> 00:03:12,534
-23 And they did work in all manner of ore, and
+01:12:59,0 --> 01:12:59,0
+12 And it came
 
 118
-00:03:12,534 --> 00:03:13,677
- they did make gold, and silver, and iron, and brass,
+01:12:59,0 --> 01:12:59,0
+to pass that
 
 119
-00:03:13,677 --> 00:03:14,82
- and all manner of metals; and they did dig it out
+01:12:59,0 --> 01:12:59,0
+Morianton built
 
 120
-00:03:14,82 --> 00:03:15,963
- of the earth; wherefore, they did cast up mighty
+01:12:59,0 --> 01:12:59,0
+up many cities,
 
 121
-00:03:15,963 --> 00:03:17,106
- heaps of earth to get ore, of gold, and of silver,
+01:12:59,0 --> 01:12:59,0
+and the people
 
 122
-00:03:17,106 --> 00:03:18,249
- and of iron, and of copper. And they did work all
+01:12:59,0 --> 01:12:59,0
+became
 
 123
-00:03:18,249 --> 00:03:19,392
- manner of fine work
+01:12:59,0 --> 01:12:59,0
+exceedingly rich under
 
 124
-00:03:19,366 --> 00:03:22,033
-24 And they did have silks, and fine-twined linen;
+01:12:59,0 --> 01:12:59,0
+his reign, both
 
 125
-00:03:22,033 --> 00:03:24,7
- and they did work all manner of cloth, that they
+01:12:59,0 --> 01:12:59,0
+in buildings,
 
 126
-00:03:24,7 --> 00:03:27,367
- might clothe themselves from their nakedness
+01:12:59,0 --> 01:12:59,0
+and in gold and
 
 127
-00:03:27,34 --> 00:03:30,007
-25 And they did make all manner of tools to till
+01:12:59,0 --> 01:12:59,0
+silver, and in
 
 128
-00:03:30,007 --> 00:03:32,674
- the earth, both to plow and to sow, to reap and to
+01:12:59,0 --> 01:12:59,0
+raising grain,
 
 129
-00:03:32,674 --> 00:03:35,341
- hoe, and also to thrash
+01:12:59,0 --> 01:12:59,0
+and in flocks,
 
 130
-00:03:35,315 --> 00:03:39,315
-26 And they did make all manner of tools with
+01:12:59,0 --> 01:12:59,0
+and herds, and
 
 131
-00:03:39,315 --> 00:03:43,315
- which they did work their beasts
+01:12:59,0 --> 01:12:59,0
+such things
 
 132
-00:03:43,29 --> 00:03:45,957
-27 And they did make all manner of weapons of war.
+01:12:59,0 --> 01:12:59,0
+which had been
 
 133
-00:03:45,957 --> 00:03:48,624
- And they did work all manner of work of
+01:12:59,0 --> 01:15:41,
+restored unto them.
 
 134
-00:03:48,624 --> 00:03:51,291
- exceedingly curious workmanship
+01:15:41,0 --> 01:15:41,0
+13 And
 
 135
-00:03:51,264 --> 00:03:53,264
-28 And never could be a people more blessed than
+01:15:41,0 --> 01:15:41,0
+Morianton did live to
 
 136
-00:03:53,264 --> 00:03:55,264
- were they, and more prospered by the hand of the
+01:15:41,0 --> 01:15:41,0
+an
 
 137
-00:03:55,264 --> 00:03:57,264
- Lord. And they were in a land that was choice above
+01:15:41,0 --> 01:15:41,0
+exceedingly great age,
 
 138
-00:03:57,264 --> 00:03:59,264
- all lands, for the Lord had spoken it
+01:15:41,0 --> 01:15:41,0
+and then he
 
 139
-00:03:59,239 --> 00:04:01,906
-29 And it came to pass that Lib did live many
+01:15:41,0 --> 01:15:41,0
+begat Kim; and
 
 140
-00:04:01,906 --> 00:04:04,573
- years, and begat sons and daughters; and he also begat
+01:15:41,0 --> 01:15:41,0
+Kim did reign in
 
 141
-00:04:04,573 --> 00:04:07,24
- Hearthom
+01:15:41,0 --> 01:15:41,0
+the stead of
 
 142
-00:04:07,214 --> 00:04:08,547
-30 And it came to pass that Hearthom reigned in
+01:15:41,0 --> 01:15:41,0
+his father;
 
 143
-00:04:08,547 --> 00:04:09,88
- the stead of his father. And when Hearthom had
+01:15:41,0 --> 01:15:41,0
+and he did reign
 
 144
-00:04:09,88 --> 00:04:11,213
- reigned twenty and four years, behold, the kingdom was
+01:15:41,0 --> 01:15:41,0
+eight years,
 
 145
-00:04:11,213 --> 00:04:12,546
- taken away from him. And he served many years in
+01:15:41,0 --> 01:15:41,0
+and his father
 
 146
-00:04:12,546 --> 00:04:13,879
- captivity, yea, even all the remainder of his days
+01:15:41,0 --> 01:15:41,0
+died. And it
 
 147
-00:04:13,879 --> 00:04:15,212
-
+01:15:41,0 --> 01:15:41,0
+came to pass
 
 148
-00:04:15,188 --> 00:04:16,521
-31 And he begat Heth, and Heth lived in captivity
+01:15:41,0 --> 01:15:41,0
+that Kim did
 
 149
-00:04:16,521 --> 00:04:17,854
- all his days. And Heth begat Aaron, and Aaron
+01:15:41,0 --> 01:15:41,0
+not reign in
 
 150
-00:04:17,854 --> 00:04:19,187
- dwelt in captivity all his days; and he begat
+01:15:41,0 --> 01:15:41,0
+righteousness,
 
 151
-00:04:19,187 --> 00:04:20,52
- Amnigaddah, and Amnigaddah also dwelt in captivity all his
+01:15:41,0 --> 01:15:41,0
+wherefore he was
 
 152
-00:04:20,52 --> 00:04:21,853
- days; and he begat Coriantum, and Coriantum dwelt
+01:15:41,0 --> 01:15:55,
+not favored of the Lord.
 
 153
-00:04:21,853 --> 00:04:23,186
- in captivity all his days; and he begat Com
+01:15:55,0 --> 01:15:55,0
+14 And his
 
 154
-00:04:23,163 --> 00:04:24,306
-32 And it came to pass that Com drew away the half
+01:15:55,0 --> 01:15:55,0
+brother did
 
 155
-00:04:24,306 --> 00:04:25,449
- of the kingdom. And he reigned over the half of
+01:15:55,0 --> 01:15:55,0
+rise up in
 
 156
-00:04:25,449 --> 00:04:26,592
- the kingdom forty and two years; and he went to
+01:15:55,0 --> 01:15:55,0
+rebellion against
 
 157
-00:04:26,592 --> 00:04:27,735
- battle against the king, Amgid, and they fought for
+01:15:55,0 --> 01:15:55,0
+him, by which
 
 158
-00:04:27,735 --> 00:04:28,878
- the space of many years, during which time Com
+01:15:55,0 --> 01:15:55,0
+he did bring
 
 159
-00:04:28,878 --> 00:04:30,021
- gained power over Amgid, and obtained power over the
+01:15:55,0 --> 01:15:55,0
+him into
 
 160
-00:04:30,021 --> 00:04:31,164
- remainder of the kingdom
+01:15:55,0 --> 01:15:55,0
+captivity; and
 
 161
-00:04:31,138 --> 00:04:33,138
-33 And in the days of Com there began to be
+01:15:55,0 --> 01:15:55,0
+he did remain
 
 162
-00:04:33,138 --> 00:04:35,138
- robbers in the land; and they adopted the old plans, and
+01:15:55,0 --> 01:15:55,0
+in captivity
 
 163
-00:04:35,138 --> 00:04:37,138
- administered oaths after the manner of the
+01:15:55,0 --> 01:15:55,0
+all his days;
 
 164
-00:04:37,138 --> 00:04:39,138
- ancients, and sought again to destroy the kingdom
+01:15:55,0 --> 01:15:55,0
+and he begat
 
 165
-00:04:39,112 --> 00:04:39,612
-34 Now Com did fight against them much;
+01:15:55,0 --> 01:15:55,0
+sons and
 
 166
-00:04:39,612 --> 00:04:40,112
- nevertheless, he did not prevail against them.
+01:15:55,0 --> 01:15:55,0
+daughters in
+
+167
+01:15:55,0 --> 01:15:55,0
+captivity, and
+
+168
+01:15:55,0 --> 01:15:55,0
+in his old age
+
+169
+01:15:55,0 --> 01:15:41,
+he begat Levi; and he died.
+
+170
+01:15:41,0 --> 01:15:41,0
+15 And it
+
+171
+01:15:41,0 --> 01:15:41,0
+came to pass
+
+172
+01:15:41,0 --> 01:15:41,0
+that Levi did
+
+173
+01:15:41,0 --> 01:15:41,0
+serve in
+
+174
+01:15:41,0 --> 01:15:41,0
+captivity
+
+175
+01:15:41,0 --> 01:15:41,0
+after the death
+
+176
+01:15:41,0 --> 01:15:41,0
+of his
+
+177
+01:15:41,0 --> 01:15:41,0
+father, for the
+
+178
+01:15:41,0 --> 01:15:41,0
+space of
+
+179
+01:15:41,0 --> 01:15:41,0
+forty and two
+
+180
+01:15:41,0 --> 01:15:41,0
+years. And he
+
+181
+01:15:41,0 --> 01:15:41,0
+did make war
+
+182
+01:15:41,0 --> 01:15:41,0
+against the
+
+183
+01:15:41,0 --> 01:15:41,0
+king of the
+
+184
+01:15:41,0 --> 01:15:41,0
+land, by
+
+185
+01:15:41,0 --> 01:15:41,0
+which he did
+
+186
+01:15:41,0 --> 01:15:41,0
+obtain unto
+
+187
+01:15:41,0 --> 01:15:55,
+himself the kingdom.
+
+188
+01:15:55,0 --> 01:15:55,0
+16 And
+
+189
+01:15:55,0 --> 01:15:55,0
+after he had
+
+190
+01:15:55,0 --> 01:15:55,0
+obtained unto
+
+191
+01:15:55,0 --> 01:15:55,0
+himself
+
+192
+01:15:55,0 --> 01:15:55,0
+the kingdom
+
+193
+01:15:55,0 --> 01:15:55,0
+he did that
+
+194
+01:15:55,0 --> 01:15:55,0
+which was
+
+195
+01:15:55,0 --> 01:15:55,0
+right in the
+
+196
+01:15:55,0 --> 01:15:55,0
+sight of
+
+197
+01:15:55,0 --> 01:15:55,0
+the Lord;
+
+198
+01:15:55,0 --> 01:15:55,0
+and the
+
+199
+01:15:55,0 --> 01:15:55,0
+people did
+
+200
+01:15:55,0 --> 01:15:55,0
+prosper in the
+
+201
+01:15:55,0 --> 01:15:55,0
+land; and he
+
+202
+01:15:55,0 --> 01:15:55,0
+did live
+
+203
+01:15:55,0 --> 01:15:55,0
+to a good
+
+204
+01:15:55,0 --> 01:15:55,0
+old age, and
+
+205
+01:15:55,0 --> 01:15:55,0
+begat sons
+
+206
+01:15:55,0 --> 01:15:55,0
+and
+
+207
+01:15:55,0 --> 01:15:55,0
+daughters; and he
+
+208
+01:15:55,0 --> 01:15:55,0
+also begat
+
+209
+01:15:55,0 --> 01:15:55,0
+Corom, whom
+
+210
+01:15:55,0 --> 01:15:41,
+he anointed king in his stead.
+
+211
+01:15:41,0 --> 01:15:41,0
+17 And it
+
+212
+01:15:41,0 --> 01:15:41,0
+came to pass
+
+213
+01:15:41,0 --> 01:15:41,0
+that Corom
+
+214
+01:15:41,0 --> 01:15:41,0
+did that
+
+215
+01:15:41,0 --> 01:15:41,0
+which was
+
+216
+01:15:41,0 --> 01:15:41,0
+good in the
+
+217
+01:15:41,0 --> 01:15:41,0
+sight of the
+
+218
+01:15:41,0 --> 01:15:41,0
+Lord all
+
+219
+01:15:41,0 --> 01:15:41,0
+his days;
+
+220
+01:15:41,0 --> 01:15:41,0
+and he begat
+
+221
+01:15:41,0 --> 01:15:41,0
+many sons
+
+222
+01:15:41,0 --> 01:15:41,0
+and
+
+223
+01:15:41,0 --> 01:15:41,0
+daughters; and
+
+224
+01:15:41,0 --> 01:15:41,0
+after he had
+
+225
+01:15:41,0 --> 01:15:41,0
+seen many
+
+226
+01:15:41,0 --> 01:15:41,0
+days he did
+
+227
+01:15:41,0 --> 01:15:41,0
+pass away,
+
+228
+01:15:41,0 --> 01:15:41,0
+even like
+
+229
+01:15:41,0 --> 01:15:41,0
+unto the rest
+
+230
+01:15:41,0 --> 01:15:41,0
+of the
+
+231
+01:15:41,0 --> 01:15:41,0
+earth; and Kish
+
+232
+01:15:41,0 --> 01:15:41,0
+reigned in
+
+233
+01:15:41,0 --> 01:15:55,
+his stead.
+
+234
+01:15:55,0 --> 01:15:55,0
+18 And it
+
+235
+01:15:55,0 --> 01:15:55,0
+came to
+
+236
+01:15:55,0 --> 01:15:55,0
+pass that
+
+237
+01:15:55,0 --> 01:15:55,0
+Kish passed
+
+238
+01:15:55,0 --> 01:15:55,0
+away also,
+
+239
+01:15:55,0 --> 01:15:55,0
+and Lib
+
+240
+01:15:55,0 --> 01:15:55,0
+reigned in
+
+241
+01:15:55,0 --> 01:15:41,
+his stead.
+
+242
+01:15:41,0 --> 01:15:41,0
+19 And it
+
+243
+01:15:41,0 --> 01:15:41,0
+came to
+
+244
+01:15:41,0 --> 01:15:41,0
+pass that
+
+245
+01:15:41,0 --> 01:15:41,0
+Lib also
+
+246
+01:15:41,0 --> 01:15:41,0
+did that
+
+247
+01:15:41,0 --> 01:15:41,0
+which
+
+248
+01:15:41,0 --> 01:15:41,0
+was good in
+
+249
+01:15:41,0 --> 01:15:41,0
+the
+
+250
+01:15:41,0 --> 01:15:41,0
+sight of the
+
+251
+01:15:41,0 --> 01:15:41,0
+Lord. And
+
+252
+01:15:41,0 --> 01:15:41,0
+in the
+
+253
+01:15:41,0 --> 01:15:41,0
+days of
+
+254
+01:15:41,0 --> 01:15:41,0
+Lib the
+
+255
+01:15:41,0 --> 01:15:41,0
+poisonous
+
+256
+01:15:41,0 --> 01:15:41,0
+serpents
+
+257
+01:15:41,0 --> 01:15:41,0
+were
+
+258
+01:15:41,0 --> 01:15:41,0
+destroyed.
+
+259
+01:15:41,0 --> 01:15:41,0
+Wherefore
+
+260
+01:15:41,0 --> 01:15:41,0
+they did go
+
+261
+01:15:41,0 --> 01:15:41,0
+into the
+
+262
+01:15:41,0 --> 01:15:41,0
+land
+
+263
+01:15:41,0 --> 01:15:41,0
+southward, to
+
+264
+01:15:41,0 --> 01:15:41,0
+hunt
+
+265
+01:15:41,0 --> 01:15:41,0
+food for the
+
+266
+01:15:41,0 --> 01:15:41,0
+people
+
+267
+01:15:41,0 --> 01:15:41,0
+of the
+
+268
+01:15:41,0 --> 01:15:41,0
+land, for
+
+269
+01:15:41,0 --> 01:15:41,0
+the land
+
+270
+01:15:41,0 --> 01:15:41,0
+was covered
+
+271
+01:15:41,0 --> 01:15:41,0
+with
+
+272
+01:15:41,0 --> 01:15:41,0
+animals of
+
+273
+01:15:41,0 --> 01:15:41,0
+the
+
+274
+01:15:41,0 --> 01:15:41,0
+forest. And Lib
+
+275
+01:15:41,0 --> 01:15:55,
+also himself became a great hunter.
+
+276
+01:15:55,0 --> 01:15:55,0
+20 And
+
+277
+01:15:55,0 --> 01:15:55,0
+they
+
+278
+01:15:55,0 --> 01:15:55,0
+built a
+
+279
+01:15:55,0 --> 01:15:55,0
+great city
+
+280
+01:15:55,0 --> 01:15:55,0
+by the
+
+281
+01:15:55,0 --> 01:15:55,0
+narrow
+
+282
+01:15:55,0 --> 01:15:55,0
+neck of
+
+283
+01:15:55,0 --> 01:15:55,0
+land, by
+
+284
+01:15:55,0 --> 01:15:55,0
+the place
+
+285
+01:15:55,0 --> 01:15:55,0
+where
+
+286
+01:15:55,0 --> 01:15:55,0
+the sea
+
+287
+01:15:55,0 --> 01:15:41,
+divides the land.
+
+288
+01:15:41,0 --> 01:15:41,0
+21 And
+
+289
+01:15:41,0 --> 01:15:41,0
+they
+
+290
+01:15:41,0 --> 01:15:41,0
+did
+
+291
+01:15:41,0 --> 01:15:41,0
+preserve the
+
+292
+01:15:41,0 --> 01:15:41,0
+land
+
+293
+01:15:41,0 --> 01:15:41,0
+
+
+294
+01:15:41,0 --> 01:15:41,0
+southward for a
+
+295
+01:15:41,0 --> 01:15:41,0
+
+
+296
+01:15:41,0 --> 01:15:41,0
+wilderness,
+
+297
+01:15:41,0 --> 01:15:41,0
+to get
+
+298
+01:15:41,0 --> 01:15:41,0
+game.
+
+299
+01:15:41,0 --> 01:15:41,0
+And the
+
+300
+01:15:41,0 --> 01:15:41,0
+whole
+
+301
+01:15:41,0 --> 01:15:41,0
+face of
+
+302
+01:15:41,0 --> 01:15:41,0
+the land
+
+303
+01:15:41,0 --> 01:15:41,0
+
+
+304
+01:15:41,0 --> 01:15:41,0
+northward was
+
+305
+01:15:41,0 --> 01:15:41,0
+
+
+306
+01:15:41,0 --> 01:15:55,
+covered with inhabitants.
+
+307
+01:15:55,0 --> 01:15:55,0
+22 And
+
+308
+01:15:55,0 --> 01:15:55,0
+they
+
+309
+01:15:55,0 --> 01:15:55,0
+were
+
+310
+01:15:55,0 --> 01:15:55,0
+
+
+311
+01:15:55,0 --> 01:15:55,0
+exceedingly
+
+312
+01:15:55,0 --> 01:15:55,0
+
+
+313
+01:15:55,0 --> 01:15:55,0
+industrious,
+
+314
+01:15:55,0 --> 01:15:55,0
+and
+
+315
+01:15:55,0 --> 01:15:55,0
+they did
+
+316
+01:15:55,0 --> 01:15:55,0
+buy
+
+317
+01:15:55,0 --> 01:15:55,0
+and
+
+318
+01:15:55,0 --> 01:15:55,0
+sell and
+
+319
+01:15:55,0 --> 01:15:55,0
+
+
+320
+01:15:55,0 --> 01:15:55,0
+traffic one
+
+321
+01:15:55,0 --> 01:15:55,0
+with
+
+322
+01:15:55,0 --> 01:15:55,0
+
+
+323
+01:15:55,0 --> 01:15:55,0
+another, that
+
+324
+01:15:55,0 --> 01:15:41,
+they might get gain.
+
+325
+01:15:41,0 --> 01:15:41,0
+23
+
+326
+01:15:41,0 --> 01:15:41,0
+And
+
+327
+01:15:41,0 --> 01:15:41,0
+they did
+
+328
+01:15:41,0 --> 01:15:41,0
+work
+
+329
+01:15:41,0 --> 01:15:41,0
+in
+
+330
+01:15:41,0 --> 01:15:41,0
+all
+
+331
+01:15:41,0 --> 01:15:41,0
+manner
+
+332
+01:15:41,0 --> 01:15:41,0
+of
+
+333
+01:15:41,0 --> 01:15:41,0
+ore,
+
+334
+01:15:41,0 --> 01:15:41,0
+and
+
+335
+01:15:41,0 --> 01:15:41,0
+they did
+
+336
+01:15:41,0 --> 01:15:41,0
+make
+
+337
+01:15:41,0 --> 01:15:41,0
+
+
+338
+01:15:41,0 --> 01:15:41,0
+gold, and
+
+339
+01:15:41,0 --> 01:15:41,0
+
+
+340
+01:15:41,0 --> 01:15:41,0
+silver,
+
+341
+01:15:41,0 --> 01:15:41,0
+and
+
+342
+01:15:41,0 --> 01:15:41,0
+iron,
+
+343
+01:15:41,0 --> 01:15:41,0
+and
+
+344
+01:15:41,0 --> 01:15:41,0
+brass,
+
+345
+01:15:41,0 --> 01:15:41,0
+and
+
+346
+01:15:41,0 --> 01:15:41,0
+all
+
+347
+01:15:41,0 --> 01:15:41,0
+manner
+
+348
+01:15:41,0 --> 01:15:41,0
+of
+
+349
+01:15:41,0 --> 01:15:41,0
+metals;
+
+350
+01:15:41,0 --> 01:15:41,0
+and
+
+351
+01:15:41,0 --> 01:15:41,0
+they
+
+352
+01:15:41,0 --> 01:15:41,0
+did
+
+353
+01:15:41,0 --> 01:15:41,0
+dig it
+
+354
+01:15:41,0 --> 01:15:41,0
+out
+
+355
+01:15:41,0 --> 01:15:41,0
+of
+
+356
+01:15:41,0 --> 01:15:41,0
+the
+
+357
+01:15:41,0 --> 01:15:41,0
+earth;
+
+358
+01:15:41,0 --> 01:15:41,0
+
+
+359
+01:15:41,0 --> 01:15:41,0
+wherefore,
+
+360
+01:15:41,0 --> 01:15:41,0
+they
+
+361
+01:15:41,0 --> 01:15:41,0
+did
+
+362
+01:15:41,0 --> 01:15:41,0
+cast
+
+363
+01:15:41,0 --> 01:15:41,0
+up
+
+364
+01:15:41,0 --> 01:15:41,0
+mighty
+
+365
+01:15:41,0 --> 01:15:41,0
+heaps
+
+366
+01:15:41,0 --> 01:15:41,0
+of
+
+367
+01:15:41,0 --> 01:15:41,0
+earth
+
+368
+01:15:41,0 --> 01:15:41,0
+to get
+
+369
+01:15:41,0 --> 01:15:41,0
+ore,
+
+370
+01:15:41,0 --> 01:15:41,0
+of
+
+371
+01:15:41,0 --> 01:15:41,0
+gold,
+
+372
+01:15:41,0 --> 01:15:41,0
+and
+
+373
+01:15:41,0 --> 01:15:41,0
+of
+
+374
+01:15:41,0 --> 01:15:41,0
+silver,
+
+375
+01:15:41,0 --> 01:15:41,0
+and
+
+376
+01:15:41,0 --> 01:15:41,0
+of
+
+377
+01:15:41,0 --> 01:15:41,0
+iron,
+
+378
+01:15:41,0 --> 01:15:55,
+and of copper. And they did work all manner of fine work.
+
+379
+01:15:55,0 --> 01:15:55,0
+24
+
+380
+01:15:55,0 --> 01:15:55,0
+And
+
+381
+01:15:55,0 --> 01:15:55,0
+they did
+
+382
+01:15:55,0 --> 01:15:55,0
+have
+
+383
+01:15:55,0 --> 01:15:55,0
+
+
+384
+01:15:55,0 --> 01:15:55,0
+silks,
+
+385
+01:15:55,0 --> 01:15:55,0
+and
+
+386
+01:15:55,0 --> 01:15:55,0
+
+
+387
+01:15:55,0 --> 01:15:55,0
+fine-twined
+
+388
+01:15:55,0 --> 01:15:55,0
+linen;
+
+389
+01:15:55,0 --> 01:15:55,0
+and
+
+390
+01:15:55,0 --> 01:15:55,0
+they
+
+391
+01:15:55,0 --> 01:15:55,0
+did
+
+392
+01:15:55,0 --> 01:15:55,0
+work
+
+393
+01:15:55,0 --> 01:15:55,0
+all
+
+394
+01:15:55,0 --> 01:15:55,0
+manner
+
+395
+01:15:55,0 --> 01:15:55,0
+of
+
+396
+01:15:55,0 --> 01:15:55,0
+cloth,
+
+397
+01:15:55,0 --> 01:15:55,0
+that
+
+398
+01:15:55,0 --> 01:15:55,0
+they
+
+399
+01:15:55,0 --> 01:15:55,0
+might
+
+400
+01:15:55,0 --> 01:15:55,0
+
+
+401
+01:15:55,0 --> 01:15:55,0
+clothe
+
+402
+01:15:55,0 --> 01:15:55,0
+
+
+403
+01:15:55,0 --> 01:15:55,0
+themselves
+
+404
+01:15:55,0 --> 01:15:55,0
+from
+
+405
+01:15:55,0 --> 01:15:55,0
+their
+
+406
+01:15:55,0 --> 01:15:55,0
+
+
+407
+01:15:55,0 --> 01:15:41,
+nakedness.
+
+408
+01:15:41,0 --> 01:15:41,0
+25
+
+409
+01:15:41,0 --> 01:15:41,0
+And
+
+410
+01:15:41,0 --> 01:15:41,0
+they
+
+411
+01:15:41,0 --> 01:15:41,0
+did
+
+412
+01:15:41,0 --> 01:15:41,0
+make
+
+413
+01:15:41,0 --> 01:15:41,0
+all
+
+414
+01:15:41,0 --> 01:15:41,0
+
+
+415
+01:15:41,0 --> 01:15:41,0
+manner
+
+416
+01:15:41,0 --> 01:15:41,0
+of
+
+417
+01:15:41,0 --> 01:15:41,0
+tools
+
+418
+01:15:41,0 --> 01:15:41,0
+to
+
+419
+01:15:41,0 --> 01:15:41,0
+till
+
+420
+01:15:41,0 --> 01:15:41,0
+the
+
+421
+01:15:41,0 --> 01:15:41,0
+
+
+422
+01:15:41,0 --> 01:15:41,0
+earth,
+
+423
+01:15:41,0 --> 01:15:41,0
+both
+
+424
+01:15:41,0 --> 01:15:41,0
+to
+
+425
+01:15:41,0 --> 01:15:41,0
+plow
+
+426
+01:15:41,0 --> 01:15:41,0
+and
+
+427
+01:15:41,0 --> 01:15:41,0
+to
+
+428
+01:15:41,0 --> 01:15:41,0
+sow,
+
+429
+01:15:41,0 --> 01:15:41,0
+to
+
+430
+01:15:41,0 --> 01:15:41,0
+reap
+
+431
+01:15:41,0 --> 01:15:41,0
+and
+
+432
+01:15:41,0 --> 01:15:55,
+to hoe, and also to thrash.
+
+433
+01:15:55,0 --> 01:15:55,0
+26
+
+434
+01:15:55,0 --> 01:15:55,0
+And
+
+435
+01:15:55,0 --> 01:15:55,0
+
+
+436
+01:15:55,0 --> 01:15:55,0
+they
+
+437
+01:15:55,0 --> 01:15:55,0
+did
+
+438
+01:15:55,0 --> 01:15:55,0
+
+
+439
+01:15:55,0 --> 01:15:55,0
+make
+
+440
+01:15:55,0 --> 01:15:55,0
+all
+
+441
+01:15:55,0 --> 01:15:55,0
+
+
+442
+01:15:55,0 --> 01:15:55,0
+
+
+443
+01:15:55,0 --> 01:15:55,0
+manner
+
+444
+01:15:55,0 --> 01:15:55,0
+of
+
+445
+01:15:55,0 --> 01:15:55,0
+
+
+446
+01:15:55,0 --> 01:15:55,0
+tools
+
+447
+01:15:55,0 --> 01:15:55,0
+with
+
+448
+01:15:55,0 --> 01:15:55,0
+
+
+449
+01:15:55,0 --> 01:15:55,0
+which
+
+450
+01:15:55,0 --> 01:15:55,0
+
+
+451
+01:15:55,0 --> 01:15:55,0
+they
+
+452
+01:15:55,0 --> 01:15:41,
+did work their beasts.
+
+453
+01:15:41,0 --> 01:15:41,0
+27
+
+454
+01:15:41,0 --> 01:15:41,0
+And
+
+455
+01:15:41,0 --> 01:15:41,0
+
+
+456
+01:15:41,0 --> 01:15:41,0
+they
+
+457
+01:15:41,0 --> 01:15:41,0
+did
+
+458
+01:15:41,0 --> 01:15:41,0
+
+
+459
+01:15:41,0 --> 01:15:41,0
+make
+
+460
+01:15:41,0 --> 01:15:41,0
+all
+
+461
+01:15:41,0 --> 01:15:41,0
+
+
+462
+01:15:41,0 --> 01:15:41,0
+
+
+463
+01:15:41,0 --> 01:15:41,0
+manner
+
+464
+01:15:41,0 --> 01:15:41,0
+of
+
+465
+01:15:41,0 --> 01:15:41,0
+
+
+466
+01:15:41,0 --> 01:15:41,0
+weapons
+
+467
+01:15:41,0 --> 01:15:41,0
+of
+
+468
+01:15:41,0 --> 01:15:41,0
+
+
+469
+01:15:41,0 --> 01:15:41,0
+war.
+
+470
+01:15:41,0 --> 01:15:41,0
+And
+
+471
+01:15:41,0 --> 01:15:41,0
+
+
+472
+01:15:41,0 --> 01:15:41,0
+they
+
+473
+01:15:41,0 --> 01:15:41,0
+did
+
+474
+01:15:41,0 --> 01:15:41,0
+
+
+475
+01:15:41,0 --> 01:15:41,0
+work
+
+476
+01:15:41,0 --> 01:15:41,0
+all
+
+477
+01:15:41,0 --> 01:15:41,0
+
+
+478
+01:15:41,0 --> 01:15:41,0
+
+
+479
+01:15:41,0 --> 01:15:41,0
+manner
+
+480
+01:15:41,0 --> 01:15:41,0
+of
+
+481
+01:15:41,0 --> 01:15:41,0
+work
+
+482
+01:15:41,0 --> 01:15:41,0
+of
+
+483
+01:15:41,0 --> 01:15:41,0
+
+
+484
+01:15:41,0 --> 01:15:41,0
+
+
+485
+01:15:41,0 --> 01:15:41,0
+
+
+486
+01:15:41,0 --> 01:15:41,0
+exceedingly
+
+487
+01:15:41,0 --> 01:15:41,0
+
+
+488
+01:15:41,0 --> 01:15:41,0
+
+
+489
+01:15:41,0 --> 01:15:41,0
+curious
+
+490
+01:15:41,0 --> 01:15:41,0
+
+
+491
+01:15:41,0 --> 01:15:41,0
+
+
+492
+01:15:41,0 --> 01:15:41,0
+
+
+493
+01:15:41,0 --> 01:15:55,
+workmanship.
+
+494
+01:15:55,0 --> 01:15:55,0
+28
+
+495
+01:15:55,0 --> 01:15:55,0
+
+
+496
+01:15:55,0 --> 01:15:55,0
+And
+
+497
+01:15:55,0 --> 01:15:55,0
+
+
+498
+01:15:55,0 --> 01:15:55,0
+
+
+499
+01:15:55,0 --> 01:15:55,0
+never
+
+500
+01:15:55,0 --> 01:15:55,0
+
+
+501
+01:15:55,0 --> 01:15:55,0
+
+
+502
+01:15:55,0 --> 01:15:55,0
+could
+
+503
+01:15:55,0 --> 01:15:55,0
+
+
+504
+01:15:55,0 --> 01:15:55,0
+be
+
+505
+01:15:55,0 --> 01:15:55,0
+a
+
+506
+01:15:55,0 --> 01:15:55,0
+
+
+507
+01:15:55,0 --> 01:15:55,0
+
+
+508
+01:15:55,0 --> 01:15:55,0
+people
+
+509
+01:15:55,0 --> 01:15:55,0
+
+
+510
+01:15:55,0 --> 01:15:55,0
+
+
+511
+01:15:55,0 --> 01:15:55,0
+more
+
+512
+01:15:55,0 --> 01:15:55,0
+
+
+513
+01:15:55,0 --> 01:15:55,0
+
+
+514
+01:15:55,0 --> 01:15:55,0
+
+
+515
+01:15:55,0 --> 01:15:55,0
+blessed
+
+516
+01:15:55,0 --> 01:15:55,0
+
+
+517
+01:15:55,0 --> 01:15:55,0
+than
+
+518
+01:15:55,0 --> 01:15:55,0
+
+
+519
+01:15:55,0 --> 01:15:55,0
+
+
+520
+01:15:55,0 --> 01:15:55,0
+were
+
+521
+01:15:55,0 --> 01:15:55,0
+
+
+522
+01:15:55,0 --> 01:15:55,0
+
+
+523
+01:15:55,0 --> 01:15:55,0
+they,
+
+524
+01:15:55,0 --> 01:15:55,0
+
+
+525
+01:15:55,0 --> 01:15:55,0
+and
+
+526
+01:15:55,0 --> 01:15:55,0
+
+
+527
+01:15:55,0 --> 01:15:55,0
+more
+
+528
+01:15:55,0 --> 01:15:55,0
+
+
+529
+01:15:55,0 --> 01:15:55,0
+
+
+530
+01:15:55,0 --> 01:15:55,0
+
+
+531
+01:15:55,0 --> 01:15:55,0
+
+
+532
+01:15:55,0 --> 01:15:55,0
+prospered
+
+533
+01:15:55,0 --> 01:15:55,0
+
+
+534
+01:15:55,0 --> 01:15:55,0
+by
+
+535
+01:15:55,0 --> 01:15:55,0
+
+
+536
+01:15:55,0 --> 01:15:55,0
+the
+
+537
+01:15:55,0 --> 01:15:55,0
+
+
+538
+01:15:55,0 --> 01:15:55,0
+hand
+
+539
+01:15:55,0 --> 01:15:55,0
+
+
+540
+01:15:55,0 --> 01:15:55,0
+of
+
+541
+01:15:55,0 --> 01:15:55,0
+
+
+542
+01:15:55,0 --> 01:15:55,0
+the
+
+543
+01:15:55,0 --> 01:15:55,0
+
+
+544
+01:15:55,0 --> 01:15:55,0
+
+
+545
+01:15:55,0 --> 01:15:55,0
+Lord.
+
+546
+01:15:55,0 --> 01:15:55,0
+
+
+547
+01:15:55,0 --> 01:15:55,0
+And
+
+548
+01:15:55,0 --> 01:15:55,0
+
+
+549
+01:15:55,0 --> 01:15:55,0
+they
+
+550
+01:15:55,0 --> 01:15:55,0
+
+
+551
+01:15:55,0 --> 01:15:55,0
+
+
+552
+01:15:55,0 --> 01:15:55,0
+were
+
+553
+01:15:55,0 --> 01:15:55,0
+in
+
+554
+01:15:55,0 --> 01:15:55,0
+a
+
+555
+01:15:55,0 --> 01:15:55,0
+
+
+556
+01:15:55,0 --> 01:15:41,
+land that was choice above all lands, for the Lord had spoken it.
+
+557
+01:15:41,0 --> 01:15:41,0
+29
+
+558
+01:15:41,0 --> 01:15:41,0
+
+
+559
+01:15:41,0 --> 01:15:41,0
+And
+
+560
+01:15:41,0 --> 01:15:41,0
+
+
+561
+01:15:41,0 --> 01:15:41,0
+it
+
+562
+01:15:41,0 --> 01:15:41,0
+
+
+563
+01:15:41,0 --> 01:15:41,0
+came
+
+564
+01:15:41,0 --> 01:15:41,0
+
+
+565
+01:15:41,0 --> 01:15:41,0
+to
+
+566
+01:15:41,0 --> 01:15:41,0
+
+
+567
+01:15:41,0 --> 01:15:41,0
+pass
+
+568
+01:15:41,0 --> 01:15:41,0
+
+
+569
+01:15:41,0 --> 01:15:41,0
+
+
+570
+01:15:41,0 --> 01:15:41,0
+that
+
+571
+01:15:41,0 --> 01:15:41,0
+
+
+572
+01:15:41,0 --> 01:15:41,0
+Lib
+
+573
+01:15:41,0 --> 01:15:41,0
+
+
+574
+01:15:41,0 --> 01:15:41,0
+did
+
+575
+01:15:41,0 --> 01:15:41,0
+
+
+576
+01:15:41,0 --> 01:15:41,0
+live
+
+577
+01:15:41,0 --> 01:15:41,0
+
+
+578
+01:15:41,0 --> 01:15:41,0
+
+
+579
+01:15:41,0 --> 01:15:41,0
+many
+
+580
+01:15:41,0 --> 01:15:41,0
+
+
+581
+01:15:41,0 --> 01:15:41,0
+
+
+582
+01:15:41,0 --> 01:15:41,0
+years,
+
+583
+01:15:41,0 --> 01:15:41,0
+
+
+584
+01:15:41,0 --> 01:15:41,0
+and
+
+585
+01:15:41,0 --> 01:15:41,0
+
+
+586
+01:15:41,0 --> 01:15:41,0
+
+
+587
+01:15:41,0 --> 01:15:41,0
+begat
+
+588
+01:15:41,0 --> 01:15:41,0
+
+
+589
+01:15:41,0 --> 01:15:41,0
+
+
+590
+01:15:41,0 --> 01:15:41,0
+sons
+
+591
+01:15:41,0 --> 01:15:41,0
+
+
+592
+01:15:41,0 --> 01:15:41,0
+and
+
+593
+01:15:41,0 --> 01:15:41,0
+
+
+594
+01:15:41,0 --> 01:15:41,0
+
+
+595
+01:15:41,0 --> 01:15:41,0
+
+
+596
+01:15:41,0 --> 01:15:41,0
+
+
+597
+01:15:41,0 --> 01:15:41,0
+daughters;
+
+598
+01:15:41,0 --> 01:15:41,0
+
+
+599
+01:15:41,0 --> 01:15:41,0
+and
+
+600
+01:15:41,0 --> 01:15:41,0
+
+
+601
+01:15:41,0 --> 01:15:41,0
+he
+
+602
+01:15:41,0 --> 01:15:41,0
+
+
+603
+01:15:41,0 --> 01:15:41,0
+also
+
+604
+01:15:41,0 --> 01:15:41,0
+
+
+605
+01:15:41,0 --> 01:15:41,0
+
+
+606
+01:15:41,0 --> 01:15:41,0
+begat
+
+607
+01:15:41,0 --> 01:15:41,0
+
+
+608
+01:15:41,0 --> 01:15:41,0
+
+
+609
+01:15:41,0 --> 01:15:41,0
+
+
+610
+01:15:41,0 --> 01:15:41,0
+
+
+611
+01:15:41,0 --> 01:15:55,
+Hearthom.
+
+612
+01:15:55,0 --> 01:15:55,0
+30
+
+613
+01:15:55,0 --> 01:15:55,0
+
+
+614
+01:15:55,0 --> 01:15:55,0
+And
+
+615
+01:15:55,0 --> 01:15:55,0
+
+
+616
+01:15:55,0 --> 01:15:55,0
+it
+
+617
+01:15:55,0 --> 01:15:55,0
+
+
+618
+01:15:55,0 --> 01:15:55,0
+came
+
+619
+01:15:55,0 --> 01:15:55,0
+
+
+620
+01:15:55,0 --> 01:15:55,0
+to
+
+621
+01:15:55,0 --> 01:15:55,0
+
+
+622
+01:15:55,0 --> 01:15:55,0
+pass
+
+623
+01:15:55,0 --> 01:15:55,0
+
+
+624
+01:15:55,0 --> 01:15:55,0
+
+
+625
+01:15:55,0 --> 01:15:55,0
+that
+
+626
+01:15:55,0 --> 01:15:55,0
+
+
+627
+01:15:55,0 --> 01:15:55,0
+
+
+628
+01:15:55,0 --> 01:15:55,0
+
+
+629
+01:15:55,0 --> 01:15:55,0
+Hearthom
+
+630
+01:15:55,0 --> 01:15:55,0
+
+
+631
+01:15:55,0 --> 01:15:55,0
+
+
+632
+01:15:55,0 --> 01:15:55,0
+
+
+633
+01:15:55,0 --> 01:15:55,0
+reigned
+
+634
+01:15:55,0 --> 01:15:55,0
+
+
+635
+01:15:55,0 --> 01:15:55,0
+in
+
+636
+01:15:55,0 --> 01:15:55,0
+
+
+637
+01:15:55,0 --> 01:15:55,0
+the
+
+638
+01:15:55,0 --> 01:15:55,0
+
+
+639
+01:15:55,0 --> 01:15:55,0
+
+
+640
+01:15:55,0 --> 01:15:55,0
+stead
+
+641
+01:15:55,0 --> 01:15:55,0
+of
+
+642
+01:15:55,0 --> 01:15:55,0
+
+
+643
+01:15:55,0 --> 01:15:55,0
+his
+
+644
+01:15:55,0 --> 01:15:55,0
+
+
+645
+01:15:55,0 --> 01:15:55,0
+
+
+646
+01:15:55,0 --> 01:15:55,0
+
+
+647
+01:15:55,0 --> 01:15:55,0
+father.
+
+648
+01:15:55,0 --> 01:15:55,0
+
+
+649
+01:15:55,0 --> 01:15:55,0
+And
+
+650
+01:15:55,0 --> 01:15:55,0
+
+
+651
+01:15:55,0 --> 01:15:55,0
+
+
+652
+01:15:55,0 --> 01:15:55,0
+when
+
+653
+01:15:55,0 --> 01:15:55,0
+
+
+654
+01:15:55,0 --> 01:15:55,0
+
+
+655
+01:15:55,0 --> 01:15:55,0
+
+
+656
+01:15:55,0 --> 01:15:55,0
+Hearthom
+
+657
+01:15:55,0 --> 01:15:55,0
+
+
+658
+01:15:55,0 --> 01:15:55,0
+had
+
+659
+01:15:55,0 --> 01:15:55,0
+
+
+660
+01:15:55,0 --> 01:15:55,0
+
+
+661
+01:15:55,0 --> 01:15:55,0
+
+
+662
+01:15:55,0 --> 01:15:55,0
+reigned
+
+663
+01:15:55,0 --> 01:15:55,0
+
+
+664
+01:15:55,0 --> 01:15:55,0
+
+
+665
+01:15:55,0 --> 01:15:55,0
+
+
+666
+01:15:55,0 --> 01:15:55,0
+twenty
+
+667
+01:15:55,0 --> 01:15:55,0
+
+
+668
+01:15:55,0 --> 01:15:55,0
+and
+
+669
+01:15:55,0 --> 01:15:55,0
+
+
+670
+01:15:55,0 --> 01:15:55,0
+four
+
+671
+01:15:55,0 --> 01:15:55,0
+
+
+672
+01:15:55,0 --> 01:15:55,0
+
+
+673
+01:15:55,0 --> 01:15:55,0
+
+
+674
+01:15:55,0 --> 01:15:55,0
+years,
+
+675
+01:15:55,0 --> 01:15:55,0
+
+
+676
+01:15:55,0 --> 01:15:55,0
+
+
+677
+01:15:55,0 --> 01:15:55,0
+
+
+678
+01:15:55,0 --> 01:15:55,0
+behold,
+
+679
+01:15:55,0 --> 01:15:55,0
+
+
+680
+01:15:55,0 --> 01:15:55,0
+the
+
+681
+01:15:55,0 --> 01:15:55,0
+
+
+682
+01:15:55,0 --> 01:15:55,0
+
+
+683
+01:15:55,0 --> 01:15:55,0
+
+
+684
+01:15:55,0 --> 01:15:55,0
+kingdom
+
+685
+01:15:55,0 --> 01:15:55,0
+
+
+686
+01:15:55,0 --> 01:15:55,0
+was
+
+687
+01:15:55,0 --> 01:15:55,0
+
+
+688
+01:15:55,0 --> 01:15:55,0
+
+
+689
+01:15:55,0 --> 01:15:55,0
+taken
+
+690
+01:15:55,0 --> 01:15:55,0
+
+
+691
+01:15:55,0 --> 01:15:55,0
+away
+
+692
+01:15:55,0 --> 01:15:55,0
+
+
+693
+01:15:55,0 --> 01:15:55,0
+
+
+694
+01:15:55,0 --> 01:15:55,0
+from
+
+695
+01:15:55,0 --> 01:15:55,0
+
+
+696
+01:15:55,0 --> 01:15:55,0
+him.
+
+697
+01:15:55,0 --> 01:15:55,0
+
+
+698
+01:15:55,0 --> 01:15:55,0
+And
+
+699
+01:15:55,0 --> 01:15:55,0
+
+
+700
+01:15:55,0 --> 01:15:55,0
+he
+
+701
+01:15:55,0 --> 01:15:55,0
+
+
+702
+01:15:55,0 --> 01:15:55,0
+
+
+703
+01:15:55,0 --> 01:15:55,0
+served
+
+704
+01:15:55,0 --> 01:15:55,0
+
+
+705
+01:15:55,0 --> 01:15:55,0
+
+
+706
+01:15:55,0 --> 01:15:55,0
+many
+
+707
+01:15:55,0 --> 01:15:55,0
+
+
+708
+01:15:55,0 --> 01:15:55,0
+
+
+709
+01:15:55,0 --> 01:15:55,0
+years
+
+710
+01:15:55,0 --> 01:15:55,0
+in
+
+711
+01:15:55,0 --> 01:15:55,0
+
+
+712
+01:15:55,0 --> 01:15:55,0
+
+
+713
+01:15:55,0 --> 01:15:55,0
+
+
+714
+01:15:55,0 --> 01:15:55,0
+
+
+715
+01:15:55,0 --> 01:15:55,0
+
+
+716
+01:15:55,0 --> 01:15:55,0
+captivity,
+
+717
+01:15:55,0 --> 01:15:55,0
+
+
+718
+01:15:55,0 --> 01:15:55,0
+yea,
+
+719
+01:15:55,0 --> 01:15:55,0
+
+
+720
+01:15:55,0 --> 01:15:55,0
+
+
+721
+01:15:55,0 --> 01:15:55,0
+even
+
+722
+01:15:55,0 --> 01:15:55,0
+
+
+723
+01:15:55,0 --> 01:15:55,0
+all
+
+724
+01:15:55,0 --> 01:15:55,0
+
+
+725
+01:15:55,0 --> 01:15:55,0
+the
+
+726
+01:15:55,0 --> 01:15:55,0
+
+
+727
+01:15:55,0 --> 01:15:55,0
+
+
+728
+01:15:55,0 --> 01:15:55,0
+
+
+729
+01:15:55,0 --> 01:15:55,0
+
+
+730
+01:15:55,0 --> 01:15:55,0
+remainder
+
+731
+01:15:55,0 --> 01:15:55,0
+of
+
+732
+01:15:55,0 --> 01:15:55,0
+
+
+733
+01:15:55,0 --> 01:15:55,0
+his
+
+734
+01:15:55,0 --> 01:15:55,0
+
+
+735
+01:15:55,0 --> 01:15:55,0
+
+
+736
+01:15:55,0 --> 01:15:41,
+days.
+
+737
+01:15:41,0 --> 01:15:41,0
+31 And he begat Heth, and Heth lived in captivity all his days. And Heth begat Aaron, and Aaron dwelt in captivity all his days; and he begat Amnigaddah, and Amnigaddah also dwelt in captivity all his days; and he begat Coriantum, and Coriantum dwelt in captivity all his days; and he begat
+
+738
+01:15:41,0 --> 01:15:41,0
+
+
+739
+01:15:41,0 --> 01:15:41,0
+
+
+740
+01:15:41,0 --> 01:15:41,0
+
+
+741
+01:15:41,0 --> 01:15:41,0
+
+
+742
+01:15:41,0 --> 01:15:41,0
+And
+
+743
+01:15:41,0 --> 01:15:41,0
+
+
+744
+01:15:41,0 --> 01:15:41,0
+
+
+745
+01:15:41,0 --> 01:15:41,0
+he
+
+746
+01:15:41,0 --> 01:15:41,0
+
+
+747
+01:15:41,0 --> 01:15:41,0
+
+
+748
+01:15:41,0 --> 01:15:41,0
+
+
+749
+01:15:41,0 --> 01:15:41,0
+
+
+750
+01:15:41,0 --> 01:15:41,0
+
+
+751
+01:15:41,0 --> 01:15:41,0
+begat
+
+752
+01:15:41,0 --> 01:15:41,0
+
+
+753
+01:15:41,0 --> 01:15:41,0
+
+
+754
+01:15:41,0 --> 01:15:41,0
+
+
+755
+01:15:41,0 --> 01:15:41,0
+
+
+756
+01:15:41,0 --> 01:15:41,0
+
+
+757
+01:15:41,0 --> 01:15:41,0
+Heth,
+
+758
+01:15:41,0 --> 01:15:41,0
+
+
+759
+01:15:41,0 --> 01:15:41,0
+
+
+760
+01:15:41,0 --> 01:15:41,0
+
+
+761
+01:15:41,0 --> 01:15:41,0
+and
+
+762
+01:15:41,0 --> 01:15:41,0
+
+
+763
+01:15:41,0 --> 01:15:41,0
+
+
+764
+01:15:41,0 --> 01:15:41,0
+
+
+765
+01:15:41,0 --> 01:15:41,0
+
+
+766
+01:15:41,0 --> 01:15:41,0
+Heth
+
+767
+01:15:41,0 --> 01:15:41,0
+
+
+768
+01:15:41,0 --> 01:15:41,0
+
+
+769
+01:15:41,0 --> 01:15:41,0
+
+
+770
+01:15:41,0 --> 01:15:41,0
+
+
+771
+01:15:41,0 --> 01:15:41,0
+
+
+772
+01:15:41,0 --> 01:15:41,0
+lived
+
+773
+01:15:41,0 --> 01:15:41,0
+
+
+774
+01:15:41,0 --> 01:15:41,0
+
+
+775
+01:15:41,0 --> 01:15:41,0
+in
+
+776
+01:15:41,0 --> 01:15:41,0
+
+
+777
+01:15:41,0 --> 01:15:41,0
+
+
+778
+01:15:41,0 --> 01:15:41,0
+
+
+779
+01:15:41,0 --> 01:15:41,0
+
+
+780
+01:15:41,0 --> 01:15:41,0
+
+
+781
+01:15:41,0 --> 01:15:41,0
+
+
+782
+01:15:41,0 --> 01:15:41,0
+
+
+783
+01:15:41,0 --> 01:15:41,0
+
+
+784
+01:15:41,0 --> 01:15:41,0
+
+
+785
+01:15:41,0 --> 01:15:41,0
+captivity
+
+786
+01:15:41,0 --> 01:15:41,0
+
+
+787
+01:15:41,0 --> 01:15:41,0
+
+
+788
+01:15:41,0 --> 01:15:41,0
+
+
+789
+01:15:41,0 --> 01:15:41,0
+all
+
+790
+01:15:41,0 --> 01:15:41,0
+
+
+791
+01:15:41,0 --> 01:15:41,0
+
+
+792
+01:15:41,0 --> 01:15:41,0
+
+
+793
+01:15:41,0 --> 01:15:41,0
+his
+
+794
+01:15:41,0 --> 01:15:41,0
+
+
+795
+01:15:41,0 --> 01:15:41,0
+
+
+796
+01:15:41,0 --> 01:15:41,0
+
+
+797
+01:15:41,0 --> 01:15:41,0
+
+
+798
+01:15:41,0 --> 01:15:41,0
+
+
+799
+01:15:41,0 --> 01:15:41,0
+days.
+
+800
+01:15:41,0 --> 01:15:41,0
+
+
+801
+01:15:41,0 --> 01:15:41,0
+
+
+802
+01:15:41,0 --> 01:15:41,0
+
+
+803
+01:15:41,0 --> 01:15:41,0
+And
+
+804
+01:15:41,0 --> 01:15:41,0
+
+
+805
+01:15:41,0 --> 01:15:41,0
+
+
+806
+01:15:41,0 --> 01:15:41,0
+
+
+807
+01:15:41,0 --> 01:15:41,0
+
+
+808
+01:15:41,0 --> 01:15:41,0
+Heth
+
+809
+01:15:41,0 --> 01:15:41,0
+
+
+810
+01:15:41,0 --> 01:15:41,0
+
+
+811
+01:15:41,0 --> 01:15:41,0
+
+
+812
+01:15:41,0 --> 01:15:41,0
+
+
+813
+01:15:41,0 --> 01:15:41,0
+
+
+814
+01:15:41,0 --> 01:15:41,0
+begat
+
+815
+01:15:41,0 --> 01:15:41,0
+
+
+816
+01:15:41,0 --> 01:15:41,0
+
+
+817
+01:15:41,0 --> 01:15:41,0
+
+
+818
+01:15:41,0 --> 01:15:41,0
+
+
+819
+01:15:41,0 --> 01:15:41,0
+
+
+820
+01:15:41,0 --> 01:15:41,0
+
+
+821
+01:15:41,0 --> 01:15:41,0
+Aaron,
+
+822
+01:15:41,0 --> 01:15:41,0
+
+
+823
+01:15:41,0 --> 01:15:41,0
+
+
+824
+01:15:41,0 --> 01:15:41,0
+
+
+825
+01:15:41,0 --> 01:15:41,0
+and
+
+826
+01:15:41,0 --> 01:15:41,0
+
+
+827
+01:15:41,0 --> 01:15:41,0
+
+
+828
+01:15:41,0 --> 01:15:41,0
+
+
+829
+01:15:41,0 --> 01:15:41,0
+
+
+830
+01:15:41,0 --> 01:15:41,0
+
+
+831
+01:15:41,0 --> 01:15:41,0
+Aaron
+
+832
+01:15:41,0 --> 01:15:41,0
+
+
+833
+01:15:41,0 --> 01:15:41,0
+
+
+834
+01:15:41,0 --> 01:15:41,0
+
+
+835
+01:15:41,0 --> 01:15:41,0
+
+
+836
+01:15:41,0 --> 01:15:41,0
+
+
+837
+01:15:41,0 --> 01:15:41,0
+dwelt
+
+838
+01:15:41,0 --> 01:15:41,0
+
+
+839
+01:15:41,0 --> 01:15:41,0
+
+
+840
+01:15:41,0 --> 01:15:41,0
+in
+
+841
+01:15:41,0 --> 01:15:41,0
+
+
+842
+01:15:41,0 --> 01:15:41,0
+
+
+843
+01:15:41,0 --> 01:15:41,0
+
+
+844
+01:15:41,0 --> 01:15:41,0
+
+
+845
+01:15:41,0 --> 01:15:41,0
+
+
+846
+01:15:41,0 --> 01:15:41,0
+
+
+847
+01:15:41,0 --> 01:15:41,0
+
+
+848
+01:15:41,0 --> 01:15:41,0
+
+
+849
+01:15:41,0 --> 01:15:41,0
+
+
+850
+01:15:41,0 --> 01:15:41,0
+captivity
+
+851
+01:15:41,0 --> 01:15:41,0
+
+
+852
+01:15:41,0 --> 01:15:41,0
+
+
+853
+01:15:41,0 --> 01:15:41,0
+
+
+854
+01:15:41,0 --> 01:15:41,0
+all
+
+855
+01:15:41,0 --> 01:15:41,0
+
+
+856
+01:15:41,0 --> 01:15:41,0
+
+
+857
+01:15:41,0 --> 01:15:41,0
+
+
+858
+01:15:41,0 --> 01:15:41,0
+his
+
+859
+01:15:41,0 --> 01:15:41,0
+
+
+860
+01:15:41,0 --> 01:15:41,0
+
+
+861
+01:15:41,0 --> 01:15:41,0
+
+
+862
+01:15:41,0 --> 01:15:41,0
+
+
+863
+01:15:41,0 --> 01:15:41,0
+
+
+864
+01:15:41,0 --> 01:15:41,0
+days;
+
+865
+01:15:41,0 --> 01:15:41,0
+
+
+866
+01:15:41,0 --> 01:15:41,0
+
+
+867
+01:15:41,0 --> 01:15:41,0
+
+
+868
+01:15:41,0 --> 01:15:41,0
+and
+
+869
+01:15:41,0 --> 01:15:41,0
+
+
+870
+01:15:41,0 --> 01:15:41,0
+
+
+871
+01:15:41,0 --> 01:15:41,0
+he
+
+872
+01:15:41,0 --> 01:15:41,0
+
+
+873
+01:15:41,0 --> 01:15:41,0
+
+
+874
+01:15:41,0 --> 01:15:41,0
+
+
+875
+01:15:41,0 --> 01:15:41,0
+
+
+876
+01:15:41,0 --> 01:15:41,0
+
+
+877
+01:15:41,0 --> 01:15:41,0
+begat
+
+878
+01:15:41,0 --> 01:15:41,0
+
+
+879
+01:15:41,0 --> 01:15:41,0
+
+
+880
+01:15:41,0 --> 01:15:41,0
+
+
+881
+01:15:41,0 --> 01:15:41,0
+
+
+882
+01:15:41,0 --> 01:15:41,0
+
+
+883
+01:15:41,0 --> 01:15:41,0
+
+
+884
+01:15:41,0 --> 01:15:55,
+Amnigaddah, and Amnigaddah also dwelt in captivity all his days; and he begat Coriantum, and Coriantum dwelt in captivity all his days; and he begat Com.
+
+885
+01:15:55,0 --> 01:15:55,0
+32 And it came to pass that Com drew away the half of the kingdom. And he reigned over the half of the kingdom forty and two years; and he went to battle against the king, Amgid, and they fought for the space of many years, during which time Com gained power over Amgid, and obtained power over the remainder of the
+
+886
+01:15:55,0 --> 01:15:55,0
+
+
+887
+01:15:55,0 --> 01:15:55,0
+
+
+888
+01:15:55,0 --> 01:15:55,0
+
+
+889
+01:15:55,0 --> 01:15:55,0
+
+
+890
+01:15:55,0 --> 01:15:55,0
+And
+
+891
+01:15:55,0 --> 01:15:55,0
+
+
+892
+01:15:55,0 --> 01:15:55,0
+
+
+893
+01:15:55,0 --> 01:15:55,0
+it
+
+894
+01:15:55,0 --> 01:15:55,0
+
+
+895
+01:15:55,0 --> 01:15:55,0
+
+
+896
+01:15:55,0 --> 01:15:55,0
+
+
+897
+01:15:55,0 --> 01:15:55,0
+
+
+898
+01:15:55,0 --> 01:15:55,0
+came
+
+899
+01:15:55,0 --> 01:15:55,0
+
+
+900
+01:15:55,0 --> 01:15:55,0
+
+
+901
+01:15:55,0 --> 01:15:55,0
+to
+
+902
+01:15:55,0 --> 01:15:55,0
+
+
+903
+01:15:55,0 --> 01:15:55,0
+
+
+904
+01:15:55,0 --> 01:15:55,0
+
+
+905
+01:15:55,0 --> 01:15:55,0
+
+
+906
+01:15:55,0 --> 01:15:55,0
+pass
+
+907
+01:15:55,0 --> 01:15:55,0
+
+
+908
+01:15:55,0 --> 01:15:55,0
+
+
+909
+01:15:55,0 --> 01:15:55,0
+
+
+910
+01:15:55,0 --> 01:15:55,0
+
+
+911
+01:15:55,0 --> 01:15:55,0
+that
+
+912
+01:15:55,0 --> 01:15:55,0
+
+
+913
+01:15:55,0 --> 01:15:55,0
+
+
+914
+01:15:55,0 --> 01:15:55,0
+
+
+915
+01:15:55,0 --> 01:15:55,0
+Com
+
+916
+01:15:55,0 --> 01:15:55,0
+
+
+917
+01:15:55,0 --> 01:15:55,0
+
+
+918
+01:15:55,0 --> 01:15:55,0
+
+
+919
+01:15:55,0 --> 01:15:55,0
+
+
+920
+01:15:55,0 --> 01:15:55,0
+drew
+
+921
+01:15:55,0 --> 01:15:55,0
+
+
+922
+01:15:55,0 --> 01:15:55,0
+
+
+923
+01:15:55,0 --> 01:15:55,0
+
+
+924
+01:15:55,0 --> 01:15:55,0
+
+
+925
+01:15:55,0 --> 01:15:55,0
+away
+
+926
+01:15:55,0 --> 01:15:55,0
+
+
+927
+01:15:55,0 --> 01:15:55,0
+
+
+928
+01:15:55,0 --> 01:15:55,0
+
+
+929
+01:15:55,0 --> 01:15:55,0
+the
+
+930
+01:15:55,0 --> 01:15:55,0
+
+
+931
+01:15:55,0 --> 01:15:55,0
+
+
+932
+01:15:55,0 --> 01:15:55,0
+
+
+933
+01:15:55,0 --> 01:15:55,0
+
+
+934
+01:15:55,0 --> 01:15:55,0
+half
+
+935
+01:15:55,0 --> 01:15:55,0
+
+
+936
+01:15:55,0 --> 01:15:55,0
+
+
+937
+01:15:55,0 --> 01:15:55,0
+of
+
+938
+01:15:55,0 --> 01:15:55,0
+
+
+939
+01:15:55,0 --> 01:15:55,0
+
+
+940
+01:15:55,0 --> 01:15:55,0
+
+
+941
+01:15:55,0 --> 01:15:55,0
+the
+
+942
+01:15:55,0 --> 01:15:55,0
+
+
+943
+01:15:55,0 --> 01:15:55,0
+
+
+944
+01:15:55,0 --> 01:15:55,0
+
+
+945
+01:15:55,0 --> 01:15:55,0
+
+
+946
+01:15:55,0 --> 01:15:55,0
+
+
+947
+01:15:55,0 --> 01:15:55,0
+
+
+948
+01:15:55,0 --> 01:15:55,0
+
+
+949
+01:15:55,0 --> 01:15:55,0
+
+
+950
+01:15:55,0 --> 01:15:55,0
+kingdom.
+
+951
+01:15:55,0 --> 01:15:55,0
+
+
+952
+01:15:55,0 --> 01:15:55,0
+
+
+953
+01:15:55,0 --> 01:15:55,0
+
+
+954
+01:15:55,0 --> 01:15:55,0
+And
+
+955
+01:15:55,0 --> 01:15:55,0
+
+
+956
+01:15:55,0 --> 01:15:55,0
+
+
+957
+01:15:55,0 --> 01:15:55,0
+he
+
+958
+01:15:55,0 --> 01:15:55,0
+
+
+959
+01:15:55,0 --> 01:15:55,0
+
+
+960
+01:15:55,0 --> 01:15:55,0
+
+
+961
+01:15:55,0 --> 01:15:55,0
+
+
+962
+01:15:55,0 --> 01:15:55,0
+
+
+963
+01:15:55,0 --> 01:15:55,0
+
+
+964
+01:15:55,0 --> 01:15:55,0
+
+
+965
+01:15:55,0 --> 01:15:55,0
+reigned
+
+966
+01:15:55,0 --> 01:15:55,0
+
+
+967
+01:15:55,0 --> 01:15:55,0
+
+
+968
+01:15:55,0 --> 01:15:55,0
+
+
+969
+01:15:55,0 --> 01:15:55,0
+
+
+970
+01:15:55,0 --> 01:15:55,0
+over
+
+971
+01:15:55,0 --> 01:15:55,0
+
+
+972
+01:15:55,0 --> 01:15:55,0
+
+
+973
+01:15:55,0 --> 01:15:55,0
+
+
+974
+01:15:55,0 --> 01:15:55,0
+the
+
+975
+01:15:55,0 --> 01:15:55,0
+
+
+976
+01:15:55,0 --> 01:15:55,0
+
+
+977
+01:15:55,0 --> 01:15:55,0
+
+
+978
+01:15:55,0 --> 01:15:55,0
+
+
+979
+01:15:55,0 --> 01:15:55,0
+half
+
+980
+01:15:55,0 --> 01:15:55,0
+
+
+981
+01:15:55,0 --> 01:15:55,0
+
+
+982
+01:15:55,0 --> 01:15:55,0
+of
+
+983
+01:15:55,0 --> 01:15:55,0
+
+
+984
+01:15:55,0 --> 01:15:55,0
+
+
+985
+01:15:55,0 --> 01:15:55,0
+
+
+986
+01:15:55,0 --> 01:15:55,0
+the
+
+987
+01:15:55,0 --> 01:15:55,0
+
+
+988
+01:15:55,0 --> 01:15:55,0
+
+
+989
+01:15:55,0 --> 01:15:55,0
+
+
+990
+01:15:55,0 --> 01:15:55,0
+
+
+991
+01:15:55,0 --> 01:15:55,0
+
+
+992
+01:15:55,0 --> 01:15:55,0
+
+
+993
+01:15:55,0 --> 01:15:55,0
+
+
+994
+01:15:55,0 --> 01:15:55,0
+kingdom
+
+995
+01:15:55,0 --> 01:15:55,0
+
+
+996
+01:15:55,0 --> 01:15:55,0
+
+
+997
+01:15:55,0 --> 01:15:55,0
+
+
+998
+01:15:55,0 --> 01:15:55,0
+
+
+999
+01:15:55,0 --> 01:15:55,0
+
+
+1000
+01:15:55,0 --> 01:15:55,0
+forty
+
+1001
+01:15:55,0 --> 01:15:55,0
+
+
+1002
+01:15:55,0 --> 01:15:55,0
+
+
+1003
+01:15:55,0 --> 01:15:55,0
+
+
+1004
+01:15:55,0 --> 01:15:55,0
+and
+
+1005
+01:15:55,0 --> 01:15:55,0
+
+
+1006
+01:15:55,0 --> 01:15:55,0
+
+
+1007
+01:15:55,0 --> 01:15:55,0
+
+
+1008
+01:15:55,0 --> 01:15:55,0
+two
+
+1009
+01:15:55,0 --> 01:15:55,0
+
+
+1010
+01:15:55,0 --> 01:15:55,0
+
+
+1011
+01:15:55,0 --> 01:15:55,0
+
+
+1012
+01:15:55,0 --> 01:15:55,0
+
+
+1013
+01:15:55,0 --> 01:15:55,0
+
+
+1014
+01:15:55,0 --> 01:15:55,0
+
+
+1015
+01:15:55,0 --> 01:15:55,0
+years;
+
+1016
+01:15:55,0 --> 01:15:55,0
+
+
+1017
+01:15:55,0 --> 01:15:55,0
+
+
+1018
+01:15:55,0 --> 01:15:55,0
+
+
+1019
+01:15:55,0 --> 01:15:55,0
+and
+
+1020
+01:15:55,0 --> 01:15:55,0
+
+
+1021
+01:15:55,0 --> 01:15:55,0
+
+
+1022
+01:15:55,0 --> 01:15:55,0
+he
+
+1023
+01:15:55,0 --> 01:15:55,0
+
+
+1024
+01:15:55,0 --> 01:15:55,0
+
+
+1025
+01:15:55,0 --> 01:15:55,0
+
+
+1026
+01:15:55,0 --> 01:15:55,0
+
+
+1027
+01:15:55,0 --> 01:15:55,0
+went
+
+1028
+01:15:55,0 --> 01:15:55,0
+
+
+1029
+01:15:55,0 --> 01:15:55,0
+
+
+1030
+01:15:55,0 --> 01:15:55,0
+to
+
+1031
+01:15:55,0 --> 01:15:55,0
+
+
+1032
+01:15:55,0 --> 01:15:55,0
+
+
+1033
+01:15:55,0 --> 01:15:55,0
+
+
+1034
+01:15:55,0 --> 01:15:55,0
+
+
+1035
+01:15:55,0 --> 01:15:55,0
+
+
+1036
+01:15:55,0 --> 01:15:55,0
+
+
+1037
+01:15:55,0 --> 01:15:55,0
+battle
+
+1038
+01:15:55,0 --> 01:15:55,0
+
+
+1039
+01:15:55,0 --> 01:15:55,0
+
+
+1040
+01:15:55,0 --> 01:15:55,0
+
+
+1041
+01:15:55,0 --> 01:15:55,0
+
+
+1042
+01:15:55,0 --> 01:15:55,0
+
+
+1043
+01:15:55,0 --> 01:15:55,0
+
+
+1044
+01:15:55,0 --> 01:15:55,0
+
+
+1045
+01:15:55,0 --> 01:15:55,0
+against
+
+1046
+01:15:55,0 --> 01:15:55,0
+
+
+1047
+01:15:55,0 --> 01:15:55,0
+
+
+1048
+01:15:55,0 --> 01:15:55,0
+
+
+1049
+01:15:55,0 --> 01:15:55,0
+the
+
+1050
+01:15:55,0 --> 01:15:55,0
+
+
+1051
+01:15:55,0 --> 01:15:55,0
+
+
+1052
+01:15:55,0 --> 01:15:55,0
+
+
+1053
+01:15:55,0 --> 01:15:55,0
+
+
+1054
+01:15:55,0 --> 01:15:55,0
+
+
+1055
+01:15:55,0 --> 01:15:55,0
+king,
+
+1056
+01:15:55,0 --> 01:15:55,0
+
+
+1057
+01:15:55,0 --> 01:15:55,0
+
+
+1058
+01:15:55,0 --> 01:15:55,0
+
+
+1059
+01:15:55,0 --> 01:15:55,0
+
+
+1060
+01:15:55,0 --> 01:15:55,0
+
+
+1061
+01:15:55,0 --> 01:15:55,0
+
+
+1062
+01:15:55,0 --> 01:15:55,0
+Amgid,
+
+1063
+01:15:55,0 --> 01:15:55,0
+
+
+1064
+01:15:55,0 --> 01:15:55,0
+
+
+1065
+01:15:55,0 --> 01:15:55,0
+
+
+1066
+01:15:55,0 --> 01:15:55,0
+and
+
+1067
+01:15:55,0 --> 01:15:55,0
+
+
+1068
+01:15:55,0 --> 01:15:55,0
+
+
+1069
+01:15:55,0 --> 01:15:55,0
+
+
+1070
+01:15:55,0 --> 01:15:55,0
+
+
+1071
+01:15:55,0 --> 01:15:55,0
+they
+
+1072
+01:15:55,0 --> 01:15:55,0
+
+
+1073
+01:15:55,0 --> 01:15:55,0
+
+
+1074
+01:15:55,0 --> 01:15:55,0
+
+
+1075
+01:15:55,0 --> 01:15:55,0
+
+
+1076
+01:15:55,0 --> 01:15:55,0
+
+
+1077
+01:15:55,0 --> 01:15:55,0
+
+
+1078
+01:15:55,0 --> 01:15:55,0
+fought
+
+1079
+01:15:55,0 --> 01:15:55,0
+
+
+1080
+01:15:55,0 --> 01:15:55,0
+
+
+1081
+01:15:55,0 --> 01:15:55,0
+
+
+1082
+01:15:55,0 --> 01:15:55,0
+for
+
+1083
+01:15:55,0 --> 01:15:55,0
+
+
+1084
+01:15:55,0 --> 01:15:55,0
+
+
+1085
+01:15:55,0 --> 01:15:55,0
+
+
+1086
+01:15:55,0 --> 01:15:55,0
+the
+
+1087
+01:15:55,0 --> 01:15:55,0
+
+
+1088
+01:15:55,0 --> 01:15:55,0
+
+
+1089
+01:15:55,0 --> 01:15:55,0
+
+
+1090
+01:15:55,0 --> 01:15:55,0
+
+
+1091
+01:15:55,0 --> 01:15:55,0
+
+
+1092
+01:15:55,0 --> 01:15:55,0
+space
+
+1093
+01:15:55,0 --> 01:15:55,0
+
+
+1094
+01:15:55,0 --> 01:15:55,0
+
+
+1095
+01:15:55,0 --> 01:15:55,0
+of
+
+1096
+01:15:55,0 --> 01:15:55,0
+
+
+1097
+01:15:55,0 --> 01:15:55,0
+
+
+1098
+01:15:55,0 --> 01:15:55,0
+
+
+1099
+01:15:55,0 --> 01:15:55,0
+
+
+1100
+01:15:55,0 --> 01:15:55,0
+many
+
+1101
+01:15:55,0 --> 01:15:55,0
+
+
+1102
+01:15:55,0 --> 01:15:55,0
+
+
+1103
+01:15:55,0 --> 01:15:55,0
+
+
+1104
+01:15:55,0 --> 01:15:55,0
+
+
+1105
+01:15:55,0 --> 01:15:55,0
+
+
+1106
+01:15:55,0 --> 01:15:55,0
+
+
+1107
+01:15:55,0 --> 01:15:55,0
+years,
+
+1108
+01:15:55,0 --> 01:15:55,0
+
+
+1109
+01:15:55,0 --> 01:15:55,0
+
+
+1110
+01:15:55,0 --> 01:15:55,0
+
+
+1111
+01:15:55,0 --> 01:15:55,0
+
+
+1112
+01:15:55,0 --> 01:15:55,0
+
+
+1113
+01:15:55,0 --> 01:15:55,0
+
+
+1114
+01:15:55,0 --> 01:15:55,0
+during
+
+1115
+01:15:55,0 --> 01:15:55,0
+
+
+1116
+01:15:55,0 --> 01:15:55,0
+
+
+1117
+01:15:55,0 --> 01:15:55,0
+
+
+1118
+01:15:55,0 --> 01:15:55,0
+
+
+1119
+01:15:55,0 --> 01:15:55,0
+
+
+1120
+01:15:55,0 --> 01:15:55,0
+which
+
+1121
+01:15:55,0 --> 01:15:55,0
+
+
+1122
+01:15:55,0 --> 01:15:55,0
+
+
+1123
+01:15:55,0 --> 01:15:55,0
+
+
+1124
+01:15:55,0 --> 01:15:55,0
+
+
+1125
+01:15:55,0 --> 01:15:55,0
+time
+
+1126
+01:15:55,0 --> 01:15:55,0
+
+
+1127
+01:15:55,0 --> 01:15:55,0
+
+
+1128
+01:15:55,0 --> 01:15:55,0
+
+
+1129
+01:15:55,0 --> 01:15:55,0
+Com
+
+1130
+01:15:55,0 --> 01:15:55,0
+
+
+1131
+01:15:55,0 --> 01:15:55,0
+
+
+1132
+01:15:55,0 --> 01:15:55,0
+
+
+1133
+01:15:55,0 --> 01:15:55,0
+
+
+1134
+01:15:55,0 --> 01:15:55,0
+
+
+1135
+01:15:55,0 --> 01:15:55,0
+
+
+1136
+01:15:55,0 --> 01:15:55,0
+gained
+
+1137
+01:15:55,0 --> 01:15:55,0
+
+
+1138
+01:15:55,0 --> 01:15:55,0
+
+
+1139
+01:15:55,0 --> 01:15:55,0
+
+
+1140
+01:15:55,0 --> 01:15:55,0
+
+
+1141
+01:15:55,0 --> 01:15:55,0
+
+
+1142
+01:15:55,0 --> 01:15:55,0
+power
+
+1143
+01:15:55,0 --> 01:15:55,0
+
+
+1144
+01:15:55,0 --> 01:15:55,0
+
+
+1145
+01:15:55,0 --> 01:15:55,0
+
+
+1146
+01:15:55,0 --> 01:15:55,0
+
+
+1147
+01:15:55,0 --> 01:15:55,0
+over
+
+1148
+01:15:55,0 --> 01:15:55,0
+
+
+1149
+01:15:55,0 --> 01:15:55,0
+
+
+1150
+01:15:55,0 --> 01:15:55,0
+
+
+1151
+01:15:55,0 --> 01:15:55,0
+
+
+1152
+01:15:55,0 --> 01:15:55,0
+
+
+1153
+01:15:55,0 --> 01:15:55,0
+
+
+1154
+01:15:55,0 --> 01:15:55,0
+Amgid,
+
+1155
+01:15:55,0 --> 01:15:55,0
+
+
+1156
+01:15:55,0 --> 01:15:55,0
+
+
+1157
+01:15:55,0 --> 01:15:55,0
+
+
+1158
+01:15:55,0 --> 01:15:55,0
+and
+
+1159
+01:15:55,0 --> 01:15:55,0
+
+
+1160
+01:15:55,0 --> 01:15:55,0
+
+
+1161
+01:15:55,0 --> 01:15:55,0
+
+
+1162
+01:15:55,0 --> 01:15:55,0
+
+
+1163
+01:15:55,0 --> 01:15:55,0
+
+
+1164
+01:15:55,0 --> 01:15:55,0
+
+
+1165
+01:15:55,0 --> 01:15:55,0
+
+
+1166
+01:15:55,0 --> 01:15:55,0
+
+
+1167
+01:15:55,0 --> 01:15:55,0
+obtained
+
+1168
+01:15:55,0 --> 01:15:55,0
+
+
+1169
+01:15:55,0 --> 01:15:55,0
+
+
+1170
+01:15:55,0 --> 01:15:55,0
+
+
+1171
+01:15:55,0 --> 01:15:55,0
+
+
+1172
+01:15:55,0 --> 01:15:55,0
+
+
+1173
+01:15:55,0 --> 01:15:55,0
+power
+
+1174
+01:15:55,0 --> 01:15:55,0
+
+
+1175
+01:15:55,0 --> 01:15:55,0
+
+
+1176
+01:15:55,0 --> 01:15:55,0
+
+
+1177
+01:15:55,0 --> 01:15:55,0
+
+
+1178
+01:15:55,0 --> 01:15:55,0
+over
+
+1179
+01:15:55,0 --> 01:15:55,0
+
+
+1180
+01:15:55,0 --> 01:15:55,0
+
+
+1181
+01:15:55,0 --> 01:15:55,0
+
+
+1182
+01:15:55,0 --> 01:15:55,0
+the
+
+1183
+01:15:55,0 --> 01:15:55,0
+
+
+1184
+01:15:55,0 --> 01:15:55,0
+
+
+1185
+01:15:55,0 --> 01:15:55,0
+
+
+1186
+01:15:55,0 --> 01:15:55,0
+
+
+1187
+01:15:55,0 --> 01:15:55,0
+
+
+1188
+01:15:55,0 --> 01:15:55,0
+
+
+1189
+01:15:55,0 --> 01:15:55,0
+
+
+1190
+01:15:55,0 --> 01:15:55,0
+
+
+1191
+01:15:55,0 --> 01:15:55,0
+
+
+1192
+01:15:55,0 --> 01:15:55,0
+remainder
+
+1193
+01:15:55,0 --> 01:15:55,0
+
+
+1194
+01:15:55,0 --> 01:15:55,0
+
+
+1195
+01:15:55,0 --> 01:15:55,0
+of
+
+1196
+01:15:55,0 --> 01:15:55,0
+
+
+1197
+01:15:55,0 --> 01:15:55,0
+
+
+1198
+01:15:55,0 --> 01:15:55,0
+
+
+1199
+01:15:55,0 --> 01:15:55,0
+the
+
+1200
+01:15:55,0 --> 01:15:55,0
+
+
+1201
+01:15:55,0 --> 01:15:55,0
+
+
+1202
+01:15:55,0 --> 01:15:55,0
+
+
+1203
+01:15:55,0 --> 01:15:55,0
+
+
+1204
+01:15:55,0 --> 01:15:55,0
+
+
+1205
+01:15:55,0 --> 01:15:55,0
+
+
+1206
+01:15:55,0 --> 01:15:55,0
+
+
+1207
+01:15:55,0 --> 01:15:55,0
+
+
+1208
+01:15:55,0 --> 01:15:41,
+kingdom.
+
+1209
+01:15:41,0 --> 01:15:41,0
+33 And in the days of Com there began to be robbers in the land; and they adopted the old plans, and administered oaths after the manner of the ancients, and sought again to destroy the
+
+1210
+01:15:41,0 --> 01:15:41,0
+
+
+1211
+01:15:41,0 --> 01:15:41,0
+
+
+1212
+01:15:41,0 --> 01:15:41,0
+
+
+1213
+01:15:41,0 --> 01:15:41,0
+
+
+1214
+01:15:41,0 --> 01:15:41,0
+And
+
+1215
+01:15:41,0 --> 01:15:41,0
+
+
+1216
+01:15:41,0 --> 01:15:41,0
+
+
+1217
+01:15:41,0 --> 01:15:41,0
+in
+
+1218
+01:15:41,0 --> 01:15:41,0
+
+
+1219
+01:15:41,0 --> 01:15:41,0
+
+
+1220
+01:15:41,0 --> 01:15:41,0
+
+
+1221
+01:15:41,0 --> 01:15:41,0
+the
+
+1222
+01:15:41,0 --> 01:15:41,0
+
+
+1223
+01:15:41,0 --> 01:15:41,0
+
+
+1224
+01:15:41,0 --> 01:15:41,0
+
+
+1225
+01:15:41,0 --> 01:15:41,0
+
+
+1226
+01:15:41,0 --> 01:15:41,0
+days
+
+1227
+01:15:41,0 --> 01:15:41,0
+
+
+1228
+01:15:41,0 --> 01:15:41,0
+
+
+1229
+01:15:41,0 --> 01:15:41,0
+of
+
+1230
+01:15:41,0 --> 01:15:41,0
+
+
+1231
+01:15:41,0 --> 01:15:41,0
+
+
+1232
+01:15:41,0 --> 01:15:41,0
+
+
+1233
+01:15:41,0 --> 01:15:41,0
+Com
+
+1234
+01:15:41,0 --> 01:15:41,0
+
+
+1235
+01:15:41,0 --> 01:15:41,0
+
+
+1236
+01:15:41,0 --> 01:15:41,0
+
+
+1237
+01:15:41,0 --> 01:15:41,0
+
+
+1238
+01:15:41,0 --> 01:15:41,0
+
+
+1239
+01:15:41,0 --> 01:15:41,0
+there
+
+1240
+01:15:41,0 --> 01:15:41,0
+
+
+1241
+01:15:41,0 --> 01:15:41,0
+
+
+1242
+01:15:41,0 --> 01:15:41,0
+
+
+1243
+01:15:41,0 --> 01:15:41,0
+
+
+1244
+01:15:41,0 --> 01:15:41,0
+
+
+1245
+01:15:41,0 --> 01:15:41,0
+began
+
+1246
+01:15:41,0 --> 01:15:41,0
+
+
+1247
+01:15:41,0 --> 01:15:41,0
+
+
+1248
+01:15:41,0 --> 01:15:41,0
+to
+
+1249
+01:15:41,0 --> 01:15:41,0
+
+
+1250
+01:15:41,0 --> 01:15:41,0
+
+
+1251
+01:15:41,0 --> 01:15:41,0
+be
+
+1252
+01:15:41,0 --> 01:15:41,0
+
+
+1253
+01:15:41,0 --> 01:15:41,0
+
+
+1254
+01:15:41,0 --> 01:15:41,0
+
+
+1255
+01:15:41,0 --> 01:15:41,0
+
+
+1256
+01:15:41,0 --> 01:15:41,0
+
+
+1257
+01:15:41,0 --> 01:15:41,0
+
+
+1258
+01:15:41,0 --> 01:15:41,0
+
+
+1259
+01:15:41,0 --> 01:15:41,0
+robbers
+
+1260
+01:15:41,0 --> 01:15:41,0
+
+
+1261
+01:15:41,0 --> 01:15:41,0
+
+
+1262
+01:15:41,0 --> 01:15:41,0
+in
+
+1263
+01:15:41,0 --> 01:15:41,0
+
+
+1264
+01:15:41,0 --> 01:15:41,0
+
+
+1265
+01:15:41,0 --> 01:15:41,0
+
+
+1266
+01:15:41,0 --> 01:15:41,0
+the
+
+1267
+01:15:41,0 --> 01:15:41,0
+
+
+1268
+01:15:41,0 --> 01:15:41,0
+
+
+1269
+01:15:41,0 --> 01:15:41,0
+
+
+1270
+01:15:41,0 --> 01:15:41,0
+
+
+1271
+01:15:41,0 --> 01:15:41,0
+
+
+1272
+01:15:41,0 --> 01:15:41,0
+land;
+
+1273
+01:15:41,0 --> 01:15:41,0
+
+
+1274
+01:15:41,0 --> 01:15:41,0
+
+
+1275
+01:15:41,0 --> 01:15:41,0
+
+
+1276
+01:15:41,0 --> 01:15:41,0
+and
+
+1277
+01:15:41,0 --> 01:15:41,0
+
+
+1278
+01:15:41,0 --> 01:15:41,0
+
+
+1279
+01:15:41,0 --> 01:15:41,0
+
+
+1280
+01:15:41,0 --> 01:15:41,0
+
+
+1281
+01:15:41,0 --> 01:15:41,0
+they
+
+1282
+01:15:41,0 --> 01:15:41,0
+
+
+1283
+01:15:41,0 --> 01:15:41,0
+
+
+1284
+01:15:41,0 --> 01:15:41,0
+
+
+1285
+01:15:41,0 --> 01:15:41,0
+
+
+1286
+01:15:41,0 --> 01:15:41,0
+
+
+1287
+01:15:41,0 --> 01:15:41,0
+
+
+1288
+01:15:41,0 --> 01:15:41,0
+
+
+1289
+01:15:41,0 --> 01:15:41,0
+adopted
+
+1290
+01:15:41,0 --> 01:15:41,0
+
+
+1291
+01:15:41,0 --> 01:15:41,0
+
+
+1292
+01:15:41,0 --> 01:15:41,0
+
+
+1293
+01:15:41,0 --> 01:15:41,0
+the
+
+1294
+01:15:41,0 --> 01:15:41,0
+
+
+1295
+01:15:41,0 --> 01:15:41,0
+
+
+1296
+01:15:41,0 --> 01:15:41,0
+
+
+1297
+01:15:41,0 --> 01:15:41,0
+old
+
+1298
+01:15:41,0 --> 01:15:41,0
+
+
+1299
+01:15:41,0 --> 01:15:41,0
+
+
+1300
+01:15:41,0 --> 01:15:41,0
+
+
+1301
+01:15:41,0 --> 01:15:41,0
+
+
+1302
+01:15:41,0 --> 01:15:41,0
+
+
+1303
+01:15:41,0 --> 01:15:41,0
+
+
+1304
+01:15:41,0 --> 01:15:41,0
+plans,
+
+1305
+01:15:41,0 --> 01:15:41,0
+
+
+1306
+01:15:41,0 --> 01:15:41,0
+
+
+1307
+01:15:41,0 --> 01:15:41,0
+
+
+1308
+01:15:41,0 --> 01:15:41,0
+and
+
+1309
+01:15:41,0 --> 01:15:41,0
+
+
+1310
+01:15:41,0 --> 01:15:41,0
+
+
+1311
+01:15:41,0 --> 01:15:41,0
+
+
+1312
+01:15:41,0 --> 01:15:41,0
+
+
+1313
+01:15:41,0 --> 01:15:41,0
+
+
+1314
+01:15:41,0 --> 01:15:41,0
+
+
+1315
+01:15:41,0 --> 01:15:41,0
+
+
+1316
+01:15:41,0 --> 01:15:41,0
+
+
+1317
+01:15:41,0 --> 01:15:41,0
+
+
+1318
+01:15:41,0 --> 01:15:41,0
+
+
+1319
+01:15:41,0 --> 01:15:41,0
+
+
+1320
+01:15:41,0 --> 01:15:41,0
+
+
+1321
+01:15:41,0 --> 01:15:41,0
+administered
+
+1322
+01:15:41,0 --> 01:15:41,0
+
+
+1323
+01:15:41,0 --> 01:15:41,0
+
+
+1324
+01:15:41,0 --> 01:15:41,0
+
+
+1325
+01:15:41,0 --> 01:15:41,0
+
+
+1326
+01:15:41,0 --> 01:15:41,0
+
+
+1327
+01:15:41,0 --> 01:15:41,0
+oaths
+
+1328
+01:15:41,0 --> 01:15:41,0
+
+
+1329
+01:15:41,0 --> 01:15:41,0
+
+
+1330
+01:15:41,0 --> 01:15:41,0
+
+
+1331
+01:15:41,0 --> 01:15:41,0
+
+
+1332
+01:15:41,0 --> 01:15:41,0
+
+
+1333
+01:15:41,0 --> 01:15:41,0
+after
+
+1334
+01:15:41,0 --> 01:15:41,0
+
+
+1335
+01:15:41,0 --> 01:15:41,0
+
+
+1336
+01:15:41,0 --> 01:15:41,0
+
+
+1337
+01:15:41,0 --> 01:15:41,0
+the
+
+1338
+01:15:41,0 --> 01:15:41,0
+
+
+1339
+01:15:41,0 --> 01:15:41,0
+
+
+1340
+01:15:41,0 --> 01:15:41,0
+
+
+1341
+01:15:41,0 --> 01:15:41,0
+
+
+1342
+01:15:41,0 --> 01:15:41,0
+
+
+1343
+01:15:41,0 --> 01:15:41,0
+
+
+1344
+01:15:41,0 --> 01:15:41,0
+manner
+
+1345
+01:15:41,0 --> 01:15:41,0
+
+
+1346
+01:15:41,0 --> 01:15:41,0
+
+
+1347
+01:15:41,0 --> 01:15:41,0
+of
+
+1348
+01:15:41,0 --> 01:15:41,0
+
+
+1349
+01:15:41,0 --> 01:15:41,0
+
+
+1350
+01:15:41,0 --> 01:15:41,0
+
+
+1351
+01:15:41,0 --> 01:15:41,0
+the
+
+1352
+01:15:41,0 --> 01:15:41,0
+
+
+1353
+01:15:41,0 --> 01:15:41,0
+
+
+1354
+01:15:41,0 --> 01:15:41,0
+
+
+1355
+01:15:41,0 --> 01:15:41,0
+
+
+1356
+01:15:41,0 --> 01:15:41,0
+
+
+1357
+01:15:41,0 --> 01:15:41,0
+
+
+1358
+01:15:41,0 --> 01:15:41,0
+
+
+1359
+01:15:41,0 --> 01:15:41,0
+
+
+1360
+01:15:41,0 --> 01:15:41,0
+
+
+1361
+01:15:41,0 --> 01:15:41,0
+ancients,
+
+1362
+01:15:41,0 --> 01:15:41,0
+
+
+1363
+01:15:41,0 --> 01:15:41,0
+
+
+1364
+01:15:41,0 --> 01:15:41,0
+
+
+1365
+01:15:41,0 --> 01:15:41,0
+and
+
+1366
+01:15:41,0 --> 01:15:41,0
+
+
+1367
+01:15:41,0 --> 01:15:41,0
+
+
+1368
+01:15:41,0 --> 01:15:41,0
+
+
+1369
+01:15:41,0 --> 01:15:41,0
+
+
+1370
+01:15:41,0 --> 01:15:41,0
+
+
+1371
+01:15:41,0 --> 01:15:41,0
+
+
+1372
+01:15:41,0 --> 01:15:41,0
+sought
+
+1373
+01:15:41,0 --> 01:15:41,0
+
+
+1374
+01:15:41,0 --> 01:15:41,0
+
+
+1375
+01:15:41,0 --> 01:15:41,0
+
+
+1376
+01:15:41,0 --> 01:15:41,0
+
+
+1377
+01:15:41,0 --> 01:15:41,0
+
+
+1378
+01:15:41,0 --> 01:15:41,0
+again
+
+1379
+01:15:41,0 --> 01:15:41,0
+
+
+1380
+01:15:41,0 --> 01:15:41,0
+
+
+1381
+01:15:41,0 --> 01:15:41,0
+to
+
+1382
+01:15:41,0 --> 01:15:41,0
+
+
+1383
+01:15:41,0 --> 01:15:41,0
+
+
+1384
+01:15:41,0 --> 01:15:41,0
+
+
+1385
+01:15:41,0 --> 01:15:41,0
+
+
+1386
+01:15:41,0 --> 01:15:41,0
+
+
+1387
+01:15:41,0 --> 01:15:41,0
+
+
+1388
+01:15:41,0 --> 01:15:41,0
+
+
+1389
+01:15:41,0 --> 01:15:41,0
+destroy
+
+1390
+01:15:41,0 --> 01:15:41,0
+
+
+1391
+01:15:41,0 --> 01:15:41,0
+
+
+1392
+01:15:41,0 --> 01:15:41,0
+
+
+1393
+01:15:41,0 --> 01:15:41,0
+the
+
+1394
+01:15:41,0 --> 01:15:41,0
+
+
+1395
+01:15:41,0 --> 01:15:41,0
+
+
+1396
+01:15:41,0 --> 01:15:41,0
+
+
+1397
+01:15:41,0 --> 01:15:41,0
+
+
+1398
+01:15:41,0 --> 01:15:41,0
+
+
+1399
+01:15:41,0 --> 01:15:41,0
+
+
+1400
+01:15:41,0 --> 01:15:41,0
+
+
+1401
+01:15:41,0 --> 01:15:41,0
+
+
+1402
+01:15:41,0 --> 01:15:55,
+kingdom.
+
+1403
+01:15:55,0 --> 01:15:55,0
+34 Now Com did fight against them much; nevertheless, he did not prevail against them.
+
+1404
+01:15:55,0 --> 01:15:55,0
+
+
+1405
+01:15:55,0 --> 01:15:55,0
+
+
+1406
+01:15:55,0 --> 01:15:55,0
+
+
+1407
+01:15:55,0 --> 01:15:55,0
+
+
+1408
+01:15:55,0 --> 01:15:55,0
+Now
+
+1409
+01:15:55,0 --> 01:15:55,0
+
+
+1410
+01:15:55,0 --> 01:15:55,0
+
+
+1411
+01:15:55,0 --> 01:15:55,0
+
+
+1412
+01:15:55,0 --> 01:15:55,0
+Com
+
+1413
+01:15:55,0 --> 01:15:55,0
+
+
+1414
+01:15:55,0 --> 01:15:55,0
+
+
+1415
+01:15:55,0 --> 01:15:55,0
+
+
+1416
+01:15:55,0 --> 01:15:55,0
+did
+
+1417
+01:15:55,0 --> 01:15:55,0
+
+
+1418
+01:15:55,0 --> 01:15:55,0
+
+
+1419
+01:15:55,0 --> 01:15:55,0
+
+
+1420
+01:15:55,0 --> 01:15:55,0
+
+
+1421
+01:15:55,0 --> 01:15:55,0
+
+
+1422
+01:15:55,0 --> 01:15:55,0
+fight
+
+1423
+01:15:55,0 --> 01:15:55,0
+
+
+1424
+01:15:55,0 --> 01:15:55,0
+
+
+1425
+01:15:55,0 --> 01:15:55,0
+
+
+1426
+01:15:55,0 --> 01:15:55,0
+
+
+1427
+01:15:55,0 --> 01:15:55,0
+
+
+1428
+01:15:55,0 --> 01:15:55,0
+
+
+1429
+01:15:55,0 --> 01:15:55,0
+
+
+1430
+01:15:55,0 --> 01:15:55,0
+against
+
+1431
+01:15:55,0 --> 01:15:55,0
+
+
+1432
+01:15:55,0 --> 01:15:55,0
+
+
+1433
+01:15:55,0 --> 01:15:55,0
+
+
+1434
+01:15:55,0 --> 01:15:55,0
+
+
+1435
+01:15:55,0 --> 01:15:55,0
+them
+
+1436
+01:15:55,0 --> 01:15:55,0
+
+
+1437
+01:15:55,0 --> 01:15:55,0
+
+
+1438
+01:15:55,0 --> 01:15:55,0
+
+
+1439
+01:15:55,0 --> 01:15:55,0
+
+
+1440
+01:15:55,0 --> 01:15:55,0
+
+
+1441
+01:15:55,0 --> 01:15:55,0
+much;
+
+1442
+01:15:55,0 --> 01:15:55,0
+
+
+1443
+01:15:55,0 --> 01:15:55,0
+
+
+1444
+01:15:55,0 --> 01:15:55,0
+
+
+1445
+01:15:55,0 --> 01:15:55,0
+
+
+1446
+01:15:55,0 --> 01:15:55,0
+
+
+1447
+01:15:55,0 --> 01:15:55,0
+
+
+1448
+01:15:55,0 --> 01:15:55,0
+
+
+1449
+01:15:55,0 --> 01:15:55,0
+
+
+1450
+01:15:55,0 --> 01:15:55,0
+
+
+1451
+01:15:55,0 --> 01:15:55,0
+
+
+1452
+01:15:55,0 --> 01:15:55,0
+
+
+1453
+01:15:55,0 --> 01:15:55,0
+
+
+1454
+01:15:55,0 --> 01:15:55,0
+
+
+1455
+01:15:55,0 --> 01:15:55,0
+nevertheless,
+
+1456
+01:15:55,0 --> 01:15:55,0
+
+
+1457
+01:15:55,0 --> 01:15:55,0
+
+
+1458
+01:15:55,0 --> 01:15:55,0
+he
+
+1459
+01:15:55,0 --> 01:15:55,0
+
+
+1460
+01:15:55,0 --> 01:15:55,0
+
+
+1461
+01:15:55,0 --> 01:15:55,0
+
+
+1462
+01:15:55,0 --> 01:15:55,0
+did
+
+1463
+01:15:55,0 --> 01:15:55,0
+
+
+1464
+01:15:55,0 --> 01:15:55,0
+
+
+1465
+01:15:55,0 --> 01:15:55,0
+
+
+1466
+01:15:55,0 --> 01:15:55,0
+not
+
+1467
+01:15:55,0 --> 01:15:55,0
+
+
+1468
+01:15:55,0 --> 01:15:55,0
+
+
+1469
+01:15:55,0 --> 01:15:55,0
+
+
+1470
+01:15:55,0 --> 01:15:55,0
+
+
+1471
+01:15:55,0 --> 01:15:55,0
+
+
+1472
+01:15:55,0 --> 01:15:55,0
+
+
+1473
+01:15:55,0 --> 01:15:55,0
+
+
+1474
+01:15:55,0 --> 01:15:55,0
+prevail
+
+1475
+01:15:55,0 --> 01:15:55,0
+
+
+1476
+01:15:55,0 --> 01:15:55,0
+
+
+1477
+01:15:55,0 --> 01:15:55,0
+
+
+1478
+01:15:55,0 --> 01:15:55,0
+
+
+1479
+01:15:55,0 --> 01:15:55,0
+
+
+1480
+01:15:55,0 --> 01:15:55,0
+
+
+1481
+01:15:55,0 --> 01:15:55,0
+
+
+1482
+01:15:55,0 --> 01:15:55,0
+against
+
+1483
+01:15:55,0 --> 01:15:55,0
+
+
+1484
+01:15:55,0 --> 01:15:55,0
+
+
+1485
+01:15:55,0 --> 01:15:55,0
+
+
+1486
+01:15:55,0 --> 01:15:55,0
+
+
+1487
+01:15:55,0 --> 01:15:55,0
+
+
+1488
+01:15:55,0 --> 01:15:55,0
+them.
+
+1489
+01:15:55,0 --> 01:15:41,
+
 

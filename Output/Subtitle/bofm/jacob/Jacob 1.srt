@@ -1,352 +1,764 @@
 1
-00:00:00,0 --> 00:00:04,875
-The Book of Jacob the Brother of NephiThe words of
+00:00:00,0 --> 00:00:00,0
+The Book of Jacob the Brother of NephiThe words
 
 2
-00:00:04,875 --> 00:00:09,75
- his preaching unto his brethren. He confoundeth a
+00:00:00,0 --> 00:00:00,0
+of his preaching unto his brethren. He
 
 3
-00:00:09,75 --> 00:00:14,625
- man who seeketh to overthrow the doctrine of
+00:00:00,0 --> 00:00:00,0
+confoundeth a man who seeketh to overthrow the
 
 4
-00:00:14,625 --> 00:00:19,5
- Christ. A few words concerning the history of the
+00:00:00,0 --> 00:00:00,0
+doctrine of Christ. A few words concerning the history
 
 5
-00:00:19,5 --> 00:00:24,375
- people of Nephi.Chapter 1 Jacob and Joseph seek to
+00:00:00,0 --> 00:00:00,0
+of the people of Nephi.Chapter 1 Jacob and
 
 6
-00:00:24,375 --> 00:00:29,25
- persuade men to believe in Christ and keep His
+00:00:00,0 --> 00:00:00,0
+Joseph seek to persuade men to believe in Christ
 
 7
-00:00:29,25 --> 00:00:34,125
- commandments—Nephi dies—Wickedness prevails among the
+00:00:00,0 --> 00:00:00,0
+and keep His commandments—Nephi dies—Wickedness
 
 8
-00:00:34,125 --> 00:00:39,0
- Nephites. About 544–421 B.C.
+00:00:00,0 --> 00:05:43,
+prevails among the Nephites. About 544–421 B.C. 
 
 9
-00:00:39,873 --> 00:00:41,473
-1 For behold, it came to pass that fifty and five
+00:05:43,0 --> 00:05:43,0
+1 For behold, it came to pass that fifty and
 
 10
-00:00:41,473 --> 00:00:43,073
- years had passed away from the time that Lehi left
+00:05:43,0 --> 00:05:43,0
+five years had passed away from the time that
 
 11
-00:00:43,073 --> 00:00:44,673
- Jerusalem; wherefore, Nephi gave me, Jacob, a
+00:05:43,0 --> 00:05:43,0
+Lehi left Jerusalem; wherefore, Nephi gave
 
 12
-00:00:44,673 --> 00:00:46,273
- commandment concerning the small plates, upon which
+00:05:43,0 --> 00:05:43,0
+me, Jacob, a commandment concerning the small
 
 13
-00:00:46,273 --> 00:00:47,873
- these things are engraven
+00:05:43,0 --> 00:10:39,
+plates, upon which these things are engraven.
 
 14
-00:00:47,848 --> 00:00:49,181
-2 And he gave me, Jacob, a commandment that I
+00:10:39,0 --> 00:10:39,0
+2 And he gave me, Jacob, a commandment that
 
 15
-00:00:49,181 --> 00:00:50,514
- should write upon these plates a few of the things
+00:10:39,0 --> 00:10:39,0
+I should write upon these plates a few of
 
 16
-00:00:50,514 --> 00:00:51,847
- which I considered to be most precious; that I should
+00:10:39,0 --> 00:10:39,0
+the things which I considered to be most
 
 17
-00:00:51,847 --> 00:00:53,18
- not touch, save it were lightly, concerning the
+00:10:39,0 --> 00:10:39,0
+precious; that I should not touch, save it
 
 18
-00:00:53,18 --> 00:00:54,513
- history of this people which are called the people
+00:10:39,0 --> 00:10:39,0
+were lightly, concerning the history of this
 
 19
-00:00:54,513 --> 00:00:55,846
- of Nephi
+00:10:39,0 --> 00:11:23,
+people which are called the people of Nephi.
 
 20
-00:00:55,822 --> 00:00:57,822
-3 For he said that the history of his people
+00:11:23,0 --> 00:11:23,0
+3 For he said that the history of his
 
 21
-00:00:57,822 --> 00:00:59,822
- should be engraven upon his other plates, and that I
+00:11:23,0 --> 00:11:23,0
+people should be engraven upon his
 
 22
-00:00:59,822 --> 00:01:01,822
- should preserve these plates and hand them down unto
+00:11:23,0 --> 00:11:23,0
+other plates, and that I should preserve
 
 23
-00:01:01,822 --> 00:01:03,822
- my seed, from generation to generation
+00:11:23,0 --> 00:11:23,0
+these plates and hand them down unto
 
 24
-00:01:03,797 --> 00:01:07,797
-4 And if there were preaching which was sacred, or
+00:11:23,0 --> 00:14:54,
+my seed, from generation to generation.
 
 25
-00:01:07,797 --> 00:01:11,797
- revelation which was great, or prophesying, that
+00:14:54,0 --> 00:14:54,0
+4 And if there were preaching which
 
 26
-00:01:11,797 --> 00:01:15,797
- I should engraven the heads of them upon these
+00:14:54,0 --> 00:14:54,0
+was sacred, or revelation which was
 
 27
-00:01:15,797 --> 00:01:19,797
- plates, and touch upon them as much as it were
+00:14:54,0 --> 00:14:54,0
+great, or prophesying, that I should
 
 28
-00:01:19,797 --> 00:01:23,797
- possible, for Christ’s sake, and for the sake of our
+00:14:54,0 --> 00:14:54,0
+engraven the heads of them upon
 
 29
-00:01:23,797 --> 00:01:27,797
- people
+00:14:54,0 --> 00:14:54,0
+these plates, and touch upon them as
 
 30
-00:01:27,721 --> 00:01:30,388
-5 For because of faith and great anxiety, it truly
+00:14:54,0 --> 00:14:54,0
+much as it were possible, for Christ’s
 
 31
-00:01:30,388 --> 00:01:33,055
- had been made manifest unto us concerning our
+00:14:54,0 --> 00:16:38,
+sake, and for the sake of our people.
 
 32
-00:01:33,055 --> 00:01:35,722
- people, what things should happen unto them
+00:16:38,0 --> 00:16:38,0
+5 For because of faith and great
 
 33
-00:01:35,696 --> 00:02:02,363
-6 And we also had many revelations, and the spirit
+00:16:38,0 --> 00:16:38,0
+anxiety, it truly had been made
 
 34
-00:02:02,363 --> 00:02:29,03
- of much prophecy; wherefore, we knew of Christ
+00:16:38,0 --> 00:16:38,0
+manifest unto us concerning our people,
 
 35
-00:02:29,03 --> 00:02:55,697
- and his kingdom, which should come
+00:16:38,0 --> 00:24:08,
+what things should happen unto them.
 
 36
-00:02:55,442 --> 00:03:15,299
-7 Wherefore we labored diligently among our
+00:24:08,0 --> 00:24:08,0
+6 And we also had many
 
 37
-00:03:15,299 --> 00:03:35,156
- people, that we might persuade them to come unto Christ,
+00:24:08,0 --> 00:24:08,0
+revelations, and the spirit of much
 
 38
-00:03:35,156 --> 00:03:55,013
- and partake of the goodness of God, that they
+00:24:08,0 --> 00:24:08,0
+prophecy; wherefore, we knew of Christ
 
 39
-00:03:55,013 --> 00:04:14,87
- might enter into his rest, lest by any means he
+00:24:08,0 --> 00:28:07,
+and his kingdom, which should come.
 
 40
-00:04:14,87 --> 00:04:34,727
- should swear in his wrath they should not enter in, as
+00:28:07,0 --> 00:28:07,0
+7 Wherefore we labored
 
 41
-00:04:34,727 --> 00:04:54,584
- in the provocation in the days of temptation while
+00:28:07,0 --> 00:28:07,0
+diligently among our people, that we
 
 42
-00:04:54,584 --> 00:05:14,441
- the children of Israel were in the wilderness
+00:28:07,0 --> 00:28:07,0
+might persuade them to come unto
 
 43
-00:05:14,848 --> 00:05:33,134
-8 Wherefore, we would to God that we could
+00:28:07,0 --> 00:28:07,0
+Christ, and partake of the
 
 44
-00:05:33,134 --> 00:05:51,42
- persuade all men not to rebel against God, to provoke him
+00:28:07,0 --> 00:28:07,0
+goodness of God, that they might
 
 45
-00:05:51,42 --> 00:06:09,706
- to anger, but that all men would believe in
+00:28:07,0 --> 00:28:07,0
+enter into his rest, lest by any
 
 46
-00:06:09,706 --> 00:06:27,992
- Christ, and view his death, and suffer his cross and
+00:28:07,0 --> 00:28:07,0
+means he should swear in his
 
 47
-00:06:27,992 --> 00:06:46,278
- bear the shame of the world; wherefore, I, Jacob,
+00:28:07,0 --> 00:28:07,0
+wrath they should not enter in,
 
 48
-00:06:46,278 --> 00:07:04,564
- take it upon me to fulfil the commandment of my
+00:28:07,0 --> 00:28:07,0
+as in the provocation in the
 
 49
-00:07:04,564 --> 00:07:22,85
- brother Nephi
+00:28:07,0 --> 00:28:07,0
+days of temptation while the
 
 50
-00:07:22,442 --> 00:07:26,442
-9 Now Nephi began to be old, and he saw that he
+00:28:07,0 --> 00:34:18,
+children of Israel were in the wilderness.
 
 51
-00:07:26,442 --> 00:07:30,442
- must soon die; wherefore, he anointed a man to be a
+00:34:18,0 --> 00:34:18,0
+8 Wherefore, we would to God
 
 52
-00:07:30,442 --> 00:07:34,442
- king and a ruler over his people now, according to
+00:34:18,0 --> 00:34:18,0
+that we could persuade all men
 
 53
-00:07:34,442 --> 00:07:38,442
- the reigns of the kings
+00:34:18,0 --> 00:34:18,0
+not to rebel against God, to
 
 54
-00:07:38,391 --> 00:07:54,391
-10 The people having loved Nephi exceedingly, he
+00:34:18,0 --> 00:34:18,0
+provoke him to anger, but that all
 
 55
-00:07:54,391 --> 00:08:10,391
- having been a great protector for them, having
+00:34:18,0 --> 00:34:18,0
+men would believe in Christ,
 
 56
-00:08:10,391 --> 00:08:26,391
- wielded the sword of Laban in their defence, and
+00:34:18,0 --> 00:34:18,0
+and view his death, and suffer
 
 57
-00:08:26,391 --> 00:08:42,391
- having labored in all his days for their welfare
+00:34:18,0 --> 00:34:18,0
+his cross and bear the shame of
 
 58
-00:08:42,188 --> 00:08:47,521
-11 Wherefore, the people were desirous to retain
+00:34:18,0 --> 00:34:18,0
+the world; wherefore, I, Jacob,
 
 59
-00:08:47,521 --> 00:08:52,854
- in remembrance his name. And whoso should reign in
+00:34:18,0 --> 00:34:18,0
+take it upon me to fulfil the
 
 60
-00:08:52,854 --> 00:08:58,187
- his stead were called by the people, second Nephi,
+00:34:18,0 --> 00:33:50,
+commandment of my brother Nephi.
 
 61
-00:08:58,187 --> 00:09:03,52
- third Nephi, and so forth, according to the
+00:33:50,0 --> 00:33:50,0
+9 Now Nephi began to be old,
 
 62
-00:09:03,52 --> 00:09:08,853
- reigns of the kings; and thus they were called by the
+00:33:50,0 --> 00:33:50,0
+and he saw that he must soon
 
 63
-00:09:08,853 --> 00:09:14,186
- people, let them be of whatever name they would
+00:33:50,0 --> 00:33:50,0
+die; wherefore, he anointed a
 
 64
-00:09:14,087 --> 00:09:53,087
-12 And it came to pass that Nephi died
+00:33:50,0 --> 00:33:50,0
+man to be a king and a ruler
 
 65
-00:09:53,96 --> 00:10:07,96
-13 Now the people which were not Lamanites were
+00:33:50,0 --> 00:33:50,0
+over his people now,
 
 66
-00:10:07,96 --> 00:10:21,96
- Nephites; nevertheless, they were called Nephites,
+00:33:50,0 --> 00:33:22,
+according to the reigns of the kings.
 
 67
-00:10:21,96 --> 00:10:35,96
- Jacobites, Josephites, Zoramites, Lamanites,
+00:33:22,0 --> 00:33:22,0
+10 The people having loved
 
 68
-00:10:35,96 --> 00:10:49,96
- Lemuelites, and Ishmaelites
+00:33:22,0 --> 00:33:22,0
+Nephi exceedingly, he
 
 69
-00:10:49,782 --> 00:10:56,449
-14 But I, Jacob, shall not hereafter distinguish
+00:33:22,0 --> 00:33:22,0
+having been a great protector
 
 70
-00:10:56,449 --> 00:11:03,116
- them by these names, but I shall call them
+00:33:22,0 --> 00:33:22,0
+for them, having wielded the
 
 71
-00:11:03,116 --> 00:11:09,783
- Lamanites that seek to destroy the people of Nephi, and
+00:33:22,0 --> 00:33:22,0
+sword of Laban in their
 
 72
-00:11:09,783 --> 00:11:16,45
- those who are friendly to Nephi I shall call
+00:33:22,0 --> 00:33:22,0
+defence, and having labored in
 
 73
-00:11:16,45 --> 00:11:23,117
- Nephites, or the people of Nephi, according to the reigns
+00:33:22,0 --> 00:32:54,
+all his days for their welfare—
 
 74
-00:11:23,117 --> 00:11:29,784
- of the kings
+00:32:54,0 --> 00:32:54,0
+11 Wherefore, the people
 
 75
-00:00:39,873 --> 00:00:42,54
-17 Wherefore I, Jacob, gave unto them these words
+00:32:54,0 --> 00:32:54,0
+were desirous to retain in
 
 76
-00:00:42,54 --> 00:00:45,207
- as I taught them in the temple, having first
+00:32:54,0 --> 00:32:54,0
+remembrance his name. And
 
 77
-00:00:45,207 --> 00:00:47,874
- obtained mine errand from the Lord
+00:32:54,0 --> 00:32:54,0
+whoso should reign in his
 
 78
-00:00:47,848 --> 00:00:50,515
-18 For I, Jacob, and my brother Joseph had been
+00:32:54,0 --> 00:32:54,0
+stead were called by the
 
 79
-00:00:50,515 --> 00:00:53,182
- consecrated priests and teachers of this people, by
+00:32:54,0 --> 00:32:54,0
+people, second Nephi, third
 
 80
-00:00:53,182 --> 00:00:55,849
- the hand of Nephi
+00:32:54,0 --> 00:32:54,0
+Nephi, and so forth, according
 
 81
-00:00:55,822 --> 00:00:56,322
-19 And we did magnify our office unto the Lord,
+00:32:54,0 --> 00:32:54,0
+to the reigns of the kings;
 
 82
-00:00:56,322 --> 00:00:56,822
- taking upon us the responsibility, answering the
+00:32:54,0 --> 00:32:54,0
+and thus they were called
 
 83
-00:00:56,822 --> 00:00:57,322
- sins of the people upon our own heads if we did not
+00:32:54,0 --> 00:32:54,0
+by the people, let them be
 
 84
-00:00:57,322 --> 00:00:57,822
- teach them the word of God with all diligence;
+00:32:54,0 --> 00:33:08,
+of whatever name they would.
 
 85
-00:00:57,822 --> 00:00:58,322
- wherefore, by laboring with our might their blood
+00:33:08,0 --> 00:33:08,0
+12 And it came to
 
 86
-00:00:58,322 --> 00:00:58,822
- might not come upon our garments; otherwise their
+00:33:08,0 --> 00:34:06,
+pass that Nephi died.
 
 87
-00:00:58,822 --> 00:00:59,322
- blood would come upon our garments, and we would not
+00:34:06,0 --> 00:34:06,0
+13 Now the people
 
 88
-00:00:59,322 --> 00:00:59,822
- be found spotless at the last day.
+00:34:06,0 --> 00:34:06,0
+which were not
+
+89
+00:34:06,0 --> 00:34:06,0
+Lamanites were
+
+90
+00:34:06,0 --> 00:34:06,0
+Nephites;
+
+91
+00:34:06,0 --> 00:34:06,0
+nevertheless, they were
+
+92
+00:34:06,0 --> 00:34:06,0
+called Nephites,
+
+93
+00:34:06,0 --> 00:34:06,0
+Jacobites,
+
+94
+00:34:06,0 --> 00:34:06,0
+Josephites, Zoramites,
+
+95
+00:34:06,0 --> 00:34:06,0
+Lamanites,
+
+96
+00:34:06,0 --> 00:33:38,
+Lemuelites, and Ishmaelites.
+
+97
+00:33:38,0 --> 00:33:38,0
+14 But I, Jacob,
+
+98
+00:33:38,0 --> 00:33:38,0
+shall not
+
+99
+00:33:38,0 --> 00:33:38,0
+hereafter distinguish
+
+100
+00:33:38,0 --> 00:33:38,0
+them by these
+
+101
+00:33:38,0 --> 00:33:38,0
+names, but I
+
+102
+00:33:38,0 --> 00:33:38,0
+shall call them
+
+103
+00:33:38,0 --> 00:33:38,0
+Lamanites that seek
+
+104
+00:33:38,0 --> 00:33:38,0
+to destroy the
+
+105
+00:33:38,0 --> 00:33:38,0
+people of Nephi,
+
+106
+00:33:38,0 --> 00:33:38,0
+and those who
+
+107
+00:33:38,0 --> 00:33:38,0
+are friendly to
+
+108
+00:33:38,0 --> 00:33:38,0
+Nephi I shall call
+
+109
+00:33:38,0 --> 00:33:38,0
+Nephites, or
+
+110
+00:33:38,0 --> 00:33:38,0
+the people of
+
+111
+00:33:38,0 --> 00:33:38,0
+Nephi, according to
+
+112
+00:33:38,0 --> 00:33:10,
+the reigns of the kings.
+
+113
+00:33:10,0 --> 00:33:10,0
+15 And now it
+
+114
+00:33:10,0 --> 00:33:10,0
+came to pass
+
+115
+00:33:10,0 --> 00:33:10,0
+that the people of
+
+116
+00:33:10,0 --> 00:33:10,0
+Nephi, under
+
+117
+00:33:10,0 --> 00:33:10,0
+the reign of the
+
+118
+00:33:10,0 --> 00:33:10,0
+second king,
+
+119
+00:33:10,0 --> 00:33:10,0
+began to grow
+
+120
+00:33:10,0 --> 00:33:10,0
+hard in their
+
+121
+00:33:10,0 --> 00:33:10,0
+hearts, and
+
+122
+00:33:10,0 --> 00:33:10,0
+indulge themselves
+
+123
+00:33:10,0 --> 00:33:10,0
+somewhat in
+
+124
+00:33:10,0 --> 00:33:10,0
+wicked practices,
+
+125
+00:33:10,0 --> 00:33:10,0
+such as like unto
+
+126
+00:33:10,0 --> 00:33:10,0
+David of old
+
+127
+00:33:10,0 --> 00:33:10,0
+desiring many
+
+128
+00:33:10,0 --> 00:33:10,0
+wives and
+
+129
+00:33:10,0 --> 00:34:08,
+concubines, and also Solomon, his son.
+
+130
+00:34:08,0 --> 00:34:08,0
+16 Yea, and
+
+131
+00:34:08,0 --> 00:34:08,0
+they also began
+
+132
+00:34:08,0 --> 00:34:08,0
+to search much
+
+133
+00:34:08,0 --> 00:34:08,0
+gold and
+
+134
+00:34:08,0 --> 00:34:08,0
+silver, and began
+
+135
+00:34:08,0 --> 00:34:08,0
+to be lifted
+
+136
+00:34:08,0 --> 00:33:40,
+up somewhat in pride.
+
+137
+00:33:40,0 --> 00:33:40,0
+17 Wherefore
+
+138
+00:33:40,0 --> 00:33:40,0
+I, Jacob,
+
+139
+00:33:40,0 --> 00:33:40,0
+gave unto them
+
+140
+00:33:40,0 --> 00:33:40,0
+these words as
+
+141
+00:33:40,0 --> 00:33:40,0
+I taught
+
+142
+00:33:40,0 --> 00:33:40,0
+them in the
+
+143
+00:33:40,0 --> 00:33:40,0
+temple, having
+
+144
+00:33:40,0 --> 00:33:40,0
+first obtained
+
+145
+00:33:40,0 --> 00:33:40,0
+mine errand
+
+146
+00:33:40,0 --> 00:33:12,
+from the Lord.
+
+147
+00:33:12,0 --> 00:33:12,0
+18 For I,
+
+148
+00:33:12,0 --> 00:33:12,0
+Jacob, and
+
+149
+00:33:12,0 --> 00:33:12,0
+my brother
+
+150
+00:33:12,0 --> 00:33:12,0
+Joseph had
+
+151
+00:33:12,0 --> 00:33:12,0
+been
+
+152
+00:33:12,0 --> 00:33:12,0
+consecrated
+
+153
+00:33:12,0 --> 00:33:12,0
+priests and
+
+154
+00:33:12,0 --> 00:33:12,0
+teachers of this
+
+155
+00:33:12,0 --> 00:33:12,0
+people, by
+
+156
+00:33:12,0 --> 00:34:10,
+the hand of Nephi.
+
+157
+00:34:10,0 --> 00:34:10,0
+19 And we
+
+158
+00:34:10,0 --> 00:34:10,0
+did
+
+159
+00:34:10,0 --> 00:34:10,0
+magnify our
+
+160
+00:34:10,0 --> 00:34:10,0
+office unto
+
+161
+00:34:10,0 --> 00:34:10,0
+the Lord,
+
+162
+00:34:10,0 --> 00:34:10,0
+taking upon
+
+163
+00:34:10,0 --> 00:34:10,0
+us the
+
+164
+00:34:10,0 --> 00:34:10,0
+
+
+165
+00:34:10,0 --> 00:34:10,0
+responsibility,
+
+166
+00:34:10,0 --> 00:34:10,0
+answering the
+
+167
+00:34:10,0 --> 00:34:10,0
+sins of the
+
+168
+00:34:10,0 --> 00:34:10,0
+people upon
+
+169
+00:34:10,0 --> 00:34:10,0
+our own
+
+170
+00:34:10,0 --> 00:34:10,0
+heads if we
+
+171
+00:34:10,0 --> 00:34:10,0
+did not
+
+172
+00:34:10,0 --> 00:34:10,0
+teach them
+
+173
+00:34:10,0 --> 00:34:10,0
+the word
+
+174
+00:34:10,0 --> 00:34:10,0
+of God with
+
+175
+00:34:10,0 --> 00:34:10,0
+all
+
+176
+00:34:10,0 --> 00:34:10,0
+diligence;
+
+177
+00:34:10,0 --> 00:34:10,0
+wherefore, by
+
+178
+00:34:10,0 --> 00:34:10,0
+laboring
+
+179
+00:34:10,0 --> 00:34:10,0
+with our
+
+180
+00:34:10,0 --> 00:34:10,0
+might their
+
+181
+00:34:10,0 --> 00:34:10,0
+blood
+
+182
+00:34:10,0 --> 00:34:10,0
+might not come
+
+183
+00:34:10,0 --> 00:34:10,0
+upon our
+
+184
+00:34:10,0 --> 00:34:10,0
+garments;
+
+185
+00:34:10,0 --> 00:34:10,0
+otherwise
+
+186
+00:34:10,0 --> 00:34:10,0
+their
+
+187
+00:34:10,0 --> 00:34:10,0
+blood would
+
+188
+00:34:10,0 --> 00:34:10,0
+come upon
+
+189
+00:34:10,0 --> 00:34:10,0
+our
+
+190
+00:34:10,0 --> 00:34:10,0
+garments, and we
+
+191
+00:34:10,0 --> 00:33:42,
+would not be found spotless at the last day. 
 

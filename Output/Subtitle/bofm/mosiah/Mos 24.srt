@@ -1,480 +1,1612 @@
 1
-00:00:00,0 --> 00:00:01,4
+00:00:00,0 --> 00:00:00,0
 Chapter 24 Amulon persecutes Alma and his
 
 2
-00:00:01,4 --> 00:00:02,8
- people—They are to be put to death if they pray—The Lord
+00:00:00,0 --> 00:00:00,0
+people—They are to be put to death if they
 
 3
-00:00:02,8 --> 00:00:04,2
- makes their burdens seem light—He delivers them
+00:00:00,0 --> 00:00:00,0
+pray—The Lord makes their burdens seem
 
 4
-00:00:04,2 --> 00:00:05,6
- from bondage, and they return to Zarahemla. About
+00:00:00,0 --> 00:00:00,0
+light—He delivers them from bondage, and
 
 5
-00:00:05,6 --> 00:00:07,0
- 145–120 B.C.
+00:00:00,0 --> 00:13:55,
+they return to Zarahemla. About 145–120 B.C. 
 
 6
-00:00:07,975 --> 00:00:10,261
-1 And it came to pass that Amulon did gain favor
+00:13:55,0 --> 00:13:55,0
+1 And it came to pass that Amulon did
 
 7
-00:00:10,261 --> 00:00:12,547
- in the eyes of the king of the Lamanites;
+00:13:55,0 --> 00:13:55,0
+gain favor in the eyes of the king of the
 
 8
-00:00:12,547 --> 00:00:14,833
- therefore, the king of the Lamanites granted unto him and
+00:13:55,0 --> 00:13:55,0
+Lamanites; therefore, the king of the
 
 9
-00:00:14,833 --> 00:00:17,119
- his brethren that they should be appointed teachers
+00:13:55,0 --> 00:13:55,0
+Lamanites granted unto him and his brethren
 
 10
-00:00:17,119 --> 00:00:19,405
- over his people, yea, even over the people who
+00:13:55,0 --> 00:13:55,0
+that they should be appointed teachers over
 
 11
-00:00:19,405 --> 00:00:21,691
- were in the land of Shemlon, and in the land of
+00:13:55,0 --> 00:13:55,0
+his people, yea, even over the people
 
 12
-00:00:21,691 --> 00:00:23,977
- Shilom, and in the land of Amulon
+00:13:55,0 --> 00:13:55,0
+who were in the land of Shemlon, and in the
 
 13
-00:00:23,924 --> 00:00:26,591
-2 For the Lamanites had taken possession of all
+00:13:55,0 --> 00:13:27,
+land of Shilom, and in the land of Amulon.
 
 14
-00:00:26,591 --> 00:00:29,258
- these lands; therefore, the king of the Lamanites
+00:13:27,0 --> 00:13:27,0
+2 For the Lamanites had taken
 
 15
-00:00:29,258 --> 00:00:31,925
- had appointed kings over all these lands
+00:13:27,0 --> 00:13:27,0
+possession of all these lands;
 
 16
-00:00:31,899 --> 00:00:33,899
-3 And now the name of the king of the Lamanites
+00:13:27,0 --> 00:13:27,0
+therefore, the king of the Lamanites had
 
 17
-00:00:33,899 --> 00:00:35,899
- was Laman, being called after the name of his
+00:13:27,0 --> 00:15:25,
+appointed kings over all these lands.
 
 18
-00:00:35,899 --> 00:00:37,899
- father; and therefore he was called king Laman. And he
+00:15:25,0 --> 00:15:25,0
+3 And now the name of the king
 
 19
-00:00:37,899 --> 00:00:39,899
- was king over a numerous people
+00:15:25,0 --> 00:15:25,0
+of the Lamanites was Laman,
 
 20
-00:00:39,873 --> 00:00:41,873
-4 And he appointed teachers of the brethren of
+00:15:25,0 --> 00:15:25,0
+being called after the name of
 
 21
-00:00:41,873 --> 00:00:43,873
- Amulon in every land which was possessed by his
+00:15:25,0 --> 00:15:25,0
+his father; and therefore he
 
 22
-00:00:43,873 --> 00:00:45,873
- people; and thus the language of Nephi began to be
+00:15:25,0 --> 00:15:25,0
+was called king Laman. And he
 
 23
-00:00:45,873 --> 00:00:47,873
- taught among all the people of the Lamanites
+00:15:25,0 --> 00:15:11,
+was king over a numerous people.
 
 24
-00:00:47,848 --> 00:00:49,448
-5 And they were a people friendly one with
+00:15:11,0 --> 00:15:11,0
+4 And he appointed teachers
 
 25
-00:00:49,448 --> 00:00:51,048
- another; nevertheless they knew not God; neither did the
+00:15:11,0 --> 00:15:11,0
+of the brethren of Amulon
 
 26
-00:00:51,048 --> 00:00:52,648
- brethren of Amulon teach them anything concerning
+00:15:11,0 --> 00:15:11,0
+in every land which was
 
 27
-00:00:52,648 --> 00:00:54,248
- the Lord their God, neither the law of Moses; nor
+00:15:11,0 --> 00:15:11,0
+possessed by his people; and
 
 28
-00:00:54,248 --> 00:00:55,848
- did they teach them the words of Abinadi
+00:15:11,0 --> 00:15:11,0
+thus the language of Nephi
 
 29
-00:00:55,822 --> 00:00:58,489
-6 But they taught them that they should keep their
+00:15:11,0 --> 00:15:11,0
+began to be taught among all
 
 30
-00:00:58,489 --> 00:01:01,156
- record, and that they might write one to another
+00:15:11,0 --> 00:18:42,
+the people of the Lamanites.
 
 31
-00:01:01,156 --> 00:01:03,823
-
+00:18:42,0 --> 00:18:42,0
+5 And they were a people
 
 32
-00:01:03,797 --> 00:01:04,94
-7 And thus the Lamanites began to increase in
+00:18:42,0 --> 00:18:42,0
+friendly one with another;
 
 33
-00:01:04,94 --> 00:01:06,083
- riches, and began to trade one with another and wax
+00:18:42,0 --> 00:18:42,0
+nevertheless they knew not
 
 34
-00:01:06,083 --> 00:01:07,226
- great, and began to be a cunning and a wise people,
+00:18:42,0 --> 00:18:42,0
+God; neither did the
 
 35
-00:01:07,226 --> 00:01:08,369
- as to the wisdom of the world, yea, a very cunning
+00:18:42,0 --> 00:18:42,0
+brethren of Amulon teach them
 
 36
-00:01:08,369 --> 00:01:09,512
- people, delighting in all manner of wickedness
+00:18:42,0 --> 00:18:42,0
+anything concerning the
 
 37
-00:01:09,512 --> 00:01:10,655
- and plunder, except it were among their own
+00:18:42,0 --> 00:18:42,0
+Lord their God, neither the
 
 38
-00:01:10,655 --> 00:01:11,798
- brethren
+00:18:42,0 --> 00:18:42,0
+law of Moses; nor did they
 
 39
-00:01:11,772 --> 00:01:13,772
-8 And now it came to pass that Amulon began to
+00:18:42,0 --> 00:18:42,
+teach them the words of Abinadi;
 
 40
-00:01:13,772 --> 00:01:15,772
- exercise authority over Alma and his brethren, and
+00:18:42,0 --> 00:18:42,0
+6 But they taught them
 
 41
-00:01:15,772 --> 00:01:17,772
- began to persecute him, and cause that his children
+00:18:42,0 --> 00:18:42,0
+that they should keep their
 
 42
-00:01:17,772 --> 00:01:19,772
- should persecute their children
+00:18:42,0 --> 00:18:42,0
+record, and that they
 
 43
-00:01:19,746 --> 00:01:20,889
-9 For Amulon knew Alma, that he had been one of
+00:18:42,0 --> 00:18:42,
+might write one to another.
 
 44
-00:01:20,889 --> 00:01:22,032
- the king’s priests, and that it was he that believed
+00:18:42,0 --> 00:18:42,0
+7 And thus the
 
 45
-00:01:22,032 --> 00:01:23,175
- the words of Abinadi and was driven out before
+00:18:42,0 --> 00:18:42,0
+Lamanites began to increase in
 
 46
-00:01:23,175 --> 00:01:24,318
- the king, and therefore he was wroth with him; for
+00:18:42,0 --> 00:18:42,0
+riches, and began to
 
 47
-00:01:24,318 --> 00:01:25,461
- he was subject to king Laman, yet he exercised
+00:18:42,0 --> 00:18:42,0
+trade one with another
 
 48
-00:01:25,461 --> 00:01:26,604
- authority over them, and put tasks upon them, and put
+00:18:42,0 --> 00:18:42,0
+and wax great, and began
 
 49
-00:01:26,604 --> 00:01:27,747
- task-masters over them
+00:18:42,0 --> 00:18:42,0
+to be a cunning and a
 
 50
-00:01:27,721 --> 00:01:31,721
-10 And it came to pass that so great were their
+00:18:42,0 --> 00:18:42,0
+wise people, as to the
 
 51
-00:01:31,721 --> 00:01:35,721
- afflictions that they began to cry mightily to God
+00:18:42,0 --> 00:18:42,0
+wisdom of the world,
 
 52
-00:01:35,696 --> 00:01:37,696
-11 And Amulon commanded them that they should stop
+00:18:42,0 --> 00:18:42,0
+yea, a very cunning
 
 53
-00:01:37,696 --> 00:01:39,696
- their cries; and he put guards over them to watch
+00:18:42,0 --> 00:18:42,0
+people, delighting in all
 
 54
-00:01:39,696 --> 00:01:41,696
- them, that whosoever should be found calling upon
+00:18:42,0 --> 00:18:42,0
+manner of wickedness and
 
 55
-00:01:41,696 --> 00:01:43,696
- God should be put to death
+00:18:42,0 --> 00:18:42,0
+plunder, except it were
 
 56
-00:01:43,67 --> 00:01:45,67
-12 And Alma and his people did not raise their
+00:18:42,0 --> 00:18:42,
+among their own brethren.
 
 57
-00:01:45,67 --> 00:01:47,67
- voices to the Lord their God, but did pour out their
+00:18:42,0 --> 00:18:42,0
+8 And now it came to
 
 58
-00:01:47,67 --> 00:01:49,67
- hearts to him; and he did know the thoughts of
+00:18:42,0 --> 00:18:42,0
+pass that Amulon began
 
 59
-00:01:49,67 --> 00:01:51,67
- their hearts
+00:18:42,0 --> 00:18:42,0
+to exercise authority
 
 60
-00:01:51,645 --> 00:01:52,978
-13 And it came to pass that the voice of the Lord
+00:18:42,0 --> 00:18:42,0
+over Alma and his
 
 61
-00:01:52,978 --> 00:01:54,311
- came to them in their afflictions, saying: Lift up
+00:18:42,0 --> 00:18:42,0
+brethren, and began to
 
 62
-00:01:54,311 --> 00:01:55,644
- your heads and be of good comfort, for I know of
+00:18:42,0 --> 00:18:42,0
+persecute him, and cause
 
 63
-00:01:55,644 --> 00:01:56,977
- the covenant which ye have made unto me; and I
+00:18:42,0 --> 00:18:42,0
+that his children
 
 64
-00:01:56,977 --> 00:01:58,31
- will covenant with my people and deliver them out of
+00:18:42,0 --> 00:18:42,
+should persecute their children.
 
 65
-00:01:58,31 --> 00:01:59,643
- bondage
+00:18:42,0 --> 00:18:42,0
+9 For Amulon knew
 
 66
-00:01:59,62 --> 00:02:00,763
-14 And I will also ease the burdens which are put
+00:18:42,0 --> 00:18:42,0
+Alma, that he had been
 
 67
-00:02:00,763 --> 00:02:01,906
- upon your shoulders, that even you cannot feel
+00:18:42,0 --> 00:18:42,0
+one of the king’s
 
 68
-00:02:01,906 --> 00:02:03,049
- them upon your backs, even while you are in bondage;
+00:18:42,0 --> 00:18:42,0
+priests, and that it was
 
 69
-00:02:03,049 --> 00:02:04,192
- and this will I do that ye may stand as witnesses
+00:18:42,0 --> 00:18:42,0
+he that believed the
 
 70
-00:02:04,192 --> 00:02:05,335
- for me hereafter, and that ye may know of a surety
+00:18:42,0 --> 00:18:42,0
+words of Abinadi and
 
 71
-00:02:05,335 --> 00:02:06,478
- that I, the Lord God, do visit my people in their
+00:18:42,0 --> 00:18:42,0
+was driven out before
 
 72
-00:02:06,478 --> 00:02:07,621
- afflictions
+00:18:42,0 --> 00:18:42,0
+the king, and
 
 73
-00:02:07,594 --> 00:02:08,927
-15 And now it came to pass that the burdens which
+00:18:42,0 --> 00:18:42,0
+therefore he was wroth with
 
 74
-00:02:08,927 --> 00:02:10,26
- were laid upon Alma and his brethren were made
+00:18:42,0 --> 00:18:42,0
+him; for he was
 
 75
-00:02:10,26 --> 00:02:11,593
- light; yea, the Lord did strengthen them that they
+00:18:42,0 --> 00:18:42,0
+subject to king Laman,
 
 76
-00:02:11,593 --> 00:02:12,926
- could bear up their burdens with ease, and they did
+00:18:42,0 --> 00:18:42,0
+yet he exercised
 
 77
-00:02:12,926 --> 00:02:14,259
- submit cheerfully and with patience to all the
+00:18:42,0 --> 00:18:42,0
+authority over them, and
 
 78
-00:02:14,259 --> 00:02:15,592
- will of the Lord
+00:18:42,0 --> 00:18:42,0
+put tasks upon them,
 
 79
-00:02:15,569 --> 00:02:17,169
-16 And it came to pass that so great was their
+00:18:42,0 --> 00:18:42,
+and put task-masters over them.
 
 80
-00:02:17,169 --> 00:02:18,769
- faith and their patience that the voice of the Lord
+00:18:42,0 --> 00:18:42,0
+10 And it came to
 
 81
-00:02:18,769 --> 00:02:20,369
- came unto them again, saying: Be of good comfort,
+00:18:42,0 --> 00:18:42,0
+pass that so great
 
 82
-00:02:20,369 --> 00:02:21,969
- for on the morrow I will deliver you out of
+00:18:42,0 --> 00:18:42,0
+were their
 
 83
-00:02:21,969 --> 00:02:23,569
- bondage
+00:18:42,0 --> 00:18:42,0
+afflictions that they began
 
 84
-00:02:23,543 --> 00:02:26,21
-17 And he said unto Alma: Thou shalt go before
+00:18:42,0 --> 00:18:42,
+to cry mightily to God.
 
 85
-00:02:26,21 --> 00:02:28,877
- this people, and I will go with thee and deliver this
+00:18:42,0 --> 00:18:42,0
+11 And Amulon
 
 86
-00:02:28,877 --> 00:02:31,544
- people out of bondage
+00:18:42,0 --> 00:18:42,0
+commanded them that
 
 87
-00:02:31,518 --> 00:02:33,518
-18 Now it came to pass that Alma and his people in
+00:18:42,0 --> 00:18:42,0
+they should stop
 
 88
-00:02:33,518 --> 00:02:35,518
- the night-time gathered their flocks together,
+00:18:42,0 --> 00:18:42,0
+their cries; and
 
 89
-00:02:35,518 --> 00:02:37,518
- and also of their grain; yea, even all the
+00:18:42,0 --> 00:18:42,0
+he put guards
 
 90
-00:02:37,518 --> 00:02:39,518
- night-time were they gathering their flocks together
+00:18:42,0 --> 00:18:42,0
+over them to watch
 
 91
-00:02:39,493 --> 00:02:42,16
-19 And in the morning the Lord caused a deep sleep
+00:18:42,0 --> 00:18:42,0
+them, that
 
 92
-00:02:42,16 --> 00:02:44,827
- to come upon the Lamanites, yea, and all their
+00:18:42,0 --> 00:18:42,0
+whosoever should be
 
 93
-00:02:44,827 --> 00:02:47,494
- task-masters were in a profound sleep
+00:18:42,0 --> 00:18:42,0
+found calling upon
 
 94
-00:02:47,467 --> 00:02:49,067
-20 And Alma and his people departed into the
+00:18:42,0 --> 00:18:42,
+God should be put to death.
 
 95
-00:02:49,067 --> 00:02:50,667
- wilderness; and when they had traveled all day they
+00:18:42,0 --> 00:18:42,0
+12 And Alma and
 
 96
-00:02:50,667 --> 00:02:52,267
- pitched their tents in a valley, and they called the
+00:18:42,0 --> 00:18:42,0
+his people did
 
 97
-00:02:52,267 --> 00:02:53,867
- valley Alma, because he led their way in the
+00:18:42,0 --> 00:18:42,0
+not raise their
 
 98
-00:02:53,867 --> 00:02:55,467
- wilderness
+00:18:42,0 --> 00:18:42,0
+voices to the
 
 99
-00:02:55,442 --> 00:02:56,775
-21 Yea, and in the valley of Alma they poured out
+00:18:42,0 --> 00:18:42,0
+Lord their God, but
 
 100
-00:02:56,775 --> 00:02:58,108
- their thanks to God because he had been merciful
+00:18:42,0 --> 00:18:42,0
+did pour out
 
 101
-00:02:58,108 --> 00:02:59,441
- unto them, and eased their burdens, and had
+00:18:42,0 --> 00:18:42,0
+their hearts to
 
 102
-00:02:59,441 --> 00:03:00,774
- delivered them out of bondage; for they were in bondage,
+00:18:42,0 --> 00:18:42,0
+him; and he did
 
 103
-00:03:00,774 --> 00:03:02,107
- and none could deliver them except it were the
+00:18:42,0 --> 00:18:42,0
+know the thoughts
 
 104
-00:03:02,107 --> 00:03:03,44
- Lord their God
+00:18:42,0 --> 00:18:42,
+of their hearts.
 
 105
-00:03:03,417 --> 00:03:05,417
-22 And they gave thanks to God, yea, all their men
+00:18:42,0 --> 00:18:42,0
+13 And it came
 
 106
-00:03:05,417 --> 00:03:07,417
- and all their women and all their children that
+00:18:42,0 --> 00:18:42,0
+to pass that
 
 107
-00:03:07,417 --> 00:03:09,417
- could speak lifted their voices in the praises of
+00:18:42,0 --> 00:18:42,0
+the voice of the
 
 108
-00:03:09,417 --> 00:03:11,417
- their God
+00:18:42,0 --> 00:18:42,0
+Lord came to
 
 109
-00:03:11,391 --> 00:03:12,724
-23 And now the Lord said unto Alma: Haste thee and
+00:18:42,0 --> 00:18:42,0
+them in their
 
 110
-00:03:12,724 --> 00:03:14,057
- get thou and this people out of this land, for
+00:18:42,0 --> 00:18:42,0
+afflictions,
 
 111
-00:03:14,057 --> 00:03:15,39
- the Lamanites have awakened and do pursue thee;
+00:18:42,0 --> 00:18:42,0
+saying: Lift up your
 
 112
-00:03:15,39 --> 00:03:16,723
- therefore get thee out of this land, and I will stop
+00:18:42,0 --> 00:18:42,0
+heads and be
 
 113
-00:03:16,723 --> 00:03:18,056
- the Lamanites in this valley that they come no
+00:18:42,0 --> 00:18:42,0
+of good comfort,
 
 114
-00:03:18,056 --> 00:03:19,389
- further in pursuit of this people
+00:18:42,0 --> 00:18:42,0
+for I know of
 
 115
-00:03:19,366 --> 00:03:22,033
-24 And it came to pass that they departed out of
+00:18:42,0 --> 00:18:42,0
+the covenant
 
 116
-00:03:22,033 --> 00:03:24,7
- the valley, and took their journey into the
+00:18:42,0 --> 00:18:42,0
+which ye have
 
 117
-00:03:24,7 --> 00:03:27,367
- wilderness
+00:18:42,0 --> 00:18:42,0
+made unto me; and
 
 118
-00:03:27,34 --> 00:03:30,007
-25 And after they had been in the wilderness
+00:18:42,0 --> 00:18:42,0
+I will covenant
 
 119
-00:03:30,007 --> 00:03:32,674
- twelve days they arrived in the land of Zarahemla; and
+00:18:42,0 --> 00:18:42,0
+with my people
 
 120
-00:03:32,674 --> 00:03:35,341
- king Mosiah did also receive them with joy.
+00:18:42,0 --> 00:18:42,0
+and deliver
+
+121
+00:18:42,0 --> 00:18:42,
+them out of bondage.
+
+122
+00:18:42,0 --> 00:18:42,0
+14 And I will
+
+123
+00:18:42,0 --> 00:18:42,0
+also ease the
+
+124
+00:18:42,0 --> 00:18:42,0
+burdens which
+
+125
+00:18:42,0 --> 00:18:42,0
+are put upon
+
+126
+00:18:42,0 --> 00:18:42,0
+your shoulders,
+
+127
+00:18:42,0 --> 00:18:42,0
+that even you
+
+128
+00:18:42,0 --> 00:18:42,0
+cannot feel
+
+129
+00:18:42,0 --> 00:18:42,0
+them upon your
+
+130
+00:18:42,0 --> 00:18:42,0
+backs, even
+
+131
+00:18:42,0 --> 00:18:42,0
+while you are in
+
+132
+00:18:42,0 --> 00:18:42,0
+bondage; and
+
+133
+00:18:42,0 --> 00:18:42,0
+this will I do
+
+134
+00:18:42,0 --> 00:18:42,0
+that ye may
+
+135
+00:18:42,0 --> 00:18:42,0
+stand as
+
+136
+00:18:42,0 --> 00:18:42,0
+witnesses for me
+
+137
+00:18:42,0 --> 00:18:42,0
+hereafter, and
+
+138
+00:18:42,0 --> 00:18:42,0
+that ye may know
+
+139
+00:18:42,0 --> 00:18:42,0
+of a surety
+
+140
+00:18:42,0 --> 00:18:42,0
+that I, the
+
+141
+00:18:42,0 --> 00:18:42,0
+Lord God, do
+
+142
+00:18:42,0 --> 00:18:42,
+visit my people in their afflictions.
+
+143
+00:18:42,0 --> 00:18:42,0
+15 And now it
+
+144
+00:18:42,0 --> 00:18:42,0
+came to pass
+
+145
+00:18:42,0 --> 00:18:42,0
+that the
+
+146
+00:18:42,0 --> 00:18:42,0
+burdens which
+
+147
+00:18:42,0 --> 00:18:42,0
+were laid upon
+
+148
+00:18:42,0 --> 00:18:42,0
+Alma and his
+
+149
+00:18:42,0 --> 00:18:42,0
+brethren were
+
+150
+00:18:42,0 --> 00:18:42,0
+made light;
+
+151
+00:18:42,0 --> 00:18:42,0
+yea, the Lord
+
+152
+00:18:42,0 --> 00:18:42,0
+did
+
+153
+00:18:42,0 --> 00:18:42,0
+strengthen them that
+
+154
+00:18:42,0 --> 00:18:42,0
+they could
+
+155
+00:18:42,0 --> 00:18:42,0
+bear up their
+
+156
+00:18:42,0 --> 00:18:42,0
+burdens with
+
+157
+00:18:42,0 --> 00:18:42,0
+ease, and they
+
+158
+00:18:42,0 --> 00:18:42,0
+did submit
+
+159
+00:18:42,0 --> 00:18:42,0
+cheerfully and
+
+160
+00:18:42,0 --> 00:18:42,0
+with
+
+161
+00:18:42,0 --> 00:18:42,
+patience to all the will of the Lord.
+
+162
+00:18:42,0 --> 00:18:42,0
+16 And it
+
+163
+00:18:42,0 --> 00:18:42,0
+came to pass
+
+164
+00:18:42,0 --> 00:18:42,0
+that so great
+
+165
+00:18:42,0 --> 00:18:42,0
+was their
+
+166
+00:18:42,0 --> 00:18:42,0
+faith and
+
+167
+00:18:42,0 --> 00:18:42,0
+their patience
+
+168
+00:18:42,0 --> 00:18:42,0
+that the
+
+169
+00:18:42,0 --> 00:18:42,0
+voice of the
+
+170
+00:18:42,0 --> 00:18:42,0
+Lord came unto
+
+171
+00:18:42,0 --> 00:18:42,0
+them again,
+
+172
+00:18:42,0 --> 00:18:42,0
+saying: Be
+
+173
+00:18:42,0 --> 00:18:42,0
+of good
+
+174
+00:18:42,0 --> 00:18:42,0
+comfort, for on
+
+175
+00:18:42,0 --> 00:18:42,0
+the morrow I
+
+176
+00:18:42,0 --> 00:18:42,0
+will
+
+177
+00:18:42,0 --> 00:18:42,
+deliver you out of bondage.
+
+178
+00:18:42,0 --> 00:18:42,0
+17 And he
+
+179
+00:18:42,0 --> 00:18:42,0
+said unto
+
+180
+00:18:42,0 --> 00:18:42,0
+Alma: Thou
+
+181
+00:18:42,0 --> 00:18:42,0
+shalt go
+
+182
+00:18:42,0 --> 00:18:42,0
+before this
+
+183
+00:18:42,0 --> 00:18:42,0
+people, and I
+
+184
+00:18:42,0 --> 00:18:42,0
+will go
+
+185
+00:18:42,0 --> 00:18:42,0
+with thee and
+
+186
+00:18:42,0 --> 00:18:42,0
+deliver
+
+187
+00:18:42,0 --> 00:18:42,0
+this people
+
+188
+00:18:42,0 --> 00:18:42,
+out of bondage.
+
+189
+00:18:42,0 --> 00:18:42,0
+18 Now it
+
+190
+00:18:42,0 --> 00:18:42,0
+came to
+
+191
+00:18:42,0 --> 00:18:42,0
+pass that
+
+192
+00:18:42,0 --> 00:18:42,0
+Alma and his
+
+193
+00:18:42,0 --> 00:18:42,0
+people in
+
+194
+00:18:42,0 --> 00:18:42,0
+the
+
+195
+00:18:42,0 --> 00:18:42,0
+night-time
+
+196
+00:18:42,0 --> 00:18:42,0
+gathered their
+
+197
+00:18:42,0 --> 00:18:42,0
+flocks
+
+198
+00:18:42,0 --> 00:18:42,0
+together,
+
+199
+00:18:42,0 --> 00:18:42,0
+and also of
+
+200
+00:18:42,0 --> 00:18:42,0
+their
+
+201
+00:18:42,0 --> 00:18:42,0
+grain; yea,
+
+202
+00:18:42,0 --> 00:18:42,0
+even all the
+
+203
+00:18:42,0 --> 00:18:42,0
+
+
+204
+00:18:42,0 --> 00:18:42,0
+night-time were
+
+205
+00:18:42,0 --> 00:18:42,0
+they
+
+206
+00:18:42,0 --> 00:18:42,
+gathering their flocks together.
+
+207
+00:18:42,0 --> 00:18:42,0
+19 And in
+
+208
+00:18:42,0 --> 00:18:42,0
+the
+
+209
+00:18:42,0 --> 00:18:42,0
+morning the
+
+210
+00:18:42,0 --> 00:18:42,0
+Lord
+
+211
+00:18:42,0 --> 00:18:42,0
+caused a deep
+
+212
+00:18:42,0 --> 00:18:42,0
+sleep to
+
+213
+00:18:42,0 --> 00:18:42,0
+come upon
+
+214
+00:18:42,0 --> 00:18:42,0
+the
+
+215
+00:18:42,0 --> 00:18:42,0
+Lamanites,
+
+216
+00:18:42,0 --> 00:18:42,0
+yea, and
+
+217
+00:18:42,0 --> 00:18:42,0
+all their
+
+218
+00:18:42,0 --> 00:18:42,0
+
+
+219
+00:18:42,0 --> 00:18:42,0
+task-masters were
+
+220
+00:18:42,0 --> 00:18:42,
+in a profound sleep.
+
+221
+00:18:42,0 --> 00:18:42,0
+20 And
+
+222
+00:18:42,0 --> 00:18:42,0
+Alma and
+
+223
+00:18:42,0 --> 00:18:42,0
+his
+
+224
+00:18:42,0 --> 00:18:42,0
+people
+
+225
+00:18:42,0 --> 00:18:42,0
+departed into
+
+226
+00:18:42,0 --> 00:18:42,0
+the
+
+227
+00:18:42,0 --> 00:18:42,0
+wilderness;
+
+228
+00:18:42,0 --> 00:18:42,0
+and
+
+229
+00:18:42,0 --> 00:18:42,0
+when they
+
+230
+00:18:42,0 --> 00:18:42,0
+had
+
+231
+00:18:42,0 --> 00:18:42,0
+traveled all
+
+232
+00:18:42,0 --> 00:18:42,0
+day they
+
+233
+00:18:42,0 --> 00:18:42,0
+pitched
+
+234
+00:18:42,0 --> 00:18:42,0
+their
+
+235
+00:18:42,0 --> 00:18:42,0
+tents in
+
+236
+00:18:42,0 --> 00:18:42,0
+a
+
+237
+00:18:42,0 --> 00:18:42,0
+valley, and
+
+238
+00:18:42,0 --> 00:18:42,0
+they
+
+239
+00:18:42,0 --> 00:18:42,0
+called the
+
+240
+00:18:42,0 --> 00:18:42,0
+valley
+
+241
+00:18:42,0 --> 00:18:42,0
+Alma,
+
+242
+00:18:42,0 --> 00:18:42,0
+because he
+
+243
+00:18:42,0 --> 00:18:42,
+led their way in the wilderness.
+
+244
+00:18:42,0 --> 00:18:42,0
+21 Yea,
+
+245
+00:18:42,0 --> 00:18:42,0
+and in
+
+246
+00:18:42,0 --> 00:18:42,0
+the
+
+247
+00:18:42,0 --> 00:18:42,0
+valley of
+
+248
+00:18:42,0 --> 00:18:42,0
+Alma
+
+249
+00:18:42,0 --> 00:18:42,0
+they
+
+250
+00:18:42,0 --> 00:18:42,0
+poured out
+
+251
+00:18:42,0 --> 00:18:42,0
+their
+
+252
+00:18:42,0 --> 00:18:42,0
+thanks
+
+253
+00:18:42,0 --> 00:18:42,0
+to God
+
+254
+00:18:42,0 --> 00:18:42,0
+because
+
+255
+00:18:42,0 --> 00:18:42,0
+he had
+
+256
+00:18:42,0 --> 00:18:42,0
+been
+
+257
+00:18:42,0 --> 00:18:42,0
+merciful
+
+258
+00:18:42,0 --> 00:18:42,0
+unto
+
+259
+00:18:42,0 --> 00:18:42,0
+them,
+
+260
+00:18:42,0 --> 00:18:42,0
+and eased
+
+261
+00:18:42,0 --> 00:18:42,0
+their
+
+262
+00:18:42,0 --> 00:18:42,0
+
+
+263
+00:18:42,0 --> 00:18:42,0
+burdens, and
+
+264
+00:18:42,0 --> 00:18:42,0
+had
+
+265
+00:18:42,0 --> 00:18:42,0
+delivered
+
+266
+00:18:42,0 --> 00:18:42,0
+them out
+
+267
+00:18:42,0 --> 00:18:42,0
+of
+
+268
+00:18:42,0 --> 00:18:42,0
+bondage;
+
+269
+00:18:42,0 --> 00:18:42,0
+for they
+
+270
+00:18:42,0 --> 00:18:42,0
+were
+
+271
+00:18:42,0 --> 00:18:42,0
+in
+
+272
+00:18:42,0 --> 00:18:42,0
+bondage, and
+
+273
+00:18:42,0 --> 00:18:42,0
+none
+
+274
+00:18:42,0 --> 00:18:42,0
+could
+
+275
+00:18:42,0 --> 00:18:42,0
+deliver
+
+276
+00:18:42,0 --> 00:18:42,
+them except it were the Lord their God.
+
+277
+00:18:42,0 --> 00:18:42,0
+22 And
+
+278
+00:18:42,0 --> 00:18:42,0
+they
+
+279
+00:18:42,0 --> 00:18:42,0
+gave
+
+280
+00:18:42,0 --> 00:18:42,0
+thanks
+
+281
+00:18:42,0 --> 00:18:42,0
+to
+
+282
+00:18:42,0 --> 00:18:42,0
+God, yea,
+
+283
+00:18:42,0 --> 00:18:42,0
+all
+
+284
+00:18:42,0 --> 00:18:42,0
+their
+
+285
+00:18:42,0 --> 00:18:42,0
+men and
+
+286
+00:18:42,0 --> 00:18:42,0
+all
+
+287
+00:18:42,0 --> 00:18:42,0
+their
+
+288
+00:18:42,0 --> 00:18:42,0
+women
+
+289
+00:18:42,0 --> 00:18:42,0
+and all
+
+290
+00:18:42,0 --> 00:18:42,0
+their
+
+291
+00:18:42,0 --> 00:18:42,0
+
+
+292
+00:18:42,0 --> 00:18:42,0
+children
+
+293
+00:18:42,0 --> 00:18:42,0
+that
+
+294
+00:18:42,0 --> 00:18:42,0
+could
+
+295
+00:18:42,0 --> 00:18:42,0
+speak
+
+296
+00:18:42,0 --> 00:18:42,0
+lifted
+
+297
+00:18:42,0 --> 00:18:42,0
+their
+
+298
+00:18:42,0 --> 00:18:42,0
+voices
+
+299
+00:18:42,0 --> 00:18:42,
+in the praises of their God.
+
+300
+00:18:42,0 --> 00:18:42,0
+23
+
+301
+00:18:42,0 --> 00:18:42,0
+And now
+
+302
+00:18:42,0 --> 00:18:42,0
+the
+
+303
+00:18:42,0 --> 00:18:42,0
+Lord
+
+304
+00:18:42,0 --> 00:18:42,0
+said
+
+305
+00:18:42,0 --> 00:18:42,0
+unto
+
+306
+00:18:42,0 --> 00:18:42,0
+Alma:
+
+307
+00:18:42,0 --> 00:18:42,0
+
+
+308
+00:18:42,0 --> 00:18:42,0
+Haste
+
+309
+00:18:42,0 --> 00:18:42,0
+thee and
+
+310
+00:18:42,0 --> 00:18:42,0
+get
+
+311
+00:18:42,0 --> 00:18:42,0
+thou
+
+312
+00:18:42,0 --> 00:18:42,0
+and
+
+313
+00:18:42,0 --> 00:18:42,0
+this
+
+314
+00:18:42,0 --> 00:18:42,0
+people
+
+315
+00:18:42,0 --> 00:18:42,0
+out
+
+316
+00:18:42,0 --> 00:18:42,0
+of
+
+317
+00:18:42,0 --> 00:18:42,0
+this
+
+318
+00:18:42,0 --> 00:18:42,0
+land,
+
+319
+00:18:42,0 --> 00:18:42,0
+for
+
+320
+00:18:42,0 --> 00:18:42,0
+the
+
+321
+00:18:42,0 --> 00:18:42,0
+
+
+322
+00:18:42,0 --> 00:18:42,0
+Lamanites
+
+323
+00:18:42,0 --> 00:18:42,0
+have
+
+324
+00:18:42,0 --> 00:18:42,0
+awakened
+
+325
+00:18:42,0 --> 00:18:42,0
+and
+
+326
+00:18:42,0 --> 00:18:42,0
+do
+
+327
+00:18:42,0 --> 00:18:42,0
+pursue
+
+328
+00:18:42,0 --> 00:18:42,0
+thee;
+
+329
+00:18:42,0 --> 00:18:42,0
+
+
+330
+00:18:42,0 --> 00:18:42,0
+therefore
+
+331
+00:18:42,0 --> 00:18:42,0
+get
+
+332
+00:18:42,0 --> 00:18:42,0
+thee
+
+333
+00:18:42,0 --> 00:18:42,0
+out
+
+334
+00:18:42,0 --> 00:18:42,0
+of
+
+335
+00:18:42,0 --> 00:18:42,0
+this
+
+336
+00:18:42,0 --> 00:18:42,0
+land,
+
+337
+00:18:42,0 --> 00:18:42,0
+and I
+
+338
+00:18:42,0 --> 00:18:42,0
+will
+
+339
+00:18:42,0 --> 00:18:42,0
+stop
+
+340
+00:18:42,0 --> 00:18:42,0
+the
+
+341
+00:18:42,0 --> 00:18:42,0
+
+
+342
+00:18:42,0 --> 00:18:42,0
+Lamanites in
+
+343
+00:18:42,0 --> 00:18:42,0
+this
+
+344
+00:18:42,0 --> 00:18:42,0
+
+
+345
+00:18:42,0 --> 00:18:42,0
+valley
+
+346
+00:18:42,0 --> 00:18:42,
+that they come no further in pursuit of this people.
+
+347
+00:18:42,0 --> 00:18:42,0
+24
+
+348
+00:18:42,0 --> 00:18:42,0
+And
+
+349
+00:18:42,0 --> 00:18:42,0
+it
+
+350
+00:18:42,0 --> 00:18:42,0
+came
+
+351
+00:18:42,0 --> 00:18:42,0
+to
+
+352
+00:18:42,0 --> 00:18:42,0
+pass
+
+353
+00:18:42,0 --> 00:18:42,0
+that
+
+354
+00:18:42,0 --> 00:18:42,0
+they
+
+355
+00:18:42,0 --> 00:18:42,0
+
+
+356
+00:18:42,0 --> 00:18:42,0
+
+
+357
+00:18:42,0 --> 00:18:42,0
+departed
+
+358
+00:18:42,0 --> 00:18:42,0
+out of
+
+359
+00:18:42,0 --> 00:18:42,0
+the
+
+360
+00:18:42,0 --> 00:18:42,0
+
+
+361
+00:18:42,0 --> 00:18:42,0
+valley,
+
+362
+00:18:42,0 --> 00:18:42,0
+and
+
+363
+00:18:42,0 --> 00:18:42,0
+
+
+364
+00:18:42,0 --> 00:18:42,0
+took
+
+365
+00:18:42,0 --> 00:18:42,0
+their
+
+366
+00:18:42,0 --> 00:18:42,0
+
+
+367
+00:18:42,0 --> 00:18:42,
+journey into the wilderness.
+
+368
+00:18:42,0 --> 00:18:42,0
+25
+
+369
+00:18:42,0 --> 00:18:42,0
+And
+
+370
+00:18:42,0 --> 00:18:42,0
+after
+
+371
+00:18:42,0 --> 00:18:42,0
+
+
+372
+00:18:42,0 --> 00:18:42,0
+they
+
+373
+00:18:42,0 --> 00:18:42,0
+had
+
+374
+00:18:42,0 --> 00:18:42,0
+been
+
+375
+00:18:42,0 --> 00:18:42,0
+in
+
+376
+00:18:42,0 --> 00:18:42,0
+the
+
+377
+00:18:42,0 --> 00:18:42,0
+
+
+378
+00:18:42,0 --> 00:18:42,0
+wilderness
+
+379
+00:18:42,0 --> 00:18:42,0
+
+
+380
+00:18:42,0 --> 00:18:42,0
+twelve
+
+381
+00:18:42,0 --> 00:18:42,0
+days
+
+382
+00:18:42,0 --> 00:18:42,0
+
+
+383
+00:18:42,0 --> 00:18:42,0
+they
+
+384
+00:18:42,0 --> 00:18:42,0
+
+
+385
+00:18:42,0 --> 00:18:42,0
+arrived in
+
+386
+00:18:42,0 --> 00:18:42,0
+the
+
+387
+00:18:42,0 --> 00:18:42,0
+
+
+388
+00:18:42,0 --> 00:18:42,0
+land of
+
+389
+00:18:42,0 --> 00:18:42,0
+
+
+390
+00:18:42,0 --> 00:18:42,0
+
+
+391
+00:18:42,0 --> 00:18:42,0
+Zarahemla;
+
+392
+00:18:42,0 --> 00:18:42,0
+and
+
+393
+00:18:42,0 --> 00:18:42,0
+king
+
+394
+00:18:42,0 --> 00:18:42,0
+
+
+395
+00:18:42,0 --> 00:18:42,0
+Mosiah
+
+396
+00:18:42,0 --> 00:18:42,0
+did
+
+397
+00:18:42,0 --> 00:18:42,0
+also
+
+398
+00:18:42,0 --> 00:18:42,0
+
+
+399
+00:18:42,0 --> 00:18:42,0
+receive
+
+400
+00:18:42,0 --> 00:18:42,0
+
+
+401
+00:18:42,0 --> 00:18:42,0
+them
+
+402
+00:18:42,0 --> 00:18:42,0
+with
+
+403
+00:18:42,0 --> 00:18:42,
+joy. 
 

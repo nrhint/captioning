@@ -1,640 +1,1884 @@
 1
-00:00:00,0 --> 00:00:06,5
+00:00:00,0 --> 00:00:00,0
 Chapter 2 The Jaredites prepare for their journey
 
 2
-00:00:06,5 --> 00:00:13,0
- to a promised land—It is a choice land whereon men
+00:00:00,0 --> 00:00:00,0
+to a promised land—It is a choice land whereon
 
 3
-00:00:13,0 --> 00:00:19,5
- must serve Christ or be swept off—The Lord talks
+00:00:00,0 --> 00:00:00,0
+men must serve Christ or be swept off—The Lord
 
 4
-00:00:19,5 --> 00:00:26,0
- to the brother of Jared for three hours—The
+00:00:00,0 --> 00:00:00,0
+talks to the brother of Jared for three hours—The
 
 5
-00:00:26,0 --> 00:00:32,5
- Jaredites build barges—The Lord asks the brother of
+00:00:00,0 --> 00:00:00,0
+Jaredites build barges—The Lord asks the brother of
 
 6
-00:00:32,5 --> 00:00:39,0
- Jared to propose how the barges will be lighted.
+00:00:00,0 --> 00:03:45,
+Jared to propose how the barges will be lighted. 
 
 7
-00:00:39,873 --> 00:00:52,444
-1 And it came to pass that Jared and his brother,
+00:03:45,0 --> 00:03:45,0
+1 And it came to pass that Jared and his
 
 8
-00:00:52,444 --> 00:01:05,015
- and their families, and also the friends of Jared
+00:03:45,0 --> 00:03:45,0
+brother, and their families, and also the
 
 9
-00:01:05,015 --> 00:01:17,586
- and his brother and their families, went down into
+00:03:45,0 --> 00:03:45,0
+friends of Jared and his brother and their
 
 10
-00:01:17,586 --> 00:01:30,157
- the valley which was northward, (and the name of
+00:03:45,0 --> 00:03:45,0
+families, went down into the valley which was
 
 11
-00:01:30,157 --> 00:01:42,728
- the valley was Nimrod, being called after the
+00:03:45,0 --> 00:03:45,0
+northward, (and the name of the valley was
 
 12
-00:01:42,728 --> 00:01:55,299
- mighty hunter) with their flocks which they had
+00:03:45,0 --> 00:03:45,0
+Nimrod, being called after the mighty
 
 13
-00:01:55,299 --> 00:02:07,87
- gathered together, male and female, of every kind
+00:03:45,0 --> 00:03:45,0
+hunter) with their flocks which they had
 
 14
-00:02:07,594 --> 00:02:15,594
-2 And they did also lay snares and catch fowls of
+00:03:45,0 --> 00:04:57,
+gathered together, male and female, of every kind.
 
 15
-00:02:15,594 --> 00:02:23,594
- the air; and they did also prepare a vessel, in
+00:04:57,0 --> 00:04:57,0
+2 And they did also lay snares and
 
 16
-00:02:23,594 --> 00:02:31,594
- which they did carry with them the fish of the
+00:04:57,0 --> 00:04:57,0
+catch fowls of the air; and they did also
 
 17
-00:02:31,594 --> 00:02:39,594
- waters
+00:04:57,0 --> 00:04:57,0
+prepare a vessel, in which they did
 
 18
-00:02:39,493 --> 00:02:45,893
-3 And they did also carry with them deseret,
+00:04:57,0 --> 00:11:07,
+carry with them the fish of the waters.
 
 19
-00:02:45,893 --> 00:02:52,293
- which, by interpretation, is a honey bee; and thus they
+00:11:07,0 --> 00:11:07,0
+3 And they did also carry with them
 
 20
-00:02:52,293 --> 00:02:58,693
- did carry with them swarms of bees, and all
+00:11:07,0 --> 00:11:07,0
+deseret, which, by interpretation,
 
 21
-00:02:58,693 --> 00:03:05,093
- manner of that which was upon the face of the land,
+00:11:07,0 --> 00:11:07,0
+is a honey bee; and thus they did
 
 22
-00:03:05,093 --> 00:03:11,493
- seeds of every kind
+00:11:07,0 --> 00:11:07,0
+carry with them swarms of bees, and all
 
 23
-00:03:11,391 --> 00:03:13,391
-4 And it came to pass that when they had come down
+00:11:07,0 --> 00:11:07,0
+manner of that which was upon the
 
 24
-00:03:13,391 --> 00:03:15,391
- into the valley of Nimrod the Lord came down and
+00:11:07,0 --> 00:10:39,
+face of the land, seeds of every kind.
 
 25
-00:03:15,391 --> 00:03:17,391
- talked with the brother of Jared; and he was in a
+00:10:39,0 --> 00:10:39,0
+4 And it came to pass that when
 
 26
-00:03:17,391 --> 00:03:19,391
- cloud, and the brother of Jared saw him not
+00:10:39,0 --> 00:10:39,0
+they had come down into the
 
 27
-00:03:19,366 --> 00:03:30,795
-5 And it came to pass that the Lord commanded them
+00:10:39,0 --> 00:10:39,0
+valley of Nimrod the Lord came down
 
 28
-00:03:30,795 --> 00:03:42,224
- that they should go forth into the wilderness,
+00:10:39,0 --> 00:10:39,0
+and talked with the brother of
 
 29
-00:03:42,224 --> 00:03:53,653
- yea, into that quarter where there never had man
+00:10:39,0 --> 00:10:39,0
+Jared; and he was in a cloud, and
 
 30
-00:03:53,653 --> 00:04:05,082
- been. And it came to pass that the Lord did go before
+00:10:39,0 --> 00:12:51,
+the brother of Jared saw him not.
 
 31
-00:04:05,082 --> 00:04:16,511
- them, and did talk with them as he stood in a
+00:12:51,0 --> 00:12:51,0
+5 And it came to pass that the
 
 32
-00:04:16,511 --> 00:04:27,94
- cloud, and gave directions whither they should
+00:12:51,0 --> 00:12:51,0
+Lord commanded them that they
 
 33
-00:04:27,94 --> 00:04:39,369
- travel
+00:12:51,0 --> 00:12:51,0
+should go forth into the
 
 34
-00:04:39,112 --> 00:04:50,862
-6 And it came to pass that they did travel in the
+00:12:51,0 --> 00:12:51,0
+wilderness, yea, into that quarter
 
 35
-00:04:50,862 --> 00:05:02,612
- wilderness, and did build barges, in which they
+00:12:51,0 --> 00:12:51,0
+where there never had man
 
 36
-00:05:02,612 --> 00:05:14,362
- did cross many waters, being directed continually by
+00:12:51,0 --> 00:12:51,0
+been. And it came to pass that
 
 37
-00:05:14,362 --> 00:05:26,112
- the hand of the Lord
+00:12:51,0 --> 00:12:51,0
+the Lord did go before them, and
 
 38
-00:05:26,96 --> 00:05:28,293
-7 And the Lord would not suffer that they should
+00:12:51,0 --> 00:12:51,0
+did talk with them as he
 
 39
-00:05:28,293 --> 00:05:29,626
- stop beyond the sea in the wilderness, but he would
+00:12:51,0 --> 00:12:51,0
+stood in a cloud, and gave
 
 40
-00:05:29,626 --> 00:05:30,959
- that they should come forth even unto the land of
+00:12:51,0 --> 00:18:02,
+directions whither they should travel.
 
 41
-00:05:30,959 --> 00:05:32,292
- promise, which was choice above all other lands,
+00:18:02,0 --> 00:18:02,0
+6 And it came to pass that
 
 42
-00:05:32,292 --> 00:05:33,625
- which the Lord God had preserved for a righteous
+00:18:02,0 --> 00:18:02,0
+they did travel in the
 
 43
-00:05:33,625 --> 00:05:34,958
- people
+00:18:02,0 --> 00:18:02,0
+wilderness, and did build barges,
 
 44
-00:05:34,935 --> 00:05:36,268
-8 And he had sworn in his wrath unto the brother
+00:18:02,0 --> 00:18:02,0
+in which they did cross many
 
 45
-00:05:36,268 --> 00:05:37,601
- of Jared, that whoso should possess this land of
+00:18:02,0 --> 00:18:02,0
+waters, being directed
 
 46
-00:05:37,601 --> 00:05:38,934
- promise, from that time henceforth and forever,
+00:18:02,0 --> 00:20:44,
+continually by the hand of the Lord.
 
 47
-00:05:38,934 --> 00:05:40,267
- should serve him, the true and only God, or they
+00:20:44,0 --> 00:20:44,0
+7 And the Lord would not
 
 48
-00:05:40,267 --> 00:05:41,6
- should be swept off when the fulness of his wrath
+00:20:44,0 --> 00:20:44,0
+suffer that they should
 
 49
-00:05:41,6 --> 00:05:42,933
- should come upon them
+00:20:44,0 --> 00:20:44,0
+stop beyond the sea in the
 
 50
-00:05:42,909 --> 00:05:43,052
-9 And now, we can behold the decrees of God
+00:20:44,0 --> 00:20:44,0
+wilderness, but he would
 
 51
-00:05:43,052 --> 00:05:43,195
- concerning this land, that it is a land of promise; and
+00:20:44,0 --> 00:20:44,0
+that they should come
 
 52
-00:05:43,195 --> 00:05:43,338
- whatsoever nation shall possess it shall serve
+00:20:44,0 --> 00:20:44,0
+forth even unto the land of
 
 53
-00:05:43,338 --> 00:05:43,481
- God, or they shall be swept off when the fulness of
+00:20:44,0 --> 00:20:44,0
+promise, which was
 
 54
-00:05:43,481 --> 00:05:43,624
- his wrath shall come upon them. And the fulness of
+00:20:44,0 --> 00:20:44,0
+choice above all other lands,
 
 55
-00:05:43,624 --> 00:05:43,767
- his wrath cometh upon them when they are ripened
+00:20:44,0 --> 00:20:44,0
+which the Lord God had
 
 56
-00:05:43,767 --> 00:05:43,91
- in iniquity
+00:20:44,0 --> 00:24:15,
+preserved for a righteous people.
 
 57
-00:05:43,343 --> 00:05:47,176
-10 For behold, this is a land which is choice
+00:24:15,0 --> 00:24:15,0
+8 And he had sworn in
 
 58
-00:05:47,176 --> 00:05:51,009
- above all other lands; wherefore he that doth possess
+00:24:15,0 --> 00:24:15,0
+his wrath unto the brother
 
 59
-00:05:51,009 --> 00:05:54,842
- it shall serve God or shall be swept off; for it
+00:24:15,0 --> 00:24:15,0
+of Jared, that whoso
 
 60
-00:05:54,842 --> 00:05:58,675
- is the everlasting decree of God. And it is not
+00:24:15,0 --> 00:24:15,0
+should possess this land
 
 61
-00:05:58,675 --> 00:06:02,508
- until the fulness of iniquity among the children of
+00:24:15,0 --> 00:24:15,0
+of promise, from that
 
 62
-00:06:02,508 --> 00:06:06,341
- the land, that they are swept off
+00:24:15,0 --> 00:24:15,0
+time henceforth and
 
 63
-00:06:06,066 --> 00:06:14,566
-11 And this cometh unto you, O ye Gentiles, that
+00:24:15,0 --> 00:24:15,0
+forever, should serve him, the
 
 64
-00:06:14,566 --> 00:06:23,066
- ye may know the decrees of God—that ye may repent,
+00:24:15,0 --> 00:24:15,0
+true and only God, or
 
 65
-00:06:23,066 --> 00:06:31,566
- and not continue in your iniquities until the
+00:24:15,0 --> 00:24:15,0
+they should be swept off
 
 66
-00:06:31,566 --> 00:06:40,066
- fulness come, that ye may not bring down the fulness
+00:24:15,0 --> 00:24:15,0
+when the fulness of his
 
 67
-00:06:40,066 --> 00:06:48,566
- of the wrath of God upon you as the inhabitants of
+00:24:15,0 --> 00:23:47,
+wrath should come upon them.
 
 68
-00:06:48,566 --> 00:06:57,066
- the land have hitherto done
+00:23:47,0 --> 00:23:47,0
+9 And now, we can
 
 69
-00:06:57,25 --> 00:07:02,25
-12 Behold, this is a choice land, and whatsoever
+00:23:47,0 --> 00:23:47,0
+behold the decrees of God
 
 70
-00:07:02,25 --> 00:07:07,25
- nation shall possess it shall be free from bondage,
+00:23:47,0 --> 00:23:47,0
+concerning this land,
 
 71
-00:07:07,25 --> 00:07:12,25
- and from captivity, and from all other nations
+00:23:47,0 --> 00:23:47,0
+that it is a land of
 
 72
-00:07:12,25 --> 00:07:17,25
- under heaven, if they will but serve the God of the
+00:23:47,0 --> 00:23:47,0
+promise; and whatsoever
 
 73
-00:07:17,25 --> 00:07:22,25
- land, who is Jesus Christ, who hath been
+00:23:47,0 --> 00:23:47,0
+nation shall possess it
 
 74
-00:07:22,25 --> 00:07:27,25
- manifested by the things which we have written
+00:23:47,0 --> 00:23:47,0
+shall serve God, or they
 
 75
-00:07:27,18 --> 00:07:33,18
-13 And now I proceed with my record; for behold,
+00:23:47,0 --> 00:23:47,0
+shall be swept off when
 
 76
-00:07:33,18 --> 00:07:39,18
- it came to pass that the Lord did bring Jared and
+00:23:47,0 --> 00:23:47,0
+the fulness of his
 
 77
-00:07:39,18 --> 00:07:45,18
- his brethren forth even to that great sea which
+00:23:47,0 --> 00:23:47,0
+wrath shall come upon them.
 
 78
-00:07:45,18 --> 00:07:51,18
- divideth the lands. And as they came to the sea they
+00:23:47,0 --> 00:23:47,0
+And the fulness of his
 
 79
-00:07:51,18 --> 00:07:57,18
- pitched their tents; and they called the name of
+00:23:47,0 --> 00:23:47,0
+wrath cometh upon them
 
 80
-00:07:57,18 --> 00:08:03,18
- the place Moriancumer; and they dwelt in tents, and
+00:23:47,0 --> 00:24:59,
+when they are ripened in iniquity.
 
 81
-00:08:03,18 --> 00:08:09,18
- dwelt in tents upon the seashore for the space of
+00:24:59,0 --> 00:24:59,0
+10 For behold, this
 
 82
-00:08:09,18 --> 00:08:15,18
- four years
+00:24:59,0 --> 00:24:59,0
+is a land which is
 
 83
-00:08:15,395 --> 00:08:20,395
-14 And it came to pass at the end of four years
+00:24:59,0 --> 00:24:59,0
+choice above all other
 
 84
-00:08:20,395 --> 00:08:25,395
- that the Lord came again unto the brother of Jared,
+00:24:59,0 --> 00:24:59,0
+lands; wherefore he
 
 85
-00:08:25,395 --> 00:08:30,395
- and stood in a cloud and talked with him. And for
+00:24:59,0 --> 00:24:59,0
+that doth possess it
 
 86
-00:08:30,395 --> 00:08:35,395
- the space of three hours did the Lord talk with
+00:24:59,0 --> 00:24:59,0
+shall serve God or
 
 87
-00:08:35,395 --> 00:08:40,395
- the brother of Jared, and chastened him because he
+00:24:59,0 --> 00:24:59,0
+shall be swept off; for
 
 88
-00:08:40,395 --> 00:08:45,395
- remembered not to call upon the name of the Lord
+00:24:59,0 --> 00:24:59,0
+it is the everlasting
 
 89
-00:08:45,091 --> 00:08:51,008
-15 And the brother of Jared repented of the evil
+00:24:59,0 --> 00:24:59,0
+decree of God. And it
 
 90
-00:08:51,008 --> 00:08:56,925
- which he had done, and did call upon the name of
+00:24:59,0 --> 00:24:59,0
+is not until the
 
 91
-00:08:56,925 --> 00:09:02,842
- the Lord for his brethren who were with him. And the
+00:24:59,0 --> 00:24:59,0
+fulness of iniquity
 
 92
-00:09:02,842 --> 00:09:08,759
- Lord said unto him: I will forgive thee and thy
+00:24:59,0 --> 00:24:59,0
+among the children of the
 
 93
-00:09:08,759 --> 00:09:14,676
- brethren of their sins; but thou shalt not sin any
+00:24:59,0 --> 00:31:40,
+land, that they are swept off.
 
 94
-00:09:14,676 --> 00:09:20,593
- more, for ye shall remember that my Spirit will
+00:31:40,0 --> 00:31:40,0
+11 And this cometh
 
 95
-00:09:20,593 --> 00:09:26,51
- not always strive with man; wherefore, if ye will
+00:31:40,0 --> 00:31:40,0
+unto you, O ye
 
 96
-00:09:26,51 --> 00:09:32,427
- sin until ye are fully ripe ye shall be cut off from
+00:31:40,0 --> 00:31:40,0
+Gentiles, that ye may
 
 97
-00:09:32,427 --> 00:09:38,344
- the presence of the Lord. And these are my
+00:31:40,0 --> 00:31:40,0
+know the decrees of
 
 98
-00:09:38,344 --> 00:09:44,261
- thoughts upon the land which I shall give you for your
+00:31:40,0 --> 00:31:40,0
+God—that ye may
 
 99
-00:09:44,261 --> 00:09:50,178
- inheritance; for it shall be a land choice above
+00:31:40,0 --> 00:31:40,0
+repent, and not
 
 100
-00:09:50,178 --> 00:09:56,095
- all other lands
+00:31:40,0 --> 00:31:40,0
+continue in your
 
 101
-00:09:56,396 --> 00:10:02,021
-16 And the Lord said: Go to work and build, after
+00:31:40,0 --> 00:31:40,0
+iniquities until the
 
 102
-00:10:02,021 --> 00:10:07,646
- the manner of barges which ye have hitherto built.
+00:31:40,0 --> 00:31:40,0
+fulness come, that ye may
 
 103
-00:10:07,646 --> 00:10:13,271
- And it came to pass that the brother of Jared did
+00:31:40,0 --> 00:31:40,0
+not bring down the
 
 104
-00:10:13,271 --> 00:10:18,896
- go to work, and also his brethren, and built
+00:31:40,0 --> 00:31:40,0
+fulness of the
 
 105
-00:10:18,896 --> 00:10:24,521
- barges after the manner which they had built,
+00:31:40,0 --> 00:31:40,0
+wrath of God upon you
 
 106
-00:10:24,521 --> 00:10:30,146
- according to the instructions of the Lord. And they were
+00:31:40,0 --> 00:31:40,0
+as the inhabitants
 
 107
-00:10:30,146 --> 00:10:35,771
- small, and they were light upon the water, even
+00:31:40,0 --> 00:43:51,
+of the land have hitherto done.
 
 108
-00:10:35,771 --> 00:10:41,396
- like unto the lightness of a fowl upon the water
+00:43:51,0 --> 00:43:51,0
+12 Behold, this is
 
 109
-00:10:41,875 --> 00:10:48,875
-17 And they were built after a manner that they
+00:43:51,0 --> 00:43:51,0
+a choice land,
 
 110
-00:10:48,875 --> 00:10:55,875
- were exceedingly tight, even that they would hold
+00:43:51,0 --> 00:43:51,0
+and whatsoever
 
 111
-00:10:55,875 --> 00:11:02,875
- water like unto a dish; and the bottom thereof was
+00:43:51,0 --> 00:43:51,0
+nation shall possess it
 
 112
-00:11:02,875 --> 00:11:09,875
- tight like unto a dish; and the sides thereof were
+00:43:51,0 --> 00:43:51,0
+shall be free
 
 113
-00:11:09,875 --> 00:11:16,875
- tight like unto a dish; and the ends thereof were
+00:43:51,0 --> 00:43:51,0
+from bondage, and
 
 114
-00:11:16,875 --> 00:11:23,875
- peaked; and the top thereof was tight like unto a
+00:43:51,0 --> 00:43:51,0
+from captivity, and
 
 115
-00:11:23,875 --> 00:11:30,875
- dish; and the length thereof was the length of a
+00:43:51,0 --> 00:43:51,0
+from all other
 
 116
-00:11:30,875 --> 00:11:37,875
- tree; and the door thereof, when it was shut, was
+00:43:51,0 --> 00:43:51,0
+nations under heaven,
 
 117
-00:11:37,875 --> 00:11:44,875
- tight like unto a dish
+00:43:51,0 --> 00:43:51,0
+if they will but
 
 118
-00:11:44,971 --> 00:11:49,971
-18 And it came to pass that the brother of Jared
+00:43:51,0 --> 00:43:51,0
+serve the God of
 
 119
-00:11:49,971 --> 00:11:54,971
- cried unto the Lord, saying: O Lord, I have
+00:43:51,0 --> 00:43:51,0
+the land, who is
 
 120
-00:11:54,971 --> 00:11:59,971
- performed the work which thou hast commanded me, and I
+00:43:51,0 --> 00:43:51,0
+Jesus Christ, who
 
 121
-00:11:59,971 --> 00:12:04,971
- have made the barges according as thou hast directed
+00:43:51,0 --> 00:43:51,0
+hath been manifested
 
 122
-00:12:04,971 --> 00:12:09,971
- me
+00:43:51,0 --> 00:43:51,0
+by the things
 
 123
-00:12:09,696 --> 00:12:27,696
-19 And behold, O Lord, in them there is no light;
+00:43:51,0 --> 00:53:01,
+which we have written.
 
 124
-00:12:27,696 --> 00:12:45,696
- whither shall we steer? And also we shall perish,
+00:53:01,0 --> 00:53:01,0
+13 And now I
 
 125
-00:12:45,696 --> 00:13:03,696
- for in them we cannot breathe, save it is the air
+00:53:01,0 --> 00:53:01,0
+proceed with my
 
 126
-00:13:03,696 --> 00:13:21,696
- which is in them; therefore we shall perish
+00:53:01,0 --> 00:53:01,0
+record; for behold, it
 
 127
-00:13:21,467 --> 00:13:29,467
-20 And the Lord said unto the brother of Jared:
+00:53:01,0 --> 00:53:01,0
+came to pass
 
 128
-00:13:29,467 --> 00:13:37,467
- Behold, thou shalt make a hole in the top, and also
+00:53:01,0 --> 00:53:01,0
+that the Lord did
 
 129
-00:13:37,467 --> 00:13:45,467
- in the bottom; and when thou shalt suffer for air
+00:53:01,0 --> 00:53:01,0
+bring Jared and his
 
 130
-00:13:45,467 --> 00:13:53,467
- thou shalt unstop the hole and receive air. And if
+00:53:01,0 --> 00:53:01,0
+brethren forth
 
 131
-00:13:53,467 --> 00:14:01,467
- it be so that the water come in upon thee,
+00:53:01,0 --> 00:53:01,0
+even to that great
 
 132
-00:14:01,467 --> 00:14:09,467
- behold, ye shall stop the hole, that ye may not perish
+00:53:01,0 --> 00:53:01,0
+sea which
 
 133
-00:14:09,467 --> 00:14:17,467
- in the flood
+00:53:01,0 --> 00:53:01,0
+divideth the lands. And
 
 134
-00:14:17,29 --> 00:14:21,29
-21 And it came to pass that the brother of Jared
+00:53:01,0 --> 00:53:01,0
+as they came to
 
 135
-00:14:21,29 --> 00:14:25,29
- did so, according as the Lord had commanded
+00:53:01,0 --> 00:53:01,0
+the sea they
 
 136
-00:14:25,264 --> 00:14:26,264
-22 And he cried again unto the Lord saying: O
+00:53:01,0 --> 00:53:01,0
+pitched their tents;
 
 137
-00:14:26,264 --> 00:14:27,264
- Lord, behold I have done even as thou hast commanded
+00:53:01,0 --> 00:53:01,0
+and they called
 
 138
-00:14:27,264 --> 00:14:28,264
- me; and I have prepared the vessels for my people,
+00:53:01,0 --> 00:53:01,0
+the name of the
 
 139
-00:14:28,264 --> 00:14:29,264
- and behold there is no light in them. Behold, O
+00:53:01,0 --> 00:53:01,0
+place Moriancumer;
 
 140
-00:14:29,264 --> 00:14:30,264
- Lord, wilt thou suffer that we shall cross this
+00:53:01,0 --> 00:53:01,0
+and they dwelt in
 
 141
-00:14:30,264 --> 00:14:31,264
- great water in darkness
+00:53:01,0 --> 00:53:01,0
+tents, and dwelt
 
 142
-00:14:31,037 --> 00:14:31,87
-23 And the Lord said unto the brother of Jared:
+00:53:01,0 --> 00:53:01,0
+in tents upon
 
 143
-00:14:31,87 --> 00:14:32,703
- What will ye that I should do that ye may have light
+00:53:01,0 --> 00:53:01,0
+the seashore for
 
 144
-00:14:32,703 --> 00:14:33,536
- in your vessels? For behold, ye cannot have
+00:53:01,0 --> 01:01:42,
+the space of four years.
 
 145
-00:14:33,536 --> 00:14:34,369
- windows, for they will be dashed in pieces; neither
+01:01:42,0 --> 01:01:42,0
+14 And it came
 
 146
-00:14:34,369 --> 00:14:35,202
- shall ye take fire with you, for ye shall not go by
+01:01:42,0 --> 01:01:42,0
+to pass at the
 
 147
-00:14:35,202 --> 00:14:36,035
- the light of fire
+01:01:42,0 --> 01:01:42,0
+end of four years
 
 148
-00:14:36,809 --> 00:14:44,309
-24 For behold, ye shall be as a whale in the midst
+01:01:42,0 --> 01:01:42,0
+that the Lord
 
 149
-00:14:44,309 --> 00:14:51,809
- of the sea; for the mountain waves shall dash
+01:01:42,0 --> 01:01:42,0
+came again unto
 
 150
-00:14:51,809 --> 00:14:59,309
- upon you. Nevertheless, I will bring you up again out
+01:01:42,0 --> 01:01:42,0
+the brother of
 
 151
-00:14:59,309 --> 00:15:06,809
- of the depths of the sea; for the winds have gone
+01:01:42,0 --> 01:01:42,0
+Jared, and stood in
 
 152
-00:15:06,809 --> 00:15:14,309
- forth out of my mouth, and also the rains and the
+01:01:42,0 --> 01:01:42,0
+a cloud and
 
 153
-00:15:14,309 --> 00:15:21,809
- floods have I sent forth
+01:01:42,0 --> 01:01:42,0
+talked with him.
 
 154
-00:15:21,954 --> 00:15:22,097
-25 And behold, I prepare you against these things;
+01:01:42,0 --> 01:01:42,0
+And for the space
 
 155
-00:15:22,097 --> 00:15:22,24
- for ye cannot cross this great deep save I
+01:01:42,0 --> 01:01:42,0
+of three hours
 
 156
-00:15:22,24 --> 00:15:22,383
- prepare you against the waves of the sea, and the winds
+01:01:42,0 --> 01:01:42,0
+did the Lord talk
 
 157
-00:15:22,383 --> 00:15:22,526
- which have gone forth, and the floods which shall
+01:01:42,0 --> 01:01:42,0
+with the
 
 158
-00:15:22,526 --> 00:15:22,669
- come. Therefore what will ye that I should prepare
+01:01:42,0 --> 01:01:42,0
+brother of Jared, and
 
 159
-00:15:22,669 --> 00:15:22,812
- for you that ye may have light when ye are
+01:01:42,0 --> 01:01:42,0
+chastened him
 
 160
-00:15:22,812 --> 00:15:22,955
- swallowed up in the depths of the sea?
+01:01:42,0 --> 01:01:42,0
+because he
+
+161
+01:01:42,0 --> 01:01:42,0
+remembered not to call
+
+162
+01:01:42,0 --> 01:01:14,
+upon the name of the Lord.
+
+163
+01:01:14,0 --> 01:01:14,0
+15 And the
+
+164
+01:01:14,0 --> 01:01:14,0
+brother of Jared
+
+165
+01:01:14,0 --> 01:01:14,0
+repented of the
+
+166
+01:01:14,0 --> 01:01:14,0
+evil which he
+
+167
+01:01:14,0 --> 01:01:14,0
+had done, and did
+
+168
+01:01:14,0 --> 01:01:14,0
+call upon the
+
+169
+01:01:14,0 --> 01:01:14,0
+name of the
+
+170
+01:01:14,0 --> 01:01:14,0
+Lord for his
+
+171
+01:01:14,0 --> 01:01:14,0
+brethren who were
+
+172
+01:01:14,0 --> 01:01:14,0
+with him. And the
+
+173
+01:01:14,0 --> 01:01:14,0
+Lord said unto
+
+174
+01:01:14,0 --> 01:01:14,0
+him: I will
+
+175
+01:01:14,0 --> 01:01:14,0
+forgive thee and
+
+176
+01:01:14,0 --> 01:01:14,0
+thy brethren of
+
+177
+01:01:14,0 --> 01:01:14,0
+their sins;
+
+178
+01:01:14,0 --> 01:01:14,0
+but thou shalt
+
+179
+01:01:14,0 --> 01:01:14,0
+not sin any more,
+
+180
+01:01:14,0 --> 01:01:14,0
+for ye shall
+
+181
+01:01:14,0 --> 01:01:14,0
+remember that my
+
+182
+01:01:14,0 --> 01:01:14,0
+Spirit will
+
+183
+01:01:14,0 --> 01:01:14,0
+not always strive
+
+184
+01:01:14,0 --> 01:01:14,0
+with man;
+
+185
+01:01:14,0 --> 01:01:14,0
+wherefore, if ye
+
+186
+01:01:14,0 --> 01:01:14,0
+will sin until ye
+
+187
+01:01:14,0 --> 01:01:14,0
+are fully ripe
+
+188
+01:01:14,0 --> 01:01:14,0
+ye shall be
+
+189
+01:01:14,0 --> 01:01:14,0
+cut off from the
+
+190
+01:01:14,0 --> 01:01:14,0
+presence of the
+
+191
+01:01:14,0 --> 01:01:14,0
+Lord. And
+
+192
+01:01:14,0 --> 01:01:14,0
+these are my
+
+193
+01:01:14,0 --> 01:01:14,0
+thoughts upon the
+
+194
+01:01:14,0 --> 01:01:14,0
+land which I shall
+
+195
+01:01:14,0 --> 01:01:14,0
+give you for
+
+196
+01:01:14,0 --> 01:01:14,0
+your
+
+197
+01:01:14,0 --> 01:01:14,0
+inheritance; for it shall
+
+198
+01:01:14,0 --> 01:02:26,
+be a land choice above all other lands.
+
+199
+01:02:26,0 --> 01:02:26,0
+16 And the
+
+200
+01:02:26,0 --> 01:02:26,0
+Lord said: Go to
+
+201
+01:02:26,0 --> 01:02:26,0
+work and
+
+202
+01:02:26,0 --> 01:02:26,0
+build, after the
+
+203
+01:02:26,0 --> 01:02:26,0
+manner of barges
+
+204
+01:02:26,0 --> 01:02:26,0
+which ye have
+
+205
+01:02:26,0 --> 01:02:26,0
+hitherto
+
+206
+01:02:26,0 --> 01:02:26,0
+built. And it came
+
+207
+01:02:26,0 --> 01:02:26,0
+to pass that
+
+208
+01:02:26,0 --> 01:02:26,0
+the brother of
+
+209
+01:02:26,0 --> 01:02:26,0
+Jared did go
+
+210
+01:02:26,0 --> 01:02:26,0
+to work, and
+
+211
+01:02:26,0 --> 01:02:26,0
+also his
+
+212
+01:02:26,0 --> 01:02:26,0
+brethren, and built
+
+213
+01:02:26,0 --> 01:02:26,0
+barges after
+
+214
+01:02:26,0 --> 01:02:26,0
+the manner
+
+215
+01:02:26,0 --> 01:02:26,0
+which they had
+
+216
+01:02:26,0 --> 01:02:26,0
+built, according
+
+217
+01:02:26,0 --> 01:02:26,0
+to the
+
+218
+01:02:26,0 --> 01:02:26,0
+instructions of the
+
+219
+01:02:26,0 --> 01:02:26,0
+Lord. And they
+
+220
+01:02:26,0 --> 01:02:26,0
+were small,
+
+221
+01:02:26,0 --> 01:02:26,0
+and they were
+
+222
+01:02:26,0 --> 01:02:26,0
+light upon the
+
+223
+01:02:26,0 --> 01:02:26,0
+water, even
+
+224
+01:02:26,0 --> 01:02:26,0
+like unto the
+
+225
+01:02:26,0 --> 01:07:37,
+lightness of a fowl upon the water.
+
+226
+01:07:37,0 --> 01:07:37,0
+17 And they
+
+227
+01:07:37,0 --> 01:07:37,0
+were built
+
+228
+01:07:37,0 --> 01:07:37,0
+after a manner
+
+229
+01:07:37,0 --> 01:07:37,0
+that they were
+
+230
+01:07:37,0 --> 01:07:37,0
+exceedingly
+
+231
+01:07:37,0 --> 01:07:37,0
+tight, even
+
+232
+01:07:37,0 --> 01:07:37,0
+that they
+
+233
+01:07:37,0 --> 01:07:37,0
+would hold water
+
+234
+01:07:37,0 --> 01:07:37,0
+like unto a
+
+235
+01:07:37,0 --> 01:07:37,0
+dish; and the
+
+236
+01:07:37,0 --> 01:07:37,0
+bottom
+
+237
+01:07:37,0 --> 01:07:37,0
+thereof was tight
+
+238
+01:07:37,0 --> 01:07:37,0
+like unto a
+
+239
+01:07:37,0 --> 01:07:37,0
+dish; and the
+
+240
+01:07:37,0 --> 01:07:37,0
+sides thereof
+
+241
+01:07:37,0 --> 01:07:37,0
+were tight
+
+242
+01:07:37,0 --> 01:07:37,0
+like unto a
+
+243
+01:07:37,0 --> 01:07:37,0
+dish; and the
+
+244
+01:07:37,0 --> 01:07:37,0
+ends thereof
+
+245
+01:07:37,0 --> 01:07:37,0
+were peaked;
+
+246
+01:07:37,0 --> 01:07:37,0
+and the top
+
+247
+01:07:37,0 --> 01:07:37,0
+thereof was
+
+248
+01:07:37,0 --> 01:07:37,0
+tight like unto a
+
+249
+01:07:37,0 --> 01:07:37,0
+dish; and
+
+250
+01:07:37,0 --> 01:07:37,0
+the length
+
+251
+01:07:37,0 --> 01:07:37,0
+thereof was the
+
+252
+01:07:37,0 --> 01:07:37,0
+length of a
+
+253
+01:07:37,0 --> 01:07:37,0
+tree; and the
+
+254
+01:07:37,0 --> 01:07:37,0
+door thereof,
+
+255
+01:07:37,0 --> 01:07:37,0
+when it was
+
+256
+01:07:37,0 --> 01:19:06,
+shut, was tight like unto a dish.
+
+257
+01:19:06,0 --> 01:19:06,0
+18 And it
+
+258
+01:19:06,0 --> 01:19:06,0
+came to pass
+
+259
+01:19:06,0 --> 01:19:06,0
+that the
+
+260
+01:19:06,0 --> 01:19:06,0
+brother of Jared
+
+261
+01:19:06,0 --> 01:19:06,0
+cried unto
+
+262
+01:19:06,0 --> 01:19:06,0
+the Lord,
+
+263
+01:19:06,0 --> 01:19:06,0
+saying: O
+
+264
+01:19:06,0 --> 01:19:06,0
+Lord, I have
+
+265
+01:19:06,0 --> 01:19:06,0
+performed the
+
+266
+01:19:06,0 --> 01:19:06,0
+work which
+
+267
+01:19:06,0 --> 01:19:06,0
+thou hast
+
+268
+01:19:06,0 --> 01:19:06,0
+commanded me,
+
+269
+01:19:06,0 --> 01:19:06,0
+and I have
+
+270
+01:19:06,0 --> 01:19:06,0
+made the barges
+
+271
+01:19:06,0 --> 01:19:06,0
+according
+
+272
+01:19:06,0 --> 01:26:14,
+as thou hast directed me.
+
+273
+01:26:14,0 --> 01:26:14,0
+19 And
+
+274
+01:26:14,0 --> 01:26:14,0
+behold, O Lord,
+
+275
+01:26:14,0 --> 01:26:14,0
+in them
+
+276
+01:26:14,0 --> 01:26:14,0
+there is no
+
+277
+01:26:14,0 --> 01:26:14,0
+light;
+
+278
+01:26:14,0 --> 01:26:14,0
+whither shall we
+
+279
+01:26:14,0 --> 01:26:14,0
+steer? And
+
+280
+01:26:14,0 --> 01:26:14,0
+also we
+
+281
+01:26:14,0 --> 01:26:14,0
+shall perish,
+
+282
+01:26:14,0 --> 01:26:14,0
+for in
+
+283
+01:26:14,0 --> 01:26:14,0
+them we cannot
+
+284
+01:26:14,0 --> 01:26:14,0
+breathe,
+
+285
+01:26:14,0 --> 01:26:14,0
+save it is
+
+286
+01:26:14,0 --> 01:26:14,0
+the air
+
+287
+01:26:14,0 --> 01:26:14,0
+which is in
+
+288
+01:26:14,0 --> 01:26:14,0
+them;
+
+289
+01:26:14,0 --> 01:35:24,
+therefore we shall perish.
+
+290
+01:35:24,0 --> 01:35:24,0
+20 And the
+
+291
+01:35:24,0 --> 01:35:24,0
+Lord said
+
+292
+01:35:24,0 --> 01:35:24,0
+unto the
+
+293
+01:35:24,0 --> 01:35:24,0
+brother of
+
+294
+01:35:24,0 --> 01:35:24,0
+Jared:
+
+295
+01:35:24,0 --> 01:35:24,0
+Behold, thou
+
+296
+01:35:24,0 --> 01:35:24,0
+shalt
+
+297
+01:35:24,0 --> 01:35:24,0
+make a hole
+
+298
+01:35:24,0 --> 01:35:24,0
+in the top,
+
+299
+01:35:24,0 --> 01:35:24,0
+and also
+
+300
+01:35:24,0 --> 01:35:24,0
+in the
+
+301
+01:35:24,0 --> 01:35:24,0
+bottom; and
+
+302
+01:35:24,0 --> 01:35:24,0
+when thou
+
+303
+01:35:24,0 --> 01:35:24,0
+shalt
+
+304
+01:35:24,0 --> 01:35:24,0
+suffer for air
+
+305
+01:35:24,0 --> 01:35:24,0
+thou shalt
+
+306
+01:35:24,0 --> 01:35:24,0
+unstop
+
+307
+01:35:24,0 --> 01:35:24,0
+the hole and
+
+308
+01:35:24,0 --> 01:35:24,0
+receive
+
+309
+01:35:24,0 --> 01:35:24,0
+air. And if
+
+310
+01:35:24,0 --> 01:35:24,0
+it be so
+
+311
+01:35:24,0 --> 01:35:24,0
+that the
+
+312
+01:35:24,0 --> 01:35:24,0
+water come
+
+313
+01:35:24,0 --> 01:35:24,0
+in upon
+
+314
+01:35:24,0 --> 01:35:24,0
+thee,
+
+315
+01:35:24,0 --> 01:35:24,0
+behold, ye shall
+
+316
+01:35:24,0 --> 01:35:24,0
+stop the
+
+317
+01:35:24,0 --> 01:35:24,0
+hole, that
+
+318
+01:35:24,0 --> 01:48:05,
+ye may not perish in the flood.
+
+319
+01:48:05,0 --> 01:48:05,0
+21 And it
+
+320
+01:48:05,0 --> 01:48:05,0
+came to
+
+321
+01:48:05,0 --> 01:48:05,0
+pass that
+
+322
+01:48:05,0 --> 01:48:05,0
+the
+
+323
+01:48:05,0 --> 01:48:05,0
+brother of
+
+324
+01:48:05,0 --> 01:48:05,0
+Jared did
+
+325
+01:48:05,0 --> 01:48:05,0
+so,
+
+326
+01:48:05,0 --> 01:48:05,0
+according as
+
+327
+01:48:05,0 --> 01:48:05,0
+the Lord
+
+328
+01:48:05,0 --> 02:04:01,
+had commanded.
+
+329
+02:04:01,0 --> 02:04:01,0
+22 And he
+
+330
+02:04:01,0 --> 02:04:01,0
+cried
+
+331
+02:04:01,0 --> 02:04:01,0
+again unto
+
+332
+02:04:01,0 --> 02:04:01,0
+the Lord
+
+333
+02:04:01,0 --> 02:04:01,0
+saying: O
+
+334
+02:04:01,0 --> 02:04:01,0
+Lord,
+
+335
+02:04:01,0 --> 02:04:01,0
+behold I
+
+336
+02:04:01,0 --> 02:04:01,0
+have done
+
+337
+02:04:01,0 --> 02:04:01,0
+even as
+
+338
+02:04:01,0 --> 02:04:01,0
+thou hast
+
+339
+02:04:01,0 --> 02:04:01,0
+commanded
+
+340
+02:04:01,0 --> 02:04:01,0
+me; and I
+
+341
+02:04:01,0 --> 02:04:01,0
+have
+
+342
+02:04:01,0 --> 02:04:01,0
+prepared the
+
+343
+02:04:01,0 --> 02:04:01,0
+vessels
+
+344
+02:04:01,0 --> 02:04:01,0
+for my
+
+345
+02:04:01,0 --> 02:04:01,0
+people, and
+
+346
+02:04:01,0 --> 02:04:01,0
+behold
+
+347
+02:04:01,0 --> 02:04:01,0
+there is
+
+348
+02:04:01,0 --> 02:04:01,0
+no light
+
+349
+02:04:01,0 --> 02:04:01,0
+in them.
+
+350
+02:04:01,0 --> 02:04:01,0
+Behold, O
+
+351
+02:04:01,0 --> 02:04:01,0
+Lord,
+
+352
+02:04:01,0 --> 02:04:01,0
+wilt thou
+
+353
+02:04:01,0 --> 02:04:01,0
+suffer that
+
+354
+02:04:01,0 --> 02:04:01,0
+we shall
+
+355
+02:04:01,0 --> 02:04:01,0
+cross
+
+356
+02:04:01,0 --> 02:04:01,0
+this great
+
+357
+02:04:01,0 --> 02:04:01,0
+water in
+
+358
+02:04:01,0 --> 02:18:09,
+darkness?
+
+359
+02:18:09,0 --> 02:18:09,0
+23 And
+
+360
+02:18:09,0 --> 02:18:09,0
+the Lord
+
+361
+02:18:09,0 --> 02:18:09,0
+said
+
+362
+02:18:09,0 --> 02:18:09,0
+unto the
+
+363
+02:18:09,0 --> 02:18:09,0
+brother of
+
+364
+02:18:09,0 --> 02:18:09,0
+Jared:
+
+365
+02:18:09,0 --> 02:18:09,0
+What
+
+366
+02:18:09,0 --> 02:18:09,0
+will ye
+
+367
+02:18:09,0 --> 02:18:09,0
+that I
+
+368
+02:18:09,0 --> 02:18:09,0
+should do
+
+369
+02:18:09,0 --> 02:18:09,0
+that ye
+
+370
+02:18:09,0 --> 02:18:09,0
+may have
+
+371
+02:18:09,0 --> 02:18:09,0
+light in
+
+372
+02:18:09,0 --> 02:18:09,0
+your
+
+373
+02:18:09,0 --> 02:18:09,0
+vessels?
+
+374
+02:18:09,0 --> 02:18:09,0
+For
+
+375
+02:18:09,0 --> 02:18:09,0
+behold, ye
+
+376
+02:18:09,0 --> 02:18:09,0
+cannot have
+
+377
+02:18:09,0 --> 02:18:09,0
+
+
+378
+02:18:09,0 --> 02:18:09,0
+windows, for
+
+379
+02:18:09,0 --> 02:18:09,0
+they will
+
+380
+02:18:09,0 --> 02:18:09,0
+be
+
+381
+02:18:09,0 --> 02:18:09,0
+dashed in
+
+382
+02:18:09,0 --> 02:18:09,0
+pieces;
+
+383
+02:18:09,0 --> 02:18:09,0
+neither
+
+384
+02:18:09,0 --> 02:18:09,0
+shall ye
+
+385
+02:18:09,0 --> 02:18:09,0
+take fire
+
+386
+02:18:09,0 --> 02:18:09,0
+with
+
+387
+02:18:09,0 --> 02:18:09,0
+you, for ye
+
+388
+02:18:09,0 --> 02:25:17,
+shall not go by the light of fire.
+
+389
+02:25:17,0 --> 02:25:17,0
+24 For
+
+390
+02:25:17,0 --> 02:25:17,0
+behold,
+
+391
+02:25:17,0 --> 02:25:17,0
+ye
+
+392
+02:25:17,0 --> 02:25:17,0
+shall be
+
+393
+02:25:17,0 --> 02:25:17,0
+as a
+
+394
+02:25:17,0 --> 02:25:17,0
+whale in
+
+395
+02:25:17,0 --> 02:25:17,0
+the
+
+396
+02:25:17,0 --> 02:25:17,0
+midst of
+
+397
+02:25:17,0 --> 02:25:17,0
+the sea;
+
+398
+02:25:17,0 --> 02:25:17,0
+for the
+
+399
+02:25:17,0 --> 02:25:17,0
+
+
+400
+02:25:17,0 --> 02:25:17,0
+mountain
+
+401
+02:25:17,0 --> 02:25:17,0
+waves shall
+
+402
+02:25:17,0 --> 02:25:17,0
+dash
+
+403
+02:25:17,0 --> 02:25:17,0
+upon
+
+404
+02:25:17,0 --> 02:25:17,0
+you.
+
+405
+02:25:17,0 --> 02:25:17,0
+
+
+406
+02:25:17,0 --> 02:25:17,0
+Nevertheless, I
+
+407
+02:25:17,0 --> 02:25:17,0
+will bring
+
+408
+02:25:17,0 --> 02:25:17,0
+you up
+
+409
+02:25:17,0 --> 02:25:17,0
+again
+
+410
+02:25:17,0 --> 02:25:17,0
+out of
+
+411
+02:25:17,0 --> 02:25:17,0
+the
+
+412
+02:25:17,0 --> 02:25:17,0
+depths of
+
+413
+02:25:17,0 --> 02:25:17,0
+the
+
+414
+02:25:17,0 --> 02:25:17,0
+sea; for
+
+415
+02:25:17,0 --> 02:25:17,0
+the
+
+416
+02:25:17,0 --> 02:25:17,0
+winds have
+
+417
+02:25:17,0 --> 02:25:17,0
+gone
+
+418
+02:25:17,0 --> 02:25:17,0
+forth out
+
+419
+02:25:17,0 --> 02:25:17,0
+of my
+
+420
+02:25:17,0 --> 02:25:17,0
+mouth,
+
+421
+02:25:17,0 --> 02:25:17,0
+and
+
+422
+02:25:17,0 --> 02:25:17,0
+also the
+
+423
+02:25:17,0 --> 02:39:25,
+rains and the floods have I sent forth.
+
+424
+02:39:25,0 --> 02:39:25,0
+25 And
+
+425
+02:39:25,0 --> 02:39:25,0
+
+
+426
+02:39:25,0 --> 02:39:25,0
+behold, I
+
+427
+02:39:25,0 --> 02:39:25,0
+prepare
+
+428
+02:39:25,0 --> 02:39:25,0
+you
+
+429
+02:39:25,0 --> 02:39:25,0
+against
+
+430
+02:39:25,0 --> 02:39:25,0
+these
+
+431
+02:39:25,0 --> 02:39:25,0
+
+
+432
+02:39:25,0 --> 02:39:25,0
+things; for
+
+433
+02:39:25,0 --> 02:39:25,0
+ye
+
+434
+02:39:25,0 --> 02:39:25,0
+cannot
+
+435
+02:39:25,0 --> 02:39:25,0
+cross
+
+436
+02:39:25,0 --> 02:39:25,0
+this
+
+437
+02:39:25,0 --> 02:39:25,0
+great
+
+438
+02:39:25,0 --> 02:39:25,0
+deep
+
+439
+02:39:25,0 --> 02:39:25,0
+save I
+
+440
+02:39:25,0 --> 02:39:25,0
+prepare
+
+441
+02:39:25,0 --> 02:39:25,0
+you
+
+442
+02:39:25,0 --> 02:39:25,0
+against
+
+443
+02:39:25,0 --> 02:39:25,0
+the
+
+444
+02:39:25,0 --> 02:39:25,0
+waves of
+
+445
+02:39:25,0 --> 02:39:25,0
+the
+
+446
+02:39:25,0 --> 02:39:25,0
+sea,
+
+447
+02:39:25,0 --> 02:39:25,0
+and the
+
+448
+02:39:25,0 --> 02:39:25,0
+winds
+
+449
+02:39:25,0 --> 02:39:25,0
+which
+
+450
+02:39:25,0 --> 02:39:25,0
+have
+
+451
+02:39:25,0 --> 02:39:25,0
+gone
+
+452
+02:39:25,0 --> 02:39:25,0
+forth,
+
+453
+02:39:25,0 --> 02:39:25,0
+and the
+
+454
+02:39:25,0 --> 02:39:25,0
+
+
+455
+02:39:25,0 --> 02:39:25,0
+floods
+
+456
+02:39:25,0 --> 02:39:25,0
+which
+
+457
+02:39:25,0 --> 02:39:25,0
+shall
+
+458
+02:39:25,0 --> 02:39:25,0
+come.
+
+459
+02:39:25,0 --> 02:39:25,0
+Therefore
+
+460
+02:39:25,0 --> 02:39:25,0
+what
+
+461
+02:39:25,0 --> 02:39:25,0
+will ye
+
+462
+02:39:25,0 --> 02:39:25,0
+that
+
+463
+02:39:25,0 --> 02:39:25,0
+I
+
+464
+02:39:25,0 --> 02:39:25,0
+should
+
+465
+02:39:25,0 --> 02:39:25,0
+prepare
+
+466
+02:39:25,0 --> 02:39:25,0
+for you
+
+467
+02:39:25,0 --> 02:39:25,0
+that
+
+468
+02:39:25,0 --> 02:39:25,0
+ye may
+
+469
+02:39:25,0 --> 02:39:25,0
+have
+
+470
+02:39:25,0 --> 02:39:25,0
+light
+
+471
+02:39:25,0 --> 02:41:37,
+when ye are swallowed up in the depths of the sea? 
 

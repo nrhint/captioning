@@ -1,436 +1,860 @@
 1
-00:00:00,0 --> 00:00:09,111
-The Record of Zeniff—An account of his people,
+00:00:00,0 --> 00:00:00,0
+The Record of Zeniff—An account of his
 
 2
-00:00:09,111 --> 00:00:18,222
- from the time they left the land of Zarahemla until
+00:00:00,0 --> 00:00:00,0
+people, from the time they left the land of
 
 3
-00:00:18,222 --> 00:00:27,333
- the time that they were delivered out of the hands
+00:00:00,0 --> 00:00:00,0
+Zarahemla until the time that they were delivered
 
 4
-00:00:27,333 --> 00:00:36,444
- of the Lamanites. Comprising chapters 9
+00:00:00,0 --> 00:00:00,0
+out of the hands of the Lamanites. Comprising
 
 5
-00:00:36,444 --> 00:00:45,555
- through 22.Chapter 9 Zeniff leads a group from Zarahemla to
+00:00:00,0 --> 00:00:00,0
+chapters 9 through 22.Chapter 9 Zeniff leads a
 
 6
-00:00:45,555 --> 00:00:54,666
- possess the land of Lehi-Nephi—The Lamanite king
+00:00:00,0 --> 00:00:00,0
+group from Zarahemla to possess the land of
 
 7
-00:00:54,666 --> 00:01:03,777
- permits them to inherit the land—There is war
+00:00:00,0 --> 00:00:00,0
+Lehi-Nephi—The Lamanite king permits them to
 
 8
-00:01:03,777 --> 00:01:12,888
- between the Lamanites and Zeniff’s people. About
+00:00:00,0 --> 00:00:00,0
+inherit the land—There is war between the
 
 9
-00:01:12,888 --> 00:01:21,999
- 200–187 B.C.
+00:00:00,0 --> 00:16:10,
+Lamanites and Zeniff’s people. About 200–187 B.C. 
 
 10
-00:01:22,382 --> 00:01:27,938
+00:16:10,0 --> 00:16:10,0
 1 I, Zeniff, having been taught in all the
 
 11
-00:01:27,938 --> 00:01:33,494
- language of the Nephites, and having had a knowledge of
+00:16:10,0 --> 00:16:10,0
+language of the Nephites, and having had a
 
 12
-00:01:33,494 --> 00:01:39,05
- the land of Nephi, or of the land of our fathers’
+00:16:10,0 --> 00:16:10,0
+knowledge of the land of Nephi, or of the land
 
 13
-00:01:39,05 --> 00:01:44,606
- first inheritance, and having been sent as a spy
+00:16:10,0 --> 00:16:10,0
+of our fathers’ first inheritance, and
 
 14
-00:01:44,606 --> 00:01:50,162
- among the Lamanites that I might spy out their
+00:16:10,0 --> 00:16:10,0
+having been sent as a spy among the Lamanites
 
 15
-00:01:50,162 --> 00:01:55,718
- forces, that our army might come upon them and destroy
+00:16:10,0 --> 00:16:10,0
+that I might spy out their forces, that our
 
 16
-00:01:55,718 --> 00:02:01,274
- them—but when I saw that which was good among them
+00:16:10,0 --> 00:16:10,0
+army might come upon them and destroy them—but
 
 17
-00:02:01,274 --> 00:02:06,83
- I was desirous that they should not be destroyed
+00:16:10,0 --> 00:16:10,0
+when I saw that which was good among them I
 
 18
-00:02:06,83 --> 00:02:12,386
-
+00:16:10,0 --> 00:19:20,
+was desirous that they should not be destroyed.
 
 19
-00:02:12,299 --> 00:02:17,935
-2 Therefore, I contended with my brethren in the
+00:19:20,0 --> 00:19:20,0
+2 Therefore, I contended with my brethren
 
 20
-00:02:17,935 --> 00:02:23,571
- wilderness, for I would that our ruler should make
+00:19:20,0 --> 00:19:20,0
+in the wilderness, for I would that our
 
 21
-00:02:23,571 --> 00:02:29,207
- a treaty with them; but he being an austere and a
+00:19:20,0 --> 00:19:20,0
+ruler should make a treaty with them; but he
 
 22
-00:02:29,207 --> 00:02:34,843
- blood-thirsty man commanded that I should be
+00:19:20,0 --> 00:19:20,0
+being an austere and a blood-thirsty man
 
 23
-00:02:34,843 --> 00:02:40,479
- slain; but I was rescued by the shedding of much blood;
+00:19:20,0 --> 00:19:20,0
+commanded that I should be slain; but I
 
 24
-00:02:40,479 --> 00:02:46,115
- for father fought against father, and brother
+00:19:20,0 --> 00:19:20,0
+was rescued by the shedding of much blood;
 
 25
-00:02:46,115 --> 00:02:51,751
- against brother, until the greater number of our army
+00:19:20,0 --> 00:19:20,0
+for father fought against father, and
 
 26
-00:02:51,751 --> 00:02:57,387
- was destroyed in the wilderness; and we returned,
+00:19:20,0 --> 00:19:20,0
+brother against brother, until the greater
 
 27
-00:02:57,387 --> 00:03:03,023
- those of us that were spared, to the land of
+00:19:20,0 --> 00:19:20,0
+number of our army was destroyed in the
 
 28
-00:03:03,023 --> 00:03:08,659
- Zarahemla, to relate that tale to their wives and
+00:19:20,0 --> 00:19:20,0
+wilderness; and we returned, those of us that
 
 29
-00:03:08,659 --> 00:03:14,295
- their children
+00:19:20,0 --> 00:19:20,0
+were spared, to the land of Zarahemla, to
 
 30
-00:03:14,761 --> 00:03:21,904
-3 And yet, I being over-zealous to inherit the
+00:19:20,0 --> 00:21:04,
+relate that tale to their wives and their children.
 
 31
-00:03:21,904 --> 00:03:29,047
- land of our fathers, collected as many as were
+00:21:04,0 --> 00:21:04,0
+3 And yet, I being over-zealous to
 
 32
-00:03:29,047 --> 00:03:36,19
- desirous to go up to possess the land, and started again
+00:21:04,0 --> 00:21:04,0
+inherit the land of our fathers,
 
 33
-00:03:36,19 --> 00:03:43,333
- on our journey into the wilderness to go up to
+00:21:04,0 --> 00:21:04,0
+collected as many as were desirous to go up to
 
 34
-00:03:43,333 --> 00:03:50,476
- the land; but we were smitten with famine and sore
+00:21:04,0 --> 00:21:04,0
+possess the land, and started again
 
 35
-00:03:50,476 --> 00:03:57,619
- afflictions; for we were slow to remember the Lord
+00:21:04,0 --> 00:21:04,0
+on our journey into the wilderness to
 
 36
-00:03:57,619 --> 00:04:04,762
- our God
+00:21:04,0 --> 00:21:04,0
+go up to the land; but we were smitten
 
 37
-00:04:04,978 --> 00:04:10,478
-4 Nevertheless, after many days’ wandering in the
+00:21:04,0 --> 00:21:04,0
+with famine and sore afflictions; for
 
 38
-00:04:10,478 --> 00:04:15,978
- wilderness we pitched our tents in the place where
+00:21:04,0 --> 00:20:36,
+we were slow to remember the Lord our God.
 
 39
-00:04:15,978 --> 00:04:21,478
- our brethren were slain, which was near to the
+00:20:36,0 --> 00:20:36,0
+4 Nevertheless, after many days’
 
 40
-00:04:21,478 --> 00:04:26,978
- land of our fathers
+00:20:36,0 --> 00:20:36,0
+wandering in the wilderness we
 
 41
-00:04:26,533 --> 00:04:32,533
-5 And it came to pass that I went again with four
+00:20:36,0 --> 00:20:36,0
+pitched our tents in the place
 
 42
-00:04:32,533 --> 00:04:38,533
- of my men into the city, in unto the king, that I
+00:20:36,0 --> 00:20:36,0
+where our brethren were slain, which
 
 43
-00:04:38,533 --> 00:04:44,533
- might know of the disposition of the king, and
+00:20:36,0 --> 00:22:20,
+was near to the land of our fathers.
 
 44
-00:04:44,533 --> 00:04:50,533
- that I might know if I might go in with my people and
+00:22:20,0 --> 00:22:20,0
+5 And it came to pass that I
 
 45
-00:04:50,533 --> 00:04:56,533
- possess the land in peace
+00:22:20,0 --> 00:22:20,0
+went again with four of my men into
 
 46
-00:04:56,062 --> 00:05:01,729
-6 And I went in unto the king, and he covenanted
+00:22:20,0 --> 00:22:20,0
+the city, in unto the king,
 
 47
-00:05:01,729 --> 00:05:07,396
- with me that I might possess the land of
+00:22:20,0 --> 00:22:20,0
+that I might know of the
 
 48
-00:05:07,396 --> 00:05:13,063
- Lehi-Nephi, and the land of Shilom
+00:22:20,0 --> 00:22:20,0
+disposition of the king, and that I might
 
 49
-00:05:13,013 --> 00:05:19,346
-7 And he also commanded that his people should
+00:22:20,0 --> 00:22:20,0
+know if I might go in with my
 
 50
-00:05:19,346 --> 00:05:25,679
- depart out of the land, and I and my people went into
+00:22:20,0 --> 00:36:59,
+people and possess the land in peace.
 
 51
-00:05:25,679 --> 00:05:32,012
- the land that we might possess it
+00:36:59,0 --> 00:36:59,0
+6 And I went in unto the king,
 
 52
-00:05:32,966 --> 00:05:41,633
-8 And we began to build buildings, and to repair
+00:36:59,0 --> 00:36:59,0
+and he covenanted with me that
 
 53
-00:05:41,633 --> 00:05:50,3
- the walls of the city, yea, even the walls of the
+00:36:59,0 --> 00:36:59,0
+I might possess the land of
 
 54
-00:05:50,3 --> 00:05:58,967
- city of Lehi-Nephi, and the city of Shilom
+00:36:59,0 --> 00:38:11,
+Lehi-Nephi, and the land of Shilom.
 
 55
-00:05:58,925 --> 00:06:06,125
-9 And we began to till the ground, yea, even with
+00:38:11,0 --> 00:38:11,0
+7 And he also commanded
 
 56
-00:06:06,125 --> 00:06:13,325
- all manner of seeds, with seeds of corn, and of
+00:38:11,0 --> 00:38:11,0
+that his people should depart
 
 57
-00:06:13,325 --> 00:06:20,525
- wheat, and of barley, and with neas, and with sheum,
+00:38:11,0 --> 00:38:11,0
+out of the land, and I and
 
 58
-00:06:20,525 --> 00:06:27,725
- and with seeds of all manner of fruits; and we
+00:38:11,0 --> 00:38:11,0
+my people went into the
 
 59
-00:06:27,725 --> 00:06:34,925
- did begin to multiply and prosper in the land
+00:38:11,0 --> 00:37:57,
+land that we might possess it.
 
 60
-00:06:34,828 --> 00:06:42,161
-10 Now it was the cunning and the craftiness of
+00:37:57,0 --> 00:37:57,0
+8 And we began to build
 
 61
-00:06:42,161 --> 00:06:49,494
- king Laman, to bring my people into bondage, that he
+00:37:57,0 --> 00:37:57,0
+buildings, and to
 
 62
-00:06:49,494 --> 00:06:56,827
- yielded up the land that we might possess it
+00:37:57,0 --> 00:37:57,0
+repair the walls of the
 
 63
-00:06:56,65 --> 00:07:01,483
-11 Therefore it came to pass, that after we had
+00:37:57,0 --> 00:37:57,0
+city, yea, even the walls
 
 64
-00:07:01,483 --> 00:07:06,316
- dwelt in the land for the space of twelve years that
+00:37:57,0 --> 00:37:57,0
+of the city of
 
 65
-00:07:06,316 --> 00:07:11,149
- king Laman began to grow uneasy, lest by any
+00:37:57,0 --> 00:39:41,
+Lehi-Nephi, and the city of Shilom.
 
 66
-00:07:11,149 --> 00:07:15,982
- means my people should wax strong in the land, and
+00:39:41,0 --> 00:39:41,0
+9 And we began to till
 
 67
-00:07:15,982 --> 00:07:20,815
- that they could not overpower them and bring them
+00:39:41,0 --> 00:39:41,0
+the ground, yea, even
 
 68
-00:07:20,815 --> 00:07:25,648
- into bondage
+00:39:41,0 --> 00:39:41,0
+with all manner of
 
 69
-00:07:25,645 --> 00:07:32,245
-12 Now they were a lazy and an idolatrous people;
+00:39:41,0 --> 00:39:41,0
+seeds, with seeds of
 
 70
-00:07:32,245 --> 00:07:38,845
- therefore they were desirous to bring us into
+00:39:41,0 --> 00:39:41,0
+corn, and of wheat, and
 
 71
-00:07:38,845 --> 00:07:45,445
- bondage, that they might glut themselves with the
+00:39:41,0 --> 00:39:41,0
+of barley, and with
 
 72
-00:07:45,445 --> 00:07:52,045
- labors of our hands; yea, that they might feast
+00:39:41,0 --> 00:39:41,0
+neas, and with sheum, and
 
 73
-00:07:52,045 --> 00:07:58,645
- themselves upon the flocks of our fields
+00:39:41,0 --> 00:39:41,0
+with seeds of all
 
 74
-00:07:58,945 --> 00:08:04,195
-13 Therefore it came to pass that king Laman began
+00:39:41,0 --> 00:39:41,0
+manner of fruits; and we
 
 75
-00:08:04,195 --> 00:08:09,445
- to stir up his people that they should contend
+00:39:41,0 --> 00:39:41,0
+did begin to multiply
 
 76
-00:08:09,445 --> 00:08:14,695
- with my people; therefore there began to be wars and
+00:39:41,0 --> 00:39:13,
+and prosper in the land.
 
 77
-00:08:14,695 --> 00:08:19,945
- contentions in the land
+00:39:13,0 --> 00:39:13,0
+10 Now it was the
 
 78
-00:08:19,733 --> 00:08:25,447
-14 For, in the thirteenth year of my reign in the
+00:39:13,0 --> 00:39:13,0
+cunning and the
 
 79
-00:08:25,447 --> 00:08:31,161
- land of Nephi, away on the south of the land of
+00:39:13,0 --> 00:39:13,0
+craftiness of king Laman,
 
 80
-00:08:31,161 --> 00:08:36,875
- Shilom, when my people were watering and feeding
+00:39:13,0 --> 00:39:13,0
+to bring my people
 
 81
-00:08:36,875 --> 00:08:42,589
- their flocks, and tilling their lands, a numerous
+00:39:13,0 --> 00:39:13,0
+into bondage, that he
 
 82
-00:08:42,589 --> 00:08:48,303
- host of Lamanites came upon them and began to slay
+00:39:13,0 --> 00:39:13,0
+yielded up the land
 
 83
-00:08:48,303 --> 00:08:54,017
- them, and to take off their flocks, and the corn of
+00:39:13,0 --> 00:38:45,
+that we might possess it.
 
 84
-00:08:54,017 --> 00:08:59,731
- their fields
+00:38:45,0 --> 00:38:45,0
+11 Therefore it came
 
 85
-00:08:59,606 --> 00:09:02,273
-15 Yea, and it came to pass that they fled, all
+00:38:45,0 --> 00:38:45,0
+to pass, that after
 
 86
-00:09:02,273 --> 00:09:04,94
- that were not overtaken, even into the city of
+00:38:45,0 --> 00:38:45,0
+we had dwelt in the
 
 87
-00:09:04,94 --> 00:09:07,607
- Nephi, and did call upon me for protection
+00:38:45,0 --> 00:38:45,0
+land for the space
 
 88
-00:09:07,58 --> 00:09:15,747
-16 And it came to pass that I did arm them with
+00:38:45,0 --> 00:38:45,0
+of twelve years that
 
 89
-00:09:15,747 --> 00:09:23,914
- bows, and with arrows, with swords, and with
+00:38:45,0 --> 00:38:45,0
+king Laman began to
 
 90
-00:09:23,914 --> 00:09:32,081
- cimeters, and with clubs, and with slings, and with all
+00:38:45,0 --> 00:38:45,0
+grow uneasy, lest
 
 91
-00:09:32,081 --> 00:09:40,248
- manner of weapons which we could invent, and I and
+00:38:45,0 --> 00:38:45,0
+by any means my
 
 92
-00:09:40,248 --> 00:09:48,415
- my people did go forth against the Lamanites to
+00:38:45,0 --> 00:38:45,0
+people should wax strong
 
 93
-00:09:48,415 --> 00:09:56,582
- battle
+00:38:45,0 --> 00:38:45,0
+in the land, and
 
 94
-00:09:56,396 --> 00:10:02,063
-17 Yea, in the strength of the Lord did we go
+00:38:45,0 --> 00:38:45,0
+that they could not
 
 95
-00:10:02,063 --> 00:10:07,73
- forth to battle against the Lamanites; for I and my
+00:38:45,0 --> 00:38:45,0
+overpower them and
 
 96
-00:10:07,73 --> 00:10:13,397
- people did cry mightily to the Lord that he would
+00:38:45,0 --> 00:40:57,
+bring them into bondage.
 
 97
-00:10:13,397 --> 00:10:19,064
- deliver us out of the hands of our enemies, for we
+00:40:57,0 --> 00:40:57,0
+12 Now they were a
 
 98
-00:10:19,064 --> 00:10:24,731
- were awakened to a remembrance of the deliverance
+00:40:57,0 --> 00:40:57,0
+lazy and an
 
 99
-00:10:24,731 --> 00:10:30,398
- of our fathers
+00:40:57,0 --> 00:40:57,0
+idolatrous people;
 
 100
-00:10:30,33 --> 00:10:36,497
-18 And God did hear our cries and did answer our
+00:40:57,0 --> 00:40:57,0
+therefore they were
 
 101
-00:10:36,497 --> 00:10:42,664
- prayers; and we did go forth in his might; yea, we
+00:40:57,0 --> 00:40:57,0
+desirous to bring us into
 
 102
-00:10:42,664 --> 00:10:48,831
- did go forth against the Lamanites, and in one day
+00:40:57,0 --> 00:40:57,0
+bondage, that they
 
 103
-00:10:48,831 --> 00:10:54,998
- and a night we did slay three thousand and
+00:40:57,0 --> 00:40:57,0
+might glut
 
 104
-00:10:54,998 --> 00:11:01,165
- forty-three; we did slay them even until we had driven
+00:40:57,0 --> 00:40:57,0
+themselves with the labors
 
 105
-00:11:01,165 --> 00:11:07,332
- them out of our land
+00:40:57,0 --> 00:40:57,0
+of our hands; yea,
 
 106
-00:11:07,066 --> 00:11:10,566
-19 And I, myself, with mine own hands, did help to
+00:40:57,0 --> 00:40:57,0
+that they might
 
 107
-00:11:10,566 --> 00:11:14,066
- bury their dead. And behold, to our great sorrow
+00:40:57,0 --> 00:40:57,0
+feast themselves upon
 
 108
-00:11:14,066 --> 00:11:17,566
- and lamentation, two hundred and seventy-nine of
+00:40:57,0 --> 01:04:23,
+the flocks of our fields.
 
 109
-00:11:17,566 --> 00:11:21,066
- our brethren were slain.
+01:04:23,0 --> 01:04:23,0
+13 Therefore it
+
+110
+01:04:23,0 --> 01:04:23,0
+came to pass that
+
+111
+01:04:23,0 --> 01:04:23,0
+king Laman began
+
+112
+01:04:23,0 --> 01:04:23,0
+to stir up his
+
+113
+01:04:23,0 --> 01:04:23,0
+people that they
+
+114
+01:04:23,0 --> 01:04:23,0
+should contend with
+
+115
+01:04:23,0 --> 01:04:23,0
+my people;
+
+116
+01:04:23,0 --> 01:04:23,0
+therefore there began
+
+117
+01:04:23,0 --> 01:04:23,0
+to be wars and
+
+118
+01:04:23,0 --> 01:03:55,
+contentions in the land.
+
+119
+01:03:55,0 --> 01:03:55,0
+14 For, in the
+
+120
+01:03:55,0 --> 01:03:55,0
+thirteenth year
+
+121
+01:03:55,0 --> 01:03:55,0
+of my reign in
+
+122
+01:03:55,0 --> 01:03:55,0
+the land of Nephi,
+
+123
+01:03:55,0 --> 01:03:55,0
+away on the
+
+124
+01:03:55,0 --> 01:03:55,0
+south of the land
+
+125
+01:03:55,0 --> 01:03:55,0
+of Shilom, when
+
+126
+01:03:55,0 --> 01:03:55,0
+my people were
+
+127
+01:03:55,0 --> 01:03:55,0
+watering and
+
+128
+01:03:55,0 --> 01:03:55,0
+feeding their flocks,
+
+129
+01:03:55,0 --> 01:03:55,0
+and tilling
+
+130
+01:03:55,0 --> 01:03:55,0
+their lands, a
+
+131
+01:03:55,0 --> 01:03:55,0
+numerous host of
+
+132
+01:03:55,0 --> 01:03:55,0
+Lamanites came upon
+
+133
+01:03:55,0 --> 01:03:55,0
+them and began
+
+134
+01:03:55,0 --> 01:03:55,0
+to slay them,
+
+135
+01:03:55,0 --> 01:03:55,0
+and to take off
+
+136
+01:03:55,0 --> 01:03:55,0
+their flocks, and
+
+137
+01:03:55,0 --> 01:04:09,
+the corn of their fields.
+
+138
+01:04:09,0 --> 01:04:09,0
+15 Yea, and it
+
+139
+01:04:09,0 --> 01:04:09,0
+came to pass
+
+140
+01:04:09,0 --> 01:04:09,0
+that they fled,
+
+141
+01:04:09,0 --> 01:04:09,0
+all that were
+
+142
+01:04:09,0 --> 01:04:09,0
+not overtaken,
+
+143
+01:04:09,0 --> 01:04:09,0
+even into the
+
+144
+01:04:09,0 --> 01:04:09,0
+city of Nephi, and
+
+145
+01:04:09,0 --> 01:04:09,0
+did call upon
+
+146
+01:04:09,0 --> 01:17:35,
+me for protection.
+
+147
+01:17:35,0 --> 01:17:35,0
+16 And it came
+
+148
+01:17:35,0 --> 01:17:35,0
+to pass that I
+
+149
+01:17:35,0 --> 01:17:35,0
+did arm them
+
+150
+01:17:35,0 --> 01:17:35,0
+with bows, and
+
+151
+01:17:35,0 --> 01:17:35,0
+with arrows, with
+
+152
+01:17:35,0 --> 01:17:35,0
+swords, and
+
+153
+01:17:35,0 --> 01:17:35,0
+with cimeters,
+
+154
+01:17:35,0 --> 01:17:35,0
+and with clubs,
+
+155
+01:17:35,0 --> 01:17:35,0
+and with slings,
+
+156
+01:17:35,0 --> 01:17:35,0
+and with all
+
+157
+01:17:35,0 --> 01:17:35,0
+manner of
+
+158
+01:17:35,0 --> 01:17:35,0
+weapons which we
+
+159
+01:17:35,0 --> 01:17:35,0
+could invent, and I
+
+160
+01:17:35,0 --> 01:17:35,0
+and my people
+
+161
+01:17:35,0 --> 01:17:35,0
+did go forth
+
+162
+01:17:35,0 --> 01:17:35,0
+against the
+
+163
+01:17:35,0 --> 01:28:42,
+Lamanites to battle.
+
+164
+01:28:42,0 --> 01:28:42,0
+17 Yea, in the
+
+165
+01:28:42,0 --> 01:28:42,0
+strength of
+
+166
+01:28:42,0 --> 01:28:42,0
+the Lord did we
+
+167
+01:28:42,0 --> 01:28:42,0
+go forth to
+
+168
+01:28:42,0 --> 01:28:42,0
+battle against
+
+169
+01:28:42,0 --> 01:28:42,0
+the Lamanites;
+
+170
+01:28:42,0 --> 01:28:42,0
+for I and my
+
+171
+01:28:42,0 --> 01:28:42,0
+people did cry
+
+172
+01:28:42,0 --> 01:28:42,0
+mightily to
+
+173
+01:28:42,0 --> 01:28:42,0
+the Lord that
+
+174
+01:28:42,0 --> 01:28:42,0
+he would
+
+175
+01:28:42,0 --> 01:28:42,0
+deliver us out of
+
+176
+01:28:42,0 --> 01:28:42,0
+the hands of our
+
+177
+01:28:42,0 --> 01:28:42,0
+enemies, for
+
+178
+01:28:42,0 --> 01:28:42,0
+we were
+
+179
+01:28:42,0 --> 01:28:42,0
+awakened to a
+
+180
+01:28:42,0 --> 01:28:42,0
+remembrance of the
+
+181
+01:28:42,0 --> 01:33:39,
+deliverance of our fathers.
+
+182
+01:33:39,0 --> 01:33:39,0
+18 And God
+
+183
+01:33:39,0 --> 01:33:39,0
+did hear our
+
+184
+01:33:39,0 --> 01:33:39,0
+cries and did
+
+185
+01:33:39,0 --> 01:33:39,0
+answer our
+
+186
+01:33:39,0 --> 01:33:39,0
+prayers; and we
+
+187
+01:33:39,0 --> 01:33:39,0
+did go forth
+
+188
+01:33:39,0 --> 01:33:39,0
+in his might;
+
+189
+01:33:39,0 --> 01:33:39,0
+yea, we did
+
+190
+01:33:39,0 --> 01:33:39,0
+go forth
+
+191
+01:33:39,0 --> 01:33:39,0
+against the
+
+192
+01:33:39,0 --> 01:33:39,0
+Lamanites, and in
+
+193
+01:33:39,0 --> 01:33:39,0
+one day and a
+
+194
+01:33:39,0 --> 01:33:39,0
+night we did
+
+195
+01:33:39,0 --> 01:33:39,0
+slay three
+
+196
+01:33:39,0 --> 01:33:39,0
+thousand and
+
+197
+01:33:39,0 --> 01:33:39,0
+forty-three;
+
+198
+01:33:39,0 --> 01:33:39,0
+we did slay
+
+199
+01:33:39,0 --> 01:33:39,0
+them even until
+
+200
+01:33:39,0 --> 01:33:39,0
+we had
+
+201
+01:33:39,0 --> 01:37:10,
+driven them out of our land.
+
+202
+01:37:10,0 --> 01:37:10,0
+19 And I,
+
+203
+01:37:10,0 --> 01:37:10,0
+myself, with
+
+204
+01:37:10,0 --> 01:37:10,0
+mine own
+
+205
+01:37:10,0 --> 01:37:10,0
+hands, did help
+
+206
+01:37:10,0 --> 01:37:10,0
+to bury
+
+207
+01:37:10,0 --> 01:37:10,0
+their dead. And
+
+208
+01:37:10,0 --> 01:37:10,0
+behold, to
+
+209
+01:37:10,0 --> 01:37:10,0
+our great
+
+210
+01:37:10,0 --> 01:37:10,0
+sorrow and
+
+211
+01:37:10,0 --> 01:37:10,0
+lamentation, two
+
+212
+01:37:10,0 --> 01:37:10,0
+hundred and
+
+213
+01:37:10,0 --> 01:37:10,0
+
+
+214
+01:37:10,0 --> 01:37:10,0
+seventy-nine of our
+
+215
+01:37:10,0 --> 01:41:38,
+brethren were slain. 
 

@@ -1,248 +1,664 @@
 1
-00:00:00,0 --> 00:00:01,75
-Chapter 33 Nephi’s words are true—They testify of
+00:00:00,0 --> 00:00:00,0
+Chapter 33 Nephi’s words are true—They testify
 
 2
-00:00:01,75 --> 00:00:03,5
- Christ—Those who believe in Christ will believe
+00:00:00,0 --> 00:00:00,0
+of Christ—Those who believe in Christ will
 
 3
-00:00:03,5 --> 00:00:05,25
- Nephi’s words, which will stand as a witness before
+00:00:00,0 --> 00:00:00,0
+believe Nephi’s words, which will stand as a
 
 4
-00:00:05,25 --> 00:00:07,0
- the judgment bar. About 559–545 B.C.
+00:00:00,0 --> 00:07:57,
+witness before the judgment bar. About 559–545 B.C. 
 
 5
-00:00:07,975 --> 00:00:09,308
-1 And now I, Nephi, cannot write all the things
+00:07:57,0 --> 00:07:57,0
+1 And now I, Nephi, cannot write all the
 
 6
-00:00:09,308 --> 00:00:10,641
- which were taught among my people; neither am I
+00:07:57,0 --> 00:07:57,0
+things which were taught among my people;
 
 7
-00:00:10,641 --> 00:00:11,974
- mighty in writing, like unto speaking; for when a man
+00:07:57,0 --> 00:07:57,0
+neither am I mighty in writing, like unto
 
 8
-00:00:11,974 --> 00:00:13,307
- speaketh by the power of the Holy Ghost the power
+00:07:57,0 --> 00:07:57,0
+speaking; for when a man speaketh by the power of
 
 9
-00:00:13,307 --> 00:00:14,64
- of the Holy Ghost carrieth it unto the hearts of
+00:07:57,0 --> 00:07:57,0
+the Holy Ghost the power of the Holy Ghost
 
 10
-00:00:14,64 --> 00:00:15,973
- the children of men
+00:07:57,0 --> 00:09:27,
+carrieth it unto the hearts of the children of men.
 
 11
-00:00:15,949 --> 00:00:17,549
-2 But behold, there are many that harden their
+00:09:27,0 --> 00:09:27,0
+2 But behold, there are many that harden
 
 12
-00:00:17,549 --> 00:00:19,149
- hearts against the Holy Spirit, that it hath no place
+00:09:27,0 --> 00:09:27,0
+their hearts against the Holy Spirit,
 
 13
-00:00:19,149 --> 00:00:20,749
- in them; wherefore, they cast many things away
+00:09:27,0 --> 00:09:27,0
+that it hath no place in them; wherefore,
 
 14
-00:00:20,749 --> 00:00:22,349
- which are written and esteem them as things of
+00:09:27,0 --> 00:09:27,0
+they cast many things away which are
 
 15
-00:00:22,349 --> 00:00:23,949
- naught
+00:09:27,0 --> 00:12:58,
+written and esteem them as things of naught.
 
 16
-00:00:23,924 --> 00:00:25,257
-3 But I, Nephi, have written what I have written,
+00:12:58,0 --> 00:12:58,0
+3 But I, Nephi, have written what I
 
 17
-00:00:25,257 --> 00:00:26,59
- and I esteem it as of great worth, and especially
+00:12:58,0 --> 00:12:58,0
+have written, and I esteem it as
 
 18
-00:00:26,59 --> 00:00:27,923
- unto my people. For I pray continually for them by
+00:12:58,0 --> 00:12:58,0
+of great worth, and especially unto
 
 19
-00:00:27,923 --> 00:00:29,256
- day, and mine eyes water my pillow by night,
+00:12:58,0 --> 00:12:58,0
+my people. For I pray continually
 
 20
-00:00:29,256 --> 00:00:30,589
- because of them; and I cry unto my God in faith, and I
+00:12:58,0 --> 00:12:58,0
+for them by day, and mine eyes water
 
 21
-00:00:30,589 --> 00:00:31,922
- know that he will hear my cry
+00:12:58,0 --> 00:12:58,0
+my pillow by night, because of
 
 22
-00:00:31,899 --> 00:00:32,899
-4 And I know that the Lord God will consecrate my
+00:12:58,0 --> 00:12:58,0
+them; and I cry unto my God in faith,
 
 23
-00:00:32,899 --> 00:00:33,899
- prayers for the gain of my people. And the words
+00:12:58,0 --> 00:13:28,
+and I know that he will hear my cry.
 
 24
-00:00:33,899 --> 00:00:34,899
- which I have written in weakness will be made
+00:13:28,0 --> 00:13:28,0
+4 And I know that the Lord God
 
 25
-00:00:34,899 --> 00:00:35,899
- strong unto them; for it persuadeth them to do good; it
+00:13:28,0 --> 00:13:28,0
+will consecrate my prayers for
 
 26
-00:00:35,899 --> 00:00:36,899
- maketh known unto them of their fathers; and it
+00:13:28,0 --> 00:13:28,0
+the gain of my people. And the
 
 27
-00:00:36,899 --> 00:00:37,899
- speaketh of Jesus, and persuadeth them to believe
+00:13:28,0 --> 00:13:28,0
+words which I have written in
 
 28
-00:00:37,899 --> 00:00:38,899
- in him, and to endure to the end, which is life
+00:13:28,0 --> 00:13:28,0
+weakness will be made strong unto
 
 29
-00:00:38,899 --> 00:00:39,899
- eternal
+00:13:28,0 --> 00:13:28,0
+them; for it persuadeth them to do
 
 30
-00:00:07,975 --> 00:00:10,642
-7 I have charity for my people, and great faith in
+00:13:28,0 --> 00:13:28,0
+good; it maketh known unto them
 
 31
-00:00:10,642 --> 00:00:13,309
- Christ that I shall meet many souls spotless at
+00:13:28,0 --> 00:13:28,0
+of their fathers; and it
 
 32
-00:00:13,309 --> 00:00:15,976
- his judgment-seat
+00:13:28,0 --> 00:13:28,0
+speaketh of Jesus, and persuadeth them
 
 33
-00:00:15,949 --> 00:00:19,949
-8 I have charity for the Jew—I say Jew, because I
+00:13:28,0 --> 00:13:28,0
+to believe in him, and to endure
 
 34
-00:00:19,949 --> 00:00:23,949
- mean them from whence I came
+00:13:28,0 --> 00:16:59,
+to the end, which is life eternal.
 
 35
-00:00:23,924 --> 00:00:25,257
-9 I also have charity for the Gentiles. But
+00:16:59,0 --> 00:16:59,0
+5 And it speaketh harshly
 
 36
-00:00:25,257 --> 00:00:26,59
- behold, for none of these can I hope except they shall
+00:16:59,0 --> 00:16:59,0
+against sin, according to the
 
 37
-00:00:26,59 --> 00:00:27,923
- be reconciled unto Christ, and enter into the
+00:16:59,0 --> 00:16:59,0
+plainness of the truth; wherefore, no
 
 38
-00:00:27,923 --> 00:00:29,256
- narrow gate, and walk in the strait path which leads to
+00:16:59,0 --> 00:16:59,0
+man will be angry at the words
 
 39
-00:00:29,256 --> 00:00:30,589
- life, and continue in the path until the end of
+00:16:59,0 --> 00:16:59,0
+which I have written save he
 
 40
-00:00:30,589 --> 00:00:31,922
- the day of probation
+00:16:59,0 --> 00:18:43,
+shall be of the spirit of the devil.
 
 41
-00:00:31,899 --> 00:00:32,899
-10 And now, my beloved brethren, and also Jew, and
+00:18:43,0 --> 00:18:43,0
+6 I glory in plainness; I
 
 42
-00:00:32,899 --> 00:00:33,899
- all ye ends of the earth, hearken unto these
+00:18:43,0 --> 00:18:43,0
+glory in truth; I glory
 
 43
-00:00:33,899 --> 00:00:34,899
- words and believe in Christ; and if ye believe not in
+00:18:43,0 --> 00:18:43,0
+in my Jesus, for he hath
 
 44
-00:00:34,899 --> 00:00:35,899
- these words believe in Christ. And if ye shall
+00:18:43,0 --> 00:22:14,
+redeemed my soul from hell.
 
 45
-00:00:35,899 --> 00:00:36,899
- believe in Christ ye will believe in these words, for
+00:22:14,0 --> 00:22:14,0
+7 I have charity for my
 
 46
-00:00:36,899 --> 00:00:37,899
- they are the words of Christ, and he hath given
+00:22:14,0 --> 00:22:14,0
+people, and great
 
 47
-00:00:37,899 --> 00:00:38,899
- them unto me; and they teach all men that they
+00:22:14,0 --> 00:22:14,0
+faith in Christ that I
 
 48
-00:00:38,899 --> 00:00:39,899
- should do good
+00:22:14,0 --> 00:22:14,0
+shall meet many souls
 
 49
-00:00:07,975 --> 00:00:09,575
-13 And now, my beloved brethren, all those who are
+00:22:14,0 --> 00:21:46,
+spotless at his judgment-seat.
 
 50
-00:00:09,575 --> 00:00:11,175
- of the house of Israel, and all ye ends of the
+00:21:46,0 --> 00:21:46,0
+8 I have charity
 
 51
-00:00:11,175 --> 00:00:12,775
- earth, I speak unto you as the voice of one crying
+00:21:46,0 --> 00:21:46,0
+for the Jew—I say
 
 52
-00:00:12,775 --> 00:00:14,375
- from the dust: Farewell until that great day shall
+00:21:46,0 --> 00:21:46,0
+Jew, because I mean
 
 53
-00:00:14,375 --> 00:00:15,975
- come
+00:21:46,0 --> 00:21:18,
+them from whence I came.
 
 54
-00:00:15,949 --> 00:00:17,282
-14 And you that will not partake of the goodness
+00:21:18,0 --> 00:21:18,0
+9 I also have
 
 55
-00:00:17,282 --> 00:00:18,615
- of God, and respect the words of the Jews, and also
+00:21:18,0 --> 00:21:18,0
+charity for the
 
 56
-00:00:18,615 --> 00:00:19,948
- my words, and the words which shall proceed forth
+00:21:18,0 --> 00:21:18,0
+Gentiles. But behold,
 
 57
-00:00:19,948 --> 00:00:21,281
- out of the mouth of the Lamb of God, behold, I
+00:21:18,0 --> 00:21:18,0
+for none of these
 
 58
-00:00:21,281 --> 00:00:22,614
- bid you an everlasting farewell, for these words
+00:21:18,0 --> 00:21:18,0
+can I hope except
 
 59
-00:00:22,614 --> 00:00:23,947
- shall condemn you at the last day
+00:21:18,0 --> 00:21:18,0
+they shall be
 
 60
-00:00:23,924 --> 00:00:26,591
-15 For what I seal on earth, shall be brought
+00:21:18,0 --> 00:21:18,0
+reconciled unto Christ,
 
 61
-00:00:26,591 --> 00:00:29,258
- against you at the judgment bar; for thus hath the
+00:21:18,0 --> 00:21:18,0
+and enter into the
 
 62
-00:00:29,258 --> 00:00:31,925
- Lord commanded me, and I must obey. Amen.
+00:21:18,0 --> 00:21:18,0
+narrow gate, and
+
+63
+00:21:18,0 --> 00:21:18,0
+walk in the strait
+
+64
+00:21:18,0 --> 00:21:18,0
+path which leads
+
+65
+00:21:18,0 --> 00:21:18,0
+to life, and
+
+66
+00:21:18,0 --> 00:21:18,0
+continue in the path
+
+67
+00:21:18,0 --> 00:21:18,0
+until the end of the
+
+68
+00:21:18,0 --> 00:20:50,
+day of probation.
+
+69
+00:20:50,0 --> 00:20:50,0
+10 And now, my
+
+70
+00:20:50,0 --> 00:20:50,0
+beloved brethren,
+
+71
+00:20:50,0 --> 00:20:50,0
+and also Jew, and
+
+72
+00:20:50,0 --> 00:20:50,0
+all ye ends of
+
+73
+00:20:50,0 --> 00:20:50,0
+the earth, hearken
+
+74
+00:20:50,0 --> 00:20:50,0
+unto these words
+
+75
+00:20:50,0 --> 00:20:50,0
+and believe in
+
+76
+00:20:50,0 --> 00:20:50,0
+Christ; and if ye
+
+77
+00:20:50,0 --> 00:20:50,0
+believe not in
+
+78
+00:20:50,0 --> 00:20:50,0
+these words believe
+
+79
+00:20:50,0 --> 00:20:50,0
+in Christ. And if
+
+80
+00:20:50,0 --> 00:20:50,0
+ye shall believe
+
+81
+00:20:50,0 --> 00:20:50,0
+in Christ ye
+
+82
+00:20:50,0 --> 00:20:50,0
+will believe in
+
+83
+00:20:50,0 --> 00:20:50,0
+these words, for they
+
+84
+00:20:50,0 --> 00:20:50,0
+are the words of
+
+85
+00:20:50,0 --> 00:20:50,0
+Christ, and he
+
+86
+00:20:50,0 --> 00:20:50,0
+hath given them
+
+87
+00:20:50,0 --> 00:20:50,0
+unto me; and they
+
+88
+00:20:50,0 --> 00:20:50,0
+teach all men that
+
+89
+00:20:50,0 --> 00:20:36,
+they should do good.
+
+90
+00:20:36,0 --> 00:20:36,0
+11 And if they
+
+91
+00:20:36,0 --> 00:20:36,0
+are not the words
+
+92
+00:20:36,0 --> 00:20:36,0
+of Christ,
+
+93
+00:20:36,0 --> 00:20:36,0
+judge ye—for Christ
+
+94
+00:20:36,0 --> 00:20:36,0
+will show unto
+
+95
+00:20:36,0 --> 00:20:36,0
+you, with power
+
+96
+00:20:36,0 --> 00:20:36,0
+and great glory,
+
+97
+00:20:36,0 --> 00:20:36,0
+that they are
+
+98
+00:20:36,0 --> 00:20:36,0
+his words, at the
+
+99
+00:20:36,0 --> 00:20:36,0
+last day; and
+
+100
+00:20:36,0 --> 00:20:36,0
+you and I shall
+
+101
+00:20:36,0 --> 00:20:36,0
+stand face to face
+
+102
+00:20:36,0 --> 00:20:36,0
+before his bar;
+
+103
+00:20:36,0 --> 00:20:36,0
+and ye shall
+
+104
+00:20:36,0 --> 00:20:36,0
+know that I have
+
+105
+00:20:36,0 --> 00:20:36,0
+been commanded of
+
+106
+00:20:36,0 --> 00:20:36,0
+him to write
+
+107
+00:20:36,0 --> 00:20:36,0
+these things,
+
+108
+00:20:36,0 --> 00:22:20,
+notwithstanding my weakness.
+
+109
+00:22:20,0 --> 00:22:20,0
+12 And I pray
+
+110
+00:22:20,0 --> 00:22:20,0
+the Father in
+
+111
+00:22:20,0 --> 00:22:20,0
+the name of
+
+112
+00:22:20,0 --> 00:22:20,0
+Christ that many
+
+113
+00:22:20,0 --> 00:22:20,0
+of us, if not
+
+114
+00:22:20,0 --> 00:22:20,0
+all, may be
+
+115
+00:22:20,0 --> 00:22:20,0
+saved in his
+
+116
+00:22:20,0 --> 00:22:20,0
+kingdom at that
+
+117
+00:22:20,0 --> 00:21:52,
+great and last day.
+
+118
+00:21:52,0 --> 00:21:52,0
+13 And now,
+
+119
+00:21:52,0 --> 00:21:52,0
+my beloved
+
+120
+00:21:52,0 --> 00:21:52,0
+brethren, all
+
+121
+00:21:52,0 --> 00:21:52,0
+those who are
+
+122
+00:21:52,0 --> 00:21:52,0
+of the house
+
+123
+00:21:52,0 --> 00:21:52,0
+of Israel, and
+
+124
+00:21:52,0 --> 00:21:52,0
+all ye ends
+
+125
+00:21:52,0 --> 00:21:52,0
+of the earth,
+
+126
+00:21:52,0 --> 00:21:52,0
+I speak unto
+
+127
+00:21:52,0 --> 00:21:52,0
+you as the
+
+128
+00:21:52,0 --> 00:21:52,0
+voice of one
+
+129
+00:21:52,0 --> 00:21:52,0
+crying from
+
+130
+00:21:52,0 --> 00:21:52,0
+the dust:
+
+131
+00:21:52,0 --> 00:21:52,0
+Farewell until
+
+132
+00:21:52,0 --> 00:24:04,
+that great day shall come.
+
+133
+00:24:04,0 --> 00:24:04,0
+14 And you
+
+134
+00:24:04,0 --> 00:24:04,0
+that will not
+
+135
+00:24:04,0 --> 00:24:04,0
+partake of
+
+136
+00:24:04,0 --> 00:24:04,0
+the goodness
+
+137
+00:24:04,0 --> 00:24:04,0
+of God, and
+
+138
+00:24:04,0 --> 00:24:04,0
+respect the
+
+139
+00:24:04,0 --> 00:24:04,0
+words of
+
+140
+00:24:04,0 --> 00:24:04,0
+the Jews, and
+
+141
+00:24:04,0 --> 00:24:04,0
+also my
+
+142
+00:24:04,0 --> 00:24:04,0
+words, and the
+
+143
+00:24:04,0 --> 00:24:04,0
+words which
+
+144
+00:24:04,0 --> 00:24:04,0
+shall proceed
+
+145
+00:24:04,0 --> 00:24:04,0
+forth out
+
+146
+00:24:04,0 --> 00:24:04,0
+of the mouth
+
+147
+00:24:04,0 --> 00:24:04,0
+of the Lamb
+
+148
+00:24:04,0 --> 00:24:04,0
+of God,
+
+149
+00:24:04,0 --> 00:24:04,0
+behold, I bid
+
+150
+00:24:04,0 --> 00:24:04,0
+you an
+
+151
+00:24:04,0 --> 00:24:04,0
+everlasting
+
+152
+00:24:04,0 --> 00:24:04,0
+farewell, for these
+
+153
+00:24:04,0 --> 00:24:04,0
+words shall
+
+154
+00:24:04,0 --> 00:27:35,
+condemn you at the last day.
+
+155
+00:27:35,0 --> 00:27:35,0
+15 For what
+
+156
+00:27:35,0 --> 00:27:35,0
+I seal on
+
+157
+00:27:35,0 --> 00:27:35,0
+earth,
+
+158
+00:27:35,0 --> 00:27:35,0
+shall be
+
+159
+00:27:35,0 --> 00:27:35,0
+brought against
+
+160
+00:27:35,0 --> 00:27:35,0
+you at the
+
+161
+00:27:35,0 --> 00:27:35,0
+judgment
+
+162
+00:27:35,0 --> 00:27:35,0
+bar; for thus
+
+163
+00:27:35,0 --> 00:27:35,0
+hath the
+
+164
+00:27:35,0 --> 00:27:35,0
+Lord
+
+165
+00:27:35,0 --> 00:27:35,0
+commanded me, and I
+
+166
+00:27:35,0 --> 00:36:02,
+must obey. Amen. 
 

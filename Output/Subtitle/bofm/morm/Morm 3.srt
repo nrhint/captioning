@@ -1,464 +1,1016 @@
 1
-00:00:00,0 --> 00:00:01,167
+00:00:00,0 --> 00:00:00,0
 Chapter 3 Mormon cries repentance unto the
 
 2
-00:00:01,167 --> 00:00:02,334
- Nephites—They gain a great victory and glory in their own
+00:00:00,0 --> 00:00:00,0
+Nephites—They gain a great victory and glory in
 
 3
-00:00:02,334 --> 00:00:03,501
- strength—Mormon refuses to lead them, and his
+00:00:00,0 --> 00:00:00,0
+their own strength—Mormon refuses to lead them,
 
 4
-00:00:03,501 --> 00:00:04,668
- prayers for them are without faith—The Book of Mormon
+00:00:00,0 --> 00:00:00,0
+and his prayers for them are without
 
 5
-00:00:04,668 --> 00:00:05,835
- invites the twelve tribes of Israel to believe
+00:00:00,0 --> 00:00:00,0
+faith—The Book of Mormon invites the twelve tribes of
 
 6
-00:00:05,835 --> 00:00:07,002
- the gospel. About A.D. 360–62.
+00:00:00,0 --> 00:13:08,
+Israel to believe the gospel. About A.D. 360–62. 
 
 7
-00:00:07,975 --> 00:00:09,575
-1 And it came to pass that the Lamanites did not
+00:13:08,0 --> 00:13:08,0
+1 And it came to pass that the Lamanites did
 
 8
-00:00:09,575 --> 00:00:11,175
- come to battle again until ten years more had
+00:13:08,0 --> 00:13:08,0
+not come to battle again until ten years more
 
 9
-00:00:11,175 --> 00:00:12,775
- passed away. And behold, I had employed my people, the
+00:13:08,0 --> 00:13:08,0
+had passed away. And behold, I had employed
 
 10
-00:00:12,775 --> 00:00:14,375
- Nephites, in preparing their lands and their arms
+00:13:08,0 --> 00:13:08,0
+my people, the Nephites, in preparing their
 
 11
-00:00:14,375 --> 00:00:15,975
- against the time of battle
+00:13:08,0 --> 00:12:40,
+lands and their arms against the time of battle.
 
 12
-00:00:15,949 --> 00:00:17,949
-2 And it came to pass that the Lord did say unto
+00:12:40,0 --> 00:12:40,0
+2 And it came to pass that the Lord did say
 
 13
-00:00:17,949 --> 00:00:19,949
- me: Cry unto this people—Repent ye, and come unto
+00:12:40,0 --> 00:12:40,0
+unto me: Cry unto this people—Repent ye, and
 
 14
-00:00:19,949 --> 00:00:21,949
- me, and be ye baptized, and build up again my
+00:12:40,0 --> 00:12:40,0
+come unto me, and be ye baptized, and build
 
 15
-00:00:21,949 --> 00:00:23,949
- church, and ye shall be spared
+00:12:40,0 --> 00:16:52,
+up again my church, and ye shall be spared.
 
 16
-00:00:23,924 --> 00:00:25,524
-3 And I did cry unto this people, but it was in
+00:16:52,0 --> 00:16:52,0
+3 And I did cry unto this people, but
 
 17
-00:00:25,524 --> 00:00:27,124
- vain; and they did not realize that it was the Lord
+00:16:52,0 --> 00:16:52,0
+it was in vain; and they did not realize
 
 18
-00:00:27,124 --> 00:00:28,724
- that had spared them, and granted unto them a
+00:16:52,0 --> 00:16:52,0
+that it was the Lord that had spared
 
 19
-00:00:28,724 --> 00:00:30,324
- chance for repentance. And behold they did harden
+00:16:52,0 --> 00:16:52,0
+them, and granted unto them a chance for
 
 20
-00:00:30,324 --> 00:00:31,924
- their hearts against the Lord their God
+00:16:52,0 --> 00:16:52,0
+repentance. And behold they did harden
 
 21
-00:00:31,899 --> 00:00:33,232
-4 And it came to pass that after this tenth year
+00:16:52,0 --> 00:19:48,
+their hearts against the Lord their God.
 
 22
-00:00:33,232 --> 00:00:34,565
- had passed away, making, in the whole, three
+00:19:48,0 --> 00:19:48,0
+4 And it came to pass that after
 
 23
-00:00:34,565 --> 00:00:35,898
- hundred and sixty years from the coming of Christ, the
+00:19:48,0 --> 00:19:48,0
+this tenth year had passed away,
 
 24
-00:00:35,898 --> 00:00:37,231
- king of the Lamanites sent an epistle unto me,
+00:19:48,0 --> 00:19:48,0
+making, in the whole, three hundred and
 
 25
-00:00:37,231 --> 00:00:38,564
- which gave unto me to know that they were preparing to
+00:19:48,0 --> 00:19:48,0
+sixty years from the coming of
 
 26
-00:00:38,564 --> 00:00:39,897
- come again to battle against us
+00:19:48,0 --> 00:19:48,0
+Christ, the king of the Lamanites sent
 
 27
-00:00:39,873 --> 00:00:41,473
-5 And it came to pass that I did cause my people
+00:19:48,0 --> 00:19:48,0
+an epistle unto me, which gave
 
 28
-00:00:41,473 --> 00:00:43,073
- that they should gather themselves together at the
+00:19:48,0 --> 00:19:48,0
+unto me to know that they were
 
 29
-00:00:43,073 --> 00:00:44,673
- land Desolation, to a city which was in the
+00:19:48,0 --> 00:21:00,
+preparing to come again to battle against us.
 
 30
-00:00:44,673 --> 00:00:46,273
- borders, by the narrow pass which led into the land
+00:21:00,0 --> 00:21:00,0
+5 And it came to pass that I did
 
 31
-00:00:46,273 --> 00:00:47,873
- southward
+00:21:00,0 --> 00:21:00,0
+cause my people that they should
 
 32
-00:00:47,848 --> 00:00:49,848
-6 And there we did place our armies, that we might
+00:21:00,0 --> 00:21:00,0
+gather themselves together at the
 
 33
-00:00:49,848 --> 00:00:51,848
- stop the armies of the Lamanites, that they might
+00:21:00,0 --> 00:21:00,0
+land Desolation, to a city which was
 
 34
-00:00:51,848 --> 00:00:53,848
- not get possession of any of our lands; therefore
+00:21:00,0 --> 00:21:00,0
+in the borders, by the narrow
 
 35
-00:00:53,848 --> 00:00:55,848
- we did fortify against them with all our force
+00:21:00,0 --> 00:20:32,
+pass which led into the land southward.
 
 36
-00:00:55,822 --> 00:00:58,489
-7 And it came to pass that in the three hundred
+00:20:32,0 --> 00:20:32,0
+6 And there we did place our
 
 37
-00:00:58,489 --> 00:01:01,156
- and sixty and first year the Lamanites did come down
+00:20:32,0 --> 00:20:32,0
+armies, that we might stop the armies
 
 38
-00:01:01,156 --> 00:01:03,823
- to the city of Desolation to battle against us;
+00:20:32,0 --> 00:20:32,0
+of the Lamanites, that they
 
 39
-00:01:03,823 --> 00:01:06,49
- and it came to pass that in that year we did beat
+00:20:32,0 --> 00:20:32,0
+might not get possession of any of
 
 40
-00:01:06,49 --> 00:01:09,157
- them, insomuch that they did return to their own
+00:20:32,0 --> 00:20:32,0
+our lands; therefore we did fortify
 
 41
-00:01:09,157 --> 00:01:11,824
- lands again
+00:20:32,0 --> 00:22:44,
+against them with all our force.
 
 42
-00:01:11,772 --> 00:01:13,772
-8 And in the three hundred and sixty and second
+00:22:44,0 --> 00:22:44,0
+7 And it came to pass that in
 
 43
-00:01:13,772 --> 00:01:15,772
- year they did come down again to battle. And we did
+00:22:44,0 --> 00:22:44,0
+the three hundred and sixty and
 
 44
-00:01:15,772 --> 00:01:17,772
- beat them again, and did slay a great number of
+00:22:44,0 --> 00:22:44,0
+first year the Lamanites did come
 
 45
-00:01:17,772 --> 00:01:19,772
- them, and their dead were cast into the sea
+00:22:44,0 --> 00:22:44,0
+down to the city of Desolation
 
 46
-00:01:19,746 --> 00:01:21,079
-9 And now, because of this great thing which my
+00:22:44,0 --> 00:22:44,0
+to battle against us; and it came
 
 47
-00:01:21,079 --> 00:01:22,412
- people, the Nephites, had done, they began to boast
+00:22:44,0 --> 00:22:44,0
+to pass that in that year we
 
 48
-00:01:22,412 --> 00:01:23,745
- in their own strength, and began to swear before
+00:22:44,0 --> 00:22:44,0
+did beat them, insomuch that they
 
 49
-00:01:23,745 --> 00:01:25,078
- the heavens that they would avenge themselves of
+00:22:44,0 --> 00:22:16,
+did return to their own lands again.
 
 50
-00:01:25,078 --> 00:01:26,411
- the blood of their brethren who had been slain by
+00:22:16,0 --> 00:22:16,0
+8 And in the three hundred and
 
 51
-00:01:26,411 --> 00:01:27,744
- their enemies
+00:22:16,0 --> 00:22:16,0
+sixty and second year they did
 
 52
-00:01:27,721 --> 00:01:29,721
-10 And they did swear by the heavens, and also by
+00:22:16,0 --> 00:22:16,0
+come down again to battle. And we
 
 53
-00:01:29,721 --> 00:01:31,721
- the throne of God, that they would go up to battle
+00:22:16,0 --> 00:22:16,0
+did beat them again, and did
 
 54
-00:01:31,721 --> 00:01:33,721
- against their enemies, and would cut them off
+00:22:16,0 --> 00:22:16,0
+slay a great number of them, and
 
 55
-00:01:33,721 --> 00:01:35,721
- from the face of the land
+00:22:16,0 --> 00:24:28,
+their dead were cast into the sea.
 
 56
-00:01:35,696 --> 00:01:37,696
-11 And it came to pass that I, Mormon, did utterly
+00:24:28,0 --> 00:24:28,0
+9 And now, because of this
 
 57
-00:01:37,696 --> 00:01:39,696
- refuse from this time forth to be a commander and
+00:24:28,0 --> 00:24:28,0
+great thing which my people,
 
 58
-00:01:39,696 --> 00:01:41,696
- a leader of this people, because of their
+00:24:28,0 --> 00:24:28,0
+the Nephites, had done, they
 
 59
-00:01:41,696 --> 00:01:43,696
- wickedness and abomination
+00:24:28,0 --> 00:24:28,0
+began to boast in their own
 
 60
-00:01:43,67 --> 00:01:45,956
-12 Behold, I had led them, notwithstanding their
+00:24:28,0 --> 00:24:28,0
+strength, and began to swear
 
 61
-00:01:45,956 --> 00:01:48,242
- wickedness I had led them many times to battle, and
+00:24:28,0 --> 00:24:28,0
+before the heavens that they
 
 62
-00:01:48,242 --> 00:01:50,528
- had loved them, according to the love of God
+00:24:28,0 --> 00:24:28,0
+would avenge themselves of the
 
 63
-00:01:50,528 --> 00:01:52,814
- which was in me, with all my heart; and my soul had
+00:24:28,0 --> 00:24:28,0
+blood of their brethren who
 
 64
-00:01:52,814 --> 00:01:55,1
- been poured out in prayer unto my God all the day
+00:24:28,0 --> 00:26:40,
+had been slain by their enemies.
 
 65
-00:01:55,1 --> 00:01:57,386
- long for them; nevertheless, it was without faith,
+00:26:40,0 --> 00:26:40,0
+10 And they did swear by the
 
 66
-00:01:57,386 --> 00:01:59,672
- because of the hardness of their hearts
+00:26:40,0 --> 00:26:40,0
+heavens, and also by the
 
 67
-00:01:59,62 --> 00:02:02,287
-13 And thrice have I delivered them out of the
+00:26:40,0 --> 00:26:40,0
+throne of God, that they would
 
 68
-00:02:02,287 --> 00:02:04,954
- hands of their enemies, and they have repented not of
+00:26:40,0 --> 00:26:40,0
+go up to battle against
 
 69
-00:02:04,954 --> 00:02:07,621
- their sins
+00:26:40,0 --> 00:26:40,0
+their enemies, and would cut
 
 70
-00:02:07,594 --> 00:02:08,927
-14 And when they had sworn by all that had been
+00:26:40,0 --> 00:32:51,
+them off from the face of the land.
 
 71
-00:02:08,927 --> 00:02:10,26
- forbidden them by our Lord and Savior Jesus Christ,
+00:32:51,0 --> 00:32:51,0
+11 And it came to pass
 
 72
-00:02:10,26 --> 00:02:11,593
- that they would go up unto their enemies to
+00:32:51,0 --> 00:32:51,0
+that I, Mormon, did
 
 73
-00:02:11,593 --> 00:02:12,926
- battle, and avenge themselves of the blood of their
+00:32:51,0 --> 00:32:51,0
+utterly refuse from this time
 
 74
-00:02:12,926 --> 00:02:14,259
- brethren, behold the voice of the Lord came unto me,
+00:32:51,0 --> 00:32:51,0
+forth to be a commander
 
 75
-00:02:14,259 --> 00:02:15,592
- saying
+00:32:51,0 --> 00:32:51,0
+and a leader of this
 
 76
-00:02:15,569 --> 00:02:17,569
-15 Vengeance is mine, and I will repay; and
+00:32:51,0 --> 00:32:51,0
+people, because of their
 
 77
-00:02:17,569 --> 00:02:19,569
- because this people repented not after I had delivered
+00:32:51,0 --> 00:32:51,
+wickedness and abomination.
 
 78
-00:02:19,569 --> 00:02:21,569
- them, behold, they shall be cut off from the face
+00:32:51,0 --> 00:32:51,0
+12 Behold, I had led
 
 79
-00:02:21,569 --> 00:02:23,569
- of the earth
+00:32:51,0 --> 00:32:51,0
+them, notwithstanding
 
 80
-00:02:23,543 --> 00:02:25,829
-16 And it came to pass that I utterly refused to
+00:32:51,0 --> 00:32:51,0
+their wickedness I had
 
 81
-00:02:25,829 --> 00:02:28,115
- go up against mine enemies; and I did even as the
+00:32:51,0 --> 00:32:51,0
+led them many times to
 
 82
-00:02:28,115 --> 00:02:30,401
- Lord had commanded me; and I did stand as an idle
+00:32:51,0 --> 00:32:51,0
+battle, and had loved
 
 83
-00:02:30,401 --> 00:02:32,687
- witness to manifest unto the world the things which
+00:32:51,0 --> 00:32:51,0
+them, according to
 
 84
-00:02:32,687 --> 00:02:34,973
- I saw and heard, according to the manifestations
+00:32:51,0 --> 00:32:51,0
+the love of God which
 
 85
-00:02:34,973 --> 00:02:37,259
- of the Spirit which had testified of things to
+00:32:51,0 --> 00:32:51,0
+was in me, with all my
 
 86
-00:02:37,259 --> 00:02:39,545
- come
+00:32:51,0 --> 00:32:51,0
+heart; and my soul had
 
 87
-00:02:39,493 --> 00:02:41,493
-17 Therefore I write unto you, Gentiles, and also
+00:32:51,0 --> 00:32:51,0
+been poured out in
 
 88
-00:02:41,493 --> 00:02:43,493
- unto you, house of Israel, when the work shall
+00:32:51,0 --> 00:32:51,0
+prayer unto my God all
 
 89
-00:02:43,493 --> 00:02:45,493
- commence, that ye shall be about to prepare to return
+00:32:51,0 --> 00:32:51,0
+the day long for them;
 
 90
-00:02:45,493 --> 00:02:47,493
- to the land of your inheritance
+00:32:51,0 --> 00:32:51,0
+nevertheless, it was
 
 91
-00:02:47,467 --> 00:02:49,067
-18 Yea, behold, I write unto all the ends of the
+00:32:51,0 --> 00:32:51,0
+without faith, because
 
 92
-00:02:49,067 --> 00:02:50,667
- earth; yea, unto you, twelve tribes of Israel, who
+00:32:51,0 --> 00:32:51,
+of the hardness of their hearts.
 
 93
-00:02:50,667 --> 00:02:52,267
- shall be judged according to your works by the
+00:32:51,0 --> 00:32:51,0
+13 And thrice have
 
 94
-00:02:52,267 --> 00:02:53,867
- twelve whom Jesus chose to be his disciples in the
+00:32:51,0 --> 00:32:51,0
+I delivered them
 
 95
-00:02:53,867 --> 00:02:55,467
- land of Jerusalem
+00:32:51,0 --> 00:32:51,0
+out of the hands
 
 96
-00:02:55,442 --> 00:02:57,042
-19 And I write also unto the remnant of this
+00:32:51,0 --> 00:32:51,0
+of their enemies,
 
 97
-00:02:57,042 --> 00:02:58,642
- people, who shall also be judged by the twelve whom
+00:32:51,0 --> 00:32:51,0
+and they have
 
 98
-00:02:58,642 --> 00:03:00,242
- Jesus chose in this land; and they shall be judged by
+00:32:51,0 --> 00:32:51,
+repented not of their sins.
 
 99
-00:03:00,242 --> 00:03:01,842
- the other twelve whom Jesus chose in the land of
+00:32:51,0 --> 00:32:51,0
+14 And when they
 
 100
-00:03:01,842 --> 00:03:03,442
- Jerusalem
+00:32:51,0 --> 00:32:51,0
+had sworn by all
 
 101
-00:03:03,417 --> 00:03:04,56
-20 And these things doth the Spirit manifest unto
+00:32:51,0 --> 00:32:51,0
+that had been
 
 102
-00:03:04,56 --> 00:03:05,703
- me; therefore I write unto you all. And for this
+00:32:51,0 --> 00:32:51,0
+forbidden them by
 
 103
-00:03:05,703 --> 00:03:06,846
- cause I write unto you, that ye may know that ye
+00:32:51,0 --> 00:32:51,0
+our Lord and Savior
 
 104
-00:03:06,846 --> 00:03:07,989
- must all stand before the judgment-seat of Christ,
+00:32:51,0 --> 00:32:51,0
+Jesus Christ,
 
 105
-00:03:07,989 --> 00:03:09,132
- yea, every soul who belongs to the whole human
+00:32:51,0 --> 00:32:51,0
+that they would go
 
 106
-00:03:09,132 --> 00:03:10,275
- family of Adam; and ye must stand to be judged of your
+00:32:51,0 --> 00:32:51,0
+up unto their
 
 107
-00:03:10,275 --> 00:03:11,418
- works, whether they be good or evil
+00:32:51,0 --> 00:32:51,0
+enemies to battle,
 
 108
-00:03:11,391 --> 00:03:12,724
-21 And also that ye may believe the gospel of
+00:32:51,0 --> 00:32:51,0
+and avenge
 
 109
-00:03:12,724 --> 00:03:14,057
- Jesus Christ, which ye shall have among you; and also
+00:32:51,0 --> 00:32:51,0
+themselves of the blood
 
 110
-00:03:14,057 --> 00:03:15,39
- that the Jews, the covenant people of the Lord,
+00:32:51,0 --> 00:32:51,0
+of their
 
 111
-00:03:15,39 --> 00:03:16,723
- shall have other witness besides him whom they saw
+00:32:51,0 --> 00:32:51,0
+brethren, behold the
 
 112
-00:03:16,723 --> 00:03:18,056
- and heard, that Jesus, whom they slew, was the very
+00:32:51,0 --> 00:32:51,0
+voice of the Lord
 
 113
-00:03:18,056 --> 00:03:19,389
- Christ and the very God
+00:32:51,0 --> 00:32:51,
+came unto me, saying:
 
 114
-00:03:19,366 --> 00:03:19,699
-22 And I would that I could persuade all ye ends
+00:32:51,0 --> 00:32:51,0
+15 Vengeance is
 
 115
-00:03:19,699 --> 00:03:20,032
- of the earth to repent and prepare to stand before
+00:32:51,0 --> 00:32:51,0
+mine, and I will
 
 116
-00:03:20,032 --> 00:03:20,365
- the judgment-seat of Christ.
+00:32:51,0 --> 00:32:51,0
+repay; and
+
+117
+00:32:51,0 --> 00:32:51,0
+because this people
+
+118
+00:32:51,0 --> 00:32:51,0
+repented not
+
+119
+00:32:51,0 --> 00:32:51,0
+after I had
+
+120
+00:32:51,0 --> 00:32:51,0
+delivered them, behold,
+
+121
+00:32:51,0 --> 00:32:51,0
+they shall be
+
+122
+00:32:51,0 --> 00:32:51,0
+cut off from the
+
+123
+00:32:51,0 --> 00:32:51,
+face of the earth.
+
+124
+00:32:51,0 --> 00:32:51,0
+16 And it came
+
+125
+00:32:51,0 --> 00:32:51,0
+to pass that I
+
+126
+00:32:51,0 --> 00:32:51,0
+utterly refused
+
+127
+00:32:51,0 --> 00:32:51,0
+to go up
+
+128
+00:32:51,0 --> 00:32:51,0
+against mine
+
+129
+00:32:51,0 --> 00:32:51,0
+enemies; and I did
+
+130
+00:32:51,0 --> 00:32:51,0
+even as the Lord
+
+131
+00:32:51,0 --> 00:32:51,0
+had commanded
+
+132
+00:32:51,0 --> 00:32:51,0
+me; and I did
+
+133
+00:32:51,0 --> 00:32:51,0
+stand as an idle
+
+134
+00:32:51,0 --> 00:32:51,0
+witness to
+
+135
+00:32:51,0 --> 00:32:51,0
+manifest unto the
+
+136
+00:32:51,0 --> 00:32:51,0
+world the things
+
+137
+00:32:51,0 --> 00:32:51,0
+which I saw and
+
+138
+00:32:51,0 --> 00:32:51,0
+heard,
+
+139
+00:32:51,0 --> 00:32:51,0
+according to the
+
+140
+00:32:51,0 --> 00:32:51,0
+manifestations of
+
+141
+00:32:51,0 --> 00:32:51,0
+the Spirit which
+
+142
+00:32:51,0 --> 00:32:51,
+had testified of things to come.
+
+143
+00:32:51,0 --> 00:32:51,0
+17 Therefore I
+
+144
+00:32:51,0 --> 00:32:51,0
+write unto
+
+145
+00:32:51,0 --> 00:32:51,0
+you, Gentiles,
+
+146
+00:32:51,0 --> 00:32:51,0
+and also unto
+
+147
+00:32:51,0 --> 00:32:51,0
+you, house of
+
+148
+00:32:51,0 --> 00:32:51,0
+Israel, when
+
+149
+00:32:51,0 --> 00:32:51,0
+the work shall
+
+150
+00:32:51,0 --> 00:32:51,0
+commence, that
+
+151
+00:32:51,0 --> 00:32:51,0
+ye shall be
+
+152
+00:32:51,0 --> 00:32:51,0
+about to prepare
+
+153
+00:32:51,0 --> 00:32:51,0
+to return to
+
+154
+00:32:51,0 --> 00:32:51,0
+the land of
+
+155
+00:32:51,0 --> 00:32:51,
+your inheritance;
+
+156
+00:32:51,0 --> 00:32:51,0
+18 Yea,
+
+157
+00:32:51,0 --> 00:32:51,0
+behold, I write
+
+158
+00:32:51,0 --> 00:32:51,0
+unto all the
+
+159
+00:32:51,0 --> 00:32:51,0
+ends of the
+
+160
+00:32:51,0 --> 00:32:51,0
+earth; yea, unto
+
+161
+00:32:51,0 --> 00:32:51,0
+you, twelve
+
+162
+00:32:51,0 --> 00:32:51,0
+tribes of
+
+163
+00:32:51,0 --> 00:32:51,0
+Israel, who
+
+164
+00:32:51,0 --> 00:32:51,0
+shall be judged
+
+165
+00:32:51,0 --> 00:32:51,0
+according to
+
+166
+00:32:51,0 --> 00:32:51,0
+your works by
+
+167
+00:32:51,0 --> 00:32:51,0
+the twelve
+
+168
+00:32:51,0 --> 00:32:51,0
+whom Jesus
+
+169
+00:32:51,0 --> 00:32:51,0
+chose to be his
+
+170
+00:32:51,0 --> 00:32:51,0
+disciples in
+
+171
+00:32:51,0 --> 00:32:51,
+the land of Jerusalem.
+
+172
+00:32:51,0 --> 00:32:51,0
+19 And I
+
+173
+00:32:51,0 --> 00:32:51,0
+write also unto
+
+174
+00:32:51,0 --> 00:32:51,0
+the remnant
+
+175
+00:32:51,0 --> 00:32:51,0
+of this
+
+176
+00:32:51,0 --> 00:32:51,0
+people, who
+
+177
+00:32:51,0 --> 00:32:51,0
+shall also be
+
+178
+00:32:51,0 --> 00:32:51,0
+judged by the
+
+179
+00:32:51,0 --> 00:32:51,0
+twelve whom
+
+180
+00:32:51,0 --> 00:32:51,0
+Jesus chose
+
+181
+00:32:51,0 --> 00:32:51,0
+in this
+
+182
+00:32:51,0 --> 00:32:51,0
+land; and they
+
+183
+00:32:51,0 --> 00:32:51,0
+shall be
+
+184
+00:32:51,0 --> 00:32:51,0
+judged by the
+
+185
+00:32:51,0 --> 00:32:51,0
+other twelve
+
+186
+00:32:51,0 --> 00:32:51,0
+whom Jesus
+
+187
+00:32:51,0 --> 00:32:51,0
+chose in the
+
+188
+00:32:51,0 --> 00:32:51,
+land of Jerusalem.
+
+189
+00:32:51,0 --> 00:32:51,0
+20 And
+
+190
+00:32:51,0 --> 00:32:51,0
+these things
+
+191
+00:32:51,0 --> 00:32:51,0
+doth the
+
+192
+00:32:51,0 --> 00:32:51,0
+Spirit manifest
+
+193
+00:32:51,0 --> 00:32:51,0
+unto me;
+
+194
+00:32:51,0 --> 00:32:51,0
+therefore I
+
+195
+00:32:51,0 --> 00:32:51,0
+write unto
+
+196
+00:32:51,0 --> 00:32:51,0
+you all.
+
+197
+00:32:51,0 --> 00:32:51,0
+And for this
+
+198
+00:32:51,0 --> 00:32:51,0
+cause I
+
+199
+00:32:51,0 --> 00:32:51,0
+write unto
+
+200
+00:32:51,0 --> 00:32:51,0
+you, that ye
+
+201
+00:32:51,0 --> 00:32:51,0
+may know
+
+202
+00:32:51,0 --> 00:32:51,0
+that ye must
+
+203
+00:32:51,0 --> 00:32:51,0
+all stand
+
+204
+00:32:51,0 --> 00:32:51,0
+before the
+
+205
+00:32:51,0 --> 00:32:51,0
+judgment-seat
+
+206
+00:32:51,0 --> 00:32:51,0
+of Christ,
+
+207
+00:32:51,0 --> 00:32:51,0
+yea, every
+
+208
+00:32:51,0 --> 00:32:51,0
+soul who
+
+209
+00:32:51,0 --> 00:32:51,0
+belongs to
+
+210
+00:32:51,0 --> 00:32:51,0
+the whole
+
+211
+00:32:51,0 --> 00:32:51,0
+human family
+
+212
+00:32:51,0 --> 00:32:51,0
+of Adam;
+
+213
+00:32:51,0 --> 00:32:51,0
+and ye must
+
+214
+00:32:51,0 --> 00:32:51,0
+stand to be
+
+215
+00:32:51,0 --> 00:32:51,0
+judged of
+
+216
+00:32:51,0 --> 00:32:51,0
+your works,
+
+217
+00:32:51,0 --> 00:32:51,
+whether they be good or evil;
+
+218
+00:32:51,0 --> 00:32:51,0
+21 And also
+
+219
+00:32:51,0 --> 00:32:51,0
+that ye
+
+220
+00:32:51,0 --> 00:32:51,0
+may believe
+
+221
+00:32:51,0 --> 00:32:51,0
+the gospel
+
+222
+00:32:51,0 --> 00:32:51,0
+of Jesus
+
+223
+00:32:51,0 --> 00:32:51,0
+Christ, which
+
+224
+00:32:51,0 --> 00:32:51,0
+ye shall
+
+225
+00:32:51,0 --> 00:32:51,0
+have among
+
+226
+00:32:51,0 --> 00:32:51,0
+you; and also
+
+227
+00:32:51,0 --> 00:32:51,0
+that the
+
+228
+00:32:51,0 --> 00:32:51,0
+Jews, the
+
+229
+00:32:51,0 --> 00:32:51,0
+covenant
+
+230
+00:32:51,0 --> 00:32:51,0
+people of the
+
+231
+00:32:51,0 --> 00:32:51,0
+Lord, shall
+
+232
+00:32:51,0 --> 00:32:51,0
+have other
+
+233
+00:32:51,0 --> 00:32:51,0
+witness
+
+234
+00:32:51,0 --> 00:32:51,0
+besides him
+
+235
+00:32:51,0 --> 00:32:51,0
+whom they saw
+
+236
+00:32:51,0 --> 00:32:51,0
+and heard,
+
+237
+00:32:51,0 --> 00:32:51,0
+that
+
+238
+00:32:51,0 --> 00:32:51,0
+Jesus, whom they
+
+239
+00:32:51,0 --> 00:32:51,0
+slew, was
+
+240
+00:32:51,0 --> 00:32:51,0
+the very
+
+241
+00:32:51,0 --> 00:32:51,0
+Christ and
+
+242
+00:32:51,0 --> 00:32:51,
+the very God.
+
+243
+00:32:51,0 --> 00:32:51,0
+22 And I
+
+244
+00:32:51,0 --> 00:32:51,0
+would that
+
+245
+00:32:51,0 --> 00:32:51,0
+I could
+
+246
+00:32:51,0 --> 00:32:51,0
+persuade all
+
+247
+00:32:51,0 --> 00:32:51,0
+ye ends
+
+248
+00:32:51,0 --> 00:32:51,0
+of the
+
+249
+00:32:51,0 --> 00:32:51,0
+earth to
+
+250
+00:32:51,0 --> 00:32:51,0
+repent and
+
+251
+00:32:51,0 --> 00:32:51,0
+prepare to
+
+252
+00:32:51,0 --> 00:32:51,0
+stand before
+
+253
+00:32:51,0 --> 00:32:51,0
+the
+
+254
+00:32:51,0 --> 00:32:51,
+judgment-seat of Christ. 
 

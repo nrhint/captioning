@@ -1,156 +1,341 @@
 1
-00:00:00,0 --> 00:00:10,4
-Chapter 7 Jacob continues reading from Isaiah:
+00:00:00,0 --> 00:00:00,0
+Chapter 7 Jacob continues reading from
 
 2
-00:00:10,4 --> 00:00:20,8
- Isaiah speaks messianically—The Messiah will have the
+00:00:00,0 --> 00:00:00,0
+Isaiah: Isaiah speaks messianically—The Messiah
 
 3
-00:00:20,8 --> 00:00:31,2
- tongue of the learned—He will give His back to
+00:00:00,0 --> 00:00:00,0
+will have the tongue of the learned—He will give
 
 4
-00:00:31,2 --> 00:00:41,6
- the smiters—He will not be confounded—Compare
+00:00:00,0 --> 00:00:00,0
+His back to the smiters—He will not be
 
 5
-00:00:41,6 --> 00:00:52,0
-Isaiah 50. About 559–545 B.C.
+00:00:00,0 --> 00:03:45,
+confounded—Compare 
+Isaiah 50. About 559–545 B.C. 
 
 6
-00:00:52,085 --> 00:01:01,585
-1 Yea, for thus saith the Lord: Have I put thee
+00:03:45,0 --> 00:03:45,0
+1 Yea, for thus saith the Lord: Have I
 
 7
-00:01:01,585 --> 00:01:11,085
- away, or have I cast thee off forever? For thus
+00:03:45,0 --> 00:03:45,0
+put thee away, or have I cast thee off
 
 8
-00:01:11,085 --> 00:01:20,585
- saith the Lord: Where is the bill of your mother’s
+00:03:45,0 --> 00:03:45,0
+forever? For thus saith the Lord: Where is
 
 9
-00:01:20,585 --> 00:01:30,085
- divorcement? To whom have I put thee away, or to
+00:03:45,0 --> 00:03:45,0
+the bill of your mother’s divorcement? To
 
 10
-00:01:30,085 --> 00:01:39,585
- which of my creditors have I sold you? Yea, to whom
+00:03:45,0 --> 00:03:45,0
+whom have I put thee away, or to which of
 
 11
-00:01:39,585 --> 00:01:49,085
- have I sold you? Behold, for your iniquities have ye
+00:03:45,0 --> 00:03:45,0
+my creditors have I sold you? Yea, to
 
 12
-00:01:49,085 --> 00:01:58,585
- sold yourselves, and for your transgressions is
+00:03:45,0 --> 00:03:45,0
+whom have I sold you? Behold, for your
 
 13
-00:01:58,585 --> 00:02:08,085
- your mother put away
+00:03:45,0 --> 00:03:45,0
+iniquities have ye sold yourselves, and for
 
 14
-00:02:08,695 --> 00:02:18,695
-2 Wherefore, when I came, there was no man; when I
+00:03:45,0 --> 00:03:31,
+your transgressions is your mother put away.
 
 15
-00:02:18,695 --> 00:02:28,695
- called, yea, there was none to answer. O house of
+00:03:31,0 --> 00:03:31,0
+2 Wherefore, when I came, there was no
 
 16
-00:02:28,695 --> 00:02:38,695
- Israel, is my hand shortened at all that it
+00:03:31,0 --> 00:03:31,0
+man; when I called, yea, there was none
 
 17
-00:02:38,695 --> 00:02:48,695
- cannot redeem, or have I no power to deliver? Behold,
+00:03:31,0 --> 00:03:31,0
+to answer. O house of Israel, is my
 
 18
-00:02:48,695 --> 00:02:58,695
- at my rebuke I dry up the sea, I make their rivers
+00:03:31,0 --> 00:03:31,0
+hand shortened at all that it cannot
 
 19
-00:02:58,695 --> 00:03:08,695
- a wilderness and their fish to stink because the
+00:03:31,0 --> 00:03:31,0
+redeem, or have I no power to deliver?
 
 20
-00:03:08,695 --> 00:03:18,695
- waters are dried up, and they die because of
+00:03:31,0 --> 00:03:31,0
+Behold, at my rebuke I dry up the sea, I
 
 21
-00:03:18,695 --> 00:03:28,695
- thirst
+00:03:31,0 --> 00:03:31,0
+make their rivers a wilderness and their
 
 22
-00:03:28,442 --> 00:04:28,442
-3 I clothe the heavens with blackness, and I make
+00:03:31,0 --> 00:03:31,0
+fish to stink because the waters are
 
 23
-00:04:28,442 --> 00:05:28,442
- sackcloth their covering
+00:03:31,0 --> 00:05:15,
+dried up, and they die because of thirst.
 
 24
-00:01:27,721 --> 00:01:46,388
-6 I gave my back to the smiter, and my cheeks to
+00:05:15,0 --> 00:05:15,0
+3 I clothe the heavens with
 
 25
-00:01:46,388 --> 00:02:05,055
- them that plucked off the hair. I hid not my face
+00:05:15,0 --> 00:19:24,
+blackness, and I make sackcloth their covering.
 
 26
-00:02:05,055 --> 00:02:23,722
- from shame and spitting
+00:19:24,0 --> 00:19:24,0
+4 The Lord God hath given me the
 
 27
-00:02:23,543 --> 00:03:04,293
-7 For the Lord God will help me, therefore shall I
+00:19:24,0 --> 00:19:24,0
+tongue of the learned, that I
 
 28
-00:03:04,293 --> 00:03:45,043
- not be confounded. Therefore have I set my face
+00:19:24,0 --> 00:19:24,0
+should know how to speak a word
 
 29
-00:03:45,043 --> 00:04:25,793
- like a flint, and I know that I shall not be
+00:19:24,0 --> 00:19:24,0
+in season unto thee, O house of
 
 30
-00:04:25,793 --> 00:05:06,543
- ashamed
+00:19:24,0 --> 00:19:24,0
+Israel. When ye are weary he
 
 31
-00:05:06,84 --> 00:05:14,59
-8 And the Lord is near, and he justifieth me. Who
+00:19:24,0 --> 00:19:24,0
+waketh morning by morning. He waketh
 
 32
-00:05:14,59 --> 00:05:22,34
- will contend with me? Let us stand together. Who
+00:19:24,0 --> 00:24:34,
+mine ear to hear as the learned.
 
 33
-00:05:22,34 --> 00:05:30,09
- is mine adversary? Let him come near me, and I will
+00:24:34,0 --> 00:24:34,0
+5 The Lord God hath opened
 
 34
-00:05:30,09 --> 00:05:37,84
- smite him with the strength of my mouth
+00:24:34,0 --> 00:24:34,0
+mine ear, and I was not
 
 35
-00:01:27,721 --> 00:01:27,921
-11 Behold all ye that kindle fire, that compass
+00:24:34,0 --> 00:24:06,
+rebellious, neither turned away back.
 
 36
-00:01:27,921 --> 00:01:28,121
- yourselves about with sparks, walk in the light of
+00:24:06,0 --> 00:24:06,0
+6 I gave my back to the
 
 37
-00:01:28,121 --> 00:01:28,321
- your fire and in the sparks which ye have kindled.
+00:24:06,0 --> 00:24:06,0
+smiter, and my cheeks to
 
 38
-00:01:28,321 --> 00:01:28,521
- This shall ye have of mine hand—ye shall lie down
+00:24:06,0 --> 00:24:06,0
+them that plucked off
 
 39
-00:01:28,521 --> 00:01:28,721
- in sorrow.
+00:24:06,0 --> 00:24:06,0
+the hair. I hid not my
+
+40
+00:24:06,0 --> 00:23:38,
+face from shame and spitting.
+
+41
+00:23:38,0 --> 00:23:38,0
+7 For the Lord God
+
+42
+00:23:38,0 --> 00:23:38,0
+will help me, therefore
+
+43
+00:23:38,0 --> 00:23:38,0
+shall I not be
+
+44
+00:23:38,0 --> 00:23:38,0
+confounded. Therefore have
+
+45
+00:23:38,0 --> 00:23:38,0
+I set my face like a
+
+46
+00:23:38,0 --> 00:23:38,0
+flint, and I know
+
+47
+00:23:38,0 --> 00:25:50,
+that I shall not be ashamed.
+
+48
+00:25:50,0 --> 00:25:50,0
+8 And the Lord is
+
+49
+00:25:50,0 --> 00:25:50,0
+near, and he
+
+50
+00:25:50,0 --> 00:25:50,0
+justifieth me. Who will
+
+51
+00:25:50,0 --> 00:25:50,0
+contend with me? Let
+
+52
+00:25:50,0 --> 00:25:50,0
+us stand together.
+
+53
+00:25:50,0 --> 00:25:50,0
+Who is mine
+
+54
+00:25:50,0 --> 00:25:50,0
+adversary? Let him come
+
+55
+00:25:50,0 --> 00:25:50,0
+near me, and I will
+
+56
+00:25:50,0 --> 00:25:50,0
+smite him with the
+
+57
+00:25:50,0 --> 00:32:00,
+strength of my mouth.
+
+58
+00:32:00,0 --> 00:32:00,0
+9 For the Lord God
+
+59
+00:32:00,0 --> 00:32:00,0
+will help me. And
+
+60
+00:32:00,0 --> 00:32:00,0
+all they who
+
+61
+00:32:00,0 --> 00:32:00,0
+shall condemn me,
+
+62
+00:32:00,0 --> 00:32:00,0
+behold, all they shall
+
+63
+00:32:00,0 --> 00:32:00,0
+wax old as a
+
+64
+00:32:00,0 --> 00:32:00,0
+garment, and the moth
+
+65
+00:32:00,0 --> 00:33:30,
+shall eat them up.
+
+66
+00:33:30,0 --> 00:33:30,0
+10 Who is among
+
+67
+00:33:30,0 --> 00:33:30,0
+you that feareth
+
+68
+00:33:30,0 --> 00:33:30,0
+the Lord, that
+
+69
+00:33:30,0 --> 00:33:30,0
+obeyeth the voice of
+
+70
+00:33:30,0 --> 00:33:30,0
+his servant,
+
+71
+00:33:30,0 --> 00:33:30,0
+that walketh in
+
+72
+00:33:30,0 --> 00:46:56,
+darkness and hath no light?
+
+73
+00:46:56,0 --> 00:46:56,0
+11 Behold all ye
+
+74
+00:46:56,0 --> 00:46:56,0
+that kindle
+
+75
+00:46:56,0 --> 00:46:56,0
+fire, that compass
+
+76
+00:46:56,0 --> 00:46:56,0
+yourselves about
+
+77
+00:46:56,0 --> 00:46:56,0
+with sparks,
+
+78
+00:46:56,0 --> 00:46:56,0
+walk in the light
+
+79
+00:46:56,0 --> 00:46:56,0
+of your fire and
+
+80
+00:46:56,0 --> 00:46:56,0
+in the sparks
+
+81
+00:46:56,0 --> 00:46:56,0
+which ye have
+
+82
+00:46:56,0 --> 00:46:56,0
+kindled. This shall
+
+83
+00:46:56,0 --> 00:46:56,0
+ye have of mine
+
+84
+00:46:56,0 --> 00:46:56,0
+hand—ye shall
+
+85
+00:46:56,0 --> 00:48:26,
+lie down in sorrow. 
 

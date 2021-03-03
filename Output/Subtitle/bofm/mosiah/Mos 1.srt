@@ -1,480 +1,1096 @@
 1
-00:00:00,0 --> 00:00:08,571
-The Book of MosiahChapter 1 King Benjamin teaches
+00:00:00,0 --> 00:00:00,0
+The Book of MosiahChapter 1 King Benjamin
 
 2
-00:00:08,571 --> 00:00:17,142
- his sons the language and prophecies of their
+00:00:00,0 --> 00:00:00,0
+teaches his sons the language and prophecies
 
 3
-00:00:17,142 --> 00:00:25,713
- fathers—Their religion and civilization have been
+00:00:00,0 --> 00:00:00,0
+of their fathers—Their religion and
 
 4
-00:00:25,713 --> 00:00:34,284
- preserved because of the records kept on the various
+00:00:00,0 --> 00:00:00,0
+civilization have been preserved because of the
 
 5
-00:00:34,284 --> 00:00:42,855
- plates—Mosiah is chosen as king and is given
+00:00:00,0 --> 00:00:00,0
+records kept on the various plates—Mosiah is
 
 6
-00:00:42,855 --> 00:00:51,426
- custody of the records and other things. About
+00:00:00,0 --> 00:00:00,0
+chosen as king and is given custody of the
 
 7
-00:00:51,426 --> 00:00:59,997
- 130–124 B.C.
+00:00:00,0 --> 00:04:29,
+records and other things. About 130–124 B.C. 
 
 8
-00:01:00,561 --> 00:01:08,561
-1 And now there was no more contention in all the
+00:04:29,0 --> 00:04:29,0
+1 And now there was no more contention
 
 9
-00:01:08,561 --> 00:01:16,561
- land of Zarahemla, among all the people who
+00:04:29,0 --> 00:04:29,0
+in all the land of Zarahemla, among
 
 10
-00:01:16,561 --> 00:01:24,561
- belonged to king Benjamin, so that king Benjamin had
+00:04:29,0 --> 00:04:29,0
+all the people who belonged to king
 
 11
-00:01:24,561 --> 00:01:32,561
- continual peace all the remainder of his days
+00:04:29,0 --> 00:04:29,0
+Benjamin, so that king Benjamin had
 
 12
-00:01:32,225 --> 00:01:38,6
-2 And it came to pass that he had three sons; and
+00:04:29,0 --> 00:18:54,
+continual peace all the remainder of his days.
 
 13
-00:01:38,6 --> 00:01:44,975
- he called their names Mosiah, and Helorum, and
+00:18:54,0 --> 00:18:54,0
+2 And it came to pass that he had
 
 14
-00:01:44,975 --> 00:01:51,35
- Helaman. And he caused that they should be taught in
+00:18:54,0 --> 00:18:54,0
+three sons; and he called their
 
 15
-00:01:51,35 --> 00:01:57,725
- all the language of his fathers, that thereby they
+00:18:54,0 --> 00:18:54,0
+names Mosiah, and Helorum, and Helaman.
 
 16
-00:01:57,725 --> 00:02:04,1
- might become men of understanding; and that they
+00:18:54,0 --> 00:18:54,0
+And he caused that they should be
 
 17
-00:02:04,1 --> 00:02:10,475
- might know concerning the prophecies which had
+00:18:54,0 --> 00:18:54,0
+taught in all the language of his
 
 18
-00:02:10,475 --> 00:02:16,85
- been spoken by the mouths of their fathers, which
+00:18:54,0 --> 00:18:54,0
+fathers, that thereby they might
 
 19
-00:02:16,85 --> 00:02:23,225
- were delivered them by the hand of the Lord
+00:18:54,0 --> 00:18:54,0
+become men of understanding; and that
 
 20
-00:02:23,11 --> 00:02:29,539
-3 And he also taught them concerning the records
+00:18:54,0 --> 00:18:54,0
+they might know concerning the
 
 21
-00:02:29,539 --> 00:02:35,968
- which were engraven on the plates of brass, saying:
+00:18:54,0 --> 00:18:54,0
+prophecies which had been spoken by the
 
 22
-00:02:35,968 --> 00:02:42,397
- My sons, I would that ye should remember that
+00:18:54,0 --> 00:18:54,0
+mouths of their fathers, which
 
 23
-00:02:42,397 --> 00:02:48,826
- were it not for these plates, which contain these
+00:18:54,0 --> 00:29:04,
+were delivered them by the hand of the Lord.
 
 24
-00:02:48,826 --> 00:02:55,255
- records and these commandments, we must have suffered
+00:29:04,0 --> 00:29:04,0
+3 And he also taught them
 
 25
-00:02:55,255 --> 00:03:01,684
- in ignorance, even at this present time, not
+00:29:04,0 --> 00:29:04,0
+concerning the records which were
 
 26
-00:03:01,684 --> 00:03:08,113
- knowing the mysteries of God
+00:29:04,0 --> 00:29:04,0
+engraven on the plates of brass,
 
 27
-00:03:08,355 --> 00:03:14,022
-4 For it were not possible that our father, Lehi,
+00:29:04,0 --> 00:29:04,0
+saying: My sons, I would that ye
 
 28
-00:03:14,022 --> 00:03:19,689
- could have remembered all these things, to have
+00:29:04,0 --> 00:29:04,0
+should remember that were it not
 
 29
-00:03:19,689 --> 00:03:25,356
- taught them to his children, except it were for the
+00:29:04,0 --> 00:29:04,0
+for these plates, which contain
 
 30
-00:03:25,356 --> 00:03:31,023
- help of these plates; for he having been taught in
+00:29:04,0 --> 00:29:04,0
+these records and these
 
 31
-00:03:31,023 --> 00:03:36,69
- the language of the Egyptians therefore he could
+00:29:04,0 --> 00:29:04,0
+commandments, we must have suffered in
 
 32
-00:03:36,69 --> 00:03:42,357
- read these engravings, and teach them to his
+00:29:04,0 --> 00:29:04,0
+ignorance, even at this present
 
 33
-00:03:42,357 --> 00:03:48,024
- children, that thereby they could teach them to their
+00:29:04,0 --> 00:32:00,
+time, not knowing the mysteries of God.
 
 34
-00:03:48,024 --> 00:03:53,691
- children, and so fulfilling the commandments of
+00:32:00,0 --> 00:32:00,0
+4 For it were not possible
 
 35
-00:03:53,691 --> 00:03:59,358
- God, even down to this present time
+00:32:00,0 --> 00:32:00,0
+that our father, Lehi, could have
 
 36
-00:03:59,673 --> 00:04:06,373
-5 I say unto you, my sons, were it not for these
+00:32:00,0 --> 00:32:00,0
+remembered all these things,
 
 37
-00:04:06,373 --> 00:04:13,073
- things, which have been kept and preserved by the
+00:32:00,0 --> 00:32:00,0
+to have taught them to his
 
 38
-00:04:13,073 --> 00:04:19,773
- hand of God, that we might read and understand of
+00:32:00,0 --> 00:32:00,0
+children, except it were for the
 
 39
-00:04:19,773 --> 00:04:26,473
- his mysteries, and have his commandments always
+00:32:00,0 --> 00:32:00,0
+help of these plates; for he
 
 40
-00:04:26,473 --> 00:04:33,173
- before our eyes, that even our fathers would have
+00:32:00,0 --> 00:32:00,0
+having been taught in the
 
 41
-00:04:33,173 --> 00:04:39,873
- dwindled in unbelief, and we should have been like
+00:32:00,0 --> 00:32:00,0
+language of the Egyptians therefore
 
 42
-00:04:39,873 --> 00:04:46,573
- unto our brethren, the Lamanites, who know nothing
+00:32:00,0 --> 00:32:00,0
+he could read these
 
 43
-00:04:46,573 --> 00:04:53,273
- concerning these things, or even do not believe
+00:32:00,0 --> 00:32:00,0
+engravings, and teach them to his
 
 44
-00:04:53,273 --> 00:04:59,973
- them when they are taught them, because of the
+00:32:00,0 --> 00:32:00,0
+children, that thereby they could
 
 45
-00:04:59,973 --> 00:05:06,673
- traditions of their fathers, which are not correct
+00:32:00,0 --> 00:32:00,0
+teach them to their children,
 
 46
-00:05:06,173 --> 00:05:13,03
-6 O my sons, I would that ye should remember that
+00:32:00,0 --> 00:32:00,0
+and so fulfilling the
 
 47
-00:05:13,03 --> 00:05:19,887
- these sayings are true, and also that these
+00:32:00,0 --> 00:40:55,
+commandments of God, even down to this present time.
 
 48
-00:05:19,887 --> 00:05:26,744
- records are true. And behold, also the plates of Nephi,
+00:40:55,0 --> 00:40:55,0
+5 I say unto you, my sons,
 
 49
-00:05:26,744 --> 00:05:33,601
- which contain the records and the sayings of our
+00:40:55,0 --> 00:40:55,0
+were it not for these things,
 
 50
-00:05:33,601 --> 00:05:40,458
- fathers from the time they left Jerusalem until
+00:40:55,0 --> 00:40:55,0
+which have been kept and
 
 51
-00:05:40,458 --> 00:05:47,315
- now, and they are true; and we can know of their
+00:40:55,0 --> 00:40:55,0
+preserved by the hand of God, that
 
 52
-00:05:47,315 --> 00:05:54,172
- surety because we have them before our eyes
+00:40:55,0 --> 00:40:55,0
+we might read and understand
 
 53
-00:05:54,921 --> 00:06:01,588
-7 And now, my sons, I would that ye should
+00:40:55,0 --> 00:40:55,0
+of his mysteries, and have
 
 54
-00:06:01,588 --> 00:06:08,255
- remember to search them diligently, that ye may profit
+00:40:55,0 --> 00:40:55,0
+his commandments always before
 
 55
-00:06:08,255 --> 00:06:14,922
- thereby; and I would that ye should keep the
+00:40:55,0 --> 00:40:55,0
+our eyes, that even our
 
 56
-00:06:14,922 --> 00:06:21,589
- commandments of God, that ye may prosper in the land
+00:40:55,0 --> 00:40:55,0
+fathers would have dwindled in
 
 57
-00:06:21,589 --> 00:06:28,256
- according to the promises which the Lord made unto our
+00:40:55,0 --> 00:40:55,0
+unbelief, and we should have
 
 58
-00:06:28,256 --> 00:06:34,923
- fathers
+00:40:55,0 --> 00:40:55,0
+been like unto our brethren,
 
 59
-00:06:34,861 --> 00:06:41,861
-8 And many more things did king Benjamin teach his
+00:40:55,0 --> 00:40:55,0
+the Lamanites, who know nothing
 
 60
-00:06:41,861 --> 00:06:48,861
- sons, which are not written in this book
+00:40:55,0 --> 00:40:55,0
+concerning these things, or
 
 61
-00:06:48,842 --> 00:06:54,842
-9 And it came to pass that after king Benjamin had
+00:40:55,0 --> 00:40:55,0
+even do not believe them when
 
 62
-00:06:54,842 --> 00:07:00,842
- made an end of teaching his sons, that he waxed
+00:40:55,0 --> 00:40:55,0
+they are taught them,
 
 63
-00:07:00,842 --> 00:07:06,842
- old, and he saw that he must very soon go the way
+00:40:55,0 --> 00:40:55,0
+because of the traditions of their
 
 64
-00:07:06,842 --> 00:07:12,842
- of all the earth; therefore, he thought it
+00:40:55,0 --> 00:40:41,
+fathers, which are not correct.
 
 65
-00:07:12,842 --> 00:07:18,842
- expedient that he should confer the kingdom upon one of
+00:40:41,0 --> 00:40:41,0
+6 O my sons, I would that ye
 
 66
-00:07:18,842 --> 00:07:24,842
- his sons
+00:40:41,0 --> 00:40:41,0
+should remember that these
 
 67
-00:07:24,044 --> 00:07:27,144
-10 Therefore, he had Mosiah brought before him;
+00:40:41,0 --> 00:40:41,0
+sayings are true, and also
 
 68
-00:07:27,144 --> 00:07:30,244
- and these are the words which he spake unto him,
+00:40:41,0 --> 00:40:41,0
+that these records are true.
 
 69
-00:07:30,244 --> 00:07:33,344
- saying: My son, I would that ye should make a
+00:40:41,0 --> 00:40:41,0
+And behold, also the plates
 
 70
-00:07:33,344 --> 00:07:36,444
- proclamation throughout all this land among all this
+00:40:41,0 --> 00:40:41,0
+of Nephi, which contain the
 
 71
-00:07:36,444 --> 00:07:39,544
- people, or the people of Zarahemla, and the people of
+00:40:41,0 --> 00:40:41,0
+records and the sayings of
 
 72
-00:07:39,544 --> 00:07:42,644
- Mosiah who dwell in the land, that thereby they
+00:40:41,0 --> 00:40:41,0
+our fathers from the time
 
 73
-00:07:42,644 --> 00:07:45,744
- may be gathered together; for on the morrow I shall
+00:40:41,0 --> 00:40:41,0
+they left Jerusalem until now,
 
 74
-00:07:45,744 --> 00:07:48,844
- proclaim unto this my people out of mine own mouth
+00:40:41,0 --> 00:40:41,0
+and they are true; and we
 
 75
-00:07:48,844 --> 00:07:51,944
- that thou art a king and a ruler over this
+00:40:41,0 --> 00:40:41,0
+can know of their surety
 
 76
-00:07:51,944 --> 00:07:55,044
- people, whom the Lord our God hath given us
+00:40:41,0 --> 00:44:40,
+because we have them before our eyes.
 
 77
-00:07:55,942 --> 00:08:03,942
-11 And moreover, I shall give this people a name,
+00:44:40,0 --> 00:44:40,0
+7 And now, my sons, I
 
 78
-00:08:03,942 --> 00:08:11,942
- that thereby they may be distinguished above all
+00:44:40,0 --> 00:44:40,0
+would that ye should
 
 79
-00:08:11,942 --> 00:08:19,942
- the people which the Lord God hath brought out of
+00:44:40,0 --> 00:44:40,0
+remember to search them
 
 80
-00:08:19,942 --> 00:08:27,942
- the land of Jerusalem; and this I do because they
+00:44:40,0 --> 00:44:40,0
+diligently, that ye may profit
 
 81
-00:08:27,942 --> 00:08:35,942
- have been a diligent people in keeping the
+00:44:40,0 --> 00:44:40,0
+thereby; and I would that
 
 82
-00:08:35,942 --> 00:08:43,942
- commandments of the Lord
+00:44:40,0 --> 00:44:40,0
+ye should keep the
 
 83
-00:08:43,79 --> 00:09:01,29
-12 And I give unto them a name that never shall be
+00:44:40,0 --> 00:44:40,0
+commandments of God, that ye may
 
 84
-00:09:01,29 --> 00:09:18,79
- blotted out, except it be through transgression
+00:44:40,0 --> 00:44:40,0
+prosper in the land
 
 85
-00:09:18,558 --> 00:09:24,933
-13 Yea, and moreover I say unto you, that if this
+00:44:40,0 --> 00:44:40,0
+according to the promises
 
 86
-00:09:24,933 --> 00:09:31,308
- highly favored people of the Lord should fall into
+00:44:40,0 --> 00:52:37,
+which the Lord made unto our fathers.
 
 87
-00:09:31,308 --> 00:09:37,683
- transgression, and become a wicked and an
+00:52:37,0 --> 00:52:37,0
+8 And many more things
 
 88
-00:09:37,683 --> 00:09:44,058
- adulterous people, that the Lord will deliver them up,
+00:52:37,0 --> 00:52:37,0
+did king Benjamin teach
 
 89
-00:09:44,058 --> 00:09:50,433
- that thereby they become weak like unto their
+00:52:37,0 --> 00:52:37,0
+his sons, which are
 
 90
-00:09:50,433 --> 00:09:56,808
- brethren; and he will no more preserve them by his
+00:52:37,0 --> 01:00:06,
+not written in this book.
 
 91
-00:09:56,808 --> 00:10:03,183
- matchless and marvelous power, as he has hitherto
+01:00:06,0 --> 01:00:06,0
+9 And it came to pass
 
 92
-00:10:03,183 --> 00:10:09,558
- preserved our fathers
+01:00:06,0 --> 01:00:06,0
+that after king
 
 93
-00:10:09,476 --> 00:10:14,726
-14 For I say unto you, that if he had not extended
+01:00:06,0 --> 01:00:06,0
+Benjamin had made an end
 
 94
-00:10:14,726 --> 00:10:19,976
- his arm in the preservation of our fathers they
+01:00:06,0 --> 01:00:06,0
+of teaching his sons,
 
 95
-00:10:19,976 --> 00:10:25,226
- must have fallen into the hands of the Lamanites,
+01:00:06,0 --> 01:00:06,0
+that he waxed old,
 
 96
-00:10:25,226 --> 00:10:30,476
- and become victims to their hatred
+01:00:06,0 --> 01:00:06,0
+and he saw that he
 
 97
-00:10:30,73 --> 00:10:36,23
-15 And it came to pass that after king Benjamin
+01:00:06,0 --> 01:00:06,0
+must very soon go the
 
 98
-00:10:36,23 --> 00:10:41,73
- had made an end of these sayings to his son, that he
+01:00:06,0 --> 01:00:06,0
+way of all the earth;
 
 99
-00:10:41,73 --> 00:10:47,23
- gave him charge concerning all the affairs of the
+01:00:06,0 --> 01:00:06,0
+therefore, he thought
 
 100
-00:10:47,23 --> 00:10:52,73
- kingdom
+01:00:06,0 --> 01:00:06,0
+it expedient that he
 
 101
-00:10:52,685 --> 00:10:58,935
-16 And moreover, he also gave him charge
+01:00:06,0 --> 01:00:06,0
+should confer the
 
 102
-00:10:58,935 --> 00:11:05,185
- concerning the records which were engraven on the plates of
+01:00:06,0 --> 01:05:35,
+kingdom upon one of his sons.
 
 103
-00:11:05,185 --> 00:11:11,435
- brass; and also the plates of Nephi; and also,
+01:05:35,0 --> 01:05:35,0
+10 Therefore, he had
 
 104
-00:11:11,435 --> 00:11:17,685
- the sword of Laban, and the ball or director, which
+01:05:35,0 --> 01:05:35,0
+Mosiah brought
 
 105
-00:11:17,685 --> 00:11:23,935
- led our fathers through the wilderness, which was
+01:05:35,0 --> 01:05:35,0
+before him; and these
 
 106
-00:11:23,935 --> 00:11:30,185
- prepared by the hand of the Lord that thereby they
+01:05:35,0 --> 01:05:35,0
+are the words which he
 
 107
-00:11:30,185 --> 00:11:36,435
- might be led, every one according to the heed and
+01:05:35,0 --> 01:05:35,0
+spake unto him,
 
 108
-00:11:36,435 --> 00:11:42,685
- diligence which they gave unto him
+01:05:35,0 --> 01:05:35,0
+saying: My son, I would
 
 109
-00:11:42,902 --> 00:11:49,069
-17 Therefore, as they were unfaithful they did not
+01:05:35,0 --> 01:05:35,0
+that ye should make
 
 110
-00:11:49,069 --> 00:11:55,236
- prosper nor progress in their journey, but were
+01:05:35,0 --> 01:05:35,0
+a proclamation
 
 111
-00:11:55,236 --> 00:12:01,403
- driven back, and incurred the displeasure of God
+01:05:35,0 --> 01:05:35,0
+throughout all this land
 
 112
-00:12:01,403 --> 00:12:07,57
- upon them; and therefore they were smitten with
+01:05:35,0 --> 01:05:35,0
+among all this
 
 113
-00:12:07,57 --> 00:12:13,737
- famine and sore afflictions, to stir them up in
+01:05:35,0 --> 01:05:35,0
+people, or the people of
 
 114
-00:12:13,737 --> 00:12:19,904
- remembrance of their duty
+01:05:35,0 --> 01:05:35,0
+Zarahemla, and the
 
 115
-00:12:19,973 --> 00:12:21,306
-18 And now, it came to pass that Mosiah went and
+01:05:35,0 --> 01:05:35,0
+people of Mosiah who
 
 116
-00:12:21,306 --> 00:12:22,639
- did as his father had commanded him, and proclaimed
+01:05:35,0 --> 01:05:35,0
+dwell in the land,
 
 117
-00:12:22,639 --> 00:12:23,972
- unto all the people who were in the land of
+01:05:35,0 --> 01:05:35,0
+that thereby they
 
 118
-00:12:23,972 --> 00:12:25,305
- Zarahemla that thereby they might gather themselves
+01:05:35,0 --> 01:05:35,0
+may be gathered
 
 119
-00:12:25,305 --> 00:12:26,638
- together, to go up to the temple to hear the words
+01:05:35,0 --> 01:05:35,0
+together; for on the
 
 120
-00:12:26,638 --> 00:12:27,971
- which his father should speak unto them.
+01:05:35,0 --> 01:05:35,0
+morrow I shall proclaim
+
+121
+01:05:35,0 --> 01:05:35,0
+unto this my people
+
+122
+01:05:35,0 --> 01:05:35,0
+out of mine own mouth
+
+123
+01:05:35,0 --> 01:05:35,0
+that thou art a
+
+124
+01:05:35,0 --> 01:05:35,0
+king and a ruler over
+
+125
+01:05:35,0 --> 01:05:35,0
+this people, whom the
+
+126
+01:05:35,0 --> 01:13:33,
+Lord our God hath given us.
+
+127
+01:13:33,0 --> 01:13:33,0
+11 And moreover, I
+
+128
+01:13:33,0 --> 01:13:33,0
+shall give this
+
+129
+01:13:33,0 --> 01:13:33,0
+people a name, that
+
+130
+01:13:33,0 --> 01:13:33,0
+thereby they may be
+
+131
+01:13:33,0 --> 01:13:33,0
+distinguished above
+
+132
+01:13:33,0 --> 01:13:33,0
+all the people
+
+133
+01:13:33,0 --> 01:13:33,0
+which the Lord God hath
+
+134
+01:13:33,0 --> 01:13:33,0
+brought out of the
+
+135
+01:13:33,0 --> 01:13:33,0
+land of Jerusalem;
+
+136
+01:13:33,0 --> 01:13:33,0
+and this I do
+
+137
+01:13:33,0 --> 01:13:33,0
+because they have been
+
+138
+01:13:33,0 --> 01:13:33,0
+a diligent people
+
+139
+01:13:33,0 --> 01:13:33,0
+in keeping the
+
+140
+01:13:33,0 --> 01:18:30,
+commandments of the Lord.
+
+141
+01:18:30,0 --> 01:18:30,0
+12 And I give
+
+142
+01:18:30,0 --> 01:18:30,0
+unto them a name
+
+143
+01:18:30,0 --> 01:18:30,0
+that never shall
+
+144
+01:18:30,0 --> 01:18:30,0
+be blotted out,
+
+145
+01:18:30,0 --> 01:18:30,0
+except it be
+
+146
+01:18:30,0 --> 01:18:16,
+through transgression.
+
+147
+01:18:16,0 --> 01:18:16,0
+13 Yea, and
+
+148
+01:18:16,0 --> 01:18:16,0
+moreover I say
+
+149
+01:18:16,0 --> 01:18:16,0
+unto you, that if
+
+150
+01:18:16,0 --> 01:18:16,0
+this highly
+
+151
+01:18:16,0 --> 01:18:16,0
+favored people of
+
+152
+01:18:16,0 --> 01:18:16,0
+the Lord should
+
+153
+01:18:16,0 --> 01:18:16,0
+fall into
+
+154
+01:18:16,0 --> 01:18:16,0
+transgression, and
+
+155
+01:18:16,0 --> 01:18:16,0
+become a wicked
+
+156
+01:18:16,0 --> 01:18:16,0
+and an
+
+157
+01:18:16,0 --> 01:18:16,0
+adulterous people,
+
+158
+01:18:16,0 --> 01:18:16,0
+that the Lord will
+
+159
+01:18:16,0 --> 01:18:16,0
+deliver them
+
+160
+01:18:16,0 --> 01:18:16,0
+up, that thereby
+
+161
+01:18:16,0 --> 01:18:16,0
+they become
+
+162
+01:18:16,0 --> 01:18:16,0
+weak like unto
+
+163
+01:18:16,0 --> 01:18:16,0
+their brethren;
+
+164
+01:18:16,0 --> 01:18:16,0
+and he will no
+
+165
+01:18:16,0 --> 01:18:16,0
+more preserve
+
+166
+01:18:16,0 --> 01:18:16,0
+them by his
+
+167
+01:18:16,0 --> 01:18:16,0
+matchless and
+
+168
+01:18:16,0 --> 01:18:16,0
+marvelous power, as
+
+169
+01:18:16,0 --> 01:23:13,
+he has hitherto preserved our fathers.
+
+170
+01:23:13,0 --> 01:23:13,0
+14 For I say
+
+171
+01:23:13,0 --> 01:23:13,0
+unto you, that
+
+172
+01:23:13,0 --> 01:23:13,0
+if he had not
+
+173
+01:23:13,0 --> 01:23:13,0
+extended his
+
+174
+01:23:13,0 --> 01:23:13,0
+arm in the
+
+175
+01:23:13,0 --> 01:23:13,0
+preservation of
+
+176
+01:23:13,0 --> 01:23:13,0
+our fathers they
+
+177
+01:23:13,0 --> 01:23:13,0
+must have
+
+178
+01:23:13,0 --> 01:23:13,0
+fallen into the
+
+179
+01:23:13,0 --> 01:23:13,0
+hands of the
+
+180
+01:23:13,0 --> 01:23:13,0
+Lamanites, and
+
+181
+01:23:13,0 --> 01:23:13,0
+become victims
+
+182
+01:23:13,0 --> 01:24:43,
+to their hatred.
+
+183
+01:24:43,0 --> 01:24:43,0
+15 And it
+
+184
+01:24:43,0 --> 01:24:43,0
+came to pass
+
+185
+01:24:43,0 --> 01:24:43,0
+that after king
+
+186
+01:24:43,0 --> 01:24:43,0
+Benjamin had
+
+187
+01:24:43,0 --> 01:24:43,0
+made an end
+
+188
+01:24:43,0 --> 01:24:43,0
+of these
+
+189
+01:24:43,0 --> 01:24:43,0
+sayings to his
+
+190
+01:24:43,0 --> 01:24:43,0
+son, that he
+
+191
+01:24:43,0 --> 01:24:43,0
+gave him charge
+
+192
+01:24:43,0 --> 01:24:43,0
+concerning
+
+193
+01:24:43,0 --> 01:24:43,0
+all the affairs
+
+194
+01:24:43,0 --> 01:26:27,
+of the kingdom.
+
+195
+01:26:27,0 --> 01:26:27,0
+16 And
+
+196
+01:26:27,0 --> 01:26:27,0
+moreover, he also
+
+197
+01:26:27,0 --> 01:26:27,0
+gave him
+
+198
+01:26:27,0 --> 01:26:27,0
+charge
+
+199
+01:26:27,0 --> 01:26:27,0
+concerning the
+
+200
+01:26:27,0 --> 01:26:27,0
+records which
+
+201
+01:26:27,0 --> 01:26:27,0
+were engraven
+
+202
+01:26:27,0 --> 01:26:27,0
+on the
+
+203
+01:26:27,0 --> 01:26:27,0
+plates of brass;
+
+204
+01:26:27,0 --> 01:26:27,0
+and also the
+
+205
+01:26:27,0 --> 01:26:27,0
+plates of
+
+206
+01:26:27,0 --> 01:26:27,0
+Nephi; and
+
+207
+01:26:27,0 --> 01:26:27,0
+also, the
+
+208
+01:26:27,0 --> 01:26:27,0
+sword of Laban,
+
+209
+01:26:27,0 --> 01:26:27,0
+and the ball
+
+210
+01:26:27,0 --> 01:26:27,0
+or
+
+211
+01:26:27,0 --> 01:26:27,0
+director, which led
+
+212
+01:26:27,0 --> 01:26:27,0
+our fathers
+
+213
+01:26:27,0 --> 01:26:27,0
+through the
+
+214
+01:26:27,0 --> 01:26:27,0
+wilderness,
+
+215
+01:26:27,0 --> 01:26:27,0
+which was
+
+216
+01:26:27,0 --> 01:26:27,0
+prepared by
+
+217
+01:26:27,0 --> 01:26:27,0
+the hand of
+
+218
+01:26:27,0 --> 01:26:27,0
+the Lord that
+
+219
+01:26:27,0 --> 01:26:27,0
+thereby they
+
+220
+01:26:27,0 --> 01:26:27,0
+might be
+
+221
+01:26:27,0 --> 01:26:27,0
+led, every one
+
+222
+01:26:27,0 --> 01:26:27,0
+according
+
+223
+01:26:27,0 --> 01:26:27,0
+to the heed
+
+224
+01:26:27,0 --> 01:25:59,
+and diligence which they gave unto him.
+
+225
+01:25:59,0 --> 01:25:59,0
+17
+
+226
+01:25:59,0 --> 01:25:59,0
+Therefore, as they
+
+227
+01:25:59,0 --> 01:25:59,0
+were
+
+228
+01:25:59,0 --> 01:25:59,0
+unfaithful they
+
+229
+01:25:59,0 --> 01:25:59,0
+did not
+
+230
+01:25:59,0 --> 01:25:59,0
+prosper nor
+
+231
+01:25:59,0 --> 01:25:59,0
+progress in
+
+232
+01:25:59,0 --> 01:25:59,0
+their
+
+233
+01:25:59,0 --> 01:25:59,0
+journey, but were
+
+234
+01:25:59,0 --> 01:25:59,0
+driven
+
+235
+01:25:59,0 --> 01:25:59,0
+back, and
+
+236
+01:25:59,0 --> 01:25:59,0
+incurred the
+
+237
+01:25:59,0 --> 01:25:59,0
+displeasure of
+
+238
+01:25:59,0 --> 01:25:59,0
+God upon
+
+239
+01:25:59,0 --> 01:25:59,0
+them; and
+
+240
+01:25:59,0 --> 01:25:59,0
+therefore
+
+241
+01:25:59,0 --> 01:25:59,0
+they were
+
+242
+01:25:59,0 --> 01:25:59,0
+smitten with
+
+243
+01:25:59,0 --> 01:25:59,0
+famine and
+
+244
+01:25:59,0 --> 01:25:59,0
+sore
+
+245
+01:25:59,0 --> 01:25:59,0
+afflictions, to
+
+246
+01:25:59,0 --> 01:25:59,0
+stir them up
+
+247
+01:25:59,0 --> 01:29:30,
+in remembrance of their duty.
+
+248
+01:29:30,0 --> 01:29:30,0
+18 And
+
+249
+01:29:30,0 --> 01:29:30,0
+now, it came
+
+250
+01:29:30,0 --> 01:29:30,0
+to pass
+
+251
+01:29:30,0 --> 01:29:30,0
+that Mosiah
+
+252
+01:29:30,0 --> 01:29:30,0
+went and
+
+253
+01:29:30,0 --> 01:29:30,0
+did as his
+
+254
+01:29:30,0 --> 01:29:30,0
+father had
+
+255
+01:29:30,0 --> 01:29:30,0
+commanded
+
+256
+01:29:30,0 --> 01:29:30,0
+him, and
+
+257
+01:29:30,0 --> 01:29:30,0
+proclaimed
+
+258
+01:29:30,0 --> 01:29:30,0
+unto all
+
+259
+01:29:30,0 --> 01:29:30,0
+the people
+
+260
+01:29:30,0 --> 01:29:30,0
+who were
+
+261
+01:29:30,0 --> 01:29:30,0
+in the
+
+262
+01:29:30,0 --> 01:29:30,0
+land of
+
+263
+01:29:30,0 --> 01:29:30,0
+Zarahemla that
+
+264
+01:29:30,0 --> 01:29:30,0
+thereby
+
+265
+01:29:30,0 --> 01:29:30,0
+they might
+
+266
+01:29:30,0 --> 01:29:30,0
+gather
+
+267
+01:29:30,0 --> 01:29:30,0
+themselves
+
+268
+01:29:30,0 --> 01:29:30,0
+together, to
+
+269
+01:29:30,0 --> 01:29:30,0
+go up to
+
+270
+01:29:30,0 --> 01:29:30,0
+the temple
+
+271
+01:29:30,0 --> 01:29:30,0
+to hear
+
+272
+01:29:30,0 --> 01:29:30,0
+the words
+
+273
+01:29:30,0 --> 01:29:30,0
+which his
+
+274
+01:29:30,0 --> 01:29:16,
+father should speak unto them. 
 

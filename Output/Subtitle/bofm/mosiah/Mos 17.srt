@@ -1,332 +1,1080 @@
 1
-00:00:00,0 --> 00:00:01,75
-Chapter 17 Alma believes and writes the words of
+00:00:00,0 --> 00:00:00,0
+Chapter 17 Alma believes and writes the
 
 2
-00:00:01,75 --> 00:00:03,5
- Abinadi—Abinadi suffers death by fire—He prophesies
+00:00:00,0 --> 00:00:00,0
+words of Abinadi—Abinadi suffers death
 
 3
-00:00:03,5 --> 00:00:05,25
- disease and death by fire upon his murderers.
+00:00:00,0 --> 00:00:00,0
+by fire—He prophesies disease and death
 
 4
-00:00:05,25 --> 00:00:07,0
- About 148 B.C.
+00:00:00,0 --> 00:05:43,
+by fire upon his murderers. About 148 B.C. 
 
 5
-00:00:07,975 --> 00:00:09,975
-1 And now it came to pass that when Abinadi had
+00:05:43,0 --> 00:05:43,0
+1 And now it came to pass that
 
 6
-00:00:09,975 --> 00:00:11,975
- finished these sayings, that the king commanded that
+00:05:43,0 --> 00:05:43,0
+when Abinadi had finished these
 
 7
-00:00:11,975 --> 00:00:13,975
- the priests should take him and cause that he
+00:05:43,0 --> 00:05:43,0
+sayings, that the king commanded that
 
 8
-00:00:13,975 --> 00:00:15,975
- should be put to death
+00:05:43,0 --> 00:05:43,0
+the priests should take him and
 
 9
-00:00:15,949 --> 00:00:16,949
-2 But there was one among them whose name was
+00:05:43,0 --> 00:20:35,
+cause that he should be put to death.
 
 10
-00:00:16,949 --> 00:00:17,949
- Alma, he also being a descendant of Nephi. And he was
+00:20:35,0 --> 00:20:35,0
+2 But there was one among them
 
 11
-00:00:17,949 --> 00:00:18,949
- a young man, and he believed the words which
+00:20:35,0 --> 00:20:35,0
+whose name was Alma, he also being
 
 12
-00:00:18,949 --> 00:00:19,949
- Abinadi had spoken, for he knew concerning the iniquity
+00:20:35,0 --> 00:20:35,0
+a descendant of Nephi. And he was
 
 13
-00:00:19,949 --> 00:00:20,949
- which Abinadi had testified against them;
+00:20:35,0 --> 00:20:35,0
+a young man, and he believed the
 
 14
-00:00:20,949 --> 00:00:21,949
- therefore he began to plead with the king that he would
+00:20:35,0 --> 00:20:35,0
+words which Abinadi had spoken,
 
 15
-00:00:21,949 --> 00:00:22,949
- not be angry with Abinadi, but suffer that he might
+00:20:35,0 --> 00:20:35,0
+for he knew concerning the
 
 16
-00:00:22,949 --> 00:00:23,949
- depart in peace
+00:20:35,0 --> 00:20:35,0
+iniquity which Abinadi had testified
 
 17
-00:00:23,924 --> 00:00:26,591
-3 But the king was more wroth, and caused that
+00:20:35,0 --> 00:20:35,0
+against them; therefore he began to
 
 18
-00:00:26,591 --> 00:00:29,258
- Alma should be cast out from among them, and sent his
+00:20:35,0 --> 00:20:35,0
+plead with the king that he
 
 19
-00:00:29,258 --> 00:00:31,925
- servants after him that they might slay him
+00:20:35,0 --> 00:20:35,0
+would not be angry with Abinadi, but
 
 20
-00:00:31,899 --> 00:00:33,899
-4 But he fled from before them and hid himself
+00:20:35,0 --> 00:30:45,
+suffer that he might depart in peace.
 
 21
-00:00:33,899 --> 00:00:35,899
- that they found him not. And he being concealed for
+00:30:45,0 --> 00:30:45,0
+3 But the king was more
 
 22
-00:00:35,899 --> 00:00:37,899
- many days did write all the words which Abinadi had
+00:30:45,0 --> 00:30:45,0
+wroth, and caused that Alma should
 
 23
-00:00:37,899 --> 00:00:39,899
- spoken
+00:30:45,0 --> 00:30:45,0
+be cast out from among them,
 
 24
-00:00:39,873 --> 00:00:42,54
-5 And it came to pass that the king caused that
+00:30:45,0 --> 00:30:45,0
+and sent his servants after
 
 25
-00:00:42,54 --> 00:00:45,207
- his guards should surround Abinadi and take him; and
+00:30:45,0 --> 00:30:17,
+him that they might slay him.
 
 26
-00:00:45,207 --> 00:00:47,874
- they bound him and cast him into prison
+00:30:17,0 --> 00:30:17,0
+4 But he fled from before
 
 27
-00:00:47,848 --> 00:00:50,515
-6 And after three days, having counseled with his
+00:30:17,0 --> 00:30:17,0
+them and hid himself that
 
 28
-00:00:50,515 --> 00:00:53,182
- priests, he caused that he should again be brought
+00:30:17,0 --> 00:30:17,0
+they found him not. And he
 
 29
-00:00:53,182 --> 00:00:55,849
- before him
+00:30:17,0 --> 00:30:17,0
+being concealed for many
 
 30
-00:00:55,822 --> 00:01:01,155
-7 And he said unto him: Abinadi, we have found an
+00:30:17,0 --> 00:30:17,0
+days did write all the
 
 31
-00:01:01,155 --> 00:01:06,488
- accusation against thee, and thou art worthy of
+00:30:17,0 --> 00:29:49,
+words which Abinadi had spoken.
 
 32
-00:01:06,488 --> 00:01:11,821
- death
+00:29:49,0 --> 00:29:49,0
+5 And it came to pass
 
 33
-00:01:11,772 --> 00:01:14,972
-8 For thou hast said that God himself should come
+00:29:49,0 --> 00:29:49,0
+that the king caused
 
 34
-00:01:14,972 --> 00:01:18,172
- down among the children of men; and now, for this
+00:29:49,0 --> 00:29:49,0
+that his guards should
 
 35
-00:01:18,172 --> 00:01:21,372
- cause thou shalt be put to death unless thou wilt
+00:29:49,0 --> 00:29:49,0
+surround Abinadi and take
 
 36
-00:01:21,372 --> 00:01:24,572
- recall all the words which thou hast spoken evil
+00:29:49,0 --> 00:29:49,0
+him; and they bound him
 
 37
-00:01:24,572 --> 00:01:27,772
- concerning me and my people
+00:29:49,0 --> 00:37:46,
+and cast him into prison.
 
 38
-00:01:27,721 --> 00:01:30,921
-9 Now Abinadi said unto him: I say unto you, I
+00:37:46,0 --> 00:37:46,0
+6 And after three
 
 39
-00:01:30,921 --> 00:01:34,121
- will not recall the words which I have spoken unto
+00:37:46,0 --> 00:37:46,0
+days, having counseled
 
 40
-00:01:34,121 --> 00:01:37,321
- you concerning this people, for they are true; and
+00:37:46,0 --> 00:37:46,0
+with his priests, he
 
 41
-00:01:37,321 --> 00:01:40,521
- that ye may know of their surety I have suffered
+00:37:46,0 --> 00:37:46,0
+caused that he should
 
 42
-00:01:40,521 --> 00:01:43,721
- myself that I have fallen into your hands
+00:37:46,0 --> 00:41:30,
+again be brought before him.
 
 43
-00:01:43,67 --> 00:01:45,27
-10 Yea, and I will suffer even until death, and I
+00:41:30,0 --> 00:41:30,0
+7 And he said unto
 
 44
-00:01:45,27 --> 00:01:46,87
- will not recall my words, and they shall stand as
+00:41:30,0 --> 00:41:30,0
+him: Abinadi, we have
 
 45
-00:01:46,87 --> 00:01:48,47
- a testimony against you. And if ye slay me ye will
+00:41:30,0 --> 00:41:30,0
+found an accusation
 
 46
-00:01:48,47 --> 00:01:50,07
- shed innocent blood, and this shall also stand as
+00:41:30,0 --> 00:41:30,0
+against thee, and
 
 47
-00:01:50,07 --> 00:01:51,67
- a testimony against you at the last day
+00:41:30,0 --> 00:41:02,
+thou art worthy of death.
 
 48
-00:01:51,645 --> 00:01:59,645
-11 And now king Noah was about to release him, for
+00:41:02,0 --> 00:41:02,0
+8 For thou hast
 
 49
-00:01:59,645 --> 00:02:07,645
- he feared his word; for he feared that the
+00:41:02,0 --> 00:41:02,0
+said that God
 
 50
-00:02:07,645 --> 00:02:15,645
- judgments of God would come upon him
+00:41:02,0 --> 00:41:02,0
+himself should come down
 
 51
-00:02:15,569 --> 00:02:17,169
-12 But the priests lifted up their voices against
+00:41:02,0 --> 00:41:02,0
+among the
 
 52
-00:02:17,169 --> 00:02:18,769
- him, and began to accuse him, saying: He has
+00:41:02,0 --> 00:41:02,0
+children of men; and now,
 
 53
-00:02:18,769 --> 00:02:20,369
- reviled the king. Therefore the king was stirred up in
+00:41:02,0 --> 00:41:02,0
+for this cause
 
 54
-00:02:20,369 --> 00:02:21,969
- anger against him, and he delivered him up that he
+00:41:02,0 --> 00:41:02,0
+thou shalt be put to
 
 55
-00:02:21,969 --> 00:02:23,569
- might be slain
+00:41:02,0 --> 00:41:02,0
+death unless thou
 
 56
-00:02:23,543 --> 00:02:31,543
-13 And it came to pass that they took him and
+00:41:02,0 --> 00:41:02,0
+wilt recall all
 
 57
-00:02:31,543 --> 00:02:39,543
- bound him, and scourged his skin with faggots, yea,
+00:41:02,0 --> 00:41:02,0
+the words which
 
 58
-00:02:39,543 --> 00:02:47,543
- even unto death
+00:41:02,0 --> 00:41:02,0
+thou hast spoken evil
 
 59
-00:02:47,467 --> 00:02:59,467
-14 And now when the flames began to scorch him, he
+00:41:02,0 --> 00:40:48,
+concerning me and my people.
 
 60
-00:02:59,467 --> 00:03:11,467
- cried unto them, saying
+00:40:48,0 --> 00:40:48,0
+9 Now Abinadi
 
 61
-00:03:11,391 --> 00:03:12,991
-15 Behold, even as ye have done unto me, so shall
+00:40:48,0 --> 00:40:48,0
+said unto him: I say
 
 62
-00:03:12,991 --> 00:03:14,591
- it come to pass that thy seed shall cause that
+00:40:48,0 --> 00:40:48,0
+unto you, I will
 
 63
-00:03:14,591 --> 00:03:16,191
- many shall suffer the pains that I do suffer, even
+00:40:48,0 --> 00:40:48,0
+not recall the
 
 64
-00:03:16,191 --> 00:03:17,791
- the pains of death by fire; and this because they
+00:40:48,0 --> 00:40:48,0
+words which I have
 
 65
-00:03:17,791 --> 00:03:19,391
- believe in the salvation of the Lord their God
+00:40:48,0 --> 00:40:48,0
+spoken unto you
 
 66
-00:03:19,366 --> 00:03:24,699
-16 And it will come to pass that ye shall be
+00:40:48,0 --> 00:40:48,0
+concerning this
 
 67
-00:03:24,699 --> 00:03:30,032
- afflicted with all manner of diseases because of your
+00:40:48,0 --> 00:40:48,0
+people, for they
 
 68
-00:03:30,032 --> 00:03:35,365
- iniquities
+00:40:48,0 --> 00:40:48,0
+are true; and that
 
 69
-00:03:35,315 --> 00:03:37,315
-17 Yea, and ye shall be smitten on every hand, and
+00:40:48,0 --> 00:40:48,0
+ye may know of
 
 70
-00:03:37,315 --> 00:03:39,315
- shall be driven and scattered to and fro, even as
+00:40:48,0 --> 00:40:48,0
+their surety I
 
 71
-00:03:39,315 --> 00:03:41,315
- a wild flock is driven by wild and ferocious
+00:40:48,0 --> 00:40:48,0
+have suffered myself
 
 72
-00:03:41,315 --> 00:03:43,315
- beasts
+00:40:48,0 --> 00:40:48,0
+that I have
 
 73
-00:03:43,29 --> 00:03:45,29
-18 And in that day ye shall be hunted, and ye
+00:40:48,0 --> 00:40:20,
+fallen into your hands.
 
 74
-00:03:45,29 --> 00:03:47,29
- shall be taken by the hand of your enemies, and then
+00:40:20,0 --> 00:40:20,0
+10 Yea, and I
 
 75
-00:03:47,29 --> 00:03:49,29
- ye shall suffer, as I suffer, the pains of death by
+00:40:20,0 --> 00:40:20,0
+will suffer even
 
 76
-00:03:49,29 --> 00:03:51,29
- fire
+00:40:20,0 --> 00:40:20,0
+until death, and
 
 77
-00:03:51,264 --> 00:03:55,264
-19 Thus God executeth vengeance upon those that
+00:40:20,0 --> 00:40:20,0
+I will not
 
 78
-00:03:55,264 --> 00:03:59,264
- destroy his people. O God, receive my soul
+00:40:20,0 --> 00:40:20,0
+recall my words, and
 
 79
-00:03:59,239 --> 00:03:59,239
-20 And now, when Abinadi had said these words, he
+00:40:20,0 --> 00:40:20,0
+they shall stand
 
 80
-00:03:59,239 --> 00:03:59,239
- fell, having suffered death by fire; yea, having
+00:40:20,0 --> 00:40:20,0
+as a testimony
 
 81
-00:03:59,239 --> 00:03:59,239
- been put to death because he would not deny the
+00:40:20,0 --> 00:40:20,0
+against you. And
 
 82
-00:03:59,239 --> 00:03:59,239
- commandments of God, having sealed the truth of his
+00:40:20,0 --> 00:40:20,0
+if ye slay me
 
 83
-00:03:59,239 --> 00:03:59,239
- words by his death.
+00:40:20,0 --> 00:40:20,0
+ye will shed
+
+84
+00:40:20,0 --> 00:40:20,0
+innocent blood, and
+
+85
+00:40:20,0 --> 00:40:20,0
+this shall also
+
+86
+00:40:20,0 --> 00:40:20,0
+stand as a
+
+87
+00:40:20,0 --> 00:40:20,0
+testimony against you
+
+88
+00:40:20,0 --> 00:42:48,
+at the last day.
+
+89
+00:42:48,0 --> 00:42:48,0
+11 And now
+
+90
+00:42:48,0 --> 00:42:48,0
+king Noah was
+
+91
+00:42:48,0 --> 00:42:48,0
+about to release
+
+92
+00:42:48,0 --> 00:42:48,0
+him, for he
+
+93
+00:42:48,0 --> 00:42:48,0
+feared his word;
+
+94
+00:42:48,0 --> 00:42:48,0
+for he feared
+
+95
+00:42:48,0 --> 00:42:48,0
+that the
+
+96
+00:42:48,0 --> 00:42:48,0
+judgments of God
+
+97
+00:42:48,0 --> 00:46:47,
+would come upon him.
+
+98
+00:46:47,0 --> 00:46:47,0
+12 But the
+
+99
+00:46:47,0 --> 00:46:47,0
+priests lifted
+
+100
+00:46:47,0 --> 00:46:47,0
+up their
+
+101
+00:46:47,0 --> 00:46:47,0
+voices against
+
+102
+00:46:47,0 --> 00:46:47,0
+him, and began
+
+103
+00:46:47,0 --> 00:46:47,0
+to accuse
+
+104
+00:46:47,0 --> 00:46:47,0
+him, saying: He
+
+105
+00:46:47,0 --> 00:46:47,0
+has reviled
+
+106
+00:46:47,0 --> 00:46:47,0
+the king.
+
+107
+00:46:47,0 --> 00:46:47,0
+Therefore the
+
+108
+00:46:47,0 --> 00:46:47,0
+king was stirred
+
+109
+00:46:47,0 --> 00:46:47,0
+up in anger
+
+110
+00:46:47,0 --> 00:46:47,0
+against him,
+
+111
+00:46:47,0 --> 00:46:47,0
+and he
+
+112
+00:46:47,0 --> 00:46:47,0
+delivered him up
+
+113
+00:46:47,0 --> 00:51:58,
+that he might be slain.
+
+114
+00:51:58,0 --> 00:51:58,0
+13 And it
+
+115
+00:51:58,0 --> 00:51:58,0
+came to pass
+
+116
+00:51:58,0 --> 00:51:58,0
+that they
+
+117
+00:51:58,0 --> 00:51:58,0
+took him and
+
+118
+00:51:58,0 --> 00:51:58,0
+bound him, and
+
+119
+00:51:58,0 --> 00:51:58,0
+scourged
+
+120
+00:51:58,0 --> 00:51:58,0
+his skin with
+
+121
+00:51:58,0 --> 00:51:58,0
+faggots,
+
+122
+00:51:58,0 --> 01:00:53,
+yea, even unto death.
+
+123
+01:00:53,0 --> 01:00:53,0
+14 And now
+
+124
+01:00:53,0 --> 01:00:53,0
+when the
+
+125
+01:00:53,0 --> 01:00:53,0
+flames
+
+126
+01:00:53,0 --> 01:00:53,0
+began to
+
+127
+01:00:53,0 --> 01:00:53,0
+scorch him, he
+
+128
+01:00:53,0 --> 01:00:53,0
+cried
+
+129
+01:00:53,0 --> 01:10:02,
+unto them, saying:
+
+130
+01:10:02,0 --> 01:10:02,0
+15
+
+131
+01:10:02,0 --> 01:10:02,0
+Behold, even as
+
+132
+01:10:02,0 --> 01:10:02,0
+ye have
+
+133
+01:10:02,0 --> 01:10:02,0
+done unto
+
+134
+01:10:02,0 --> 01:10:02,0
+me, so
+
+135
+01:10:02,0 --> 01:10:02,0
+shall it
+
+136
+01:10:02,0 --> 01:10:02,0
+come to
+
+137
+01:10:02,0 --> 01:10:02,0
+pass that
+
+138
+01:10:02,0 --> 01:10:02,0
+thy seed
+
+139
+01:10:02,0 --> 01:10:02,0
+shall
+
+140
+01:10:02,0 --> 01:10:02,0
+cause that
+
+141
+01:10:02,0 --> 01:10:02,0
+many shall
+
+142
+01:10:02,0 --> 01:10:02,0
+suffer
+
+143
+01:10:02,0 --> 01:10:02,0
+the pains
+
+144
+01:10:02,0 --> 01:10:02,0
+that I do
+
+145
+01:10:02,0 --> 01:10:02,0
+suffer,
+
+146
+01:10:02,0 --> 01:10:02,0
+even the
+
+147
+01:10:02,0 --> 01:10:02,0
+pains of
+
+148
+01:10:02,0 --> 01:10:02,0
+death by
+
+149
+01:10:02,0 --> 01:10:02,0
+fire; and
+
+150
+01:10:02,0 --> 01:10:02,0
+this
+
+151
+01:10:02,0 --> 01:10:02,0
+because they
+
+152
+01:10:02,0 --> 01:10:02,0
+believe
+
+153
+01:10:02,0 --> 01:10:02,0
+in the
+
+154
+01:10:02,0 --> 01:13:33,
+salvation of the Lord their God.
+
+155
+01:13:33,0 --> 01:13:33,0
+16 And
+
+156
+01:13:33,0 --> 01:13:33,0
+it will
+
+157
+01:13:33,0 --> 01:13:33,0
+come to
+
+158
+01:13:33,0 --> 01:13:33,0
+pass that
+
+159
+01:13:33,0 --> 01:13:33,0
+ye
+
+160
+01:13:33,0 --> 01:13:33,0
+shall be
+
+161
+01:13:33,0 --> 01:13:33,0
+afflicted
+
+162
+01:13:33,0 --> 01:13:33,0
+with all
+
+163
+01:13:33,0 --> 01:13:33,0
+manner
+
+164
+01:13:33,0 --> 01:13:33,0
+of
+
+165
+01:13:33,0 --> 01:13:33,0
+diseases
+
+166
+01:13:33,0 --> 01:13:33,0
+because of
+
+167
+01:13:33,0 --> 01:15:17,
+your iniquities.
+
+168
+01:15:17,0 --> 01:15:17,0
+17 Yea,
+
+169
+01:15:17,0 --> 01:15:17,0
+and ye
+
+170
+01:15:17,0 --> 01:15:17,0
+shall
+
+171
+01:15:17,0 --> 01:15:17,0
+be
+
+172
+01:15:17,0 --> 01:15:17,0
+smitten on
+
+173
+01:15:17,0 --> 01:15:17,0
+every
+
+174
+01:15:17,0 --> 01:15:17,0
+hand,
+
+175
+01:15:17,0 --> 01:15:17,0
+and shall
+
+176
+01:15:17,0 --> 01:15:17,0
+be
+
+177
+01:15:17,0 --> 01:15:17,0
+driven and
+
+178
+01:15:17,0 --> 01:15:17,0
+
+
+179
+01:15:17,0 --> 01:15:17,0
+scattered to
+
+180
+01:15:17,0 --> 01:15:17,0
+and
+
+181
+01:15:17,0 --> 01:15:17,0
+fro, even
+
+182
+01:15:17,0 --> 01:15:17,0
+as a
+
+183
+01:15:17,0 --> 01:15:17,0
+wild
+
+184
+01:15:17,0 --> 01:15:17,0
+flock is
+
+185
+01:15:17,0 --> 01:15:17,0
+driven by
+
+186
+01:15:17,0 --> 01:15:17,0
+wild
+
+187
+01:15:17,0 --> 01:17:01,
+and ferocious beasts.
+
+188
+01:17:01,0 --> 01:17:01,0
+18 And
+
+189
+01:17:01,0 --> 01:17:01,0
+in
+
+190
+01:17:01,0 --> 01:17:01,0
+that day
+
+191
+01:17:01,0 --> 01:17:01,0
+ye
+
+192
+01:17:01,0 --> 01:17:01,0
+shall be
+
+193
+01:17:01,0 --> 01:17:01,0
+
+
+194
+01:17:01,0 --> 01:17:01,0
+hunted, and
+
+195
+01:17:01,0 --> 01:17:01,0
+ye
+
+196
+01:17:01,0 --> 01:17:01,0
+shall be
+
+197
+01:17:01,0 --> 01:17:01,0
+taken
+
+198
+01:17:01,0 --> 01:17:01,0
+by
+
+199
+01:17:01,0 --> 01:17:01,0
+the hand
+
+200
+01:17:01,0 --> 01:17:01,0
+of
+
+201
+01:17:01,0 --> 01:17:01,0
+your
+
+202
+01:17:01,0 --> 01:17:01,0
+enemies,
+
+203
+01:17:01,0 --> 01:17:01,0
+and
+
+204
+01:17:01,0 --> 01:17:01,0
+then ye
+
+205
+01:17:01,0 --> 01:17:01,0
+shall
+
+206
+01:17:01,0 --> 01:17:01,0
+
+
+207
+01:17:01,0 --> 01:17:01,0
+suffer, as I
+
+208
+01:17:01,0 --> 01:17:01,0
+
+
+209
+01:17:01,0 --> 01:17:01,0
+suffer, the
+
+210
+01:17:01,0 --> 01:20:32,
+pains of death by fire.
+
+211
+01:20:32,0 --> 01:20:32,0
+19
+
+212
+01:20:32,0 --> 01:20:32,0
+Thus
+
+213
+01:20:32,0 --> 01:20:32,0
+God
+
+214
+01:20:32,0 --> 01:20:32,0
+
+
+215
+01:20:32,0 --> 01:20:32,0
+executeth
+
+216
+01:20:32,0 --> 01:20:32,0
+
+
+217
+01:20:32,0 --> 01:20:32,0
+vengeance
+
+218
+01:20:32,0 --> 01:20:32,0
+upon
+
+219
+01:20:32,0 --> 01:20:32,0
+those
+
+220
+01:20:32,0 --> 01:20:32,0
+that
+
+221
+01:20:32,0 --> 01:20:32,0
+destroy
+
+222
+01:20:32,0 --> 01:20:32,0
+his
+
+223
+01:20:32,0 --> 01:20:32,0
+
+
+224
+01:20:32,0 --> 01:20:32,0
+people. O
+
+225
+01:20:32,0 --> 01:20:32,0
+God,
+
+226
+01:20:32,0 --> 01:25:29,
+receive my soul.
+
+227
+01:25:29,0 --> 01:25:29,0
+20
+
+228
+01:25:29,0 --> 01:25:29,0
+And
+
+229
+01:25:29,0 --> 01:25:29,0
+now,
+
+230
+01:25:29,0 --> 01:25:29,0
+when
+
+231
+01:25:29,0 --> 01:25:29,0
+
+
+232
+01:25:29,0 --> 01:25:29,0
+Abinadi
+
+233
+01:25:29,0 --> 01:25:29,0
+had
+
+234
+01:25:29,0 --> 01:25:29,0
+
+
+235
+01:25:29,0 --> 01:25:29,0
+said
+
+236
+01:25:29,0 --> 01:25:29,0
+these
+
+237
+01:25:29,0 --> 01:25:29,0
+
+
+238
+01:25:29,0 --> 01:25:29,0
+words,
+
+239
+01:25:29,0 --> 01:25:29,0
+he
+
+240
+01:25:29,0 --> 01:25:29,0
+fell,
+
+241
+01:25:29,0 --> 01:25:29,0
+
+
+242
+01:25:29,0 --> 01:25:29,0
+having
+
+243
+01:25:29,0 --> 01:25:29,0
+
+
+244
+01:25:29,0 --> 01:25:29,0
+suffered
+
+245
+01:25:29,0 --> 01:25:29,0
+
+
+246
+01:25:29,0 --> 01:25:29,0
+death by
+
+247
+01:25:29,0 --> 01:25:29,0
+
+
+248
+01:25:29,0 --> 01:25:29,0
+fire;
+
+249
+01:25:29,0 --> 01:25:29,0
+yea,
+
+250
+01:25:29,0 --> 01:25:29,0
+
+
+251
+01:25:29,0 --> 01:25:29,0
+having
+
+252
+01:25:29,0 --> 01:25:29,0
+been
+
+253
+01:25:29,0 --> 01:25:29,0
+put
+
+254
+01:25:29,0 --> 01:25:29,0
+to
+
+255
+01:25:29,0 --> 01:25:29,0
+death
+
+256
+01:25:29,0 --> 01:25:29,0
+
+
+257
+01:25:29,0 --> 01:25:29,0
+because
+
+258
+01:25:29,0 --> 01:25:29,0
+he
+
+259
+01:25:29,0 --> 01:25:29,0
+
+
+260
+01:25:29,0 --> 01:25:29,0
+would
+
+261
+01:25:29,0 --> 01:25:29,0
+not
+
+262
+01:25:29,0 --> 01:25:29,0
+deny
+
+263
+01:25:29,0 --> 01:25:29,0
+the
+
+264
+01:25:29,0 --> 01:25:29,0
+
+
+265
+01:25:29,0 --> 01:25:29,0
+
+
+266
+01:25:29,0 --> 01:25:29,0
+commandments
+
+267
+01:25:29,0 --> 01:25:29,0
+of
+
+268
+01:25:29,0 --> 01:25:29,0
+God,
+
+269
+01:25:29,0 --> 01:25:29,0
+
+
+270
+01:25:29,0 --> 01:27:13,
+having sealed the truth of his words by his death. 
 

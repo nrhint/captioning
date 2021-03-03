@@ -1,140 +1,364 @@
 1
-00:00:00,0 --> 00:00:08,25
-Chapter 6 Repentant persons are baptized and
+00:00:00,0 --> 00:00:00,0
+Chapter 6 Repentant persons are baptized
 
 2
-00:00:08,25 --> 00:00:16,5
- fellowshipped—Church members who repent are
+00:00:00,0 --> 00:00:00,0
+and fellowshipped—Church members who repent
 
 3
-00:00:16,5 --> 00:00:24,75
- forgiven—Meetings are conducted by the power of the Holy
+00:00:00,0 --> 00:00:00,0
+are forgiven—Meetings are conducted by the
 
 4
-00:00:24,75 --> 00:00:33,0
- Ghost. About A.D. 401–21.
+00:00:00,0 --> 00:04:13,
+power of the Holy Ghost. About A.D. 401–21. 
 
 5
-00:00:33,7 --> 00:00:39,95
-1 And now I speak concerning baptism. Behold,
+00:04:13,0 --> 00:04:13,0
+1 And now I speak concerning
 
 6
-00:00:39,95 --> 00:00:46,2
- elders, priests, and teachers were baptized; and they
+00:04:13,0 --> 00:04:13,0
+baptism. Behold, elders, priests, and
 
 7
-00:00:46,2 --> 00:00:52,45
- were not baptized save they brought forth fruit
+00:04:13,0 --> 00:04:13,0
+teachers were baptized; and they were not
 
 8
-00:00:52,45 --> 00:00:58,7
- meet that they were worthy of it
+00:04:13,0 --> 00:04:13,0
+baptized save they brought forth
 
 9
-00:00:58,959 --> 00:01:04,959
-2 Neither did they receive any unto baptism save
+00:04:13,0 --> 00:04:27,
+fruit meet that they were worthy of it.
 
 10
-00:01:04,959 --> 00:01:10,959
- they came forth with a broken heart and a contrite
+00:04:27,0 --> 00:04:27,0
+2 Neither did they receive any
 
 11
-00:01:10,959 --> 00:01:16,959
- spirit, and witnessed unto the church that they
+00:04:27,0 --> 00:04:27,0
+unto baptism save they came
 
 12
-00:01:16,959 --> 00:01:22,959
- truly repented of all their sins
+00:04:27,0 --> 00:04:27,0
+forth with a broken heart and a
 
 13
-00:01:22,115 --> 00:01:28,115
-3 And none were received unto baptism save they
+00:04:27,0 --> 00:04:27,0
+contrite spirit, and
 
 14
-00:01:28,115 --> 00:01:34,115
- took upon them the name of Christ, having a
+00:04:27,0 --> 00:04:27,0
+witnessed unto the church that they
 
 15
-00:01:34,115 --> 00:01:40,115
- determination to serve him to the end
+00:04:27,0 --> 00:09:37,
+truly repented of all their sins.
 
 16
-00:01:40,1 --> 00:01:46,322
-4 And after they had been received unto baptism,
+00:09:37,0 --> 00:09:37,0
+3 And none were received
 
 17
-00:01:46,322 --> 00:01:52,544
- and were wrought upon and cleansed by the power of
+00:09:37,0 --> 00:09:37,0
+unto baptism save they took
 
 18
-00:01:52,544 --> 00:01:58,766
- the Holy Ghost, they were numbered among the
+00:09:37,0 --> 00:09:37,0
+upon them the name of
 
 19
-00:01:58,766 --> 00:02:04,988
- people of the church of Christ; and their names were
+00:09:37,0 --> 00:09:37,0
+Christ, having a
 
 20
-00:02:04,988 --> 00:02:11,21
- taken, that they might be remembered and nourished
+00:09:37,0 --> 00:13:50,
+determination to serve him to the end.
 
 21
-00:02:11,21 --> 00:02:17,432
- by the good word of God, to keep them in the right
+00:13:50,0 --> 00:13:50,0
+4 And after they had
 
 22
-00:02:17,432 --> 00:02:23,654
- way, to keep them continually watchful unto
+00:13:50,0 --> 00:13:50,0
+been received unto baptism,
 
 23
-00:02:23,654 --> 00:02:29,876
- prayer, relying alone upon the merits of Christ, who was
+00:13:50,0 --> 00:13:50,0
+and were wrought upon
 
 24
-00:02:29,876 --> 00:02:36,098
- the author and the finisher of their faith
+00:13:50,0 --> 00:13:50,0
+and cleansed by the power
 
 25
-00:02:36,523 --> 00:02:43,523
-5 And the church did meet together oft, to fast
+00:13:50,0 --> 00:13:50,0
+of the Holy Ghost, they
 
 26
-00:02:43,523 --> 00:02:50,523
- and to pray, and to speak one with another
+00:13:50,0 --> 00:13:50,0
+were numbered among the
 
 27
-00:02:50,523 --> 00:02:57,523
- concerning the welfare of their souls
+00:13:50,0 --> 00:13:50,0
+people of the church of
 
 28
-00:02:57,244 --> 00:03:01,744
-6 And they did meet together oft to partake of
+00:13:50,0 --> 00:13:50,0
+Christ; and their names
 
 29
-00:03:01,744 --> 00:03:06,244
- bread and wine, in remembrance of the Lord Jesus
+00:13:50,0 --> 00:13:50,0
+were taken, that they
 
 30
-00:00:39,873 --> 00:00:40,706
-9 And their meetings were conducted by the church
+00:13:50,0 --> 00:13:50,0
+might be remembered and
 
 31
-00:00:40,706 --> 00:00:41,539
- after the manner of the workings of the Spirit,
+00:13:50,0 --> 00:13:50,0
+nourished by the good
 
 32
-00:00:41,539 --> 00:00:42,372
- and by the power of the Holy Ghost; for as the power
+00:13:50,0 --> 00:13:50,0
+word of God, to keep them
 
 33
-00:00:42,372 --> 00:00:43,205
- of the Holy Ghost led them whether to preach, or
+00:13:50,0 --> 00:13:50,0
+in the right way, to keep
 
 34
-00:00:43,205 --> 00:00:44,038
- to exhort, or to pray, or to supplicate, or to
+00:13:50,0 --> 00:13:50,0
+them continually
 
 35
-00:00:44,038 --> 00:00:44,871
- sing, even so it was done.
+00:13:50,0 --> 00:13:50,0
+watchful unto prayer, relying
+
+36
+00:13:50,0 --> 00:13:50,0
+alone upon the merits of
+
+37
+00:13:50,0 --> 00:13:50,0
+Christ, who was the
+
+38
+00:13:50,0 --> 00:13:50,
+author and the finisher of their faith.
+
+39
+00:13:50,0 --> 00:13:50,0
+5 And the church did
+
+40
+00:13:50,0 --> 00:13:50,0
+meet together oft, to
+
+41
+00:13:50,0 --> 00:13:50,0
+fast and to pray,
+
+42
+00:13:50,0 --> 00:13:50,0
+and to speak one with
+
+43
+00:13:50,0 --> 00:13:50,0
+another concerning the
+
+44
+00:13:50,0 --> 00:13:50,
+welfare of their souls.
+
+45
+00:13:50,0 --> 00:13:50,0
+6 And they did meet
+
+46
+00:13:50,0 --> 00:13:50,0
+together oft to
+
+47
+00:13:50,0 --> 00:13:50,0
+partake of bread and
+
+48
+00:13:50,0 --> 00:13:50,0
+wine, in
+
+49
+00:13:50,0 --> 00:13:50,
+remembrance of the Lord Jesus.
+
+50
+00:13:50,0 --> 00:13:50,0
+7 And they were
+
+51
+00:13:50,0 --> 00:13:50,0
+strict to observe
+
+52
+00:13:50,0 --> 00:13:50,0
+that there should be
+
+53
+00:13:50,0 --> 00:13:50,0
+no iniquity among
+
+54
+00:13:50,0 --> 00:13:50,0
+them; and whoso
+
+55
+00:13:50,0 --> 00:13:50,0
+was found to commit
+
+56
+00:13:50,0 --> 00:13:50,0
+iniquity, and
+
+57
+00:13:50,0 --> 00:13:50,0
+three witnesses of
+
+58
+00:13:50,0 --> 00:13:50,0
+the church did
+
+59
+00:13:50,0 --> 00:13:50,0
+condemn them before the
+
+60
+00:13:50,0 --> 00:13:50,0
+elders, and if
+
+61
+00:13:50,0 --> 00:13:50,0
+they repented not,
+
+62
+00:13:50,0 --> 00:13:50,0
+and confessed not,
+
+63
+00:13:50,0 --> 00:13:50,0
+their names were
+
+64
+00:13:50,0 --> 00:13:50,0
+blotted out, and
+
+65
+00:13:50,0 --> 00:13:50,0
+they were not
+
+66
+00:13:50,0 --> 00:13:50,
+numbered among the people of Christ.
+
+67
+00:13:50,0 --> 00:13:50,0
+8 But as oft as
+
+68
+00:13:50,0 --> 00:13:50,0
+they repented
+
+69
+00:13:50,0 --> 00:13:50,0
+and sought
+
+70
+00:13:50,0 --> 00:13:50,0
+forgiveness, with
+
+71
+00:13:50,0 --> 00:13:50,0
+real intent,
+
+72
+00:13:50,0 --> 00:13:50,
+they were forgiven.
+
+73
+00:13:50,0 --> 00:13:50,0
+9 And their
+
+74
+00:13:50,0 --> 00:13:50,0
+meetings were
+
+75
+00:13:50,0 --> 00:13:50,0
+conducted by the
+
+76
+00:13:50,0 --> 00:13:50,0
+church after
+
+77
+00:13:50,0 --> 00:13:50,0
+the manner of
+
+78
+00:13:50,0 --> 00:13:50,0
+the workings
+
+79
+00:13:50,0 --> 00:13:50,0
+of the Spirit,
+
+80
+00:13:50,0 --> 00:13:50,0
+and by the
+
+81
+00:13:50,0 --> 00:13:50,0
+power of the Holy
+
+82
+00:13:50,0 --> 00:13:50,0
+Ghost; for as
+
+83
+00:13:50,0 --> 00:13:50,0
+the power of
+
+84
+00:13:50,0 --> 00:13:50,0
+the Holy Ghost
+
+85
+00:13:50,0 --> 00:13:50,0
+led them
+
+86
+00:13:50,0 --> 00:13:50,0
+whether to preach,
+
+87
+00:13:50,0 --> 00:13:50,0
+or to exhort,
+
+88
+00:13:50,0 --> 00:13:50,0
+or to pray,
+
+89
+00:13:50,0 --> 00:13:50,0
+or to
+
+90
+00:13:50,0 --> 00:13:50,0
+supplicate, or to sing,
+
+91
+00:13:50,0 --> 00:13:50,
+even so it was done. 
 

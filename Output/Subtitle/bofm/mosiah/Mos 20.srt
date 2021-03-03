@@ -1,488 +1,2056 @@
 1
-00:00:00,0 --> 00:00:01,75
-Chapter 20 Some Lamanite daughters are abducted by
+00:00:00,0 --> 00:00:00,0
+Chapter 20 Some Lamanite daughters are
 
 2
-00:00:01,75 --> 00:00:03,5
- the priests of Noah—The Lamanites wage war upon
+00:00:00,0 --> 00:00:00,0
+abducted by the priests of Noah—The Lamanites wage
 
 3
-00:00:03,5 --> 00:00:05,25
- Limhi and his people—The Lamanite hosts are
+00:00:00,0 --> 00:00:00,0
+war upon Limhi and his people—The Lamanite hosts
 
 4
-00:00:05,25 --> 00:00:07,0
- repulsed and pacified. About 145–123 B.C.
+00:00:00,0 --> 00:04:29,
+are repulsed and pacified. About 145–123 B.C. 
 
 5
-00:00:07,975 --> 00:00:09,975
-1 Now there was a place in Shemlon where the
+00:04:29,0 --> 00:04:29,0
+1 Now there was a place in Shemlon
 
 6
-00:00:09,975 --> 00:00:11,975
- daughters of the Lamanites did gather themselves
+00:04:29,0 --> 00:04:29,0
+where the daughters of the Lamanites did
 
 7
-00:00:11,975 --> 00:00:13,975
- together to sing, and to dance, and to make themselves
+00:04:29,0 --> 00:04:29,0
+gather themselves together to sing,
 
 8
-00:00:13,975 --> 00:00:15,975
- merry
+00:04:29,0 --> 00:10:11,
+and to dance, and to make themselves merry.
 
 9
-00:00:15,949 --> 00:00:18,616
-2 And it came to pass that there was one day a
+00:10:11,0 --> 00:10:11,0
+2 And it came to pass that there
 
 10
-00:00:18,616 --> 00:00:21,283
- small number of them gathered together to sing and to
+00:10:11,0 --> 00:10:11,0
+was one day a small number of them
 
 11
-00:00:21,283 --> 00:00:23,95
- dance
+00:10:11,0 --> 00:10:11,
+gathered together to sing and to dance.
 
 12
-00:00:23,924 --> 00:00:25,524
-3 And now the priests of king Noah, being ashamed
+00:10:11,0 --> 00:10:11,0
+3 And now the priests of king
 
 13
-00:00:25,524 --> 00:00:27,124
- to return to the city of Nephi, yea, and also
+00:10:11,0 --> 00:10:11,0
+Noah, being ashamed to return to the
 
 14
-00:00:27,124 --> 00:00:28,724
- fearing that the people would slay them, therefore
+00:10:11,0 --> 00:10:11,0
+city of Nephi, yea, and also
 
 15
-00:00:28,724 --> 00:00:30,324
- they durst not return to their wives and their
+00:10:11,0 --> 00:10:11,0
+fearing that the people would slay
 
 16
-00:00:30,324 --> 00:00:31,924
- children
+00:10:11,0 --> 00:10:11,0
+them, therefore they durst not
 
 17
-00:00:31,899 --> 00:00:37,232
-4 And having tarried in the wilderness, and having
+00:10:11,0 --> 00:10:11,
+return to their wives and their children.
 
 18
-00:00:37,232 --> 00:00:42,565
- discovered the daughters of the Lamanites, they
+00:10:11,0 --> 00:10:11,0
+4 And having tarried in the
 
 19
-00:00:42,565 --> 00:00:47,898
- laid and watched them
+00:10:11,0 --> 00:10:11,0
+wilderness, and having
 
 20
-00:00:47,848 --> 00:00:49,448
-5 And when there were but few of them gathered
+00:10:11,0 --> 00:10:11,0
+discovered the daughters of the
 
 21
-00:00:49,448 --> 00:00:51,048
- together to dance, they came forth out of their
+00:10:11,0 --> 00:10:11,
+Lamanites, they laid and watched them;
 
 22
-00:00:51,048 --> 00:00:52,648
- secret places and took them and carried them into the
+00:10:11,0 --> 00:10:11,0
+5 And when there were but
 
 23
-00:00:52,648 --> 00:00:54,248
- wilderness; yea, twenty and four of the daughters
+00:10:11,0 --> 00:10:11,0
+few of them gathered
 
 24
-00:00:54,248 --> 00:00:55,848
- of the Lamanites they carried into the wilderness
+00:10:11,0 --> 00:10:11,0
+together to dance, they came forth
 
 25
-00:00:55,822 --> 00:00:57,822
-6 And it came to pass that when the Lamanites
+00:10:11,0 --> 00:10:11,0
+out of their secret places
 
 26
-00:00:57,822 --> 00:00:59,822
- found that their daughters had been missing, they were
+00:10:11,0 --> 00:10:11,0
+and took them and carried
 
 27
-00:00:59,822 --> 00:01:01,822
- angry with the people of Limhi, for they thought
+00:10:11,0 --> 00:10:11,0
+them into the wilderness;
 
 28
-00:01:01,822 --> 00:01:03,822
- it was the people of Limhi
+00:10:11,0 --> 00:10:11,0
+yea, twenty and four of the
 
 29
-00:01:03,797 --> 00:01:05,797
-7 Therefore they sent their armies forth; yea,
+00:10:11,0 --> 00:10:11,0
+daughters of the Lamanites
 
 30
-00:01:05,797 --> 00:01:07,797
- even the king himself went before his people; and
+00:10:11,0 --> 00:10:11,
+they carried into the wilderness.
 
 31
-00:01:07,797 --> 00:01:09,797
- they went up to the land of Nephi to destroy the
+00:10:11,0 --> 00:10:11,0
+6 And it came to pass
 
 32
-00:01:09,797 --> 00:01:11,797
- people of Limhi
+00:10:11,0 --> 00:10:11,0
+that when the Lamanites
 
 33
-00:01:11,772 --> 00:01:13,372
-8 And now Limhi had discovered them from the
+00:10:11,0 --> 00:10:11,0
+found that their daughters
 
 34
-00:01:13,372 --> 00:01:14,972
- tower, even all their preparations for war did he
+00:10:11,0 --> 00:10:11,0
+had been missing, they were
 
 35
-00:01:14,972 --> 00:01:16,572
- discover; therefore he gathered his people together,
+00:10:11,0 --> 00:10:11,0
+angry with the people of
 
 36
-00:01:16,572 --> 00:01:18,172
- and laid wait for them in the fields and in the
+00:10:11,0 --> 00:10:11,0
+Limhi, for they thought
 
 37
-00:01:18,172 --> 00:01:19,772
- forests
+00:10:11,0 --> 00:10:11,
+it was the people of Limhi.
 
 38
-00:01:19,746 --> 00:01:21,746
-9 And it came to pass that when the Lamanites had
+00:10:11,0 --> 00:10:11,0
+7 Therefore they sent
 
 39
-00:01:21,746 --> 00:01:23,746
- come up, that the people of Limhi began to fall
+00:10:11,0 --> 00:10:11,0
+their armies forth; yea,
 
 40
-00:01:23,746 --> 00:01:25,746
- upon them from their waiting places, and began to
+00:10:11,0 --> 00:10:11,0
+even the king himself
 
 41
-00:01:25,746 --> 00:01:27,746
- slay them
+00:10:11,0 --> 00:10:11,0
+went before his people;
 
 42
-00:01:27,721 --> 00:01:30,388
-10 And it came to pass that the battle became
+00:10:11,0 --> 00:10:11,0
+and they went up to
 
 43
-00:01:30,388 --> 00:01:33,055
- exceedingly sore, for they fought like lions for their
+00:10:11,0 --> 00:10:11,0
+the land of Nephi to
 
 44
-00:01:33,055 --> 00:01:35,722
- prey
+00:10:11,0 --> 00:10:11,
+destroy the people of Limhi.
 
 45
-00:01:35,696 --> 00:01:37,029
-11 And it came to pass that the people of Limhi
+00:10:11,0 --> 00:10:11,0
+8 And now Limhi had
 
 46
-00:01:37,029 --> 00:01:38,362
- began to drive the Lamanites before them; yet they
+00:10:11,0 --> 00:10:11,0
+discovered them from the
 
 47
-00:01:38,362 --> 00:01:39,695
- were not half so numerous as the Lamanites. But
+00:10:11,0 --> 00:10:11,0
+tower, even all their
 
 48
-00:01:39,695 --> 00:01:41,028
- they fought for their lives, and for their wives, and
+00:10:11,0 --> 00:10:11,0
+preparations for war
 
 49
-00:01:41,028 --> 00:01:42,361
- for their children; therefore they exerted
+00:10:11,0 --> 00:10:11,0
+did he discover;
 
 50
-00:01:42,361 --> 00:01:43,694
- themselves and like dragons did they fight
+00:10:11,0 --> 00:10:11,0
+therefore he gathered his
 
 51
-00:01:43,67 --> 00:01:45,27
-12 And it came to pass that they found the king of
+00:10:11,0 --> 00:10:11,0
+people together, and
 
 52
-00:01:45,27 --> 00:01:46,87
- the Lamanites among the number of their dead; yet
+00:10:11,0 --> 00:10:11,0
+laid wait for them in
 
 53
-00:01:46,87 --> 00:01:48,47
- he was not dead, having been wounded and left
+00:10:11,0 --> 00:10:11,
+the fields and in the forests.
 
 54
-00:01:48,47 --> 00:01:50,07
- upon the ground, so speedy was the flight of his
+00:10:11,0 --> 00:10:11,0
+9 And it came to
 
 55
-00:01:50,07 --> 00:01:51,67
- people
+00:10:11,0 --> 00:10:11,0
+pass that when the
 
 56
-00:01:51,645 --> 00:01:52,978
-13 And they took him and bound up his wounds, and
+00:10:11,0 --> 00:10:11,0
+Lamanites had come
 
 57
-00:01:52,978 --> 00:01:54,311
- brought him before Limhi, and said: Behold, here
+00:10:11,0 --> 00:10:11,0
+up, that the people
 
 58
-00:01:54,311 --> 00:01:55,644
- is the king of the Lamanites; he having received a
+00:10:11,0 --> 00:10:11,0
+of Limhi began to
 
 59
-00:01:55,644 --> 00:01:56,977
- wound has fallen among their dead, and they have
+00:10:11,0 --> 00:10:11,0
+fall upon them from
 
 60
-00:01:56,977 --> 00:01:58,31
- left him; and behold, we have brought him before
+00:10:11,0 --> 00:10:11,0
+their waiting
 
 61
-00:01:58,31 --> 00:01:59,643
- you; and now let us slay him
+00:10:11,0 --> 00:10:11,
+places, and began to slay them.
 
 62
-00:01:59,62 --> 00:02:00,763
-14 But Limhi said unto them: Ye shall not slay
+00:10:11,0 --> 00:10:11,0
+10 And it came to
 
 63
-00:02:00,763 --> 00:02:01,906
- him, but bring him hither that I may see him. And
+00:10:11,0 --> 00:10:11,0
+pass that the
 
 64
-00:02:01,906 --> 00:02:03,049
- they brought him. And Limhi said unto him: What cause
+00:10:11,0 --> 00:10:11,0
+battle became
 
 65
-00:02:03,049 --> 00:02:04,192
- have ye to come up to war against my people?
+00:10:11,0 --> 00:10:11,0
+exceedingly sore, for
 
 66
-00:02:04,192 --> 00:02:05,335
- Behold, my people have not broken the oath that I made
+00:10:11,0 --> 00:10:11,0
+they fought like
 
 67
-00:02:05,335 --> 00:02:06,478
- unto you; therefore, why should ye break the oath
+00:10:11,0 --> 00:10:11,
+lions for their prey.
 
 68
-00:02:06,478 --> 00:02:07,621
- which ye made unto my people
+00:10:11,0 --> 00:10:11,0
+11 And it came
 
 69
-00:02:07,594 --> 00:02:09,594
-15 And now the king said: I have broken the oath
+00:10:11,0 --> 00:10:11,0
+to pass that the
 
 70
-00:02:09,594 --> 00:02:11,594
- because thy people did carry away the daughters of
+00:10:11,0 --> 00:10:11,0
+people of Limhi
 
 71
-00:02:11,594 --> 00:02:13,594
- my people; therefore, in my anger I did cause my
+00:10:11,0 --> 00:10:11,0
+began to drive
 
 72
-00:02:13,594 --> 00:02:15,594
- people to come up to war against thy people
+00:10:11,0 --> 00:10:11,0
+the Lamanites
 
 73
-00:02:15,569 --> 00:02:17,169
-16 And now Limhi had heard nothing concerning this
+00:10:11,0 --> 00:10:11,0
+before them; yet
 
 74
-00:02:17,169 --> 00:02:18,769
- matter; therefore he said: I will search among my
+00:10:11,0 --> 00:10:11,0
+they were not half
 
 75
-00:02:18,769 --> 00:02:20,369
- people and whosoever has done this thing shall
+00:10:11,0 --> 00:10:11,0
+so numerous as
 
 76
-00:02:20,369 --> 00:02:21,969
- perish. Therefore he caused a search to be made
+00:10:11,0 --> 00:10:11,0
+the Lamanites.
 
 77
-00:02:21,969 --> 00:02:23,569
- among his people
+00:10:11,0 --> 00:10:11,0
+But they fought
 
 78
-00:02:23,543 --> 00:02:25,143
-17 Now when Gideon had heard these things, he
+00:10:11,0 --> 00:10:11,0
+for their lives,
 
 79
-00:02:25,143 --> 00:02:26,743
- being the king’s captain, he went forth and said unto
+00:10:11,0 --> 00:10:11,0
+and for their
 
 80
-00:02:26,743 --> 00:02:28,343
- the king: I pray thee forbear, and do not search
+00:10:11,0 --> 00:10:11,0
+wives, and for
 
 81
-00:02:28,343 --> 00:02:29,943
- this people, and lay not this thing to their
+00:10:11,0 --> 00:10:11,0
+their children;
 
 82
-00:02:29,943 --> 00:02:31,543
- charge
+00:10:11,0 --> 00:10:11,0
+therefore they
 
 83
-00:02:31,518 --> 00:02:33,518
-18 For do ye not remember the priests of thy
+00:10:11,0 --> 00:10:11,0
+exerted themselves
 
 84
-00:02:33,518 --> 00:02:35,518
- father, whom this people sought to destroy? And are
+00:10:11,0 --> 00:10:11,
+and like dragons did they fight.
 
 85
-00:02:35,518 --> 00:02:37,518
- they not in the wilderness? And are not they the ones
+00:10:11,0 --> 00:10:11,0
+12 And it came
 
 86
-00:02:37,518 --> 00:02:39,518
- who have stolen the daughters of the Lamanites
+00:10:11,0 --> 00:10:11,0
+to pass that
 
 87
-00:02:39,493 --> 00:02:42,693
-19 And now, behold, and tell the king of these
+00:10:11,0 --> 00:10:11,0
+they found the
 
 88
-00:02:42,693 --> 00:02:45,893
- things, that he may tell his people that they may be
+00:10:11,0 --> 00:10:11,0
+king of the
 
 89
-00:02:45,893 --> 00:02:49,093
- pacified towards us; for behold they are already
+00:10:11,0 --> 00:10:11,0
+Lamanites among the
 
 90
-00:02:49,093 --> 00:02:52,293
- preparing to come against us; and behold also there
+00:10:11,0 --> 00:10:11,0
+number of their
 
 91
-00:02:52,293 --> 00:02:55,493
- are but few of us
+00:10:11,0 --> 00:10:11,0
+dead; yet he
 
 92
-00:02:55,442 --> 00:02:58,109
-20 And behold, they come with their numerous
+00:10:11,0 --> 00:10:11,0
+was not dead,
 
 93
-00:02:58,109 --> 00:03:00,776
- hosts; and except the king doth pacify them towards us
+00:10:11,0 --> 00:10:11,0
+having been
 
 94
-00:03:00,776 --> 00:03:03,443
- we must perish
+00:10:11,0 --> 00:10:11,0
+wounded and left
 
 95
-00:03:03,417 --> 00:03:05,417
-21 For are not the words of Abinadi fulfilled,
+00:10:11,0 --> 00:10:11,0
+upon the ground,
 
 96
-00:03:05,417 --> 00:03:07,417
- which he prophesied against us—and all this because
+00:10:11,0 --> 00:10:11,0
+so speedy was
 
 97
-00:03:07,417 --> 00:03:09,417
- we would not hearken unto the words of the Lord,
+00:10:11,0 --> 00:10:11,
+the flight of his people.
 
 98
-00:03:09,417 --> 00:03:11,417
- and turn from our iniquities
+00:10:11,0 --> 00:10:11,0
+13 And they
 
 99
-00:03:11,391 --> 00:03:12,991
-22 And now let us pacify the king, and we fulfil
+00:10:11,0 --> 00:10:11,0
+took him and
 
 100
-00:03:12,991 --> 00:03:14,591
- the oath which we have made unto him; for it is
+00:10:11,0 --> 00:10:11,0
+bound up his
 
 101
-00:03:14,591 --> 00:03:16,191
- better that we should be in bondage than that we
+00:10:11,0 --> 00:10:11,0
+wounds, and
 
 102
-00:03:16,191 --> 00:03:17,791
- should lose our lives; therefore, let us put a stop to
+00:10:11,0 --> 00:10:11,0
+brought him before
 
 103
-00:03:17,791 --> 00:03:19,391
- the shedding of so much blood
+00:10:11,0 --> 00:10:11,0
+Limhi, and
 
 104
-00:03:19,366 --> 00:03:21,366
-23 And now Limhi told the king all the things
+00:10:11,0 --> 00:10:11,0
+said: Behold, here
 
 105
-00:03:21,366 --> 00:03:23,366
- concerning his father, and the priests that had fled
+00:10:11,0 --> 00:10:11,0
+is the king
 
 106
-00:03:23,366 --> 00:03:25,366
- into the wilderness, and attributed the carrying
+00:10:11,0 --> 00:10:11,0
+of the
 
 107
-00:03:25,366 --> 00:03:27,366
- away of their daughters to them
+00:10:11,0 --> 00:10:11,0
+Lamanites; he having
 
 108
-00:03:27,34 --> 00:03:28,94
-24 And it came to pass that the king was pacified
+00:10:11,0 --> 00:10:11,0
+received a
 
 109
-00:03:28,94 --> 00:03:30,54
- towards his people; and he said unto them: Let us
+00:10:11,0 --> 00:10:11,0
+wound has fallen
 
 110
-00:03:30,54 --> 00:03:32,14
- go forth to meet my people, without arms; and I
+00:10:11,0 --> 00:10:11,0
+among their
 
 111
-00:03:32,14 --> 00:03:33,74
- swear unto you with an oath that my people shall not
+00:10:11,0 --> 00:10:11,0
+dead, and they
 
 112
-00:03:33,74 --> 00:03:35,34
- slay thy people
+00:10:11,0 --> 00:10:11,0
+have left him;
 
 113
-00:03:35,315 --> 00:03:36,648
-25 And it came to pass that they followed the
+00:10:11,0 --> 00:10:11,0
+and behold, we
 
 114
-00:03:36,648 --> 00:03:37,981
- king, and went forth without arms to meet the
+00:10:11,0 --> 00:10:11,0
+have brought
 
 115
-00:03:37,981 --> 00:03:39,314
- Lamanites. And it came to pass that they did meet the
+00:10:11,0 --> 00:10:11,0
+him before you;
 
 116
-00:03:39,314 --> 00:03:40,647
- Lamanites; and the king of the Lamanites did bow
+00:10:11,0 --> 00:10:11,
+and now let us slay him.
 
 117
-00:03:40,647 --> 00:03:41,98
- himself down before them, and did plead in behalf of
+00:10:11,0 --> 00:10:11,0
+14 But Limhi
 
 118
-00:03:41,98 --> 00:03:43,313
- the people of Limhi
+00:10:11,0 --> 00:10:11,0
+said unto
 
 119
-00:03:43,29 --> 00:03:45,29
-26 And when the Lamanites saw the people of Limhi,
+00:10:11,0 --> 00:10:11,0
+them: Ye shall
 
 120
-00:03:45,29 --> 00:03:47,29
- that they were without arms, they had compassion
+00:10:11,0 --> 00:10:11,0
+not slay him,
 
 121
-00:03:47,29 --> 00:03:49,29
- on them and were pacified towards them, and
+00:10:11,0 --> 00:10:11,0
+but bring him
 
 122
-00:03:49,29 --> 00:03:51,29
- returned with their king in peace to their own land.
+00:10:11,0 --> 00:10:11,0
+hither that
+
+123
+00:10:11,0 --> 00:10:11,0
+I may see
+
+124
+00:10:11,0 --> 00:10:11,0
+him. And they
+
+125
+00:10:11,0 --> 00:10:11,0
+brought him.
+
+126
+00:10:11,0 --> 00:10:11,0
+And Limhi said
+
+127
+00:10:11,0 --> 00:10:11,0
+unto him:
+
+128
+00:10:11,0 --> 00:10:11,0
+What cause have
+
+129
+00:10:11,0 --> 00:10:11,0
+ye to come up
+
+130
+00:10:11,0 --> 00:10:11,0
+to war
+
+131
+00:10:11,0 --> 00:10:11,0
+against my people?
+
+132
+00:10:11,0 --> 00:10:11,0
+Behold, my
+
+133
+00:10:11,0 --> 00:10:11,0
+people have
+
+134
+00:10:11,0 --> 00:10:11,0
+not broken the
+
+135
+00:10:11,0 --> 00:10:11,0
+oath that I
+
+136
+00:10:11,0 --> 00:10:11,0
+made unto you;
+
+137
+00:10:11,0 --> 00:10:11,0
+therefore,
+
+138
+00:10:11,0 --> 00:10:11,0
+why should ye
+
+139
+00:10:11,0 --> 00:10:11,0
+break the
+
+140
+00:10:11,0 --> 00:10:11,
+oath which ye made unto my people?
+
+141
+00:10:11,0 --> 00:10:11,0
+15 And now
+
+142
+00:10:11,0 --> 00:10:11,0
+the king
+
+143
+00:10:11,0 --> 00:10:11,0
+said: I have
+
+144
+00:10:11,0 --> 00:10:11,0
+broken the oath
+
+145
+00:10:11,0 --> 00:10:11,0
+because thy
+
+146
+00:10:11,0 --> 00:10:11,0
+people did
+
+147
+00:10:11,0 --> 00:10:11,0
+carry away
+
+148
+00:10:11,0 --> 00:10:11,0
+the daughters
+
+149
+00:10:11,0 --> 00:10:11,0
+of my
+
+150
+00:10:11,0 --> 00:10:11,0
+people;
+
+151
+00:10:11,0 --> 00:10:11,0
+therefore, in my
+
+152
+00:10:11,0 --> 00:10:11,0
+anger I did
+
+153
+00:10:11,0 --> 00:10:11,0
+cause my people
+
+154
+00:10:11,0 --> 00:10:11,0
+to come up
+
+155
+00:10:11,0 --> 00:10:11,
+to war against thy people.
+
+156
+00:10:11,0 --> 00:10:11,0
+16 And now
+
+157
+00:10:11,0 --> 00:10:11,0
+Limhi had
+
+158
+00:10:11,0 --> 00:10:11,0
+heard
+
+159
+00:10:11,0 --> 00:10:11,0
+nothing
+
+160
+00:10:11,0 --> 00:10:11,0
+concerning this
+
+161
+00:10:11,0 --> 00:10:11,0
+matter;
+
+162
+00:10:11,0 --> 00:10:11,0
+therefore he said:
+
+163
+00:10:11,0 --> 00:10:11,0
+I will
+
+164
+00:10:11,0 --> 00:10:11,0
+search among
+
+165
+00:10:11,0 --> 00:10:11,0
+my people
+
+166
+00:10:11,0 --> 00:10:11,0
+and whosoever
+
+167
+00:10:11,0 --> 00:10:11,0
+has done
+
+168
+00:10:11,0 --> 00:10:11,0
+this thing
+
+169
+00:10:11,0 --> 00:10:11,0
+shall
+
+170
+00:10:11,0 --> 00:10:11,0
+perish. Therefore
+
+171
+00:10:11,0 --> 00:10:11,0
+he caused
+
+172
+00:10:11,0 --> 00:10:11,0
+a search to
+
+173
+00:10:11,0 --> 00:10:11,
+be made among his people.
+
+174
+00:10:11,0 --> 00:10:11,0
+17 Now
+
+175
+00:10:11,0 --> 00:10:11,0
+when Gideon
+
+176
+00:10:11,0 --> 00:10:11,0
+had heard
+
+177
+00:10:11,0 --> 00:10:11,0
+these
+
+178
+00:10:11,0 --> 00:10:11,0
+things, he
+
+179
+00:10:11,0 --> 00:10:11,0
+being the
+
+180
+00:10:11,0 --> 00:10:11,0
+king’s
+
+181
+00:10:11,0 --> 00:10:11,0
+captain, he went
+
+182
+00:10:11,0 --> 00:10:11,0
+forth and
+
+183
+00:10:11,0 --> 00:10:11,0
+said unto
+
+184
+00:10:11,0 --> 00:10:11,0
+the king:
+
+185
+00:10:11,0 --> 00:10:11,0
+I pray
+
+186
+00:10:11,0 --> 00:10:11,0
+thee forbear,
+
+187
+00:10:11,0 --> 00:10:11,0
+and do
+
+188
+00:10:11,0 --> 00:10:11,0
+not search
+
+189
+00:10:11,0 --> 00:10:11,0
+this
+
+190
+00:10:11,0 --> 00:10:11,0
+people, and lay
+
+191
+00:10:11,0 --> 00:10:11,0
+not this
+
+192
+00:10:11,0 --> 00:10:11,
+thing to their charge.
+
+193
+00:10:11,0 --> 00:10:11,0
+18 For do
+
+194
+00:10:11,0 --> 00:10:11,0
+ye not
+
+195
+00:10:11,0 --> 00:10:11,0
+remember
+
+196
+00:10:11,0 --> 00:10:11,0
+the
+
+197
+00:10:11,0 --> 00:10:11,0
+priests of thy
+
+198
+00:10:11,0 --> 00:10:11,0
+father,
+
+199
+00:10:11,0 --> 00:10:11,0
+whom this
+
+200
+00:10:11,0 --> 00:10:11,0
+people
+
+201
+00:10:11,0 --> 00:10:11,0
+sought to
+
+202
+00:10:11,0 --> 00:10:11,0
+destroy?
+
+203
+00:10:11,0 --> 00:10:11,0
+And are
+
+204
+00:10:11,0 --> 00:10:11,0
+they not in
+
+205
+00:10:11,0 --> 00:10:11,0
+the
+
+206
+00:10:11,0 --> 00:10:11,0
+wilderness?
+
+207
+00:10:11,0 --> 00:10:11,0
+And are
+
+208
+00:10:11,0 --> 00:10:11,0
+not they
+
+209
+00:10:11,0 --> 00:10:11,0
+the ones
+
+210
+00:10:11,0 --> 00:10:11,0
+who have
+
+211
+00:10:11,0 --> 00:10:11,0
+stolen the
+
+212
+00:10:11,0 --> 00:10:11,
+daughters of the Lamanites?
+
+213
+00:10:11,0 --> 00:10:11,0
+19 And
+
+214
+00:10:11,0 --> 00:10:11,0
+now,
+
+215
+00:10:11,0 --> 00:10:11,0
+behold, and
+
+216
+00:10:11,0 --> 00:10:11,0
+tell the
+
+217
+00:10:11,0 --> 00:10:11,0
+king of
+
+218
+00:10:11,0 --> 00:10:11,0
+these
+
+219
+00:10:11,0 --> 00:10:11,0
+things,
+
+220
+00:10:11,0 --> 00:10:11,0
+that he
+
+221
+00:10:11,0 --> 00:10:11,0
+may tell
+
+222
+00:10:11,0 --> 00:10:11,0
+his
+
+223
+00:10:11,0 --> 00:10:11,0
+people that
+
+224
+00:10:11,0 --> 00:10:11,0
+they may
+
+225
+00:10:11,0 --> 00:10:11,0
+be
+
+226
+00:10:11,0 --> 00:10:11,0
+pacified
+
+227
+00:10:11,0 --> 00:10:11,0
+towards us;
+
+228
+00:10:11,0 --> 00:10:11,0
+for
+
+229
+00:10:11,0 --> 00:10:11,0
+behold they
+
+230
+00:10:11,0 --> 00:10:11,0
+are
+
+231
+00:10:11,0 --> 00:10:11,0
+already
+
+232
+00:10:11,0 --> 00:10:11,0
+preparing
+
+233
+00:10:11,0 --> 00:10:11,0
+to come
+
+234
+00:10:11,0 --> 00:10:11,0
+against
+
+235
+00:10:11,0 --> 00:10:11,0
+us; and
+
+236
+00:10:11,0 --> 00:10:11,0
+behold
+
+237
+00:10:11,0 --> 00:10:11,
+also there are but few of us.
+
+238
+00:10:11,0 --> 00:10:11,0
+20 And
+
+239
+00:10:11,0 --> 00:10:11,0
+behold,
+
+240
+00:10:11,0 --> 00:10:11,0
+they
+
+241
+00:10:11,0 --> 00:10:11,0
+come
+
+242
+00:10:11,0 --> 00:10:11,0
+with their
+
+243
+00:10:11,0 --> 00:10:11,0
+
+
+244
+00:10:11,0 --> 00:10:11,0
+numerous
+
+245
+00:10:11,0 --> 00:10:11,0
+hosts; and
+
+246
+00:10:11,0 --> 00:10:11,0
+except
+
+247
+00:10:11,0 --> 00:10:11,0
+the
+
+248
+00:10:11,0 --> 00:10:11,0
+king doth
+
+249
+00:10:11,0 --> 00:10:11,0
+pacify
+
+250
+00:10:11,0 --> 00:10:11,0
+them
+
+251
+00:10:11,0 --> 00:10:11,0
+towards
+
+252
+00:10:11,0 --> 00:10:11,
+us we must perish.
+
+253
+00:10:11,0 --> 00:10:11,0
+21 For
+
+254
+00:10:11,0 --> 00:10:11,0
+are
+
+255
+00:10:11,0 --> 00:10:11,0
+not the
+
+256
+00:10:11,0 --> 00:10:11,0
+words
+
+257
+00:10:11,0 --> 00:10:11,0
+of
+
+258
+00:10:11,0 --> 00:10:11,0
+Abinadi
+
+259
+00:10:11,0 --> 00:10:11,0
+
+
+260
+00:10:11,0 --> 00:10:11,0
+fulfilled,
+
+261
+00:10:11,0 --> 00:10:11,0
+which
+
+262
+00:10:11,0 --> 00:10:11,0
+he
+
+263
+00:10:11,0 --> 00:10:11,0
+prophesied
+
+264
+00:10:11,0 --> 00:10:11,0
+
+
+265
+00:10:11,0 --> 00:10:11,0
+against
+
+266
+00:10:11,0 --> 00:10:11,0
+us—and
+
+267
+00:10:11,0 --> 00:10:11,0
+all this
+
+268
+00:10:11,0 --> 00:10:11,0
+
+
+269
+00:10:11,0 --> 00:10:11,0
+because we
+
+270
+00:10:11,0 --> 00:10:11,0
+would
+
+271
+00:10:11,0 --> 00:10:11,0
+not
+
+272
+00:10:11,0 --> 00:10:11,0
+hearken
+
+273
+00:10:11,0 --> 00:10:11,0
+unto
+
+274
+00:10:11,0 --> 00:10:11,0
+the
+
+275
+00:10:11,0 --> 00:10:11,0
+words of
+
+276
+00:10:11,0 --> 00:10:11,0
+the
+
+277
+00:10:11,0 --> 00:10:11,0
+Lord,
+
+278
+00:10:11,0 --> 00:10:11,
+and turn from our iniquities?
+
+279
+00:10:11,0 --> 00:10:11,0
+22
+
+280
+00:10:11,0 --> 00:10:11,0
+And now
+
+281
+00:10:11,0 --> 00:10:11,0
+let
+
+282
+00:10:11,0 --> 00:10:11,0
+us
+
+283
+00:10:11,0 --> 00:10:11,0
+pacify
+
+284
+00:10:11,0 --> 00:10:11,0
+the
+
+285
+00:10:11,0 --> 00:10:11,0
+king,
+
+286
+00:10:11,0 --> 00:10:11,0
+and
+
+287
+00:10:11,0 --> 00:10:11,0
+we
+
+288
+00:10:11,0 --> 00:10:11,0
+fulfil
+
+289
+00:10:11,0 --> 00:10:11,0
+the
+
+290
+00:10:11,0 --> 00:10:11,0
+oath
+
+291
+00:10:11,0 --> 00:10:11,0
+which
+
+292
+00:10:11,0 --> 00:10:11,0
+we
+
+293
+00:10:11,0 --> 00:10:11,0
+have
+
+294
+00:10:11,0 --> 00:10:11,0
+made
+
+295
+00:10:11,0 --> 00:10:11,0
+unto
+
+296
+00:10:11,0 --> 00:10:11,0
+him; for
+
+297
+00:10:11,0 --> 00:10:11,0
+it
+
+298
+00:10:11,0 --> 00:10:11,0
+is
+
+299
+00:10:11,0 --> 00:10:11,0
+better
+
+300
+00:10:11,0 --> 00:10:11,0
+that
+
+301
+00:10:11,0 --> 00:10:11,0
+we
+
+302
+00:10:11,0 --> 00:10:11,0
+should
+
+303
+00:10:11,0 --> 00:10:11,0
+be in
+
+304
+00:10:11,0 --> 00:10:11,0
+
+
+305
+00:10:11,0 --> 00:10:11,0
+bondage
+
+306
+00:10:11,0 --> 00:10:11,0
+than
+
+307
+00:10:11,0 --> 00:10:11,0
+that we
+
+308
+00:10:11,0 --> 00:10:11,0
+
+
+309
+00:10:11,0 --> 00:10:11,0
+should
+
+310
+00:10:11,0 --> 00:10:11,0
+lose
+
+311
+00:10:11,0 --> 00:10:11,0
+our
+
+312
+00:10:11,0 --> 00:10:11,0
+lives;
+
+313
+00:10:11,0 --> 00:10:11,0
+
+
+314
+00:10:11,0 --> 00:10:11,0
+therefore,
+
+315
+00:10:11,0 --> 00:10:11,0
+let
+
+316
+00:10:11,0 --> 00:10:11,0
+us put
+
+317
+00:10:11,0 --> 00:10:11,
+a stop to the shedding of so much blood.
+
+318
+00:10:11,0 --> 00:10:11,0
+23
+
+319
+00:10:11,0 --> 00:10:11,0
+And now
+
+320
+00:10:11,0 --> 00:10:11,0
+
+
+321
+00:10:11,0 --> 00:10:11,0
+Limhi
+
+322
+00:10:11,0 --> 00:10:11,0
+told the
+
+323
+00:10:11,0 --> 00:10:11,0
+king
+
+324
+00:10:11,0 --> 00:10:11,0
+all
+
+325
+00:10:11,0 --> 00:10:11,0
+the
+
+326
+00:10:11,0 --> 00:10:11,0
+things
+
+327
+00:10:11,0 --> 00:10:11,0
+
+
+328
+00:10:11,0 --> 00:10:11,0
+
+
+329
+00:10:11,0 --> 00:10:11,0
+concerning his
+
+330
+00:10:11,0 --> 00:10:11,0
+
+
+331
+00:10:11,0 --> 00:10:11,0
+father,
+
+332
+00:10:11,0 --> 00:10:11,0
+and
+
+333
+00:10:11,0 --> 00:10:11,0
+the
+
+334
+00:10:11,0 --> 00:10:11,0
+priests
+
+335
+00:10:11,0 --> 00:10:11,0
+that
+
+336
+00:10:11,0 --> 00:10:11,0
+had
+
+337
+00:10:11,0 --> 00:10:11,0
+fled
+
+338
+00:10:11,0 --> 00:10:11,0
+into
+
+339
+00:10:11,0 --> 00:10:11,0
+the
+
+340
+00:10:11,0 --> 00:10:11,0
+
+
+341
+00:10:11,0 --> 00:10:11,0
+wilderness,
+
+342
+00:10:11,0 --> 00:10:11,0
+and
+
+343
+00:10:11,0 --> 00:10:11,0
+
+
+344
+00:10:11,0 --> 00:10:11,0
+attributed
+
+345
+00:10:11,0 --> 00:10:11,0
+the
+
+346
+00:10:11,0 --> 00:10:11,0
+
+
+347
+00:10:11,0 --> 00:10:11,0
+carrying
+
+348
+00:10:11,0 --> 00:10:11,0
+away of
+
+349
+00:10:11,0 --> 00:10:11,0
+
+
+350
+00:10:11,0 --> 00:10:11,0
+their
+
+351
+00:10:11,0 --> 00:10:11,0
+
+
+352
+00:10:11,0 --> 00:10:11,0
+daughters to
+
+353
+00:10:11,0 --> 00:10:11,
+them.
+
+354
+00:10:11,0 --> 00:10:11,0
+24
+
+355
+00:10:11,0 --> 00:10:11,0
+And
+
+356
+00:10:11,0 --> 00:10:11,0
+it
+
+357
+00:10:11,0 --> 00:10:11,0
+came
+
+358
+00:10:11,0 --> 00:10:11,0
+to
+
+359
+00:10:11,0 --> 00:10:11,0
+pass
+
+360
+00:10:11,0 --> 00:10:11,0
+that
+
+361
+00:10:11,0 --> 00:10:11,0
+the
+
+362
+00:10:11,0 --> 00:10:11,0
+king
+
+363
+00:10:11,0 --> 00:10:11,0
+was
+
+364
+00:10:11,0 --> 00:10:11,0
+
+
+365
+00:10:11,0 --> 00:10:11,0
+
+
+366
+00:10:11,0 --> 00:10:11,0
+pacified
+
+367
+00:10:11,0 --> 00:10:11,0
+
+
+368
+00:10:11,0 --> 00:10:11,0
+towards
+
+369
+00:10:11,0 --> 00:10:11,0
+his
+
+370
+00:10:11,0 --> 00:10:11,0
+
+
+371
+00:10:11,0 --> 00:10:11,0
+people;
+
+372
+00:10:11,0 --> 00:10:11,0
+and he
+
+373
+00:10:11,0 --> 00:10:11,0
+
+
+374
+00:10:11,0 --> 00:10:11,0
+said
+
+375
+00:10:11,0 --> 00:10:11,0
+unto
+
+376
+00:10:11,0 --> 00:10:11,0
+them:
+
+377
+00:10:11,0 --> 00:10:11,0
+Let
+
+378
+00:10:11,0 --> 00:10:11,0
+us
+
+379
+00:10:11,0 --> 00:10:11,0
+go
+
+380
+00:10:11,0 --> 00:10:11,0
+forth
+
+381
+00:10:11,0 --> 00:10:11,0
+to
+
+382
+00:10:11,0 --> 00:10:11,0
+meet
+
+383
+00:10:11,0 --> 00:10:11,0
+my
+
+384
+00:10:11,0 --> 00:10:11,0
+
+
+385
+00:10:11,0 --> 00:10:11,0
+people,
+
+386
+00:10:11,0 --> 00:10:11,0
+
+
+387
+00:10:11,0 --> 00:10:11,0
+without
+
+388
+00:10:11,0 --> 00:10:11,0
+
+
+389
+00:10:11,0 --> 00:10:11,0
+arms;
+
+390
+00:10:11,0 --> 00:10:11,0
+and I
+
+391
+00:10:11,0 --> 00:10:11,0
+
+
+392
+00:10:11,0 --> 00:10:11,0
+swear
+
+393
+00:10:11,0 --> 00:10:11,0
+unto
+
+394
+00:10:11,0 --> 00:10:11,0
+you
+
+395
+00:10:11,0 --> 00:10:11,0
+with
+
+396
+00:10:11,0 --> 00:10:11,0
+an
+
+397
+00:10:11,0 --> 00:10:11,
+oath that my people shall not slay thy people.
+
+398
+00:10:11,0 --> 00:10:11,0
+25
+
+399
+00:10:11,0 --> 00:10:11,0
+And
+
+400
+00:10:11,0 --> 00:10:11,0
+it
+
+401
+00:10:11,0 --> 00:10:11,0
+came
+
+402
+00:10:11,0 --> 00:10:11,0
+to
+
+403
+00:10:11,0 --> 00:10:11,0
+pass
+
+404
+00:10:11,0 --> 00:10:11,0
+that
+
+405
+00:10:11,0 --> 00:10:11,0
+they
+
+406
+00:10:11,0 --> 00:10:11,0
+
+
+407
+00:10:11,0 --> 00:10:11,0
+
+
+408
+00:10:11,0 --> 00:10:11,0
+followed
+
+409
+00:10:11,0 --> 00:10:11,0
+the
+
+410
+00:10:11,0 --> 00:10:11,0
+king,
+
+411
+00:10:11,0 --> 00:10:11,0
+and
+
+412
+00:10:11,0 --> 00:10:11,0
+went
+
+413
+00:10:11,0 --> 00:10:11,0
+
+
+414
+00:10:11,0 --> 00:10:11,0
+forth
+
+415
+00:10:11,0 --> 00:10:11,0
+
+
+416
+00:10:11,0 --> 00:10:11,0
+without
+
+417
+00:10:11,0 --> 00:10:11,0
+arms
+
+418
+00:10:11,0 --> 00:10:11,0
+to
+
+419
+00:10:11,0 --> 00:10:11,0
+meet
+
+420
+00:10:11,0 --> 00:10:11,0
+the
+
+421
+00:10:11,0 --> 00:10:11,0
+
+
+422
+00:10:11,0 --> 00:10:11,0
+
+
+423
+00:10:11,0 --> 00:10:11,0
+Lamanites.
+
+424
+00:10:11,0 --> 00:10:11,0
+And
+
+425
+00:10:11,0 --> 00:10:11,0
+it
+
+426
+00:10:11,0 --> 00:10:11,0
+came
+
+427
+00:10:11,0 --> 00:10:11,0
+to
+
+428
+00:10:11,0 --> 00:10:11,0
+pass
+
+429
+00:10:11,0 --> 00:10:11,0
+that
+
+430
+00:10:11,0 --> 00:10:11,0
+they
+
+431
+00:10:11,0 --> 00:10:11,0
+did
+
+432
+00:10:11,0 --> 00:10:11,0
+
+
+433
+00:10:11,0 --> 00:10:11,0
+meet
+
+434
+00:10:11,0 --> 00:10:11,0
+the
+
+435
+00:10:11,0 --> 00:10:11,0
+
+
+436
+00:10:11,0 --> 00:10:11,0
+Lamanites;
+
+437
+00:10:11,0 --> 00:10:11,0
+and
+
+438
+00:10:11,0 --> 00:10:11,0
+the
+
+439
+00:10:11,0 --> 00:10:11,0
+
+
+440
+00:10:11,0 --> 00:10:11,0
+king of
+
+441
+00:10:11,0 --> 00:10:11,0
+the
+
+442
+00:10:11,0 --> 00:10:11,0
+
+
+443
+00:10:11,0 --> 00:10:11,0
+
+
+444
+00:10:11,0 --> 00:10:11,0
+Lamanites
+
+445
+00:10:11,0 --> 00:10:11,0
+did
+
+446
+00:10:11,0 --> 00:10:11,0
+bow
+
+447
+00:10:11,0 --> 00:10:11,0
+
+
+448
+00:10:11,0 --> 00:10:11,0
+himself
+
+449
+00:10:11,0 --> 00:10:11,0
+down
+
+450
+00:10:11,0 --> 00:10:11,0
+
+
+451
+00:10:11,0 --> 00:10:11,0
+before
+
+452
+00:10:11,0 --> 00:10:11,0
+them,
+
+453
+00:10:11,0 --> 00:10:11,0
+and
+
+454
+00:10:11,0 --> 00:10:11,0
+did
+
+455
+00:10:11,0 --> 00:10:11,0
+
+
+456
+00:10:11,0 --> 00:10:11,0
+plead
+
+457
+00:10:11,0 --> 00:10:11,0
+in
+
+458
+00:10:11,0 --> 00:10:11,0
+behalf
+
+459
+00:10:11,0 --> 00:10:11,0
+of
+
+460
+00:10:11,0 --> 00:10:11,0
+the
+
+461
+00:10:11,0 --> 00:10:11,0
+
+
+462
+00:10:11,0 --> 00:10:11,0
+people
+
+463
+00:10:11,0 --> 00:10:11,0
+of
+
+464
+00:10:11,0 --> 00:10:11,
+Limhi.
+
+465
+00:10:11,0 --> 00:10:11,0
+26
+
+466
+00:10:11,0 --> 00:10:11,0
+And
+
+467
+00:10:11,0 --> 00:10:11,0
+
+
+468
+00:10:11,0 --> 00:10:11,0
+when
+
+469
+00:10:11,0 --> 00:10:11,0
+the
+
+470
+00:10:11,0 --> 00:10:11,0
+
+
+471
+00:10:11,0 --> 00:10:11,0
+
+
+472
+00:10:11,0 --> 00:10:11,0
+
+
+473
+00:10:11,0 --> 00:10:11,0
+Lamanites
+
+474
+00:10:11,0 --> 00:10:11,0
+saw
+
+475
+00:10:11,0 --> 00:10:11,0
+the
+
+476
+00:10:11,0 --> 00:10:11,0
+
+
+477
+00:10:11,0 --> 00:10:11,0
+
+
+478
+00:10:11,0 --> 00:10:11,0
+people
+
+479
+00:10:11,0 --> 00:10:11,0
+of
+
+480
+00:10:11,0 --> 00:10:11,0
+
+
+481
+00:10:11,0 --> 00:10:11,0
+Limhi,
+
+482
+00:10:11,0 --> 00:10:11,0
+
+
+483
+00:10:11,0 --> 00:10:11,0
+that
+
+484
+00:10:11,0 --> 00:10:11,0
+they
+
+485
+00:10:11,0 --> 00:10:11,0
+
+
+486
+00:10:11,0 --> 00:10:11,0
+were
+
+487
+00:10:11,0 --> 00:10:11,0
+
+
+488
+00:10:11,0 --> 00:10:11,0
+
+
+489
+00:10:11,0 --> 00:10:11,0
+without
+
+490
+00:10:11,0 --> 00:10:11,0
+
+
+491
+00:10:11,0 --> 00:10:11,0
+arms,
+
+492
+00:10:11,0 --> 00:10:11,0
+they
+
+493
+00:10:11,0 --> 00:10:11,0
+
+
+494
+00:10:11,0 --> 00:10:11,0
+had
+
+495
+00:10:11,0 --> 00:10:11,0
+
+
+496
+00:10:11,0 --> 00:10:11,0
+
+
+497
+00:10:11,0 --> 00:10:11,0
+compassion
+
+498
+00:10:11,0 --> 00:10:11,0
+on
+
+499
+00:10:11,0 --> 00:10:11,0
+
+
+500
+00:10:11,0 --> 00:10:11,0
+them
+
+501
+00:10:11,0 --> 00:10:11,0
+and
+
+502
+00:10:11,0 --> 00:10:11,0
+
+
+503
+00:10:11,0 --> 00:10:11,0
+were
+
+504
+00:10:11,0 --> 00:10:11,0
+
+
+505
+00:10:11,0 --> 00:10:11,0
+
+
+506
+00:10:11,0 --> 00:10:11,0
+pacified
+
+507
+00:10:11,0 --> 00:10:11,0
+
+
+508
+00:10:11,0 --> 00:10:11,0
+
+
+509
+00:10:11,0 --> 00:10:11,0
+towards
+
+510
+00:10:11,0 --> 00:10:11,0
+
+
+511
+00:10:11,0 --> 00:10:11,0
+them,
+
+512
+00:10:11,0 --> 00:10:11,0
+and
+
+513
+00:10:11,0 --> 00:10:11,0
+
+
+514
+00:10:11,0 --> 00:10:11,
+returned with their king in peace to their own land. 
 

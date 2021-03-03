@@ -1,680 +1,3500 @@
 1
-00:00:00,0 --> 00:00:04,846
-Third NephiThe Book of Nephi the Son of Nephi, Who
+00:00:00,0 --> 00:00:00,0
+Third NephiThe Book of Nephi the Son of Nephi,
 
 2
-00:00:04,846 --> 00:00:09,692
- Was the Son of HelamanAnd Helaman was the son of
+00:00:00,0 --> 00:00:00,0
+Who Was the Son of HelamanAnd Helaman was the son
 
 3
-00:00:09,692 --> 00:00:14,538
- Helaman, who was the son of Alma, who was the son
+00:00:00,0 --> 00:00:00,0
+of Helaman, who was the son of Alma, who was
 
 4
-00:00:14,538 --> 00:00:19,384
- of Alma, being a descendant of Nephi who was the
+00:00:00,0 --> 00:00:00,0
+the son of Alma, being a descendant of Nephi who
 
 5
-00:00:19,384 --> 00:00:24,23
- son of Lehi, who came out of Jerusalem in the first
+00:00:00,0 --> 00:00:00,0
+was the son of Lehi, who came out of Jerusalem in
 
 6
-00:00:24,23 --> 00:00:29,076
- year of the reign of Zedekiah, the king of
+00:00:00,0 --> 00:00:00,0
+the first year of the reign of Zedekiah, the
 
 7
-00:00:29,076 --> 00:00:33,922
- Judah.Chapter 1 Nephi, the son of Helaman, departs out
+00:00:00,0 --> 00:00:00,0
+king of Judah.Chapter 1 Nephi, the son of Helaman,
 
 8
-00:00:33,922 --> 00:00:38,768
- of the land, and his son Nephi keeps the
+00:00:00,0 --> 00:00:00,0
+departs out of the land, and his son Nephi
 
 9
-00:00:38,768 --> 00:00:43,614
- records—Though signs and wonders abound, the wicked plan to
+00:00:00,0 --> 00:00:00,0
+keeps the records—Though signs and wonders abound,
 
 10
-00:00:43,614 --> 00:00:48,46
- slay the righteous—The night of Christ’s birth
+00:00:00,0 --> 00:00:00,0
+the wicked plan to slay the righteous—The night
 
 11
-00:00:48,46 --> 00:00:53,306
- arrives—The sign is given, and a new star
+00:00:00,0 --> 00:00:00,0
+of Christ’s birth arrives—The sign is given, and
 
 12
-00:00:53,306 --> 00:00:58,152
- arises—Lyings and deceivings increase, and the Gadianton
+00:00:00,0 --> 00:00:00,0
+a new star arises—Lyings and deceivings
 
 13
-00:00:58,152 --> 00:01:02,998
- robbers slaughter many. About A.D. 1–4.
+00:00:00,0 --> 00:04:43,
+increase, and the Gadianton robbers slaughter many. About A.D. 1–4. 
 
 14
-00:01:03,797 --> 00:01:18,997
-1 Now it came to pass that the ninety and first
+00:04:43,0 --> 00:04:43,0
+1 Now it came to pass that the ninety and
 
 15
-00:01:18,997 --> 00:01:34,197
- year had passed away and it was six hundred years
+00:04:43,0 --> 00:04:43,0
+first year had passed away and it was six
 
 16
-00:01:34,197 --> 00:01:49,397
- from the time that Lehi left Jerusalem; and it was
+00:04:43,0 --> 00:04:43,0
+hundred years from the time that Lehi left
 
 17
-00:01:49,397 --> 00:02:04,597
- in the year that Lachoneus was the chief judge and
+00:04:43,0 --> 00:04:43,0
+Jerusalem; and it was in the year that Lachoneus was
 
 18
-00:02:04,597 --> 00:02:19,797
- the governor over the land
+00:04:43,0 --> 00:04:15,
+the chief judge and the governor over the land.
 
 19
-00:02:19,84 --> 00:02:27,34
-2 And Nephi, the son of Helaman, had departed out
+00:04:15,0 --> 00:04:15,0
+2 And Nephi, the son of Helaman, had
 
 20
-00:02:27,34 --> 00:02:34,84
- of the land of Zarahemla, giving charge unto his
+00:04:15,0 --> 00:04:15,0
+departed out of the land of Zarahemla, giving
 
 21
-00:02:34,84 --> 00:02:42,34
- son Nephi, who was his eldest son, concerning the
+00:04:15,0 --> 00:04:15,0
+charge unto his son Nephi, who was his
 
 22
-00:02:42,34 --> 00:02:49,84
- plates of brass, and all the records which had been
+00:04:15,0 --> 00:04:15,0
+eldest son, concerning the plates of brass,
 
 23
-00:02:49,84 --> 00:02:57,34
- kept, and all those things which had been kept
+00:04:15,0 --> 00:04:15,0
+and all the records which had been kept, and
 
 24
-00:02:57,34 --> 00:03:04,84
- sacred from the departure of Lehi out of Jerusalem
+00:04:15,0 --> 00:04:15,0
+all those things which had been kept
 
 25
-00:03:04,751 --> 00:03:10,501
-3 Then he departed out of the land, and whither he
+00:04:15,0 --> 00:05:59,
+sacred from the departure of Lehi out of Jerusalem.
 
 26
-00:03:10,501 --> 00:03:16,251
- went, no man knoweth; and his son Nephi did keep
+00:05:59,0 --> 00:05:59,0
+3 Then he departed out of the land, and
 
 27
-00:03:16,251 --> 00:03:22,001
- the records in his stead, yea, the record of this
+00:05:59,0 --> 00:05:59,0
+whither he went, no man knoweth; and
 
 28
-00:03:22,001 --> 00:03:27,751
- people
+00:05:59,0 --> 00:05:59,0
+his son Nephi did keep the records in
 
 29
-00:03:27,474 --> 00:03:34,474
-4 And it came to pass that in the commencement of
+00:05:59,0 --> 00:05:31,
+his stead, yea, the record of this people.
 
 30
-00:03:34,474 --> 00:03:41,474
- the ninety and second year, behold, the prophecies
+00:05:31,0 --> 00:05:31,0
+4 And it came to pass that in the
 
 31
-00:03:41,474 --> 00:03:48,474
- of the prophets began to be fulfilled more fully;
+00:05:31,0 --> 00:05:31,0
+commencement of the ninety and second
 
 32
-00:03:48,474 --> 00:03:55,474
- for there began to be greater signs and greater
+00:05:31,0 --> 00:05:31,0
+year, behold, the prophecies of the
 
 33
-00:03:55,474 --> 00:04:02,474
- miracles wrought among the people
+00:05:31,0 --> 00:05:31,0
+prophets began to be fulfilled more fully;
 
 34
-00:04:02,075 --> 00:04:07,408
-5 But there were some who began to say that the
+00:05:31,0 --> 00:05:31,0
+for there began to be greater signs and
 
 35
-00:04:07,408 --> 00:04:12,741
- time was past for the words to be fulfilled, which
+00:05:31,0 --> 00:07:43,
+greater miracles wrought among the people.
 
 36
-00:04:12,741 --> 00:04:18,074
- were spoken by Samuel, the Lamanite
+00:07:43,0 --> 00:07:43,0
+5 But there were some who began
 
 37
-00:04:18,725 --> 00:04:40,725
-6 And they began to rejoice over their brethren,
+00:07:43,0 --> 00:07:43,0
+to say that the time was past for
 
 38
-00:04:40,725 --> 00:05:02,725
- saying: Behold the time is past, and the words of
+00:07:43,0 --> 00:07:43,0
+the words to be fulfilled, which
 
 39
-00:05:02,725 --> 00:05:24,725
- Samuel are not fulfilled; therefore, your joy and
+00:07:43,0 --> 00:07:15,
+were spoken by Samuel, the Lamanite.
 
 40
-00:05:24,725 --> 00:05:46,725
- your faith concerning this thing hath been vain
+00:07:15,0 --> 00:07:15,0
+6 And they began to rejoice over
 
 41
-00:05:46,446 --> 00:05:49,646
-7 And it came to pass that they did make a great
+00:07:15,0 --> 00:07:15,0
+their brethren, saying: Behold
 
 42
-00:05:49,646 --> 00:05:52,846
- uproar throughout the land; and the people who
+00:07:15,0 --> 00:07:15,0
+the time is past, and the words
 
 43
-00:05:52,846 --> 00:05:56,046
- believed began to be very sorrowful, lest by any means
+00:07:15,0 --> 00:07:15,0
+of Samuel are not fulfilled;
 
 44
-00:05:56,046 --> 00:05:59,246
- those things which had been spoken might not come
+00:07:15,0 --> 00:07:15,0
+therefore, your joy and your faith
 
 45
-00:05:59,246 --> 00:06:02,446
- to pass
+00:07:15,0 --> 00:10:45,
+concerning this thing hath been vain.
 
 46
-00:06:02,395 --> 00:06:04,395
-8 But behold, they did watch steadfastly for that
+00:10:45,0 --> 00:10:45,0
+7 And it came to pass that
 
 47
-00:06:04,395 --> 00:06:06,395
- day and that night and that day which should be as
+00:10:45,0 --> 00:10:45,0
+they did make a great uproar
 
 48
-00:06:06,395 --> 00:06:08,395
- one day as if there were no night, that they
+00:10:45,0 --> 00:10:45,0
+throughout the land; and the
 
 49
-00:06:08,395 --> 00:06:10,395
- might know that their faith had not been vain
+00:10:45,0 --> 00:10:45,0
+people who believed began to be
 
 50
-00:06:10,37 --> 00:06:10,37
-9 Now it came to pass that there was a day set
+00:10:45,0 --> 00:10:45,0
+very sorrowful, lest by any
 
 51
-00:06:10,37 --> 00:06:10,37
- apart by the unbelievers, that all those who believed
+00:10:45,0 --> 00:10:45,0
+means those things which had
 
 52
-00:06:10,37 --> 00:06:10,37
- in those traditions should be put to death except
+00:10:45,0 --> 00:10:17,
+been spoken might not come to pass.
 
 53
-00:06:10,37 --> 00:06:10,37
- the sign should come to pass, which had been
+00:10:17,0 --> 00:10:17,0
+8 But behold, they did
 
 54
-00:06:10,37 --> 00:06:10,37
- given by Samuel the prophet
+00:10:17,0 --> 00:10:17,0
+watch steadfastly for that day
 
 55
-00:06:10,804 --> 00:06:12,804
-10 Now it came to pass that when Nephi, the son of
+00:10:17,0 --> 00:10:17,0
+and that night and that day
 
 56
-00:06:12,804 --> 00:06:14,804
- Nephi, saw this wickedness of his people, his
+00:10:17,0 --> 00:10:17,0
+which should be as one day
 
 57
-00:06:14,804 --> 00:06:16,804
- heart was exceedingly sorrowful
+00:10:17,0 --> 00:10:17,0
+as if there were no night,
 
 58
-00:06:16,576 --> 00:06:21,376
-11 And it came to pass that he went out and bowed
+00:10:17,0 --> 00:10:17,0
+that they might know that
 
 59
-00:06:21,376 --> 00:06:26,176
- himself down upon the earth, and cried mightily to
+00:10:17,0 --> 00:11:47,
+their faith had not been vain.
 
 60
-00:06:26,176 --> 00:06:30,976
- his God in behalf of his people, yea, those who
+00:11:47,0 --> 00:11:47,0
+9 Now it came to pass
 
 61
-00:06:30,976 --> 00:06:35,776
- were about to be destroyed because of their faith
+00:11:47,0 --> 00:11:47,0
+that there was a day set
 
 62
-00:06:35,776 --> 00:06:40,576
- in the tradition of their fathers
+00:11:47,0 --> 00:11:47,0
+apart by the unbelievers,
 
 63
-00:06:40,901 --> 00:06:46,234
-12 And it came to pass that he cried mightily unto
+00:11:47,0 --> 00:11:47,0
+that all those who
 
 64
-00:06:46,234 --> 00:06:51,567
- the Lord all that day; and behold, the voice of
+00:11:47,0 --> 00:11:47,0
+believed in those traditions
 
 65
-00:06:51,567 --> 00:06:56,9
- the Lord came unto him, saying
+00:11:47,0 --> 00:11:47,0
+should be put to death
 
 66
-00:06:56,85 --> 00:07:03,35
-13 Lift up your head and be of good cheer; for
+00:11:47,0 --> 00:11:47,0
+except the sign should
 
 67
-00:07:03,35 --> 00:07:09,85
- behold, the time is at hand, and on this night shall
+00:11:47,0 --> 00:11:47,0
+come to pass, which had
 
 68
-00:07:09,85 --> 00:07:16,35
- the sign be given, and on the morrow come I into
+00:11:47,0 --> 00:11:19,
+been given by Samuel the prophet.
 
 69
-00:07:16,35 --> 00:07:22,85
- the world, to show unto the world that I will
+00:11:19,0 --> 00:11:19,0
+10 Now it came to
 
 70
-00:07:22,85 --> 00:07:29,35
- fulfil all that which I have caused to be spoken by the
+00:11:19,0 --> 00:11:19,0
+pass that when Nephi,
 
 71
-00:07:29,35 --> 00:07:35,85
- mouth of my holy prophets
+00:11:19,0 --> 00:11:19,0
+the son of Nephi, saw
 
 72
-00:07:35,755 --> 00:07:42,184
-14 Behold, I come unto my own, to fulfil all
+00:11:19,0 --> 00:11:19,0
+this wickedness of his
 
 73
-00:07:42,184 --> 00:07:48,613
- things which I have made known unto the children of men
+00:11:19,0 --> 00:11:19,0
+people, his heart
 
 74
-00:07:48,613 --> 00:07:55,042
- from the foundation of the world, and to do the
+00:11:19,0 --> 00:12:17,
+was exceedingly sorrowful.
 
 75
-00:07:55,042 --> 00:08:01,471
- will, both of the Father and of the Son—of the
+00:12:17,0 --> 00:12:17,0
+11 And it came to
 
 76
-00:08:01,471 --> 00:08:07,9
- Father because of me, and of the Son because of my
+00:12:17,0 --> 00:12:17,0
+pass that he went
 
 77
-00:08:07,9 --> 00:08:14,329
- flesh. And behold, the time is at hand, and this
+00:12:17,0 --> 00:12:17,0
+out and bowed himself
 
 78
-00:08:14,329 --> 00:08:20,758
- night shall the sign be given
+00:12:17,0 --> 00:12:17,0
+down upon the
 
 79
-00:08:20,2 --> 00:08:25,7
-15 And it came to pass that the words which came
+00:12:17,0 --> 00:12:17,0
+earth, and cried
 
 80
-00:08:25,7 --> 00:08:31,2
- unto Nephi were fulfilled, according as they had
+00:12:17,0 --> 00:12:17,0
+mightily to his God in
 
 81
-00:08:31,2 --> 00:08:36,7
- been spoken; for behold, at the going down of the
+00:12:17,0 --> 00:12:17,0
+behalf of his people,
 
 82
-00:08:36,7 --> 00:08:42,2
- sun there was no darkness; and the people began to
+00:12:17,0 --> 00:12:17,0
+yea, those who
 
 83
-00:08:42,2 --> 00:08:47,7
- be astonished because there was no darkness when
+00:12:17,0 --> 00:12:17,0
+were about to be
 
 84
-00:08:47,7 --> 00:08:53,2
- the night came
+00:12:17,0 --> 00:12:17,0
+destroyed because of
 
 85
-00:08:53,166 --> 00:08:58,023
-16 And there were many, who had not believed the
+00:12:17,0 --> 00:12:17,0
+their faith in the
 
 86
-00:08:58,023 --> 00:09:02,88
- words of the prophets, who fell to the earth and
+00:12:17,0 --> 00:19:47,
+tradition of their fathers.
 
 87
-00:09:02,88 --> 00:09:07,737
- became as if they were dead, for they knew that the
+00:19:47,0 --> 00:19:47,0
+12 And it came to
 
 88
-00:09:07,737 --> 00:09:12,594
- great plan of destruction which they had laid for
+00:19:47,0 --> 00:19:47,0
+pass that he cried
 
 89
-00:09:12,594 --> 00:09:17,451
- those who believed in the words of the prophets
+00:19:47,0 --> 00:19:47,0
+mightily unto the
 
 90
-00:09:17,451 --> 00:09:22,308
- had been frustrated; for the sign which had been
+00:19:47,0 --> 00:19:47,0
+Lord all that
 
 91
-00:09:22,308 --> 00:09:27,165
- given was already at hand
+00:19:47,0 --> 00:19:47,0
+day; and behold, the
 
 92
-00:09:27,667 --> 00:09:34,0
-17 And they began to know that the Son of God must
+00:19:47,0 --> 00:19:47,0
+voice of the Lord
 
 93
-00:09:34,0 --> 00:09:40,333
- shortly appear; yea, in fine, all the people upon
+00:19:47,0 --> 00:19:19,
+came unto him, saying:
 
 94
-00:09:40,333 --> 00:09:46,666
- the face of the whole earth from the west to the
+00:19:19,0 --> 00:19:19,0
+13 Lift up your
 
 95
-00:09:46,666 --> 00:09:52,999
- east, both in the land north and in the land
+00:19:19,0 --> 00:19:19,0
+head and be of
 
 96
-00:09:52,999 --> 00:09:59,332
- south, were so exceedingly astonished that they fell to
+00:19:19,0 --> 00:19:19,0
+good cheer; for
 
 97
-00:09:59,332 --> 00:10:05,665
- the earth
+00:19:19,0 --> 00:19:19,0
+behold, the time is
 
 98
-00:10:05,572 --> 00:10:10,372
-18 For they knew that the prophets had testified
+00:19:19,0 --> 00:19:19,0
+at hand, and on
 
 99
-00:10:10,372 --> 00:10:15,172
- of these things for many years, and that the sign
+00:19:19,0 --> 00:19:19,0
+this night shall
 
 100
-00:10:15,172 --> 00:10:19,972
- which had been given was already at hand; and they
+00:19:19,0 --> 00:19:19,0
+the sign be given,
 
 101
-00:10:19,972 --> 00:10:24,772
- began to fear because of their iniquity and their
+00:19:19,0 --> 00:19:19,0
+and on the morrow
 
 102
-00:10:24,772 --> 00:10:29,572
- unbelief
+00:19:19,0 --> 00:19:19,0
+come I into the
 
 103
-00:10:29,896 --> 00:10:34,467
-19 And it came to pass that there was no darkness
+00:19:19,0 --> 00:19:19,0
+world, to show
 
 104
-00:10:34,467 --> 00:10:39,038
- in all that night, but it was as light as though
+00:19:19,0 --> 00:19:19,0
+unto the world that
 
 105
-00:10:39,038 --> 00:10:43,609
- it was mid-day. And it came to pass that the sun
+00:19:19,0 --> 00:19:19,0
+I will fulfil
 
 106
-00:10:43,609 --> 00:10:48,18
- did rise in the morning again, according to its
+00:19:19,0 --> 00:19:19,0
+all that which I
 
 107
-00:10:48,18 --> 00:10:52,751
- proper order; and they knew that it was the day that
+00:19:19,0 --> 00:19:19,0
+have caused to be
 
 108
-00:10:52,751 --> 00:10:57,322
- the Lord should be born, because of the sign which
+00:19:19,0 --> 00:19:19,0
+spoken by the
 
 109
-00:10:57,322 --> 00:11:01,893
- had been given
+00:19:19,0 --> 00:22:49,
+mouth of my holy prophets.
 
 110
-00:11:01,961 --> 00:11:08,461
-20 And it had come to pass, yea, all things, every
+00:22:49,0 --> 00:22:49,0
+14 Behold, I
 
 111
-00:11:08,461 --> 00:11:14,961
- whit, according to the words of the prophets
+00:22:49,0 --> 00:22:49,0
+come unto my own,
 
 112
-00:11:14,274 --> 00:11:18,274
-21 And it came to pass also that a new star did
+00:22:49,0 --> 00:22:49,0
+to fulfil all
 
 113
-00:11:18,274 --> 00:11:22,274
- appear, according to the word
+00:22:49,0 --> 00:22:49,0
+things which I have
 
 114
-00:11:22,282 --> 00:11:27,568
-22 And it came to pass that from this time forth
+00:22:49,0 --> 00:22:49,0
+made known unto
 
 115
-00:11:27,568 --> 00:11:32,854
- there began to be lyings sent forth among the
+00:22:49,0 --> 00:22:49,0
+the children of
 
 116
-00:11:32,854 --> 00:11:38,14
- people, by Satan, to harden their hearts, to the intent
+00:22:49,0 --> 00:22:49,0
+men from the
 
 117
-00:11:38,14 --> 00:11:43,426
- that they might not believe in those signs and
+00:22:49,0 --> 00:22:49,0
+foundation of the
 
 118
-00:11:43,426 --> 00:11:48,712
- wonders which they had seen; but notwithstanding
+00:22:49,0 --> 00:22:49,0
+world, and to do
 
 119
-00:11:48,712 --> 00:11:53,998
- these lyings and deceivings the more part of the
+00:22:49,0 --> 00:22:49,0
+the will, both
 
 120
-00:11:53,998 --> 00:11:59,284
- people did believe, and were converted unto the Lord
+00:22:49,0 --> 00:22:49,0
+of the Father
 
 121
-00:11:59,252 --> 00:12:04,252
-23 And it came to pass that Nephi went forth among
+00:22:49,0 --> 00:22:49,0
+and of the Son—of
 
 122
-00:12:04,252 --> 00:12:09,252
- the people, and also many others, baptizing unto
+00:22:49,0 --> 00:22:49,0
+the Father
 
 123
-00:12:09,252 --> 00:12:14,252
- repentance, in the which there was a great
+00:22:49,0 --> 00:22:49,0
+because of me, and of
 
 124
-00:12:14,252 --> 00:12:19,252
- remission of sins. And thus the people began again to
+00:22:49,0 --> 00:22:49,0
+the Son because
 
 125
-00:12:19,252 --> 00:12:24,252
- have peace in the land
+00:22:49,0 --> 00:22:49,0
+of my flesh.
 
 126
-00:12:24,51 --> 00:12:30,71
-24 And there were no contentions, save it were a
+00:22:49,0 --> 00:22:49,0
+And behold, the
 
 127
-00:12:30,71 --> 00:12:36,91
- few that began to preach, endeavoring to prove by
+00:22:49,0 --> 00:22:49,0
+time is at hand,
 
 128
-00:12:36,91 --> 00:12:43,11
- the scriptures that it was no more expedient to
+00:22:49,0 --> 00:22:49,0
+and this night
 
 129
-00:12:43,11 --> 00:12:49,31
- observe the law of Moses. Now in this thing they did
+00:22:49,0 --> 00:23:19,
+shall the sign be given.
 
 130
-00:12:49,31 --> 00:12:55,51
- err, having not understood the scriptures
+00:23:19,0 --> 00:23:19,0
+15 And it came
 
 131
-00:12:55,008 --> 00:13:01,008
-25 But it came to pass that they soon became
+00:23:19,0 --> 00:23:19,0
+to pass that
 
 132
-00:13:01,008 --> 00:13:07,008
- converted, and were convinced of the error which they
+00:23:19,0 --> 00:23:19,0
+the words which
 
 133
-00:13:07,008 --> 00:13:13,008
- were in, for it was made known unto them that the
+00:23:19,0 --> 00:23:19,0
+came unto Nephi
 
 134
-00:13:13,008 --> 00:13:19,008
- law was not yet fulfilled, and that it must be
+00:23:19,0 --> 00:23:19,0
+were fulfilled,
 
 135
-00:13:19,008 --> 00:13:25,008
- fulfilled in every whit; yea, the word came unto them
+00:23:19,0 --> 00:23:19,0
+according as
 
 136
-00:13:25,008 --> 00:13:31,008
- that it must be fulfilled; yea, that one jot or
+00:23:19,0 --> 00:23:19,0
+they had been
 
 137
-00:13:31,008 --> 00:13:37,008
- tittle should not pass away till it should all be
+00:23:19,0 --> 00:23:19,0
+spoken; for
 
 138
-00:13:37,008 --> 00:13:43,008
- fulfilled; therefore in this same year were they
+00:23:19,0 --> 00:23:19,0
+behold, at the going
 
 139
-00:13:43,008 --> 00:13:49,008
- brought to a knowledge of their error and did confess
+00:23:19,0 --> 00:23:19,0
+down of the
 
 140
-00:13:49,008 --> 00:13:55,008
- their faults
+00:23:19,0 --> 00:23:19,0
+sun there was no
 
 141
-00:13:55,635 --> 00:14:00,235
-26 And thus the ninety and second year did pass
+00:23:19,0 --> 00:23:19,0
+darkness; and
 
 142
-00:14:00,235 --> 00:14:04,835
- away, bringing glad tidings unto the people because
+00:23:19,0 --> 00:23:19,0
+the people began
 
 143
-00:14:04,835 --> 00:14:09,435
- of the signs which did come to pass, according to
+00:23:19,0 --> 00:23:19,0
+to be
 
 144
-00:14:09,435 --> 00:14:14,035
- the words of the prophecy of all the holy
+00:23:19,0 --> 00:23:19,0
+astonished because
 
 145
-00:14:14,035 --> 00:14:18,635
- prophets
+00:23:19,0 --> 00:23:19,0
+there was no
 
 146
-00:14:18,124 --> 00:14:24,124
-27 And it came to pass that the ninety and third
+00:23:19,0 --> 00:28:29,
+darkness when the night came.
 
 147
-00:14:24,124 --> 00:14:30,124
- year did also pass away in peace, save it were for
+00:28:29,0 --> 00:28:29,0
+16 And there
 
 148
-00:14:30,124 --> 00:14:36,124
- the Gadianton robbers, who dwelt upon the
+00:28:29,0 --> 00:28:29,0
+were many, who
 
 149
-00:14:36,124 --> 00:14:42,124
- mountains, who did infest the land; for so strong were
+00:28:29,0 --> 00:28:29,0
+had not
 
 150
-00:14:42,124 --> 00:14:48,124
- their holds and their secret places that the people
+00:28:29,0 --> 00:28:29,0
+believed the words
 
 151
-00:14:48,124 --> 00:14:54,124
- could not overpower them; therefore they did commit
+00:28:29,0 --> 00:28:29,0
+of the
 
 152
-00:14:54,124 --> 00:15:00,124
- many murders, and did do much slaughter among the
+00:28:29,0 --> 00:28:29,0
+prophets, who fell to
 
 153
-00:15:00,124 --> 00:15:06,124
- people
+00:28:29,0 --> 00:28:29,0
+the earth and
 
 154
-00:15:06,339 --> 00:15:10,672
-28 And it came to pass that in the ninety and
+00:28:29,0 --> 00:28:29,0
+became as if
 
 155
-00:15:10,672 --> 00:15:15,005
- fourth year they began to increase in a great degree,
+00:28:29,0 --> 00:28:29,0
+they were dead,
 
 156
-00:15:15,005 --> 00:15:19,338
- because there were many dissenters of the Nephites
+00:28:29,0 --> 00:28:29,0
+for they knew
 
 157
-00:15:19,338 --> 00:15:23,671
- who did flee unto them, which did cause much
+00:28:29,0 --> 00:28:29,0
+that the
 
 158
-00:15:23,671 --> 00:15:28,004
- sorrow unto those Nephites who did remain in the land
+00:28:29,0 --> 00:28:29,0
+great plan of
 
 159
-00:15:28,004 --> 00:15:32,337
-
+00:28:29,0 --> 00:28:29,0
+destruction which
 
 160
-00:15:32,832 --> 00:15:38,689
-29 And there was also a cause of much sorrow among
+00:28:29,0 --> 00:28:29,0
+they had laid
 
 161
-00:15:38,689 --> 00:15:44,546
- the Lamanites; for behold, they had many children
+00:28:29,0 --> 00:28:29,0
+for those who
 
 162
-00:15:44,546 --> 00:15:50,403
- who did grow up and began to wax strong in years,
+00:28:29,0 --> 00:28:29,0
+believed in
 
 163
-00:15:50,403 --> 00:15:56,26
- that they became for themselves, and were led
+00:28:29,0 --> 00:28:29,0
+the words of the
 
 164
-00:15:56,26 --> 00:16:02,117
- away by some who were Zoramites, by their lyings and
+00:28:29,0 --> 00:28:29,0
+prophets had
 
 165
-00:16:02,117 --> 00:16:07,974
- their flattering words, to join those Gadianton
+00:28:29,0 --> 00:28:29,0
+been
 
 166
-00:16:07,974 --> 00:16:13,831
- robbers
+00:28:29,0 --> 00:28:29,0
+frustrated; for the
 
 167
-00:16:13,773 --> 00:16:19,523
-30 And thus were the Lamanites afflicted also, and
+00:28:29,0 --> 00:28:29,0
+sign which had
 
 168
-00:16:19,523 --> 00:16:25,273
- began to decrease as to their faith and
+00:28:29,0 --> 00:34:39,
+been given was already at hand.
 
 169
-00:16:25,273 --> 00:16:31,023
- righteousness, because of the wickedness of the rising
+00:34:39,0 --> 00:34:39,0
+17 And they
 
 170
-00:16:31,023 --> 00:16:36,773
- generation.
+00:34:39,0 --> 00:34:39,0
+began to know
+
+171
+00:34:39,0 --> 00:34:39,0
+that the Son
+
+172
+00:34:39,0 --> 00:34:39,0
+of God must
+
+173
+00:34:39,0 --> 00:34:39,0
+shortly
+
+174
+00:34:39,0 --> 00:34:39,0
+appear; yea, in
+
+175
+00:34:39,0 --> 00:34:39,0
+fine, all the
+
+176
+00:34:39,0 --> 00:34:39,0
+people upon the
+
+177
+00:34:39,0 --> 00:34:39,0
+face of the
+
+178
+00:34:39,0 --> 00:34:39,0
+whole earth
+
+179
+00:34:39,0 --> 00:34:39,0
+from the west
+
+180
+00:34:39,0 --> 00:34:39,0
+to the east,
+
+181
+00:34:39,0 --> 00:34:39,0
+both in the
+
+182
+00:34:39,0 --> 00:34:39,0
+land north and
+
+183
+00:34:39,0 --> 00:34:39,0
+in the land
+
+184
+00:34:39,0 --> 00:34:39,0
+south, were
+
+185
+00:34:39,0 --> 00:34:39,0
+so exceedingly
+
+186
+00:34:39,0 --> 00:34:39,0
+astonished
+
+187
+00:34:39,0 --> 00:46:35,
+that they fell to the earth.
+
+188
+00:46:35,0 --> 00:46:35,0
+18 For they
+
+189
+00:46:35,0 --> 00:46:35,0
+knew that
+
+190
+00:46:35,0 --> 00:46:35,0
+the prophets
+
+191
+00:46:35,0 --> 00:46:35,0
+had testified
+
+192
+00:46:35,0 --> 00:46:35,0
+of these
+
+193
+00:46:35,0 --> 00:46:35,0
+things for
+
+194
+00:46:35,0 --> 00:46:35,0
+many years, and
+
+195
+00:46:35,0 --> 00:46:35,0
+that the
+
+196
+00:46:35,0 --> 00:46:35,0
+sign which had
+
+197
+00:46:35,0 --> 00:46:35,0
+been given
+
+198
+00:46:35,0 --> 00:46:35,0
+was already
+
+199
+00:46:35,0 --> 00:46:35,0
+at hand; and
+
+200
+00:46:35,0 --> 00:46:35,0
+they began
+
+201
+00:46:35,0 --> 00:46:35,0
+to fear
+
+202
+00:46:35,0 --> 00:46:35,0
+because of their
+
+203
+00:46:35,0 --> 00:46:35,0
+iniquity
+
+204
+00:46:35,0 --> 00:52:46,
+and their unbelief.
+
+205
+00:52:46,0 --> 00:52:46,0
+19 And it
+
+206
+00:52:46,0 --> 00:52:46,0
+came to pass
+
+207
+00:52:46,0 --> 00:52:46,0
+that there
+
+208
+00:52:46,0 --> 00:52:46,0
+was no
+
+209
+00:52:46,0 --> 00:52:46,0
+darkness in
+
+210
+00:52:46,0 --> 00:52:46,0
+all that
+
+211
+00:52:46,0 --> 00:52:46,0
+night, but it
+
+212
+00:52:46,0 --> 00:52:46,0
+was as light
+
+213
+00:52:46,0 --> 00:52:46,0
+as though
+
+214
+00:52:46,0 --> 00:52:46,0
+it was
+
+215
+00:52:46,0 --> 00:52:46,0
+mid-day. And it
+
+216
+00:52:46,0 --> 00:52:46,0
+came to
+
+217
+00:52:46,0 --> 00:52:46,0
+pass that the
+
+218
+00:52:46,0 --> 00:52:46,0
+sun did
+
+219
+00:52:46,0 --> 00:52:46,0
+rise in the
+
+220
+00:52:46,0 --> 00:52:46,0
+morning
+
+221
+00:52:46,0 --> 00:52:46,0
+again,
+
+222
+00:52:46,0 --> 00:52:46,0
+according to its
+
+223
+00:52:46,0 --> 00:52:46,0
+proper order;
+
+224
+00:52:46,0 --> 00:52:46,0
+and they
+
+225
+00:52:46,0 --> 00:52:46,0
+knew that it
+
+226
+00:52:46,0 --> 00:52:46,0
+was the
+
+227
+00:52:46,0 --> 00:52:46,0
+day that the
+
+228
+00:52:46,0 --> 00:52:46,0
+Lord should
+
+229
+00:52:46,0 --> 00:52:46,0
+be born,
+
+230
+00:52:46,0 --> 00:52:46,0
+because of
+
+231
+00:52:46,0 --> 00:56:59,
+the sign which had been given.
+
+232
+00:56:59,0 --> 00:56:59,0
+20 And it
+
+233
+00:56:59,0 --> 00:56:59,0
+had come
+
+234
+00:56:59,0 --> 00:56:59,0
+to pass,
+
+235
+00:56:59,0 --> 00:56:59,0
+yea, all
+
+236
+00:56:59,0 --> 00:56:59,0
+things, every
+
+237
+00:56:59,0 --> 00:56:59,0
+whit,
+
+238
+00:56:59,0 --> 00:56:59,0
+according to
+
+239
+00:56:59,0 --> 00:56:59,0
+the words
+
+240
+00:56:59,0 --> 00:58:11,
+of the prophets.
+
+241
+00:58:11,0 --> 00:58:11,0
+21 And it
+
+242
+00:58:11,0 --> 00:58:11,0
+came to
+
+243
+00:58:11,0 --> 00:58:11,0
+pass also
+
+244
+00:58:11,0 --> 00:58:11,0
+that a
+
+245
+00:58:11,0 --> 00:58:11,0
+new star
+
+246
+00:58:11,0 --> 00:58:11,0
+did
+
+247
+00:58:11,0 --> 00:58:11,0
+appear,
+
+248
+00:58:11,0 --> 00:57:43,
+according to the word.
+
+249
+00:57:43,0 --> 00:57:43,0
+22 And
+
+250
+00:57:43,0 --> 00:57:43,0
+it came
+
+251
+00:57:43,0 --> 00:57:43,0
+to pass
+
+252
+00:57:43,0 --> 00:57:43,0
+that from
+
+253
+00:57:43,0 --> 00:57:43,0
+this
+
+254
+00:57:43,0 --> 00:57:43,0
+time forth
+
+255
+00:57:43,0 --> 00:57:43,0
+there
+
+256
+00:57:43,0 --> 00:57:43,0
+began to
+
+257
+00:57:43,0 --> 00:57:43,0
+be
+
+258
+00:57:43,0 --> 00:57:43,0
+lyings sent
+
+259
+00:57:43,0 --> 00:57:43,0
+forth
+
+260
+00:57:43,0 --> 00:57:43,0
+among the
+
+261
+00:57:43,0 --> 00:57:43,0
+people,
+
+262
+00:57:43,0 --> 00:57:43,0
+by Satan,
+
+263
+00:57:43,0 --> 00:57:43,0
+to
+
+264
+00:57:43,0 --> 00:57:43,0
+harden their
+
+265
+00:57:43,0 --> 00:57:43,0
+hearts,
+
+266
+00:57:43,0 --> 00:57:43,0
+to the
+
+267
+00:57:43,0 --> 00:57:43,0
+intent
+
+268
+00:57:43,0 --> 00:57:43,0
+that they
+
+269
+00:57:43,0 --> 00:57:43,0
+might
+
+270
+00:57:43,0 --> 00:57:43,0
+not
+
+271
+00:57:43,0 --> 00:57:43,0
+believe in
+
+272
+00:57:43,0 --> 00:57:43,0
+those
+
+273
+00:57:43,0 --> 00:57:43,0
+signs and
+
+274
+00:57:43,0 --> 00:57:43,0
+wonders
+
+275
+00:57:43,0 --> 00:57:43,0
+which they
+
+276
+00:57:43,0 --> 00:57:43,0
+had
+
+277
+00:57:43,0 --> 00:57:43,0
+seen; but
+
+278
+00:57:43,0 --> 00:57:43,0
+
+
+279
+00:57:43,0 --> 00:57:43,0
+notwithstanding
+
+280
+00:57:43,0 --> 00:57:43,0
+these
+
+281
+00:57:43,0 --> 00:57:43,0
+lyings and
+
+282
+00:57:43,0 --> 00:57:43,0
+
+
+283
+00:57:43,0 --> 00:57:43,0
+deceivings the
+
+284
+00:57:43,0 --> 00:57:43,0
+more part
+
+285
+00:57:43,0 --> 00:57:43,0
+of the
+
+286
+00:57:43,0 --> 00:57:43,0
+people
+
+287
+00:57:43,0 --> 01:05:13,
+did believe, and were converted unto the Lord.
+
+288
+01:05:13,0 --> 01:05:13,0
+23 And
+
+289
+01:05:13,0 --> 01:05:13,0
+it came
+
+290
+01:05:13,0 --> 01:05:13,0
+to
+
+291
+01:05:13,0 --> 01:05:13,0
+pass that
+
+292
+01:05:13,0 --> 01:05:13,0
+Nephi
+
+293
+01:05:13,0 --> 01:05:13,0
+went
+
+294
+01:05:13,0 --> 01:05:13,0
+forth
+
+295
+01:05:13,0 --> 01:05:13,0
+among the
+
+296
+01:05:13,0 --> 01:05:13,0
+people,
+
+297
+01:05:13,0 --> 01:05:13,0
+and
+
+298
+01:05:13,0 --> 01:05:13,0
+also many
+
+299
+01:05:13,0 --> 01:05:13,0
+others,
+
+300
+01:05:13,0 --> 01:05:13,0
+
+
+301
+01:05:13,0 --> 01:05:13,0
+baptizing
+
+302
+01:05:13,0 --> 01:05:13,0
+unto
+
+303
+01:05:13,0 --> 01:05:13,0
+repentance,
+
+304
+01:05:13,0 --> 01:05:13,0
+in the
+
+305
+01:05:13,0 --> 01:05:13,0
+which
+
+306
+01:05:13,0 --> 01:05:13,0
+there
+
+307
+01:05:13,0 --> 01:05:13,0
+was a
+
+308
+01:05:13,0 --> 01:05:13,0
+great
+
+309
+01:05:13,0 --> 01:05:13,0
+remission
+
+310
+01:05:13,0 --> 01:05:13,0
+of sins.
+
+311
+01:05:13,0 --> 01:05:13,0
+And
+
+312
+01:05:13,0 --> 01:05:13,0
+thus the
+
+313
+01:05:13,0 --> 01:05:13,0
+people
+
+314
+01:05:13,0 --> 01:05:13,0
+began
+
+315
+01:05:13,0 --> 01:05:43,
+again to have peace in the land.
+
+316
+01:05:43,0 --> 01:05:43,0
+24 And
+
+317
+01:05:43,0 --> 01:05:43,0
+there
+
+318
+01:05:43,0 --> 01:05:43,0
+were
+
+319
+01:05:43,0 --> 01:05:43,0
+no
+
+320
+01:05:43,0 --> 01:05:43,0
+
+
+321
+01:05:43,0 --> 01:05:43,0
+contentions,
+
+322
+01:05:43,0 --> 01:05:43,0
+save it
+
+323
+01:05:43,0 --> 01:05:43,0
+were a
+
+324
+01:05:43,0 --> 01:05:43,0
+few
+
+325
+01:05:43,0 --> 01:05:43,0
+that
+
+326
+01:05:43,0 --> 01:05:43,0
+began to
+
+327
+01:05:43,0 --> 01:05:43,0
+
+
+328
+01:05:43,0 --> 01:05:43,0
+preach,
+
+329
+01:05:43,0 --> 01:05:43,0
+
+
+330
+01:05:43,0 --> 01:05:43,0
+endeavoring to
+
+331
+01:05:43,0 --> 01:05:43,0
+prove
+
+332
+01:05:43,0 --> 01:05:43,0
+by the
+
+333
+01:05:43,0 --> 01:05:43,0
+
+
+334
+01:05:43,0 --> 01:05:43,0
+scriptures
+
+335
+01:05:43,0 --> 01:05:43,0
+that
+
+336
+01:05:43,0 --> 01:05:43,0
+it was
+
+337
+01:05:43,0 --> 01:05:43,0
+no
+
+338
+01:05:43,0 --> 01:05:43,0
+more
+
+339
+01:05:43,0 --> 01:05:43,0
+expedient
+
+340
+01:05:43,0 --> 01:05:43,0
+to
+
+341
+01:05:43,0 --> 01:05:43,0
+observe
+
+342
+01:05:43,0 --> 01:05:43,0
+the law
+
+343
+01:05:43,0 --> 01:05:43,0
+of
+
+344
+01:05:43,0 --> 01:05:43,0
+Moses.
+
+345
+01:05:43,0 --> 01:05:43,0
+Now in
+
+346
+01:05:43,0 --> 01:05:43,0
+this
+
+347
+01:05:43,0 --> 01:05:43,0
+thing
+
+348
+01:05:43,0 --> 01:05:43,0
+they
+
+349
+01:05:43,0 --> 01:05:43,0
+did err,
+
+350
+01:05:43,0 --> 01:07:55,
+having not understood the scriptures.
+
+351
+01:07:55,0 --> 01:07:55,0
+25
+
+352
+01:07:55,0 --> 01:07:55,0
+But it
+
+353
+01:07:55,0 --> 01:07:55,0
+came
+
+354
+01:07:55,0 --> 01:07:55,0
+to
+
+355
+01:07:55,0 --> 01:07:55,0
+pass
+
+356
+01:07:55,0 --> 01:07:55,0
+that
+
+357
+01:07:55,0 --> 01:07:55,0
+they
+
+358
+01:07:55,0 --> 01:07:55,0
+soon
+
+359
+01:07:55,0 --> 01:07:55,0
+became
+
+360
+01:07:55,0 --> 01:07:55,0
+
+
+361
+01:07:55,0 --> 01:07:55,0
+converted,
+
+362
+01:07:55,0 --> 01:07:55,0
+and
+
+363
+01:07:55,0 --> 01:07:55,0
+were
+
+364
+01:07:55,0 --> 01:07:55,0
+
+
+365
+01:07:55,0 --> 01:07:55,0
+convinced
+
+366
+01:07:55,0 --> 01:07:55,0
+of
+
+367
+01:07:55,0 --> 01:07:55,0
+the
+
+368
+01:07:55,0 --> 01:07:55,0
+error
+
+369
+01:07:55,0 --> 01:07:55,0
+which
+
+370
+01:07:55,0 --> 01:07:55,0
+they
+
+371
+01:07:55,0 --> 01:07:55,0
+were
+
+372
+01:07:55,0 --> 01:07:55,0
+in,
+
+373
+01:07:55,0 --> 01:07:55,0
+for it
+
+374
+01:07:55,0 --> 01:07:55,0
+was
+
+375
+01:07:55,0 --> 01:07:55,0
+made
+
+376
+01:07:55,0 --> 01:07:55,0
+known
+
+377
+01:07:55,0 --> 01:07:55,0
+unto
+
+378
+01:07:55,0 --> 01:07:55,0
+them
+
+379
+01:07:55,0 --> 01:07:55,0
+that
+
+380
+01:07:55,0 --> 01:07:55,0
+the
+
+381
+01:07:55,0 --> 01:07:55,0
+law
+
+382
+01:07:55,0 --> 01:07:55,0
+was not
+
+383
+01:07:55,0 --> 01:07:55,0
+yet
+
+384
+01:07:55,0 --> 01:07:55,0
+
+
+385
+01:07:55,0 --> 01:07:55,0
+fulfilled,
+
+386
+01:07:55,0 --> 01:07:55,0
+and
+
+387
+01:07:55,0 --> 01:07:55,0
+that
+
+388
+01:07:55,0 --> 01:07:55,0
+it
+
+389
+01:07:55,0 --> 01:07:55,0
+must be
+
+390
+01:07:55,0 --> 01:07:55,0
+
+
+391
+01:07:55,0 --> 01:07:55,0
+fulfilled
+
+392
+01:07:55,0 --> 01:07:55,0
+in
+
+393
+01:07:55,0 --> 01:07:55,0
+every
+
+394
+01:07:55,0 --> 01:07:55,0
+whit;
+
+395
+01:07:55,0 --> 01:07:55,0
+yea,
+
+396
+01:07:55,0 --> 01:07:55,0
+the
+
+397
+01:07:55,0 --> 01:07:55,0
+word
+
+398
+01:07:55,0 --> 01:07:55,0
+came
+
+399
+01:07:55,0 --> 01:07:55,0
+unto
+
+400
+01:07:55,0 --> 01:07:55,0
+them
+
+401
+01:07:55,0 --> 01:07:55,0
+that
+
+402
+01:07:55,0 --> 01:07:55,0
+it
+
+403
+01:07:55,0 --> 01:07:55,0
+must be
+
+404
+01:07:55,0 --> 01:07:55,0
+
+
+405
+01:07:55,0 --> 01:07:55,0
+
+
+406
+01:07:55,0 --> 01:07:55,0
+fulfilled;
+
+407
+01:07:55,0 --> 01:07:55,0
+yea,
+
+408
+01:07:55,0 --> 01:07:55,0
+that one
+
+409
+01:07:55,0 --> 01:07:55,0
+jot
+
+410
+01:07:55,0 --> 01:07:55,0
+or
+
+411
+01:07:55,0 --> 01:07:55,0
+tittle
+
+412
+01:07:55,0 --> 01:07:55,0
+
+
+413
+01:07:55,0 --> 01:07:55,0
+should not
+
+414
+01:07:55,0 --> 01:07:55,0
+pass
+
+415
+01:07:55,0 --> 01:07:55,0
+away
+
+416
+01:07:55,0 --> 01:07:55,0
+till
+
+417
+01:07:55,0 --> 01:07:55,0
+it
+
+418
+01:07:55,0 --> 01:07:55,0
+should
+
+419
+01:07:55,0 --> 01:07:55,0
+all
+
+420
+01:07:55,0 --> 01:07:55,0
+be
+
+421
+01:07:55,0 --> 01:07:55,0
+
+
+422
+01:07:55,0 --> 01:07:55,0
+fulfilled;
+
+423
+01:07:55,0 --> 01:07:55,0
+
+
+424
+01:07:55,0 --> 01:07:55,0
+therefore
+
+425
+01:07:55,0 --> 01:07:55,0
+in
+
+426
+01:07:55,0 --> 01:07:55,0
+this
+
+427
+01:07:55,0 --> 01:07:55,0
+same
+
+428
+01:07:55,0 --> 01:07:27,
+year were they brought to a knowledge of their error and did confess their faults.
+
+429
+01:07:27,0 --> 01:07:27,0
+26
+
+430
+01:07:27,0 --> 01:07:27,0
+And
+
+431
+01:07:27,0 --> 01:07:27,0
+thus
+
+432
+01:07:27,0 --> 01:07:27,0
+the
+
+433
+01:07:27,0 --> 01:07:27,0
+
+
+434
+01:07:27,0 --> 01:07:27,0
+ninety
+
+435
+01:07:27,0 --> 01:07:27,0
+and
+
+436
+01:07:27,0 --> 01:07:27,0
+
+
+437
+01:07:27,0 --> 01:07:27,0
+second
+
+438
+01:07:27,0 --> 01:07:27,0
+year
+
+439
+01:07:27,0 --> 01:07:27,0
+did
+
+440
+01:07:27,0 --> 01:07:27,0
+pass
+
+441
+01:07:27,0 --> 01:07:27,0
+
+
+442
+01:07:27,0 --> 01:07:27,0
+away,
+
+443
+01:07:27,0 --> 01:07:27,0
+
+
+444
+01:07:27,0 --> 01:07:27,0
+bringing
+
+445
+01:07:27,0 --> 01:07:27,0
+glad
+
+446
+01:07:27,0 --> 01:07:27,0
+
+
+447
+01:07:27,0 --> 01:07:27,0
+tidings
+
+448
+01:07:27,0 --> 01:07:27,0
+unto
+
+449
+01:07:27,0 --> 01:07:27,0
+the
+
+450
+01:07:27,0 --> 01:07:27,0
+
+
+451
+01:07:27,0 --> 01:07:27,0
+people
+
+452
+01:07:27,0 --> 01:07:27,0
+
+
+453
+01:07:27,0 --> 01:07:27,0
+because
+
+454
+01:07:27,0 --> 01:07:27,0
+of
+
+455
+01:07:27,0 --> 01:07:27,0
+the
+
+456
+01:07:27,0 --> 01:07:27,0
+signs
+
+457
+01:07:27,0 --> 01:07:27,0
+
+
+458
+01:07:27,0 --> 01:07:27,0
+which
+
+459
+01:07:27,0 --> 01:07:27,0
+did
+
+460
+01:07:27,0 --> 01:07:27,0
+come
+
+461
+01:07:27,0 --> 01:07:27,0
+to
+
+462
+01:07:27,0 --> 01:07:27,0
+pass,
+
+463
+01:07:27,0 --> 01:07:27,0
+
+
+464
+01:07:27,0 --> 01:07:27,0
+
+
+465
+01:07:27,0 --> 01:07:27,0
+according
+
+466
+01:07:27,0 --> 01:07:27,0
+to
+
+467
+01:07:27,0 --> 01:07:27,0
+the
+
+468
+01:07:27,0 --> 01:07:27,0
+words
+
+469
+01:07:27,0 --> 01:07:57,
+of the prophecy of all the holy prophets.
+
+470
+01:07:57,0 --> 01:07:57,0
+27
+
+471
+01:07:57,0 --> 01:07:57,0
+And
+
+472
+01:07:57,0 --> 01:07:57,0
+it
+
+473
+01:07:57,0 --> 01:07:57,0
+
+
+474
+01:07:57,0 --> 01:07:57,0
+came
+
+475
+01:07:57,0 --> 01:07:57,0
+to
+
+476
+01:07:57,0 --> 01:07:57,0
+
+
+477
+01:07:57,0 --> 01:07:57,0
+pass
+
+478
+01:07:57,0 --> 01:07:57,0
+that
+
+479
+01:07:57,0 --> 01:07:57,0
+
+
+480
+01:07:57,0 --> 01:07:57,0
+the
+
+481
+01:07:57,0 --> 01:07:57,0
+
+
+482
+01:07:57,0 --> 01:07:57,0
+ninety
+
+483
+01:07:57,0 --> 01:07:57,0
+and
+
+484
+01:07:57,0 --> 01:07:57,0
+
+
+485
+01:07:57,0 --> 01:07:57,0
+third
+
+486
+01:07:57,0 --> 01:07:57,0
+
+
+487
+01:07:57,0 --> 01:07:57,0
+year
+
+488
+01:07:57,0 --> 01:07:57,0
+did
+
+489
+01:07:57,0 --> 01:07:57,0
+
+
+490
+01:07:57,0 --> 01:07:57,0
+also
+
+491
+01:07:57,0 --> 01:07:57,0
+
+
+492
+01:07:57,0 --> 01:07:57,0
+pass
+
+493
+01:07:57,0 --> 01:07:57,0
+away
+
+494
+01:07:57,0 --> 01:07:57,0
+in
+
+495
+01:07:57,0 --> 01:07:57,0
+
+
+496
+01:07:57,0 --> 01:07:57,0
+
+
+497
+01:07:57,0 --> 01:07:57,0
+peace,
+
+498
+01:07:57,0 --> 01:07:57,0
+save
+
+499
+01:07:57,0 --> 01:07:57,0
+it
+
+500
+01:07:57,0 --> 01:07:57,0
+
+
+501
+01:07:57,0 --> 01:07:57,0
+were
+
+502
+01:07:57,0 --> 01:07:57,0
+for
+
+503
+01:07:57,0 --> 01:07:57,0
+
+
+504
+01:07:57,0 --> 01:07:57,0
+the
+
+505
+01:07:57,0 --> 01:07:57,0
+
+
+506
+01:07:57,0 --> 01:07:57,0
+
+
+507
+01:07:57,0 --> 01:07:57,0
+Gadianton
+
+508
+01:07:57,0 --> 01:07:57,0
+
+
+509
+01:07:57,0 --> 01:07:57,0
+
+
+510
+01:07:57,0 --> 01:07:57,0
+robbers,
+
+511
+01:07:57,0 --> 01:07:57,0
+who
+
+512
+01:07:57,0 --> 01:07:57,0
+
+
+513
+01:07:57,0 --> 01:07:57,0
+dwelt
+
+514
+01:07:57,0 --> 01:07:57,0
+
+
+515
+01:07:57,0 --> 01:07:57,0
+upon
+
+516
+01:07:57,0 --> 01:07:57,0
+the
+
+517
+01:07:57,0 --> 01:07:57,0
+
+
+518
+01:07:57,0 --> 01:07:57,0
+
+
+519
+01:07:57,0 --> 01:07:57,0
+
+
+520
+01:07:57,0 --> 01:07:57,0
+mountains,
+
+521
+01:07:57,0 --> 01:07:57,0
+who
+
+522
+01:07:57,0 --> 01:07:57,0
+
+
+523
+01:07:57,0 --> 01:07:57,0
+did
+
+524
+01:07:57,0 --> 01:07:57,0
+
+
+525
+01:07:57,0 --> 01:07:57,0
+infest
+
+526
+01:07:57,0 --> 01:07:57,0
+the
+
+527
+01:07:57,0 --> 01:07:57,0
+
+
+528
+01:07:57,0 --> 01:07:57,0
+land;
+
+529
+01:07:57,0 --> 01:07:57,0
+
+
+530
+01:07:57,0 --> 01:07:57,0
+for
+
+531
+01:07:57,0 --> 01:07:57,0
+so
+
+532
+01:07:57,0 --> 01:07:57,0
+
+
+533
+01:07:57,0 --> 01:07:57,0
+strong
+
+534
+01:07:57,0 --> 01:07:57,0
+
+
+535
+01:07:57,0 --> 01:07:57,0
+were
+
+536
+01:07:57,0 --> 01:07:57,0
+
+
+537
+01:07:57,0 --> 01:07:57,0
+their
+
+538
+01:07:57,0 --> 01:07:57,0
+
+
+539
+01:07:57,0 --> 01:07:57,0
+holds
+
+540
+01:07:57,0 --> 01:07:57,0
+and
+
+541
+01:07:57,0 --> 01:07:57,0
+
+
+542
+01:07:57,0 --> 01:07:57,0
+their
+
+543
+01:07:57,0 --> 01:07:57,0
+
+
+544
+01:07:57,0 --> 01:07:57,0
+secret
+
+545
+01:07:57,0 --> 01:07:57,0
+
+
+546
+01:07:57,0 --> 01:07:57,0
+
+
+547
+01:07:57,0 --> 01:07:57,0
+places
+
+548
+01:07:57,0 --> 01:07:57,0
+that
+
+549
+01:07:57,0 --> 01:07:57,0
+
+
+550
+01:07:57,0 --> 01:07:57,0
+the
+
+551
+01:07:57,0 --> 01:07:57,0
+
+
+552
+01:07:57,0 --> 01:07:57,0
+people
+
+553
+01:07:57,0 --> 01:07:57,0
+
+
+554
+01:07:57,0 --> 01:07:57,0
+could
+
+555
+01:07:57,0 --> 01:07:57,0
+not
+
+556
+01:07:57,0 --> 01:07:57,0
+
+
+557
+01:07:57,0 --> 01:07:57,0
+
+
+558
+01:07:57,0 --> 01:07:57,0
+
+
+559
+01:07:57,0 --> 01:07:29,
+overpower them; therefore they did commit many murders, and did do much slaughter among the people.
+
+560
+01:07:29,0 --> 01:07:29,0
+28
+
+561
+01:07:29,0 --> 01:07:29,0
+
+
+562
+01:07:29,0 --> 01:07:29,0
+And
+
+563
+01:07:29,0 --> 01:07:29,0
+
+
+564
+01:07:29,0 --> 01:07:29,0
+it
+
+565
+01:07:29,0 --> 01:07:29,0
+
+
+566
+01:07:29,0 --> 01:07:29,0
+came
+
+567
+01:07:29,0 --> 01:07:29,0
+
+
+568
+01:07:29,0 --> 01:07:29,0
+to
+
+569
+01:07:29,0 --> 01:07:29,0
+
+
+570
+01:07:29,0 --> 01:07:29,0
+pass
+
+571
+01:07:29,0 --> 01:07:29,0
+
+
+572
+01:07:29,0 --> 01:07:29,0
+
+
+573
+01:07:29,0 --> 01:07:29,0
+that
+
+574
+01:07:29,0 --> 01:07:29,0
+in
+
+575
+01:07:29,0 --> 01:07:29,0
+
+
+576
+01:07:29,0 --> 01:07:29,0
+the
+
+577
+01:07:29,0 --> 01:07:29,0
+
+
+578
+01:07:29,0 --> 01:07:29,0
+
+
+579
+01:07:29,0 --> 01:07:29,0
+
+
+580
+01:07:29,0 --> 01:07:29,0
+ninety
+
+581
+01:07:29,0 --> 01:07:29,0
+
+
+582
+01:07:29,0 --> 01:07:29,0
+and
+
+583
+01:07:29,0 --> 01:07:29,0
+
+
+584
+01:07:29,0 --> 01:07:29,0
+
+
+585
+01:07:29,0 --> 01:07:29,0
+fourth
+
+586
+01:07:29,0 --> 01:07:29,0
+
+
+587
+01:07:29,0 --> 01:07:29,0
+
+
+588
+01:07:29,0 --> 01:07:29,0
+year
+
+589
+01:07:29,0 --> 01:07:29,0
+
+
+590
+01:07:29,0 --> 01:07:29,0
+they
+
+591
+01:07:29,0 --> 01:07:29,0
+
+
+592
+01:07:29,0 --> 01:07:29,0
+
+
+593
+01:07:29,0 --> 01:07:29,0
+began
+
+594
+01:07:29,0 --> 01:07:29,0
+
+
+595
+01:07:29,0 --> 01:07:29,0
+to
+
+596
+01:07:29,0 --> 01:07:29,0
+
+
+597
+01:07:29,0 --> 01:07:29,0
+
+
+598
+01:07:29,0 --> 01:07:29,0
+
+
+599
+01:07:29,0 --> 01:07:29,0
+increase
+
+600
+01:07:29,0 --> 01:07:29,0
+
+
+601
+01:07:29,0 --> 01:07:29,0
+in
+
+602
+01:07:29,0 --> 01:07:29,0
+a
+
+603
+01:07:29,0 --> 01:07:29,0
+
+
+604
+01:07:29,0 --> 01:07:29,0
+
+
+605
+01:07:29,0 --> 01:07:29,0
+great
+
+606
+01:07:29,0 --> 01:07:29,0
+
+
+607
+01:07:29,0 --> 01:07:29,0
+
+
+608
+01:07:29,0 --> 01:07:29,0
+
+
+609
+01:07:29,0 --> 01:07:29,0
+degree,
+
+610
+01:07:29,0 --> 01:07:29,0
+
+
+611
+01:07:29,0 --> 01:07:29,0
+
+
+612
+01:07:29,0 --> 01:07:29,0
+
+
+613
+01:07:29,0 --> 01:07:29,0
+because
+
+614
+01:07:29,0 --> 01:07:29,0
+
+
+615
+01:07:29,0 --> 01:07:29,0
+
+
+616
+01:07:29,0 --> 01:07:29,0
+there
+
+617
+01:07:29,0 --> 01:07:29,0
+
+
+618
+01:07:29,0 --> 01:07:29,0
+were
+
+619
+01:07:29,0 --> 01:07:29,0
+
+
+620
+01:07:29,0 --> 01:07:29,0
+
+
+621
+01:07:29,0 --> 01:07:29,0
+many
+
+622
+01:07:29,0 --> 01:07:29,0
+
+
+623
+01:07:29,0 --> 01:07:29,0
+
+
+624
+01:07:29,0 --> 01:07:29,0
+
+
+625
+01:07:29,0 --> 01:07:29,0
+
+
+626
+01:07:29,0 --> 01:07:29,0
+dissenters
+
+627
+01:07:29,0 --> 01:07:29,0
+
+
+628
+01:07:29,0 --> 01:07:29,0
+of
+
+629
+01:07:29,0 --> 01:07:29,0
+
+
+630
+01:07:29,0 --> 01:07:29,0
+the
+
+631
+01:07:29,0 --> 01:07:29,0
+
+
+632
+01:07:29,0 --> 01:07:29,0
+
+
+633
+01:07:29,0 --> 01:07:29,0
+
+
+634
+01:07:29,0 --> 01:07:29,0
+Nephites
+
+635
+01:07:29,0 --> 01:07:29,0
+
+
+636
+01:07:29,0 --> 01:07:29,0
+who
+
+637
+01:07:29,0 --> 01:07:29,0
+
+
+638
+01:07:29,0 --> 01:07:29,0
+did
+
+639
+01:07:29,0 --> 01:07:29,0
+
+
+640
+01:07:29,0 --> 01:07:29,0
+
+
+641
+01:07:29,0 --> 01:07:29,0
+flee
+
+642
+01:07:29,0 --> 01:07:29,0
+
+
+643
+01:07:29,0 --> 01:07:01,
+unto them, which did cause much sorrow unto those Nephites who did remain in the land.
+
+644
+01:07:01,0 --> 01:07:01,0
+29
+
+645
+01:07:01,0 --> 01:07:01,0
+
+
+646
+01:07:01,0 --> 01:07:01,0
+And
+
+647
+01:07:01,0 --> 01:07:01,0
+
+
+648
+01:07:01,0 --> 01:07:01,0
+
+
+649
+01:07:01,0 --> 01:07:01,0
+there
+
+650
+01:07:01,0 --> 01:07:01,0
+
+
+651
+01:07:01,0 --> 01:07:01,0
+was
+
+652
+01:07:01,0 --> 01:07:01,0
+
+
+653
+01:07:01,0 --> 01:07:01,0
+
+
+654
+01:07:01,0 --> 01:07:01,0
+also
+
+655
+01:07:01,0 --> 01:07:01,0
+a
+
+656
+01:07:01,0 --> 01:07:01,0
+
+
+657
+01:07:01,0 --> 01:07:01,0
+
+
+658
+01:07:01,0 --> 01:07:01,0
+cause
+
+659
+01:07:01,0 --> 01:07:01,0
+of
+
+660
+01:07:01,0 --> 01:07:01,0
+
+
+661
+01:07:01,0 --> 01:07:01,0
+
+
+662
+01:07:01,0 --> 01:07:01,0
+much
+
+663
+01:07:01,0 --> 01:07:01,0
+
+
+664
+01:07:01,0 --> 01:07:01,0
+
+
+665
+01:07:01,0 --> 01:07:01,0
+sorrow
+
+666
+01:07:01,0 --> 01:07:01,0
+
+
+667
+01:07:01,0 --> 01:07:01,0
+
+
+668
+01:07:01,0 --> 01:07:01,0
+among
+
+669
+01:07:01,0 --> 01:07:01,0
+
+
+670
+01:07:01,0 --> 01:07:01,0
+the
+
+671
+01:07:01,0 --> 01:07:01,0
+
+
+672
+01:07:01,0 --> 01:07:01,0
+
+
+673
+01:07:01,0 --> 01:07:01,0
+
+
+674
+01:07:01,0 --> 01:07:01,0
+
+
+675
+01:07:01,0 --> 01:07:01,0
+
+
+676
+01:07:01,0 --> 01:07:01,0
+Lamanites;
+
+677
+01:07:01,0 --> 01:07:01,0
+
+
+678
+01:07:01,0 --> 01:07:01,0
+for
+
+679
+01:07:01,0 --> 01:07:01,0
+
+
+680
+01:07:01,0 --> 01:07:01,0
+
+
+681
+01:07:01,0 --> 01:07:01,0
+
+
+682
+01:07:01,0 --> 01:07:01,0
+behold,
+
+683
+01:07:01,0 --> 01:07:01,0
+
+
+684
+01:07:01,0 --> 01:07:01,0
+they
+
+685
+01:07:01,0 --> 01:07:01,0
+
+
+686
+01:07:01,0 --> 01:07:01,0
+had
+
+687
+01:07:01,0 --> 01:07:01,0
+
+
+688
+01:07:01,0 --> 01:07:01,0
+
+
+689
+01:07:01,0 --> 01:07:01,0
+many
+
+690
+01:07:01,0 --> 01:07:01,0
+
+
+691
+01:07:01,0 --> 01:07:01,0
+
+
+692
+01:07:01,0 --> 01:07:01,0
+
+
+693
+01:07:01,0 --> 01:07:01,0
+children
+
+694
+01:07:01,0 --> 01:07:01,0
+
+
+695
+01:07:01,0 --> 01:07:01,0
+who
+
+696
+01:07:01,0 --> 01:07:01,0
+
+
+697
+01:07:01,0 --> 01:07:01,0
+did
+
+698
+01:07:01,0 --> 01:07:01,0
+
+
+699
+01:07:01,0 --> 01:07:01,0
+
+
+700
+01:07:01,0 --> 01:07:01,0
+grow
+
+701
+01:07:01,0 --> 01:07:01,0
+up
+
+702
+01:07:01,0 --> 01:07:01,0
+
+
+703
+01:07:01,0 --> 01:07:01,0
+and
+
+704
+01:07:01,0 --> 01:07:01,0
+
+
+705
+01:07:01,0 --> 01:07:01,0
+
+
+706
+01:07:01,0 --> 01:07:01,0
+began
+
+707
+01:07:01,0 --> 01:07:01,0
+
+
+708
+01:07:01,0 --> 01:07:01,0
+to
+
+709
+01:07:01,0 --> 01:07:01,0
+
+
+710
+01:07:01,0 --> 01:07:01,0
+wax
+
+711
+01:07:01,0 --> 01:07:01,0
+
+
+712
+01:07:01,0 --> 01:07:01,0
+
+
+713
+01:07:01,0 --> 01:07:01,0
+strong
+
+714
+01:07:01,0 --> 01:07:01,0
+
+
+715
+01:07:01,0 --> 01:07:01,0
+in
+
+716
+01:07:01,0 --> 01:07:01,0
+
+
+717
+01:07:01,0 --> 01:07:01,0
+
+
+718
+01:07:01,0 --> 01:07:01,0
+years,
+
+719
+01:07:01,0 --> 01:07:01,0
+
+
+720
+01:07:01,0 --> 01:07:01,0
+
+
+721
+01:07:01,0 --> 01:07:01,0
+that
+
+722
+01:07:01,0 --> 01:07:01,0
+
+
+723
+01:07:01,0 --> 01:07:01,0
+they
+
+724
+01:07:01,0 --> 01:07:01,0
+
+
+725
+01:07:01,0 --> 01:07:01,0
+
+
+726
+01:07:01,0 --> 01:07:01,0
+
+
+727
+01:07:01,0 --> 01:07:01,0
+became
+
+728
+01:07:01,0 --> 01:07:01,0
+
+
+729
+01:07:01,0 --> 01:07:01,0
+for
+
+730
+01:07:01,0 --> 01:07:01,0
+
+
+731
+01:07:01,0 --> 01:07:01,0
+
+
+732
+01:07:01,0 --> 01:07:01,0
+
+
+733
+01:07:01,0 --> 01:07:01,0
+
+
+734
+01:07:01,0 --> 01:07:01,0
+
+
+735
+01:07:01,0 --> 01:07:01,0
+themselves,
+
+736
+01:07:01,0 --> 01:07:01,0
+
+
+737
+01:07:01,0 --> 01:07:01,0
+and
+
+738
+01:07:01,0 --> 01:07:01,0
+
+
+739
+01:07:01,0 --> 01:07:01,0
+were
+
+740
+01:07:01,0 --> 01:07:01,0
+
+
+741
+01:07:01,0 --> 01:07:01,0
+led
+
+742
+01:07:01,0 --> 01:07:01,0
+
+
+743
+01:07:01,0 --> 01:07:01,0
+
+
+744
+01:07:01,0 --> 01:07:01,0
+away
+
+745
+01:07:01,0 --> 01:07:01,0
+by
+
+746
+01:07:01,0 --> 01:07:01,0
+
+
+747
+01:07:01,0 --> 01:07:01,0
+
+
+748
+01:07:01,0 --> 01:07:01,0
+some
+
+749
+01:07:01,0 --> 01:07:01,0
+
+
+750
+01:07:01,0 --> 01:07:01,0
+who
+
+751
+01:07:01,0 --> 01:07:01,0
+
+
+752
+01:07:01,0 --> 01:07:01,0
+were
+
+753
+01:07:01,0 --> 01:07:01,0
+
+
+754
+01:07:01,0 --> 01:07:01,0
+
+
+755
+01:07:01,0 --> 01:07:01,0
+
+
+756
+01:07:01,0 --> 01:07:01,0
+
+
+757
+01:07:01,0 --> 01:07:01,0
+
+
+758
+01:07:01,0 --> 01:07:01,0
+Zoramites,
+
+759
+01:07:01,0 --> 01:07:01,0
+by
+
+760
+01:07:01,0 --> 01:07:01,0
+
+
+761
+01:07:01,0 --> 01:07:01,0
+
+
+762
+01:07:01,0 --> 01:07:01,0
+their
+
+763
+01:07:01,0 --> 01:07:01,0
+
+
+764
+01:07:01,0 --> 01:07:01,0
+
+
+765
+01:07:01,0 --> 01:07:01,0
+
+
+766
+01:07:01,0 --> 01:07:01,0
+lyings
+
+767
+01:07:01,0 --> 01:07:01,0
+
+
+768
+01:07:01,0 --> 01:07:01,0
+and
+
+769
+01:07:01,0 --> 01:07:01,0
+
+
+770
+01:07:01,0 --> 01:07:01,0
+
+
+771
+01:07:01,0 --> 01:07:01,0
+their
+
+772
+01:07:01,0 --> 01:07:01,0
+
+
+773
+01:07:01,0 --> 01:07:01,0
+
+
+774
+01:07:01,0 --> 01:07:01,0
+
+
+775
+01:07:01,0 --> 01:07:01,0
+
+
+776
+01:07:01,0 --> 01:07:01,0
+flattering
+
+777
+01:07:01,0 --> 01:07:01,0
+
+
+778
+01:07:01,0 --> 01:07:01,0
+
+
+779
+01:07:01,0 --> 01:07:01,0
+
+
+780
+01:07:01,0 --> 01:07:01,0
+words,
+
+781
+01:07:01,0 --> 01:07:01,0
+to
+
+782
+01:07:01,0 --> 01:07:01,0
+
+
+783
+01:07:01,0 --> 01:07:01,0
+
+
+784
+01:07:01,0 --> 01:07:01,0
+join
+
+785
+01:07:01,0 --> 01:07:01,0
+
+
+786
+01:07:01,0 --> 01:07:01,0
+
+
+787
+01:07:01,0 --> 01:07:01,0
+those
+
+788
+01:07:01,0 --> 01:07:01,0
+
+
+789
+01:07:01,0 --> 01:07:01,0
+
+
+790
+01:07:01,0 --> 01:07:01,0
+
+
+791
+01:07:01,0 --> 01:07:01,0
+
+
+792
+01:07:01,0 --> 01:07:01,0
+Gadianton
+
+793
+01:07:01,0 --> 01:07:01,0
+
+
+794
+01:07:01,0 --> 01:07:01,0
+
+
+795
+01:07:01,0 --> 01:07:01,0
+
+
+796
+01:07:01,0 --> 01:07:15,
+robbers.
+
+797
+01:07:15,0 --> 01:07:15,0
+30
+
+798
+01:07:15,0 --> 01:07:15,0
+
+
+799
+01:07:15,0 --> 01:07:15,0
+And
+
+800
+01:07:15,0 --> 01:07:15,0
+
+
+801
+01:07:15,0 --> 01:07:15,0
+
+
+802
+01:07:15,0 --> 01:07:15,0
+thus
+
+803
+01:07:15,0 --> 01:07:15,0
+
+
+804
+01:07:15,0 --> 01:07:15,0
+were
+
+805
+01:07:15,0 --> 01:07:15,0
+
+
+806
+01:07:15,0 --> 01:07:15,0
+the
+
+807
+01:07:15,0 --> 01:07:15,0
+
+
+808
+01:07:15,0 --> 01:07:15,0
+
+
+809
+01:07:15,0 --> 01:07:15,0
+
+
+810
+01:07:15,0 --> 01:07:15,0
+
+
+811
+01:07:15,0 --> 01:07:15,0
+Lamanites
+
+812
+01:07:15,0 --> 01:07:15,0
+
+
+813
+01:07:15,0 --> 01:07:15,0
+
+
+814
+01:07:15,0 --> 01:07:15,0
+
+
+815
+01:07:15,0 --> 01:07:15,0
+
+
+816
+01:07:15,0 --> 01:07:15,0
+afflicted
+
+817
+01:07:15,0 --> 01:07:15,0
+
+
+818
+01:07:15,0 --> 01:07:15,0
+
+
+819
+01:07:15,0 --> 01:07:15,0
+also,
+
+820
+01:07:15,0 --> 01:07:15,0
+
+
+821
+01:07:15,0 --> 01:07:15,0
+and
+
+822
+01:07:15,0 --> 01:07:15,0
+
+
+823
+01:07:15,0 --> 01:07:15,0
+
+
+824
+01:07:15,0 --> 01:07:15,0
+began
+
+825
+01:07:15,0 --> 01:07:15,0
+
+
+826
+01:07:15,0 --> 01:07:15,0
+to
+
+827
+01:07:15,0 --> 01:07:15,0
+
+
+828
+01:07:15,0 --> 01:07:15,0
+
+
+829
+01:07:15,0 --> 01:07:15,0
+
+
+830
+01:07:15,0 --> 01:07:15,0
+decrease
+
+831
+01:07:15,0 --> 01:07:15,0
+
+
+832
+01:07:15,0 --> 01:07:15,0
+as
+
+833
+01:07:15,0 --> 01:07:15,0
+to
+
+834
+01:07:15,0 --> 01:07:15,0
+
+
+835
+01:07:15,0 --> 01:07:15,0
+
+
+836
+01:07:15,0 --> 01:07:15,0
+their
+
+837
+01:07:15,0 --> 01:07:15,0
+
+
+838
+01:07:15,0 --> 01:07:15,0
+
+
+839
+01:07:15,0 --> 01:07:15,0
+faith
+
+840
+01:07:15,0 --> 01:07:15,0
+
+
+841
+01:07:15,0 --> 01:07:15,0
+and
+
+842
+01:07:15,0 --> 01:07:15,0
+
+
+843
+01:07:15,0 --> 01:07:15,0
+
+
+844
+01:07:15,0 --> 01:07:15,0
+
+
+845
+01:07:15,0 --> 01:07:15,0
+
+
+846
+01:07:15,0 --> 01:07:15,0
+
+
+847
+01:07:15,0 --> 01:07:15,0
+
+
+848
+01:07:15,0 --> 01:07:15,0
+
+
+849
+01:07:15,0 --> 01:07:15,0
+righteousness,
+
+850
+01:07:15,0 --> 01:07:15,0
+
+
+851
+01:07:15,0 --> 01:07:15,0
+
+
+852
+01:07:15,0 --> 01:07:15,0
+
+
+853
+01:07:15,0 --> 01:07:15,0
+because
+
+854
+01:07:15,0 --> 01:07:15,0
+of
+
+855
+01:07:15,0 --> 01:07:15,0
+
+
+856
+01:07:15,0 --> 01:07:15,0
+the
+
+857
+01:07:15,0 --> 01:07:15,0
+
+
+858
+01:07:15,0 --> 01:07:15,0
+
+
+859
+01:07:15,0 --> 01:07:15,0
+
+
+860
+01:07:15,0 --> 01:07:15,0
+
+
+861
+01:07:15,0 --> 01:07:15,0
+
+
+862
+01:07:15,0 --> 01:07:15,0
+wickedness
+
+863
+01:07:15,0 --> 01:07:15,0
+of
+
+864
+01:07:15,0 --> 01:07:15,0
+
+
+865
+01:07:15,0 --> 01:07:15,0
+the
+
+866
+01:07:15,0 --> 01:07:15,0
+
+
+867
+01:07:15,0 --> 01:07:15,0
+
+
+868
+01:07:15,0 --> 01:07:15,0
+
+
+869
+01:07:15,0 --> 01:07:15,0
+rising
+
+870
+01:07:15,0 --> 01:07:15,0
+
+
+871
+01:07:15,0 --> 01:07:15,0
+
+
+872
+01:07:15,0 --> 01:07:15,0
+
+
+873
+01:07:15,0 --> 01:07:15,0
+
+
+874
+01:07:15,0 --> 01:07:15,0
+
+
+875
+01:07:15,0 --> 01:06:47,
+generation. 
 

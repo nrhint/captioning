@@ -1,460 +1,1348 @@
 1
-00:00:00,0 --> 00:00:13,75
-Chapter 8 Ammon teaches the people of Limhi—He
+00:00:00,0 --> 00:00:00,0
+Chapter 8 Ammon teaches the people of
 
 2
-00:00:13,75 --> 00:00:27,5
- learns of the twenty-four Jaredite plates—Ancient
+00:00:00,0 --> 00:00:00,0
+Limhi—He learns of the twenty-four Jaredite
 
 3
-00:00:27,5 --> 00:00:41,25
- records can be translated by seers—No gift is greater
+00:00:00,0 --> 00:00:00,0
+plates—Ancient records can be translated by seers—No
 
 4
-00:00:41,25 --> 00:00:55,0
- than seership. About 121 B.C.
+00:00:00,0 --> 00:04:29,
+gift is greater than seership. About 121 B.C. 
 
 5
-00:00:55,656 --> 00:01:01,489
-1 And it came to pass that after king Limhi had
+00:04:29,0 --> 00:04:29,0
+1 And it came to pass that after king Limhi
 
 6
-00:01:01,489 --> 00:01:07,322
- made an end of speaking to his people, for he spake
+00:04:29,0 --> 00:04:29,0
+had made an end of speaking to his people,
 
 7
-00:01:07,322 --> 00:01:13,155
- many things unto them and only a few of them have
+00:04:29,0 --> 00:04:29,0
+for he spake many things unto them and only a
 
 8
-00:01:13,155 --> 00:01:18,988
- I written in this book, he told his people all the
+00:04:29,0 --> 00:04:29,0
+few of them have I written in this book, he
 
 9
-00:01:18,988 --> 00:01:24,821
- things concerning their brethren who were in the
+00:04:29,0 --> 00:04:29,0
+told his people all the things concerning
 
 10
-00:01:24,821 --> 00:01:30,654
- land of Zarahemla
+00:04:29,0 --> 00:12:26,
+their brethren who were in the land of Zarahemla.
 
 11
-00:01:30,457 --> 00:01:46,457
-2 And he caused that Ammon should stand up before
+00:12:26,0 --> 00:12:26,0
+2 And he caused that Ammon should stand
 
 12
-00:01:46,457 --> 00:02:02,457
- the multitude, and rehearse unto them all that had
+00:12:26,0 --> 00:12:26,0
+up before the multitude, and rehearse
 
 13
-00:02:02,457 --> 00:02:18,457
- happened unto their brethren from the time that
+00:12:26,0 --> 00:12:26,0
+unto them all that had happened unto their
 
 14
-00:02:18,457 --> 00:02:34,457
- Zeniff went up out of the land even until the time
+00:12:26,0 --> 00:12:26,0
+brethren from the time that Zeniff went
 
 15
-00:02:34,457 --> 00:02:50,457
- that he himself came up out of the land
+00:12:26,0 --> 00:12:26,0
+up out of the land even until the time
 
 16
-00:02:50,203 --> 00:02:52,203
-3 And he also rehearsed unto them the last words
+00:12:26,0 --> 00:14:38,
+that he himself came up out of the land.
 
 17
-00:02:52,203 --> 00:02:54,203
- which king Benjamin had taught them, and explained
+00:14:38,0 --> 00:14:38,0
+3 And he also rehearsed unto them the
 
 18
-00:02:54,203 --> 00:02:56,203
- them to the people of king Limhi, so that they
+00:14:38,0 --> 00:14:38,0
+last words which king Benjamin had
 
 19
-00:02:56,203 --> 00:02:58,203
- might understand all the words which he spake
+00:14:38,0 --> 00:14:38,0
+taught them, and explained them to the
 
 20
-00:02:58,178 --> 00:03:02,178
-4 And it came to pass that after he had done all
+00:14:38,0 --> 00:14:38,0
+people of king Limhi, so that they might
 
 21
-00:03:02,178 --> 00:03:06,178
- this, that king Limhi dismissed the multitude, and
+00:14:38,0 --> 00:24:48,
+understand all the words which he spake.
 
 22
-00:03:06,178 --> 00:03:10,178
- caused that they should return every one unto his
+00:24:48,0 --> 00:24:48,0
+4 And it came to pass that after
 
 23
-00:03:10,178 --> 00:03:14,178
- own house
+00:24:48,0 --> 00:24:48,0
+he had done all this, that king
 
 24
-00:03:14,127 --> 00:03:14,927
-5 And it came to pass that he caused that the
+00:24:48,0 --> 00:24:48,0
+Limhi dismissed the multitude,
 
 25
-00:03:14,927 --> 00:03:15,727
- plates which contained the record of his people from
+00:24:48,0 --> 00:24:48,0
+and caused that they should
 
 26
-00:03:15,727 --> 00:03:16,527
- the time that they left the land of Zarahemla,
+00:24:48,0 --> 00:24:20,
+return every one unto his own house.
 
 27
-00:03:16,527 --> 00:03:17,327
- should be brought before Ammon, that he might read
+00:24:20,0 --> 00:24:20,0
+5 And it came to pass that
 
 28
-00:03:17,327 --> 00:03:18,127
- them
+00:24:20,0 --> 00:24:20,0
+he caused that the plates
 
 29
-00:03:18,265 --> 00:03:21,265
-6 Now, as soon as Ammon had read the record, the
+00:24:20,0 --> 00:24:20,0
+which contained the record of
 
 30
-00:03:21,265 --> 00:03:24,265
- king inquired of him to know if he could interpret
+00:24:20,0 --> 00:24:20,0
+his people from the time that
 
 31
-00:03:24,265 --> 00:03:27,265
- languages, and Ammon told him that he could not
+00:24:20,0 --> 00:24:20,0
+they left the land of
 
 32
-00:03:27,174 --> 00:03:44,341
-7 And the king said unto him: Being grieved for
+00:24:20,0 --> 00:24:20,0
+Zarahemla, should be brought
 
 33
-00:03:44,341 --> 00:04:01,508
- the afflictions of my people, I caused that forty
+00:24:20,0 --> 00:23:52,
+before Ammon, that he might read them.
 
 34
-00:04:01,508 --> 00:04:18,675
- and three of my people should take a journey into
+00:23:52,0 --> 00:23:52,0
+6 Now, as soon as Ammon
 
 35
-00:04:18,675 --> 00:04:35,842
- the wilderness, that thereby they might find the
+00:23:52,0 --> 00:23:52,0
+had read the record, the
 
 36
-00:04:35,842 --> 00:04:53,009
- land of Zarahemla, that we might appeal unto our
+00:23:52,0 --> 00:23:52,0
+king inquired of him to
 
 37
-00:04:53,009 --> 00:05:10,176
- brethren to deliver us out of bondage
+00:23:52,0 --> 00:23:52,0
+know if he could
 
 38
-00:05:10,844 --> 00:05:11,733
-8 And they were lost in the wilderness for the
+00:23:52,0 --> 00:23:52,0
+interpret languages, and Ammon
 
 39
-00:05:11,733 --> 00:05:12,622
- space of many days, yet they were diligent, and found
+00:23:52,0 --> 00:23:38,
+told him that he could not.
 
 40
-00:05:12,622 --> 00:05:13,511
- not the land of Zarahemla but returned to this
+00:23:38,0 --> 00:23:38,0
+7 And the king said
 
 41
-00:05:13,511 --> 00:05:14,4
- land, having traveled in a land among many waters,
+00:23:38,0 --> 00:23:38,0
+unto him: Being grieved
 
 42
-00:05:14,4 --> 00:05:15,289
- having discovered a land which was covered with
+00:23:38,0 --> 00:23:38,0
+for the afflictions of my
 
 43
-00:05:15,289 --> 00:05:16,178
- bones of men, and of beasts, and was also covered
+00:23:38,0 --> 00:23:38,0
+people, I caused that
 
 44
-00:05:16,178 --> 00:05:17,067
- with ruins of buildings of every kind, having
+00:23:38,0 --> 00:23:38,0
+forty and three of my
 
 45
-00:05:17,067 --> 00:05:17,956
- discovered a land which had been peopled with a people
+00:23:38,0 --> 00:23:38,0
+people should take a
 
 46
-00:05:17,956 --> 00:05:18,845
- who were as numerous as the hosts of Israel
+00:23:38,0 --> 00:23:38,0
+journey into the
 
 47
-00:05:18,818 --> 00:05:19,068
-9 And for a testimony that the things that they
+00:23:38,0 --> 00:23:38,0
+wilderness, that thereby they
 
 48
-00:05:19,068 --> 00:05:19,318
- had said are true they have brought twenty-four
+00:23:38,0 --> 00:23:38,0
+might find the land of
 
 49
-00:05:19,318 --> 00:05:19,568
- plates which are filled with engravings, and they are
+00:23:38,0 --> 00:23:38,0
+Zarahemla, that we might
 
 50
-00:05:19,568 --> 00:05:19,818
- of pure gold
+00:23:38,0 --> 00:23:38,0
+appeal unto our
 
 51
-00:05:19,419 --> 00:05:22,086
-10 And behold, also, they have brought
+00:23:38,0 --> 00:24:22,
+brethren to deliver us out of bondage.
 
 52
-00:05:22,086 --> 00:05:24,753
- breastplates, which are large, and they are of brass and of
+00:24:22,0 --> 00:24:22,0
+8 And they were lost
 
 53
-00:05:24,753 --> 00:05:27,42
- copper, and are perfectly sound
+00:24:22,0 --> 00:24:22,0
+in the wilderness for
 
 54
-00:05:27,16 --> 00:05:31,16
-11 And again, they have brought swords, the hilts
+00:24:22,0 --> 00:24:22,0
+the space of many days,
 
 55
-00:05:31,16 --> 00:05:35,16
- thereof have perished, and the blades thereof were
+00:24:22,0 --> 00:24:22,0
+yet they were
 
 56
-00:05:35,16 --> 00:05:39,16
- cankered with rust; and there is no one in the
+00:24:22,0 --> 00:24:22,0
+diligent, and found not the
 
 57
-00:05:39,16 --> 00:05:43,16
- land that is able to interpret the language or the
+00:24:22,0 --> 00:24:22,0
+land of Zarahemla but
 
 58
-00:05:43,16 --> 00:05:47,16
- engravings that are on the plates. Therefore I said
+00:24:22,0 --> 00:24:22,0
+returned to this land,
 
 59
-00:05:47,16 --> 00:05:51,16
- unto thee: Canst thou translate
+00:24:22,0 --> 00:24:22,0
+having traveled in a
 
 60
-00:05:51,084 --> 00:05:51,973
-12 And I say unto thee again: Knowest thou of any
+00:24:22,0 --> 00:24:22,0
+land among many waters,
 
 61
-00:05:51,973 --> 00:05:52,862
- one that can translate? For I am desirous that
+00:24:22,0 --> 00:24:22,0
+having discovered a
 
 62
-00:05:52,862 --> 00:05:53,751
- these records should be translated into our language;
+00:24:22,0 --> 00:24:22,0
+land which was covered
 
 63
-00:05:53,751 --> 00:05:54,64
- for, perhaps, they will give us a knowledge of a
+00:24:22,0 --> 00:24:22,0
+with bones of men, and
 
 64
-00:05:54,64 --> 00:05:55,529
- remnant of the people who have been destroyed,
+00:24:22,0 --> 00:24:22,0
+of beasts, and was
 
 65
-00:05:55,529 --> 00:05:56,418
- from whence these records came; or, perhaps, they
+00:24:22,0 --> 00:24:22,0
+also covered with ruins
 
 66
-00:05:56,418 --> 00:05:57,307
- will give us a knowledge of this very people who have
+00:24:22,0 --> 00:24:22,0
+of buildings of every
 
 67
-00:05:57,307 --> 00:05:58,196
- been destroyed; and I am desirous to know the
+00:24:22,0 --> 00:24:22,0
+kind, having
 
 68
-00:05:58,196 --> 00:05:59,085
- cause of their destruction
+00:24:22,0 --> 00:24:22,0
+discovered a land which had
 
 69
-00:05:59,059 --> 00:06:03,392
-13 Now Ammon said unto him: I can assuredly tell
+00:24:22,0 --> 00:24:22,0
+been peopled with a
 
 70
-00:06:03,392 --> 00:06:07,725
- thee, O king, of a man that can translate the
+00:24:22,0 --> 00:24:22,0
+people who were as numerous
 
 71
-00:06:07,725 --> 00:06:12,058
- records; for he has wherewith that he can look, and
+00:24:22,0 --> 00:26:34,
+as the hosts of Israel.
 
 72
-00:06:12,058 --> 00:06:16,391
- translate all records that are of ancient date; and
+00:26:34,0 --> 00:26:34,0
+9 And for a
 
 73
-00:06:16,391 --> 00:06:20,724
- it is a gift from God. And the things are called
+00:26:34,0 --> 00:26:34,0
+testimony that the things
 
 74
-00:06:20,724 --> 00:06:25,057
- interpreters, and no man can look in them except he
+00:26:34,0 --> 00:26:34,0
+that they had said are
 
 75
-00:06:25,057 --> 00:06:29,39
- be commanded, lest he should look for that he
+00:26:34,0 --> 00:26:34,0
+true they have
 
 76
-00:06:29,39 --> 00:06:33,723
- ought not and he should perish. And whosoever is
+00:26:34,0 --> 00:26:34,0
+brought twenty-four
 
 77
-00:06:33,723 --> 00:06:38,056
- commanded to look in them, the same is called seer
+00:26:34,0 --> 00:26:34,0
+plates which are filled
 
 78
-00:06:38,932 --> 00:06:46,932
-14 And behold, the king of the people who are in
+00:26:34,0 --> 00:26:34,0
+with engravings, and
 
 79
-00:06:46,932 --> 00:06:54,932
- the land of Zarahemla is the man that is commanded
+00:26:34,0 --> 00:29:16,
+they are of pure gold.
 
 80
-00:06:54,932 --> 00:07:02,932
- to do these things, and who has this high gift
+00:29:16,0 --> 00:29:16,0
+10 And behold,
 
 81
-00:07:02,932 --> 00:07:10,932
- from God
+00:29:16,0 --> 00:29:16,0
+also, they have
 
 82
-00:07:10,83 --> 00:07:18,83
-15 And the king said that a seer is greater than a
+00:29:16,0 --> 00:29:16,0
+brought breastplates,
 
 83
-00:07:18,83 --> 00:07:26,83
- prophet
+00:29:16,0 --> 00:29:16,0
+which are large,
 
 84
-00:07:26,78 --> 00:07:29,98
-16 And Ammon said that a seer is a revelator and a
+00:29:16,0 --> 00:29:16,0
+and they are of
 
 85
-00:07:29,98 --> 00:07:33,18
- prophet also; and a gift which is greater can no
+00:29:16,0 --> 00:29:16,0
+brass and of copper,
 
 86
-00:07:33,18 --> 00:07:36,38
- man have, except he should possess the power of
+00:29:16,0 --> 00:36:24,
+and are perfectly sound.
 
 87
-00:07:36,38 --> 00:07:39,58
- God, which no man can; yet a man may have great
+00:36:24,0 --> 00:36:24,0
+11 And again,
 
 88
-00:07:39,58 --> 00:07:42,78
- power given him from God
+00:36:24,0 --> 00:36:24,0
+they have brought
 
 89
-00:07:42,729 --> 00:07:43,104
-17 But a seer can know of things which are past,
+00:36:24,0 --> 00:36:24,0
+swords, the hilts
 
 90
-00:07:43,104 --> 00:07:43,479
- and also of things which are to come, and by them
+00:36:24,0 --> 00:36:24,0
+thereof have
 
 91
-00:07:43,479 --> 00:07:43,854
- shall all things be revealed, or, rather, shall
+00:36:24,0 --> 00:36:24,0
+perished, and the
 
 92
-00:07:43,854 --> 00:07:44,229
- secret things be made manifest, and hidden things
+00:36:24,0 --> 00:36:24,0
+blades thereof were
 
 93
-00:07:44,229 --> 00:07:44,604
- shall come to light, and things which are not known
+00:36:24,0 --> 00:36:24,0
+cankered with
 
 94
-00:07:44,604 --> 00:07:44,979
- shall be made known by them, and also things shall
+00:36:24,0 --> 00:36:24,0
+rust; and there is no
 
 95
-00:07:44,979 --> 00:07:45,354
- be made known by them which otherwise could not be
+00:36:24,0 --> 00:36:24,0
+one in the land
 
 96
-00:07:45,354 --> 00:07:45,729
- known
+00:36:24,0 --> 00:36:24,0
+that is able to
 
 97
-00:07:45,865 --> 00:07:48,532
-18 Thus God has provided a means that man, through
+00:36:24,0 --> 00:36:24,0
+interpret the
 
 98
-00:07:48,532 --> 00:07:51,199
- faith, might work mighty miracles; therefore he
+00:36:24,0 --> 00:36:24,0
+language or the
 
 99
-00:07:51,199 --> 00:07:53,866
- becometh a great benefit to his fellow beings
+00:36:24,0 --> 00:36:24,0
+engravings that are on
 
 100
-00:07:53,84 --> 00:07:54,983
-19 And now, when Ammon had made an end of speaking
+00:36:24,0 --> 00:36:24,0
+the plates.
 
 101
-00:07:54,983 --> 00:07:56,126
- these words the king rejoiced exceedingly, and
+00:36:24,0 --> 00:36:24,0
+Therefore I said unto
 
 102
-00:07:56,126 --> 00:07:57,269
- gave thanks to God, saying: Doubtless a great
+00:36:24,0 --> 00:37:54,
+thee: Canst thou translate?
 
 103
-00:07:57,269 --> 00:07:58,412
- mystery is contained within these plates, and these
+00:37:54,0 --> 00:37:54,0
+12 And I say
 
 104
-00:07:58,412 --> 00:07:59,555
- interpreters were doubtless prepared for the purpose
+00:37:54,0 --> 00:37:54,0
+unto thee again:
 
 105
-00:07:59,555 --> 00:08:00,698
- of unfolding all such mysteries to the children of
+00:37:54,0 --> 00:37:54,0
+Knowest thou of
 
 106
-00:08:00,698 --> 00:08:01,841
- men
+00:37:54,0 --> 00:37:54,0
+any one that can
 
 107
-00:08:01,815 --> 00:08:04,482
-20 O how marvelous are the works of the Lord, and
+00:37:54,0 --> 00:37:54,0
+translate? For I
 
 108
-00:08:04,482 --> 00:08:07,149
- how long doth he suffer with his people; yea, and
+00:37:54,0 --> 00:37:54,0
+am desirous that
 
 109
-00:08:07,149 --> 00:08:09,816
- how blind and impenetrable are the understandings
+00:37:54,0 --> 00:37:54,0
+these records
 
 110
-00:08:09,816 --> 00:08:12,483
- of the children of men; for they will not seek
+00:37:54,0 --> 00:37:54,0
+should be
 
 111
-00:08:12,483 --> 00:08:15,15
- wisdom, neither do they desire that she should rule
+00:37:54,0 --> 00:37:54,0
+translated into our
 
 112
-00:08:15,15 --> 00:08:17,817
- over them
+00:37:54,0 --> 00:37:54,0
+language; for,
 
 113
-00:08:17,764 --> 00:08:19,097
-21 Yea, they are as a wild flock which fleeth from
+00:37:54,0 --> 00:37:54,0
+perhaps, they will
 
 114
-00:08:19,097 --> 00:08:20,43
- the shepherd, and scattereth, and are driven, and
+00:37:54,0 --> 00:37:54,0
+give us a
 
 115
-00:08:20,43 --> 00:08:21,763
- are devoured by the beasts of the forest.
+00:37:54,0 --> 00:37:54,0
+knowledge of a remnant
+
+116
+00:37:54,0 --> 00:37:54,0
+of the people
+
+117
+00:37:54,0 --> 00:37:54,0
+who have been
+
+118
+00:37:54,0 --> 00:37:54,0
+destroyed, from
+
+119
+00:37:54,0 --> 00:37:54,0
+whence these records
+
+120
+00:37:54,0 --> 00:37:54,0
+came; or,
+
+121
+00:37:54,0 --> 00:37:54,0
+perhaps, they will
+
+122
+00:37:54,0 --> 00:37:54,0
+give us a
+
+123
+00:37:54,0 --> 00:37:54,0
+knowledge of this very
+
+124
+00:37:54,0 --> 00:37:54,0
+people who have
+
+125
+00:37:54,0 --> 00:37:54,0
+been destroyed;
+
+126
+00:37:54,0 --> 00:37:54,0
+and I am desirous
+
+127
+00:37:54,0 --> 00:38:24,
+to know the cause of their destruction.
+
+128
+00:38:24,0 --> 00:38:24,0
+13 Now Ammon
+
+129
+00:38:24,0 --> 00:38:24,0
+said unto him: I
+
+130
+00:38:24,0 --> 00:38:24,0
+can assuredly
+
+131
+00:38:24,0 --> 00:38:24,0
+tell thee, O
+
+132
+00:38:24,0 --> 00:38:24,0
+king, of a man
+
+133
+00:38:24,0 --> 00:38:24,0
+that can translate
+
+134
+00:38:24,0 --> 00:38:24,0
+the records;
+
+135
+00:38:24,0 --> 00:38:24,0
+for he has
+
+136
+00:38:24,0 --> 00:38:24,0
+wherewith that he
+
+137
+00:38:24,0 --> 00:38:24,0
+can look, and
+
+138
+00:38:24,0 --> 00:38:24,0
+translate all
+
+139
+00:38:24,0 --> 00:38:24,0
+records that are of
+
+140
+00:38:24,0 --> 00:38:24,0
+ancient date;
+
+141
+00:38:24,0 --> 00:38:24,0
+and it is a
+
+142
+00:38:24,0 --> 00:38:24,0
+gift from God. And
+
+143
+00:38:24,0 --> 00:38:24,0
+the things are
+
+144
+00:38:24,0 --> 00:38:24,0
+called
+
+145
+00:38:24,0 --> 00:38:24,0
+interpreters, and no
+
+146
+00:38:24,0 --> 00:38:24,0
+man can look in
+
+147
+00:38:24,0 --> 00:38:24,0
+them except he
+
+148
+00:38:24,0 --> 00:38:24,0
+be commanded,
+
+149
+00:38:24,0 --> 00:38:24,0
+lest he should
+
+150
+00:38:24,0 --> 00:38:24,0
+look for that he
+
+151
+00:38:24,0 --> 00:38:24,0
+ought not and
+
+152
+00:38:24,0 --> 00:38:24,0
+he should
+
+153
+00:38:24,0 --> 00:38:24,0
+perish. And
+
+154
+00:38:24,0 --> 00:38:24,0
+whosoever is commanded
+
+155
+00:38:24,0 --> 00:40:36,
+to look in them, the same is called seer.
+
+156
+00:40:36,0 --> 00:40:36,0
+14 And behold,
+
+157
+00:40:36,0 --> 00:40:36,0
+the king of
+
+158
+00:40:36,0 --> 00:40:36,0
+the people who
+
+159
+00:40:36,0 --> 00:40:36,0
+are in the
+
+160
+00:40:36,0 --> 00:40:36,0
+land of Zarahemla
+
+161
+00:40:36,0 --> 00:40:36,0
+is the man
+
+162
+00:40:36,0 --> 00:40:36,0
+that is
+
+163
+00:40:36,0 --> 00:40:36,0
+commanded to do these
+
+164
+00:40:36,0 --> 00:40:36,0
+things, and
+
+165
+00:40:36,0 --> 00:40:36,0
+who has this
+
+166
+00:40:36,0 --> 00:40:50,
+high gift from God.
+
+167
+00:40:50,0 --> 00:40:50,0
+15 And the
+
+168
+00:40:50,0 --> 00:40:50,0
+king said
+
+169
+00:40:50,0 --> 00:40:50,0
+that a seer
+
+170
+00:40:50,0 --> 00:40:50,0
+is greater
+
+171
+00:40:50,0 --> 00:42:34,
+than a prophet.
+
+172
+00:42:34,0 --> 00:42:34,0
+16 And
+
+173
+00:42:34,0 --> 00:42:34,0
+Ammon said
+
+174
+00:42:34,0 --> 00:42:34,0
+that a seer
+
+175
+00:42:34,0 --> 00:42:34,0
+is a
+
+176
+00:42:34,0 --> 00:42:34,0
+revelator and a
+
+177
+00:42:34,0 --> 00:42:34,0
+prophet
+
+178
+00:42:34,0 --> 00:42:34,0
+also; and a
+
+179
+00:42:34,0 --> 00:42:34,0
+gift
+
+180
+00:42:34,0 --> 00:42:34,0
+which is
+
+181
+00:42:34,0 --> 00:42:34,0
+greater can no
+
+182
+00:42:34,0 --> 00:42:34,0
+man have,
+
+183
+00:42:34,0 --> 00:42:34,0
+except he
+
+184
+00:42:34,0 --> 00:42:34,0
+should
+
+185
+00:42:34,0 --> 00:42:34,0
+possess the
+
+186
+00:42:34,0 --> 00:42:34,0
+power of
+
+187
+00:42:34,0 --> 00:42:34,0
+God, which
+
+188
+00:42:34,0 --> 00:42:34,0
+no man can;
+
+189
+00:42:34,0 --> 00:42:34,0
+yet a man
+
+190
+00:42:34,0 --> 00:42:34,0
+may have
+
+191
+00:42:34,0 --> 00:42:34,0
+great
+
+192
+00:42:34,0 --> 00:49:00,
+power given him from God.
+
+193
+00:49:00,0 --> 00:49:00,0
+17 But a
+
+194
+00:49:00,0 --> 00:49:00,0
+seer can
+
+195
+00:49:00,0 --> 00:49:00,0
+know of
+
+196
+00:49:00,0 --> 00:49:00,0
+things
+
+197
+00:49:00,0 --> 00:49:00,0
+which are
+
+198
+00:49:00,0 --> 00:49:00,0
+past, and
+
+199
+00:49:00,0 --> 00:49:00,0
+also of
+
+200
+00:49:00,0 --> 00:49:00,0
+things
+
+201
+00:49:00,0 --> 00:49:00,0
+which are to
+
+202
+00:49:00,0 --> 00:49:00,0
+come, and
+
+203
+00:49:00,0 --> 00:49:00,0
+by them
+
+204
+00:49:00,0 --> 00:49:00,0
+shall all
+
+205
+00:49:00,0 --> 00:49:00,0
+things
+
+206
+00:49:00,0 --> 00:49:00,0
+be
+
+207
+00:49:00,0 --> 00:49:00,0
+revealed, or,
+
+208
+00:49:00,0 --> 00:49:00,0
+rather,
+
+209
+00:49:00,0 --> 00:49:00,0
+shall secret
+
+210
+00:49:00,0 --> 00:49:00,0
+things
+
+211
+00:49:00,0 --> 00:49:00,0
+be made
+
+212
+00:49:00,0 --> 00:49:00,0
+manifest,
+
+213
+00:49:00,0 --> 00:49:00,0
+and hidden
+
+214
+00:49:00,0 --> 00:49:00,0
+things
+
+215
+00:49:00,0 --> 00:49:00,0
+shall come
+
+216
+00:49:00,0 --> 00:49:00,0
+to
+
+217
+00:49:00,0 --> 00:49:00,0
+light, and
+
+218
+00:49:00,0 --> 00:49:00,0
+things which
+
+219
+00:49:00,0 --> 00:49:00,0
+are not
+
+220
+00:49:00,0 --> 00:49:00,0
+known
+
+221
+00:49:00,0 --> 00:49:00,0
+shall be
+
+222
+00:49:00,0 --> 00:49:00,0
+made known
+
+223
+00:49:00,0 --> 00:49:00,0
+by them,
+
+224
+00:49:00,0 --> 00:49:00,0
+and also
+
+225
+00:49:00,0 --> 00:49:00,0
+things
+
+226
+00:49:00,0 --> 00:49:00,0
+shall be
+
+227
+00:49:00,0 --> 00:49:00,0
+made known
+
+228
+00:49:00,0 --> 00:56:30,
+by them which otherwise could not be known.
+
+229
+00:56:30,0 --> 00:56:30,0
+18 Thus
+
+230
+00:56:30,0 --> 00:56:30,0
+God has
+
+231
+00:56:30,0 --> 00:56:30,0
+provided
+
+232
+00:56:30,0 --> 00:56:30,0
+a means
+
+233
+00:56:30,0 --> 00:56:30,0
+that
+
+234
+00:56:30,0 --> 00:56:30,0
+man,
+
+235
+00:56:30,0 --> 00:56:30,0
+through
+
+236
+00:56:30,0 --> 00:56:30,0
+faith, might
+
+237
+00:56:30,0 --> 00:56:30,0
+work
+
+238
+00:56:30,0 --> 00:56:30,0
+mighty
+
+239
+00:56:30,0 --> 00:56:30,0
+miracles;
+
+240
+00:56:30,0 --> 00:56:30,0
+therefore
+
+241
+00:56:30,0 --> 00:56:30,0
+he
+
+242
+00:56:30,0 --> 00:56:30,0
+becometh a
+
+243
+00:56:30,0 --> 00:56:30,0
+great
+
+244
+00:56:30,0 --> 00:56:30,0
+benefit to
+
+245
+00:56:30,0 --> 01:08:41,
+his fellow beings.
+
+246
+01:08:41,0 --> 01:08:41,0
+19 And
+
+247
+01:08:41,0 --> 01:08:41,0
+now, when
+
+248
+01:08:41,0 --> 01:08:41,0
+Ammon
+
+249
+01:08:41,0 --> 01:08:41,0
+had made
+
+250
+01:08:41,0 --> 01:08:41,0
+an end
+
+251
+01:08:41,0 --> 01:08:41,0
+of
+
+252
+01:08:41,0 --> 01:08:41,0
+speaking these
+
+253
+01:08:41,0 --> 01:08:41,0
+words
+
+254
+01:08:41,0 --> 01:08:41,0
+the king
+
+255
+01:08:41,0 --> 01:08:41,0
+rejoiced
+
+256
+01:08:41,0 --> 01:08:41,0
+
+
+257
+01:08:41,0 --> 01:08:41,0
+exceedingly,
+
+258
+01:08:41,0 --> 01:08:41,0
+and gave
+
+259
+01:08:41,0 --> 01:08:41,0
+thanks to
+
+260
+01:08:41,0 --> 01:08:41,0
+God,
+
+261
+01:08:41,0 --> 01:08:41,0
+saying:
+
+262
+01:08:41,0 --> 01:08:41,0
+Doubtless
+
+263
+01:08:41,0 --> 01:08:41,0
+a great
+
+264
+01:08:41,0 --> 01:08:41,0
+mystery
+
+265
+01:08:41,0 --> 01:08:41,0
+is
+
+266
+01:08:41,0 --> 01:08:41,0
+contained
+
+267
+01:08:41,0 --> 01:08:41,0
+within
+
+268
+01:08:41,0 --> 01:08:41,0
+these
+
+269
+01:08:41,0 --> 01:08:41,0
+plates, and
+
+270
+01:08:41,0 --> 01:08:41,0
+these
+
+271
+01:08:41,0 --> 01:08:41,0
+interpreters
+
+272
+01:08:41,0 --> 01:08:41,0
+were
+
+273
+01:08:41,0 --> 01:08:41,0
+doubtless
+
+274
+01:08:41,0 --> 01:08:41,0
+prepared
+
+275
+01:08:41,0 --> 01:08:41,0
+for the
+
+276
+01:08:41,0 --> 01:08:41,0
+purpose
+
+277
+01:08:41,0 --> 01:08:41,0
+of
+
+278
+01:08:41,0 --> 01:08:41,0
+unfolding
+
+279
+01:08:41,0 --> 01:08:41,0
+all such
+
+280
+01:08:41,0 --> 01:08:41,0
+mysteries
+
+281
+01:08:41,0 --> 01:08:41,0
+to the
+
+282
+01:08:41,0 --> 01:08:41,0
+children
+
+283
+01:08:41,0 --> 01:08:13,
+of men.
+
+284
+01:08:13,0 --> 01:08:13,0
+20 O
+
+285
+01:08:13,0 --> 01:08:13,0
+how
+
+286
+01:08:13,0 --> 01:08:13,0
+marvelous
+
+287
+01:08:13,0 --> 01:08:13,0
+are the
+
+288
+01:08:13,0 --> 01:08:13,0
+works of
+
+289
+01:08:13,0 --> 01:08:13,0
+the
+
+290
+01:08:13,0 --> 01:08:13,0
+Lord, and
+
+291
+01:08:13,0 --> 01:08:13,0
+how
+
+292
+01:08:13,0 --> 01:08:13,0
+long doth
+
+293
+01:08:13,0 --> 01:08:13,0
+he
+
+294
+01:08:13,0 --> 01:08:13,0
+suffer
+
+295
+01:08:13,0 --> 01:08:13,0
+with his
+
+296
+01:08:13,0 --> 01:08:13,0
+people;
+
+297
+01:08:13,0 --> 01:08:13,0
+yea,
+
+298
+01:08:13,0 --> 01:08:13,0
+and how
+
+299
+01:08:13,0 --> 01:08:13,0
+blind
+
+300
+01:08:13,0 --> 01:08:13,0
+and
+
+301
+01:08:13,0 --> 01:08:13,0
+impenetrable
+
+302
+01:08:13,0 --> 01:08:13,0
+are
+
+303
+01:08:13,0 --> 01:08:13,0
+the
+
+304
+01:08:13,0 --> 01:08:13,0
+
+
+305
+01:08:13,0 --> 01:08:13,0
+understandings of
+
+306
+01:08:13,0 --> 01:08:13,0
+the
+
+307
+01:08:13,0 --> 01:08:13,0
+children of
+
+308
+01:08:13,0 --> 01:08:13,0
+men;
+
+309
+01:08:13,0 --> 01:08:13,0
+for they
+
+310
+01:08:13,0 --> 01:08:13,0
+will
+
+311
+01:08:13,0 --> 01:08:13,0
+not seek
+
+312
+01:08:13,0 --> 01:08:13,0
+
+
+313
+01:08:13,0 --> 01:08:13,0
+wisdom,
+
+314
+01:08:13,0 --> 01:08:13,0
+neither do
+
+315
+01:08:13,0 --> 01:08:13,0
+they
+
+316
+01:08:13,0 --> 01:15:43,
+desire that she should rule over them!
+
+317
+01:15:43,0 --> 01:15:43,0
+21
+
+318
+01:15:43,0 --> 01:15:43,0
+Yea, they
+
+319
+01:15:43,0 --> 01:15:43,0
+are
+
+320
+01:15:43,0 --> 01:15:43,0
+as a
+
+321
+01:15:43,0 --> 01:15:43,0
+wild
+
+322
+01:15:43,0 --> 01:15:43,0
+flock
+
+323
+01:15:43,0 --> 01:15:43,0
+which
+
+324
+01:15:43,0 --> 01:15:43,0
+fleeth
+
+325
+01:15:43,0 --> 01:15:43,0
+from the
+
+326
+01:15:43,0 --> 01:15:43,0
+
+
+327
+01:15:43,0 --> 01:15:43,0
+shepherd,
+
+328
+01:15:43,0 --> 01:15:43,0
+and
+
+329
+01:15:43,0 --> 01:15:43,0
+
+
+330
+01:15:43,0 --> 01:15:43,0
+scattereth, and
+
+331
+01:15:43,0 --> 01:15:43,0
+are
+
+332
+01:15:43,0 --> 01:15:43,0
+driven,
+
+333
+01:15:43,0 --> 01:15:43,0
+and
+
+334
+01:15:43,0 --> 01:15:43,0
+are
+
+335
+01:15:43,0 --> 01:15:43,0
+devoured
+
+336
+01:15:43,0 --> 01:15:43,0
+by the
+
+337
+01:15:43,0 --> 01:15:29,
+beasts of the forest. 
 

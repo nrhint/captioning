@@ -1,209 +1,469 @@
 1
-00:00:00,0 --> 00:00:01,4
-Chapter 14 Isaiah speaks messianically—The
+00:00:00,0 --> 00:00:00,0
+Chapter 14 Isaiah speaks
 
 2
-00:00:01,4 --> 00:00:02,8
- Messiah’s humiliation and sufferings are set forth—He
+00:00:00,0 --> 00:00:00,0
+messianically—The Messiah’s humiliation and sufferings
 
 3
-00:00:02,8 --> 00:00:04,2
- makes His soul an offering for sin and makes
+00:00:00,0 --> 00:00:00,0
+are set forth—He makes His soul an offering
 
 4
-00:00:04,2 --> 00:00:05,6
- intercession for transgressors—Compare 
-Isaiah 53. About
+00:00:00,0 --> 00:00:00,0
+for sin and makes intercession for
 
 5
-00:00:05,6 --> 00:00:07,0
- 148 B.C.
+00:00:00,0 --> 00:15:55,
+transgressors—Compare 
+Isaiah 53. About 148 B.C. 
 
 6
-00:00:07,975 --> 00:00:10,642
-1 Yea, even doth not Isaiah say: Who hath believed
+00:15:55,0 --> 00:15:55,0
+1 Yea, even doth not Isaiah say:
 
 7
-00:00:10,642 --> 00:00:13,309
- our report, and to whom is the arm of the Lord
+00:15:55,0 --> 00:15:55,0
+Who hath believed our report, and to
 
 8
-00:00:13,309 --> 00:00:15,976
- revealed
+00:15:55,0 --> 00:25:23,
+whom is the arm of the Lord revealed?
 
 9
-00:00:15,949 --> 00:00:17,949
-2 For he shall grow up before him as a tender
+00:25:23,0 --> 00:25:23,0
+2 For he shall grow up before
 
 10
-00:00:17,949 --> 00:00:19,949
- plant, and as a root out of dry ground; he hath no
+00:25:23,0 --> 00:25:23,0
+him as a tender plant, and as a
 
 11
-00:00:19,949 --> 00:00:21,949
- form nor comeliness; and when we shall see him there
+00:25:23,0 --> 00:25:23,0
+root out of dry ground; he hath
 
 12
-00:00:21,949 --> 00:00:23,949
- is no beauty that we should desire him
+00:25:23,0 --> 00:25:23,0
+no form nor comeliness; and
 
 13
-00:00:23,924 --> 00:00:25,924
-3 He is despised and rejected of men; a man of
+00:25:23,0 --> 00:25:23,0
+when we shall see him there is no
 
 14
-00:00:25,924 --> 00:00:27,924
- sorrows, and acquainted with grief; and we hid as it
+00:25:23,0 --> 00:24:55,
+beauty that we should desire him.
 
 15
-00:00:27,924 --> 00:00:29,924
- were our faces from him; he was despised, and we
+00:24:55,0 --> 00:24:55,0
+3 He is despised and
 
 16
-00:00:29,924 --> 00:00:31,924
- esteemed him not
+00:24:55,0 --> 00:24:55,0
+rejected of men; a man of
 
 17
-00:00:31,899 --> 00:00:34,566
-4 Surely he has borne our griefs, and carried our
+00:24:55,0 --> 00:24:55,0
+sorrows, and acquainted with
 
 18
-00:00:34,566 --> 00:00:37,233
- sorrows; yet we did esteem him stricken, smitten
+00:24:55,0 --> 00:24:55,0
+grief; and we hid as it were our
 
 19
-00:00:37,233 --> 00:00:39,9
- of God, and afflicted
+00:24:55,0 --> 00:24:55,0
+faces from him; he was
 
 20
-00:00:39,873 --> 00:00:41,873
-5 But he was wounded for our transgressions, he
+00:24:55,0 --> 00:24:27,
+despised, and we esteemed him not.
 
 21
-00:00:41,873 --> 00:00:43,873
- was bruised for our iniquities; the chastisement of
+00:24:27,0 --> 00:24:27,0
+4 Surely he has borne
 
 22
-00:00:43,873 --> 00:00:45,873
- our peace was upon him; and with his stripes we
+00:24:27,0 --> 00:24:27,0
+our griefs, and carried
 
 23
-00:00:45,873 --> 00:00:47,873
- are healed
+00:24:27,0 --> 00:24:27,0
+our sorrows; yet we did
 
 24
-00:00:47,848 --> 00:00:55,848
-6 All we, like sheep, have gone astray; we have
+00:24:27,0 --> 00:24:27,0
+esteem him stricken,
 
 25
-00:00:55,848 --> 00:01:03,848
- turned every one to his own way; and the Lord hath
+00:24:27,0 --> 00:23:59,
+smitten of God, and afflicted.
 
 26
-00:01:03,848 --> 00:01:11,848
- laid on him the iniquities of us all
+00:23:59,0 --> 00:23:59,0
+5 But he was wounded
 
 27
-00:01:11,772 --> 00:01:15,772
-7 He was oppressed, and he was afflicted, yet he
+00:23:59,0 --> 00:23:59,0
+for our transgressions,
 
 28
-00:01:15,772 --> 00:01:19,772
- opened not his mouth; he is brought as a lamb to
+00:23:59,0 --> 00:23:59,0
+he was bruised for
 
 29
-00:01:19,772 --> 00:01:23,772
- the slaughter, and as a sheep before her shearers is
+00:23:59,0 --> 00:23:59,0
+our iniquities; the
 
 30
-00:01:23,772 --> 00:01:27,772
- dumb so he opened not his mouth
+00:23:59,0 --> 00:23:59,0
+chastisement of our peace
 
 31
-00:01:27,721 --> 00:01:33,721
-8 He was taken from prison and from judgment; and
+00:23:59,0 --> 00:23:59,0
+was upon him; and with
 
 32
-00:01:33,721 --> 00:01:39,721
- who shall declare his generation? For he was cut
+00:23:59,0 --> 00:24:57,
+his stripes we are healed.
 
 33
-00:01:39,721 --> 00:01:45,721
- off out of the land of the living; for the
+00:24:57,0 --> 00:24:57,0
+6 All we, like
 
 34
-00:01:45,721 --> 00:01:51,721
- transgressions of my people was he stricken
+00:24:57,0 --> 00:24:57,0
+sheep, have gone
 
 35
-00:01:51,645 --> 00:02:28,978
-9 And he made his grave with the wicked, and with
+00:24:57,0 --> 00:24:57,0
+astray; we have turned
 
 36
-00:02:28,978 --> 00:03:06,311
- the rich in his death; because he had done no
+00:24:57,0 --> 00:24:57,0
+every one to his own
 
 37
-00:03:06,311 --> 00:03:43,644
- evil, neither was any deceit in his mouth
+00:24:57,0 --> 00:24:57,0
+way; and the Lord
 
 38
-00:03:43,29 --> 00:03:48,09
-10 Yet it pleased the Lord to bruise him; he hath
+00:24:57,0 --> 00:24:57,0
+hath laid on him the
 
 39
-00:03:48,09 --> 00:03:52,89
- put him to grief; when thou shalt make his soul an
+00:24:57,0 --> 00:25:11,
+iniquities of us all.
 
 40
-00:03:52,89 --> 00:03:57,69
- offering for sin he shall see his seed, he shall
+00:25:11,0 --> 00:25:11,0
+7 He was
 
 41
-00:03:57,69 --> 00:04:02,49
- prolong his days, and the pleasure of the Lord
+00:25:11,0 --> 00:25:11,0
+oppressed, and he was
 
 42
-00:04:02,49 --> 00:04:07,29
- shall prosper in his hand
+00:25:11,0 --> 00:25:11,0
+afflicted, yet he
 
 43
-00:04:07,214 --> 00:04:19,214
-11 He shall see the travail of his soul, and shall
+00:25:11,0 --> 00:25:11,0
+opened not his mouth;
 
 44
-00:04:19,214 --> 00:04:31,214
- be satisfied; by his knowledge shall my righteous
+00:25:11,0 --> 00:25:11,0
+he is brought as a
 
 45
-00:04:31,214 --> 00:04:43,214
- servant justify many; for he shall bear their
+00:25:11,0 --> 00:25:11,0
+lamb to the
 
 46
-00:04:43,214 --> 00:04:55,214
- iniquities
+00:25:11,0 --> 00:25:11,0
+slaughter, and as a
 
 47
-00:04:55,061 --> 00:04:56,228
-12 Therefore will I divide him a portion with the
+00:25:11,0 --> 00:25:11,0
+sheep before her
 
 48
-00:04:56,228 --> 00:04:57,395
- great, and he shall divide the spoil with the
+00:25:11,0 --> 00:25:11,0
+shearers is dumb so he
 
 49
-00:04:57,395 --> 00:04:58,562
- strong; because he hath poured out his soul unto
+00:25:11,0 --> 00:25:11,
+opened not his mouth.
 
 50
-00:04:58,562 --> 00:04:59,729
- death; and he was numbered with the transgressors; and
+00:25:11,0 --> 00:25:11,0
+8 He was taken
 
 51
-00:04:59,729 --> 00:05:00,896
- he bore the sins of many, and made intercession
+00:25:11,0 --> 00:25:11,0
+from prison and
 
 52
-00:05:00,896 --> 00:05:02,063
- for the transgressors.
+00:25:11,0 --> 00:25:11,0
+from judgment;
+
+53
+00:25:11,0 --> 00:25:11,0
+and who shall
+
+54
+00:25:11,0 --> 00:25:11,0
+declare his
+
+55
+00:25:11,0 --> 00:25:11,0
+generation? For he was
+
+56
+00:25:11,0 --> 00:25:11,0
+cut off out of
+
+57
+00:25:11,0 --> 00:25:11,0
+the land of the
+
+58
+00:25:11,0 --> 00:25:11,0
+living; for the
+
+59
+00:25:11,0 --> 00:25:11,0
+transgressions of
+
+60
+00:25:11,0 --> 00:25:11,
+my people was he stricken.
+
+61
+00:25:11,0 --> 00:25:11,0
+9 And he made
+
+62
+00:25:11,0 --> 00:25:11,0
+his grave with
+
+63
+00:25:11,0 --> 00:25:11,0
+the wicked, and
+
+64
+00:25:11,0 --> 00:25:11,0
+with the rich
+
+65
+00:25:11,0 --> 00:25:11,0
+in his death;
+
+66
+00:25:11,0 --> 00:25:11,0
+because he had
+
+67
+00:25:11,0 --> 00:25:11,0
+done no evil,
+
+68
+00:25:11,0 --> 00:25:11,0
+neither was any
+
+69
+00:25:11,0 --> 00:25:11,
+deceit in his mouth.
+
+70
+00:25:11,0 --> 00:25:11,0
+10 Yet it
+
+71
+00:25:11,0 --> 00:25:11,0
+pleased the Lord
+
+72
+00:25:11,0 --> 00:25:11,0
+to bruise him;
+
+73
+00:25:11,0 --> 00:25:11,0
+he hath put
+
+74
+00:25:11,0 --> 00:25:11,0
+him to grief;
+
+75
+00:25:11,0 --> 00:25:11,0
+when thou shalt
+
+76
+00:25:11,0 --> 00:25:11,0
+make his soul
+
+77
+00:25:11,0 --> 00:25:11,0
+an offering
+
+78
+00:25:11,0 --> 00:25:11,0
+for sin he shall
+
+79
+00:25:11,0 --> 00:25:11,0
+see his seed,
+
+80
+00:25:11,0 --> 00:25:11,0
+he shall
+
+81
+00:25:11,0 --> 00:25:11,0
+prolong his days,
+
+82
+00:25:11,0 --> 00:25:11,0
+and the
+
+83
+00:25:11,0 --> 00:25:11,0
+pleasure of the Lord
+
+84
+00:25:11,0 --> 00:25:11,
+shall prosper in his hand.
+
+85
+00:25:11,0 --> 00:25:11,0
+11 He shall
+
+86
+00:25:11,0 --> 00:25:11,0
+see the
+
+87
+00:25:11,0 --> 00:25:11,0
+travail of his
+
+88
+00:25:11,0 --> 00:25:11,0
+soul, and shall
+
+89
+00:25:11,0 --> 00:25:11,0
+be satisfied;
+
+90
+00:25:11,0 --> 00:25:11,0
+by his
+
+91
+00:25:11,0 --> 00:25:11,0
+knowledge shall my
+
+92
+00:25:11,0 --> 00:25:11,0
+righteous
+
+93
+00:25:11,0 --> 00:25:11,0
+servant justify
+
+94
+00:25:11,0 --> 00:25:11,0
+many; for he
+
+95
+00:25:11,0 --> 00:25:11,0
+shall bear
+
+96
+00:25:11,0 --> 00:25:11,
+their iniquities.
+
+97
+00:25:11,0 --> 00:25:11,0
+12 Therefore
+
+98
+00:25:11,0 --> 00:25:11,0
+will I
+
+99
+00:25:11,0 --> 00:25:11,0
+divide him a
+
+100
+00:25:11,0 --> 00:25:11,0
+portion with
+
+101
+00:25:11,0 --> 00:25:11,0
+the great, and
+
+102
+00:25:11,0 --> 00:25:11,0
+he shall
+
+103
+00:25:11,0 --> 00:25:11,0
+divide the
+
+104
+00:25:11,0 --> 00:25:11,0
+spoil with the
+
+105
+00:25:11,0 --> 00:25:11,0
+strong;
+
+106
+00:25:11,0 --> 00:25:11,0
+because he hath
+
+107
+00:25:11,0 --> 00:25:11,0
+poured out
+
+108
+00:25:11,0 --> 00:25:11,0
+his soul unto
+
+109
+00:25:11,0 --> 00:25:11,0
+death; and
+
+110
+00:25:11,0 --> 00:25:11,0
+he was
+
+111
+00:25:11,0 --> 00:25:11,0
+numbered with the
+
+112
+00:25:11,0 --> 00:25:11,0
+
+
+113
+00:25:11,0 --> 00:25:11,0
+transgressors; and he
+
+114
+00:25:11,0 --> 00:25:11,0
+bore the sins
+
+115
+00:25:11,0 --> 00:25:11,0
+of many,
+
+116
+00:25:11,0 --> 00:25:11,0
+and made
+
+117
+00:25:11,0 --> 00:25:11,
+intercession for the transgressors. 
 

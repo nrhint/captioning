@@ -1,280 +1,512 @@
 1
-00:00:00,0 --> 00:00:21,75
+00:00:00,0 --> 00:00:00,0
 Chapter 2 Helaman, the son of Helaman, becomes
 
 2
-00:00:21,75 --> 00:00:43,5
- chief judge—Gadianton leads the band of
+00:00:00,0 --> 00:00:00,0
+chief judge—Gadianton leads the band of
 
 3
-00:00:43,5 --> 00:01:05,25
- Kishkumen—Helaman’s servant slays Kishkumen, and the Gadianton
+00:00:00,0 --> 00:00:00,0
+Kishkumen—Helaman’s servant slays Kishkumen, and the
 
 4
-00:01:05,25 --> 00:01:27,0
- band flees into the wilderness. About 50–49 B.C.
+00:00:00,0 --> 00:06:41,
+Gadianton band flees into the wilderness. About 50–49 B.C. 
 
 5
-00:01:27,721 --> 00:01:30,007
-1 And it came to pass in the forty and second year
+00:06:41,0 --> 00:06:41,0
+1 And it came to pass in the forty and second
 
 6
-00:01:30,007 --> 00:01:32,293
- of the reign of the judges, after Moronihah had
+00:06:41,0 --> 00:06:41,0
+year of the reign of the judges, after
 
 7
-00:01:32,293 --> 00:01:34,579
- established again peace between the Nephites and
+00:06:41,0 --> 00:06:41,0
+Moronihah had established again peace between the
 
 8
-00:01:34,579 --> 00:01:36,865
- the Lamanites, behold there was no one to fill the
+00:06:41,0 --> 00:06:41,0
+Nephites and the Lamanites, behold there was no
 
 9
-00:01:36,865 --> 00:01:39,151
- judgment-seat; therefore there began to be a
+00:06:41,0 --> 00:06:41,0
+one to fill the judgment-seat; therefore there
 
 10
-00:01:39,151 --> 00:01:41,437
- contention again among the people concerning who should
+00:06:41,0 --> 00:06:41,0
+began to be a contention again among the
 
 11
-00:01:41,437 --> 00:01:43,723
- fill the judgment-seat
+00:06:41,0 --> 00:17:48,
+people concerning who should fill the judgment-seat.
 
 12
-00:01:43,67 --> 00:01:44,003
-2 And it came to pass that Helaman, who was the
+00:17:48,0 --> 00:17:48,0
+2 And it came to pass that Helaman, who was
 
 13
-00:01:44,003 --> 00:01:44,336
- son of Helaman, was appointed to fill the
+00:17:48,0 --> 00:17:48,0
+the son of Helaman, was appointed to fill
 
 14
-00:01:44,336 --> 00:01:44,669
- judgment-seat, by the voice of the people
+00:17:48,0 --> 00:20:44,
+the judgment-seat, by the voice of the people.
 
 15
-00:01:44,104 --> 00:01:48,604
-3 But behold, Kishkumen, who had murdered Pahoran,
+00:20:44,0 --> 00:20:44,0
+3 But behold, Kishkumen, who had
 
 16
-00:01:48,604 --> 00:01:53,104
- did lay wait to destroy Helaman also; and he was
+00:20:44,0 --> 00:20:44,0
+murdered Pahoran, did lay wait to destroy
 
 17
-00:01:53,104 --> 00:01:57,604
- upheld by his band, who had entered into a
+00:20:44,0 --> 00:20:44,0
+Helaman also; and he was upheld by his
 
 18
-00:01:57,604 --> 00:02:02,104
- covenant that no one should know his wickedness
+00:20:44,0 --> 00:20:44,0
+band, who had entered into a covenant
 
 19
-00:02:02,856 --> 00:02:09,856
-4 For there was one Gadianton, who was exceedingly
+00:20:44,0 --> 00:20:16,
+that no one should know his wickedness.
 
 20
-00:02:09,856 --> 00:02:16,856
- expert in many words, and also in his craft, to
+00:20:16,0 --> 00:20:16,0
+4 For there was one Gadianton, who
 
 21
-00:02:16,856 --> 00:02:23,856
- carry on the secret work of murder and of robbery;
+00:20:16,0 --> 00:20:16,0
+was exceedingly expert in many
 
 22
-00:02:23,856 --> 00:02:30,856
- therefore he became the leader of the band of
+00:20:16,0 --> 00:20:16,0
+words, and also in his craft, to
 
 23
-00:02:30,856 --> 00:02:37,856
- Kishkumen
+00:20:16,0 --> 00:20:16,0
+carry on the secret work of murder
 
 24
-00:02:37,357 --> 00:02:41,69
-5 Therefore he did flatter them, and also
+00:20:16,0 --> 00:20:16,0
+and of robbery; therefore he became
 
 25
-00:02:41,69 --> 00:02:46,023
- Kishkumen, that if they would place him in the
+00:20:16,0 --> 00:21:28,
+the leader of the band of Kishkumen.
 
 26
-00:02:46,023 --> 00:02:50,356
- judgment-seat he would grant unto those who belonged to his
+00:21:28,0 --> 00:21:28,0
+5 Therefore he did flatter them,
 
 27
-00:02:50,356 --> 00:02:54,689
- band that they should be placed in power and
+00:21:28,0 --> 00:21:28,0
+and also Kishkumen, that if they
 
 28
-00:02:54,689 --> 00:02:59,022
- authority among the people; therefore Kishkumen sought
+00:21:28,0 --> 00:21:28,0
+would place him in the
 
 29
-00:02:59,022 --> 00:03:03,355
- to destroy Helaman
+00:21:28,0 --> 00:21:28,0
+judgment-seat he would grant unto those who
 
 30
-00:03:03,25 --> 00:03:08,917
-6 And it came to pass as he went forth towards the
+00:21:28,0 --> 00:21:28,0
+belonged to his band that they
 
 31
-00:03:08,917 --> 00:03:14,584
- judgment-seat to destroy Helaman, behold one of
+00:21:28,0 --> 00:21:28,0
+should be placed in power and
 
 32
-00:03:14,584 --> 00:03:20,251
- the servants of Helaman, having been out by night,
+00:21:28,0 --> 00:21:28,0
+authority among the people; therefore
 
 33
-00:03:20,251 --> 00:03:25,918
- and having obtained, through disguise, a knowledge
+00:21:28,0 --> 00:40:06,
+Kishkumen sought to destroy Helaman.
 
 34
-00:03:25,918 --> 00:03:31,585
- of those plans which had been laid by this band
+00:40:06,0 --> 00:40:06,0
+6 And it came to pass as he
 
 35
-00:03:31,585 --> 00:03:37,252
- to destroy Helaman
+00:40:06,0 --> 00:40:06,0
+went forth towards the
 
 36
-00:03:37,751 --> 00:03:42,951
-7 And it came to pass that he met Kishkumen, and
+00:40:06,0 --> 00:40:06,0
+judgment-seat to destroy Helaman,
 
 37
-00:03:42,951 --> 00:03:48,151
- he gave unto him a sign; therefore Kishkumen made
+00:40:06,0 --> 00:40:06,0
+behold one of the servants of
 
 38
-00:03:48,151 --> 00:03:53,351
- known unto him the object of his desire, desiring
+00:40:06,0 --> 00:40:06,0
+Helaman, having been out by
 
 39
-00:03:53,351 --> 00:03:58,551
- that he would conduct him to the judgment-seat that
+00:40:06,0 --> 00:40:06,0
+night, and having obtained,
 
 40
-00:03:58,551 --> 00:04:03,751
- he might murder Helaman
+00:40:06,0 --> 00:40:06,0
+through disguise, a knowledge of
 
 41
-00:04:03,81 --> 00:04:09,435
-8 And when the servant of Helaman had known all
+00:40:06,0 --> 00:40:06,0
+those plans which had been
 
 42
-00:04:09,435 --> 00:04:15,06
- the heart of Kishkumen, and how that it was his
+00:40:06,0 --> 00:47:36,
+laid by this band to destroy Helaman—
 
 43
-00:04:15,06 --> 00:04:20,685
- object to murder, and also that it was the object of
+00:47:36,0 --> 00:47:36,0
+7 And it came to pass that
 
 44
-00:04:20,685 --> 00:04:26,31
- all those who belonged to his band to murder, and
+00:47:36,0 --> 00:47:36,0
+he met Kishkumen, and he gave
 
 45
-00:04:26,31 --> 00:04:31,935
- to rob, and to gain power, (and this was their
+00:47:36,0 --> 00:47:36,0
+unto him a sign; therefore
 
 46
-00:04:31,935 --> 00:04:37,56
- secret plan, and their combination) the servant of
+00:47:36,0 --> 00:47:36,0
+Kishkumen made known unto
 
 47
-00:04:37,56 --> 00:04:43,185
- Helaman said unto Kishkumen: Let us go forth unto the
+00:47:36,0 --> 00:47:36,0
+him the object of his desire,
 
 48
-00:04:43,185 --> 00:04:48,81
- judgment-seat
+00:47:36,0 --> 00:47:36,0
+desiring that he would
 
 49
-00:04:48,288 --> 00:04:55,145
-9 Now this did please Kishkumen exceedingly, for
+00:47:36,0 --> 00:47:36,0
+conduct him to the judgment-seat
 
 50
-00:04:55,145 --> 00:05:02,002
- he did suppose that he should accomplish his
+00:47:36,0 --> 00:57:46,
+that he might murder Helaman.
 
 51
-00:05:02,002 --> 00:05:08,859
- design; but behold, the servant of Helaman, as they were
+00:57:46,0 --> 00:57:46,0
+8 And when the servant of
 
 52
-00:05:08,859 --> 00:05:15,716
- going forth unto the judgment-seat, did stab
+00:57:46,0 --> 00:57:46,0
+Helaman had known all the
 
 53
-00:05:15,716 --> 00:05:22,573
- Kishkumen even to the heart, that he fell dead without
+00:57:46,0 --> 00:57:46,0
+heart of Kishkumen, and
 
 54
-00:05:22,573 --> 00:05:29,43
- a groan. And he ran and told Helaman all the
+00:57:46,0 --> 00:57:46,0
+how that it was his object
 
 55
-00:05:29,43 --> 00:05:36,287
- things which he had seen, and heard, and done
+00:57:46,0 --> 00:57:46,0
+to murder, and also that it
 
 56
-00:05:36,169 --> 00:05:59,919
-10 And it came to pass that Helaman did send forth
+00:57:46,0 --> 00:57:46,0
+was the object of all
 
 57
-00:05:59,919 --> 00:06:23,669
- to take this band of robbers and secret
+00:57:46,0 --> 00:57:46,0
+those who belonged to his
 
 58
-00:06:23,669 --> 00:06:47,419
- murderers, that they might be executed according to the
+00:57:46,0 --> 00:57:46,0
+band to murder, and to rob,
 
 59
-00:06:47,419 --> 00:07:11,169
- law
+00:57:46,0 --> 00:57:46,0
+and to gain power, (and
 
 60
-00:07:11,865 --> 00:07:13,008
-11 But behold, when Gadianton had found that
+00:57:46,0 --> 00:57:46,0
+this was their secret plan,
 
 61
-00:07:13,008 --> 00:07:14,151
- Kishkumen did not return he feared lest that he should
+00:57:46,0 --> 00:57:46,0
+and their combination) the
 
 62
-00:07:14,151 --> 00:07:15,294
- be destroyed; therefore he caused that his band
+00:57:46,0 --> 00:57:46,0
+servant of Helaman said
 
 63
-00:07:15,294 --> 00:07:16,437
- should follow him. And they took their flight out of
+00:57:46,0 --> 00:57:46,0
+unto Kishkumen: Let us go
 
 64
-00:07:16,437 --> 00:07:17,58
- the land, by a secret way, into the wilderness;
+00:57:46,0 --> 01:02:15,
+forth unto the judgment-seat.
 
 65
-00:07:17,58 --> 00:07:18,723
- and thus when Helaman sent forth to take them they
+01:02:15,0 --> 01:02:15,0
+9 Now this did please
 
 66
-00:07:18,723 --> 00:07:19,866
- could nowhere be found
+01:02:15,0 --> 01:02:15,0
+Kishkumen exceedingly, for
 
 67
-00:07:19,839 --> 00:07:21,839
-12 And more of this Gadianton shall be spoken
+01:02:15,0 --> 01:02:15,0
+he did suppose that he
 
 68
-00:07:21,839 --> 00:07:23,839
- hereafter. And thus ended the forty and second year of
+01:02:15,0 --> 01:02:15,0
+should accomplish his
 
 69
-00:07:23,839 --> 00:07:25,839
- the reign of the judges over the people of Nephi
+01:02:15,0 --> 01:02:15,0
+design; but behold, the
 
 70
-00:07:25,839 --> 00:07:27,839
+01:02:15,0 --> 01:02:15,0
+servant of Helaman, as
 
+71
+01:02:15,0 --> 01:02:15,0
+they were going forth unto
+
+72
+01:02:15,0 --> 01:02:15,0
+the judgment-seat, did
+
+73
+01:02:15,0 --> 01:02:15,0
+stab Kishkumen even to
+
+74
+01:02:15,0 --> 01:02:15,0
+the heart, that he fell
+
+75
+01:02:15,0 --> 01:02:15,0
+dead without a groan. And
+
+76
+01:02:15,0 --> 01:02:15,0
+he ran and told Helaman
+
+77
+01:02:15,0 --> 01:02:15,0
+all the things which he
+
+78
+01:02:15,0 --> 01:11:24,
+had seen, and heard, and done.
+
+79
+01:11:24,0 --> 01:11:24,0
+10 And it came to
+
+80
+01:11:24,0 --> 01:11:24,0
+pass that Helaman did
+
+81
+01:11:24,0 --> 01:11:24,0
+send forth to take this
+
+82
+01:11:24,0 --> 01:11:24,0
+band of robbers and
+
+83
+01:11:24,0 --> 01:11:24,0
+secret murderers,
+
+84
+01:11:24,0 --> 01:11:24,0
+that they might be
+
+85
+01:11:24,0 --> 01:30:51,
+executed according to the law.
+
+86
+01:30:51,0 --> 01:30:51,0
+11 But behold, when
+
+87
+01:30:51,0 --> 01:30:51,0
+Gadianton had found
+
+88
+01:30:51,0 --> 01:30:51,0
+that Kishkumen did
+
+89
+01:30:51,0 --> 01:30:51,0
+not return he feared
+
+90
+01:30:51,0 --> 01:30:51,0
+lest that he should
+
+91
+01:30:51,0 --> 01:30:51,0
+be destroyed;
+
+92
+01:30:51,0 --> 01:30:51,0
+therefore he caused that
+
+93
+01:30:51,0 --> 01:30:51,0
+his band should
+
+94
+01:30:51,0 --> 01:30:51,0
+follow him. And they took
+
+95
+01:30:51,0 --> 01:30:51,0
+their flight out of
+
+96
+01:30:51,0 --> 01:30:51,0
+the land, by a
+
+97
+01:30:51,0 --> 01:30:51,0
+secret way, into the
+
+98
+01:30:51,0 --> 01:30:51,0
+wilderness; and thus
+
+99
+01:30:51,0 --> 01:30:51,0
+when Helaman sent
+
+100
+01:30:51,0 --> 01:30:51,0
+forth to take them they
+
+101
+01:30:51,0 --> 01:37:59,
+could nowhere be found.
+
+102
+01:37:59,0 --> 01:37:59,0
+12 And more of
+
+103
+01:37:59,0 --> 01:37:59,0
+this Gadianton shall
+
+104
+01:37:59,0 --> 01:37:59,0
+be spoken
+
+105
+01:37:59,0 --> 01:37:59,0
+hereafter. And thus ended
+
+106
+01:37:59,0 --> 01:37:59,0
+the forty and
+
+107
+01:37:59,0 --> 01:37:59,0
+second year of the
+
+108
+01:37:59,0 --> 01:37:59,0
+reign of the judges
+
+109
+01:37:59,0 --> 01:47:09,
+over the people of Nephi.
+
+110
+01:47:09,0 --> 01:47:09,0
+13 And behold, in
+
+111
+01:47:09,0 --> 01:47:09,0
+the end of this
+
+112
+01:47:09,0 --> 01:47:09,0
+book ye shall see
+
+113
+01:47:09,0 --> 01:47:09,0
+that this
+
+114
+01:47:09,0 --> 01:47:09,0
+Gadianton did prove the
+
+115
+01:47:09,0 --> 01:47:09,0
+overthrow, yea,
+
+116
+01:47:09,0 --> 01:47:09,0
+almost the entire
+
+117
+01:47:09,0 --> 01:47:09,0
+destruction of
+
+118
+01:47:09,0 --> 01:54:38,
+the people of Nephi.
+
+119
+01:54:38,0 --> 01:54:38,0
+14 Behold I do
+
+120
+01:54:38,0 --> 01:54:38,0
+not mean the
+
+121
+01:54:38,0 --> 01:54:38,0
+end of the book
+
+122
+01:54:38,0 --> 01:54:38,0
+of Helaman, but
+
+123
+01:54:38,0 --> 01:54:38,0
+I mean the end
+
+124
+01:54:38,0 --> 01:54:38,0
+of the book of
+
+125
+01:54:38,0 --> 01:54:38,0
+Nephi, from
+
+126
+01:54:38,0 --> 01:54:38,0
+which I have taken
+
+127
+01:54:38,0 --> 01:54:38,0
+all the
+
+128
+01:54:38,0 --> 01:59:48,
+account which I have written. 
 

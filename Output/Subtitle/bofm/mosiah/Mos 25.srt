@@ -1,432 +1,1812 @@
 1
-00:00:00,0 --> 00:00:04,6
-Chapter 25 The descendants of Mulek at Zarahemla
+00:00:00,0 --> 00:00:00,0
+Chapter 25 The descendants of Mulek at
 
 2
-00:00:04,6 --> 00:00:09,2
- become Nephites—They learn of the people of Alma
+00:00:00,0 --> 00:00:00,0
+Zarahemla become Nephites—They learn of the
 
 3
-00:00:09,2 --> 00:00:13,8
- and of Zeniff—Alma baptizes Limhi and all his
+00:00:00,0 --> 00:00:00,0
+people of Alma and of Zeniff—Alma baptizes Limhi
 
 4
-00:00:13,8 --> 00:00:18,4
- people—Mosiah authorizes Alma to organize the Church of
+00:00:00,0 --> 00:00:00,0
+and all his people—Mosiah authorizes Alma to
 
 5
-00:00:18,4 --> 00:00:23,0
- God. About 120 B.C.
+00:00:00,0 --> 00:11:28,
+organize the Church of God. About 120 B.C. 
 
 6
-00:00:23,924 --> 00:00:31,924
-1 And now king Mosiah caused that all the people
+00:11:28,0 --> 00:11:28,0
+1 And now king Mosiah caused that all
 
 7
-00:00:31,924 --> 00:00:39,924
- should be gathered together
+00:11:28,0 --> 00:11:00,
+the people should be gathered together.
 
 8
-00:00:39,873 --> 00:00:41,473
-2 Now there were not so many of the children of
+00:11:00,0 --> 00:11:00,0
+2 Now there were not so many of the
 
 9
-00:00:41,473 --> 00:00:43,073
- Nephi, or so many of those who were descendants of
+00:11:00,0 --> 00:11:00,0
+children of Nephi, or so many of those
 
 10
-00:00:43,073 --> 00:00:44,673
- Nephi, as there were of the people of Zarahemla,
+00:11:00,0 --> 00:11:00,0
+who were descendants of Nephi, as
 
 11
-00:00:44,673 --> 00:00:46,273
- who was a descendant of Mulek, and those who came
+00:11:00,0 --> 00:11:00,0
+there were of the people of Zarahemla,
 
 12
-00:00:46,273 --> 00:00:47,873
- with him into the wilderness
+00:11:00,0 --> 00:11:00,0
+who was a descendant of Mulek, and
 
 13
-00:00:47,848 --> 00:00:49,848
-3 And there were not so many of the people of
+00:11:00,0 --> 00:15:43,
+those who came with him into the wilderness.
 
 14
-00:00:49,848 --> 00:00:51,848
- Nephi and of the people of Zarahemla as there were of
+00:15:43,0 --> 00:15:43,0
+3 And there were not so many
 
 15
-00:00:51,848 --> 00:00:53,848
- the Lamanites; yea, they were not half so
+00:15:43,0 --> 00:15:43,0
+of the people of Nephi and of
 
 16
-00:00:53,848 --> 00:00:55,848
- numerous
+00:15:43,0 --> 00:15:43,0
+the people of Zarahemla as
 
 17
-00:00:55,822 --> 00:00:58,489
-4 And now all the people of Nephi were assembled
+00:15:43,0 --> 00:15:43,0
+there were of the Lamanites; yea,
 
 18
-00:00:58,489 --> 00:01:01,156
- together, and also all the people of Zarahemla, and
+00:15:43,0 --> 00:16:13,
+they were not half so numerous.
 
 19
-00:01:01,156 --> 00:01:03,823
- they were gathered together in two bodies
+00:16:13,0 --> 00:16:13,0
+4 And now all the people of
 
 20
-00:01:03,797 --> 00:01:05,397
-5 And it came to pass that Mosiah did read, and
+00:16:13,0 --> 00:16:13,0
+Nephi were assembled
 
 21
-00:01:05,397 --> 00:01:06,997
- caused to be read, the records of Zeniff to his
+00:16:13,0 --> 00:16:13,0
+together, and also all the people
 
 22
-00:01:06,997 --> 00:01:08,597
- people; yea, he read the records of the people of
+00:16:13,0 --> 00:16:13,0
+of Zarahemla, and they were
 
 23
-00:01:08,597 --> 00:01:10,197
- Zeniff, from the time they left the land of Zarahemla
+00:16:13,0 --> 00:23:07,
+gathered together in two bodies.
 
 24
-00:01:10,197 --> 00:01:11,797
- until they returned again
+00:23:07,0 --> 00:23:07,0
+5 And it came to pass
 
 25
-00:01:11,772 --> 00:01:13,772
-6 And he also read the account of Alma and his
+00:23:07,0 --> 00:23:07,0
+that Mosiah did read, and
 
 26
-00:01:13,772 --> 00:01:15,772
- brethren, and all their afflictions, from the time
+00:23:07,0 --> 00:23:07,0
+caused to be read, the
 
 27
-00:01:15,772 --> 00:01:17,772
- they left the land of Zarahemla until the time they
+00:23:07,0 --> 00:23:07,0
+records of Zeniff to his
 
 28
-00:01:17,772 --> 00:01:19,772
- returned again
+00:23:07,0 --> 00:23:07,0
+people; yea, he read the
 
 29
-00:01:19,746 --> 00:01:22,413
-7 And now, when Mosiah had made an end of reading
+00:23:07,0 --> 00:23:07,0
+records of the people of
 
 30
-00:01:22,413 --> 00:01:25,08
- the records, his people who tarried in the land
+00:23:07,0 --> 00:23:07,0
+Zeniff, from the time they
 
 31
-00:01:25,08 --> 00:01:27,747
- were struck with wonder and amazement
+00:23:07,0 --> 00:23:07,0
+left the land of Zarahemla
 
 32
-00:01:27,721 --> 00:01:30,388
-8 For they knew not what to think; for when they
+00:23:07,0 --> 00:25:05,
+until they returned again.
 
 33
-00:01:30,388 --> 00:01:33,055
- beheld those that had been delivered out of bondage
+00:25:05,0 --> 00:25:05,0
+6 And he also read the
 
 34
-00:01:33,055 --> 00:01:35,722
- they were filled with exceedingly great joy
+00:25:05,0 --> 00:25:05,0
+account of Alma and his
 
 35
-00:01:35,696 --> 00:01:37,696
-9 And again, when they thought of their brethren
+00:25:05,0 --> 00:25:05,0
+brethren, and all
 
 36
-00:01:37,696 --> 00:01:39,696
- who had been slain by the Lamanites they were
+00:25:05,0 --> 00:25:05,0
+their afflictions, from the
 
 37
-00:01:39,696 --> 00:01:41,696
- filled with sorrow, and even shed many tears of sorrow
+00:25:05,0 --> 00:25:05,0
+time they left the
 
 38
-00:01:41,696 --> 00:01:43,696
-
+00:25:05,0 --> 00:25:05,0
+land of Zarahemla until
 
 39
-00:01:43,67 --> 00:01:46,87
-10 And again, when they thought of the immediate
+00:25:05,0 --> 00:24:37,
+the time they returned again.
 
 40
-00:01:46,87 --> 00:01:50,07
- goodness of God, and his power in delivering Alma
+00:24:37,0 --> 00:24:37,0
+7 And now, when Mosiah
 
 41
-00:01:50,07 --> 00:01:53,27
- and his brethren out of the hands of the Lamanites
+00:24:37,0 --> 00:24:37,0
+had made an end of
 
 42
-00:01:53,27 --> 00:01:56,47
- and of bondage, they did raise their voices and
+00:24:37,0 --> 00:24:37,0
+reading the records, his
 
 43
-00:01:56,47 --> 00:01:59,67
- give thanks to God
+00:24:37,0 --> 00:24:37,0
+people who tarried in
 
 44
-00:01:59,62 --> 00:02:03,62
-11 And again, when they thought upon the
+00:24:37,0 --> 00:24:37,0
+the land were struck
 
 45
-00:02:03,62 --> 00:02:07,62
- Lamanites, who were their brethren, of their sinful and
+00:24:37,0 --> 00:24:09,
+with wonder and amazement.
 
 46
-00:02:07,62 --> 00:02:11,62
- polluted state, they were filled with pain and
+00:24:09,0 --> 00:24:09,0
+8 For they knew not
 
 47
-00:02:11,62 --> 00:02:15,62
- anguish for the welfare of their souls
+00:24:09,0 --> 00:24:09,0
+what to think; for
 
 48
-00:02:15,569 --> 00:02:16,458
-12 And it came to pass that those who were the
+00:24:09,0 --> 00:24:09,0
+when they beheld
 
 49
-00:02:16,458 --> 00:02:17,347
- children of Amulon and his brethren, who had taken to
+00:24:09,0 --> 00:24:09,0
+those that had been
 
 50
-00:02:17,347 --> 00:02:18,236
- wife the daughters of the Lamanites, were
+00:24:09,0 --> 00:24:09,0
+delivered out of bondage
 
 51
-00:02:18,236 --> 00:02:19,125
- displeased with the conduct of their fathers, and they
+00:24:09,0 --> 00:24:09,0
+they were filled
 
 52
-00:02:19,125 --> 00:02:20,014
- would no longer be called by the names of their
+00:24:09,0 --> 00:23:41,
+with exceedingly great joy.
 
 53
-00:02:20,014 --> 00:02:20,903
- fathers, therefore they took upon themselves the name
+00:23:41,0 --> 00:23:41,0
+9 And again, when
 
 54
-00:02:20,903 --> 00:02:21,792
- of Nephi, that they might be called the children
+00:23:41,0 --> 00:23:41,0
+they thought of
 
 55
-00:02:21,792 --> 00:02:22,681
- of Nephi and be numbered among those who were
+00:23:41,0 --> 00:23:41,0
+their brethren who
 
 56
-00:02:22,681 --> 00:02:23,57
- called Nephites
+00:23:41,0 --> 00:23:41,0
+had been slain by
 
 57
-00:02:23,543 --> 00:02:25,543
-13 And now all the people of Zarahemla were
+00:23:41,0 --> 00:23:41,0
+the Lamanites they
 
 58
-00:02:25,543 --> 00:02:27,543
- numbered with the Nephites, and this because the kingdom
+00:23:41,0 --> 00:23:41,0
+were filled with
 
 59
-00:02:27,543 --> 00:02:29,543
- had been conferred upon none but those who were
+00:23:41,0 --> 00:23:41,0
+sorrow, and even
 
 60
-00:02:29,543 --> 00:02:31,543
- descendants of Nephi
+00:23:41,0 --> 00:23:13,
+shed many tears of sorrow.
 
 61
-00:02:31,518 --> 00:02:33,518
-14 And now it came to pass that when Mosiah had
+00:23:13,0 --> 00:23:13,0
+10 And again,
 
 62
-00:02:33,518 --> 00:02:35,518
- made an end of speaking and reading to the people,
+00:23:13,0 --> 00:23:13,0
+when they thought
 
 63
-00:02:35,518 --> 00:02:37,518
- he desired that Alma should also speak to the
+00:23:13,0 --> 00:23:13,0
+of the immediate
 
 64
-00:02:37,518 --> 00:02:39,518
- people
+00:23:13,0 --> 00:23:13,0
+goodness of
 
 65
-00:02:39,493 --> 00:02:41,493
-15 And Alma did speak unto them, when they were
+00:23:13,0 --> 00:23:13,0
+God, and his power
 
 66
-00:02:41,493 --> 00:02:43,493
- assembled together in large bodies, and he went from
+00:23:13,0 --> 00:23:13,0
+in delivering
 
 67
-00:02:43,493 --> 00:02:45,493
- one body to another, preaching unto the people
+00:23:13,0 --> 00:23:13,0
+Alma and his
 
 68
-00:02:45,493 --> 00:02:47,493
- repentance and faith on the Lord
+00:23:13,0 --> 00:23:13,0
+brethren out of the
 
 69
-00:02:47,467 --> 00:02:49,467
-16 And he did exhort the people of Limhi and his
+00:23:13,0 --> 00:23:13,0
+hands of the
 
 70
-00:02:49,467 --> 00:02:51,467
- brethren, all those that had been delivered out of
+00:23:13,0 --> 00:23:13,0
+Lamanites and of
 
 71
-00:02:51,467 --> 00:02:53,467
- bondage, that they should remember that it was the
+00:23:13,0 --> 00:23:13,0
+bondage, they did
 
 72
-00:02:53,467 --> 00:02:55,467
- Lord that did deliver them
+00:23:13,0 --> 00:23:13,0
+raise their
 
 73
-00:02:55,442 --> 00:02:57,042
-17 And it came to pass that after Alma had taught
+00:23:13,0 --> 00:23:57,
+voices and give thanks to God.
 
 74
-00:02:57,042 --> 00:02:58,642
- the people many things, and had made an end of
+00:23:57,0 --> 00:23:57,0
+11 And again,
 
 75
-00:02:58,642 --> 00:03:00,242
- speaking to them, that king Limhi was desirous that
+00:23:57,0 --> 00:23:57,0
+when they
 
 76
-00:03:00,242 --> 00:03:01,842
- he might be baptized; and all his people were
+00:23:57,0 --> 00:23:57,0
+thought upon the
 
 77
-00:03:01,842 --> 00:03:03,442
- desirous that they might be baptized also
+00:23:57,0 --> 00:23:57,0
+Lamanites, who were
 
 78
-00:03:03,417 --> 00:03:04,75
-18 Therefore, Alma did go forth into the water and
+00:23:57,0 --> 00:23:57,0
+their
 
 79
-00:03:04,75 --> 00:03:06,083
- did baptize them; yea, he did baptize them after
+00:23:57,0 --> 00:23:57,0
+brethren, of their
 
 80
-00:03:06,083 --> 00:03:07,416
- the manner he did his brethren in the waters of
+00:23:57,0 --> 00:23:57,0
+sinful and polluted
 
 81
-00:03:07,416 --> 00:03:08,749
- Mormon; yea, and as many as he did baptize did
+00:23:57,0 --> 00:23:57,0
+state, they
 
 82
-00:03:08,749 --> 00:03:10,082
- belong to the church of God; and this because of their
+00:23:57,0 --> 00:23:57,0
+were filled with
 
 83
-00:03:10,082 --> 00:03:11,415
- belief on the words of Alma
+00:23:57,0 --> 00:23:57,0
+pain and
 
 84
-00:03:11,391 --> 00:03:13,391
-19 And it came to pass that king Mosiah granted
+00:23:57,0 --> 00:23:57,0
+anguish for the
 
 85
-00:03:13,391 --> 00:03:15,391
- unto Alma that he might establish churches
+00:23:57,0 --> 00:23:29,
+welfare of their souls.
 
 86
-00:03:15,391 --> 00:03:17,391
- throughout all the land of Zarahemla; and gave him power to
+00:23:29,0 --> 00:23:29,0
+12 And it came
 
 87
-00:03:17,391 --> 00:03:19,391
- ordain priests and teachers over every church
+00:23:29,0 --> 00:23:29,0
+to pass that
 
 88
-00:03:19,366 --> 00:03:21,366
-20 Now this was done because there were so many
+00:23:29,0 --> 00:23:29,0
+those who were
 
 89
-00:03:21,366 --> 00:03:23,366
- people that they could not all be governed by one
+00:23:29,0 --> 00:23:29,0
+the children
 
 90
-00:03:23,366 --> 00:03:25,366
- teacher; neither could they all hear the word of God
+00:23:29,0 --> 00:23:29,0
+of Amulon and
 
 91
-00:03:25,366 --> 00:03:27,366
- in one assembly
+00:23:29,0 --> 00:23:29,0
+his brethren,
 
 92
-00:03:27,34 --> 00:03:28,94
-21 Therefore they did assemble themselves together
+00:23:29,0 --> 00:23:29,0
+who had taken
 
 93
-00:03:28,94 --> 00:03:30,54
- in different bodies, being called churches; every
+00:23:29,0 --> 00:23:29,0
+to wife the
 
 94
-00:03:30,54 --> 00:03:32,14
- church having their priests and their teachers,
+00:23:29,0 --> 00:23:29,0
+daughters of the
 
 95
-00:03:32,14 --> 00:03:33,74
- and every priest preaching the word according as it
+00:23:29,0 --> 00:23:29,0
+Lamanites,
 
 96
-00:03:33,74 --> 00:03:35,34
- was delivered to him by the mouth of Alma
+00:23:29,0 --> 00:23:29,0
+were displeased
 
 97
-00:03:35,315 --> 00:03:36,915
-22 And thus, notwithstanding there being many
+00:23:29,0 --> 00:23:29,0
+with the
 
 98
-00:03:36,915 --> 00:03:38,515
- churches they were all one church, yea, even the
+00:23:29,0 --> 00:23:29,0
+conduct of their
 
 99
-00:03:38,515 --> 00:03:40,115
- church of God; for there was nothing preached in all
+00:23:29,0 --> 00:23:29,0
+fathers, and
 
 100
-00:03:40,115 --> 00:03:41,715
- the churches except it were repentance and faith in
+00:23:29,0 --> 00:23:29,0
+they would no
 
 101
-00:03:41,715 --> 00:03:43,315
- God
+00:23:29,0 --> 00:23:29,0
+longer be called
 
 102
-00:03:43,29 --> 00:03:45,29
-23 And now there were seven churches in the land
+00:23:29,0 --> 00:23:29,0
+by the names
 
 103
-00:03:45,29 --> 00:03:47,29
- of Zarahemla. And it came to pass that whosoever
+00:23:29,0 --> 00:23:29,0
+of their
 
 104
-00:03:47,29 --> 00:03:49,29
- were desirous to take upon them the name of Christ,
+00:23:29,0 --> 00:23:29,0
+fathers, therefore
 
 105
-00:03:49,29 --> 00:03:51,29
- or of God, they did join the churches of God
+00:23:29,0 --> 00:23:29,0
+they took upon
 
 106
-00:03:51,264 --> 00:03:53,597
-24 And they were called the people of God. And the
+00:23:29,0 --> 00:23:29,0
+themselves the
 
 107
-00:03:53,597 --> 00:03:55,93
- Lord did pour out his Spirit upon them, and they
+00:23:29,0 --> 00:23:29,0
+name of
 
 108
-00:03:55,93 --> 00:03:58,263
- were blessed, and prospered in the land.
+00:23:29,0 --> 00:23:29,0
+Nephi, that they
+
+109
+00:23:29,0 --> 00:23:29,0
+might be called
+
+110
+00:23:29,0 --> 00:23:29,0
+the children
+
+111
+00:23:29,0 --> 00:23:29,0
+of Nephi and be
+
+112
+00:23:29,0 --> 00:23:29,0
+numbered
+
+113
+00:23:29,0 --> 00:24:41,
+among those who were called Nephites.
+
+114
+00:24:41,0 --> 00:24:41,0
+13 And now
+
+115
+00:24:41,0 --> 00:24:41,0
+all the people
+
+116
+00:24:41,0 --> 00:24:41,0
+of Zarahemla
+
+117
+00:24:41,0 --> 00:24:41,0
+were numbered
+
+118
+00:24:41,0 --> 00:24:41,0
+with the
+
+119
+00:24:41,0 --> 00:24:41,0
+Nephites, and
+
+120
+00:24:41,0 --> 00:24:41,0
+this because
+
+121
+00:24:41,0 --> 00:24:41,0
+the kingdom had
+
+122
+00:24:41,0 --> 00:24:41,0
+been
+
+123
+00:24:41,0 --> 00:24:41,0
+conferred upon none
+
+124
+00:24:41,0 --> 00:24:41,0
+but those who
+
+125
+00:24:41,0 --> 00:24:41,0
+were
+
+126
+00:24:41,0 --> 00:24:13,
+descendants of Nephi.
+
+127
+00:24:13,0 --> 00:24:13,0
+14 And now
+
+128
+00:24:13,0 --> 00:24:13,0
+it came to
+
+129
+00:24:13,0 --> 00:24:13,0
+pass that when
+
+130
+00:24:13,0 --> 00:24:13,0
+Mosiah had
+
+131
+00:24:13,0 --> 00:24:13,0
+made an end
+
+132
+00:24:13,0 --> 00:24:13,0
+of speaking
+
+133
+00:24:13,0 --> 00:24:13,0
+and reading
+
+134
+00:24:13,0 --> 00:24:13,0
+to the
+
+135
+00:24:13,0 --> 00:24:13,0
+people, he
+
+136
+00:24:13,0 --> 00:24:13,0
+desired that Alma
+
+137
+00:24:13,0 --> 00:24:13,0
+should also
+
+138
+00:24:13,0 --> 00:23:45,
+speak to the people.
+
+139
+00:23:45,0 --> 00:23:45,0
+15 And Alma
+
+140
+00:23:45,0 --> 00:23:45,0
+did speak
+
+141
+00:23:45,0 --> 00:23:45,0
+unto them,
+
+142
+00:23:45,0 --> 00:23:45,0
+when they
+
+143
+00:23:45,0 --> 00:23:45,0
+were
+
+144
+00:23:45,0 --> 00:23:45,0
+assembled together
+
+145
+00:23:45,0 --> 00:23:45,0
+in large
+
+146
+00:23:45,0 --> 00:23:45,0
+bodies, and
+
+147
+00:23:45,0 --> 00:23:45,0
+he went
+
+148
+00:23:45,0 --> 00:23:45,0
+from one body
+
+149
+00:23:45,0 --> 00:23:45,0
+to another,
+
+150
+00:23:45,0 --> 00:23:45,0
+preaching
+
+151
+00:23:45,0 --> 00:23:45,0
+unto the
+
+152
+00:23:45,0 --> 00:23:45,0
+people
+
+153
+00:23:45,0 --> 00:23:45,0
+repentance and
+
+154
+00:23:45,0 --> 00:23:17,
+faith on the Lord.
+
+155
+00:23:17,0 --> 00:23:17,0
+16 And he
+
+156
+00:23:17,0 --> 00:23:17,0
+did exhort
+
+157
+00:23:17,0 --> 00:23:17,0
+the
+
+158
+00:23:17,0 --> 00:23:17,0
+people of Limhi
+
+159
+00:23:17,0 --> 00:23:17,0
+and his
+
+160
+00:23:17,0 --> 00:23:17,0
+brethren,
+
+161
+00:23:17,0 --> 00:23:17,0
+all those
+
+162
+00:23:17,0 --> 00:23:17,0
+that had
+
+163
+00:23:17,0 --> 00:23:17,0
+been
+
+164
+00:23:17,0 --> 00:23:17,0
+delivered out of
+
+165
+00:23:17,0 --> 00:23:17,0
+bondage,
+
+166
+00:23:17,0 --> 00:23:17,0
+that they
+
+167
+00:23:17,0 --> 00:23:17,0
+should
+
+168
+00:23:17,0 --> 00:23:17,0
+remember that
+
+169
+00:23:17,0 --> 00:23:17,0
+it was the
+
+170
+00:23:17,0 --> 00:23:17,0
+Lord that
+
+171
+00:23:17,0 --> 00:23:31,
+did deliver them.
+
+172
+00:23:31,0 --> 00:23:31,0
+17 And it
+
+173
+00:23:31,0 --> 00:23:31,0
+came to
+
+174
+00:23:31,0 --> 00:23:31,0
+pass that
+
+175
+00:23:31,0 --> 00:23:31,0
+after
+
+176
+00:23:31,0 --> 00:23:31,0
+Alma had
+
+177
+00:23:31,0 --> 00:23:31,0
+taught the
+
+178
+00:23:31,0 --> 00:23:31,0
+people
+
+179
+00:23:31,0 --> 00:23:31,0
+many
+
+180
+00:23:31,0 --> 00:23:31,0
+things, and had
+
+181
+00:23:31,0 --> 00:23:31,0
+made an
+
+182
+00:23:31,0 --> 00:23:31,0
+end of
+
+183
+00:23:31,0 --> 00:23:31,0
+speaking to
+
+184
+00:23:31,0 --> 00:23:31,0
+them,
+
+185
+00:23:31,0 --> 00:23:31,0
+that king
+
+186
+00:23:31,0 --> 00:23:31,0
+Limhi was
+
+187
+00:23:31,0 --> 00:23:31,0
+desirous
+
+188
+00:23:31,0 --> 00:23:31,0
+that he
+
+189
+00:23:31,0 --> 00:23:31,0
+might be
+
+190
+00:23:31,0 --> 00:23:31,0
+baptized;
+
+191
+00:23:31,0 --> 00:23:31,0
+and all
+
+192
+00:23:31,0 --> 00:23:31,0
+his people
+
+193
+00:23:31,0 --> 00:23:31,0
+were
+
+194
+00:23:31,0 --> 00:23:31,0
+desirous
+
+195
+00:23:31,0 --> 00:23:17,
+that they might be baptized also.
+
+196
+00:23:17,0 --> 00:23:17,0
+18
+
+197
+00:23:17,0 --> 00:23:17,0
+Therefore,
+
+198
+00:23:17,0 --> 00:23:17,0
+Alma did
+
+199
+00:23:17,0 --> 00:23:17,0
+go forth
+
+200
+00:23:17,0 --> 00:23:17,0
+into the
+
+201
+00:23:17,0 --> 00:23:17,0
+water
+
+202
+00:23:17,0 --> 00:23:17,0
+and did
+
+203
+00:23:17,0 --> 00:23:17,0
+baptize
+
+204
+00:23:17,0 --> 00:23:17,0
+them;
+
+205
+00:23:17,0 --> 00:23:17,0
+yea, he did
+
+206
+00:23:17,0 --> 00:23:17,0
+baptize
+
+207
+00:23:17,0 --> 00:23:17,0
+them
+
+208
+00:23:17,0 --> 00:23:17,0
+after the
+
+209
+00:23:17,0 --> 00:23:17,0
+manner
+
+210
+00:23:17,0 --> 00:23:17,0
+he did
+
+211
+00:23:17,0 --> 00:23:17,0
+his
+
+212
+00:23:17,0 --> 00:23:17,0
+brethren in
+
+213
+00:23:17,0 --> 00:23:17,0
+the waters
+
+214
+00:23:17,0 --> 00:23:17,0
+of
+
+215
+00:23:17,0 --> 00:23:17,0
+Mormon; yea,
+
+216
+00:23:17,0 --> 00:23:17,0
+and as
+
+217
+00:23:17,0 --> 00:23:17,0
+many as
+
+218
+00:23:17,0 --> 00:23:17,0
+he did
+
+219
+00:23:17,0 --> 00:23:17,0
+baptize
+
+220
+00:23:17,0 --> 00:23:17,0
+did
+
+221
+00:23:17,0 --> 00:23:17,0
+belong to the
+
+222
+00:23:17,0 --> 00:23:17,0
+church
+
+223
+00:23:17,0 --> 00:23:17,0
+of God;
+
+224
+00:23:17,0 --> 00:23:17,0
+and this
+
+225
+00:23:17,0 --> 00:23:17,0
+because
+
+226
+00:23:17,0 --> 00:23:31,
+of their belief on the words of Alma.
+
+227
+00:23:31,0 --> 00:23:31,0
+19 And
+
+228
+00:23:31,0 --> 00:23:31,0
+it came
+
+229
+00:23:31,0 --> 00:23:31,0
+to
+
+230
+00:23:31,0 --> 00:23:31,0
+pass that
+
+231
+00:23:31,0 --> 00:23:31,0
+king
+
+232
+00:23:31,0 --> 00:23:31,0
+Mosiah
+
+233
+00:23:31,0 --> 00:23:31,0
+granted
+
+234
+00:23:31,0 --> 00:23:31,0
+unto
+
+235
+00:23:31,0 --> 00:23:31,0
+Alma that
+
+236
+00:23:31,0 --> 00:23:31,0
+he
+
+237
+00:23:31,0 --> 00:23:31,0
+might
+
+238
+00:23:31,0 --> 00:23:31,0
+establish
+
+239
+00:23:31,0 --> 00:23:31,0
+churches
+
+240
+00:23:31,0 --> 00:23:31,0
+
+
+241
+00:23:31,0 --> 00:23:31,0
+throughout all
+
+242
+00:23:31,0 --> 00:23:31,0
+the
+
+243
+00:23:31,0 --> 00:23:31,0
+land of
+
+244
+00:23:31,0 --> 00:23:31,0
+
+
+245
+00:23:31,0 --> 00:23:31,0
+Zarahemla; and
+
+246
+00:23:31,0 --> 00:23:31,0
+gave
+
+247
+00:23:31,0 --> 00:23:31,0
+him power
+
+248
+00:23:31,0 --> 00:23:31,0
+to
+
+249
+00:23:31,0 --> 00:23:31,0
+ordain
+
+250
+00:23:31,0 --> 00:23:31,0
+priests
+
+251
+00:23:31,0 --> 00:23:17,
+and teachers over every church.
+
+252
+00:23:17,0 --> 00:23:17,0
+20 Now
+
+253
+00:23:17,0 --> 00:23:17,0
+this
+
+254
+00:23:17,0 --> 00:23:17,0
+was
+
+255
+00:23:17,0 --> 00:23:17,0
+done
+
+256
+00:23:17,0 --> 00:23:17,0
+because
+
+257
+00:23:17,0 --> 00:23:17,0
+there
+
+258
+00:23:17,0 --> 00:23:17,0
+were so
+
+259
+00:23:17,0 --> 00:23:17,0
+many
+
+260
+00:23:17,0 --> 00:23:17,0
+people
+
+261
+00:23:17,0 --> 00:23:17,0
+that
+
+262
+00:23:17,0 --> 00:23:17,0
+they
+
+263
+00:23:17,0 --> 00:23:17,0
+could
+
+264
+00:23:17,0 --> 00:23:17,0
+not all
+
+265
+00:23:17,0 --> 00:23:17,0
+be
+
+266
+00:23:17,0 --> 00:23:17,0
+governed
+
+267
+00:23:17,0 --> 00:23:17,0
+by
+
+268
+00:23:17,0 --> 00:23:17,0
+one
+
+269
+00:23:17,0 --> 00:23:17,0
+teacher;
+
+270
+00:23:17,0 --> 00:23:17,0
+neither
+
+271
+00:23:17,0 --> 00:23:17,0
+could
+
+272
+00:23:17,0 --> 00:23:17,0
+they
+
+273
+00:23:17,0 --> 00:23:17,0
+all
+
+274
+00:23:17,0 --> 00:23:17,0
+hear the
+
+275
+00:23:17,0 --> 00:23:31,
+word of God in one assembly;
+
+276
+00:23:31,0 --> 00:23:31,0
+21
+
+277
+00:23:31,0 --> 00:23:31,0
+
+
+278
+00:23:31,0 --> 00:23:31,0
+Therefore
+
+279
+00:23:31,0 --> 00:23:31,0
+they
+
+280
+00:23:31,0 --> 00:23:31,0
+did
+
+281
+00:23:31,0 --> 00:23:31,0
+assemble
+
+282
+00:23:31,0 --> 00:23:31,0
+
+
+283
+00:23:31,0 --> 00:23:31,0
+
+
+284
+00:23:31,0 --> 00:23:31,0
+themselves
+
+285
+00:23:31,0 --> 00:23:31,0
+together
+
+286
+00:23:31,0 --> 00:23:31,0
+in
+
+287
+00:23:31,0 --> 00:23:31,0
+
+
+288
+00:23:31,0 --> 00:23:31,0
+different
+
+289
+00:23:31,0 --> 00:23:31,0
+
+
+290
+00:23:31,0 --> 00:23:31,0
+bodies,
+
+291
+00:23:31,0 --> 00:23:31,0
+being
+
+292
+00:23:31,0 --> 00:23:31,0
+called
+
+293
+00:23:31,0 --> 00:23:31,0
+
+
+294
+00:23:31,0 --> 00:23:31,0
+churches;
+
+295
+00:23:31,0 --> 00:23:31,0
+every
+
+296
+00:23:31,0 --> 00:23:31,0
+
+
+297
+00:23:31,0 --> 00:23:31,0
+church
+
+298
+00:23:31,0 --> 00:23:31,0
+having
+
+299
+00:23:31,0 --> 00:23:31,0
+their
+
+300
+00:23:31,0 --> 00:23:31,0
+
+
+301
+00:23:31,0 --> 00:23:31,0
+priests
+
+302
+00:23:31,0 --> 00:23:31,0
+and
+
+303
+00:23:31,0 --> 00:23:31,0
+their
+
+304
+00:23:31,0 --> 00:23:31,0
+
+
+305
+00:23:31,0 --> 00:23:31,0
+teachers,
+
+306
+00:23:31,0 --> 00:23:31,0
+and
+
+307
+00:23:31,0 --> 00:23:31,0
+every
+
+308
+00:23:31,0 --> 00:23:31,0
+priest
+
+309
+00:23:31,0 --> 00:23:31,0
+
+
+310
+00:23:31,0 --> 00:23:31,0
+preaching
+
+311
+00:23:31,0 --> 00:23:31,0
+the
+
+312
+00:23:31,0 --> 00:23:31,0
+word
+
+313
+00:23:31,0 --> 00:23:31,0
+
+
+314
+00:23:31,0 --> 00:23:31,0
+according
+
+315
+00:23:31,0 --> 00:23:31,0
+as it
+
+316
+00:23:31,0 --> 00:23:17,
+was delivered to him by the mouth of Alma.
+
+317
+00:23:17,0 --> 00:23:17,0
+22
+
+318
+00:23:17,0 --> 00:23:17,0
+And
+
+319
+00:23:17,0 --> 00:23:17,0
+thus,
+
+320
+00:23:17,0 --> 00:23:17,0
+
+
+321
+00:23:17,0 --> 00:23:17,0
+
+
+322
+00:23:17,0 --> 00:23:17,0
+
+
+323
+00:23:17,0 --> 00:23:17,0
+notwithstanding
+
+324
+00:23:17,0 --> 00:23:17,0
+
+
+325
+00:23:17,0 --> 00:23:17,0
+there
+
+326
+00:23:17,0 --> 00:23:17,0
+being
+
+327
+00:23:17,0 --> 00:23:17,0
+
+
+328
+00:23:17,0 --> 00:23:17,0
+many
+
+329
+00:23:17,0 --> 00:23:17,0
+
+
+330
+00:23:17,0 --> 00:23:17,0
+churches
+
+331
+00:23:17,0 --> 00:23:17,0
+they
+
+332
+00:23:17,0 --> 00:23:17,0
+were
+
+333
+00:23:17,0 --> 00:23:17,0
+all
+
+334
+00:23:17,0 --> 00:23:17,0
+one
+
+335
+00:23:17,0 --> 00:23:17,0
+
+
+336
+00:23:17,0 --> 00:23:17,0
+church,
+
+337
+00:23:17,0 --> 00:23:17,0
+
+
+338
+00:23:17,0 --> 00:23:17,0
+yea,
+
+339
+00:23:17,0 --> 00:23:17,0
+even
+
+340
+00:23:17,0 --> 00:23:17,0
+the
+
+341
+00:23:17,0 --> 00:23:17,0
+
+
+342
+00:23:17,0 --> 00:23:17,0
+church of
+
+343
+00:23:17,0 --> 00:23:17,0
+
+
+344
+00:23:17,0 --> 00:23:17,0
+God;
+
+345
+00:23:17,0 --> 00:23:17,0
+for
+
+346
+00:23:17,0 --> 00:23:17,0
+there
+
+347
+00:23:17,0 --> 00:23:17,0
+was
+
+348
+00:23:17,0 --> 00:23:17,0
+
+
+349
+00:23:17,0 --> 00:23:17,0
+nothing
+
+350
+00:23:17,0 --> 00:23:17,0
+
+
+351
+00:23:17,0 --> 00:23:17,0
+preached
+
+352
+00:23:17,0 --> 00:23:17,0
+in
+
+353
+00:23:17,0 --> 00:23:17,0
+all
+
+354
+00:23:17,0 --> 00:23:17,0
+the
+
+355
+00:23:17,0 --> 00:23:17,0
+
+
+356
+00:23:17,0 --> 00:23:17,0
+churches
+
+357
+00:23:17,0 --> 00:23:31,
+except it were repentance and faith in God.
+
+358
+00:23:31,0 --> 00:23:31,0
+23
+
+359
+00:23:31,0 --> 00:23:31,0
+And
+
+360
+00:23:31,0 --> 00:23:31,0
+
+
+361
+00:23:31,0 --> 00:23:31,0
+now
+
+362
+00:23:31,0 --> 00:23:31,0
+
+
+363
+00:23:31,0 --> 00:23:31,0
+there
+
+364
+00:23:31,0 --> 00:23:31,0
+were
+
+365
+00:23:31,0 --> 00:23:31,0
+
+
+366
+00:23:31,0 --> 00:23:31,0
+seven
+
+367
+00:23:31,0 --> 00:23:31,0
+
+
+368
+00:23:31,0 --> 00:23:31,0
+
+
+369
+00:23:31,0 --> 00:23:31,0
+churches
+
+370
+00:23:31,0 --> 00:23:31,0
+in
+
+371
+00:23:31,0 --> 00:23:31,0
+
+
+372
+00:23:31,0 --> 00:23:31,0
+the
+
+373
+00:23:31,0 --> 00:23:31,0
+land
+
+374
+00:23:31,0 --> 00:23:31,0
+of
+
+375
+00:23:31,0 --> 00:23:31,0
+
+
+376
+00:23:31,0 --> 00:23:31,0
+
+
+377
+00:23:31,0 --> 00:23:31,0
+
+
+378
+00:23:31,0 --> 00:23:31,0
+Zarahemla.
+
+379
+00:23:31,0 --> 00:23:31,0
+And
+
+380
+00:23:31,0 --> 00:23:31,0
+it
+
+381
+00:23:31,0 --> 00:23:31,0
+
+
+382
+00:23:31,0 --> 00:23:31,0
+came
+
+383
+00:23:31,0 --> 00:23:31,0
+to
+
+384
+00:23:31,0 --> 00:23:31,0
+
+
+385
+00:23:31,0 --> 00:23:31,0
+pass
+
+386
+00:23:31,0 --> 00:23:31,0
+that
+
+387
+00:23:31,0 --> 00:23:31,0
+
+
+388
+00:23:31,0 --> 00:23:31,0
+
+
+389
+00:23:31,0 --> 00:23:31,0
+
+
+390
+00:23:31,0 --> 00:23:31,0
+whosoever
+
+391
+00:23:31,0 --> 00:23:31,0
+were
+
+392
+00:23:31,0 --> 00:23:31,0
+
+
+393
+00:23:31,0 --> 00:23:31,0
+
+
+394
+00:23:31,0 --> 00:23:31,0
+desirous
+
+395
+00:23:31,0 --> 00:23:31,0
+to
+
+396
+00:23:31,0 --> 00:23:31,0
+
+
+397
+00:23:31,0 --> 00:23:31,0
+take
+
+398
+00:23:31,0 --> 00:23:31,0
+
+
+399
+00:23:31,0 --> 00:23:31,0
+upon
+
+400
+00:23:31,0 --> 00:23:31,0
+them
+
+401
+00:23:31,0 --> 00:23:31,0
+
+
+402
+00:23:31,0 --> 00:23:31,0
+the
+
+403
+00:23:31,0 --> 00:23:31,0
+name
+
+404
+00:23:31,0 --> 00:23:31,0
+of
+
+405
+00:23:31,0 --> 00:23:31,0
+
+
+406
+00:23:31,0 --> 00:23:17,
+Christ, or of God, they did join the churches of God;
+
+407
+00:23:17,0 --> 00:23:17,0
+24
+
+408
+00:23:17,0 --> 00:23:17,0
+And
+
+409
+00:23:17,0 --> 00:23:17,0
+
+
+410
+00:23:17,0 --> 00:23:17,0
+they
+
+411
+00:23:17,0 --> 00:23:17,0
+
+
+412
+00:23:17,0 --> 00:23:17,0
+were
+
+413
+00:23:17,0 --> 00:23:17,0
+
+
+414
+00:23:17,0 --> 00:23:17,0
+called
+
+415
+00:23:17,0 --> 00:23:17,0
+the
+
+416
+00:23:17,0 --> 00:23:17,0
+
+
+417
+00:23:17,0 --> 00:23:17,0
+
+
+418
+00:23:17,0 --> 00:23:17,0
+people
+
+419
+00:23:17,0 --> 00:23:17,0
+of
+
+420
+00:23:17,0 --> 00:23:17,0
+God.
+
+421
+00:23:17,0 --> 00:23:17,0
+
+
+422
+00:23:17,0 --> 00:23:17,0
+And
+
+423
+00:23:17,0 --> 00:23:17,0
+the
+
+424
+00:23:17,0 --> 00:23:17,0
+
+
+425
+00:23:17,0 --> 00:23:17,0
+Lord
+
+426
+00:23:17,0 --> 00:23:17,0
+did
+
+427
+00:23:17,0 --> 00:23:17,0
+
+
+428
+00:23:17,0 --> 00:23:17,0
+pour
+
+429
+00:23:17,0 --> 00:23:17,0
+out
+
+430
+00:23:17,0 --> 00:23:17,0
+his
+
+431
+00:23:17,0 --> 00:23:17,0
+
+
+432
+00:23:17,0 --> 00:23:17,0
+
+
+433
+00:23:17,0 --> 00:23:17,0
+Spirit
+
+434
+00:23:17,0 --> 00:23:17,0
+upon
+
+435
+00:23:17,0 --> 00:23:17,0
+
+
+436
+00:23:17,0 --> 00:23:17,0
+them,
+
+437
+00:23:17,0 --> 00:23:17,0
+
+
+438
+00:23:17,0 --> 00:23:17,0
+and
+
+439
+00:23:17,0 --> 00:23:17,0
+they
+
+440
+00:23:17,0 --> 00:23:17,0
+
+
+441
+00:23:17,0 --> 00:23:17,0
+were
+
+442
+00:23:17,0 --> 00:23:17,0
+
+
+443
+00:23:17,0 --> 00:23:17,0
+
+
+444
+00:23:17,0 --> 00:23:17,0
+blessed,
+
+445
+00:23:17,0 --> 00:23:17,0
+and
+
+446
+00:23:17,0 --> 00:23:17,0
+
+
+447
+00:23:17,0 --> 00:23:17,0
+
+
+448
+00:23:17,0 --> 00:23:17,0
+
+
+449
+00:23:17,0 --> 00:23:17,0
+prospered
+
+450
+00:23:17,0 --> 00:23:17,0
+in
+
+451
+00:23:17,0 --> 00:23:17,0
+the
+
+452
+00:23:17,0 --> 00:23:17,0
+
+
+453
+00:23:17,0 --> 00:23:31,
+land. 
 

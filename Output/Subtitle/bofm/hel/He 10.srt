@@ -1,344 +1,912 @@
 1
-00:00:00,0 --> 00:00:04,6
+00:00:00,0 --> 00:00:00,0
 Chapter 10 The Lord gives Nephi the sealing
 
 2
-00:00:04,6 --> 00:00:09,2
- power—He is empowered to bind and loose on earth and in
+00:00:00,0 --> 00:00:00,0
+power—He is empowered to bind and loose on
 
 3
-00:00:09,2 --> 00:00:13,8
- heaven—He commands the people to repent or
+00:00:00,0 --> 00:00:00,0
+earth and in heaven—He commands the people
 
 4
-00:00:13,8 --> 00:00:18,4
- perish—The Spirit carries him from multitude to
+00:00:00,0 --> 00:00:00,0
+to repent or perish—The Spirit carries him
 
 5
-00:00:18,4 --> 00:00:23,0
- multitude. About 21–20 B.C.
+00:00:00,0 --> 00:03:45,
+from multitude to multitude. About 21–20 B.C. 
 
 6
-00:00:23,924 --> 00:00:33,924
-1 And it came to pass that there arose a division
+00:03:45,0 --> 00:03:45,0
+1 And it came to pass that there arose
 
 7
-00:00:33,924 --> 00:00:43,924
- among the people, insomuch that they divided
+00:03:45,0 --> 00:03:45,0
+a division among the people, insomuch
 
 8
-00:00:43,924 --> 00:00:53,924
- hither and thither and went their ways, leaving Nephi
+00:03:45,0 --> 00:03:45,0
+that they divided hither and thither and
 
 9
-00:00:53,924 --> 00:01:03,924
- alone, as he was standing in the midst of them
+00:03:45,0 --> 00:03:45,0
+went their ways, leaving Nephi alone,
 
 10
-00:01:03,73 --> 00:01:08,063
-2 And it came to pass that Nephi went his way
+00:03:45,0 --> 00:07:15,
+as he was standing in the midst of them.
 
 11
-00:01:08,063 --> 00:01:12,396
- towards his own house, pondering upon the things which
+00:07:15,0 --> 00:07:15,0
+2 And it came to pass that Nephi
 
 12
-00:01:12,396 --> 00:01:16,729
- the Lord had shown unto him
+00:07:15,0 --> 00:07:15,0
+went his way towards his own
 
 13
-00:01:16,977 --> 00:01:22,406
-3 And it came to pass as he was thus
+00:07:15,0 --> 00:07:15,0
+house, pondering upon the things
 
 14
-00:01:22,406 --> 00:01:27,835
- pondering—being much cast down because of the wickedness of the
+00:07:15,0 --> 00:12:44,
+which the Lord had shown unto him.
 
 15
-00:01:27,835 --> 00:01:33,264
- people of the Nephites, their secret works of
+00:12:44,0 --> 00:12:44,0
+3 And it came to pass as he
 
 16
-00:01:33,264 --> 00:01:38,693
- darkness, and their murderings, and their
+00:12:44,0 --> 00:12:44,0
+was thus pondering—being much
 
 17
-00:01:38,693 --> 00:01:44,122
- plunderings, and all manner of iniquities—and it came to pass
+00:12:44,0 --> 00:12:44,0
+cast down because of the
 
 18
-00:01:44,122 --> 00:01:49,551
- as he was thus pondering in his heart, behold, a
+00:12:44,0 --> 00:12:44,0
+wickedness of the people of the
 
 19
-00:01:49,551 --> 00:01:54,98
- voice came unto him saying
+00:12:44,0 --> 00:12:44,0
+Nephites, their secret works
 
 20
-00:01:54,414 --> 00:02:04,7
-4 Blessed art thou, Nephi, for those things which
+00:12:44,0 --> 00:12:44,0
+of darkness, and their
 
 21
-00:02:04,7 --> 00:02:14,986
- thou hast done; for I have beheld how thou hast
+00:12:44,0 --> 00:12:44,0
+murderings, and their plunderings,
 
 22
-00:02:14,986 --> 00:02:25,272
- with unwearyingness declared the word, which I have
+00:12:44,0 --> 00:12:44,0
+and all manner of
 
 23
-00:02:25,272 --> 00:02:35,558
- given unto thee, unto this people. And thou hast
+00:12:44,0 --> 00:12:44,0
+iniquities—and it came to pass as he was
 
 24
-00:02:35,558 --> 00:02:45,844
- not feared them, and hast not sought thine own
+00:12:44,0 --> 00:12:44,0
+thus pondering in his heart,
 
 25
-00:02:45,844 --> 00:02:56,13
- life, but hast sought my will, and to keep my
+00:12:44,0 --> 00:12:16,
+behold, a voice came unto him saying:
 
 26
-00:02:56,13 --> 00:03:06,416
- commandments
+00:12:16,0 --> 00:12:16,0
+4 Blessed art thou, Nephi,
 
 27
-00:03:06,186 --> 00:03:12,615
-5 And now, because thou hast done this with such
+00:12:16,0 --> 00:12:16,0
+for those things which thou
 
 28
-00:03:12,615 --> 00:03:19,044
- unwearyingness, behold, I will bless thee forever;
+00:12:16,0 --> 00:12:16,0
+hast done; for I have
 
 29
-00:03:19,044 --> 00:03:25,473
- and I will make thee mighty in word and in deed,
+00:12:16,0 --> 00:12:16,0
+beheld how thou hast with
 
 30
-00:03:25,473 --> 00:03:31,902
- in faith and in works; yea, even that all things
+00:12:16,0 --> 00:12:16,0
+unwearyingness declared the
 
 31
-00:03:31,902 --> 00:03:38,331
- shall be done unto thee according to thy word, for
+00:12:16,0 --> 00:12:16,0
+word, which I have given unto
 
 32
-00:03:38,331 --> 00:03:44,76
- thou shalt not ask that which is contrary to my
+00:12:16,0 --> 00:12:16,0
+thee, unto this people. And
 
 33
-00:03:44,76 --> 00:03:51,189
- will
+00:12:16,0 --> 00:12:16,0
+thou hast not feared them,
 
 34
-00:03:51,698 --> 00:03:52,031
-6 Behold, thou art Nephi, and I am God. Behold, I
+00:12:16,0 --> 00:12:16,0
+and hast not sought thine
 
 35
-00:03:52,031 --> 00:03:52,364
- declare it unto thee in the presence of mine
+00:12:16,0 --> 00:12:16,0
+own life, but hast sought my
 
 36
-00:03:52,364 --> 00:03:52,697
- angels, that ye shall have power over this people, and
+00:12:16,0 --> 00:17:26,
+will, and to keep my commandments.
 
 37
-00:03:52,697 --> 00:03:53,03
- shall smite the earth with famine, and with
+00:17:26,0 --> 00:17:26,0
+5 And now, because thou
 
 38
-00:03:53,03 --> 00:03:53,363
- pestilence, and destruction, according to the wickedness
+00:17:26,0 --> 00:17:26,0
+hast done this with such
 
 39
-00:03:53,363 --> 00:03:53,696
- of this people
+00:17:26,0 --> 00:17:26,0
+unwearyingness, behold, I
 
 40
-00:03:53,834 --> 00:04:03,434
-7 Behold, I give unto you power, that whatsoever
+00:17:26,0 --> 00:17:26,0
+will bless thee forever;
 
 41
-00:04:03,434 --> 00:04:13,034
- ye shall seal on earth shall be sealed in heaven;
+00:17:26,0 --> 00:17:26,0
+and I will make thee
 
 42
-00:04:13,034 --> 00:04:22,634
- and whatsoever ye shall loose on earth shall be
+00:17:26,0 --> 00:17:26,0
+mighty in word and in deed,
 
 43
-00:04:22,634 --> 00:04:32,234
- loosed in heaven; and thus shall ye have power among
+00:17:26,0 --> 00:17:26,0
+in faith and in works;
 
 44
-00:04:32,234 --> 00:04:41,834
- this people
+00:17:26,0 --> 00:17:26,0
+yea, even that all things
 
 45
-00:04:41,681 --> 00:04:45,681
-8 And thus, if ye shall say unto this temple it
+00:17:26,0 --> 00:17:26,0
+shall be done unto thee
 
 46
-00:04:45,681 --> 00:04:49,681
- shall be rent in twain, it shall be done
+00:17:26,0 --> 00:17:26,0
+according to thy word, for
 
 47
-00:04:49,656 --> 00:04:53,656
-9 And if ye shall say unto this mountain, Be thou
+00:17:26,0 --> 00:17:26,0
+thou shalt not ask that
 
 48
-00:04:53,656 --> 00:04:57,656
- cast down and become smooth, it shall be done
+00:17:26,0 --> 00:19:24,
+which is contrary to my will.
 
 49
-00:04:57,631 --> 00:04:58,131
-10 And behold, if ye shall say that God shall
+00:19:24,0 --> 00:19:24,0
+6 Behold, thou art
 
 50
-00:04:58,131 --> 00:04:58,631
- smite this people, it shall come to pass
+00:19:24,0 --> 00:19:24,0
+Nephi, and I am God. Behold,
 
 51
-00:04:58,131 --> 00:05:03,381
-11 And now behold, I command you, that ye shall go
+00:19:24,0 --> 00:19:24,0
+I declare it unto thee
 
 52
-00:05:03,381 --> 00:05:08,631
- and declare unto this people, that thus saith the
+00:19:24,0 --> 00:19:24,0
+in the presence of mine
 
 53
-00:05:08,631 --> 00:05:13,881
- Lord God, who is the Almighty: Except ye repent
+00:19:24,0 --> 00:19:24,0
+angels, that ye shall
 
 54
-00:05:13,881 --> 00:05:19,131
- ye shall be smitten, even unto destruction
+00:19:24,0 --> 00:19:24,0
+have power over this
 
 55
-00:05:19,219 --> 00:05:23,844
-12 And behold, now it came to pass that when the
+00:19:24,0 --> 00:19:24,0
+people, and shall smite the
 
 56
-00:05:23,844 --> 00:05:28,469
- Lord had spoken these words unto Nephi, he did stop
+00:19:24,0 --> 00:19:24,0
+earth with famine, and
 
 57
-00:05:28,469 --> 00:05:33,094
- and did not go unto his own house, but did return
+00:19:24,0 --> 00:19:24,0
+with pestilence, and
 
 58
-00:05:33,094 --> 00:05:37,719
- unto the multitudes who were scattered about upon
+00:19:24,0 --> 00:19:24,0
+destruction, according to the
 
 59
-00:05:37,719 --> 00:05:42,344
- the face of the land, and began to declare unto
+00:19:24,0 --> 00:18:56,
+wickedness of this people.
 
 60
-00:05:42,344 --> 00:05:46,969
- them the word of the Lord which had been spoken
+00:18:56,0 --> 00:18:56,0
+7 Behold, I give unto
 
 61
-00:05:46,969 --> 00:05:51,594
- unto him, concerning their destruction if they did
+00:18:56,0 --> 00:18:56,0
+you power, that
 
 62
-00:05:51,594 --> 00:05:56,219
- not repent
+00:18:56,0 --> 00:18:56,0
+whatsoever ye shall seal on
 
 63
-00:05:56,156 --> 00:06:00,756
-13 Now behold, notwithstanding that great miracle
+00:18:56,0 --> 00:18:56,0
+earth shall be sealed in
 
 64
-00:06:00,756 --> 00:06:05,356
- which Nephi had done in telling them concerning
+00:18:56,0 --> 00:18:56,0
+heaven; and whatsoever
 
 65
-00:06:05,356 --> 00:06:09,956
- the death of the chief judge, they did harden their
+00:18:56,0 --> 00:18:56,0
+ye shall loose on earth
 
 66
-00:06:09,956 --> 00:06:14,556
- hearts and did not hearken unto the words of the
+00:18:56,0 --> 00:18:56,0
+shall be loosed in
 
 67
-00:06:14,556 --> 00:06:19,156
- Lord
+00:18:56,0 --> 00:18:56,0
+heaven; and thus shall ye
 
 68
-00:06:19,846 --> 00:06:25,346
-14 Therefore Nephi did declare unto them the word
+00:18:56,0 --> 00:21:08,
+have power among this people.
 
 69
-00:06:25,346 --> 00:06:30,846
- of the Lord, saying: Except ye repent, thus saith
+00:21:08,0 --> 00:21:08,0
+8 And thus, if ye
 
 70
-00:06:30,846 --> 00:06:36,346
- the Lord, ye shall be smitten even unto
+00:21:08,0 --> 00:21:08,0
+shall say unto this temple
 
 71
-00:06:36,346 --> 00:06:41,846
- destruction
+00:21:08,0 --> 00:21:08,0
+it shall be rent in
 
 72
-00:06:41,101 --> 00:06:45,934
-15 And it came to pass that when Nephi had
+00:21:08,0 --> 00:20:40,
+twain, it shall be done.
 
 73
-00:06:45,934 --> 00:06:50,767
- declared unto them the word, behold, they did still
+00:20:40,0 --> 00:20:40,0
+9 And if ye shall
 
 74
-00:06:50,767 --> 00:06:55,6
- harden their hearts and would not hearken unto his
+00:20:40,0 --> 00:20:40,0
+say unto this
 
 75
-00:06:55,6 --> 00:07:00,433
- words; therefore they did revile against him, and did
+00:20:40,0 --> 00:20:40,0
+mountain, Be thou cast
 
 76
-00:07:00,433 --> 00:07:05,266
- seek to lay their hands upon him that they might
+00:20:40,0 --> 00:20:40,0
+down and become
 
 77
-00:07:05,266 --> 00:07:10,099
- cast him into prison
+00:20:40,0 --> 00:20:12,
+smooth, it shall be done.
 
 78
-00:07:10,096 --> 00:07:15,596
-16 But behold, the power of God was with him, and
+00:20:12,0 --> 00:20:12,0
+10 And behold, if
 
 79
-00:07:15,596 --> 00:07:21,096
- they could not take him to cast him into prison,
+00:20:12,0 --> 00:20:12,0
+ye shall say
 
 80
-00:07:21,096 --> 00:07:26,596
- for he was taken by the Spirit and conveyed away
+00:20:12,0 --> 00:20:12,0
+that God shall smite
 
 81
-00:07:26,596 --> 00:07:32,096
- out of the midst of them
+00:20:12,0 --> 00:20:12,0
+this people, it
 
 82
-00:07:32,585 --> 00:07:38,785
-17 And it came to pass that thus he did go forth
+00:20:12,0 --> 00:19:44,
+shall come to pass.
 
 83
-00:07:38,785 --> 00:07:44,985
- in the Spirit, from multitude to multitude,
+00:19:44,0 --> 00:19:44,0
+11 And now
 
 84
-00:07:44,985 --> 00:07:51,185
- declaring the word of God, even until he had declared it
+00:19:44,0 --> 00:19:44,0
+behold, I command
 
 85
-00:07:51,185 --> 00:07:57,385
- unto them all, or sent it forth among all the
+00:19:44,0 --> 00:19:44,0
+you, that ye shall
 
 86
-00:07:57,385 --> 00:08:03,585
- people
+00:19:44,0 --> 00:19:44,0
+go and declare
+
+87
+00:19:44,0 --> 00:19:44,0
+unto this people,
+
+88
+00:19:44,0 --> 00:19:44,0
+that thus saith
+
+89
+00:19:44,0 --> 00:19:44,0
+the Lord God,
+
+90
+00:19:44,0 --> 00:19:44,0
+who is the
+
+91
+00:19:44,0 --> 00:19:44,0
+Almighty: Except ye
+
+92
+00:19:44,0 --> 00:19:44,0
+repent ye shall be
+
+93
+00:19:44,0 --> 00:19:44,0
+smitten, even
+
+94
+00:19:44,0 --> 00:20:56,
+unto destruction.
+
+95
+00:20:56,0 --> 00:20:56,0
+12 And behold,
+
+96
+00:20:56,0 --> 00:20:56,0
+now it came to
+
+97
+00:20:56,0 --> 00:20:56,0
+pass that when
+
+98
+00:20:56,0 --> 00:20:56,0
+the Lord had
+
+99
+00:20:56,0 --> 00:20:56,0
+spoken these
+
+100
+00:20:56,0 --> 00:20:56,0
+words unto Nephi,
+
+101
+00:20:56,0 --> 00:20:56,0
+he did stop and
+
+102
+00:20:56,0 --> 00:20:56,0
+did not go unto
+
+103
+00:20:56,0 --> 00:20:56,0
+his own house,
+
+104
+00:20:56,0 --> 00:20:56,0
+but did return
+
+105
+00:20:56,0 --> 00:20:56,0
+unto the
+
+106
+00:20:56,0 --> 00:20:56,0
+multitudes who were
+
+107
+00:20:56,0 --> 00:20:56,0
+scattered about
+
+108
+00:20:56,0 --> 00:20:56,0
+upon the face
+
+109
+00:20:56,0 --> 00:20:56,0
+of the land,
+
+110
+00:20:56,0 --> 00:20:56,0
+and began to
+
+111
+00:20:56,0 --> 00:20:56,0
+declare unto them
+
+112
+00:20:56,0 --> 00:20:56,0
+the word of the
+
+113
+00:20:56,0 --> 00:20:56,0
+Lord which had
+
+114
+00:20:56,0 --> 00:20:56,0
+been spoken
+
+115
+00:20:56,0 --> 00:20:56,0
+unto him,
+
+116
+00:20:56,0 --> 00:20:56,0
+concerning their
+
+117
+00:20:56,0 --> 00:20:28,
+destruction if they did not repent.
+
+118
+00:20:28,0 --> 00:20:28,0
+13 Now behold,
+
+119
+00:20:28,0 --> 00:20:28,0
+
+
+120
+00:20:28,0 --> 00:20:28,0
+notwithstanding that great
+
+121
+00:20:28,0 --> 00:20:28,0
+miracle which
+
+122
+00:20:28,0 --> 00:20:28,0
+Nephi had done
+
+123
+00:20:28,0 --> 00:20:28,0
+in telling
+
+124
+00:20:28,0 --> 00:20:28,0
+them concerning
+
+125
+00:20:28,0 --> 00:20:28,0
+the death of
+
+126
+00:20:28,0 --> 00:20:28,0
+the chief
+
+127
+00:20:28,0 --> 00:20:28,0
+judge, they did
+
+128
+00:20:28,0 --> 00:20:28,0
+harden their
+
+129
+00:20:28,0 --> 00:20:28,0
+hearts and did not
+
+130
+00:20:28,0 --> 00:20:28,0
+hearken unto
+
+131
+00:20:28,0 --> 00:22:40,
+the words of the Lord.
+
+132
+00:22:40,0 --> 00:22:40,0
+14 Therefore
+
+133
+00:22:40,0 --> 00:22:40,0
+Nephi did
+
+134
+00:22:40,0 --> 00:22:40,0
+declare unto
+
+135
+00:22:40,0 --> 00:22:40,0
+them the word of
+
+136
+00:22:40,0 --> 00:22:40,0
+the Lord,
+
+137
+00:22:40,0 --> 00:22:40,0
+saying: Except
+
+138
+00:22:40,0 --> 00:22:40,0
+ye repent,
+
+139
+00:22:40,0 --> 00:22:40,0
+thus saith the
+
+140
+00:22:40,0 --> 00:22:40,0
+Lord, ye
+
+141
+00:22:40,0 --> 00:22:40,0
+shall be smitten
+
+142
+00:22:40,0 --> 00:23:52,
+even unto destruction.
+
+143
+00:23:52,0 --> 00:23:52,0
+15 And it
+
+144
+00:23:52,0 --> 00:23:52,0
+came to pass
+
+145
+00:23:52,0 --> 00:23:52,0
+that when
+
+146
+00:23:52,0 --> 00:23:52,0
+Nephi had
+
+147
+00:23:52,0 --> 00:23:52,0
+declared unto
+
+148
+00:23:52,0 --> 00:23:52,0
+them the word,
+
+149
+00:23:52,0 --> 00:23:52,0
+behold, they
+
+150
+00:23:52,0 --> 00:23:52,0
+did still
+
+151
+00:23:52,0 --> 00:23:52,0
+harden their
+
+152
+00:23:52,0 --> 00:23:52,0
+hearts and
+
+153
+00:23:52,0 --> 00:23:52,0
+would not
+
+154
+00:23:52,0 --> 00:23:52,0
+hearken unto
+
+155
+00:23:52,0 --> 00:23:52,0
+his words;
+
+156
+00:23:52,0 --> 00:23:52,0
+therefore they
+
+157
+00:23:52,0 --> 00:23:52,0
+did revile
+
+158
+00:23:52,0 --> 00:23:52,0
+against him,
+
+159
+00:23:52,0 --> 00:23:52,0
+and did seek
+
+160
+00:23:52,0 --> 00:23:52,0
+to lay
+
+161
+00:23:52,0 --> 00:23:52,0
+their hands upon
+
+162
+00:23:52,0 --> 00:23:52,0
+him that
+
+163
+00:23:52,0 --> 00:23:24,
+they might cast him into prison.
+
+164
+00:23:24,0 --> 00:23:24,0
+16 But
+
+165
+00:23:24,0 --> 00:23:24,0
+behold, the
+
+166
+00:23:24,0 --> 00:23:24,0
+power of God
+
+167
+00:23:24,0 --> 00:23:24,0
+was with
+
+168
+00:23:24,0 --> 00:23:24,0
+him, and they
+
+169
+00:23:24,0 --> 00:23:24,0
+could not
+
+170
+00:23:24,0 --> 00:23:24,0
+take him to
+
+171
+00:23:24,0 --> 00:23:24,0
+cast him
+
+172
+00:23:24,0 --> 00:23:24,0
+into prison,
+
+173
+00:23:24,0 --> 00:23:24,0
+for he was
+
+174
+00:23:24,0 --> 00:23:24,0
+taken by
+
+175
+00:23:24,0 --> 00:23:24,0
+the Spirit
+
+176
+00:23:24,0 --> 00:23:24,0
+and conveyed
+
+177
+00:23:24,0 --> 00:23:24,0
+away out of
+
+178
+00:23:24,0 --> 00:26:20,
+the midst of them.
+
+179
+00:26:20,0 --> 00:26:20,0
+17 And it
+
+180
+00:26:20,0 --> 00:26:20,0
+came to
+
+181
+00:26:20,0 --> 00:26:20,0
+pass that
+
+182
+00:26:20,0 --> 00:26:20,0
+thus he did
+
+183
+00:26:20,0 --> 00:26:20,0
+go forth
+
+184
+00:26:20,0 --> 00:26:20,0
+in the
+
+185
+00:26:20,0 --> 00:26:20,0
+Spirit, from
+
+186
+00:26:20,0 --> 00:26:20,0
+multitude
+
+187
+00:26:20,0 --> 00:26:20,0
+to
+
+188
+00:26:20,0 --> 00:26:20,0
+multitude,
+
+189
+00:26:20,0 --> 00:26:20,0
+declaring the
+
+190
+00:26:20,0 --> 00:26:20,0
+word of God,
+
+191
+00:26:20,0 --> 00:26:20,0
+even until
+
+192
+00:26:20,0 --> 00:26:20,0
+he had
+
+193
+00:26:20,0 --> 00:26:20,0
+declared it
+
+194
+00:26:20,0 --> 00:26:20,0
+unto them
+
+195
+00:26:20,0 --> 00:26:20,0
+all, or
+
+196
+00:26:20,0 --> 00:26:20,0
+sent it
+
+197
+00:26:20,0 --> 00:28:32,
+forth among all the people.
+
+198
+00:28:32,0 --> 00:28:32,0
+18 And it
+
+199
+00:28:32,0 --> 00:28:32,0
+came to
+
+200
+00:28:32,0 --> 00:28:32,0
+pass that
+
+201
+00:28:32,0 --> 00:28:32,0
+they
+
+202
+00:28:32,0 --> 00:28:32,0
+would not
+
+203
+00:28:32,0 --> 00:28:32,0
+hearken
+
+204
+00:28:32,0 --> 00:28:32,0
+unto his
+
+205
+00:28:32,0 --> 00:28:32,0
+words; and
+
+206
+00:28:32,0 --> 00:28:32,0
+there
+
+207
+00:28:32,0 --> 00:28:32,0
+began to be
+
+208
+00:28:32,0 --> 00:28:32,0
+
+
+209
+00:28:32,0 --> 00:28:32,0
+contentions,
+
+210
+00:28:32,0 --> 00:28:32,0
+insomuch that
+
+211
+00:28:32,0 --> 00:28:32,0
+they were
+
+212
+00:28:32,0 --> 00:28:32,0
+divided
+
+213
+00:28:32,0 --> 00:28:32,0
+against
+
+214
+00:28:32,0 --> 00:28:32,0
+themselves
+
+215
+00:28:32,0 --> 00:28:32,0
+and began
+
+216
+00:28:32,0 --> 00:28:32,0
+to slay
+
+217
+00:28:32,0 --> 00:29:44,
+one another with the sword.
+
+218
+00:29:44,0 --> 00:29:44,0
+19 And
+
+219
+00:29:44,0 --> 00:29:44,0
+thus
+
+220
+00:29:44,0 --> 00:29:44,0
+ended the
+
+221
+00:29:44,0 --> 00:29:44,0
+seventy
+
+222
+00:29:44,0 --> 00:29:44,0
+and first
+
+223
+00:29:44,0 --> 00:29:44,0
+year of
+
+224
+00:29:44,0 --> 00:29:44,0
+the
+
+225
+00:29:44,0 --> 00:29:44,0
+reign of the
+
+226
+00:29:44,0 --> 00:29:44,0
+judges
+
+227
+00:29:44,0 --> 00:29:44,0
+over the
+
+228
+00:29:44,0 --> 00:29:16,
+people of Nephi. 
 

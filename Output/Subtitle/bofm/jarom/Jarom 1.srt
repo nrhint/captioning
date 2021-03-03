@@ -1,172 +1,832 @@
 1
-00:00:00,0 --> 00:00:17,4
-The Book of JaromChapter 1 The Nephites keep the
+00:00:00,0 --> 00:00:00,0
+The Book of JaromChapter 1 The Nephites
 
 2
-00:00:17,4 --> 00:00:34,8
- law of Moses, look forward to the coming of Christ,
+00:00:00,0 --> 00:00:00,0
+keep the law of Moses, look forward to
 
 3
-00:00:34,8 --> 00:00:52,2
- and prosper in the land—Many prophets labor to
+00:00:00,0 --> 00:00:00,0
+the coming of Christ, and prosper in the
 
 4
-00:00:52,2 --> 00:01:09,6
- keep the people in the way of truth. About
+00:00:00,0 --> 00:00:00,0
+land—Many prophets labor to keep the
 
 5
-00:01:09,6 --> 00:01:27,0
- 399–361 B.C.
+00:00:00,0 --> 00:08:55,
+people in the way of truth. About 399–361 B.C. 
 
 6
-00:01:27,721 --> 00:03:16,721
-1 Now behold, I, Jarom, write a few words
+00:08:55,0 --> 00:08:55,0
+1 Now behold, I, Jarom, write
 
 7
-00:03:16,721 --> 00:05:05,721
- according to the commandment of my father, Enos, that our
+00:08:55,0 --> 00:08:55,0
+a few words according to the
 
 8
-00:05:05,721 --> 00:06:54,721
- genealogy may be kept
+00:08:55,0 --> 00:08:55,0
+commandment of my father, Enos,
 
 9
-00:06:54,681 --> 00:07:16,014
-2 And as these plates are small, and as these
+00:08:55,0 --> 00:10:25,
+that our genealogy may be kept.
 
 10
-00:07:16,014 --> 00:07:37,347
- things are written for the intent of the benefit of
+00:10:25,0 --> 00:10:25,0
+2 And as these plates are
 
 11
-00:07:37,347 --> 00:07:58,68
- our brethren the Lamanites, wherefore, it must needs
+00:10:25,0 --> 00:10:25,0
+small, and as these things are
 
 12
-00:07:58,68 --> 00:08:20,013
- be that I write a little; but I shall not write
+00:10:25,0 --> 00:10:25,0
+written for the intent of
 
 13
-00:08:20,013 --> 00:08:41,346
- the things of my prophesying, nor of my
+00:10:25,0 --> 00:10:25,0
+the benefit of our brethren
 
 14
-00:08:41,346 --> 00:09:02,679
- revelations. For what could I write more than my fathers have
+00:10:25,0 --> 00:10:25,0
+the Lamanites, wherefore, it
 
 15
-00:09:02,679 --> 00:09:24,012
- written? For have not they revealed the plan of
+00:10:25,0 --> 00:10:25,0
+must needs be that I write a
 
 16
-00:09:24,012 --> 00:09:45,345
- salvation? I say unto you, Yea; and this sufficeth
+00:10:25,0 --> 00:10:25,0
+little; but I shall not
 
 17
-00:09:45,345 --> 00:10:06,678
- me
+00:10:25,0 --> 00:10:25,0
+write the things of my
 
 18
-00:01:27,721 --> 00:02:22,221
-5 And now, behold, two hundred years had passed
+00:10:25,0 --> 00:10:25,0
+prophesying, nor of my revelations.
 
 19
-00:02:22,221 --> 00:03:16,721
- away, and the people of Nephi had waxed strong in
+00:10:25,0 --> 00:10:25,0
+For what could I write more
 
 20
-00:03:16,721 --> 00:04:11,221
- the land. They observed to keep the law of Moses and
+00:10:25,0 --> 00:10:25,0
+than my fathers have
 
 21
-00:04:11,221 --> 00:05:05,721
- the sabbath day holy unto the Lord. And they
+00:10:25,0 --> 00:10:25,0
+written? For have not they revealed
 
 22
-00:05:05,721 --> 00:06:00,221
- profaned not; neither did they blaspheme. And the laws
+00:10:25,0 --> 00:10:25,0
+the plan of salvation? I
 
 23
-00:06:00,221 --> 00:06:54,721
- of the land were exceedingly strict
+00:10:25,0 --> 00:12:09,
+say unto you, Yea; and this sufficeth me.
 
 24
-00:06:54,681 --> 00:07:33,081
-6 And they were scattered upon much of the face of
+00:12:09,0 --> 00:12:09,0
+3 Behold, it is expedient
 
 25
-00:07:33,081 --> 00:08:11,481
- the land, and the Lamanites also. And they were
+00:12:09,0 --> 00:12:09,0
+that much should be done
 
 26
-00:08:11,481 --> 00:08:49,881
- exceedingly more numerous than were they of the
+00:12:09,0 --> 00:12:09,0
+among this people, because of
 
 27
-00:08:49,881 --> 00:09:28,281
- Nephites; and they loved murder and would drink the
+00:12:09,0 --> 00:12:09,0
+the hardness of their
 
 28
-00:09:28,281 --> 00:10:06,681
- blood of beasts
+00:12:09,0 --> 00:12:09,0
+hearts, and the deafness of
 
 29
-00:01:27,721 --> 00:02:33,121
-9 And thus being prepared to meet the Lamanites,
+00:12:09,0 --> 00:12:09,0
+their ears, and the blindness
 
 30
-00:02:33,121 --> 00:03:38,521
- they did not prosper against us. But the word of
+00:12:09,0 --> 00:12:09,0
+of their minds, and the
 
 31
-00:03:38,521 --> 00:04:43,921
- the Lord was verified, which he spake unto our
+00:12:09,0 --> 00:12:09,0
+stiffness of their necks;
 
 32
-00:04:43,921 --> 00:05:49,321
- fathers, saying that: Inasmuch as ye will keep my
+00:12:09,0 --> 00:12:09,0
+nevertheless, God is exceedingly
 
 33
-00:05:49,321 --> 00:06:54,721
- commandments ye shall prosper in the land
+00:12:09,0 --> 00:12:09,0
+merciful unto them, and
 
 34
-00:06:54,681 --> 00:07:26,681
-10 And it came to pass that the prophets of the
+00:12:09,0 --> 00:12:09,0
+has not as yet swept them off
 
 35
-00:07:26,681 --> 00:07:58,681
- Lord did threaten the people of Nephi, according to
+00:12:09,0 --> 00:16:08,
+from the face of the land.
 
 36
-00:07:58,681 --> 00:08:30,681
- the word of God, that if they did not keep the
+00:16:08,0 --> 00:16:08,0
+4 And there are many
 
 37
-00:08:30,681 --> 00:09:02,681
- commandments, but should fall into transgression,
+00:16:08,0 --> 00:16:08,0
+among us who have many
 
 38
-00:09:02,681 --> 00:09:34,681
- they should be destroyed from off the face of the
+00:16:08,0 --> 00:16:08,0
+revelations, for they are not
 
 39
-00:09:34,681 --> 00:10:06,681
- land
+00:16:08,0 --> 00:16:08,0
+all stiffnecked. And as
 
 40
-00:01:27,721 --> 00:02:49,471
-13 And it came to pass that two hundred and thirty
+00:16:08,0 --> 00:16:08,0
+many as are not stiffnecked
 
 41
-00:02:49,471 --> 00:04:11,221
- and eight years had passed away—after the manner
+00:16:08,0 --> 00:16:08,0
+and have faith, have
 
 42
-00:04:11,221 --> 00:05:32,971
- of wars, and contentions, and dissensions, for the
+00:16:08,0 --> 00:16:08,0
+communion with the Holy
 
 43
-00:05:32,971 --> 00:06:54,721
- space of much of the time
+00:16:08,0 --> 00:16:08,0
+Spirit, which maketh manifest
+
+44
+00:16:08,0 --> 00:16:08,0
+unto the children of
+
+45
+00:16:08,0 --> 00:15:54,
+men, according to their faith.
+
+46
+00:15:54,0 --> 00:15:54,0
+5 And now, behold, two
+
+47
+00:15:54,0 --> 00:15:54,0
+hundred years had
+
+48
+00:15:54,0 --> 00:15:54,0
+passed away, and the people
+
+49
+00:15:54,0 --> 00:15:54,0
+of Nephi had waxed
+
+50
+00:15:54,0 --> 00:15:54,0
+strong in the land. They
+
+51
+00:15:54,0 --> 00:15:54,0
+observed to keep the law
+
+52
+00:15:54,0 --> 00:15:54,0
+of Moses and the
+
+53
+00:15:54,0 --> 00:15:54,0
+sabbath day holy unto the
+
+54
+00:15:54,0 --> 00:15:54,0
+Lord. And they profaned
+
+55
+00:15:54,0 --> 00:15:54,0
+not; neither did they
+
+56
+00:15:54,0 --> 00:15:54,0
+blaspheme. And the laws of
+
+57
+00:15:54,0 --> 00:19:25,
+the land were exceedingly strict.
+
+58
+00:19:25,0 --> 00:19:25,0
+6 And they were
+
+59
+00:19:25,0 --> 00:19:25,0
+scattered upon much of the
+
+60
+00:19:25,0 --> 00:19:25,0
+face of the land,
+
+61
+00:19:25,0 --> 00:19:25,0
+and the Lamanites also.
+
+62
+00:19:25,0 --> 00:19:25,0
+And they were
+
+63
+00:19:25,0 --> 00:19:25,0
+exceedingly more numerous
+
+64
+00:19:25,0 --> 00:19:25,0
+than were they of the
+
+65
+00:19:25,0 --> 00:19:25,0
+Nephites; and they
+
+66
+00:19:25,0 --> 00:19:25,0
+loved murder and would
+
+67
+00:19:25,0 --> 00:27:52,
+drink the blood of beasts.
+
+68
+00:27:52,0 --> 00:27:52,0
+7 And it came to
+
+69
+00:27:52,0 --> 00:27:52,0
+pass that they came
+
+70
+00:27:52,0 --> 00:27:52,0
+many times against us,
+
+71
+00:27:52,0 --> 00:27:52,0
+the Nephites, to
+
+72
+00:27:52,0 --> 00:27:52,0
+battle. But our kings
+
+73
+00:27:52,0 --> 00:27:52,0
+and our leaders were
+
+74
+00:27:52,0 --> 00:27:52,0
+mighty men in the
+
+75
+00:27:52,0 --> 00:27:52,0
+faith of the Lord; and
+
+76
+00:27:52,0 --> 00:27:52,0
+they taught the
+
+77
+00:27:52,0 --> 00:27:52,0
+people the ways of the
+
+78
+00:27:52,0 --> 00:27:52,0
+Lord; wherefore, we
+
+79
+00:27:52,0 --> 00:27:52,0
+withstood the
+
+80
+00:27:52,0 --> 00:27:52,0
+Lamanites and swept them
+
+81
+00:27:52,0 --> 00:27:52,0
+away out of our
+
+82
+00:27:52,0 --> 00:27:52,0
+lands, and began to
+
+83
+00:27:52,0 --> 00:27:52,0
+fortify our cities, or
+
+84
+00:27:52,0 --> 00:31:23,
+whatsoever place of our inheritance.
+
+85
+00:31:23,0 --> 00:31:23,0
+8 And we multiplied
+
+86
+00:31:23,0 --> 00:31:23,0
+exceedingly, and
+
+87
+00:31:23,0 --> 00:31:23,0
+spread upon the face
+
+88
+00:31:23,0 --> 00:31:23,0
+of the land, and
+
+89
+00:31:23,0 --> 00:31:23,0
+became exceedingly
+
+90
+00:31:23,0 --> 00:31:23,0
+rich in gold, and in
+
+91
+00:31:23,0 --> 00:31:23,0
+silver, and in
+
+92
+00:31:23,0 --> 00:31:23,0
+precious things, and
+
+93
+00:31:23,0 --> 00:31:23,0
+in fine workmanship
+
+94
+00:31:23,0 --> 00:31:23,0
+of wood, in
+
+95
+00:31:23,0 --> 00:31:23,0
+buildings, and in
+
+96
+00:31:23,0 --> 00:31:23,0
+machinery, and also in iron
+
+97
+00:31:23,0 --> 00:31:23,0
+and copper, and
+
+98
+00:31:23,0 --> 00:31:23,0
+brass and steel,
+
+99
+00:31:23,0 --> 00:31:23,0
+making all manner of
+
+100
+00:31:23,0 --> 00:31:23,0
+tools of every kind
+
+101
+00:31:23,0 --> 00:31:23,0
+to till the ground,
+
+102
+00:31:23,0 --> 00:31:23,0
+and weapons of
+
+103
+00:31:23,0 --> 00:31:23,0
+war—yea, the sharp
+
+104
+00:31:23,0 --> 00:31:23,0
+pointed arrow, and the
+
+105
+00:31:23,0 --> 00:31:23,0
+quiver, and the
+
+106
+00:31:23,0 --> 00:31:23,0
+dart, and the javelin,
+
+107
+00:31:23,0 --> 00:37:33,
+and all preparations for war.
+
+108
+00:37:33,0 --> 00:37:33,0
+9 And thus being
+
+109
+00:37:33,0 --> 00:37:33,0
+prepared to meet
+
+110
+00:37:33,0 --> 00:37:33,0
+the Lamanites, they
+
+111
+00:37:33,0 --> 00:37:33,0
+did not prosper
+
+112
+00:37:33,0 --> 00:37:33,0
+against us. But the
+
+113
+00:37:33,0 --> 00:37:33,0
+word of the Lord
+
+114
+00:37:33,0 --> 00:37:33,0
+was verified, which
+
+115
+00:37:33,0 --> 00:37:33,0
+he spake unto our
+
+116
+00:37:33,0 --> 00:37:33,0
+fathers, saying
+
+117
+00:37:33,0 --> 00:37:33,0
+that: Inasmuch as
+
+118
+00:37:33,0 --> 00:37:33,0
+ye will keep my
+
+119
+00:37:33,0 --> 00:37:33,0
+commandments ye shall
+
+120
+00:37:33,0 --> 00:43:15,
+prosper in the land.
+
+121
+00:43:15,0 --> 00:43:15,0
+10 And it came to
+
+122
+00:43:15,0 --> 00:43:15,0
+pass that the
+
+123
+00:43:15,0 --> 00:43:15,0
+prophets of the Lord
+
+124
+00:43:15,0 --> 00:43:15,0
+did threaten the
+
+125
+00:43:15,0 --> 00:43:15,0
+people of Nephi,
+
+126
+00:43:15,0 --> 00:43:15,0
+according to the word
+
+127
+00:43:15,0 --> 00:43:15,0
+of God, that if
+
+128
+00:43:15,0 --> 00:43:15,0
+they did not keep
+
+129
+00:43:15,0 --> 00:43:15,0
+the commandments,
+
+130
+00:43:15,0 --> 00:43:15,0
+but should fall
+
+131
+00:43:15,0 --> 00:43:15,0
+into transgression,
+
+132
+00:43:15,0 --> 00:43:15,0
+they should be
+
+133
+00:43:15,0 --> 00:43:15,0
+destroyed from off the
+
+134
+00:43:15,0 --> 00:47:14,
+face of the land.
+
+135
+00:47:14,0 --> 00:47:14,0
+11 Wherefore, the
+
+136
+00:47:14,0 --> 00:47:14,0
+prophets, and
+
+137
+00:47:14,0 --> 00:47:14,0
+the priests, and
+
+138
+00:47:14,0 --> 00:47:14,0
+the teachers, did
+
+139
+00:47:14,0 --> 00:47:14,0
+labor diligently,
+
+140
+00:47:14,0 --> 00:47:14,0
+exhorting with
+
+141
+00:47:14,0 --> 00:47:14,0
+all long-suffering
+
+142
+00:47:14,0 --> 00:47:14,0
+the people to
+
+143
+00:47:14,0 --> 00:47:14,0
+diligence; teaching
+
+144
+00:47:14,0 --> 00:47:14,0
+the law of Moses,
+
+145
+00:47:14,0 --> 00:47:14,0
+and the intent
+
+146
+00:47:14,0 --> 00:47:14,0
+for which it was
+
+147
+00:47:14,0 --> 00:47:14,0
+given; persuading
+
+148
+00:47:14,0 --> 00:47:14,0
+them to look
+
+149
+00:47:14,0 --> 00:47:14,0
+forward unto the
+
+150
+00:47:14,0 --> 00:47:14,0
+Messiah, and believe
+
+151
+00:47:14,0 --> 00:47:14,0
+in him to come as
+
+152
+00:47:14,0 --> 00:47:14,0
+though he
+
+153
+00:47:14,0 --> 00:47:14,0
+already was. And after
+
+154
+00:47:14,0 --> 00:47:14,
+this manner did they teach them.
+
+155
+00:47:14,0 --> 00:47:14,0
+12 And it came
+
+156
+00:47:14,0 --> 00:47:14,0
+to pass that by
+
+157
+00:47:14,0 --> 00:47:14,0
+so doing they
+
+158
+00:47:14,0 --> 00:47:14,0
+kept them from
+
+159
+00:47:14,0 --> 00:47:14,0
+being destroyed upon
+
+160
+00:47:14,0 --> 00:47:14,0
+the face of the
+
+161
+00:47:14,0 --> 00:47:14,0
+land; for they
+
+162
+00:47:14,0 --> 00:47:14,0
+did prick their
+
+163
+00:47:14,0 --> 00:47:14,0
+hearts with the
+
+164
+00:47:14,0 --> 00:47:14,0
+word,
+
+165
+00:47:14,0 --> 00:47:14,0
+continually stirring them
+
+166
+00:47:14,0 --> 00:47:14,
+up unto repentance.
+
+167
+00:47:14,0 --> 00:47:14,0
+13 And it came
+
+168
+00:47:14,0 --> 00:47:14,0
+to pass that
+
+169
+00:47:14,0 --> 00:47:14,0
+two hundred
+
+170
+00:47:14,0 --> 00:47:14,0
+and thirty and
+
+171
+00:47:14,0 --> 00:47:14,0
+eight years had
+
+172
+00:47:14,0 --> 00:47:14,0
+passed
+
+173
+00:47:14,0 --> 00:47:14,0
+away—after the
+
+174
+00:47:14,0 --> 00:47:14,0
+manner of wars, and
+
+175
+00:47:14,0 --> 00:47:14,0
+contentions,
+
+176
+00:47:14,0 --> 00:47:14,0
+and
+
+177
+00:47:14,0 --> 00:47:14,0
+dissensions, for the
+
+178
+00:47:14,0 --> 00:47:14,
+space of much of the time.
+
+179
+00:47:14,0 --> 00:47:14,0
+14 And I,
+
+180
+00:47:14,0 --> 00:47:14,0
+Jarom, do not
+
+181
+00:47:14,0 --> 00:47:14,0
+write more, for
+
+182
+00:47:14,0 --> 00:47:14,0
+the plates
+
+183
+00:47:14,0 --> 00:47:14,0
+are small. But
+
+184
+00:47:14,0 --> 00:47:14,0
+behold, my
+
+185
+00:47:14,0 --> 00:47:14,0
+brethren, ye
+
+186
+00:47:14,0 --> 00:47:14,0
+can go to the
+
+187
+00:47:14,0 --> 00:47:14,0
+other plates
+
+188
+00:47:14,0 --> 00:47:14,0
+of Nephi; for
+
+189
+00:47:14,0 --> 00:47:14,0
+behold, upon
+
+190
+00:47:14,0 --> 00:47:14,0
+them the
+
+191
+00:47:14,0 --> 00:47:14,0
+records of our
+
+192
+00:47:14,0 --> 00:47:14,0
+wars are
+
+193
+00:47:14,0 --> 00:47:14,0
+engraven,
+
+194
+00:47:14,0 --> 00:47:14,0
+according to the
+
+195
+00:47:14,0 --> 00:47:14,0
+writings of the
+
+196
+00:47:14,0 --> 00:47:14,0
+kings, or
+
+197
+00:47:14,0 --> 00:47:14,0
+those which they
+
+198
+00:47:14,0 --> 00:47:14,
+caused to be written.
+
+199
+00:47:14,0 --> 00:47:14,0
+15 And I
+
+200
+00:47:14,0 --> 00:47:14,0
+deliver these
+
+201
+00:47:14,0 --> 00:47:14,0
+plates into
+
+202
+00:47:14,0 --> 00:47:14,0
+the hands of
+
+203
+00:47:14,0 --> 00:47:14,0
+my son Omni,
+
+204
+00:47:14,0 --> 00:47:14,0
+that they
+
+205
+00:47:14,0 --> 00:47:14,0
+may be kept
+
+206
+00:47:14,0 --> 00:47:14,0
+according to
+
+207
+00:47:14,0 --> 00:47:14,0
+the
+
+208
+00:47:14,0 --> 00:47:14,
+commandments of my fathers. 
 

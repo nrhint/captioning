@@ -1,744 +1,5168 @@
 1
-00:00:00,0 --> 00:00:11,857
+00:00:00,0 --> 00:00:00,0
 Chapter 7 Ammon finds the land of Lehi-Nephi,
 
 2
-00:00:11,857 --> 00:00:23,714
- where Limhi is king—Limhi’s people are in bondage to
+00:00:00,0 --> 00:00:00,0
+where Limhi is king—Limhi’s people are in bondage to
 
 3
-00:00:23,714 --> 00:00:35,571
- the Lamanites—Limhi recounts their history—A
+00:00:00,0 --> 00:00:00,0
+the Lamanites—Limhi recounts their history—A
 
 4
-00:00:35,571 --> 00:00:47,428
- prophet (Abinadi) had testified that Christ is the God
+00:00:00,0 --> 00:00:00,0
+prophet (Abinadi) had testified that Christ is the
 
 5
-00:00:47,428 --> 00:00:59,285
- and Father of all things—Those who sow filthiness
+00:00:00,0 --> 00:00:00,0
+God and Father of all things—Those who sow
 
 6
-00:00:59,285 --> 00:01:11,142
- reap the whirlwind, and those who put their trust
+00:00:00,0 --> 00:00:00,0
+filthiness reap the whirlwind, and those who put their
 
 7
-00:01:11,142 --> 00:01:22,999
- in the Lord will be delivered. About 121 B.C.
+00:00:00,0 --> 00:11:43,
+trust in the Lord will be delivered. About 121 B.C. 
 
 8
-00:01:23,817 --> 00:01:28,942
-1 And now, it came to pass that after king Mosiah
+00:11:43,0 --> 00:11:43,0
+1 And now, it came to pass that after king
 
 9
-00:01:28,942 --> 00:01:34,067
- had had continual peace for the space of three
+00:11:43,0 --> 00:11:43,0
+Mosiah had had continual peace for the space of
 
 10
-00:01:34,067 --> 00:01:39,192
- years, he was desirous to know concerning the people
+00:11:43,0 --> 00:11:43,0
+three years, he was desirous to know
 
 11
-00:01:39,192 --> 00:01:44,317
- who went up to dwell in the land of Lehi-Nephi, or
+00:11:43,0 --> 00:11:43,0
+concerning the people who went up to dwell in the
 
 12
-00:01:44,317 --> 00:01:49,442
- in the city of Lehi-Nephi; for his people had
+00:11:43,0 --> 00:11:43,0
+land of Lehi-Nephi, or in the city of
 
 13
-00:01:49,442 --> 00:01:54,567
- heard nothing from them from the time they left the
+00:11:43,0 --> 00:11:43,0
+Lehi-Nephi; for his people had heard nothing from them
 
 14
-00:01:54,567 --> 00:01:59,692
- land of Zarahemla; therefore, they wearied him with
+00:11:43,0 --> 00:11:43,0
+from the time they left the land of
 
 15
-00:01:59,692 --> 00:02:04,817
- their teasings
+00:11:43,0 --> 00:11:57,
+Zarahemla; therefore, they wearied him with their teasings.
 
 16
-00:02:04,558 --> 00:02:11,558
-2 And it came to pass that king Mosiah granted
+00:11:57,0 --> 00:11:57,0
+2 And it came to pass that king Mosiah
 
 17
-00:02:11,558 --> 00:02:18,558
- that sixteen of their strong men might go up to the
+00:11:57,0 --> 00:11:57,0
+granted that sixteen of their strong
 
 18
-00:02:18,558 --> 00:02:25,558
- land of Lehi-Nephi, to inquire concerning their
+00:11:57,0 --> 00:11:57,0
+men might go up to the land of
 
 19
-00:02:25,558 --> 00:02:32,558
- brethren
+00:11:57,0 --> 00:11:43,
+Lehi-Nephi, to inquire concerning their brethren.
 
 20
-00:02:32,886 --> 00:02:36,886
-3 And it came to pass that on the morrow they
+00:11:43,0 --> 00:11:43,0
+3 And it came to pass that on the
 
 21
-00:02:36,886 --> 00:02:40,886
- started to go up, having with them one Ammon, he being
+00:11:43,0 --> 00:11:43,0
+morrow they started to go up, having
 
 22
-00:02:40,886 --> 00:02:44,886
- a strong and mighty man, and a descendant of
+00:11:43,0 --> 00:11:43,0
+with them one Ammon, he being a strong
 
 23
-00:02:44,886 --> 00:02:48,886
- Zarahemla; and he was also their leader
+00:11:43,0 --> 00:11:43,0
+and mighty man, and a descendant of
 
 24
-00:02:48,835 --> 00:03:06,835
-4 And now, they knew not the course they should
+00:11:43,0 --> 00:11:57,
+Zarahemla; and he was also their leader.
 
 25
-00:03:06,835 --> 00:03:24,835
- travel in the wilderness to go up to the land of
+00:11:57,0 --> 00:11:57,0
+4 And now, they knew not the
 
 26
-00:03:24,835 --> 00:03:42,835
- Lehi-Nephi; therefore they wandered many days in the
+00:11:57,0 --> 00:11:57,0
+course they should travel in the
 
 27
-00:03:42,835 --> 00:04:00,835
- wilderness, even forty days did they wander
+00:11:57,0 --> 00:11:57,0
+wilderness to go up to the land of
 
 28
-00:04:00,607 --> 00:04:11,274
-5 And when they had wandered forty days they came
+00:11:57,0 --> 00:11:57,0
+Lehi-Nephi; therefore they
 
 29
-00:04:11,274 --> 00:04:21,941
- to a hill, which is north of the land of Shilom,
+00:11:57,0 --> 00:11:57,0
+wandered many days in the
 
 30
-00:04:21,941 --> 00:04:32,608
- and there they pitched their tents
+00:11:57,0 --> 00:11:43,
+wilderness, even forty days did they wander.
 
 31
-00:04:32,506 --> 00:04:35,173
-6 And Ammon took three of his brethren, and their
+00:11:43,0 --> 00:11:43,0
+5 And when they had
 
 32
-00:04:35,173 --> 00:04:37,84
- names were Amaleki, Helem, and Hem, and they went
+00:11:43,0 --> 00:11:43,0
+wandered forty days they came to
 
 33
-00:04:37,84 --> 00:04:40,507
- down into the land of Nephi
+00:11:43,0 --> 00:11:43,0
+a hill, which is north of
 
 34
-00:04:40,48 --> 00:04:50,08
-7 And behold, they met the king of the people who
+00:11:43,0 --> 00:11:43,0
+the land of Shilom, and
 
 35
-00:04:50,08 --> 00:04:59,68
- were in the land of Nephi, and in the land of
+00:11:43,0 --> 00:11:57,
+there they pitched their tents.
 
 36
-00:04:59,68 --> 00:05:09,28
- Shilom; and they were surrounded by the king’s guard,
+00:11:57,0 --> 00:11:57,0
+6 And Ammon took three of
 
 37
-00:05:09,28 --> 00:05:18,88
- and were taken, and were bound, and were committed
+00:11:57,0 --> 00:11:57,0
+his brethren, and their
 
 38
-00:05:18,88 --> 00:05:28,48
- to prison
+00:11:57,0 --> 00:11:57,0
+names were Amaleki,
 
 39
-00:05:28,328 --> 00:05:32,328
-8 And it came to pass when they had been in prison
+00:11:57,0 --> 00:11:57,0
+Helem, and Hem, and they went
 
 40
-00:05:32,328 --> 00:05:36,328
- two days they were again brought before the king,
+00:11:57,0 --> 00:11:43,
+down into the land of Nephi.
 
 41
-00:05:36,328 --> 00:05:40,328
- and their bands were loosed; and they stood
+00:11:43,0 --> 00:11:43,0
+7 And behold, they met
 
 42
-00:05:40,328 --> 00:05:44,328
- before the king, and were permitted, or rather
+00:11:43,0 --> 00:11:43,0
+the king of the people
 
 43
-00:05:44,328 --> 00:05:48,328
- commanded, that they should answer the questions which he
+00:11:43,0 --> 00:11:43,0
+who were in the land of
 
 44
-00:05:48,328 --> 00:05:52,328
- should ask them
+00:11:43,0 --> 00:11:43,0
+Nephi, and in the land
 
 45
-00:05:52,252 --> 00:05:53,852
-9 And he said unto them: Behold, I am Limhi, the
+00:11:43,0 --> 00:11:43,0
+of Shilom; and they
 
 46
-00:05:53,852 --> 00:05:55,452
- son of Noah, who was the son of Zeniff, who came up
+00:11:43,0 --> 00:11:43,0
+were surrounded by the
 
 47
-00:05:55,452 --> 00:05:57,052
- out of the land of Zarahemla to inherit this
+00:11:43,0 --> 00:11:43,0
+king’s guard, and were
 
 48
-00:05:57,052 --> 00:05:58,652
- land, which was the land of their fathers, who was
+00:11:43,0 --> 00:11:43,0
+taken, and were bound,
 
 49
-00:05:58,652 --> 00:06:00,252
- made a king by the voice of the people
+00:11:43,0 --> 00:11:57,
+and were committed to prison.
 
 50
-00:06:00,227 --> 00:06:00,477
-10 And now, I desire to know the cause whereby ye
+00:11:57,0 --> 00:11:57,0
+8 And it came to pass
 
 51
-00:06:00,477 --> 00:06:00,727
- were so bold as to come near the walls of the
+00:11:57,0 --> 00:11:57,0
+when they had been in
 
 52
-00:06:00,727 --> 00:06:00,977
- city, when I, myself, was with my guards without the
+00:11:57,0 --> 00:11:57,0
+prison two days they
 
 53
-00:06:00,977 --> 00:06:01,227
- gate
+00:11:57,0 --> 00:11:57,0
+were again brought
 
 54
-00:06:01,328 --> 00:06:01,928
-11 And now, for this cause have I suffered that ye
+00:11:57,0 --> 00:11:57,0
+before the king, and their
 
 55
-00:06:01,928 --> 00:06:02,528
- should be preserved, that I might inquire of you,
+00:11:57,0 --> 00:11:57,0
+bands were loosed;
 
 56
-00:06:02,528 --> 00:06:03,128
- or else I should have caused that my guards
+00:11:57,0 --> 00:11:57,0
+and they stood before
 
 57
-00:06:03,128 --> 00:06:03,728
- should have put you to death. Ye are permitted to
+00:11:57,0 --> 00:11:57,0
+the king, and were
 
 58
-00:06:03,728 --> 00:06:04,328
- speak
+00:11:57,0 --> 00:11:57,0
+permitted, or rather
 
 59
-00:06:04,831 --> 00:06:10,664
-12 And now, when Ammon saw that he was permitted
+00:11:57,0 --> 00:11:57,0
+commanded, that they should
 
 60
-00:06:10,664 --> 00:06:16,497
- to speak, he went forth and bowed himself before
+00:11:57,0 --> 00:11:57,0
+answer the questions
 
 61
-00:06:16,497 --> 00:06:22,33
- the king; and rising again he said: O king, I am
+00:11:57,0 --> 00:11:43,
+which he should ask them.
 
 62
-00:06:22,33 --> 00:06:28,163
- very thankful before God this day that I am yet
+00:11:43,0 --> 00:11:43,0
+9 And he said unto
 
 63
-00:06:28,163 --> 00:06:33,996
- alive, and am permitted to speak; and I will endeavor
+00:11:43,0 --> 00:11:43,0
+them: Behold, I am
 
 64
-00:06:33,996 --> 00:06:39,829
- to speak with boldness
+00:11:43,0 --> 00:11:43,0
+Limhi, the son of Noah,
 
 65
-00:06:39,766 --> 00:06:45,933
-13 For I am assured that if ye had known me ye
+00:11:43,0 --> 00:11:43,0
+who was the son of
 
 66
-00:06:45,933 --> 00:06:52,1
- would not have suffered that I should have worn these
+00:11:43,0 --> 00:11:43,0
+Zeniff, who came up out
 
 67
-00:06:52,1 --> 00:06:58,267
- bands. For I am Ammon, and am a descendant of
+00:11:43,0 --> 00:11:43,0
+of the land of
 
 68
-00:06:58,267 --> 00:07:04,434
- Zarahemla, and have come up out of the land of
+00:11:43,0 --> 00:11:43,0
+Zarahemla to inherit this
 
 69
-00:07:04,434 --> 00:07:10,601
- Zarahemla to inquire concerning our brethren, whom
+00:11:43,0 --> 00:11:43,0
+land, which was the
 
 70
-00:07:10,601 --> 00:07:16,768
- Zeniff brought up out of that land
+00:11:43,0 --> 00:11:43,0
+land of their fathers,
 
 71
-00:07:16,503 --> 00:07:23,003
-14 And now, it came to pass that after Limhi had
+00:11:43,0 --> 00:11:43,0
+who was made a king
 
 72
-00:07:23,003 --> 00:07:29,503
- heard the words of Ammon, he was exceedingly glad,
+00:11:43,0 --> 00:11:57,
+by the voice of the people.
 
 73
-00:07:29,503 --> 00:07:36,003
- and said: Now, I know of a surety that my brethren
+00:11:57,0 --> 00:11:57,0
+10 And now, I
 
 74
-00:07:36,003 --> 00:07:42,503
- who were in the land of Zarahemla are yet alive.
+00:11:57,0 --> 00:11:57,0
+desire to know the cause
 
 75
-00:07:42,503 --> 00:07:49,003
- And now, I will rejoice; and on the morrow I will
+00:11:57,0 --> 00:11:57,0
+whereby ye were so
 
 76
-00:07:49,003 --> 00:07:55,503
- cause that my people shall rejoice also
+00:11:57,0 --> 00:11:57,0
+bold as to come
 
 77
-00:07:55,709 --> 00:07:59,138
-15 For behold, we are in bondage to the Lamanites,
+00:11:57,0 --> 00:11:57,0
+near the walls of the
 
 78
-00:07:59,138 --> 00:08:02,567
- and are taxed with a tax which is grievous to be
+00:11:57,0 --> 00:11:57,0
+city, when I,
 
 79
-00:08:02,567 --> 00:08:05,996
- borne. And now, behold, our brethren will deliver
+00:11:57,0 --> 00:11:57,0
+myself, was with my
 
 80
-00:08:05,996 --> 00:08:09,425
- us out of our bondage, or out of the hands of the
+00:11:57,0 --> 00:11:43,
+guards without the gate?
 
 81
-00:08:09,425 --> 00:08:12,854
- Lamanites, and we will be their slaves; for it is
+00:11:43,0 --> 00:11:43,0
+11 And now, for
 
 82
-00:08:12,854 --> 00:08:16,283
- better that we be slaves to the Nephites than to
+00:11:43,0 --> 00:11:43,0
+this cause have I
 
 83
-00:08:16,283 --> 00:08:19,712
- pay tribute to the king of the Lamanites
+00:11:43,0 --> 00:11:43,0
+suffered that ye
 
 84
-00:08:19,632 --> 00:08:28,757
-16 And now, king Limhi commanded his guards that
+00:11:43,0 --> 00:11:43,0
+should be preserved,
 
 85
-00:08:28,757 --> 00:08:37,882
- they should no more bind Ammon nor his brethren,
+00:11:43,0 --> 00:11:43,0
+that I might
 
 86
-00:08:37,882 --> 00:08:47,007
- but caused that they should go to the hill which was
+00:11:43,0 --> 00:11:43,0
+inquire of you, or else
 
 87
-00:08:47,007 --> 00:08:56,132
- north of Shilom, and bring their brethren into
+00:11:43,0 --> 00:11:43,0
+I should have
 
 88
-00:08:56,132 --> 00:09:05,257
- the city, that thereby they might eat, and drink,
+00:11:43,0 --> 00:11:43,0
+caused that my guards
 
 89
-00:09:05,257 --> 00:09:14,382
- and rest themselves from the labors of their
+00:11:43,0 --> 00:11:43,0
+should have put
 
 90
-00:09:14,382 --> 00:09:23,507
- journey; for they had suffered many things; they had
+00:11:43,0 --> 00:11:43,0
+you to death. Ye
 
 91
-00:09:23,507 --> 00:09:32,632
- suffered hunger, thirst, and fatigue
+00:11:43,0 --> 00:11:57,
+are permitted to speak.
 
 92
-00:09:32,205 --> 00:09:37,005
-17 And now, it came to pass on the morrow that
+00:11:57,0 --> 00:11:57,0
+12 And now, when
 
 93
-00:09:37,005 --> 00:09:41,805
- king Limhi sent a proclamation among all his people,
+00:11:57,0 --> 00:11:57,0
+Ammon saw that he
 
 94
-00:09:41,805 --> 00:09:46,605
- that thereby they might gather themselves together
+00:11:57,0 --> 00:11:57,0
+was permitted to
 
 95
-00:09:46,605 --> 00:09:51,405
- to the temple, to hear the words which he should
+00:11:57,0 --> 00:11:57,0
+speak, he went
 
 96
-00:09:51,405 --> 00:09:56,205
- speak unto them
+00:11:57,0 --> 00:11:57,0
+forth and bowed
 
 97
-00:09:56,296 --> 00:10:01,74
-18 And it came to pass that when they had gathered
+00:11:57,0 --> 00:11:57,0
+himself before the
 
 98
-00:10:01,74 --> 00:10:07,184
- themselves together that he spake unto them in
+00:11:57,0 --> 00:11:57,0
+king; and rising
 
 99
-00:10:07,184 --> 00:10:12,628
- this wise, saying: O ye, my people, lift up your
+00:11:57,0 --> 00:11:57,0
+again he said: O
 
 100
-00:10:12,628 --> 00:10:18,072
- heads and be comforted; for behold, the time is at
+00:11:57,0 --> 00:11:57,0
+king, I am very
 
 101
-00:10:18,072 --> 00:10:23,516
- hand, or is not far distant, when we shall no longer
+00:11:57,0 --> 00:11:57,0
+thankful before
 
 102
-00:10:23,516 --> 00:10:28,96
- be in subjection to our enemies, notwithstanding
+00:11:57,0 --> 00:11:57,0
+God this day that I
 
 103
-00:10:28,96 --> 00:10:34,404
- our many strugglings, which have been in vain; yet
+00:11:57,0 --> 00:11:57,0
+am yet alive,
 
 104
-00:10:34,404 --> 00:10:39,848
- I trust there remaineth an effectual struggle to
+00:11:57,0 --> 00:11:57,0
+and am permitted to
 
 105
-00:10:39,848 --> 00:10:45,292
- be made
+00:11:57,0 --> 00:11:57,0
+speak; and I
 
 106
-00:10:45,745 --> 00:10:52,995
-19 Therefore, lift up your heads, and rejoice, and
+00:11:57,0 --> 00:11:57,0
+will endeavor to
 
 107
-00:10:52,995 --> 00:11:00,245
- put your trust in God, in that God who was the
+00:11:57,0 --> 00:11:43,
+speak with boldness;
 
 108
-00:11:00,245 --> 00:11:07,495
- God of Abraham, and Isaac, and Jacob; and also, that
+00:11:43,0 --> 00:11:43,0
+13 For I am
 
 109
-00:11:07,495 --> 00:11:14,745
- God who brought the children of Israel out of the
+00:11:43,0 --> 00:11:43,0
+assured that if ye
 
 110
-00:11:14,745 --> 00:11:21,995
- land of Egypt, and caused that they should walk
+00:11:43,0 --> 00:11:43,0
+had known me ye
 
 111
-00:11:21,995 --> 00:11:29,245
- through the Red Sea on dry ground, and fed them
+00:11:43,0 --> 00:11:43,0
+would not have
 
 112
-00:11:29,245 --> 00:11:36,495
- with manna that they might not perish in the
+00:11:43,0 --> 00:11:43,0
+suffered that I
 
 113
-00:11:36,495 --> 00:11:43,745
- wilderness; and many more things did he do for them
+00:11:43,0 --> 00:11:43,0
+should have worn
 
 114
-00:11:43,603 --> 00:11:49,403
-20 And again, that same God has brought our
+00:11:43,0 --> 00:11:43,0
+these bands. For
 
 115
-00:11:49,403 --> 00:11:55,203
- fathers out of the land of Jerusalem, and has kept and
+00:11:43,0 --> 00:11:43,0
+I am Ammon, and
 
 116
-00:11:55,203 --> 00:12:01,003
- preserved his people even until now; and behold, it
+00:11:43,0 --> 00:11:43,0
+am a descendant
 
 117
-00:12:01,003 --> 00:12:06,803
- is because of our iniquities and abominations
+00:11:43,0 --> 00:11:43,0
+of Zarahemla,
 
 118
-00:12:06,803 --> 00:12:12,603
- that he has brought us into bondage
+00:11:43,0 --> 00:11:43,0
+and have come up
 
 119
-00:12:12,699 --> 00:12:19,143
-21 And ye all are witnesses this day, that Zeniff,
+00:11:43,0 --> 00:11:43,0
+out of the land
 
 120
-00:12:19,143 --> 00:12:25,587
- who was made king over this people, he being
+00:11:43,0 --> 00:11:43,0
+of Zarahemla to
 
 121
-00:12:25,587 --> 00:12:32,031
- over-zealous to inherit the land of his fathers,
+00:11:43,0 --> 00:11:43,0
+inquire
 
 122
-00:12:32,031 --> 00:12:38,475
- therefore being deceived by the cunning and craftiness
+00:11:43,0 --> 00:11:43,0
+concerning our brethren,
 
 123
-00:12:38,475 --> 00:12:44,919
- of king Laman, who having entered into a treaty
+00:11:43,0 --> 00:11:43,0
+whom Zeniff
 
 124
-00:12:44,919 --> 00:12:51,363
- with king Zeniff, and having yielded up into his
+00:11:43,0 --> 00:11:57,
+brought up out of that land.
 
 125
-00:12:51,363 --> 00:12:57,807
- hands the possessions of a part of the land, or even
+00:11:57,0 --> 00:11:57,0
+14 And now, it
 
 126
-00:12:57,807 --> 00:13:04,251
- the city of Lehi-Nephi, and the city of Shilom;
+00:11:57,0 --> 00:11:57,0
+came to pass
 
 127
-00:13:04,251 --> 00:13:10,695
- and the land round about
+00:11:57,0 --> 00:11:57,0
+that after Limhi
 
 128
-00:13:10,69 --> 00:13:17,468
-22 And all this he did, for the sole purpose of
+00:11:57,0 --> 00:11:57,0
+had heard the
 
 129
-00:13:17,468 --> 00:13:24,246
- bringing this people into subjection or into
+00:11:57,0 --> 00:11:57,0
+words of Ammon,
 
 130
-00:13:24,246 --> 00:13:31,024
- bondage. And behold, we at this time do pay tribute to
+00:11:57,0 --> 00:11:57,0
+he was
 
 131
-00:13:31,024 --> 00:13:37,802
- the king of the Lamanites, to the amount of one half
+00:11:57,0 --> 00:11:57,0
+exceedingly glad, and
 
 132
-00:13:37,802 --> 00:13:44,58
- of our corn, and our barley, and even all our
+00:11:57,0 --> 00:11:57,0
+said: Now, I
 
 133
-00:13:44,58 --> 00:13:51,358
- grain of every kind, and one half of the increase of
+00:11:57,0 --> 00:11:57,0
+know of a surety
 
 134
-00:13:51,358 --> 00:13:58,136
- our flocks and our herds; and even one half of all
+00:11:57,0 --> 00:11:57,0
+that my brethren
 
 135
-00:13:58,136 --> 00:14:04,914
- we have or possess the king of the Lamanites doth
+00:11:57,0 --> 00:11:57,0
+who were in
 
 136
-00:14:04,914 --> 00:14:11,692
- exact of us, or our lives
+00:11:57,0 --> 00:11:57,0
+the land of
 
 137
-00:14:11,818 --> 00:14:18,818
-23 And now, is not this grievous to be borne? And
+00:11:57,0 --> 00:11:57,0
+Zarahemla are yet
 
 138
-00:14:18,818 --> 00:14:25,818
- is not this, our affliction, great? Now behold,
+00:11:57,0 --> 00:11:57,0
+alive. And now, I
 
 139
-00:14:25,818 --> 00:14:32,818
- how great reason we have to mourn
+00:11:57,0 --> 00:11:57,0
+will rejoice;
 
 140
-00:14:32,372 --> 00:14:39,622
-24 Yea, I say unto you, great are the reasons
+00:11:57,0 --> 00:11:57,0
+and on the
 
 141
-00:14:39,622 --> 00:14:46,872
- which we have to mourn; for behold how many of our
+00:11:57,0 --> 00:11:57,0
+morrow I will cause
 
 142
-00:14:46,872 --> 00:14:54,122
- brethren have been slain, and their blood has been
+00:11:57,0 --> 00:11:57,0
+that my people
 
 143
-00:14:54,122 --> 00:15:01,372
- spilt in vain, and all because of iniquity
+00:11:57,0 --> 00:11:43,
+shall rejoice also.
 
 144
-00:15:01,701 --> 00:15:07,034
-25 For if this people had not fallen into
+00:11:43,0 --> 00:11:43,0
+15 For behold,
 
 145
-00:15:07,034 --> 00:15:12,367
- transgression the Lord would not have suffered that this
+00:11:43,0 --> 00:11:43,0
+we are in
 
 146
-00:15:12,367 --> 00:15:17,7
- great evil should come upon them. But behold, they
+00:11:43,0 --> 00:11:43,0
+bondage to the
 
 147
-00:15:17,7 --> 00:15:23,033
- would not hearken unto his words; but there arose
+00:11:43,0 --> 00:11:43,0
+Lamanites, and
 
 148
-00:15:23,033 --> 00:15:28,366
- contentions among them, even so much that they did
+00:11:43,0 --> 00:11:43,0
+are taxed with
 
 149
-00:15:28,366 --> 00:15:33,699
- shed blood among themselves
+00:11:43,0 --> 00:11:43,0
+a tax which is
 
 150
-00:15:33,399 --> 00:15:39,399
-26 And a prophet of the Lord have they slain; yea,
+00:11:43,0 --> 00:11:43,0
+grievous to
 
 151
-00:15:39,399 --> 00:15:45,399
- a chosen man of God, who told them of their
+00:11:43,0 --> 00:11:43,0
+be borne. And
 
 152
-00:15:45,399 --> 00:15:51,399
- wickedness and abominations, and prophesied of many
+00:11:43,0 --> 00:11:43,0
+now, behold,
 
 153
-00:15:51,399 --> 00:15:57,399
- things which are to come, yea, even the coming of
+00:11:43,0 --> 00:11:43,0
+our brethren
 
 154
-00:15:57,399 --> 00:16:03,399
- Christ
+00:11:43,0 --> 00:11:43,0
+will deliver us
 
 155
-00:16:03,129 --> 00:16:09,351
-27 And because he said unto them that Christ was
+00:11:43,0 --> 00:11:43,0
+out of our
 
 156
-00:16:09,351 --> 00:16:15,573
- the God, the Father of all things, and said that he
+00:11:43,0 --> 00:11:43,0
+bondage, or out of
 
 157
-00:16:15,573 --> 00:16:21,795
- should take upon him the image of man, and it
+00:11:43,0 --> 00:11:43,0
+the hands of
 
 158
-00:16:21,795 --> 00:16:28,017
- should be the image after which man was created in
+00:11:43,0 --> 00:11:43,0
+the Lamanites,
 
 159
-00:16:28,017 --> 00:16:34,239
- the beginning; or in other words, he said that man
+00:11:43,0 --> 00:11:43,0
+and we will
 
 160
-00:16:34,239 --> 00:16:40,461
- was created after the image of God, and that God
+00:11:43,0 --> 00:11:43,0
+be their
 
 161
-00:16:40,461 --> 00:16:46,683
- should come down among the children of men, and take
+00:11:43,0 --> 00:11:43,0
+slaves; for it is
 
 162
-00:16:46,683 --> 00:16:52,905
- upon him flesh and blood, and go forth upon the
+00:11:43,0 --> 00:11:43,0
+better that we
 
 163
-00:16:52,905 --> 00:16:59,127
- face of the earth
+00:11:43,0 --> 00:11:43,0
+be slaves to
 
 164
-00:16:59,619 --> 00:17:06,019
-28 And now, because he said this, they did put him
+00:11:43,0 --> 00:11:43,0
+the Nephites
 
 165
-00:17:06,019 --> 00:17:12,419
- to death; and many more things did they do which
+00:11:43,0 --> 00:11:43,0
+than to pay
 
 166
-00:17:12,419 --> 00:17:18,819
- brought down the wrath of God upon them.
+00:11:43,0 --> 00:11:57,
+tribute to the king of the Lamanites.
 
 167
-00:17:18,819 --> 00:17:25,219
- Therefore, who wondereth that they are in bondage, and that
+00:11:57,0 --> 00:11:57,0
+16 And now,
 
 168
-00:17:25,219 --> 00:17:31,619
- they are smitten with sore afflictions
+00:11:57,0 --> 00:11:57,0
+king Limhi
 
 169
-00:17:31,551 --> 00:17:38,551
-29 For behold, the Lord hath said: I will not
+00:11:57,0 --> 00:11:57,0
+commanded his
 
 170
-00:17:38,551 --> 00:17:45,551
- succor my people in the day of their transgression;
+00:11:57,0 --> 00:11:57,0
+guards that
 
 171
-00:17:45,551 --> 00:17:52,551
- but I will hedge up their ways that they prosper
+00:11:57,0 --> 00:11:57,0
+they should no
 
 172
-00:17:52,551 --> 00:17:59,551
- not; and their doings shall be as a stumbling block
+00:11:57,0 --> 00:11:57,0
+more bind
 
 173
-00:17:59,551 --> 00:18:06,551
- before them
+00:11:57,0 --> 00:11:57,0
+Ammon nor his
 
 174
-00:18:06,118 --> 00:18:12,785
-30 And again, he saith: If my people shall sow
+00:11:57,0 --> 00:11:57,0
+brethren, but
 
 175
-00:18:12,785 --> 00:18:19,452
- filthiness they shall reap the chaff thereof in the
+00:11:57,0 --> 00:11:57,0
+caused that
 
 176
-00:18:19,452 --> 00:18:26,119
- whirlwind; and the effect thereof is poison
+00:11:57,0 --> 00:11:57,0
+they should go
 
 177
-00:18:26,072 --> 00:18:39,072
-31 And again he saith: If my people shall sow
+00:11:57,0 --> 00:11:57,0
+to the hill
 
 178
-00:18:39,072 --> 00:18:52,072
- filthiness they shall reap the east wind, which
+00:11:57,0 --> 00:11:57,0
+which was north
 
 179
-00:18:52,072 --> 00:19:05,072
- bringeth immediate destruction
+00:11:57,0 --> 00:11:57,0
+of Shilom,
 
 180
-00:19:05,945 --> 00:19:06,445
-32 And now, behold, the promise of the Lord is
+00:11:57,0 --> 00:11:57,0
+and bring
 
 181
-00:19:06,445 --> 00:19:06,945
- fulfilled, and ye are smitten and afflicted
+00:11:57,0 --> 00:11:57,0
+their brethren
 
 182
-00:19:06,379 --> 00:19:07,379
-33 But if ye will turn to the Lord with full
+00:11:57,0 --> 00:11:57,0
+into the city,
 
 183
-00:19:07,379 --> 00:19:08,379
- purpose of heart, and put your trust in him, and serve
+00:11:57,0 --> 00:11:57,0
+that thereby
 
 184
-00:19:08,379 --> 00:19:09,379
- him with all diligence of mind, if ye do this, he
+00:11:57,0 --> 00:11:57,0
+they might
 
 185
-00:19:09,379 --> 00:19:10,379
- will, according to his own will and pleasure,
+00:11:57,0 --> 00:11:57,0
+eat, and drink,
 
 186
-00:19:10,379 --> 00:19:11,379
- deliver you out of bondage.
+00:11:57,0 --> 00:11:57,0
+and rest
+
+187
+00:11:57,0 --> 00:11:57,0
+themselves from
+
+188
+00:11:57,0 --> 00:11:57,0
+the labors of
+
+189
+00:11:57,0 --> 00:11:57,0
+their
+
+190
+00:11:57,0 --> 00:11:57,0
+journey; for they
+
+191
+00:11:57,0 --> 00:11:57,0
+had suffered
+
+192
+00:11:57,0 --> 00:11:57,0
+many things;
+
+193
+00:11:57,0 --> 00:11:57,0
+they had
+
+194
+00:11:57,0 --> 00:11:43,
+suffered hunger, thirst, and fatigue.
+
+195
+00:11:43,0 --> 00:11:43,0
+17 And now,
+
+196
+00:11:43,0 --> 00:11:43,0
+it came to
+
+197
+00:11:43,0 --> 00:11:43,0
+pass on the
+
+198
+00:11:43,0 --> 00:11:43,0
+morrow that
+
+199
+00:11:43,0 --> 00:11:43,0
+king Limhi
+
+200
+00:11:43,0 --> 00:11:43,0
+sent a
+
+201
+00:11:43,0 --> 00:11:43,0
+proclamation among
+
+202
+00:11:43,0 --> 00:11:43,0
+all his
+
+203
+00:11:43,0 --> 00:11:43,0
+people, that
+
+204
+00:11:43,0 --> 00:11:43,0
+thereby they
+
+205
+00:11:43,0 --> 00:11:43,0
+might gather
+
+206
+00:11:43,0 --> 00:11:43,0
+themselves
+
+207
+00:11:43,0 --> 00:11:43,0
+together to
+
+208
+00:11:43,0 --> 00:11:43,0
+the temple, to
+
+209
+00:11:43,0 --> 00:11:43,0
+hear the
+
+210
+00:11:43,0 --> 00:11:43,0
+words which he
+
+211
+00:11:43,0 --> 00:11:57,
+should speak unto them.
+
+212
+00:11:57,0 --> 00:11:57,0
+18 And it
+
+213
+00:11:57,0 --> 00:11:57,0
+came to pass
+
+214
+00:11:57,0 --> 00:11:57,0
+that when
+
+215
+00:11:57,0 --> 00:11:57,0
+they had
+
+216
+00:11:57,0 --> 00:11:57,0
+gathered
+
+217
+00:11:57,0 --> 00:11:57,0
+themselves together
+
+218
+00:11:57,0 --> 00:11:57,0
+that he spake
+
+219
+00:11:57,0 --> 00:11:57,0
+unto them
+
+220
+00:11:57,0 --> 00:11:57,0
+in this wise,
+
+221
+00:11:57,0 --> 00:11:57,0
+saying: O
+
+222
+00:11:57,0 --> 00:11:57,0
+ye, my
+
+223
+00:11:57,0 --> 00:11:57,0
+people, lift up
+
+224
+00:11:57,0 --> 00:11:57,0
+your heads and
+
+225
+00:11:57,0 --> 00:11:57,0
+be
+
+226
+00:11:57,0 --> 00:11:57,0
+comforted; for
+
+227
+00:11:57,0 --> 00:11:57,0
+behold, the time
+
+228
+00:11:57,0 --> 00:11:57,0
+is at hand,
+
+229
+00:11:57,0 --> 00:11:57,0
+or is not
+
+230
+00:11:57,0 --> 00:11:57,0
+far distant,
+
+231
+00:11:57,0 --> 00:11:57,0
+when we shall
+
+232
+00:11:57,0 --> 00:11:57,0
+no longer
+
+233
+00:11:57,0 --> 00:11:57,0
+be in
+
+234
+00:11:57,0 --> 00:11:57,0
+subjection to our
+
+235
+00:11:57,0 --> 00:11:57,0
+enemies,
+
+236
+00:11:57,0 --> 00:11:57,0
+notwithstanding
+
+237
+00:11:57,0 --> 00:11:57,0
+our many
+
+238
+00:11:57,0 --> 00:11:57,0
+strugglings,
+
+239
+00:11:57,0 --> 00:11:57,0
+which have
+
+240
+00:11:57,0 --> 00:11:57,0
+been in vain;
+
+241
+00:11:57,0 --> 00:11:57,0
+yet I trust
+
+242
+00:11:57,0 --> 00:11:57,0
+there
+
+243
+00:11:57,0 --> 00:11:57,0
+remaineth an
+
+244
+00:11:57,0 --> 00:11:57,0
+effectual struggle
+
+245
+00:11:57,0 --> 00:11:43,
+to be made.
+
+246
+00:11:43,0 --> 00:11:43,0
+19
+
+247
+00:11:43,0 --> 00:11:43,0
+Therefore, lift up
+
+248
+00:11:43,0 --> 00:11:43,0
+your heads,
+
+249
+00:11:43,0 --> 00:11:43,0
+and
+
+250
+00:11:43,0 --> 00:11:43,0
+rejoice, and put
+
+251
+00:11:43,0 --> 00:11:43,0
+your trust
+
+252
+00:11:43,0 --> 00:11:43,0
+in God, in
+
+253
+00:11:43,0 --> 00:11:43,0
+that God
+
+254
+00:11:43,0 --> 00:11:43,0
+who was the
+
+255
+00:11:43,0 --> 00:11:43,0
+God of
+
+256
+00:11:43,0 --> 00:11:43,0
+Abraham, and
+
+257
+00:11:43,0 --> 00:11:43,0
+Isaac, and
+
+258
+00:11:43,0 --> 00:11:43,0
+Jacob; and
+
+259
+00:11:43,0 --> 00:11:43,0
+also, that God
+
+260
+00:11:43,0 --> 00:11:43,0
+who
+
+261
+00:11:43,0 --> 00:11:43,0
+brought the
+
+262
+00:11:43,0 --> 00:11:43,0
+children of
+
+263
+00:11:43,0 --> 00:11:43,0
+Israel out of
+
+264
+00:11:43,0 --> 00:11:43,0
+the land of
+
+265
+00:11:43,0 --> 00:11:43,0
+Egypt, and
+
+266
+00:11:43,0 --> 00:11:43,0
+caused that
+
+267
+00:11:43,0 --> 00:11:43,0
+they
+
+268
+00:11:43,0 --> 00:11:43,0
+should walk
+
+269
+00:11:43,0 --> 00:11:43,0
+through the Red
+
+270
+00:11:43,0 --> 00:11:43,0
+Sea on dry
+
+271
+00:11:43,0 --> 00:11:43,0
+ground,
+
+272
+00:11:43,0 --> 00:11:43,0
+and fed them
+
+273
+00:11:43,0 --> 00:11:43,0
+with manna
+
+274
+00:11:43,0 --> 00:11:43,0
+that they
+
+275
+00:11:43,0 --> 00:11:43,0
+might not
+
+276
+00:11:43,0 --> 00:11:43,0
+perish in the
+
+277
+00:11:43,0 --> 00:11:43,0
+
+
+278
+00:11:43,0 --> 00:11:57,
+wilderness; and many more things did he do for them.
+
+279
+00:11:57,0 --> 00:11:57,0
+20 And
+
+280
+00:11:57,0 --> 00:11:57,0
+again, that
+
+281
+00:11:57,0 --> 00:11:57,0
+same God
+
+282
+00:11:57,0 --> 00:11:57,0
+has brought
+
+283
+00:11:57,0 --> 00:11:57,0
+our
+
+284
+00:11:57,0 --> 00:11:57,0
+fathers out of
+
+285
+00:11:57,0 --> 00:11:57,0
+the land of
+
+286
+00:11:57,0 --> 00:11:57,0
+
+
+287
+00:11:57,0 --> 00:11:57,0
+Jerusalem, and has
+
+288
+00:11:57,0 --> 00:11:57,0
+kept and
+
+289
+00:11:57,0 --> 00:11:57,0
+preserved
+
+290
+00:11:57,0 --> 00:11:57,0
+his people
+
+291
+00:11:57,0 --> 00:11:57,0
+even until
+
+292
+00:11:57,0 --> 00:11:57,0
+now; and
+
+293
+00:11:57,0 --> 00:11:57,0
+behold, it
+
+294
+00:11:57,0 --> 00:11:57,0
+is
+
+295
+00:11:57,0 --> 00:11:57,0
+because of our
+
+296
+00:11:57,0 --> 00:11:57,0
+iniquities
+
+297
+00:11:57,0 --> 00:11:57,0
+and
+
+298
+00:11:57,0 --> 00:11:57,0
+abominations
+
+299
+00:11:57,0 --> 00:11:57,0
+that he has
+
+300
+00:11:57,0 --> 00:11:43,
+brought us into bondage.
+
+301
+00:11:43,0 --> 00:11:43,0
+21 And ye
+
+302
+00:11:43,0 --> 00:11:43,0
+all are
+
+303
+00:11:43,0 --> 00:11:43,0
+witnesses
+
+304
+00:11:43,0 --> 00:11:43,0
+this
+
+305
+00:11:43,0 --> 00:11:43,0
+day, that
+
+306
+00:11:43,0 --> 00:11:43,0
+Zeniff, who
+
+307
+00:11:43,0 --> 00:11:43,0
+was made
+
+308
+00:11:43,0 --> 00:11:43,0
+king
+
+309
+00:11:43,0 --> 00:11:43,0
+over this
+
+310
+00:11:43,0 --> 00:11:43,0
+people, he
+
+311
+00:11:43,0 --> 00:11:43,0
+being
+
+312
+00:11:43,0 --> 00:11:43,0
+over-zealous
+
+313
+00:11:43,0 --> 00:11:43,0
+to
+
+314
+00:11:43,0 --> 00:11:43,0
+inherit the
+
+315
+00:11:43,0 --> 00:11:43,0
+land of his
+
+316
+00:11:43,0 --> 00:11:43,0
+fathers,
+
+317
+00:11:43,0 --> 00:11:43,0
+
+
+318
+00:11:43,0 --> 00:11:43,0
+therefore being
+
+319
+00:11:43,0 --> 00:11:43,0
+deceived
+
+320
+00:11:43,0 --> 00:11:43,0
+by the
+
+321
+00:11:43,0 --> 00:11:43,0
+cunning and
+
+322
+00:11:43,0 --> 00:11:43,0
+
+
+323
+00:11:43,0 --> 00:11:43,0
+craftiness of king
+
+324
+00:11:43,0 --> 00:11:43,0
+Laman,
+
+325
+00:11:43,0 --> 00:11:43,0
+who having
+
+326
+00:11:43,0 --> 00:11:43,0
+entered
+
+327
+00:11:43,0 --> 00:11:43,0
+into a
+
+328
+00:11:43,0 --> 00:11:43,0
+treaty with
+
+329
+00:11:43,0 --> 00:11:43,0
+king
+
+330
+00:11:43,0 --> 00:11:43,0
+Zeniff, and
+
+331
+00:11:43,0 --> 00:11:43,0
+having
+
+332
+00:11:43,0 --> 00:11:43,0
+yielded up
+
+333
+00:11:43,0 --> 00:11:43,0
+into his
+
+334
+00:11:43,0 --> 00:11:43,0
+hands the
+
+335
+00:11:43,0 --> 00:11:43,0
+
+
+336
+00:11:43,0 --> 00:11:43,0
+possessions of a
+
+337
+00:11:43,0 --> 00:11:43,0
+part of
+
+338
+00:11:43,0 --> 00:11:43,0
+the land,
+
+339
+00:11:43,0 --> 00:11:43,0
+or even
+
+340
+00:11:43,0 --> 00:11:43,0
+the city
+
+341
+00:11:43,0 --> 00:11:43,0
+of
+
+342
+00:11:43,0 --> 00:11:43,0
+Lehi-Nephi, and
+
+343
+00:11:43,0 --> 00:11:57,
+the city of Shilom; and the land round about—
+
+344
+00:11:57,0 --> 00:11:57,0
+22 And
+
+345
+00:11:57,0 --> 00:11:57,0
+all this
+
+346
+00:11:57,0 --> 00:11:57,0
+he did,
+
+347
+00:11:57,0 --> 00:11:57,0
+for the
+
+348
+00:11:57,0 --> 00:11:57,0
+sole
+
+349
+00:11:57,0 --> 00:11:57,0
+purpose of
+
+350
+00:11:57,0 --> 00:11:57,0
+bringing
+
+351
+00:11:57,0 --> 00:11:57,0
+this
+
+352
+00:11:57,0 --> 00:11:57,0
+people
+
+353
+00:11:57,0 --> 00:11:57,0
+into
+
+354
+00:11:57,0 --> 00:11:57,0
+subjection or
+
+355
+00:11:57,0 --> 00:11:57,0
+into
+
+356
+00:11:57,0 --> 00:11:57,0
+bondage.
+
+357
+00:11:57,0 --> 00:11:57,0
+And
+
+358
+00:11:57,0 --> 00:11:57,0
+behold, we at
+
+359
+00:11:57,0 --> 00:11:57,0
+this
+
+360
+00:11:57,0 --> 00:11:57,0
+time do pay
+
+361
+00:11:57,0 --> 00:11:57,0
+tribute
+
+362
+00:11:57,0 --> 00:11:57,0
+to the
+
+363
+00:11:57,0 --> 00:11:57,0
+king of
+
+364
+00:11:57,0 --> 00:11:57,0
+the
+
+365
+00:11:57,0 --> 00:11:57,0
+Lamanites,
+
+366
+00:11:57,0 --> 00:11:57,0
+to the
+
+367
+00:11:57,0 --> 00:11:57,0
+amount of
+
+368
+00:11:57,0 --> 00:11:57,0
+one half
+
+369
+00:11:57,0 --> 00:11:57,0
+of our
+
+370
+00:11:57,0 --> 00:11:57,0
+corn,
+
+371
+00:11:57,0 --> 00:11:57,0
+and our
+
+372
+00:11:57,0 --> 00:11:57,0
+barley,
+
+373
+00:11:57,0 --> 00:11:57,0
+and even
+
+374
+00:11:57,0 --> 00:11:57,0
+all our
+
+375
+00:11:57,0 --> 00:11:57,0
+grain of
+
+376
+00:11:57,0 --> 00:11:57,0
+every
+
+377
+00:11:57,0 --> 00:11:57,0
+kind, and
+
+378
+00:11:57,0 --> 00:11:57,0
+one half
+
+379
+00:11:57,0 --> 00:11:57,0
+of the
+
+380
+00:11:57,0 --> 00:11:57,0
+increase
+
+381
+00:11:57,0 --> 00:11:57,0
+of our
+
+382
+00:11:57,0 --> 00:11:57,0
+flocks
+
+383
+00:11:57,0 --> 00:11:57,0
+and our
+
+384
+00:11:57,0 --> 00:11:57,0
+herds;
+
+385
+00:11:57,0 --> 00:11:57,0
+and even
+
+386
+00:11:57,0 --> 00:11:57,0
+one half
+
+387
+00:11:57,0 --> 00:11:57,0
+of all
+
+388
+00:11:57,0 --> 00:11:57,0
+we have
+
+389
+00:11:57,0 --> 00:11:57,0
+or
+
+390
+00:11:57,0 --> 00:11:57,0
+possess the
+
+391
+00:11:57,0 --> 00:11:43,
+king of the Lamanites doth exact of us, or our lives.
+
+392
+00:11:43,0 --> 00:11:43,0
+23 And
+
+393
+00:11:43,0 --> 00:11:43,0
+now, is
+
+394
+00:11:43,0 --> 00:11:43,0
+not
+
+395
+00:11:43,0 --> 00:11:43,0
+this
+
+396
+00:11:43,0 --> 00:11:43,0
+grievous to
+
+397
+00:11:43,0 --> 00:11:43,0
+be
+
+398
+00:11:43,0 --> 00:11:43,0
+borne? And
+
+399
+00:11:43,0 --> 00:11:43,0
+is not
+
+400
+00:11:43,0 --> 00:11:43,0
+this,
+
+401
+00:11:43,0 --> 00:11:43,0
+our
+
+402
+00:11:43,0 --> 00:11:43,0
+
+
+403
+00:11:43,0 --> 00:11:43,0
+affliction,
+
+404
+00:11:43,0 --> 00:11:43,0
+great? Now
+
+405
+00:11:43,0 --> 00:11:43,0
+behold,
+
+406
+00:11:43,0 --> 00:11:43,0
+how
+
+407
+00:11:43,0 --> 00:11:43,0
+great
+
+408
+00:11:43,0 --> 00:11:57,
+reason we have to mourn.
+
+409
+00:11:57,0 --> 00:11:57,0
+24
+
+410
+00:11:57,0 --> 00:11:57,0
+Yea, I
+
+411
+00:11:57,0 --> 00:11:57,0
+say unto
+
+412
+00:11:57,0 --> 00:11:57,0
+you,
+
+413
+00:11:57,0 --> 00:11:57,0
+great
+
+414
+00:11:57,0 --> 00:11:57,0
+are
+
+415
+00:11:57,0 --> 00:11:57,0
+the
+
+416
+00:11:57,0 --> 00:11:57,0
+reasons
+
+417
+00:11:57,0 --> 00:11:57,0
+which we
+
+418
+00:11:57,0 --> 00:11:57,0
+have
+
+419
+00:11:57,0 --> 00:11:57,0
+to
+
+420
+00:11:57,0 --> 00:11:57,0
+mourn;
+
+421
+00:11:57,0 --> 00:11:57,0
+for
+
+422
+00:11:57,0 --> 00:11:57,0
+behold how
+
+423
+00:11:57,0 --> 00:11:57,0
+many
+
+424
+00:11:57,0 --> 00:11:57,0
+of our
+
+425
+00:11:57,0 --> 00:11:57,0
+
+
+426
+00:11:57,0 --> 00:11:57,0
+brethren
+
+427
+00:11:57,0 --> 00:11:57,0
+have
+
+428
+00:11:57,0 --> 00:11:57,0
+been
+
+429
+00:11:57,0 --> 00:11:57,0
+slain, and
+
+430
+00:11:57,0 --> 00:11:57,0
+their
+
+431
+00:11:57,0 --> 00:11:57,0
+blood
+
+432
+00:11:57,0 --> 00:11:57,0
+has
+
+433
+00:11:57,0 --> 00:11:57,0
+been
+
+434
+00:11:57,0 --> 00:11:57,0
+spilt in
+
+435
+00:11:57,0 --> 00:11:57,0
+vain,
+
+436
+00:11:57,0 --> 00:11:43,
+and all because of iniquity.
+
+437
+00:11:43,0 --> 00:11:43,0
+25
+
+438
+00:11:43,0 --> 00:11:43,0
+For if
+
+439
+00:11:43,0 --> 00:11:43,0
+this
+
+440
+00:11:43,0 --> 00:11:43,0
+
+
+441
+00:11:43,0 --> 00:11:43,0
+people had
+
+442
+00:11:43,0 --> 00:11:43,0
+not
+
+443
+00:11:43,0 --> 00:11:43,0
+
+
+444
+00:11:43,0 --> 00:11:43,0
+fallen
+
+445
+00:11:43,0 --> 00:11:43,0
+into
+
+446
+00:11:43,0 --> 00:11:43,0
+
+
+447
+00:11:43,0 --> 00:11:43,0
+transgression
+
+448
+00:11:43,0 --> 00:11:43,0
+the
+
+449
+00:11:43,0 --> 00:11:43,0
+Lord
+
+450
+00:11:43,0 --> 00:11:43,0
+would
+
+451
+00:11:43,0 --> 00:11:43,0
+not
+
+452
+00:11:43,0 --> 00:11:43,0
+have
+
+453
+00:11:43,0 --> 00:11:43,0
+
+
+454
+00:11:43,0 --> 00:11:43,0
+suffered
+
+455
+00:11:43,0 --> 00:11:43,0
+that
+
+456
+00:11:43,0 --> 00:11:43,0
+this
+
+457
+00:11:43,0 --> 00:11:43,0
+great
+
+458
+00:11:43,0 --> 00:11:43,0
+evil
+
+459
+00:11:43,0 --> 00:11:43,0
+
+
+460
+00:11:43,0 --> 00:11:43,0
+should
+
+461
+00:11:43,0 --> 00:11:43,0
+come
+
+462
+00:11:43,0 --> 00:11:43,0
+upon
+
+463
+00:11:43,0 --> 00:11:43,0
+them.
+
+464
+00:11:43,0 --> 00:11:43,0
+But
+
+465
+00:11:43,0 --> 00:11:43,0
+behold,
+
+466
+00:11:43,0 --> 00:11:43,0
+they
+
+467
+00:11:43,0 --> 00:11:43,0
+would
+
+468
+00:11:43,0 --> 00:11:43,0
+not
+
+469
+00:11:43,0 --> 00:11:43,0
+
+
+470
+00:11:43,0 --> 00:11:43,0
+hearken
+
+471
+00:11:43,0 --> 00:11:43,0
+unto
+
+472
+00:11:43,0 --> 00:11:43,0
+his
+
+473
+00:11:43,0 --> 00:11:43,0
+words;
+
+474
+00:11:43,0 --> 00:11:43,0
+but
+
+475
+00:11:43,0 --> 00:11:43,0
+there
+
+476
+00:11:43,0 --> 00:11:43,0
+arose
+
+477
+00:11:43,0 --> 00:11:43,0
+
+
+478
+00:11:43,0 --> 00:11:43,0
+
+
+479
+00:11:43,0 --> 00:11:43,0
+contentions
+
+480
+00:11:43,0 --> 00:11:43,0
+among
+
+481
+00:11:43,0 --> 00:11:43,0
+them,
+
+482
+00:11:43,0 --> 00:11:43,0
+even
+
+483
+00:11:43,0 --> 00:11:57,
+so much that they did shed blood among themselves.
+
+484
+00:11:57,0 --> 00:11:57,0
+26
+
+485
+00:11:57,0 --> 00:11:57,0
+And a
+
+486
+00:11:57,0 --> 00:11:57,0
+
+
+487
+00:11:57,0 --> 00:11:57,0
+prophet
+
+488
+00:11:57,0 --> 00:11:57,0
+of
+
+489
+00:11:57,0 --> 00:11:57,0
+the
+
+490
+00:11:57,0 --> 00:11:57,0
+Lord
+
+491
+00:11:57,0 --> 00:11:57,0
+
+
+492
+00:11:57,0 --> 00:11:57,0
+have
+
+493
+00:11:57,0 --> 00:11:57,0
+they
+
+494
+00:11:57,0 --> 00:11:57,0
+
+
+495
+00:11:57,0 --> 00:11:57,0
+slain;
+
+496
+00:11:57,0 --> 00:11:57,0
+yea, a
+
+497
+00:11:57,0 --> 00:11:57,0
+
+
+498
+00:11:57,0 --> 00:11:57,0
+chosen
+
+499
+00:11:57,0 --> 00:11:57,0
+man
+
+500
+00:11:57,0 --> 00:11:57,0
+of
+
+501
+00:11:57,0 --> 00:11:57,0
+God,
+
+502
+00:11:57,0 --> 00:11:57,0
+who
+
+503
+00:11:57,0 --> 00:11:57,0
+told
+
+504
+00:11:57,0 --> 00:11:57,0
+
+
+505
+00:11:57,0 --> 00:11:57,0
+them of
+
+506
+00:11:57,0 --> 00:11:57,0
+
+
+507
+00:11:57,0 --> 00:11:57,0
+their
+
+508
+00:11:57,0 --> 00:11:57,0
+
+
+509
+00:11:57,0 --> 00:11:57,0
+
+
+510
+00:11:57,0 --> 00:11:57,0
+wickedness
+
+511
+00:11:57,0 --> 00:11:57,0
+and
+
+512
+00:11:57,0 --> 00:11:57,0
+
+
+513
+00:11:57,0 --> 00:11:57,0
+
+
+514
+00:11:57,0 --> 00:11:57,0
+abominations,
+
+515
+00:11:57,0 --> 00:11:57,0
+and
+
+516
+00:11:57,0 --> 00:11:57,0
+
+
+517
+00:11:57,0 --> 00:11:57,0
+
+
+518
+00:11:57,0 --> 00:11:57,0
+prophesied
+
+519
+00:11:57,0 --> 00:11:57,0
+of
+
+520
+00:11:57,0 --> 00:11:57,0
+many
+
+521
+00:11:57,0 --> 00:11:57,0
+
+
+522
+00:11:57,0 --> 00:11:57,0
+things
+
+523
+00:11:57,0 --> 00:11:57,0
+which
+
+524
+00:11:57,0 --> 00:11:43,
+are to come, yea, even the coming of Christ.
+
+525
+00:11:43,0 --> 00:11:43,0
+27
+
+526
+00:11:43,0 --> 00:11:43,0
+And
+
+527
+00:11:43,0 --> 00:11:43,0
+
+
+528
+00:11:43,0 --> 00:11:43,0
+
+
+529
+00:11:43,0 --> 00:11:43,0
+because
+
+530
+00:11:43,0 --> 00:11:43,0
+he
+
+531
+00:11:43,0 --> 00:11:43,0
+
+
+532
+00:11:43,0 --> 00:11:43,0
+said
+
+533
+00:11:43,0 --> 00:11:43,0
+unto
+
+534
+00:11:43,0 --> 00:11:43,0
+
+
+535
+00:11:43,0 --> 00:11:43,0
+them
+
+536
+00:11:43,0 --> 00:11:43,0
+
+
+537
+00:11:43,0 --> 00:11:43,0
+that
+
+538
+00:11:43,0 --> 00:11:43,0
+
+
+539
+00:11:43,0 --> 00:11:43,0
+Christ
+
+540
+00:11:43,0 --> 00:11:43,0
+was
+
+541
+00:11:43,0 --> 00:11:43,0
+
+
+542
+00:11:43,0 --> 00:11:43,0
+the
+
+543
+00:11:43,0 --> 00:11:43,0
+God,
+
+544
+00:11:43,0 --> 00:11:43,0
+
+
+545
+00:11:43,0 --> 00:11:43,0
+the
+
+546
+00:11:43,0 --> 00:11:43,0
+
+
+547
+00:11:43,0 --> 00:11:43,0
+Father
+
+548
+00:11:43,0 --> 00:11:43,0
+of
+
+549
+00:11:43,0 --> 00:11:43,0
+all
+
+550
+00:11:43,0 --> 00:11:43,0
+
+
+551
+00:11:43,0 --> 00:11:43,0
+
+
+552
+00:11:43,0 --> 00:11:43,0
+things,
+
+553
+00:11:43,0 --> 00:11:43,0
+and
+
+554
+00:11:43,0 --> 00:11:43,0
+
+
+555
+00:11:43,0 --> 00:11:43,0
+said
+
+556
+00:11:43,0 --> 00:11:43,0
+
+
+557
+00:11:43,0 --> 00:11:43,0
+that
+
+558
+00:11:43,0 --> 00:11:43,0
+he
+
+559
+00:11:43,0 --> 00:11:43,0
+
+
+560
+00:11:43,0 --> 00:11:43,0
+should
+
+561
+00:11:43,0 --> 00:11:43,0
+
+
+562
+00:11:43,0 --> 00:11:43,0
+take
+
+563
+00:11:43,0 --> 00:11:43,0
+upon
+
+564
+00:11:43,0 --> 00:11:43,0
+
+
+565
+00:11:43,0 --> 00:11:43,0
+him
+
+566
+00:11:43,0 --> 00:11:43,0
+the
+
+567
+00:11:43,0 --> 00:11:43,0
+
+
+568
+00:11:43,0 --> 00:11:43,0
+image
+
+569
+00:11:43,0 --> 00:11:43,0
+of
+
+570
+00:11:43,0 --> 00:11:43,0
+
+
+571
+00:11:43,0 --> 00:11:43,0
+man,
+
+572
+00:11:43,0 --> 00:11:43,0
+and
+
+573
+00:11:43,0 --> 00:11:43,0
+it
+
+574
+00:11:43,0 --> 00:11:43,0
+
+
+575
+00:11:43,0 --> 00:11:43,0
+should
+
+576
+00:11:43,0 --> 00:11:43,0
+be
+
+577
+00:11:43,0 --> 00:11:43,0
+
+
+578
+00:11:43,0 --> 00:11:43,0
+the
+
+579
+00:11:43,0 --> 00:11:43,0
+
+
+580
+00:11:43,0 --> 00:11:43,0
+image
+
+581
+00:11:43,0 --> 00:11:43,0
+
+
+582
+00:11:43,0 --> 00:11:43,0
+after
+
+583
+00:11:43,0 --> 00:11:43,0
+
+
+584
+00:11:43,0 --> 00:11:43,0
+which
+
+585
+00:11:43,0 --> 00:11:43,0
+man
+
+586
+00:11:43,0 --> 00:11:43,0
+was
+
+587
+00:11:43,0 --> 00:11:43,0
+
+
+588
+00:11:43,0 --> 00:11:43,0
+
+
+589
+00:11:43,0 --> 00:11:43,0
+created
+
+590
+00:11:43,0 --> 00:11:43,0
+in
+
+591
+00:11:43,0 --> 00:11:43,0
+the
+
+592
+00:11:43,0 --> 00:11:43,0
+
+
+593
+00:11:43,0 --> 00:11:43,0
+
+
+594
+00:11:43,0 --> 00:11:43,0
+
+
+595
+00:11:43,0 --> 00:11:43,0
+beginning;
+
+596
+00:11:43,0 --> 00:11:43,0
+or
+
+597
+00:11:43,0 --> 00:11:43,0
+in
+
+598
+00:11:43,0 --> 00:11:43,0
+
+
+599
+00:11:43,0 --> 00:11:43,0
+other
+
+600
+00:11:43,0 --> 00:11:43,0
+
+
+601
+00:11:43,0 --> 00:11:43,0
+words,
+
+602
+00:11:43,0 --> 00:11:43,0
+he
+
+603
+00:11:43,0 --> 00:11:43,0
+
+
+604
+00:11:43,0 --> 00:11:43,0
+said
+
+605
+00:11:43,0 --> 00:11:43,0
+
+
+606
+00:11:43,0 --> 00:11:43,0
+that
+
+607
+00:11:43,0 --> 00:11:43,0
+man
+
+608
+00:11:43,0 --> 00:11:43,0
+was
+
+609
+00:11:43,0 --> 00:11:43,0
+
+
+610
+00:11:43,0 --> 00:11:43,0
+
+
+611
+00:11:43,0 --> 00:11:43,0
+created
+
+612
+00:11:43,0 --> 00:11:43,0
+
+
+613
+00:11:43,0 --> 00:11:43,0
+after
+
+614
+00:11:43,0 --> 00:11:43,0
+the
+
+615
+00:11:43,0 --> 00:11:43,0
+
+
+616
+00:11:43,0 --> 00:11:43,0
+image
+
+617
+00:11:43,0 --> 00:11:43,0
+of
+
+618
+00:11:43,0 --> 00:11:43,0
+
+
+619
+00:11:43,0 --> 00:11:43,0
+God,
+
+620
+00:11:43,0 --> 00:11:43,0
+and
+
+621
+00:11:43,0 --> 00:11:43,0
+
+
+622
+00:11:43,0 --> 00:11:43,0
+that
+
+623
+00:11:43,0 --> 00:11:43,0
+God
+
+624
+00:11:43,0 --> 00:11:43,0
+
+
+625
+00:11:43,0 --> 00:11:43,0
+
+
+626
+00:11:43,0 --> 00:11:43,0
+should
+
+627
+00:11:43,0 --> 00:11:43,0
+come
+
+628
+00:11:43,0 --> 00:11:43,0
+
+
+629
+00:11:43,0 --> 00:11:57,
+down among the children of men, and take upon him flesh and blood, and go forth upon the face of the earth—
+
+630
+00:11:57,0 --> 00:11:57,0
+28
+
+631
+00:11:57,0 --> 00:11:57,0
+And
+
+632
+00:11:57,0 --> 00:11:57,0
+
+
+633
+00:11:57,0 --> 00:11:57,0
+now,
+
+634
+00:11:57,0 --> 00:11:57,0
+
+
+635
+00:11:57,0 --> 00:11:57,0
+
+
+636
+00:11:57,0 --> 00:11:57,0
+because
+
+637
+00:11:57,0 --> 00:11:57,0
+he
+
+638
+00:11:57,0 --> 00:11:57,0
+said
+
+639
+00:11:57,0 --> 00:11:57,0
+
+
+640
+00:11:57,0 --> 00:11:57,0
+this,
+
+641
+00:11:57,0 --> 00:11:57,0
+
+
+642
+00:11:57,0 --> 00:11:57,0
+they
+
+643
+00:11:57,0 --> 00:11:57,0
+did
+
+644
+00:11:57,0 --> 00:11:57,0
+
+
+645
+00:11:57,0 --> 00:11:57,0
+put
+
+646
+00:11:57,0 --> 00:11:57,0
+him
+
+647
+00:11:57,0 --> 00:11:57,0
+to
+
+648
+00:11:57,0 --> 00:11:57,0
+
+
+649
+00:11:57,0 --> 00:11:57,0
+death;
+
+650
+00:11:57,0 --> 00:11:57,0
+
+
+651
+00:11:57,0 --> 00:11:57,0
+and
+
+652
+00:11:57,0 --> 00:11:57,0
+many
+
+653
+00:11:57,0 --> 00:11:57,0
+
+
+654
+00:11:57,0 --> 00:11:57,0
+more
+
+655
+00:11:57,0 --> 00:11:57,0
+
+
+656
+00:11:57,0 --> 00:11:57,0
+things
+
+657
+00:11:57,0 --> 00:11:57,0
+
+
+658
+00:11:57,0 --> 00:11:57,0
+did
+
+659
+00:11:57,0 --> 00:11:57,0
+they
+
+660
+00:11:57,0 --> 00:11:57,0
+do
+
+661
+00:11:57,0 --> 00:11:57,0
+
+
+662
+00:11:57,0 --> 00:11:57,0
+which
+
+663
+00:11:57,0 --> 00:11:57,0
+
+
+664
+00:11:57,0 --> 00:11:57,0
+
+
+665
+00:11:57,0 --> 00:11:57,0
+brought
+
+666
+00:11:57,0 --> 00:11:57,0
+
+
+667
+00:11:57,0 --> 00:11:57,0
+down
+
+668
+00:11:57,0 --> 00:11:57,0
+the
+
+669
+00:11:57,0 --> 00:11:57,0
+
+
+670
+00:11:57,0 --> 00:11:57,0
+wrath
+
+671
+00:11:57,0 --> 00:11:57,0
+of
+
+672
+00:11:57,0 --> 00:11:57,0
+God
+
+673
+00:11:57,0 --> 00:11:57,0
+
+
+674
+00:11:57,0 --> 00:11:57,0
+upon
+
+675
+00:11:57,0 --> 00:11:57,0
+
+
+676
+00:11:57,0 --> 00:11:57,0
+them.
+
+677
+00:11:57,0 --> 00:11:57,0
+
+
+678
+00:11:57,0 --> 00:11:57,0
+
+
+679
+00:11:57,0 --> 00:11:57,0
+
+
+680
+00:11:57,0 --> 00:11:57,0
+Therefore,
+
+681
+00:11:57,0 --> 00:11:57,0
+who
+
+682
+00:11:57,0 --> 00:11:57,0
+
+
+683
+00:11:57,0 --> 00:11:57,0
+
+
+684
+00:11:57,0 --> 00:11:57,0
+wondereth
+
+685
+00:11:57,0 --> 00:11:57,0
+
+
+686
+00:11:57,0 --> 00:11:57,0
+that
+
+687
+00:11:57,0 --> 00:11:57,0
+
+
+688
+00:11:57,0 --> 00:11:57,0
+they
+
+689
+00:11:57,0 --> 00:11:57,0
+are
+
+690
+00:11:57,0 --> 00:11:57,0
+in
+
+691
+00:11:57,0 --> 00:11:57,0
+
+
+692
+00:11:57,0 --> 00:11:57,0
+
+
+693
+00:11:57,0 --> 00:11:57,0
+bondage,
+
+694
+00:11:57,0 --> 00:11:57,0
+and
+
+695
+00:11:57,0 --> 00:11:57,0
+
+
+696
+00:11:57,0 --> 00:11:57,0
+that
+
+697
+00:11:57,0 --> 00:11:57,0
+
+
+698
+00:11:57,0 --> 00:11:57,0
+they
+
+699
+00:11:57,0 --> 00:11:57,0
+are
+
+700
+00:11:57,0 --> 00:11:57,0
+
+
+701
+00:11:57,0 --> 00:11:57,0
+
+
+702
+00:11:57,0 --> 00:11:57,0
+smitten
+
+703
+00:11:57,0 --> 00:11:57,0
+with
+
+704
+00:11:57,0 --> 00:11:57,0
+
+
+705
+00:11:57,0 --> 00:11:57,0
+sore
+
+706
+00:11:57,0 --> 00:11:57,0
+
+
+707
+00:11:57,0 --> 00:11:57,0
+
+
+708
+00:11:57,0 --> 00:11:57,0
+
+
+709
+00:11:57,0 --> 00:11:43,
+afflictions?
+
+710
+00:11:43,0 --> 00:11:43,0
+29
+
+711
+00:11:43,0 --> 00:11:43,0
+
+
+712
+00:11:43,0 --> 00:11:43,0
+For
+
+713
+00:11:43,0 --> 00:11:43,0
+
+
+714
+00:11:43,0 --> 00:11:43,0
+
+
+715
+00:11:43,0 --> 00:11:43,0
+
+
+716
+00:11:43,0 --> 00:11:43,0
+behold,
+
+717
+00:11:43,0 --> 00:11:43,0
+
+
+718
+00:11:43,0 --> 00:11:43,0
+the
+
+719
+00:11:43,0 --> 00:11:43,0
+
+
+720
+00:11:43,0 --> 00:11:43,0
+
+
+721
+00:11:43,0 --> 00:11:43,0
+Lord
+
+722
+00:11:43,0 --> 00:11:43,0
+
+
+723
+00:11:43,0 --> 00:11:43,0
+hath
+
+724
+00:11:43,0 --> 00:11:43,0
+
+
+725
+00:11:43,0 --> 00:11:43,0
+
+
+726
+00:11:43,0 --> 00:11:43,0
+said:
+
+727
+00:11:43,0 --> 00:11:43,0
+I
+
+728
+00:11:43,0 --> 00:11:43,0
+
+
+729
+00:11:43,0 --> 00:11:43,0
+
+
+730
+00:11:43,0 --> 00:11:43,0
+will
+
+731
+00:11:43,0 --> 00:11:43,0
+
+
+732
+00:11:43,0 --> 00:11:43,0
+not
+
+733
+00:11:43,0 --> 00:11:43,0
+
+
+734
+00:11:43,0 --> 00:11:43,0
+
+
+735
+00:11:43,0 --> 00:11:43,0
+succor
+
+736
+00:11:43,0 --> 00:11:43,0
+
+
+737
+00:11:43,0 --> 00:11:43,0
+my
+
+738
+00:11:43,0 --> 00:11:43,0
+
+
+739
+00:11:43,0 --> 00:11:43,0
+
+
+740
+00:11:43,0 --> 00:11:43,0
+people
+
+741
+00:11:43,0 --> 00:11:43,0
+
+
+742
+00:11:43,0 --> 00:11:43,0
+in
+
+743
+00:11:43,0 --> 00:11:43,0
+
+
+744
+00:11:43,0 --> 00:11:43,0
+the
+
+745
+00:11:43,0 --> 00:11:43,0
+
+
+746
+00:11:43,0 --> 00:11:43,0
+day
+
+747
+00:11:43,0 --> 00:11:43,0
+of
+
+748
+00:11:43,0 --> 00:11:43,0
+
+
+749
+00:11:43,0 --> 00:11:43,0
+
+
+750
+00:11:43,0 --> 00:11:43,0
+their
+
+751
+00:11:43,0 --> 00:11:43,0
+
+
+752
+00:11:43,0 --> 00:11:43,0
+
+
+753
+00:11:43,0 --> 00:11:43,0
+
+
+754
+00:11:43,0 --> 00:11:43,0
+
+
+755
+00:11:43,0 --> 00:11:43,0
+
+
+756
+00:11:43,0 --> 00:11:43,0
+
+
+757
+00:11:43,0 --> 00:11:43,0
+
+
+758
+00:11:43,0 --> 00:11:43,0
+transgression;
+
+759
+00:11:43,0 --> 00:11:43,0
+
+
+760
+00:11:43,0 --> 00:11:43,0
+but
+
+761
+00:11:43,0 --> 00:11:43,0
+I
+
+762
+00:11:43,0 --> 00:11:43,0
+
+
+763
+00:11:43,0 --> 00:11:43,0
+will
+
+764
+00:11:43,0 --> 00:11:43,0
+
+
+765
+00:11:43,0 --> 00:11:43,0
+
+
+766
+00:11:43,0 --> 00:11:43,0
+hedge
+
+767
+00:11:43,0 --> 00:11:43,0
+
+
+768
+00:11:43,0 --> 00:11:43,0
+up
+
+769
+00:11:43,0 --> 00:11:43,0
+
+
+770
+00:11:43,0 --> 00:11:43,0
+
+
+771
+00:11:43,0 --> 00:11:43,0
+their
+
+772
+00:11:43,0 --> 00:11:43,0
+
+
+773
+00:11:43,0 --> 00:11:43,0
+ways
+
+774
+00:11:43,0 --> 00:11:43,0
+
+
+775
+00:11:43,0 --> 00:11:43,0
+
+
+776
+00:11:43,0 --> 00:11:43,0
+that
+
+777
+00:11:43,0 --> 00:11:43,0
+
+
+778
+00:11:43,0 --> 00:11:43,0
+they
+
+779
+00:11:43,0 --> 00:11:43,0
+
+
+780
+00:11:43,0 --> 00:11:57,
+prosper not; and their doings shall be as a stumbling block before them.
+
+781
+00:11:57,0 --> 00:11:57,0
+30 And again, he saith: If my people shall sow filthiness they shall reap the chaff thereof in the whirlwind; and the effect thereof is
+
+782
+00:11:57,0 --> 00:11:57,0
+
+
+783
+00:11:57,0 --> 00:11:57,0
+
+
+784
+00:11:57,0 --> 00:11:57,0
+
+
+785
+00:11:57,0 --> 00:11:57,0
+
+
+786
+00:11:57,0 --> 00:11:57,0
+And
+
+787
+00:11:57,0 --> 00:11:57,0
+
+
+788
+00:11:57,0 --> 00:11:57,0
+
+
+789
+00:11:57,0 --> 00:11:57,0
+
+
+790
+00:11:57,0 --> 00:11:57,0
+
+
+791
+00:11:57,0 --> 00:11:57,0
+
+
+792
+00:11:57,0 --> 00:11:57,0
+
+
+793
+00:11:57,0 --> 00:11:57,0
+again,
+
+794
+00:11:57,0 --> 00:11:57,0
+
+
+795
+00:11:57,0 --> 00:11:57,0
+
+
+796
+00:11:57,0 --> 00:11:57,0
+he
+
+797
+00:11:57,0 --> 00:11:57,0
+
+
+798
+00:11:57,0 --> 00:11:57,0
+
+
+799
+00:11:57,0 --> 00:11:57,0
+
+
+800
+00:11:57,0 --> 00:11:57,0
+
+
+801
+00:11:57,0 --> 00:11:57,0
+
+
+802
+00:11:57,0 --> 00:11:57,0
+
+
+803
+00:11:57,0 --> 00:11:57,0
+saith:
+
+804
+00:11:57,0 --> 00:11:57,0
+
+
+805
+00:11:57,0 --> 00:11:57,0
+
+
+806
+00:11:57,0 --> 00:11:57,0
+If
+
+807
+00:11:57,0 --> 00:11:57,0
+
+
+808
+00:11:57,0 --> 00:11:57,0
+
+
+809
+00:11:57,0 --> 00:11:57,0
+my
+
+810
+00:11:57,0 --> 00:11:57,0
+
+
+811
+00:11:57,0 --> 00:11:57,0
+
+
+812
+00:11:57,0 --> 00:11:57,0
+
+
+813
+00:11:57,0 --> 00:11:57,0
+
+
+814
+00:11:57,0 --> 00:11:57,0
+
+
+815
+00:11:57,0 --> 00:11:57,0
+
+
+816
+00:11:57,0 --> 00:11:57,0
+people
+
+817
+00:11:57,0 --> 00:11:57,0
+
+
+818
+00:11:57,0 --> 00:11:57,0
+
+
+819
+00:11:57,0 --> 00:11:57,0
+
+
+820
+00:11:57,0 --> 00:11:57,0
+
+
+821
+00:11:57,0 --> 00:11:57,0
+
+
+822
+00:11:57,0 --> 00:11:57,0
+shall
+
+823
+00:11:57,0 --> 00:11:57,0
+
+
+824
+00:11:57,0 --> 00:11:57,0
+
+
+825
+00:11:57,0 --> 00:11:57,0
+
+
+826
+00:11:57,0 --> 00:11:57,0
+sow
+
+827
+00:11:57,0 --> 00:11:57,0
+
+
+828
+00:11:57,0 --> 00:11:57,0
+
+
+829
+00:11:57,0 --> 00:11:57,0
+
+
+830
+00:11:57,0 --> 00:11:57,0
+
+
+831
+00:11:57,0 --> 00:11:57,0
+
+
+832
+00:11:57,0 --> 00:11:57,0
+
+
+833
+00:11:57,0 --> 00:11:57,0
+
+
+834
+00:11:57,0 --> 00:11:57,0
+
+
+835
+00:11:57,0 --> 00:11:57,0
+
+
+836
+00:11:57,0 --> 00:11:57,0
+
+
+837
+00:11:57,0 --> 00:11:57,0
+filthiness
+
+838
+00:11:57,0 --> 00:11:57,0
+
+
+839
+00:11:57,0 --> 00:11:57,0
+
+
+840
+00:11:57,0 --> 00:11:57,0
+
+
+841
+00:11:57,0 --> 00:11:57,0
+
+
+842
+00:11:57,0 --> 00:11:57,0
+they
+
+843
+00:11:57,0 --> 00:11:57,0
+
+
+844
+00:11:57,0 --> 00:11:57,0
+
+
+845
+00:11:57,0 --> 00:11:57,0
+
+
+846
+00:11:57,0 --> 00:11:57,0
+
+
+847
+00:11:57,0 --> 00:11:57,0
+
+
+848
+00:11:57,0 --> 00:11:57,0
+shall
+
+849
+00:11:57,0 --> 00:11:57,0
+
+
+850
+00:11:57,0 --> 00:11:57,0
+
+
+851
+00:11:57,0 --> 00:11:57,0
+
+
+852
+00:11:57,0 --> 00:11:43,
+reap the chaff thereof in the whirlwind; and the effect thereof is poison.
+
+853
+00:11:43,0 --> 00:11:43,0
+31 And again he saith: If my people shall sow filthiness they shall reap the east wind, which bringeth immediate
+
+854
+00:11:43,0 --> 00:11:43,0
+
+
+855
+00:11:43,0 --> 00:11:43,0
+
+
+856
+00:11:43,0 --> 00:11:43,0
+
+
+857
+00:11:43,0 --> 00:11:43,0
+
+
+858
+00:11:43,0 --> 00:11:43,0
+And
+
+859
+00:11:43,0 --> 00:11:43,0
+
+
+860
+00:11:43,0 --> 00:11:43,0
+
+
+861
+00:11:43,0 --> 00:11:43,0
+
+
+862
+00:11:43,0 --> 00:11:43,0
+
+
+863
+00:11:43,0 --> 00:11:43,0
+
+
+864
+00:11:43,0 --> 00:11:43,0
+again
+
+865
+00:11:43,0 --> 00:11:43,0
+
+
+866
+00:11:43,0 --> 00:11:43,0
+
+
+867
+00:11:43,0 --> 00:11:43,0
+he
+
+868
+00:11:43,0 --> 00:11:43,0
+
+
+869
+00:11:43,0 --> 00:11:43,0
+
+
+870
+00:11:43,0 --> 00:11:43,0
+
+
+871
+00:11:43,0 --> 00:11:43,0
+
+
+872
+00:11:43,0 --> 00:11:43,0
+
+
+873
+00:11:43,0 --> 00:11:43,0
+
+
+874
+00:11:43,0 --> 00:11:43,0
+saith:
+
+875
+00:11:43,0 --> 00:11:43,0
+
+
+876
+00:11:43,0 --> 00:11:43,0
+
+
+877
+00:11:43,0 --> 00:11:43,0
+If
+
+878
+00:11:43,0 --> 00:11:43,0
+
+
+879
+00:11:43,0 --> 00:11:43,0
+
+
+880
+00:11:43,0 --> 00:11:43,0
+my
+
+881
+00:11:43,0 --> 00:11:43,0
+
+
+882
+00:11:43,0 --> 00:11:43,0
+
+
+883
+00:11:43,0 --> 00:11:43,0
+
+
+884
+00:11:43,0 --> 00:11:43,0
+
+
+885
+00:11:43,0 --> 00:11:43,0
+
+
+886
+00:11:43,0 --> 00:11:43,0
+
+
+887
+00:11:43,0 --> 00:11:43,0
+people
+
+888
+00:11:43,0 --> 00:11:43,0
+
+
+889
+00:11:43,0 --> 00:11:43,0
+
+
+890
+00:11:43,0 --> 00:11:43,0
+
+
+891
+00:11:43,0 --> 00:11:43,0
+
+
+892
+00:11:43,0 --> 00:11:43,0
+
+
+893
+00:11:43,0 --> 00:11:43,0
+shall
+
+894
+00:11:43,0 --> 00:11:43,0
+
+
+895
+00:11:43,0 --> 00:11:43,0
+
+
+896
+00:11:43,0 --> 00:11:43,0
+
+
+897
+00:11:43,0 --> 00:11:43,0
+sow
+
+898
+00:11:43,0 --> 00:11:43,0
+
+
+899
+00:11:43,0 --> 00:11:43,0
+
+
+900
+00:11:43,0 --> 00:11:43,0
+
+
+901
+00:11:43,0 --> 00:11:43,0
+
+
+902
+00:11:43,0 --> 00:11:43,0
+
+
+903
+00:11:43,0 --> 00:11:43,0
+
+
+904
+00:11:43,0 --> 00:11:43,0
+
+
+905
+00:11:43,0 --> 00:11:43,0
+
+
+906
+00:11:43,0 --> 00:11:43,0
+
+
+907
+00:11:43,0 --> 00:11:43,0
+
+
+908
+00:11:43,0 --> 00:11:43,0
+filthiness
+
+909
+00:11:43,0 --> 00:11:43,0
+
+
+910
+00:11:43,0 --> 00:11:43,0
+
+
+911
+00:11:43,0 --> 00:11:43,0
+
+
+912
+00:11:43,0 --> 00:11:43,0
+
+
+913
+00:11:43,0 --> 00:11:43,0
+they
+
+914
+00:11:43,0 --> 00:11:43,0
+
+
+915
+00:11:43,0 --> 00:11:43,0
+
+
+916
+00:11:43,0 --> 00:11:43,0
+
+
+917
+00:11:43,0 --> 00:11:43,0
+
+
+918
+00:11:43,0 --> 00:11:43,0
+
+
+919
+00:11:43,0 --> 00:11:43,0
+shall
+
+920
+00:11:43,0 --> 00:11:43,0
+
+
+921
+00:11:43,0 --> 00:11:43,0
+
+
+922
+00:11:43,0 --> 00:11:43,0
+
+
+923
+00:11:43,0 --> 00:11:43,0
+
+
+924
+00:11:43,0 --> 00:11:43,0
+reap
+
+925
+00:11:43,0 --> 00:11:43,0
+
+
+926
+00:11:43,0 --> 00:11:43,0
+
+
+927
+00:11:43,0 --> 00:11:43,0
+
+
+928
+00:11:43,0 --> 00:11:43,0
+the
+
+929
+00:11:43,0 --> 00:11:43,0
+
+
+930
+00:11:43,0 --> 00:11:43,0
+
+
+931
+00:11:43,0 --> 00:11:43,0
+
+
+932
+00:11:43,0 --> 00:11:43,0
+
+
+933
+00:11:43,0 --> 00:11:43,0
+east
+
+934
+00:11:43,0 --> 00:11:43,0
+
+
+935
+00:11:43,0 --> 00:11:43,0
+
+
+936
+00:11:43,0 --> 00:11:43,0
+
+
+937
+00:11:43,0 --> 00:11:43,0
+
+
+938
+00:11:43,0 --> 00:11:43,0
+
+
+939
+00:11:43,0 --> 00:11:43,0
+wind,
+
+940
+00:11:43,0 --> 00:11:43,0
+
+
+941
+00:11:43,0 --> 00:11:43,0
+
+
+942
+00:11:43,0 --> 00:11:43,0
+
+
+943
+00:11:43,0 --> 00:11:43,0
+
+
+944
+00:11:43,0 --> 00:11:43,0
+
+
+945
+00:11:43,0 --> 00:11:43,0
+which
+
+946
+00:11:43,0 --> 00:11:43,0
+
+
+947
+00:11:43,0 --> 00:11:43,0
+
+
+948
+00:11:43,0 --> 00:11:43,0
+
+
+949
+00:11:43,0 --> 00:11:43,0
+
+
+950
+00:11:43,0 --> 00:11:43,0
+
+
+951
+00:11:43,0 --> 00:11:43,0
+
+
+952
+00:11:43,0 --> 00:11:43,0
+
+
+953
+00:11:43,0 --> 00:11:43,0
+
+
+954
+00:11:43,0 --> 00:11:43,0
+bringeth
+
+955
+00:11:43,0 --> 00:11:43,0
+
+
+956
+00:11:43,0 --> 00:11:43,0
+
+
+957
+00:11:43,0 --> 00:11:43,0
+
+
+958
+00:11:43,0 --> 00:11:43,0
+
+
+959
+00:11:43,0 --> 00:11:43,0
+
+
+960
+00:11:43,0 --> 00:11:43,0
+
+
+961
+00:11:43,0 --> 00:11:43,0
+
+
+962
+00:11:43,0 --> 00:11:43,0
+
+
+963
+00:11:43,0 --> 00:11:43,0
+
+
+964
+00:11:43,0 --> 00:11:43,0
+immediate
+
+965
+00:11:43,0 --> 00:11:43,0
+
+
+966
+00:11:43,0 --> 00:11:43,0
+
+
+967
+00:11:43,0 --> 00:11:43,0
+
+
+968
+00:11:43,0 --> 00:11:43,0
+
+
+969
+00:11:43,0 --> 00:11:43,0
+
+
+970
+00:11:43,0 --> 00:11:43,0
+
+
+971
+00:11:43,0 --> 00:11:43,0
+
+
+972
+00:11:43,0 --> 00:11:43,0
+
+
+973
+00:11:43,0 --> 00:11:43,0
+
+
+974
+00:11:43,0 --> 00:11:43,0
+
+
+975
+00:11:43,0 --> 00:11:43,0
+
+
+976
+00:11:43,0 --> 00:11:43,0
+
+
+977
+00:11:43,0 --> 00:11:57,
+destruction.
+
+978
+00:11:57,0 --> 00:11:57,0
+32 And now, behold, the promise of the Lord is fulfilled, and ye are smitten and
+
+979
+00:11:57,0 --> 00:11:57,0
+
+
+980
+00:11:57,0 --> 00:11:57,0
+
+
+981
+00:11:57,0 --> 00:11:57,0
+
+
+982
+00:11:57,0 --> 00:11:57,0
+
+
+983
+00:11:57,0 --> 00:11:57,0
+And
+
+984
+00:11:57,0 --> 00:11:57,0
+
+
+985
+00:11:57,0 --> 00:11:57,0
+
+
+986
+00:11:57,0 --> 00:11:57,0
+
+
+987
+00:11:57,0 --> 00:11:57,0
+
+
+988
+00:11:57,0 --> 00:11:57,0
+now,
+
+989
+00:11:57,0 --> 00:11:57,0
+
+
+990
+00:11:57,0 --> 00:11:57,0
+
+
+991
+00:11:57,0 --> 00:11:57,0
+
+
+992
+00:11:57,0 --> 00:11:57,0
+
+
+993
+00:11:57,0 --> 00:11:57,0
+
+
+994
+00:11:57,0 --> 00:11:57,0
+
+
+995
+00:11:57,0 --> 00:11:57,0
+
+
+996
+00:11:57,0 --> 00:11:57,0
+behold,
+
+997
+00:11:57,0 --> 00:11:57,0
+
+
+998
+00:11:57,0 --> 00:11:57,0
+
+
+999
+00:11:57,0 --> 00:11:57,0
+
+
+1000
+00:11:57,0 --> 00:11:57,0
+the
+
+1001
+00:11:57,0 --> 00:11:57,0
+
+
+1002
+00:11:57,0 --> 00:11:57,0
+
+
+1003
+00:11:57,0 --> 00:11:57,0
+
+
+1004
+00:11:57,0 --> 00:11:57,0
+
+
+1005
+00:11:57,0 --> 00:11:57,0
+
+
+1006
+00:11:57,0 --> 00:11:57,0
+
+
+1007
+00:11:57,0 --> 00:11:57,0
+
+
+1008
+00:11:57,0 --> 00:11:57,0
+promise
+
+1009
+00:11:57,0 --> 00:11:57,0
+
+
+1010
+00:11:57,0 --> 00:11:57,0
+
+
+1011
+00:11:57,0 --> 00:11:57,0
+of
+
+1012
+00:11:57,0 --> 00:11:57,0
+
+
+1013
+00:11:57,0 --> 00:11:57,0
+
+
+1014
+00:11:57,0 --> 00:11:57,0
+
+
+1015
+00:11:57,0 --> 00:11:57,0
+the
+
+1016
+00:11:57,0 --> 00:11:57,0
+
+
+1017
+00:11:57,0 --> 00:11:57,0
+
+
+1018
+00:11:57,0 --> 00:11:57,0
+
+
+1019
+00:11:57,0 --> 00:11:57,0
+
+
+1020
+00:11:57,0 --> 00:11:57,0
+Lord
+
+1021
+00:11:57,0 --> 00:11:57,0
+
+
+1022
+00:11:57,0 --> 00:11:57,0
+
+
+1023
+00:11:57,0 --> 00:11:57,0
+is
+
+1024
+00:11:57,0 --> 00:11:57,0
+
+
+1025
+00:11:57,0 --> 00:11:57,0
+
+
+1026
+00:11:57,0 --> 00:11:57,0
+
+
+1027
+00:11:57,0 --> 00:11:57,0
+
+
+1028
+00:11:57,0 --> 00:11:57,0
+
+
+1029
+00:11:57,0 --> 00:11:57,0
+
+
+1030
+00:11:57,0 --> 00:11:57,0
+
+
+1031
+00:11:57,0 --> 00:11:57,0
+
+
+1032
+00:11:57,0 --> 00:11:57,0
+
+
+1033
+00:11:57,0 --> 00:11:57,0
+
+
+1034
+00:11:57,0 --> 00:11:57,0
+fulfilled,
+
+1035
+00:11:57,0 --> 00:11:57,0
+
+
+1036
+00:11:57,0 --> 00:11:57,0
+
+
+1037
+00:11:57,0 --> 00:11:57,0
+
+
+1038
+00:11:57,0 --> 00:11:57,0
+and
+
+1039
+00:11:57,0 --> 00:11:57,0
+
+
+1040
+00:11:57,0 --> 00:11:57,0
+
+
+1041
+00:11:57,0 --> 00:11:57,0
+ye
+
+1042
+00:11:57,0 --> 00:11:57,0
+
+
+1043
+00:11:57,0 --> 00:11:57,0
+
+
+1044
+00:11:57,0 --> 00:11:57,0
+
+
+1045
+00:11:57,0 --> 00:11:57,0
+are
+
+1046
+00:11:57,0 --> 00:11:57,0
+
+
+1047
+00:11:57,0 --> 00:11:57,0
+
+
+1048
+00:11:57,0 --> 00:11:57,0
+
+
+1049
+00:11:57,0 --> 00:11:57,0
+
+
+1050
+00:11:57,0 --> 00:11:57,0
+
+
+1051
+00:11:57,0 --> 00:11:57,0
+
+
+1052
+00:11:57,0 --> 00:11:57,0
+
+
+1053
+00:11:57,0 --> 00:11:57,0
+smitten
+
+1054
+00:11:57,0 --> 00:11:57,0
+
+
+1055
+00:11:57,0 --> 00:11:57,0
+
+
+1056
+00:11:57,0 --> 00:11:57,0
+
+
+1057
+00:11:57,0 --> 00:11:57,0
+and
+
+1058
+00:11:57,0 --> 00:11:57,0
+
+
+1059
+00:11:57,0 --> 00:11:57,0
+
+
+1060
+00:11:57,0 --> 00:11:57,0
+
+
+1061
+00:11:57,0 --> 00:11:57,0
+
+
+1062
+00:11:57,0 --> 00:11:57,0
+
+
+1063
+00:11:57,0 --> 00:11:57,0
+
+
+1064
+00:11:57,0 --> 00:11:57,0
+
+
+1065
+00:11:57,0 --> 00:11:57,0
+
+
+1066
+00:11:57,0 --> 00:11:57,0
+
+
+1067
+00:11:57,0 --> 00:11:57,0
+
+
+1068
+00:11:57,0 --> 00:11:43,
+afflicted.
+
+1069
+00:11:43,0 --> 00:11:43,0
+33 But if ye will turn to the Lord with full purpose of heart, and put your trust in him, and serve him with all diligence of mind, if ye do this, he will, according to his own will and pleasure, deliver you out of bondage.
+
+1070
+00:11:43,0 --> 00:11:43,0
+
+
+1071
+00:11:43,0 --> 00:11:43,0
+
+
+1072
+00:11:43,0 --> 00:11:43,0
+
+
+1073
+00:11:43,0 --> 00:11:43,0
+
+
+1074
+00:11:43,0 --> 00:11:43,0
+But
+
+1075
+00:11:43,0 --> 00:11:43,0
+
+
+1076
+00:11:43,0 --> 00:11:43,0
+
+
+1077
+00:11:43,0 --> 00:11:43,0
+if
+
+1078
+00:11:43,0 --> 00:11:43,0
+
+
+1079
+00:11:43,0 --> 00:11:43,0
+
+
+1080
+00:11:43,0 --> 00:11:43,0
+ye
+
+1081
+00:11:43,0 --> 00:11:43,0
+
+
+1082
+00:11:43,0 --> 00:11:43,0
+
+
+1083
+00:11:43,0 --> 00:11:43,0
+
+
+1084
+00:11:43,0 --> 00:11:43,0
+
+
+1085
+00:11:43,0 --> 00:11:43,0
+will
+
+1086
+00:11:43,0 --> 00:11:43,0
+
+
+1087
+00:11:43,0 --> 00:11:43,0
+
+
+1088
+00:11:43,0 --> 00:11:43,0
+
+
+1089
+00:11:43,0 --> 00:11:43,0
+
+
+1090
+00:11:43,0 --> 00:11:43,0
+turn
+
+1091
+00:11:43,0 --> 00:11:43,0
+
+
+1092
+00:11:43,0 --> 00:11:43,0
+
+
+1093
+00:11:43,0 --> 00:11:43,0
+to
+
+1094
+00:11:43,0 --> 00:11:43,0
+
+
+1095
+00:11:43,0 --> 00:11:43,0
+
+
+1096
+00:11:43,0 --> 00:11:43,0
+
+
+1097
+00:11:43,0 --> 00:11:43,0
+the
+
+1098
+00:11:43,0 --> 00:11:43,0
+
+
+1099
+00:11:43,0 --> 00:11:43,0
+
+
+1100
+00:11:43,0 --> 00:11:43,0
+
+
+1101
+00:11:43,0 --> 00:11:43,0
+
+
+1102
+00:11:43,0 --> 00:11:43,0
+Lord
+
+1103
+00:11:43,0 --> 00:11:43,0
+
+
+1104
+00:11:43,0 --> 00:11:43,0
+
+
+1105
+00:11:43,0 --> 00:11:43,0
+
+
+1106
+00:11:43,0 --> 00:11:43,0
+
+
+1107
+00:11:43,0 --> 00:11:43,0
+with
+
+1108
+00:11:43,0 --> 00:11:43,0
+
+
+1109
+00:11:43,0 --> 00:11:43,0
+
+
+1110
+00:11:43,0 --> 00:11:43,0
+
+
+1111
+00:11:43,0 --> 00:11:43,0
+
+
+1112
+00:11:43,0 --> 00:11:43,0
+full
+
+1113
+00:11:43,0 --> 00:11:43,0
+
+
+1114
+00:11:43,0 --> 00:11:43,0
+
+
+1115
+00:11:43,0 --> 00:11:43,0
+
+
+1116
+00:11:43,0 --> 00:11:43,0
+
+
+1117
+00:11:43,0 --> 00:11:43,0
+
+
+1118
+00:11:43,0 --> 00:11:43,0
+
+
+1119
+00:11:43,0 --> 00:11:43,0
+
+
+1120
+00:11:43,0 --> 00:11:43,0
+purpose
+
+1121
+00:11:43,0 --> 00:11:43,0
+
+
+1122
+00:11:43,0 --> 00:11:43,0
+
+
+1123
+00:11:43,0 --> 00:11:43,0
+of
+
+1124
+00:11:43,0 --> 00:11:43,0
+
+
+1125
+00:11:43,0 --> 00:11:43,0
+
+
+1126
+00:11:43,0 --> 00:11:43,0
+
+
+1127
+00:11:43,0 --> 00:11:43,0
+
+
+1128
+00:11:43,0 --> 00:11:43,0
+
+
+1129
+00:11:43,0 --> 00:11:43,0
+
+
+1130
+00:11:43,0 --> 00:11:43,0
+heart,
+
+1131
+00:11:43,0 --> 00:11:43,0
+
+
+1132
+00:11:43,0 --> 00:11:43,0
+
+
+1133
+00:11:43,0 --> 00:11:43,0
+
+
+1134
+00:11:43,0 --> 00:11:43,0
+and
+
+1135
+00:11:43,0 --> 00:11:43,0
+
+
+1136
+00:11:43,0 --> 00:11:43,0
+
+
+1137
+00:11:43,0 --> 00:11:43,0
+
+
+1138
+00:11:43,0 --> 00:11:43,0
+put
+
+1139
+00:11:43,0 --> 00:11:43,0
+
+
+1140
+00:11:43,0 --> 00:11:43,0
+
+
+1141
+00:11:43,0 --> 00:11:43,0
+
+
+1142
+00:11:43,0 --> 00:11:43,0
+
+
+1143
+00:11:43,0 --> 00:11:43,0
+your
+
+1144
+00:11:43,0 --> 00:11:43,0
+
+
+1145
+00:11:43,0 --> 00:11:43,0
+
+
+1146
+00:11:43,0 --> 00:11:43,0
+
+
+1147
+00:11:43,0 --> 00:11:43,0
+
+
+1148
+00:11:43,0 --> 00:11:43,0
+
+
+1149
+00:11:43,0 --> 00:11:43,0
+trust
+
+1150
+00:11:43,0 --> 00:11:43,0
+
+
+1151
+00:11:43,0 --> 00:11:43,0
+
+
+1152
+00:11:43,0 --> 00:11:43,0
+in
+
+1153
+00:11:43,0 --> 00:11:43,0
+
+
+1154
+00:11:43,0 --> 00:11:43,0
+
+
+1155
+00:11:43,0 --> 00:11:43,0
+
+
+1156
+00:11:43,0 --> 00:11:43,0
+
+
+1157
+00:11:43,0 --> 00:11:43,0
+him,
+
+1158
+00:11:43,0 --> 00:11:43,0
+
+
+1159
+00:11:43,0 --> 00:11:43,0
+
+
+1160
+00:11:43,0 --> 00:11:43,0
+
+
+1161
+00:11:43,0 --> 00:11:43,0
+and
+
+1162
+00:11:43,0 --> 00:11:43,0
+
+
+1163
+00:11:43,0 --> 00:11:43,0
+
+
+1164
+00:11:43,0 --> 00:11:43,0
+
+
+1165
+00:11:43,0 --> 00:11:43,0
+
+
+1166
+00:11:43,0 --> 00:11:43,0
+
+
+1167
+00:11:43,0 --> 00:11:43,0
+serve
+
+1168
+00:11:43,0 --> 00:11:43,0
+
+
+1169
+00:11:43,0 --> 00:11:43,0
+
+
+1170
+00:11:43,0 --> 00:11:43,0
+
+
+1171
+00:11:43,0 --> 00:11:43,0
+him
+
+1172
+00:11:43,0 --> 00:11:43,0
+
+
+1173
+00:11:43,0 --> 00:11:43,0
+
+
+1174
+00:11:43,0 --> 00:11:43,0
+
+
+1175
+00:11:43,0 --> 00:11:43,0
+
+
+1176
+00:11:43,0 --> 00:11:43,0
+with
+
+1177
+00:11:43,0 --> 00:11:43,0
+
+
+1178
+00:11:43,0 --> 00:11:43,0
+
+
+1179
+00:11:43,0 --> 00:11:43,0
+
+
+1180
+00:11:43,0 --> 00:11:43,0
+all
+
+1181
+00:11:43,0 --> 00:11:43,0
+
+
+1182
+00:11:43,0 --> 00:11:43,0
+
+
+1183
+00:11:43,0 --> 00:11:43,0
+
+
+1184
+00:11:43,0 --> 00:11:43,0
+
+
+1185
+00:11:43,0 --> 00:11:43,0
+
+
+1186
+00:11:43,0 --> 00:11:43,0
+
+
+1187
+00:11:43,0 --> 00:11:43,0
+
+
+1188
+00:11:43,0 --> 00:11:43,0
+
+
+1189
+00:11:43,0 --> 00:11:43,0
+
+
+1190
+00:11:43,0 --> 00:11:43,0
+diligence
+
+1191
+00:11:43,0 --> 00:11:43,0
+
+
+1192
+00:11:43,0 --> 00:11:43,0
+
+
+1193
+00:11:43,0 --> 00:11:43,0
+of
+
+1194
+00:11:43,0 --> 00:11:43,0
+
+
+1195
+00:11:43,0 --> 00:11:43,0
+
+
+1196
+00:11:43,0 --> 00:11:43,0
+
+
+1197
+00:11:43,0 --> 00:11:43,0
+
+
+1198
+00:11:43,0 --> 00:11:43,0
+
+
+1199
+00:11:43,0 --> 00:11:43,0
+mind,
+
+1200
+00:11:43,0 --> 00:11:43,0
+
+
+1201
+00:11:43,0 --> 00:11:43,0
+
+
+1202
+00:11:43,0 --> 00:11:43,0
+if
+
+1203
+00:11:43,0 --> 00:11:43,0
+
+
+1204
+00:11:43,0 --> 00:11:43,0
+
+
+1205
+00:11:43,0 --> 00:11:43,0
+ye
+
+1206
+00:11:43,0 --> 00:11:43,0
+
+
+1207
+00:11:43,0 --> 00:11:43,0
+
+
+1208
+00:11:43,0 --> 00:11:43,0
+do
+
+1209
+00:11:43,0 --> 00:11:43,0
+
+
+1210
+00:11:43,0 --> 00:11:43,0
+
+
+1211
+00:11:43,0 --> 00:11:43,0
+
+
+1212
+00:11:43,0 --> 00:11:43,0
+
+
+1213
+00:11:43,0 --> 00:11:43,0
+
+
+1214
+00:11:43,0 --> 00:11:43,0
+this,
+
+1215
+00:11:43,0 --> 00:11:43,0
+
+
+1216
+00:11:43,0 --> 00:11:43,0
+
+
+1217
+00:11:43,0 --> 00:11:43,0
+he
+
+1218
+00:11:43,0 --> 00:11:43,0
+
+
+1219
+00:11:43,0 --> 00:11:43,0
+
+
+1220
+00:11:43,0 --> 00:11:43,0
+
+
+1221
+00:11:43,0 --> 00:11:43,0
+
+
+1222
+00:11:43,0 --> 00:11:43,0
+
+
+1223
+00:11:43,0 --> 00:11:43,0
+will,
+
+1224
+00:11:43,0 --> 00:11:43,0
+
+
+1225
+00:11:43,0 --> 00:11:43,0
+
+
+1226
+00:11:43,0 --> 00:11:43,0
+
+
+1227
+00:11:43,0 --> 00:11:43,0
+
+
+1228
+00:11:43,0 --> 00:11:43,0
+
+
+1229
+00:11:43,0 --> 00:11:43,0
+
+
+1230
+00:11:43,0 --> 00:11:43,0
+
+
+1231
+00:11:43,0 --> 00:11:43,0
+
+
+1232
+00:11:43,0 --> 00:11:43,0
+
+
+1233
+00:11:43,0 --> 00:11:43,0
+according
+
+1234
+00:11:43,0 --> 00:11:43,0
+
+
+1235
+00:11:43,0 --> 00:11:43,0
+
+
+1236
+00:11:43,0 --> 00:11:43,0
+to
+
+1237
+00:11:43,0 --> 00:11:43,0
+
+
+1238
+00:11:43,0 --> 00:11:43,0
+
+
+1239
+00:11:43,0 --> 00:11:43,0
+
+
+1240
+00:11:43,0 --> 00:11:43,0
+his
+
+1241
+00:11:43,0 --> 00:11:43,0
+
+
+1242
+00:11:43,0 --> 00:11:43,0
+
+
+1243
+00:11:43,0 --> 00:11:43,0
+
+
+1244
+00:11:43,0 --> 00:11:43,0
+own
+
+1245
+00:11:43,0 --> 00:11:43,0
+
+
+1246
+00:11:43,0 --> 00:11:43,0
+
+
+1247
+00:11:43,0 --> 00:11:43,0
+
+
+1248
+00:11:43,0 --> 00:11:43,0
+
+
+1249
+00:11:43,0 --> 00:11:43,0
+will
+
+1250
+00:11:43,0 --> 00:11:43,0
+
+
+1251
+00:11:43,0 --> 00:11:43,0
+
+
+1252
+00:11:43,0 --> 00:11:43,0
+
+
+1253
+00:11:43,0 --> 00:11:43,0
+and
+
+1254
+00:11:43,0 --> 00:11:43,0
+
+
+1255
+00:11:43,0 --> 00:11:43,0
+
+
+1256
+00:11:43,0 --> 00:11:43,0
+
+
+1257
+00:11:43,0 --> 00:11:43,0
+
+
+1258
+00:11:43,0 --> 00:11:43,0
+
+
+1259
+00:11:43,0 --> 00:11:43,0
+
+
+1260
+00:11:43,0 --> 00:11:43,0
+
+
+1261
+00:11:43,0 --> 00:11:43,0
+
+
+1262
+00:11:43,0 --> 00:11:43,0
+
+
+1263
+00:11:43,0 --> 00:11:43,0
+pleasure,
+
+1264
+00:11:43,0 --> 00:11:43,0
+
+
+1265
+00:11:43,0 --> 00:11:43,0
+
+
+1266
+00:11:43,0 --> 00:11:43,0
+
+
+1267
+00:11:43,0 --> 00:11:43,0
+
+
+1268
+00:11:43,0 --> 00:11:43,0
+
+
+1269
+00:11:43,0 --> 00:11:43,0
+
+
+1270
+00:11:43,0 --> 00:11:43,0
+
+
+1271
+00:11:43,0 --> 00:11:43,0
+deliver
+
+1272
+00:11:43,0 --> 00:11:43,0
+
+
+1273
+00:11:43,0 --> 00:11:43,0
+
+
+1274
+00:11:43,0 --> 00:11:43,0
+
+
+1275
+00:11:43,0 --> 00:11:43,0
+you
+
+1276
+00:11:43,0 --> 00:11:43,0
+
+
+1277
+00:11:43,0 --> 00:11:43,0
+
+
+1278
+00:11:43,0 --> 00:11:43,0
+
+
+1279
+00:11:43,0 --> 00:11:43,0
+out
+
+1280
+00:11:43,0 --> 00:11:43,0
+
+
+1281
+00:11:43,0 --> 00:11:43,0
+
+
+1282
+00:11:43,0 --> 00:11:43,0
+of
+
+1283
+00:11:43,0 --> 00:11:43,0
+
+
+1284
+00:11:43,0 --> 00:11:43,0
+
+
+1285
+00:11:43,0 --> 00:11:43,0
+
+
+1286
+00:11:43,0 --> 00:11:43,0
+
+
+1287
+00:11:43,0 --> 00:11:43,0
+
+
+1288
+00:11:43,0 --> 00:11:43,0
+
+
+1289
+00:11:43,0 --> 00:11:43,0
+
+
+1290
+00:11:43,0 --> 00:11:43,0
+
+
+1291
+00:11:43,0 --> 00:11:43,0
+bondage.
+
+1292
+00:11:43,0 --> 00:11:57,
+
 

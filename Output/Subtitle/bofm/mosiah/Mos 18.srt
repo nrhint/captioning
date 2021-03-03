@@ -1,684 +1,5904 @@
 1
-00:00:00,0 --> 00:00:01,167
-Chapter 18 Alma preaches in private—He sets forth
+00:00:00,0 --> 00:00:00,0
+Chapter 18 Alma preaches in private—He sets
 
 2
-00:00:01,167 --> 00:00:02,334
- the covenant of baptism and baptizes at the waters
+00:00:00,0 --> 00:00:00,0
+forth the covenant of baptism and baptizes at the
 
 3
-00:00:02,334 --> 00:00:03,501
- of Mormon—He organizes the Church of Christ and
+00:00:00,0 --> 00:00:00,0
+waters of Mormon—He organizes the Church of Christ
 
 4
-00:00:03,501 --> 00:00:04,668
- ordains priests—They support themselves and teach
+00:00:00,0 --> 00:00:00,0
+and ordains priests—They support themselves and
 
 5
-00:00:04,668 --> 00:00:05,835
- the people—Alma and his people flee from King Noah
+00:00:00,0 --> 00:00:00,0
+teach the people—Alma and his people flee from
 
 6
-00:00:05,835 --> 00:00:07,002
- into the wilderness. About 147–145 B.C.
+00:00:00,0 --> 00:06:11,
+King Noah into the wilderness. About 147–145 B.C. 
 
 7
-00:00:07,975 --> 00:00:09,575
-1 And now, it came to pass that Alma, who had fled
+00:06:11,0 --> 00:06:11,0
+1 And now, it came to pass that Alma,
 
 8
-00:00:09,575 --> 00:00:11,175
- from the servants of king Noah, repented of his
+00:06:11,0 --> 00:06:11,0
+who had fled from the servants of king
 
 9
-00:00:11,175 --> 00:00:12,775
- sins and iniquities, and went about privately among
+00:06:11,0 --> 00:06:11,0
+Noah, repented of his sins and iniquities,
 
 10
-00:00:12,775 --> 00:00:14,375
- the people, and began to teach the words of
+00:06:11,0 --> 00:06:11,0
+and went about privately among the
 
 11
-00:00:14,375 --> 00:00:15,975
- Abinadi
+00:06:11,0 --> 00:20:19,
+people, and began to teach the words of Abinadi—
 
 12
-00:00:15,949 --> 00:00:19,949
-2 Yea, concerning that which was to come, and also
+00:20:19,0 --> 00:20:19,0
+2 Yea, concerning that which was to
 
 13
-00:00:19,949 --> 00:00:23,949
- concerning the resurrection of the dead, and the
+00:20:19,0 --> 00:20:19,0
+come, and also concerning the
 
 14
-00:00:23,949 --> 00:00:27,949
- redemption of the people, which was to be brought
+00:20:19,0 --> 00:20:19,0
+resurrection of the dead, and the redemption
 
 15
-00:00:27,949 --> 00:00:31,949
- to pass through the power, and sufferings, and
+00:20:19,0 --> 00:20:19,0
+of the people, which was to be
 
 16
-00:00:31,949 --> 00:00:35,949
- death of Christ, and his resurrection and ascension
+00:20:19,0 --> 00:20:19,0
+brought to pass through the power, and
 
 17
-00:00:35,949 --> 00:00:39,949
- into heaven
+00:20:19,0 --> 00:20:19,0
+sufferings, and death of Christ, and his
 
 18
-00:00:39,873 --> 00:00:41,873
-3 And as many as would hear his word he did teach.
+00:20:19,0 --> 00:24:04,
+resurrection and ascension into heaven.
 
 19
-00:00:41,873 --> 00:00:43,873
- And he taught them privately, that it might not
+00:24:04,0 --> 00:24:04,0
+3 And as many as would hear his
 
 20
-00:00:43,873 --> 00:00:45,873
- come to the knowledge of the king. And many did
+00:24:04,0 --> 00:24:04,0
+word he did teach. And he taught
 
 21
-00:00:45,873 --> 00:00:47,873
- believe his words
+00:24:04,0 --> 00:24:04,0
+them privately, that it might not
 
 22
-00:00:47,848 --> 00:00:49,448
-4 And it came to pass that as many as did believe
+00:24:04,0 --> 00:24:04,0
+come to the knowledge of the
 
 23
-00:00:49,448 --> 00:00:51,048
- him did go forth to a place which was called
+00:24:04,0 --> 00:23:36,
+king. And many did believe his words.
 
 24
-00:00:51,048 --> 00:00:52,648
- Mormon, having received its name from the king, being
+00:23:36,0 --> 00:23:36,0
+4 And it came to pass that as
 
 25
-00:00:52,648 --> 00:00:54,248
- in the borders of the land having been infested, by
+00:23:36,0 --> 00:23:36,0
+many as did believe him did
 
 26
-00:00:54,248 --> 00:00:55,848
- times or at seasons, by wild beasts
+00:23:36,0 --> 00:23:36,0
+go forth to a place which was
 
 27
-00:00:55,822 --> 00:01:08,622
-5 Now, there was in Mormon a fountain of pure
+00:23:36,0 --> 00:23:36,0
+called Mormon, having
 
 28
-00:01:08,622 --> 00:01:21,422
- water, and Alma resorted thither, there being near the
+00:23:36,0 --> 00:23:36,0
+received its name from the king,
 
 29
-00:01:21,422 --> 00:01:34,222
- water a thicket of small trees, where he did hide
+00:23:36,0 --> 00:23:36,0
+being in the borders of the
 
 30
-00:01:34,222 --> 00:01:47,022
- himself in the daytime from the searches of the
+00:23:36,0 --> 00:23:36,0
+land having been infested, by
 
 31
-00:01:47,022 --> 00:01:59,822
- king
+00:23:36,0 --> 00:26:04,
+times or at seasons, by wild beasts.
 
 32
-00:01:59,62 --> 00:02:23,62
-6 And it came to pass that as many as believed him
+00:26:04,0 --> 00:26:04,0
+5 Now, there was in
 
 33
-00:02:23,62 --> 00:02:47,62
- went thither to hear his words
+00:26:04,0 --> 00:26:04,0
+Mormon a fountain of pure
 
 34
-00:02:47,467 --> 00:02:49,753
-7 And it came to pass after many days there were a
+00:26:04,0 --> 00:26:04,0
+water, and Alma resorted
 
 35
-00:02:49,753 --> 00:02:52,039
- goodly number gathered together at the place of
+00:26:04,0 --> 00:26:04,0
+thither, there being near the
 
 36
-00:02:52,039 --> 00:02:54,325
- Mormon, to hear the words of Alma. Yea, all were
+00:26:04,0 --> 00:26:04,0
+water a thicket of small
 
 37
-00:02:54,325 --> 00:02:56,611
- gathered together that believed on his word, to hear
+00:26:04,0 --> 00:26:04,0
+trees, where he did hide
 
 38
-00:02:56,611 --> 00:02:58,897
- him. And he did teach them, and did preach unto
+00:26:04,0 --> 00:26:04,0
+himself in the daytime
 
 39
-00:02:58,897 --> 00:03:01,183
- them repentance, and redemption, and faith on the
+00:26:04,0 --> 00:27:16,
+from the searches of the king.
 
 40
-00:03:01,183 --> 00:03:03,469
- Lord
+00:27:16,0 --> 00:27:16,0
+6 And it came to
 
 41
-00:03:03,417 --> 00:03:04,75
-8 And it came to pass that he said unto them:
+00:27:16,0 --> 00:27:16,0
+pass that as many as
 
 42
-00:03:04,75 --> 00:03:06,083
- Behold, here are the waters of Mormon (for thus were
+00:27:16,0 --> 00:27:16,0
+believed him went
 
 43
-00:03:06,083 --> 00:03:07,416
- they called) and now, as ye are desirous to come
+00:27:16,0 --> 00:26:48,
+thither to hear his words.
 
 44
-00:03:07,416 --> 00:03:08,749
- into the fold of God, and to be called his people,
+00:26:48,0 --> 00:26:48,0
+7 And it came to
 
 45
-00:03:08,749 --> 00:03:10,082
- and are willing to bear one another’s burdens, that
+00:26:48,0 --> 00:26:48,0
+pass after many days
 
 46
-00:03:10,082 --> 00:03:11,415
- they may be light
+00:26:48,0 --> 00:26:48,0
+there were a goodly
 
 47
-00:03:11,391 --> 00:03:14,82
-9 Yea, and are willing to mourn with those that
+00:26:48,0 --> 00:26:48,0
+number gathered
 
 48
-00:03:14,82 --> 00:03:18,249
- mourn; yea, and comfort those that stand in need of
+00:26:48,0 --> 00:26:48,0
+together at the place
 
 49
-00:03:18,249 --> 00:03:21,678
- comfort, and to stand as witnesses of God at all
+00:26:48,0 --> 00:26:48,0
+of Mormon, to hear
 
 50
-00:03:21,678 --> 00:03:25,107
- times and in all things, and in all places that ye
+00:26:48,0 --> 00:26:48,0
+the words of Alma.
 
 51
-00:03:25,107 --> 00:03:28,536
- may be in, even until death, that ye may be
+00:26:48,0 --> 00:26:48,0
+Yea, all were
 
 52
-00:03:28,536 --> 00:03:31,965
- redeemed of God, and be numbered with those of the first
+00:26:48,0 --> 00:26:48,0
+gathered together that
 
 53
-00:03:31,965 --> 00:03:35,394
- resurrection, that ye may have eternal life
+00:26:48,0 --> 00:26:48,0
+believed on his
 
 54
-00:03:35,315 --> 00:03:37,601
-10 Now I say unto you, if this be the desire of
+00:26:48,0 --> 00:26:48,0
+word, to hear him. And
 
 55
-00:03:37,601 --> 00:03:39,887
- your hearts, what have you against being baptized in
+00:26:48,0 --> 00:26:48,0
+he did teach them,
 
 56
-00:03:39,887 --> 00:03:42,173
- the name of the Lord, as a witness before him
+00:26:48,0 --> 00:26:48,0
+and did preach
 
 57
-00:03:42,173 --> 00:03:44,459
- that ye have entered into a covenant with him, that
+00:26:48,0 --> 00:26:48,0
+unto them repentance,
 
 58
-00:03:44,459 --> 00:03:46,745
- ye will serve him and keep his commandments, that
+00:26:48,0 --> 00:26:48,0
+and redemption, and
 
 59
-00:03:46,745 --> 00:03:49,031
- he may pour out his Spirit more abundantly upon
+00:26:48,0 --> 00:26:20,
+faith on the Lord.
 
 60
-00:03:49,031 --> 00:03:51,317
- you
+00:26:20,0 --> 00:26:20,0
+8 And it came to
 
 61
-00:03:51,264 --> 00:03:53,931
-11 And now when the people had heard these words,
+00:26:20,0 --> 00:26:20,0
+pass that he said
 
 62
-00:03:53,931 --> 00:03:56,598
- they clapped their hands for joy, and exclaimed:
+00:26:20,0 --> 00:26:20,0
+unto them:
 
 63
-00:03:56,598 --> 00:03:59,265
- This is the desire of our hearts
+00:26:20,0 --> 00:26:20,0
+Behold, here are the
 
 64
-00:03:59,239 --> 00:04:00,839
-12 And now it came to pass that Alma took Helam,
+00:26:20,0 --> 00:26:20,0
+waters of Mormon
 
 65
-00:04:00,839 --> 00:04:02,439
- he being one of the first, and went and stood forth
+00:26:20,0 --> 00:26:20,0
+(for thus were
 
 66
-00:04:02,439 --> 00:04:04,039
- in the water, and cried, saying: O Lord, pour out
+00:26:20,0 --> 00:26:20,0
+they called) and
 
 67
-00:04:04,039 --> 00:04:05,639
- thy Spirit upon thy servant, that he may do this
+00:26:20,0 --> 00:26:20,0
+now, as ye are
 
 68
-00:04:05,639 --> 00:04:07,239
- work with holiness of heart
+00:26:20,0 --> 00:26:20,0
+desirous to come into
 
 69
-00:04:07,214 --> 00:04:10,77
-13 And when he had said these words, the Spirit of
+00:26:20,0 --> 00:26:20,0
+the fold of God,
 
 70
-00:04:10,77 --> 00:04:14,326
- the Lord was upon him, and he said: Helam, I
+00:26:20,0 --> 00:26:20,0
+and to be called
 
 71
-00:04:14,326 --> 00:04:17,882
- baptize thee, having authority from the Almighty God,
+00:26:20,0 --> 00:26:20,0
+his people, and
 
 72
-00:04:17,882 --> 00:04:21,438
- as a testimony that ye have entered into a
+00:26:20,0 --> 00:26:20,0
+are willing to
 
 73
-00:04:21,438 --> 00:04:24,994
- covenant to serve him until you are dead as to the mortal
+00:26:20,0 --> 00:26:20,0
+bear one another’s
 
 74
-00:04:24,994 --> 00:04:28,55
- body; and may the Spirit of the Lord be poured
+00:26:20,0 --> 00:28:32,
+burdens, that they may be light;
 
 75
-00:04:28,55 --> 00:04:32,106
- out upon you; and may he grant unto you eternal
+00:28:32,0 --> 00:28:32,0
+9 Yea, and are
 
 76
-00:04:32,106 --> 00:04:35,662
- life, through the redemption of Christ, whom he has
+00:28:32,0 --> 00:28:32,0
+willing to mourn
 
 77
-00:04:35,662 --> 00:04:39,218
- prepared from the foundation of the world
+00:28:32,0 --> 00:28:32,0
+with those that
 
 78
-00:04:39,112 --> 00:04:41,112
-14 And after Alma had said these words, both Alma
+00:28:32,0 --> 00:28:32,0
+mourn; yea, and
 
 79
-00:04:41,112 --> 00:04:43,112
- and Helam were buried in the water; and they arose
+00:28:32,0 --> 00:28:32,0
+comfort those
 
 80
-00:04:43,112 --> 00:04:45,112
- and came forth out of the water rejoicing, being
+00:28:32,0 --> 00:28:32,0
+that stand in need
 
 81
-00:04:45,112 --> 00:04:47,112
- filled with the Spirit
+00:28:32,0 --> 00:28:32,0
+of comfort, and
 
 82
-00:04:47,087 --> 00:04:49,087
-15 And again, Alma took another, and went forth a
+00:28:32,0 --> 00:28:32,0
+to stand as
 
 83
-00:04:49,087 --> 00:04:51,087
- second time into the water, and baptized him
+00:28:32,0 --> 00:28:32,0
+witnesses of God at
 
 84
-00:04:51,087 --> 00:04:53,087
- according to the first, only he did not bury himself
+00:28:32,0 --> 00:28:32,0
+all times and
 
 85
-00:04:53,087 --> 00:04:55,087
- again in the water
+00:28:32,0 --> 00:28:32,0
+in all things,
 
 86
-00:04:55,061 --> 00:04:56,661
-16 And after this manner he did baptize every one
+00:28:32,0 --> 00:28:32,0
+and in all places
 
 87
-00:04:56,661 --> 00:04:58,261
- that went forth to the place of Mormon; and they
+00:28:32,0 --> 00:28:32,0
+that ye may be
 
 88
-00:04:58,261 --> 00:04:59,861
- were in number about two hundred and four souls;
+00:28:32,0 --> 00:28:32,0
+in, even until
 
 89
-00:04:59,861 --> 00:05:01,461
- yea, and they were baptized in the waters of Mormon,
+00:28:32,0 --> 00:28:32,0
+death, that ye may
 
 90
-00:05:01,461 --> 00:05:03,061
- and were filled with the grace of God
+00:28:32,0 --> 00:28:32,0
+be redeemed of
 
 91
-00:05:03,036 --> 00:05:05,036
-17 And they were called the church of God, or the
+00:28:32,0 --> 00:28:32,0
+God, and be
 
 92
-00:05:05,036 --> 00:05:07,036
- church of Christ, from that time forward. And it
+00:28:32,0 --> 00:28:32,0
+numbered with those
 
 93
-00:05:07,036 --> 00:05:09,036
- came to pass that whosoever was baptized by the
+00:28:32,0 --> 00:28:32,0
+of the first
 
 94
-00:05:09,036 --> 00:05:11,036
- power and authority of God was added to his church
+00:28:32,0 --> 00:28:32,0
+resurrection, that
 
 95
-00:05:11,011 --> 00:05:12,411
-18 And it came to pass that Alma, having authority
+00:28:32,0 --> 00:41:41,
+ye may have eternal life—
 
 96
-00:05:12,411 --> 00:05:13,811
- from God, ordained priests; even one priest to
+00:41:41,0 --> 00:41:41,0
+10 Now I say
 
 97
-00:05:13,811 --> 00:05:15,211
- every fifty of their number did he ordain to preach
+00:41:41,0 --> 00:41:41,0
+unto you, if this
 
 98
-00:05:15,211 --> 00:05:16,611
- unto them, and to teach them concerning the things
+00:41:41,0 --> 00:41:41,0
+be the desire
 
 99
-00:05:16,611 --> 00:05:18,011
- pertaining to the kingdom of God
+00:41:41,0 --> 00:41:41,0
+of your hearts,
 
 100
-00:05:18,985 --> 00:05:20,985
-19 And he commanded them that they should teach
+00:41:41,0 --> 00:41:41,0
+what have you
 
 101
-00:05:20,985 --> 00:05:22,985
- nothing save it were the things which he had taught,
+00:41:41,0 --> 00:41:41,0
+against being
 
 102
-00:05:22,985 --> 00:05:24,985
- and which had been spoken by the mouth of the
+00:41:41,0 --> 00:41:41,0
+baptized in the
 
 103
-00:05:24,985 --> 00:05:26,985
- holy prophets
+00:41:41,0 --> 00:41:41,0
+name of the
 
 104
-00:05:26,96 --> 00:05:29,627
-20 Yea, even he commanded them that they should
+00:41:41,0 --> 00:41:41,0
+Lord, as a witness
 
 105
-00:05:29,627 --> 00:05:32,294
- preach nothing save it were repentance and faith on
+00:41:41,0 --> 00:41:41,0
+before him
 
 106
-00:05:32,294 --> 00:05:34,961
- the Lord, who had redeemed his people
+00:41:41,0 --> 00:41:41,0
+that ye have
 
 107
-00:05:34,935 --> 00:05:36,535
-21 And he commanded them that there should be no
+00:41:41,0 --> 00:41:41,0
+entered into a
 
 108
-00:05:36,535 --> 00:05:38,135
- contention one with another, but that they should
+00:41:41,0 --> 00:41:41,0
+covenant with him,
 
 109
-00:05:38,135 --> 00:05:39,735
- look forward with one eye, having one faith and one
+00:41:41,0 --> 00:41:41,0
+that ye will
 
 110
-00:05:39,735 --> 00:05:41,335
- baptism, having their hearts knit together in
+00:41:41,0 --> 00:41:41,0
+serve him and keep
 
 111
-00:05:41,335 --> 00:05:42,935
- unity and in love one towards another
+00:41:41,0 --> 00:41:41,0
+his
 
 112
-00:05:42,909 --> 00:05:46,909
-22 And thus he commanded them to preach. And thus
+00:41:41,0 --> 00:41:41,0
+commandments, that he may
 
 113
-00:05:46,909 --> 00:05:50,909
- they became the children of God
+00:41:41,0 --> 00:41:41,0
+pour out his
 
 114
-00:05:50,884 --> 00:05:54,884
-23 And he commanded them that they should observe
+00:41:41,0 --> 00:42:53,
+Spirit more abundantly upon you?
 
 115
-00:05:54,884 --> 00:05:58,884
- the sabbath day, and keep it holy, and also every
+00:42:53,0 --> 00:42:53,0
+11 And now
 
 116
-00:05:58,884 --> 00:06:02,884
- day they should give thanks to the Lord their God
+00:42:53,0 --> 00:42:53,0
+when the people
 
 117
-00:06:02,884 --> 00:06:06,884
-
+00:42:53,0 --> 00:42:53,0
+had heard these
 
 118
-00:06:06,833 --> 00:06:09,5
-24 And he also commanded them that the priests
+00:42:53,0 --> 00:42:53,0
+words, they
 
 119
-00:06:09,5 --> 00:06:12,167
- whom he had ordained should labor with their own
+00:42:53,0 --> 00:42:53,0
+clapped their
 
 120
-00:06:12,167 --> 00:06:14,834
- hands for their support
+00:42:53,0 --> 00:42:53,0
+hands for joy,
 
 121
-00:06:14,808 --> 00:06:16,408
-25 And there was one day in every week that was
+00:42:53,0 --> 00:42:53,0
+and exclaimed:
 
 122
-00:06:16,408 --> 00:06:18,008
- set apart that they should gather themselves
+00:42:53,0 --> 00:42:53,0
+This is the
 
 123
-00:06:18,008 --> 00:06:19,608
- together to teach the people, and to worship the Lord
+00:42:53,0 --> 00:51:34,
+desire of our hearts.
 
 124
-00:06:19,608 --> 00:06:21,208
- their God, and also, as often as it was in their
+00:51:34,0 --> 00:51:34,0
+12 And now it
 
 125
-00:06:21,208 --> 00:06:22,808
- power, to assemble themselves together
+00:51:34,0 --> 00:51:34,0
+came to pass
 
 126
-00:06:22,782 --> 00:06:24,115
-26 And the priests were not to depend upon the
+00:51:34,0 --> 00:51:34,0
+that Alma
 
 127
-00:06:24,115 --> 00:06:25,448
- people for their support; but for their labor they
+00:51:34,0 --> 00:51:34,0
+took Helam, he
 
 128
-00:06:25,448 --> 00:06:26,781
- were to receive the grace of God, that they might
+00:51:34,0 --> 00:51:34,0
+being one of
 
 129
-00:06:26,781 --> 00:06:28,114
- wax strong in the Spirit, having the knowledge of
+00:51:34,0 --> 00:51:34,0
+the first,
 
 130
-00:06:28,114 --> 00:06:29,447
- God, that they might teach with power and authority
+00:51:34,0 --> 00:51:34,0
+and went and
 
 131
-00:06:29,447 --> 00:06:30,78
- from God
+00:51:34,0 --> 00:51:34,0
+stood forth in
 
 132
-00:06:30,757 --> 00:06:32,09
-27 And again Alma commanded that the people of the
+00:51:34,0 --> 00:51:34,0
+the water,
 
 133
-00:06:32,09 --> 00:06:33,423
- church should impart of their substance, every
+00:51:34,0 --> 00:51:34,0
+and cried,
 
 134
-00:06:33,423 --> 00:06:34,756
- one according to that which he had; if he have more
+00:51:34,0 --> 00:51:34,0
+saying: O Lord,
 
 135
-00:06:34,756 --> 00:06:36,089
- abundantly he should impart more abundantly; and
+00:51:34,0 --> 00:51:34,0
+pour out thy
 
 136
-00:06:36,089 --> 00:06:37,422
- of him that had but little, but little should be
+00:51:34,0 --> 00:51:34,0
+Spirit upon
 
 137
-00:06:37,422 --> 00:06:38,755
- required; and to him that had not should be given
+00:51:34,0 --> 00:51:34,0
+thy servant,
 
 138
-00:06:38,732 --> 00:06:40,732
-28 And thus they should impart of their substance
+00:51:34,0 --> 00:51:34,0
+that he may do
 
 139
-00:06:40,732 --> 00:06:42,732
- of their own free will and good desires towards
+00:51:34,0 --> 00:51:34,0
+this work
 
 140
-00:06:42,732 --> 00:06:44,732
- God, and to those priests that stood in need, yea,
+00:51:34,0 --> 00:53:18,
+with holiness of heart.
 
 141
-00:06:44,732 --> 00:06:46,732
- and to every needy, naked soul
+00:53:18,0 --> 00:53:18,0
+13 And when
 
 142
-00:06:46,706 --> 00:06:48,706
-29 And this he said unto them, having been
+00:53:18,0 --> 00:53:18,0
+he had said
 
 143
-00:06:48,706 --> 00:06:50,706
- commanded of God; and they did walk uprightly before God,
+00:53:18,0 --> 00:53:18,0
+these words,
 
 144
-00:06:50,706 --> 00:06:52,706
- imparting to one another both temporally and
+00:53:18,0 --> 00:53:18,0
+the Spirit
 
 145
-00:06:52,706 --> 00:06:54,706
- spiritually according to their needs and their wants
+00:53:18,0 --> 00:53:18,0
+of the Lord
 
 146
-00:06:54,681 --> 00:06:55,681
-30 And now it came to pass that all this was done
+00:53:18,0 --> 00:53:18,0
+was upon
 
 147
-00:06:55,681 --> 00:06:56,681
- in Mormon, yea, by the waters of Mormon, in the
+00:53:18,0 --> 00:53:18,0
+him, and he
 
 148
-00:06:56,681 --> 00:06:57,681
- forest that was near the waters of Mormon; yea, the
+00:53:18,0 --> 00:53:18,0
+said: Helam, I
 
 149
-00:06:57,681 --> 00:06:58,681
- place of Mormon, the waters of Mormon, the forest
+00:53:18,0 --> 00:53:18,0
+baptize
 
 150
-00:06:58,681 --> 00:06:59,681
- of Mormon, how beautiful are they to the eyes of
+00:53:18,0 --> 00:53:18,0
+thee, having
 
 151
-00:06:59,681 --> 00:07:00,681
- them who there came to the knowledge of their
+00:53:18,0 --> 00:53:18,0
+authority from
 
 152
-00:07:00,681 --> 00:07:01,681
- Redeemer; yea, and how blessed are they, for they shall
+00:53:18,0 --> 00:53:18,0
+the Almighty
 
 153
-00:07:01,681 --> 00:07:02,681
- sing to his praise forever
+00:53:18,0 --> 00:53:18,0
+God, as a
 
 154
-00:07:02,656 --> 00:07:05,323
-31 And these things were done in the borders of
+00:53:18,0 --> 00:53:18,0
+testimony
 
 155
-00:07:05,323 --> 00:07:07,99
- the land, that they might not come to the knowledge
+00:53:18,0 --> 00:53:18,0
+that ye have
 
 156
-00:07:07,99 --> 00:07:10,657
- of the king
+00:53:18,0 --> 00:53:18,0
+entered into a
 
 157
-00:07:10,63 --> 00:07:11,963
-32 But behold, it came to pass that the king,
+00:53:18,0 --> 00:53:18,0
+covenant to
 
 158
-00:07:11,963 --> 00:07:13,296
- having discovered a movement among the people, sent
+00:53:18,0 --> 00:53:18,0
+serve him
 
 159
-00:07:13,296 --> 00:07:14,629
- his servants to watch them. Therefore on the day
+00:53:18,0 --> 00:53:18,0
+until you are
 
 160
-00:07:14,629 --> 00:07:15,962
- that they were assembling themselves together to hear
+00:53:18,0 --> 00:53:18,0
+dead as to
 
 161
-00:07:15,962 --> 00:07:17,295
- the word of the Lord they were discovered unto
+00:53:18,0 --> 00:53:18,0
+the mortal
 
 162
-00:07:17,295 --> 00:07:18,628
- the king
+00:53:18,0 --> 00:53:18,0
+body; and may
 
 163
-00:07:18,605 --> 00:07:21,272
-33 And now the king said that Alma was stirring up
+00:53:18,0 --> 00:53:18,0
+the Spirit
 
 164
-00:07:21,272 --> 00:07:23,939
- the people to rebellion against him; therefore he
+00:53:18,0 --> 00:53:18,0
+of the Lord
 
 165
-00:07:23,939 --> 00:07:26,606
- sent his army to destroy them
+00:53:18,0 --> 00:53:18,0
+be poured
 
 166
-00:07:26,579 --> 00:07:28,579
-34 And it came to pass that Alma and the people of
+00:53:18,0 --> 00:53:18,0
+out upon you;
 
 167
-00:07:28,579 --> 00:07:30,579
- the Lord were apprised of the coming of the
+00:53:18,0 --> 00:53:18,0
+and may he
 
 168
-00:07:30,579 --> 00:07:32,579
- king’s army; therefore they took their tents and their
+00:53:18,0 --> 00:53:18,0
+grant unto
 
 169
-00:07:32,579 --> 00:07:34,579
- families and departed into the wilderness
+00:53:18,0 --> 00:53:18,0
+you eternal
 
 170
-00:07:34,554 --> 00:07:37,054
-35 And they were in number about four hundred and
+00:53:18,0 --> 00:53:18,0
+life, through
 
 171
-00:07:37,054 --> 00:07:39,554
- fifty souls.
+00:53:18,0 --> 00:53:18,0
+the
+
+172
+00:53:18,0 --> 00:53:18,0
+redemption of
+
+173
+00:53:18,0 --> 00:53:18,0
+Christ, whom he
+
+174
+00:53:18,0 --> 00:56:49,
+has prepared from the foundation of the world.
+
+175
+00:56:49,0 --> 00:56:49,0
+14 And
+
+176
+00:56:49,0 --> 00:56:49,0
+after Alma had
+
+177
+00:56:49,0 --> 00:56:49,0
+said these
+
+178
+00:56:49,0 --> 00:56:49,0
+words, both
+
+179
+00:56:49,0 --> 00:56:49,0
+Alma and
+
+180
+00:56:49,0 --> 00:56:49,0
+Helam were
+
+181
+00:56:49,0 --> 00:56:49,0
+buried in
+
+182
+00:56:49,0 --> 00:56:49,0
+the water;
+
+183
+00:56:49,0 --> 00:56:49,0
+and they
+
+184
+00:56:49,0 --> 00:56:49,0
+arose and came
+
+185
+00:56:49,0 --> 00:56:49,0
+forth out
+
+186
+00:56:49,0 --> 00:56:49,0
+of the water
+
+187
+00:56:49,0 --> 00:56:49,0
+rejoicing,
+
+188
+00:56:49,0 --> 00:56:49,0
+being
+
+189
+00:56:49,0 --> 00:56:21,
+filled with the Spirit.
+
+190
+00:56:21,0 --> 00:56:21,0
+15 And
+
+191
+00:56:21,0 --> 00:56:21,0
+again, Alma
+
+192
+00:56:21,0 --> 00:56:21,0
+took
+
+193
+00:56:21,0 --> 00:56:21,0
+another, and
+
+194
+00:56:21,0 --> 00:56:21,0
+went forth a
+
+195
+00:56:21,0 --> 00:56:21,0
+second
+
+196
+00:56:21,0 --> 00:56:21,0
+time into the
+
+197
+00:56:21,0 --> 00:56:21,0
+water,
+
+198
+00:56:21,0 --> 00:56:21,0
+and baptized
+
+199
+00:56:21,0 --> 00:56:21,0
+him
+
+200
+00:56:21,0 --> 00:56:21,0
+according to
+
+201
+00:56:21,0 --> 00:56:21,0
+the first,
+
+202
+00:56:21,0 --> 00:56:21,0
+only he did
+
+203
+00:56:21,0 --> 00:56:21,0
+not bury
+
+204
+00:56:21,0 --> 00:56:21,0
+himself
+
+205
+00:56:21,0 --> 00:57:05,
+again in the water.
+
+206
+00:57:05,0 --> 00:57:05,0
+16 And
+
+207
+00:57:05,0 --> 00:57:05,0
+after this
+
+208
+00:57:05,0 --> 00:57:05,0
+manner he
+
+209
+00:57:05,0 --> 00:57:05,0
+did
+
+210
+00:57:05,0 --> 00:57:05,0
+baptize every
+
+211
+00:57:05,0 --> 00:57:05,0
+one that
+
+212
+00:57:05,0 --> 00:57:05,0
+went
+
+213
+00:57:05,0 --> 00:57:05,0
+forth to the
+
+214
+00:57:05,0 --> 00:57:05,0
+place of
+
+215
+00:57:05,0 --> 00:57:05,0
+Mormon;
+
+216
+00:57:05,0 --> 00:57:05,0
+and they
+
+217
+00:57:05,0 --> 00:57:05,0
+were in
+
+218
+00:57:05,0 --> 00:57:05,0
+number
+
+219
+00:57:05,0 --> 00:57:05,0
+about two
+
+220
+00:57:05,0 --> 00:57:05,0
+hundred and
+
+221
+00:57:05,0 --> 00:57:05,0
+four
+
+222
+00:57:05,0 --> 00:57:05,0
+souls; yea,
+
+223
+00:57:05,0 --> 00:57:05,0
+and they
+
+224
+00:57:05,0 --> 00:57:05,0
+were
+
+225
+00:57:05,0 --> 00:57:05,0
+baptized in
+
+226
+00:57:05,0 --> 00:57:05,0
+the waters
+
+227
+00:57:05,0 --> 00:57:05,0
+of
+
+228
+00:57:05,0 --> 00:57:05,0
+Mormon, and
+
+229
+00:57:05,0 --> 00:56:37,
+were filled with the grace of God.
+
+230
+00:56:37,0 --> 00:56:37,0
+17 And
+
+231
+00:56:37,0 --> 00:56:37,0
+they were
+
+232
+00:56:37,0 --> 00:56:37,0
+called the
+
+233
+00:56:37,0 --> 00:56:37,0
+church
+
+234
+00:56:37,0 --> 00:56:37,0
+of God, or
+
+235
+00:56:37,0 --> 00:56:37,0
+the
+
+236
+00:56:37,0 --> 00:56:37,0
+church of
+
+237
+00:56:37,0 --> 00:56:37,0
+Christ, from
+
+238
+00:56:37,0 --> 00:56:37,0
+that
+
+239
+00:56:37,0 --> 00:56:37,0
+time
+
+240
+00:56:37,0 --> 00:56:37,0
+forward. And it
+
+241
+00:56:37,0 --> 00:56:37,0
+came to
+
+242
+00:56:37,0 --> 00:56:37,0
+pass that
+
+243
+00:56:37,0 --> 00:56:37,0
+whosoever
+
+244
+00:56:37,0 --> 00:56:37,0
+was
+
+245
+00:56:37,0 --> 00:56:37,0
+baptized by
+
+246
+00:56:37,0 --> 00:56:37,0
+the power
+
+247
+00:56:37,0 --> 00:56:37,0
+and
+
+248
+00:56:37,0 --> 00:56:37,0
+authority of
+
+249
+00:56:37,0 --> 00:56:37,0
+God was
+
+250
+00:56:37,0 --> 00:56:37,0
+added to
+
+251
+00:56:37,0 --> 00:56:09,
+his church.
+
+252
+00:56:09,0 --> 00:56:09,0
+18 And it
+
+253
+00:56:09,0 --> 00:56:09,0
+came to
+
+254
+00:56:09,0 --> 00:56:09,0
+pass that
+
+255
+00:56:09,0 --> 00:56:09,0
+Alma,
+
+256
+00:56:09,0 --> 00:56:09,0
+having
+
+257
+00:56:09,0 --> 00:56:09,0
+authority
+
+258
+00:56:09,0 --> 00:56:09,0
+from God,
+
+259
+00:56:09,0 --> 00:56:09,0
+ordained
+
+260
+00:56:09,0 --> 00:56:09,0
+priests;
+
+261
+00:56:09,0 --> 00:56:09,0
+even one
+
+262
+00:56:09,0 --> 00:56:09,0
+priest to
+
+263
+00:56:09,0 --> 00:56:09,0
+every
+
+264
+00:56:09,0 --> 00:56:09,0
+fifty of
+
+265
+00:56:09,0 --> 00:56:09,0
+their number
+
+266
+00:56:09,0 --> 00:56:09,0
+did he
+
+267
+00:56:09,0 --> 00:56:09,0
+ordain to
+
+268
+00:56:09,0 --> 00:56:09,0
+preach
+
+269
+00:56:09,0 --> 00:56:09,0
+unto them,
+
+270
+00:56:09,0 --> 00:56:09,0
+and to
+
+271
+00:56:09,0 --> 00:56:09,0
+teach them
+
+272
+00:56:09,0 --> 00:56:09,0
+concerning
+
+273
+00:56:09,0 --> 00:56:09,0
+the
+
+274
+00:56:09,0 --> 00:56:09,0
+things
+
+275
+00:56:09,0 --> 00:56:09,0
+pertaining to
+
+276
+00:56:09,0 --> 00:56:09,0
+the
+
+277
+00:56:09,0 --> 00:57:39,
+kingdom of God.
+
+278
+00:57:39,0 --> 00:57:39,0
+19 And
+
+279
+00:57:39,0 --> 00:57:39,0
+he
+
+280
+00:57:39,0 --> 00:57:39,0
+commanded them
+
+281
+00:57:39,0 --> 00:57:39,0
+that
+
+282
+00:57:39,0 --> 00:57:39,0
+they
+
+283
+00:57:39,0 --> 00:57:39,0
+should teach
+
+284
+00:57:39,0 --> 00:57:39,0
+nothing
+
+285
+00:57:39,0 --> 00:57:39,0
+save it
+
+286
+00:57:39,0 --> 00:57:39,0
+were the
+
+287
+00:57:39,0 --> 00:57:39,0
+things
+
+288
+00:57:39,0 --> 00:57:39,0
+which he
+
+289
+00:57:39,0 --> 00:57:39,0
+had
+
+290
+00:57:39,0 --> 00:57:39,0
+taught, and
+
+291
+00:57:39,0 --> 00:57:39,0
+which
+
+292
+00:57:39,0 --> 00:57:39,0
+had been
+
+293
+00:57:39,0 --> 00:57:39,0
+spoken
+
+294
+00:57:39,0 --> 00:57:39,0
+by the
+
+295
+00:57:39,0 --> 01:04:48,
+mouth of the holy prophets.
+
+296
+01:04:48,0 --> 01:04:48,0
+20 Yea,
+
+297
+01:04:48,0 --> 01:04:48,0
+even
+
+298
+01:04:48,0 --> 01:04:48,0
+he
+
+299
+01:04:48,0 --> 01:04:48,0
+commanded
+
+300
+01:04:48,0 --> 01:04:48,0
+them that
+
+301
+01:04:48,0 --> 01:04:48,0
+they
+
+302
+01:04:48,0 --> 01:04:48,0
+should
+
+303
+01:04:48,0 --> 01:04:48,0
+preach
+
+304
+01:04:48,0 --> 01:04:48,0
+nothing
+
+305
+01:04:48,0 --> 01:04:48,0
+save it
+
+306
+01:04:48,0 --> 01:04:48,0
+were
+
+307
+01:04:48,0 --> 01:04:48,0
+
+
+308
+01:04:48,0 --> 01:04:48,0
+repentance and
+
+309
+01:04:48,0 --> 01:04:48,0
+faith
+
+310
+01:04:48,0 --> 01:04:48,0
+on the
+
+311
+01:04:48,0 --> 01:04:48,0
+Lord,
+
+312
+01:04:48,0 --> 01:04:48,0
+who had
+
+313
+01:04:48,0 --> 01:09:17,
+redeemed his people.
+
+314
+01:09:17,0 --> 01:09:17,0
+21 And
+
+315
+01:09:17,0 --> 01:09:17,0
+he
+
+316
+01:09:17,0 --> 01:09:17,0
+
+
+317
+01:09:17,0 --> 01:09:17,0
+commanded them
+
+318
+01:09:17,0 --> 01:09:17,0
+that
+
+319
+01:09:17,0 --> 01:09:17,0
+there
+
+320
+01:09:17,0 --> 01:09:17,0
+should
+
+321
+01:09:17,0 --> 01:09:17,0
+be no
+
+322
+01:09:17,0 --> 01:09:17,0
+
+
+323
+01:09:17,0 --> 01:09:17,0
+contention
+
+324
+01:09:17,0 --> 01:09:17,0
+one
+
+325
+01:09:17,0 --> 01:09:17,0
+with
+
+326
+01:09:17,0 --> 01:09:17,0
+another,
+
+327
+01:09:17,0 --> 01:09:17,0
+but
+
+328
+01:09:17,0 --> 01:09:17,0
+that
+
+329
+01:09:17,0 --> 01:09:17,0
+they
+
+330
+01:09:17,0 --> 01:09:17,0
+should
+
+331
+01:09:17,0 --> 01:09:17,0
+look
+
+332
+01:09:17,0 --> 01:09:17,0
+forward
+
+333
+01:09:17,0 --> 01:09:17,0
+with one
+
+334
+01:09:17,0 --> 01:09:17,0
+eye,
+
+335
+01:09:17,0 --> 01:09:17,0
+having
+
+336
+01:09:17,0 --> 01:09:17,0
+one
+
+337
+01:09:17,0 --> 01:09:17,0
+faith
+
+338
+01:09:17,0 --> 01:09:17,0
+and one
+
+339
+01:09:17,0 --> 01:09:17,0
+
+
+340
+01:09:17,0 --> 01:09:17,0
+baptism,
+
+341
+01:09:17,0 --> 01:09:17,0
+having
+
+342
+01:09:17,0 --> 01:09:17,0
+their
+
+343
+01:09:17,0 --> 01:09:17,0
+hearts
+
+344
+01:09:17,0 --> 01:09:17,0
+knit
+
+345
+01:09:17,0 --> 01:09:17,0
+
+
+346
+01:09:17,0 --> 01:09:17,0
+together in
+
+347
+01:09:17,0 --> 01:19:56,
+unity and in love one towards another.
+
+348
+01:19:56,0 --> 01:19:56,0
+22
+
+349
+01:19:56,0 --> 01:19:56,0
+And
+
+350
+01:19:56,0 --> 01:19:56,0
+thus he
+
+351
+01:19:56,0 --> 01:19:56,0
+
+
+352
+01:19:56,0 --> 01:19:56,0
+commanded
+
+353
+01:19:56,0 --> 01:19:56,0
+them
+
+354
+01:19:56,0 --> 01:19:56,0
+to
+
+355
+01:19:56,0 --> 01:19:56,0
+preach.
+
+356
+01:19:56,0 --> 01:19:56,0
+And
+
+357
+01:19:56,0 --> 01:19:56,0
+thus
+
+358
+01:19:56,0 --> 01:19:56,0
+they
+
+359
+01:19:56,0 --> 01:19:56,0
+
+
+360
+01:19:56,0 --> 01:19:56,0
+became the
+
+361
+01:19:56,0 --> 01:28:38,
+children of God.
+
+362
+01:28:38,0 --> 01:28:38,0
+23
+
+363
+01:28:38,0 --> 01:28:38,0
+And he
+
+364
+01:28:38,0 --> 01:28:38,0
+
+
+365
+01:28:38,0 --> 01:28:38,0
+commanded
+
+366
+01:28:38,0 --> 01:28:38,0
+them
+
+367
+01:28:38,0 --> 01:28:38,0
+that
+
+368
+01:28:38,0 --> 01:28:38,0
+they
+
+369
+01:28:38,0 --> 01:28:38,0
+
+
+370
+01:28:38,0 --> 01:28:38,0
+should
+
+371
+01:28:38,0 --> 01:28:38,0
+observe
+
+372
+01:28:38,0 --> 01:28:38,0
+the
+
+373
+01:28:38,0 --> 01:28:38,0
+
+
+374
+01:28:38,0 --> 01:28:38,0
+sabbath
+
+375
+01:28:38,0 --> 01:28:38,0
+day, and
+
+376
+01:28:38,0 --> 01:28:38,0
+keep
+
+377
+01:28:38,0 --> 01:28:38,0
+it
+
+378
+01:28:38,0 --> 01:28:38,0
+holy,
+
+379
+01:28:38,0 --> 01:28:38,0
+and
+
+380
+01:28:38,0 --> 01:28:38,0
+also
+
+381
+01:28:38,0 --> 01:28:38,0
+every
+
+382
+01:28:38,0 --> 01:28:38,0
+day
+
+383
+01:28:38,0 --> 01:28:38,0
+they
+
+384
+01:28:38,0 --> 01:28:38,0
+should
+
+385
+01:28:38,0 --> 01:28:38,0
+give
+
+386
+01:28:38,0 --> 01:28:38,0
+
+
+387
+01:28:38,0 --> 01:28:38,0
+thanks to
+
+388
+01:28:38,0 --> 01:28:38,0
+the
+
+389
+01:28:38,0 --> 01:28:38,0
+Lord
+
+390
+01:28:38,0 --> 01:28:38,0
+their
+
+391
+01:28:38,0 --> 01:34:48,
+God.
+
+392
+01:34:48,0 --> 01:34:48,0
+24
+
+393
+01:34:48,0 --> 01:34:48,0
+And he
+
+394
+01:34:48,0 --> 01:34:48,0
+also
+
+395
+01:34:48,0 --> 01:34:48,0
+
+
+396
+01:34:48,0 --> 01:34:48,0
+commanded
+
+397
+01:34:48,0 --> 01:34:48,0
+them
+
+398
+01:34:48,0 --> 01:34:48,0
+that
+
+399
+01:34:48,0 --> 01:34:48,0
+the
+
+400
+01:34:48,0 --> 01:34:48,0
+
+
+401
+01:34:48,0 --> 01:34:48,0
+priests
+
+402
+01:34:48,0 --> 01:34:48,0
+whom he
+
+403
+01:34:48,0 --> 01:34:48,0
+had
+
+404
+01:34:48,0 --> 01:34:48,0
+
+
+405
+01:34:48,0 --> 01:34:48,0
+ordained
+
+406
+01:34:48,0 --> 01:34:48,0
+should
+
+407
+01:34:48,0 --> 01:34:48,0
+labor
+
+408
+01:34:48,0 --> 01:34:48,0
+with
+
+409
+01:34:48,0 --> 01:34:48,0
+
+
+410
+01:34:48,0 --> 01:34:48,0
+their own
+
+411
+01:34:48,0 --> 01:34:48,0
+
+
+412
+01:34:48,0 --> 01:34:48,0
+hands for
+
+413
+01:34:48,0 --> 01:34:48,0
+
+
+414
+01:34:48,0 --> 01:34:48,0
+their
+
+415
+01:34:48,0 --> 01:34:20,
+support.
+
+416
+01:34:20,0 --> 01:34:20,0
+25
+
+417
+01:34:20,0 --> 01:34:20,0
+And
+
+418
+01:34:20,0 --> 01:34:20,0
+there
+
+419
+01:34:20,0 --> 01:34:20,0
+was one
+
+420
+01:34:20,0 --> 01:34:20,0
+day
+
+421
+01:34:20,0 --> 01:34:20,0
+in
+
+422
+01:34:20,0 --> 01:34:20,0
+every
+
+423
+01:34:20,0 --> 01:34:20,0
+week
+
+424
+01:34:20,0 --> 01:34:20,0
+that
+
+425
+01:34:20,0 --> 01:34:20,0
+was
+
+426
+01:34:20,0 --> 01:34:20,0
+set
+
+427
+01:34:20,0 --> 01:34:20,0
+apart
+
+428
+01:34:20,0 --> 01:34:20,0
+that
+
+429
+01:34:20,0 --> 01:34:20,0
+they
+
+430
+01:34:20,0 --> 01:34:20,0
+should
+
+431
+01:34:20,0 --> 01:34:20,0
+
+
+432
+01:34:20,0 --> 01:34:20,0
+gather
+
+433
+01:34:20,0 --> 01:34:20,0
+
+
+434
+01:34:20,0 --> 01:34:20,0
+themselves
+
+435
+01:34:20,0 --> 01:34:20,0
+
+
+436
+01:34:20,0 --> 01:34:20,0
+together to
+
+437
+01:34:20,0 --> 01:34:20,0
+teach
+
+438
+01:34:20,0 --> 01:34:20,0
+the
+
+439
+01:34:20,0 --> 01:34:20,0
+
+
+440
+01:34:20,0 --> 01:34:20,0
+people,
+
+441
+01:34:20,0 --> 01:34:20,0
+and to
+
+442
+01:34:20,0 --> 01:34:20,0
+
+
+443
+01:34:20,0 --> 01:34:20,0
+worship
+
+444
+01:34:20,0 --> 01:34:20,0
+the
+
+445
+01:34:20,0 --> 01:34:20,0
+Lord
+
+446
+01:34:20,0 --> 01:34:20,0
+their
+
+447
+01:34:20,0 --> 01:34:20,0
+God,
+
+448
+01:34:20,0 --> 01:34:20,0
+and
+
+449
+01:34:20,0 --> 01:34:20,0
+also, as
+
+450
+01:34:20,0 --> 01:34:20,0
+
+
+451
+01:34:20,0 --> 01:34:20,0
+often as
+
+452
+01:34:20,0 --> 01:34:20,0
+it
+
+453
+01:34:20,0 --> 01:34:20,0
+was in
+
+454
+01:34:20,0 --> 01:34:20,0
+their
+
+455
+01:34:20,0 --> 01:34:20,0
+
+
+456
+01:34:20,0 --> 01:34:20,0
+power, to
+
+457
+01:34:20,0 --> 01:34:20,0
+
+
+458
+01:34:20,0 --> 01:34:20,0
+assemble
+
+459
+01:34:20,0 --> 01:34:20,0
+
+
+460
+01:34:20,0 --> 01:34:20,0
+themselves
+
+461
+01:34:20,0 --> 01:34:20,0
+
+
+462
+01:34:20,0 --> 01:41:50,
+together.
+
+463
+01:41:50,0 --> 01:41:50,0
+26
+
+464
+01:41:50,0 --> 01:41:50,0
+And
+
+465
+01:41:50,0 --> 01:41:50,0
+the
+
+466
+01:41:50,0 --> 01:41:50,0
+
+
+467
+01:41:50,0 --> 01:41:50,0
+priests
+
+468
+01:41:50,0 --> 01:41:50,0
+were
+
+469
+01:41:50,0 --> 01:41:50,0
+not
+
+470
+01:41:50,0 --> 01:41:50,0
+to
+
+471
+01:41:50,0 --> 01:41:50,0
+
+
+472
+01:41:50,0 --> 01:41:50,0
+depend
+
+473
+01:41:50,0 --> 01:41:50,0
+upon
+
+474
+01:41:50,0 --> 01:41:50,0
+the
+
+475
+01:41:50,0 --> 01:41:50,0
+
+
+476
+01:41:50,0 --> 01:41:50,0
+people
+
+477
+01:41:50,0 --> 01:41:50,0
+for
+
+478
+01:41:50,0 --> 01:41:50,0
+their
+
+479
+01:41:50,0 --> 01:41:50,0
+
+
+480
+01:41:50,0 --> 01:41:50,0
+support;
+
+481
+01:41:50,0 --> 01:41:50,0
+but
+
+482
+01:41:50,0 --> 01:41:50,0
+for
+
+483
+01:41:50,0 --> 01:41:50,0
+
+
+484
+01:41:50,0 --> 01:41:50,0
+their
+
+485
+01:41:50,0 --> 01:41:50,0
+labor
+
+486
+01:41:50,0 --> 01:41:50,0
+
+
+487
+01:41:50,0 --> 01:41:50,0
+they
+
+488
+01:41:50,0 --> 01:41:50,0
+were
+
+489
+01:41:50,0 --> 01:41:50,0
+to
+
+490
+01:41:50,0 --> 01:41:50,0
+
+
+491
+01:41:50,0 --> 01:41:50,0
+receive
+
+492
+01:41:50,0 --> 01:41:50,0
+the
+
+493
+01:41:50,0 --> 01:41:50,0
+grace
+
+494
+01:41:50,0 --> 01:41:50,0
+of
+
+495
+01:41:50,0 --> 01:41:50,0
+God,
+
+496
+01:41:50,0 --> 01:41:50,0
+that
+
+497
+01:41:50,0 --> 01:41:50,0
+
+
+498
+01:41:50,0 --> 01:41:50,0
+they
+
+499
+01:41:50,0 --> 01:41:50,0
+might
+
+500
+01:41:50,0 --> 01:41:50,0
+wax
+
+501
+01:41:50,0 --> 01:41:50,0
+
+
+502
+01:41:50,0 --> 01:41:50,0
+strong
+
+503
+01:41:50,0 --> 01:41:50,0
+in
+
+504
+01:41:50,0 --> 01:41:50,0
+the
+
+505
+01:41:50,0 --> 01:41:50,0
+
+
+506
+01:41:50,0 --> 01:41:50,0
+Spirit,
+
+507
+01:41:50,0 --> 01:41:50,0
+having
+
+508
+01:41:50,0 --> 01:41:50,0
+the
+
+509
+01:41:50,0 --> 01:41:50,0
+
+
+510
+01:41:50,0 --> 01:41:50,0
+
+
+511
+01:41:50,0 --> 01:41:50,0
+knowledge
+
+512
+01:41:50,0 --> 01:41:50,0
+of
+
+513
+01:41:50,0 --> 01:41:50,0
+God,
+
+514
+01:41:50,0 --> 01:45:49,
+that they might teach with power and authority from God.
+
+515
+01:45:49,0 --> 01:45:49,0
+27
+
+516
+01:45:49,0 --> 01:45:49,0
+And
+
+517
+01:45:49,0 --> 01:45:49,0
+
+
+518
+01:45:49,0 --> 01:45:49,0
+again
+
+519
+01:45:49,0 --> 01:45:49,0
+
+
+520
+01:45:49,0 --> 01:45:49,0
+Alma
+
+521
+01:45:49,0 --> 01:45:49,0
+
+
+522
+01:45:49,0 --> 01:45:49,0
+
+
+523
+01:45:49,0 --> 01:45:49,0
+commanded
+
+524
+01:45:49,0 --> 01:45:49,0
+
+
+525
+01:45:49,0 --> 01:45:49,0
+that
+
+526
+01:45:49,0 --> 01:45:49,0
+the
+
+527
+01:45:49,0 --> 01:45:49,0
+
+
+528
+01:45:49,0 --> 01:45:49,0
+
+
+529
+01:45:49,0 --> 01:45:49,0
+people
+
+530
+01:45:49,0 --> 01:45:49,0
+of
+
+531
+01:45:49,0 --> 01:45:49,0
+the
+
+532
+01:45:49,0 --> 01:45:49,0
+
+
+533
+01:45:49,0 --> 01:45:49,0
+church
+
+534
+01:45:49,0 --> 01:45:49,0
+
+
+535
+01:45:49,0 --> 01:45:49,0
+
+
+536
+01:45:49,0 --> 01:45:49,0
+should
+
+537
+01:45:49,0 --> 01:45:49,0
+
+
+538
+01:45:49,0 --> 01:45:49,0
+impart
+
+539
+01:45:49,0 --> 01:45:49,0
+of
+
+540
+01:45:49,0 --> 01:45:49,0
+
+
+541
+01:45:49,0 --> 01:45:49,0
+their
+
+542
+01:45:49,0 --> 01:45:49,0
+
+
+543
+01:45:49,0 --> 01:45:49,0
+
+
+544
+01:45:49,0 --> 01:45:49,0
+
+
+545
+01:45:49,0 --> 01:45:49,0
+substance,
+
+546
+01:45:49,0 --> 01:45:49,0
+
+
+547
+01:45:49,0 --> 01:45:49,0
+every
+
+548
+01:45:49,0 --> 01:45:49,0
+one
+
+549
+01:45:49,0 --> 01:45:49,0
+
+
+550
+01:45:49,0 --> 01:45:49,0
+
+
+551
+01:45:49,0 --> 01:45:49,0
+according
+
+552
+01:45:49,0 --> 01:45:49,0
+to
+
+553
+01:45:49,0 --> 01:45:49,0
+
+
+554
+01:45:49,0 --> 01:45:49,0
+that
+
+555
+01:45:49,0 --> 01:45:49,0
+
+
+556
+01:45:49,0 --> 01:45:49,0
+which
+
+557
+01:45:49,0 --> 01:45:49,0
+he
+
+558
+01:45:49,0 --> 01:45:49,0
+
+
+559
+01:45:49,0 --> 01:45:49,0
+had;
+
+560
+01:45:49,0 --> 01:45:49,0
+if
+
+561
+01:45:49,0 --> 01:45:49,0
+he
+
+562
+01:45:49,0 --> 01:45:49,0
+have
+
+563
+01:45:49,0 --> 01:45:49,0
+
+
+564
+01:45:49,0 --> 01:45:49,0
+more
+
+565
+01:45:49,0 --> 01:45:49,0
+
+
+566
+01:45:49,0 --> 01:45:49,0
+
+
+567
+01:45:49,0 --> 01:45:49,0
+
+
+568
+01:45:49,0 --> 01:45:49,0
+abundantly
+
+569
+01:45:49,0 --> 01:45:49,0
+he
+
+570
+01:45:49,0 --> 01:45:49,0
+
+
+571
+01:45:49,0 --> 01:45:49,0
+should
+
+572
+01:45:49,0 --> 01:45:49,0
+
+
+573
+01:45:49,0 --> 01:45:49,0
+impart
+
+574
+01:45:49,0 --> 01:45:49,0
+
+
+575
+01:45:49,0 --> 01:45:49,0
+more
+
+576
+01:45:49,0 --> 01:45:49,0
+
+
+577
+01:45:49,0 --> 01:45:49,0
+
+
+578
+01:45:49,0 --> 01:45:49,0
+
+
+579
+01:45:49,0 --> 01:45:49,0
+abundantly;
+
+580
+01:45:49,0 --> 01:45:49,0
+and
+
+581
+01:45:49,0 --> 01:45:49,0
+of
+
+582
+01:45:49,0 --> 01:45:49,0
+
+
+583
+01:45:49,0 --> 01:45:49,0
+him
+
+584
+01:45:49,0 --> 01:45:49,0
+that
+
+585
+01:45:49,0 --> 01:45:49,0
+
+
+586
+01:45:49,0 --> 01:45:49,0
+had
+
+587
+01:45:49,0 --> 01:45:49,0
+but
+
+588
+01:45:49,0 --> 01:45:49,0
+
+
+589
+01:45:49,0 --> 02:04:55,
+little, but little should be required; and to him that had not should be given.
+
+590
+02:04:55,0 --> 02:04:55,0
+28
+
+591
+02:04:55,0 --> 02:04:55,0
+And
+
+592
+02:04:55,0 --> 02:04:55,0
+
+
+593
+02:04:55,0 --> 02:04:55,0
+thus
+
+594
+02:04:55,0 --> 02:04:55,0
+
+
+595
+02:04:55,0 --> 02:04:55,0
+they
+
+596
+02:04:55,0 --> 02:04:55,0
+
+
+597
+02:04:55,0 --> 02:04:55,0
+should
+
+598
+02:04:55,0 --> 02:04:55,0
+
+
+599
+02:04:55,0 --> 02:04:55,0
+impart
+
+600
+02:04:55,0 --> 02:04:55,0
+of
+
+601
+02:04:55,0 --> 02:04:55,0
+
+
+602
+02:04:55,0 --> 02:04:55,0
+their
+
+603
+02:04:55,0 --> 02:04:55,0
+
+
+604
+02:04:55,0 --> 02:04:55,0
+
+
+605
+02:04:55,0 --> 02:04:55,0
+
+
+606
+02:04:55,0 --> 02:04:55,0
+substance
+
+607
+02:04:55,0 --> 02:04:55,0
+of
+
+608
+02:04:55,0 --> 02:04:55,0
+
+
+609
+02:04:55,0 --> 02:04:55,0
+their
+
+610
+02:04:55,0 --> 02:04:55,0
+own
+
+611
+02:04:55,0 --> 02:04:55,0
+
+
+612
+02:04:55,0 --> 02:04:55,0
+free
+
+613
+02:04:55,0 --> 02:04:55,0
+will
+
+614
+02:04:55,0 --> 02:04:55,0
+
+
+615
+02:04:55,0 --> 02:04:55,0
+and
+
+616
+02:04:55,0 --> 02:04:55,0
+good
+
+617
+02:04:55,0 --> 02:04:55,0
+
+
+618
+02:04:55,0 --> 02:04:55,0
+
+
+619
+02:04:55,0 --> 02:04:55,0
+desires
+
+620
+02:04:55,0 --> 02:04:55,0
+
+
+621
+02:04:55,0 --> 02:04:55,0
+
+
+622
+02:04:55,0 --> 02:04:55,0
+towards
+
+623
+02:04:55,0 --> 02:04:55,0
+God,
+
+624
+02:04:55,0 --> 02:04:55,0
+
+
+625
+02:04:55,0 --> 02:04:55,0
+and
+
+626
+02:04:55,0 --> 02:04:55,0
+to
+
+627
+02:04:55,0 --> 02:04:55,0
+
+
+628
+02:04:55,0 --> 02:04:55,0
+those
+
+629
+02:04:55,0 --> 02:04:55,0
+
+
+630
+02:04:55,0 --> 02:04:55,0
+priests
+
+631
+02:04:55,0 --> 02:04:55,0
+
+
+632
+02:04:55,0 --> 02:04:55,0
+that
+
+633
+02:04:55,0 --> 02:04:55,0
+
+
+634
+02:04:55,0 --> 02:04:55,0
+stood
+
+635
+02:04:55,0 --> 02:04:55,0
+in
+
+636
+02:04:55,0 --> 02:04:55,0
+
+
+637
+02:04:55,0 --> 02:04:55,0
+need,
+
+638
+02:04:55,0 --> 02:04:55,0
+
+
+639
+02:04:55,0 --> 02:04:55,0
+yea,
+
+640
+02:04:55,0 --> 02:04:55,0
+and
+
+641
+02:04:55,0 --> 02:04:55,0
+to
+
+642
+02:04:55,0 --> 02:04:55,0
+
+
+643
+02:04:55,0 --> 02:04:55,0
+every
+
+644
+02:04:55,0 --> 02:04:55,0
+
+
+645
+02:04:55,0 --> 02:04:55,0
+needy,
+
+646
+02:04:55,0 --> 02:04:55,0
+
+
+647
+02:04:55,0 --> 02:04:55,0
+naked
+
+648
+02:04:55,0 --> 02:04:55,0
+
+
+649
+02:04:55,0 --> 02:06:07,
+soul.
+
+650
+02:06:07,0 --> 02:06:07,0
+29
+
+651
+02:06:07,0 --> 02:06:07,0
+
+
+652
+02:06:07,0 --> 02:06:07,0
+And
+
+653
+02:06:07,0 --> 02:06:07,0
+
+
+654
+02:06:07,0 --> 02:06:07,0
+
+
+655
+02:06:07,0 --> 02:06:07,0
+this
+
+656
+02:06:07,0 --> 02:06:07,0
+he
+
+657
+02:06:07,0 --> 02:06:07,0
+
+
+658
+02:06:07,0 --> 02:06:07,0
+
+
+659
+02:06:07,0 --> 02:06:07,0
+said
+
+660
+02:06:07,0 --> 02:06:07,0
+
+
+661
+02:06:07,0 --> 02:06:07,0
+unto
+
+662
+02:06:07,0 --> 02:06:07,0
+
+
+663
+02:06:07,0 --> 02:06:07,0
+
+
+664
+02:06:07,0 --> 02:06:07,0
+them,
+
+665
+02:06:07,0 --> 02:06:07,0
+
+
+666
+02:06:07,0 --> 02:06:07,0
+
+
+667
+02:06:07,0 --> 02:06:07,0
+
+
+668
+02:06:07,0 --> 02:06:07,0
+having
+
+669
+02:06:07,0 --> 02:06:07,0
+
+
+670
+02:06:07,0 --> 02:06:07,0
+been
+
+671
+02:06:07,0 --> 02:06:07,0
+
+
+672
+02:06:07,0 --> 02:06:07,0
+
+
+673
+02:06:07,0 --> 02:06:07,0
+
+
+674
+02:06:07,0 --> 02:06:07,0
+
+
+675
+02:06:07,0 --> 02:06:07,0
+commanded
+
+676
+02:06:07,0 --> 02:06:07,0
+
+
+677
+02:06:07,0 --> 02:06:07,0
+of
+
+678
+02:06:07,0 --> 02:06:07,0
+
+
+679
+02:06:07,0 --> 02:06:07,0
+God;
+
+680
+02:06:07,0 --> 02:06:07,0
+
+
+681
+02:06:07,0 --> 02:06:07,0
+and
+
+682
+02:06:07,0 --> 02:06:07,0
+
+
+683
+02:06:07,0 --> 02:06:07,0
+
+
+684
+02:06:07,0 --> 02:06:07,0
+they
+
+685
+02:06:07,0 --> 02:06:07,0
+
+
+686
+02:06:07,0 --> 02:06:07,0
+did
+
+687
+02:06:07,0 --> 02:06:07,0
+
+
+688
+02:06:07,0 --> 02:06:07,0
+walk
+
+689
+02:06:07,0 --> 02:06:07,0
+
+
+690
+02:06:07,0 --> 02:06:07,0
+
+
+691
+02:06:07,0 --> 02:06:07,0
+
+
+692
+02:06:07,0 --> 02:06:07,0
+
+
+693
+02:06:07,0 --> 02:06:07,0
+uprightly
+
+694
+02:06:07,0 --> 02:06:07,0
+
+
+695
+02:06:07,0 --> 02:06:07,0
+
+
+696
+02:06:07,0 --> 02:06:07,0
+
+
+697
+02:06:07,0 --> 02:06:07,0
+before
+
+698
+02:06:07,0 --> 02:06:07,0
+
+
+699
+02:06:07,0 --> 02:06:07,0
+God,
+
+700
+02:06:07,0 --> 02:06:07,0
+
+
+701
+02:06:07,0 --> 02:06:07,0
+
+
+702
+02:06:07,0 --> 02:06:07,0
+
+
+703
+02:06:07,0 --> 02:06:07,0
+
+
+704
+02:06:07,0 --> 02:06:07,0
+imparting
+
+705
+02:06:07,0 --> 02:06:07,0
+
+
+706
+02:06:07,0 --> 02:06:07,0
+to
+
+707
+02:06:07,0 --> 02:06:07,0
+
+
+708
+02:06:07,0 --> 02:06:07,0
+one
+
+709
+02:06:07,0 --> 02:06:07,0
+
+
+710
+02:06:07,0 --> 02:06:07,0
+
+
+711
+02:06:07,0 --> 02:06:07,0
+
+
+712
+02:06:07,0 --> 02:06:07,0
+another
+
+713
+02:06:07,0 --> 02:06:07,0
+
+
+714
+02:06:07,0 --> 02:06:07,0
+both
+
+715
+02:06:07,0 --> 02:06:07,0
+
+
+716
+02:06:07,0 --> 02:09:52,
+temporally and spiritually according to their needs and their wants.
+
+717
+02:09:52,0 --> 02:09:52,0
+30
+
+718
+02:09:52,0 --> 02:09:52,0
+
+
+719
+02:09:52,0 --> 02:09:52,0
+And
+
+720
+02:09:52,0 --> 02:09:52,0
+
+
+721
+02:09:52,0 --> 02:09:52,0
+now
+
+722
+02:09:52,0 --> 02:09:52,0
+
+
+723
+02:09:52,0 --> 02:09:52,0
+it
+
+724
+02:09:52,0 --> 02:09:52,0
+
+
+725
+02:09:52,0 --> 02:09:52,0
+came
+
+726
+02:09:52,0 --> 02:09:52,0
+
+
+727
+02:09:52,0 --> 02:09:52,0
+to
+
+728
+02:09:52,0 --> 02:09:52,0
+
+
+729
+02:09:52,0 --> 02:09:52,0
+pass
+
+730
+02:09:52,0 --> 02:09:52,0
+
+
+731
+02:09:52,0 --> 02:09:52,0
+
+
+732
+02:09:52,0 --> 02:09:52,0
+that
+
+733
+02:09:52,0 --> 02:09:52,0
+
+
+734
+02:09:52,0 --> 02:09:52,0
+all
+
+735
+02:09:52,0 --> 02:09:52,0
+
+
+736
+02:09:52,0 --> 02:09:52,0
+this
+
+737
+02:09:52,0 --> 02:09:52,0
+
+
+738
+02:09:52,0 --> 02:09:52,0
+was
+
+739
+02:09:52,0 --> 02:09:52,0
+
+
+740
+02:09:52,0 --> 02:09:52,0
+
+
+741
+02:09:52,0 --> 02:09:52,0
+done
+
+742
+02:09:52,0 --> 02:09:52,0
+in
+
+743
+02:09:52,0 --> 02:09:52,0
+
+
+744
+02:09:52,0 --> 02:09:52,0
+
+
+745
+02:09:52,0 --> 02:09:52,0
+
+
+746
+02:09:52,0 --> 02:09:52,0
+Mormon,
+
+747
+02:09:52,0 --> 02:09:52,0
+
+
+748
+02:09:52,0 --> 02:09:52,0
+
+
+749
+02:09:52,0 --> 02:09:52,0
+yea,
+
+750
+02:09:52,0 --> 02:09:52,0
+by
+
+751
+02:09:52,0 --> 02:09:52,0
+
+
+752
+02:09:52,0 --> 02:09:52,0
+the
+
+753
+02:09:52,0 --> 02:09:52,0
+
+
+754
+02:09:52,0 --> 02:09:52,0
+
+
+755
+02:09:52,0 --> 02:09:52,0
+
+
+756
+02:09:52,0 --> 02:09:52,0
+waters
+
+757
+02:09:52,0 --> 02:09:52,0
+of
+
+758
+02:09:52,0 --> 02:09:52,0
+
+
+759
+02:09:52,0 --> 02:09:52,0
+
+
+760
+02:09:52,0 --> 02:09:52,0
+
+
+761
+02:09:52,0 --> 02:09:52,0
+Mormon,
+
+762
+02:09:52,0 --> 02:09:52,0
+
+
+763
+02:09:52,0 --> 02:09:52,0
+in
+
+764
+02:09:52,0 --> 02:09:52,0
+
+
+765
+02:09:52,0 --> 02:09:52,0
+the
+
+766
+02:09:52,0 --> 02:09:52,0
+
+
+767
+02:09:52,0 --> 02:09:52,0
+
+
+768
+02:09:52,0 --> 02:09:52,0
+forest
+
+769
+02:09:52,0 --> 02:09:52,0
+
+
+770
+02:09:52,0 --> 02:09:52,0
+
+
+771
+02:09:52,0 --> 02:09:52,0
+that
+
+772
+02:09:52,0 --> 02:09:52,0
+
+
+773
+02:09:52,0 --> 02:09:52,0
+was
+
+774
+02:09:52,0 --> 02:09:52,0
+
+
+775
+02:09:52,0 --> 02:09:52,0
+near
+
+776
+02:09:52,0 --> 02:09:52,0
+
+
+777
+02:09:52,0 --> 02:09:52,0
+the
+
+778
+02:09:52,0 --> 02:09:52,0
+
+
+779
+02:09:52,0 --> 02:09:52,0
+
+
+780
+02:09:52,0 --> 02:09:52,0
+
+
+781
+02:09:52,0 --> 02:09:52,0
+waters
+
+782
+02:09:52,0 --> 02:09:52,0
+of
+
+783
+02:09:52,0 --> 02:09:52,0
+
+
+784
+02:09:52,0 --> 02:09:52,0
+
+
+785
+02:09:52,0 --> 02:09:52,0
+
+
+786
+02:09:52,0 --> 02:09:52,0
+Mormon;
+
+787
+02:09:52,0 --> 02:09:52,0
+
+
+788
+02:09:52,0 --> 02:09:52,0
+
+
+789
+02:09:52,0 --> 02:09:52,0
+yea,
+
+790
+02:09:52,0 --> 02:09:52,0
+
+
+791
+02:09:52,0 --> 02:09:52,0
+the
+
+792
+02:09:52,0 --> 02:09:52,0
+
+
+793
+02:09:52,0 --> 02:09:52,0
+
+
+794
+02:09:52,0 --> 02:09:52,0
+place
+
+795
+02:09:52,0 --> 02:09:52,0
+of
+
+796
+02:09:52,0 --> 02:09:52,0
+
+
+797
+02:09:52,0 --> 02:09:52,0
+
+
+798
+02:09:52,0 --> 02:09:52,0
+
+
+799
+02:09:52,0 --> 02:09:52,0
+Mormon,
+
+800
+02:09:52,0 --> 02:09:52,0
+
+
+801
+02:09:52,0 --> 02:09:52,0
+the
+
+802
+02:09:52,0 --> 02:09:52,0
+
+
+803
+02:09:52,0 --> 02:09:52,0
+
+
+804
+02:09:52,0 --> 02:09:52,0
+
+
+805
+02:09:52,0 --> 02:09:52,0
+waters
+
+806
+02:09:52,0 --> 02:09:52,0
+of
+
+807
+02:09:52,0 --> 02:09:52,0
+
+
+808
+02:09:52,0 --> 02:09:52,0
+
+
+809
+02:09:52,0 --> 02:09:52,0
+
+
+810
+02:09:52,0 --> 02:09:52,0
+Mormon,
+
+811
+02:09:52,0 --> 02:09:52,0
+
+
+812
+02:09:52,0 --> 02:09:52,0
+the
+
+813
+02:09:52,0 --> 02:09:52,0
+
+
+814
+02:09:52,0 --> 02:09:52,0
+
+
+815
+02:09:52,0 --> 02:09:52,0
+
+
+816
+02:09:52,0 --> 02:09:52,0
+forest
+
+817
+02:09:52,0 --> 02:09:52,0
+of
+
+818
+02:09:52,0 --> 02:09:52,0
+
+
+819
+02:09:52,0 --> 02:09:52,0
+
+
+820
+02:09:52,0 --> 02:09:52,0
+
+
+821
+02:09:52,0 --> 02:09:52,0
+Mormon,
+
+822
+02:09:52,0 --> 02:09:52,0
+
+
+823
+02:09:52,0 --> 02:09:52,0
+how
+
+824
+02:09:52,0 --> 02:09:52,0
+
+
+825
+02:09:52,0 --> 02:09:52,0
+
+
+826
+02:09:52,0 --> 02:09:52,0
+
+
+827
+02:09:52,0 --> 02:09:52,0
+
+
+828
+02:09:52,0 --> 02:09:52,0
+beautiful
+
+829
+02:09:52,0 --> 02:09:52,0
+
+
+830
+02:09:52,0 --> 02:09:52,0
+are
+
+831
+02:09:52,0 --> 02:09:52,0
+
+
+832
+02:09:52,0 --> 02:09:52,0
+
+
+833
+02:09:52,0 --> 02:09:52,0
+they
+
+834
+02:09:52,0 --> 02:09:52,0
+to
+
+835
+02:09:52,0 --> 02:09:52,0
+
+
+836
+02:09:52,0 --> 02:09:52,0
+the
+
+837
+02:09:52,0 --> 02:09:52,0
+
+
+838
+02:09:52,0 --> 02:09:52,0
+
+
+839
+02:09:52,0 --> 02:09:52,0
+eyes
+
+840
+02:09:52,0 --> 02:09:52,0
+of
+
+841
+02:09:52,0 --> 02:09:52,0
+
+
+842
+02:09:52,0 --> 02:09:52,0
+
+
+843
+02:09:52,0 --> 02:09:52,0
+them
+
+844
+02:09:52,0 --> 02:09:52,0
+
+
+845
+02:09:52,0 --> 02:09:52,0
+who
+
+846
+02:09:52,0 --> 02:09:52,0
+
+
+847
+02:09:52,0 --> 02:09:52,0
+
+
+848
+02:09:52,0 --> 02:09:52,0
+there
+
+849
+02:09:52,0 --> 02:09:52,0
+
+
+850
+02:09:52,0 --> 02:09:52,0
+came
+
+851
+02:09:52,0 --> 02:09:52,0
+
+
+852
+02:09:52,0 --> 02:09:52,0
+to
+
+853
+02:09:52,0 --> 02:09:52,0
+
+
+854
+02:09:52,0 --> 02:09:52,0
+the
+
+855
+02:09:52,0 --> 02:09:52,0
+
+
+856
+02:09:52,0 --> 02:09:52,0
+
+
+857
+02:09:52,0 --> 02:09:52,0
+
+
+858
+02:09:52,0 --> 02:09:52,0
+
+
+859
+02:09:52,0 --> 02:09:52,0
+knowledge
+
+860
+02:09:52,0 --> 02:09:52,0
+of
+
+861
+02:09:52,0 --> 02:09:52,0
+
+
+862
+02:09:52,0 --> 02:09:52,0
+
+
+863
+02:09:52,0 --> 02:09:52,0
+their
+
+864
+02:09:52,0 --> 02:09:52,0
+
+
+865
+02:09:52,0 --> 02:09:52,0
+
+
+866
+02:09:52,0 --> 02:09:52,0
+
+
+867
+02:09:52,0 --> 02:09:52,0
+
+
+868
+02:09:52,0 --> 02:09:52,0
+Redeemer;
+
+869
+02:09:52,0 --> 02:09:52,0
+
+
+870
+02:09:52,0 --> 02:09:52,0
+
+
+871
+02:09:52,0 --> 02:09:52,0
+yea,
+
+872
+02:09:52,0 --> 02:09:52,0
+
+
+873
+02:09:52,0 --> 02:09:52,0
+and
+
+874
+02:09:52,0 --> 02:09:52,0
+
+
+875
+02:09:52,0 --> 02:09:52,0
+how
+
+876
+02:09:52,0 --> 02:09:52,0
+
+
+877
+02:09:52,0 --> 02:09:52,0
+
+
+878
+02:09:52,0 --> 02:09:52,0
+
+
+879
+02:09:52,0 --> 02:09:52,0
+blessed
+
+880
+02:09:52,0 --> 02:09:52,0
+
+
+881
+02:09:52,0 --> 02:09:52,0
+are
+
+882
+02:09:52,0 --> 02:09:52,0
+
+
+883
+02:09:52,0 --> 02:09:52,0
+
+
+884
+02:09:52,0 --> 02:09:52,0
+they,
+
+885
+02:09:52,0 --> 02:09:52,0
+
+
+886
+02:09:52,0 --> 02:09:52,0
+for
+
+887
+02:09:52,0 --> 02:09:52,0
+
+
+888
+02:09:52,0 --> 02:09:52,0
+they
+
+889
+02:09:52,0 --> 02:09:52,0
+
+
+890
+02:09:52,0 --> 02:09:52,0
+
+
+891
+02:09:52,0 --> 02:09:52,0
+shall
+
+892
+02:09:52,0 --> 02:09:52,0
+
+
+893
+02:09:52,0 --> 02:09:52,0
+
+
+894
+02:09:52,0 --> 02:09:52,0
+sing
+
+895
+02:09:52,0 --> 02:09:52,0
+to
+
+896
+02:09:52,0 --> 02:09:52,0
+
+
+897
+02:09:52,0 --> 02:09:52,0
+his
+
+898
+02:09:52,0 --> 02:09:52,0
+
+
+899
+02:09:52,0 --> 02:09:52,0
+
+
+900
+02:09:52,0 --> 02:09:52,0
+
+
+901
+02:09:52,0 --> 02:09:52,0
+praise
+
+902
+02:09:52,0 --> 02:09:52,0
+
+
+903
+02:09:52,0 --> 02:09:52,0
+
+
+904
+02:09:52,0 --> 02:09:52,0
+
+
+905
+02:09:52,0 --> 02:16:46,
+forever.
+
+906
+02:16:46,0 --> 02:16:46,0
+31
+
+907
+02:16:46,0 --> 02:16:46,0
+
+
+908
+02:16:46,0 --> 02:16:46,0
+And
+
+909
+02:16:46,0 --> 02:16:46,0
+
+
+910
+02:16:46,0 --> 02:16:46,0
+
+
+911
+02:16:46,0 --> 02:16:46,0
+these
+
+912
+02:16:46,0 --> 02:16:46,0
+
+
+913
+02:16:46,0 --> 02:16:46,0
+
+
+914
+02:16:46,0 --> 02:16:46,0
+
+
+915
+02:16:46,0 --> 02:16:46,0
+things
+
+916
+02:16:46,0 --> 02:16:46,0
+
+
+917
+02:16:46,0 --> 02:16:46,0
+were
+
+918
+02:16:46,0 --> 02:16:46,0
+
+
+919
+02:16:46,0 --> 02:16:46,0
+
+
+920
+02:16:46,0 --> 02:16:46,0
+done
+
+921
+02:16:46,0 --> 02:16:46,0
+in
+
+922
+02:16:46,0 --> 02:16:46,0
+
+
+923
+02:16:46,0 --> 02:16:46,0
+the
+
+924
+02:16:46,0 --> 02:16:46,0
+
+
+925
+02:16:46,0 --> 02:16:46,0
+
+
+926
+02:16:46,0 --> 02:16:46,0
+
+
+927
+02:16:46,0 --> 02:16:46,0
+borders
+
+928
+02:16:46,0 --> 02:16:46,0
+
+
+929
+02:16:46,0 --> 02:16:46,0
+of
+
+930
+02:16:46,0 --> 02:16:46,0
+
+
+931
+02:16:46,0 --> 02:16:46,0
+the
+
+932
+02:16:46,0 --> 02:16:46,0
+
+
+933
+02:16:46,0 --> 02:16:46,0
+
+
+934
+02:16:46,0 --> 02:16:46,0
+land,
+
+935
+02:16:46,0 --> 02:16:46,0
+
+
+936
+02:16:46,0 --> 02:16:46,0
+that
+
+937
+02:16:46,0 --> 02:16:46,0
+
+
+938
+02:16:46,0 --> 02:16:46,0
+
+
+939
+02:16:46,0 --> 02:16:46,0
+they
+
+940
+02:16:46,0 --> 02:16:46,0
+
+
+941
+02:16:46,0 --> 02:16:46,0
+
+
+942
+02:16:46,0 --> 02:16:46,0
+might
+
+943
+02:16:46,0 --> 02:16:46,0
+
+
+944
+02:16:46,0 --> 02:16:46,0
+not
+
+945
+02:16:46,0 --> 02:16:46,0
+
+
+946
+02:16:46,0 --> 02:16:46,0
+come
+
+947
+02:16:46,0 --> 02:16:46,0
+
+
+948
+02:16:46,0 --> 02:16:46,0
+to
+
+949
+02:16:46,0 --> 02:16:46,0
+
+
+950
+02:16:46,0 --> 02:16:46,0
+the
+
+951
+02:16:46,0 --> 02:16:46,0
+
+
+952
+02:16:46,0 --> 02:16:46,0
+
+
+953
+02:16:46,0 --> 02:16:46,0
+
+
+954
+02:16:46,0 --> 02:16:46,0
+
+
+955
+02:16:46,0 --> 02:16:46,0
+knowledge
+
+956
+02:16:46,0 --> 02:16:46,0
+of
+
+957
+02:16:46,0 --> 02:16:46,0
+
+
+958
+02:16:46,0 --> 02:16:46,0
+the
+
+959
+02:16:46,0 --> 02:16:46,0
+
+
+960
+02:16:46,0 --> 02:16:46,0
+
+
+961
+02:16:46,0 --> 02:19:56,
+king.
+
+962
+02:19:56,0 --> 02:19:56,0
+32 But behold, it came to pass that the king, having discovered a movement among the people, sent his servants to watch them. Therefore on the day that they were assembling themselves together to hear the word of the Lord they were discovered unto the
+
+963
+02:19:56,0 --> 02:19:56,0
+
+
+964
+02:19:56,0 --> 02:19:56,0
+
+
+965
+02:19:56,0 --> 02:19:56,0
+
+
+966
+02:19:56,0 --> 02:19:56,0
+
+
+967
+02:19:56,0 --> 02:19:56,0
+But
+
+968
+02:19:56,0 --> 02:19:56,0
+
+
+969
+02:19:56,0 --> 02:19:56,0
+
+
+970
+02:19:56,0 --> 02:19:56,0
+
+
+971
+02:19:56,0 --> 02:19:56,0
+
+
+972
+02:19:56,0 --> 02:19:56,0
+
+
+973
+02:19:56,0 --> 02:19:56,0
+
+
+974
+02:19:56,0 --> 02:19:56,0
+
+
+975
+02:19:56,0 --> 02:19:56,0
+behold,
+
+976
+02:19:56,0 --> 02:19:56,0
+
+
+977
+02:19:56,0 --> 02:19:56,0
+
+
+978
+02:19:56,0 --> 02:19:56,0
+it
+
+979
+02:19:56,0 --> 02:19:56,0
+
+
+980
+02:19:56,0 --> 02:19:56,0
+
+
+981
+02:19:56,0 --> 02:19:56,0
+
+
+982
+02:19:56,0 --> 02:19:56,0
+
+
+983
+02:19:56,0 --> 02:19:56,0
+came
+
+984
+02:19:56,0 --> 02:19:56,0
+
+
+985
+02:19:56,0 --> 02:19:56,0
+
+
+986
+02:19:56,0 --> 02:19:56,0
+to
+
+987
+02:19:56,0 --> 02:19:56,0
+
+
+988
+02:19:56,0 --> 02:19:56,0
+
+
+989
+02:19:56,0 --> 02:19:56,0
+
+
+990
+02:19:56,0 --> 02:19:56,0
+
+
+991
+02:19:56,0 --> 02:19:56,0
+pass
+
+992
+02:19:56,0 --> 02:19:56,0
+
+
+993
+02:19:56,0 --> 02:19:56,0
+
+
+994
+02:19:56,0 --> 02:19:56,0
+
+
+995
+02:19:56,0 --> 02:19:56,0
+
+
+996
+02:19:56,0 --> 02:19:56,0
+that
+
+997
+02:19:56,0 --> 02:19:56,0
+
+
+998
+02:19:56,0 --> 02:19:56,0
+
+
+999
+02:19:56,0 --> 02:19:56,0
+
+
+1000
+02:19:56,0 --> 02:19:56,0
+the
+
+1001
+02:19:56,0 --> 02:19:56,0
+
+
+1002
+02:19:56,0 --> 02:19:56,0
+
+
+1003
+02:19:56,0 --> 02:19:56,0
+
+
+1004
+02:19:56,0 --> 02:19:56,0
+
+
+1005
+02:19:56,0 --> 02:19:56,0
+
+
+1006
+02:19:56,0 --> 02:19:56,0
+king,
+
+1007
+02:19:56,0 --> 02:19:56,0
+
+
+1008
+02:19:56,0 --> 02:19:56,0
+
+
+1009
+02:19:56,0 --> 02:19:56,0
+
+
+1010
+02:19:56,0 --> 02:19:56,0
+
+
+1011
+02:19:56,0 --> 02:19:56,0
+
+
+1012
+02:19:56,0 --> 02:19:56,0
+
+
+1013
+02:19:56,0 --> 02:19:56,0
+having
+
+1014
+02:19:56,0 --> 02:19:56,0
+
+
+1015
+02:19:56,0 --> 02:19:56,0
+
+
+1016
+02:19:56,0 --> 02:19:56,0
+
+
+1017
+02:19:56,0 --> 02:19:56,0
+
+
+1018
+02:19:56,0 --> 02:19:56,0
+
+
+1019
+02:19:56,0 --> 02:19:56,0
+
+
+1020
+02:19:56,0 --> 02:19:56,0
+
+
+1021
+02:19:56,0 --> 02:19:56,0
+
+
+1022
+02:19:56,0 --> 02:19:56,0
+
+
+1023
+02:19:56,0 --> 02:19:56,0
+
+
+1024
+02:19:56,0 --> 02:19:56,0
+discovered
+
+1025
+02:19:56,0 --> 02:19:56,0
+
+
+1026
+02:19:56,0 --> 02:19:56,0
+a
+
+1027
+02:19:56,0 --> 02:19:56,0
+
+
+1028
+02:19:56,0 --> 02:19:56,0
+
+
+1029
+02:19:56,0 --> 02:19:56,0
+
+
+1030
+02:19:56,0 --> 02:19:56,0
+
+
+1031
+02:19:56,0 --> 02:19:56,0
+
+
+1032
+02:19:56,0 --> 02:19:56,0
+
+
+1033
+02:19:56,0 --> 02:19:56,0
+
+
+1034
+02:19:56,0 --> 02:19:56,0
+
+
+1035
+02:19:56,0 --> 02:19:56,0
+movement
+
+1036
+02:19:56,0 --> 02:19:56,0
+
+
+1037
+02:19:56,0 --> 02:19:56,0
+
+
+1038
+02:19:56,0 --> 02:19:56,0
+
+
+1039
+02:19:56,0 --> 02:19:56,0
+
+
+1040
+02:19:56,0 --> 02:19:56,0
+
+
+1041
+02:19:56,0 --> 02:19:56,0
+among
+
+1042
+02:19:56,0 --> 02:19:56,0
+
+
+1043
+02:19:56,0 --> 02:19:56,0
+
+
+1044
+02:19:56,0 --> 02:19:56,0
+
+
+1045
+02:19:56,0 --> 02:19:56,0
+the
+
+1046
+02:19:56,0 --> 02:19:56,0
+
+
+1047
+02:19:56,0 --> 02:19:56,0
+
+
+1048
+02:19:56,0 --> 02:19:56,0
+
+
+1049
+02:19:56,0 --> 02:19:56,0
+
+
+1050
+02:19:56,0 --> 02:19:56,0
+
+
+1051
+02:19:56,0 --> 02:19:56,0
+
+
+1052
+02:19:56,0 --> 02:19:56,0
+
+
+1053
+02:19:56,0 --> 02:19:56,0
+people,
+
+1054
+02:19:56,0 --> 02:19:56,0
+
+
+1055
+02:19:56,0 --> 02:19:56,0
+
+
+1056
+02:19:56,0 --> 02:19:56,0
+
+
+1057
+02:19:56,0 --> 02:19:56,0
+
+
+1058
+02:19:56,0 --> 02:19:56,0
+sent
+
+1059
+02:19:56,0 --> 02:19:56,0
+
+
+1060
+02:19:56,0 --> 02:19:56,0
+
+
+1061
+02:19:56,0 --> 02:19:56,0
+
+
+1062
+02:19:56,0 --> 02:19:56,0
+his
+
+1063
+02:19:56,0 --> 02:19:56,0
+
+
+1064
+02:19:56,0 --> 02:19:56,0
+
+
+1065
+02:19:56,0 --> 02:19:56,0
+
+
+1066
+02:19:56,0 --> 02:19:56,0
+
+
+1067
+02:19:56,0 --> 02:19:56,0
+
+
+1068
+02:19:56,0 --> 02:19:56,0
+
+
+1069
+02:19:56,0 --> 02:19:56,0
+
+
+1070
+02:19:56,0 --> 02:19:56,0
+
+
+1071
+02:19:56,0 --> 02:19:56,0
+servants
+
+1072
+02:19:56,0 --> 02:19:56,0
+
+
+1073
+02:19:56,0 --> 02:19:56,0
+
+
+1074
+02:19:56,0 --> 02:19:56,0
+to
+
+1075
+02:19:56,0 --> 02:19:56,0
+
+
+1076
+02:19:56,0 --> 02:19:56,0
+
+
+1077
+02:19:56,0 --> 02:19:56,0
+
+
+1078
+02:19:56,0 --> 02:19:56,0
+
+
+1079
+02:19:56,0 --> 02:19:56,0
+
+
+1080
+02:19:56,0 --> 02:19:56,0
+watch
+
+1081
+02:19:56,0 --> 02:19:56,0
+
+
+1082
+02:19:56,0 --> 02:19:56,0
+
+
+1083
+02:19:56,0 --> 02:19:56,0
+
+
+1084
+02:19:56,0 --> 02:19:56,0
+
+
+1085
+02:19:56,0 --> 02:19:56,0
+
+
+1086
+02:19:56,0 --> 02:19:56,0
+them.
+
+1087
+02:19:56,0 --> 02:19:56,0
+
+
+1088
+02:19:56,0 --> 02:19:56,0
+
+
+1089
+02:19:56,0 --> 02:19:56,0
+
+
+1090
+02:19:56,0 --> 02:28:51,
+Therefore on the day that they were assembling themselves together to hear the word of the Lord they were discovered unto the king.
+
+1091
+02:28:51,0 --> 02:28:51,0
+33 And now the king said that Alma was stirring up the people to rebellion against him; therefore he sent his army to destroy
+
+1092
+02:28:51,0 --> 02:28:51,0
+
+
+1093
+02:28:51,0 --> 02:28:51,0
+
+
+1094
+02:28:51,0 --> 02:28:51,0
+
+
+1095
+02:28:51,0 --> 02:28:51,0
+
+
+1096
+02:28:51,0 --> 02:28:51,0
+And
+
+1097
+02:28:51,0 --> 02:28:51,0
+
+
+1098
+02:28:51,0 --> 02:28:51,0
+
+
+1099
+02:28:51,0 --> 02:28:51,0
+
+
+1100
+02:28:51,0 --> 02:28:51,0
+now
+
+1101
+02:28:51,0 --> 02:28:51,0
+
+
+1102
+02:28:51,0 --> 02:28:51,0
+
+
+1103
+02:28:51,0 --> 02:28:51,0
+
+
+1104
+02:28:51,0 --> 02:28:51,0
+the
+
+1105
+02:28:51,0 --> 02:28:51,0
+
+
+1106
+02:28:51,0 --> 02:28:51,0
+
+
+1107
+02:28:51,0 --> 02:28:51,0
+
+
+1108
+02:28:51,0 --> 02:28:51,0
+
+
+1109
+02:28:51,0 --> 02:28:51,0
+king
+
+1110
+02:28:51,0 --> 02:28:51,0
+
+
+1111
+02:28:51,0 --> 02:28:51,0
+
+
+1112
+02:28:51,0 --> 02:28:51,0
+
+
+1113
+02:28:51,0 --> 02:28:51,0
+
+
+1114
+02:28:51,0 --> 02:28:51,0
+said
+
+1115
+02:28:51,0 --> 02:28:51,0
+
+
+1116
+02:28:51,0 --> 02:28:51,0
+
+
+1117
+02:28:51,0 --> 02:28:51,0
+
+
+1118
+02:28:51,0 --> 02:28:51,0
+
+
+1119
+02:28:51,0 --> 02:28:51,0
+that
+
+1120
+02:28:51,0 --> 02:28:51,0
+
+
+1121
+02:28:51,0 --> 02:28:51,0
+
+
+1122
+02:28:51,0 --> 02:28:51,0
+
+
+1123
+02:28:51,0 --> 02:28:51,0
+
+
+1124
+02:28:51,0 --> 02:28:51,0
+Alma
+
+1125
+02:28:51,0 --> 02:28:51,0
+
+
+1126
+02:28:51,0 --> 02:28:51,0
+
+
+1127
+02:28:51,0 --> 02:28:51,0
+
+
+1128
+02:28:51,0 --> 02:28:51,0
+was
+
+1129
+02:28:51,0 --> 02:28:51,0
+
+
+1130
+02:28:51,0 --> 02:28:51,0
+
+
+1131
+02:28:51,0 --> 02:28:51,0
+
+
+1132
+02:28:51,0 --> 02:28:51,0
+
+
+1133
+02:28:51,0 --> 02:28:51,0
+
+
+1134
+02:28:51,0 --> 02:28:51,0
+
+
+1135
+02:28:51,0 --> 02:28:51,0
+
+
+1136
+02:28:51,0 --> 02:28:51,0
+
+
+1137
+02:28:51,0 --> 02:28:51,0
+stirring
+
+1138
+02:28:51,0 --> 02:28:51,0
+
+
+1139
+02:28:51,0 --> 02:28:51,0
+
+
+1140
+02:28:51,0 --> 02:28:51,0
+up
+
+1141
+02:28:51,0 --> 02:28:51,0
+
+
+1142
+02:28:51,0 --> 02:28:51,0
+
+
+1143
+02:28:51,0 --> 02:28:51,0
+
+
+1144
+02:28:51,0 --> 02:28:51,0
+the
+
+1145
+02:28:51,0 --> 02:28:51,0
+
+
+1146
+02:28:51,0 --> 02:28:51,0
+
+
+1147
+02:28:51,0 --> 02:28:51,0
+
+
+1148
+02:28:51,0 --> 02:28:51,0
+
+
+1149
+02:28:51,0 --> 02:28:51,0
+
+
+1150
+02:28:51,0 --> 02:28:51,0
+
+
+1151
+02:28:51,0 --> 02:28:51,0
+people
+
+1152
+02:28:51,0 --> 02:28:51,0
+
+
+1153
+02:28:51,0 --> 02:28:51,0
+
+
+1154
+02:28:51,0 --> 02:28:51,0
+to
+
+1155
+02:28:51,0 --> 02:28:51,0
+
+
+1156
+02:28:51,0 --> 02:28:51,0
+
+
+1157
+02:28:51,0 --> 02:28:51,0
+
+
+1158
+02:28:51,0 --> 02:28:51,0
+
+
+1159
+02:28:51,0 --> 02:28:51,0
+
+
+1160
+02:28:51,0 --> 02:28:51,0
+
+
+1161
+02:28:51,0 --> 02:28:51,0
+
+
+1162
+02:28:51,0 --> 02:28:51,0
+
+
+1163
+02:28:51,0 --> 02:28:51,0
+
+
+1164
+02:28:51,0 --> 02:28:51,0
+rebellion
+
+1165
+02:28:51,0 --> 02:28:51,0
+
+
+1166
+02:28:51,0 --> 02:28:51,0
+
+
+1167
+02:28:51,0 --> 02:28:51,0
+
+
+1168
+02:28:51,0 --> 02:28:51,0
+
+
+1169
+02:28:51,0 --> 02:28:51,0
+
+
+1170
+02:28:51,0 --> 02:28:51,0
+
+
+1171
+02:28:51,0 --> 02:28:51,0
+
+
+1172
+02:28:51,0 --> 02:28:51,0
+against
+
+1173
+02:28:51,0 --> 02:28:51,0
+
+
+1174
+02:28:51,0 --> 02:28:51,0
+
+
+1175
+02:28:51,0 --> 02:28:51,0
+
+
+1176
+02:28:51,0 --> 02:28:51,0
+
+
+1177
+02:28:51,0 --> 02:28:51,0
+him;
+
+1178
+02:28:51,0 --> 02:28:51,0
+
+
+1179
+02:28:51,0 --> 02:28:51,0
+
+
+1180
+02:28:51,0 --> 02:28:51,0
+
+
+1181
+02:28:51,0 --> 02:28:51,0
+
+
+1182
+02:28:51,0 --> 02:28:51,0
+
+
+1183
+02:28:51,0 --> 02:28:51,0
+
+
+1184
+02:28:51,0 --> 02:28:51,0
+
+
+1185
+02:28:51,0 --> 02:28:51,0
+
+
+1186
+02:28:51,0 --> 02:28:51,0
+
+
+1187
+02:28:51,0 --> 02:28:51,0
+therefore
+
+1188
+02:28:51,0 --> 02:28:51,0
+
+
+1189
+02:28:51,0 --> 02:28:51,0
+
+
+1190
+02:28:51,0 --> 02:28:51,0
+he
+
+1191
+02:28:51,0 --> 02:28:51,0
+
+
+1192
+02:28:51,0 --> 02:28:51,0
+
+
+1193
+02:28:51,0 --> 02:28:51,0
+
+
+1194
+02:28:51,0 --> 02:28:51,0
+
+
+1195
+02:28:51,0 --> 02:28:51,0
+sent
+
+1196
+02:28:51,0 --> 02:28:51,0
+
+
+1197
+02:28:51,0 --> 02:28:51,0
+
+
+1198
+02:28:51,0 --> 02:28:51,0
+
+
+1199
+02:28:51,0 --> 02:28:51,0
+his
+
+1200
+02:28:51,0 --> 02:28:51,0
+
+
+1201
+02:28:51,0 --> 02:28:51,0
+
+
+1202
+02:28:51,0 --> 02:28:51,0
+
+
+1203
+02:28:51,0 --> 02:28:51,0
+
+
+1204
+02:28:51,0 --> 02:28:51,0
+army
+
+1205
+02:28:51,0 --> 02:28:51,0
+
+
+1206
+02:28:51,0 --> 02:28:51,0
+
+
+1207
+02:28:51,0 --> 02:28:51,0
+to
+
+1208
+02:28:51,0 --> 02:28:51,0
+
+
+1209
+02:28:51,0 --> 02:28:51,0
+
+
+1210
+02:28:51,0 --> 02:28:51,0
+
+
+1211
+02:28:51,0 --> 02:28:51,0
+
+
+1212
+02:28:51,0 --> 02:28:51,0
+
+
+1213
+02:28:51,0 --> 02:28:51,0
+
+
+1214
+02:28:51,0 --> 02:28:51,0
+
+
+1215
+02:28:51,0 --> 02:28:51,0
+destroy
+
+1216
+02:28:51,0 --> 02:28:51,0
+
+
+1217
+02:28:51,0 --> 02:28:51,0
+
+
+1218
+02:28:51,0 --> 02:28:51,0
+
+
+1219
+02:28:51,0 --> 02:28:51,0
+
+
+1220
+02:28:51,0 --> 02:28:51,0
+
+
+1221
+02:28:51,0 --> 02:33:48,
+them.
+
+1222
+02:33:48,0 --> 02:33:48,0
+34 And it came to pass that Alma and the people of the Lord were apprised of the coming of the king’s army; therefore they took their tents and their families and departed into the
+
+1223
+02:33:48,0 --> 02:33:48,0
+
+
+1224
+02:33:48,0 --> 02:33:48,0
+
+
+1225
+02:33:48,0 --> 02:33:48,0
+
+
+1226
+02:33:48,0 --> 02:33:48,0
+
+
+1227
+02:33:48,0 --> 02:33:48,0
+And
+
+1228
+02:33:48,0 --> 02:33:48,0
+
+
+1229
+02:33:48,0 --> 02:33:48,0
+
+
+1230
+02:33:48,0 --> 02:33:48,0
+it
+
+1231
+02:33:48,0 --> 02:33:48,0
+
+
+1232
+02:33:48,0 --> 02:33:48,0
+
+
+1233
+02:33:48,0 --> 02:33:48,0
+
+
+1234
+02:33:48,0 --> 02:33:48,0
+
+
+1235
+02:33:48,0 --> 02:33:48,0
+came
+
+1236
+02:33:48,0 --> 02:33:48,0
+
+
+1237
+02:33:48,0 --> 02:33:48,0
+
+
+1238
+02:33:48,0 --> 02:33:48,0
+to
+
+1239
+02:33:48,0 --> 02:33:48,0
+
+
+1240
+02:33:48,0 --> 02:33:48,0
+
+
+1241
+02:33:48,0 --> 02:33:48,0
+
+
+1242
+02:33:48,0 --> 02:33:48,0
+
+
+1243
+02:33:48,0 --> 02:33:48,0
+pass
+
+1244
+02:33:48,0 --> 02:33:48,0
+
+
+1245
+02:33:48,0 --> 02:33:48,0
+
+
+1246
+02:33:48,0 --> 02:33:48,0
+
+
+1247
+02:33:48,0 --> 02:33:48,0
+
+
+1248
+02:33:48,0 --> 02:33:48,0
+that
+
+1249
+02:33:48,0 --> 02:33:48,0
+
+
+1250
+02:33:48,0 --> 02:33:48,0
+
+
+1251
+02:33:48,0 --> 02:33:48,0
+
+
+1252
+02:33:48,0 --> 02:33:48,0
+
+
+1253
+02:33:48,0 --> 02:33:48,0
+Alma
+
+1254
+02:33:48,0 --> 02:33:48,0
+
+
+1255
+02:33:48,0 --> 02:33:48,0
+
+
+1256
+02:33:48,0 --> 02:33:48,0
+
+
+1257
+02:33:48,0 --> 02:33:48,0
+and
+
+1258
+02:33:48,0 --> 02:33:48,0
+
+
+1259
+02:33:48,0 --> 02:33:48,0
+
+
+1260
+02:33:48,0 --> 02:33:48,0
+
+
+1261
+02:33:48,0 --> 02:33:48,0
+the
+
+1262
+02:33:48,0 --> 02:33:48,0
+
+
+1263
+02:33:48,0 --> 02:33:48,0
+
+
+1264
+02:33:48,0 --> 02:33:48,0
+
+
+1265
+02:33:48,0 --> 02:33:48,0
+
+
+1266
+02:33:48,0 --> 02:33:48,0
+
+
+1267
+02:33:48,0 --> 02:33:48,0
+
+
+1268
+02:33:48,0 --> 02:33:48,0
+people
+
+1269
+02:33:48,0 --> 02:33:48,0
+
+
+1270
+02:33:48,0 --> 02:33:48,0
+
+
+1271
+02:33:48,0 --> 02:33:48,0
+of
+
+1272
+02:33:48,0 --> 02:33:48,0
+
+
+1273
+02:33:48,0 --> 02:33:48,0
+
+
+1274
+02:33:48,0 --> 02:33:48,0
+
+
+1275
+02:33:48,0 --> 02:33:48,0
+the
+
+1276
+02:33:48,0 --> 02:33:48,0
+
+
+1277
+02:33:48,0 --> 02:33:48,0
+
+
+1278
+02:33:48,0 --> 02:33:48,0
+
+
+1279
+02:33:48,0 --> 02:33:48,0
+
+
+1280
+02:33:48,0 --> 02:33:48,0
+Lord
+
+1281
+02:33:48,0 --> 02:33:48,0
+
+
+1282
+02:33:48,0 --> 02:33:48,0
+
+
+1283
+02:33:48,0 --> 02:33:48,0
+
+
+1284
+02:33:48,0 --> 02:33:48,0
+
+
+1285
+02:33:48,0 --> 02:33:48,0
+were
+
+1286
+02:33:48,0 --> 02:33:48,0
+
+
+1287
+02:33:48,0 --> 02:33:48,0
+
+
+1288
+02:33:48,0 --> 02:33:48,0
+
+
+1289
+02:33:48,0 --> 02:33:48,0
+
+
+1290
+02:33:48,0 --> 02:33:48,0
+
+
+1291
+02:33:48,0 --> 02:33:48,0
+
+
+1292
+02:33:48,0 --> 02:33:48,0
+
+
+1293
+02:33:48,0 --> 02:33:48,0
+
+
+1294
+02:33:48,0 --> 02:33:48,0
+apprised
+
+1295
+02:33:48,0 --> 02:33:48,0
+
+
+1296
+02:33:48,0 --> 02:33:48,0
+
+
+1297
+02:33:48,0 --> 02:33:48,0
+of
+
+1298
+02:33:48,0 --> 02:33:48,0
+
+
+1299
+02:33:48,0 --> 02:33:48,0
+
+
+1300
+02:33:48,0 --> 02:33:48,0
+
+
+1301
+02:33:48,0 --> 02:33:48,0
+the
+
+1302
+02:33:48,0 --> 02:33:48,0
+
+
+1303
+02:33:48,0 --> 02:33:48,0
+
+
+1304
+02:33:48,0 --> 02:33:48,0
+
+
+1305
+02:33:48,0 --> 02:33:48,0
+
+
+1306
+02:33:48,0 --> 02:33:48,0
+
+
+1307
+02:33:48,0 --> 02:33:48,0
+
+
+1308
+02:33:48,0 --> 02:33:48,0
+coming
+
+1309
+02:33:48,0 --> 02:33:48,0
+
+
+1310
+02:33:48,0 --> 02:33:48,0
+
+
+1311
+02:33:48,0 --> 02:33:48,0
+of
+
+1312
+02:33:48,0 --> 02:33:48,0
+
+
+1313
+02:33:48,0 --> 02:33:48,0
+
+
+1314
+02:33:48,0 --> 02:33:48,0
+
+
+1315
+02:33:48,0 --> 02:33:48,0
+the
+
+1316
+02:33:48,0 --> 02:33:48,0
+
+
+1317
+02:33:48,0 --> 02:33:48,0
+
+
+1318
+02:33:48,0 --> 02:33:48,0
+
+
+1319
+02:33:48,0 --> 02:33:48,0
+
+
+1320
+02:33:48,0 --> 02:33:48,0
+
+
+1321
+02:33:48,0 --> 02:33:48,0
+
+
+1322
+02:33:48,0 --> 02:33:48,0
+king’s
+
+1323
+02:33:48,0 --> 02:33:48,0
+
+
+1324
+02:33:48,0 --> 02:33:48,0
+
+
+1325
+02:33:48,0 --> 02:33:48,0
+
+
+1326
+02:33:48,0 --> 02:33:48,0
+
+
+1327
+02:33:48,0 --> 02:33:48,0
+
+
+1328
+02:33:48,0 --> 02:33:48,0
+army;
+
+1329
+02:33:48,0 --> 02:33:48,0
+
+
+1330
+02:33:48,0 --> 02:33:48,0
+
+
+1331
+02:33:48,0 --> 02:33:48,0
+
+
+1332
+02:33:48,0 --> 02:33:48,0
+
+
+1333
+02:33:48,0 --> 02:33:48,0
+
+
+1334
+02:33:48,0 --> 02:33:48,0
+
+
+1335
+02:33:48,0 --> 02:33:48,0
+
+
+1336
+02:33:48,0 --> 02:33:48,0
+
+
+1337
+02:33:48,0 --> 02:33:48,0
+
+
+1338
+02:33:48,0 --> 02:33:48,0
+therefore
+
+1339
+02:33:48,0 --> 02:33:48,0
+
+
+1340
+02:33:48,0 --> 02:33:48,0
+
+
+1341
+02:33:48,0 --> 02:33:48,0
+
+
+1342
+02:33:48,0 --> 02:33:48,0
+
+
+1343
+02:33:48,0 --> 02:33:48,0
+they
+
+1344
+02:33:48,0 --> 02:33:48,0
+
+
+1345
+02:33:48,0 --> 02:33:48,0
+
+
+1346
+02:33:48,0 --> 02:33:48,0
+
+
+1347
+02:33:48,0 --> 02:33:48,0
+
+
+1348
+02:33:48,0 --> 02:33:48,0
+took
+
+1349
+02:33:48,0 --> 02:33:48,0
+
+
+1350
+02:33:48,0 --> 02:33:48,0
+
+
+1351
+02:33:48,0 --> 02:33:48,0
+
+
+1352
+02:33:48,0 --> 02:33:48,0
+
+
+1353
+02:33:48,0 --> 02:33:48,0
+
+
+1354
+02:33:48,0 --> 02:33:48,0
+their
+
+1355
+02:33:48,0 --> 02:33:48,0
+
+
+1356
+02:33:48,0 --> 02:33:48,0
+
+
+1357
+02:33:48,0 --> 02:33:48,0
+
+
+1358
+02:33:48,0 --> 02:33:48,0
+
+
+1359
+02:33:48,0 --> 02:33:48,0
+
+
+1360
+02:33:48,0 --> 02:33:48,0
+tents
+
+1361
+02:33:48,0 --> 02:33:48,0
+
+
+1362
+02:33:48,0 --> 02:33:48,0
+
+
+1363
+02:33:48,0 --> 02:33:48,0
+
+
+1364
+02:33:48,0 --> 02:33:48,0
+and
+
+1365
+02:33:48,0 --> 02:33:48,0
+
+
+1366
+02:33:48,0 --> 02:33:48,0
+
+
+1367
+02:33:48,0 --> 02:33:48,0
+
+
+1368
+02:33:48,0 --> 02:33:48,0
+
+
+1369
+02:33:48,0 --> 02:33:48,0
+
+
+1370
+02:33:48,0 --> 02:33:48,0
+their
+
+1371
+02:33:48,0 --> 02:33:48,0
+
+
+1372
+02:33:48,0 --> 02:33:48,0
+
+
+1373
+02:33:48,0 --> 02:33:48,0
+
+
+1374
+02:33:48,0 --> 02:33:48,0
+
+
+1375
+02:33:48,0 --> 02:33:48,0
+
+
+1376
+02:33:48,0 --> 02:33:48,0
+
+
+1377
+02:33:48,0 --> 02:33:48,0
+
+
+1378
+02:33:48,0 --> 02:33:48,0
+
+
+1379
+02:33:48,0 --> 02:33:48,0
+families
+
+1380
+02:33:48,0 --> 02:33:48,0
+
+
+1381
+02:33:48,0 --> 02:33:48,0
+
+
+1382
+02:33:48,0 --> 02:33:48,0
+
+
+1383
+02:33:48,0 --> 02:33:48,0
+and
+
+1384
+02:33:48,0 --> 02:33:48,0
+
+
+1385
+02:33:48,0 --> 02:33:48,0
+
+
+1386
+02:33:48,0 --> 02:33:48,0
+
+
+1387
+02:33:48,0 --> 02:33:48,0
+
+
+1388
+02:33:48,0 --> 02:33:48,0
+
+
+1389
+02:33:48,0 --> 02:33:48,0
+
+
+1390
+02:33:48,0 --> 02:33:48,0
+
+
+1391
+02:33:48,0 --> 02:33:48,0
+
+
+1392
+02:33:48,0 --> 02:33:48,0
+departed
+
+1393
+02:33:48,0 --> 02:33:48,0
+
+
+1394
+02:33:48,0 --> 02:33:48,0
+
+
+1395
+02:33:48,0 --> 02:33:48,0
+
+
+1396
+02:33:48,0 --> 02:33:48,0
+
+
+1397
+02:33:48,0 --> 02:33:48,0
+into
+
+1398
+02:33:48,0 --> 02:33:48,0
+
+
+1399
+02:33:48,0 --> 02:33:48,0
+
+
+1400
+02:33:48,0 --> 02:33:48,0
+
+
+1401
+02:33:48,0 --> 02:33:48,0
+the
+
+1402
+02:33:48,0 --> 02:33:48,0
+
+
+1403
+02:33:48,0 --> 02:33:48,0
+
+
+1404
+02:33:48,0 --> 02:33:48,0
+
+
+1405
+02:33:48,0 --> 02:33:48,0
+
+
+1406
+02:33:48,0 --> 02:33:48,0
+
+
+1407
+02:33:48,0 --> 02:33:48,0
+
+
+1408
+02:33:48,0 --> 02:33:48,0
+
+
+1409
+02:33:48,0 --> 02:33:48,0
+
+
+1410
+02:33:48,0 --> 02:33:48,0
+
+
+1411
+02:33:48,0 --> 02:33:48,0
+
+
+1412
+02:33:48,0 --> 02:33:48,0
+
+
+1413
+02:33:48,0 --> 02:43:57,
+wilderness.
+
+1414
+02:43:57,0 --> 02:43:57,0
+35 And they were in number about four hundred and fifty souls.
+
+1415
+02:43:57,0 --> 02:43:57,0
+
+
+1416
+02:43:57,0 --> 02:43:57,0
+
+
+1417
+02:43:57,0 --> 02:43:57,0
+
+
+1418
+02:43:57,0 --> 02:43:57,0
+
+
+1419
+02:43:57,0 --> 02:43:57,0
+And
+
+1420
+02:43:57,0 --> 02:43:57,0
+
+
+1421
+02:43:57,0 --> 02:43:57,0
+
+
+1422
+02:43:57,0 --> 02:43:57,0
+
+
+1423
+02:43:57,0 --> 02:43:57,0
+
+
+1424
+02:43:57,0 --> 02:43:57,0
+they
+
+1425
+02:43:57,0 --> 02:43:57,0
+
+
+1426
+02:43:57,0 --> 02:43:57,0
+
+
+1427
+02:43:57,0 --> 02:43:57,0
+
+
+1428
+02:43:57,0 --> 02:43:57,0
+
+
+1429
+02:43:57,0 --> 02:43:57,0
+were
+
+1430
+02:43:57,0 --> 02:43:57,0
+
+
+1431
+02:43:57,0 --> 02:43:57,0
+
+
+1432
+02:43:57,0 --> 02:43:57,0
+in
+
+1433
+02:43:57,0 --> 02:43:57,0
+
+
+1434
+02:43:57,0 --> 02:43:57,0
+
+
+1435
+02:43:57,0 --> 02:43:57,0
+
+
+1436
+02:43:57,0 --> 02:43:57,0
+
+
+1437
+02:43:57,0 --> 02:43:57,0
+
+
+1438
+02:43:57,0 --> 02:43:57,0
+
+
+1439
+02:43:57,0 --> 02:43:57,0
+number
+
+1440
+02:43:57,0 --> 02:43:57,0
+
+
+1441
+02:43:57,0 --> 02:43:57,0
+
+
+1442
+02:43:57,0 --> 02:43:57,0
+
+
+1443
+02:43:57,0 --> 02:43:57,0
+
+
+1444
+02:43:57,0 --> 02:43:57,0
+
+
+1445
+02:43:57,0 --> 02:43:57,0
+about
+
+1446
+02:43:57,0 --> 02:43:57,0
+
+
+1447
+02:43:57,0 --> 02:43:57,0
+
+
+1448
+02:43:57,0 --> 02:43:57,0
+
+
+1449
+02:43:57,0 --> 02:43:57,0
+
+
+1450
+02:43:57,0 --> 02:43:57,0
+four
+
+1451
+02:43:57,0 --> 02:43:57,0
+
+
+1452
+02:43:57,0 --> 02:43:57,0
+
+
+1453
+02:43:57,0 --> 02:43:57,0
+
+
+1454
+02:43:57,0 --> 02:43:57,0
+
+
+1455
+02:43:57,0 --> 02:43:57,0
+
+
+1456
+02:43:57,0 --> 02:43:57,0
+
+
+1457
+02:43:57,0 --> 02:43:57,0
+
+
+1458
+02:43:57,0 --> 02:43:57,0
+hundred
+
+1459
+02:43:57,0 --> 02:43:57,0
+
+
+1460
+02:43:57,0 --> 02:43:57,0
+
+
+1461
+02:43:57,0 --> 02:43:57,0
+
+
+1462
+02:43:57,0 --> 02:43:57,0
+and
+
+1463
+02:43:57,0 --> 02:43:57,0
+
+
+1464
+02:43:57,0 --> 02:43:57,0
+
+
+1465
+02:43:57,0 --> 02:43:57,0
+
+
+1466
+02:43:57,0 --> 02:43:57,0
+
+
+1467
+02:43:57,0 --> 02:43:57,0
+
+
+1468
+02:43:57,0 --> 02:43:57,0
+fifty
+
+1469
+02:43:57,0 --> 02:43:57,0
+
+
+1470
+02:43:57,0 --> 02:43:57,0
+
+
+1471
+02:43:57,0 --> 02:43:57,0
+
+
+1472
+02:43:57,0 --> 02:43:57,0
+
+
+1473
+02:43:57,0 --> 02:43:57,0
+
+
+1474
+02:43:57,0 --> 02:43:57,0
+
+
+1475
+02:43:57,0 --> 02:43:57,0
+souls.
+
+1476
+02:43:57,0 --> 02:52:38,
+
 

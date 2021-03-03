@@ -1,476 +1,1416 @@
 1
-00:00:00,0 --> 00:00:07,667
-Chapter 9 In the darkness, the voice of Christ
+00:00:00,0 --> 00:00:00,0
+Chapter 9 In the darkness, the voice of
 
 2
-00:00:07,667 --> 00:00:15,334
- proclaims the destruction of many people and cities
+00:00:00,0 --> 00:00:00,0
+Christ proclaims the destruction of many
 
 3
-00:00:15,334 --> 00:00:23,001
- for their wickedness—He also proclaims His
+00:00:00,0 --> 00:00:00,0
+people and cities for their wickedness—He also
 
 4
-00:00:23,001 --> 00:00:30,668
- divinity, announces that the law of Moses is fulfilled,
+00:00:00,0 --> 00:00:00,0
+proclaims His divinity, announces that the
 
 5
-00:00:30,668 --> 00:00:38,335
- and invites men to come unto Him and be saved. About
+00:00:00,0 --> 00:00:00,0
+law of Moses is fulfilled, and invites men
 
 6
-00:00:38,335 --> 00:00:46,002
- A.D. 34.
+00:00:00,0 --> 00:10:09,
+to come unto Him and be saved. About A.D. 34. 
 
 7
-00:00:46,914 --> 00:00:51,914
-1 And it came to pass that there was a voice heard
+00:10:09,0 --> 00:10:09,0
+1 And it came to pass that there
 
 8
-00:00:51,914 --> 00:00:56,914
- among all the inhabitants of the earth, upon all
+00:10:09,0 --> 00:10:09,0
+was a voice heard among all the
 
 9
-00:00:56,914 --> 00:01:01,914
- the face of this land, crying
+00:10:09,0 --> 00:10:09,0
+inhabitants of the earth, upon
 
 10
-00:01:01,995 --> 00:01:09,828
-2 Wo, wo, wo unto this people; wo unto the
+00:10:09,0 --> 00:13:54,
+all the face of this land, crying:
 
 11
-00:01:09,828 --> 00:01:17,661
- inhabitants of the whole earth except they shall repent;
+00:13:54,0 --> 00:13:54,0
+2 Wo, wo, wo unto this people;
 
 12
-00:01:17,661 --> 00:01:25,494
- for the devil laugheth, and his angels rejoice,
+00:13:54,0 --> 00:13:54,0
+wo unto the inhabitants of the
 
 13
-00:01:25,494 --> 00:01:33,327
- because of the slain of the fair sons and daughters
+00:13:54,0 --> 00:13:54,0
+whole earth except they shall
 
 14
-00:01:33,327 --> 00:01:41,16
- of my people; and it is because of their iniquity
+00:13:54,0 --> 00:13:54,0
+repent; for the devil laugheth, and
 
 15
-00:01:41,16 --> 00:01:48,993
- and abominations that they are fallen
+00:13:54,0 --> 00:13:54,0
+his angels rejoice, because of
 
 16
-00:01:48,175 --> 00:01:53,675
-3 Behold, that great city Zarahemla have I burned
+00:13:54,0 --> 00:13:54,0
+the slain of the fair sons and
 
 17
-00:01:53,675 --> 00:01:59,175
- with fire, and the inhabitants thereof
+00:13:54,0 --> 00:13:54,0
+daughters of my people; and it is
 
 18
-00:01:59,186 --> 00:02:20,186
-4 And behold, that great city Moroni have I caused
+00:13:54,0 --> 00:13:54,0
+because of their iniquity and
 
 19
-00:02:20,186 --> 00:02:41,186
- to be sunk in the depths of the sea, and the
+00:13:54,0 --> 00:21:38,
+abominations that they are fallen!
 
 20
-00:02:41,186 --> 00:03:02,186
- inhabitants thereof to be drowned
+00:21:38,0 --> 00:21:38,0
+3 Behold, that great city
 
 21
-00:03:02,983 --> 00:03:05,65
-5 And behold, that great city Moronihah have I
+00:21:38,0 --> 00:21:38,0
+Zarahemla have I burned with
 
 22
-00:03:05,65 --> 00:03:08,317
- covered with earth, and the inhabitants thereof, to
+00:21:38,0 --> 00:22:50,
+fire, and the inhabitants thereof.
 
 23
-00:03:08,317 --> 00:03:10,984
- hide their iniquities and their abominations from
+00:22:50,0 --> 00:22:50,0
+4 And behold, that great
 
 24
-00:03:10,984 --> 00:03:13,651
- before my face, that the blood of the prophets and
+00:22:50,0 --> 00:22:50,0
+city Moroni have I caused
 
 25
-00:03:13,651 --> 00:03:16,318
- the saints shall not come any more unto me against
+00:22:50,0 --> 00:22:50,0
+to be sunk in the depths of
 
 26
-00:03:16,318 --> 00:03:18,985
- them
+00:22:50,0 --> 00:22:50,0
+the sea, and the
 
 27
-00:03:18,932 --> 00:03:37,599
-6 And behold, the city of Gilgal have I caused to
+00:22:50,0 --> 00:26:20,
+inhabitants thereof to be drowned.
 
 28
-00:03:37,599 --> 00:03:56,266
- be sunk, and the inhabitants thereof to be buried
+00:26:20,0 --> 00:26:20,0
+5 And behold, that great
 
 29
-00:03:56,266 --> 00:04:14,933
- up in the depths of the earth
+00:26:20,0 --> 00:26:20,0
+city Moronihah have I
 
 30
-00:04:14,755 --> 00:04:15,005
-7 Yea, and the city of Onihah and the inhabitants
+00:26:20,0 --> 00:26:20,0
+covered with earth, and the
 
 31
-00:04:15,005 --> 00:04:15,255
- thereof, and the city of Mocum and the inhabitants
+00:26:20,0 --> 00:26:20,0
+inhabitants thereof, to
 
 32
-00:04:15,255 --> 00:04:15,505
- thereof, and the city of Jerusalem and the
+00:26:20,0 --> 00:26:20,0
+hide their iniquities and
 
 33
-00:04:15,505 --> 00:04:15,755
- inhabitants thereof; and waters have I caused to come up
+00:26:20,0 --> 00:26:20,0
+their abominations from
 
 34
-00:04:15,755 --> 00:04:16,005
- in the stead thereof, to hide their wickedness
+00:26:20,0 --> 00:26:20,0
+before my face, that the
 
 35
-00:04:16,005 --> 00:04:16,255
- and abominations from before my face, that the blood
+00:26:20,0 --> 00:26:20,0
+blood of the prophets and
 
 36
-00:04:16,255 --> 00:04:16,505
- of the prophets and the saints shall not come up
+00:26:20,0 --> 00:26:20,0
+the saints shall not come
 
 37
-00:04:16,505 --> 00:04:16,755
- any more unto me against them
+00:26:20,0 --> 00:28:32,
+any more unto me against them.
 
 38
-00:04:16,323 --> 00:04:20,767
-8 And behold, the city of Gadiandi, and the city
+00:28:32,0 --> 00:28:32,0
+6 And behold, the
 
 39
-00:04:20,767 --> 00:04:25,211
- of Gadiomnah, and the city of Jacob, and the city
+00:28:32,0 --> 00:28:32,0
+city of Gilgal have I
 
 40
-00:04:25,211 --> 00:04:29,655
- of Gimgimno, all these have I caused to be sunk,
+00:28:32,0 --> 00:28:32,0
+caused to be sunk, and
 
 41
-00:04:29,655 --> 00:04:34,099
- and made hills and valleys in the places thereof;
+00:28:32,0 --> 00:28:32,0
+the inhabitants
 
 42
-00:04:34,099 --> 00:04:38,543
- and the inhabitants thereof have I buried up in the
+00:28:32,0 --> 00:28:32,0
+thereof to be buried up in
 
 43
-00:04:38,543 --> 00:04:42,987
- depths of the earth, to hide their wickedness and
+00:28:32,0 --> 00:28:46,
+the depths of the earth;
 
 44
-00:04:42,987 --> 00:04:47,431
- abominations from before my face, that the blood
+00:28:46,0 --> 00:28:46,0
+7 Yea, and the city
 
 45
-00:04:47,431 --> 00:04:51,875
- of the prophets and the saints should not come up
+00:28:46,0 --> 00:28:46,0
+of Onihah and the
 
 46
-00:04:51,875 --> 00:04:56,319
- any more unto me against them
+00:28:46,0 --> 00:28:46,0
+inhabitants thereof,
 
 47
-00:04:56,797 --> 00:05:01,706
-9 And behold, that great city Jacobugath, which
+00:28:46,0 --> 00:28:46,0
+and the city of Mocum
 
 48
-00:05:01,706 --> 00:05:06,615
- was inhabited by the people of king Jacob, have I
+00:28:46,0 --> 00:28:46,0
+and the inhabitants
 
 49
-00:05:06,615 --> 00:05:11,524
- caused to be burned with fire because of their sins
+00:28:46,0 --> 00:28:46,0
+thereof, and the
 
 50
-00:05:11,524 --> 00:05:16,433
- and their wickedness, which was above all the
+00:28:46,0 --> 00:28:46,0
+city of Jerusalem and
 
 51
-00:05:16,433 --> 00:05:21,342
- wickedness of the whole earth, because of their secret
+00:28:46,0 --> 00:28:46,0
+the inhabitants
 
 52
-00:05:21,342 --> 00:05:26,251
- murders and combinations; for it was they that
+00:28:46,0 --> 00:28:46,0
+thereof; and waters have
 
 53
-00:05:26,251 --> 00:05:31,16
- did destroy the peace of my people and the
+00:28:46,0 --> 00:28:46,0
+I caused to come up
 
 54
-00:05:31,16 --> 00:05:36,069
- government of the land; therefore I did cause them to be
+00:28:46,0 --> 00:28:46,0
+in the stead
 
 55
-00:05:36,069 --> 00:05:40,978
- burned, to destroy them from before my face, that
+00:28:46,0 --> 00:28:46,0
+thereof, to hide their
 
 56
-00:05:40,978 --> 00:05:45,887
- the blood of the prophets and the saints should not
+00:28:46,0 --> 00:28:46,0
+wickedness and
 
 57
-00:05:45,887 --> 00:05:50,796
- come up unto me any more against them
+00:28:46,0 --> 00:28:46,0
+abominations from before my
 
 58
-00:05:50,65 --> 00:05:56,507
-10 And behold, the city of Laman, and the city of
+00:28:46,0 --> 00:28:46,0
+face, that the blood
 
 59
-00:05:56,507 --> 00:06:02,364
- Josh, and the city of Gad, and the city of
+00:28:46,0 --> 00:28:46,0
+of the prophets and
 
 60
-00:06:02,364 --> 00:06:08,221
- Kishkumen, have I caused to be burned with fire, and the
+00:28:46,0 --> 00:28:46,0
+the saints shall
 
 61
-00:06:08,221 --> 00:06:14,078
- inhabitants thereof, because of their wickedness
+00:28:46,0 --> 00:28:46,0
+not come up any more
 
 62
-00:06:14,078 --> 00:06:19,935
- in casting out the prophets, and stoning those whom
+00:28:46,0 --> 00:28:18,
+unto me against them.
 
 63
-00:06:19,935 --> 00:06:25,792
- I did send to declare unto them concerning their
+00:28:18,0 --> 00:28:18,0
+8 And behold, the
 
 64
-00:06:25,792 --> 00:06:31,649
- wickedness and their abominations
+00:28:18,0 --> 00:28:18,0
+city of Gadiandi,
 
 65
-00:06:31,625 --> 00:06:37,911
-11 And because they did cast them all out, that
+00:28:18,0 --> 00:28:18,0
+and the city of
 
 66
-00:06:37,911 --> 00:06:44,197
- there were none righteous among them, I did send
+00:28:18,0 --> 00:28:18,0
+Gadiomnah, and the city
 
 67
-00:06:44,197 --> 00:06:50,483
- down fire and destroy them, that their wickedness and
+00:28:18,0 --> 00:28:18,0
+of Jacob, and the
 
 68
-00:06:50,483 --> 00:06:56,769
- abominations might be hid from before my face,
+00:28:18,0 --> 00:28:18,0
+city of Gimgimno,
 
 69
-00:06:56,769 --> 00:07:03,055
- that the blood of the prophets and the saints whom I
+00:28:18,0 --> 00:28:18,0
+all these have I
 
 70
-00:07:03,055 --> 00:07:09,341
- sent among them might not cry unto me from the
+00:28:18,0 --> 00:28:18,0
+caused to be sunk, and
 
 71
-00:07:09,341 --> 00:07:15,627
- ground against them
+00:28:18,0 --> 00:28:18,0
+made hills and
 
 72
-00:07:15,602 --> 00:07:21,935
-12 And many great destructions have I caused to
+00:28:18,0 --> 00:28:18,0
+valleys in the places
 
 73
-00:07:21,935 --> 00:07:28,268
- come upon this land, and upon this people, because
+00:28:18,0 --> 00:28:18,0
+thereof; and the
 
 74
-00:07:28,268 --> 00:07:34,601
- of their wickedness and their abominations
+00:28:18,0 --> 00:28:18,0
+inhabitants thereof
 
 75
-00:07:34,154 --> 00:07:39,904
-13 O all ye that are spared because ye were more
+00:28:18,0 --> 00:28:18,0
+have I buried up in
 
 76
-00:07:39,904 --> 00:07:45,654
- righteous than they, will ye not now return unto
+00:28:18,0 --> 00:28:18,0
+the depths of the
 
 77
-00:07:45,654 --> 00:07:51,404
- me, and repent of your sins, and be converted, that
+00:28:18,0 --> 00:28:18,0
+earth, to hide their
 
 78
-00:07:51,404 --> 00:07:57,154
- I may heal you
+00:28:18,0 --> 00:28:18,0
+wickedness and
 
 79
-00:07:57,844 --> 00:08:03,644
-14 Yea, verily I say unto you, if ye will come
+00:28:18,0 --> 00:28:18,0
+abominations from
 
 80
-00:08:03,644 --> 00:08:09,444
- unto me ye shall have eternal life. Behold, mine arm
+00:28:18,0 --> 00:28:18,0
+before my face, that the
 
 81
-00:08:09,444 --> 00:08:15,244
- of mercy is extended towards you, and whosoever
+00:28:18,0 --> 00:28:18,0
+blood of the
 
 82
-00:08:15,244 --> 00:08:21,044
- will come, him will I receive; and blessed are those
+00:28:18,0 --> 00:28:18,0
+prophets and the saints
 
 83
-00:08:21,044 --> 00:08:26,844
- who come unto me
+00:28:18,0 --> 00:28:18,0
+should not come up
 
 84
-00:08:26,74 --> 00:08:33,94
-15 Behold, I am Jesus Christ the Son of God. I
+00:28:18,0 --> 00:29:30,
+any more unto me against them.
 
 85
-00:08:33,94 --> 00:08:41,14
- created the heavens and the earth, and all things
+00:29:30,0 --> 00:29:30,0
+9 And behold, that
 
 86
-00:08:41,14 --> 00:08:48,34
- that in them are. I was with the Father from the
+00:29:30,0 --> 00:29:30,0
+great city
 
 87
-00:08:48,34 --> 00:08:55,54
- beginning. I am in the Father, and the Father in me;
+00:29:30,0 --> 00:29:30,0
+Jacobugath, which was
 
 88
-00:08:55,54 --> 00:09:02,74
- and in me hath the Father glorified his name
+00:29:30,0 --> 00:29:30,0
+inhabited by the
 
 89
-00:09:02,409 --> 00:09:09,076
-16 I came unto my own, and my own received me not.
+00:29:30,0 --> 00:29:30,0
+people of king Jacob,
 
 90
-00:09:09,076 --> 00:09:15,743
- And the scriptures concerning my coming are
+00:29:30,0 --> 00:29:30,0
+have I caused to
 
 91
-00:09:15,743 --> 00:09:22,41
- fulfilled
+00:29:30,0 --> 00:29:30,0
+be burned with
 
 92
-00:09:22,162 --> 00:09:27,562
-17 And as many as have received me, to them have I
+00:29:30,0 --> 00:29:30,0
+fire because of their
 
 93
-00:09:27,562 --> 00:09:32,962
- given to become the sons of God; and even so will
+00:29:30,0 --> 00:29:30,0
+sins and their
 
 94
-00:09:32,962 --> 00:09:38,362
- I to as many as shall believe on my name, for
+00:29:30,0 --> 00:29:30,0
+wickedness, which
 
 95
-00:09:38,362 --> 00:09:43,762
- behold, by me redemption cometh, and in me is the law
+00:29:30,0 --> 00:29:30,0
+was above all the
 
 96
-00:09:43,762 --> 00:09:49,162
- of Moses fulfilled
+00:29:30,0 --> 00:29:30,0
+wickedness of the
 
 97
-00:09:49,856 --> 00:09:57,856
-18 I am the light and the life of the world. I am
+00:29:30,0 --> 00:29:30,0
+whole earth, because
 
 98
-00:09:57,856 --> 00:10:05,856
- Alpha and Omega, the beginning and the end
+00:29:30,0 --> 00:29:30,0
+of their secret
 
 99
-00:10:05,305 --> 00:10:11,805
-19 And ye shall offer up unto me no more the
+00:29:30,0 --> 00:29:30,0
+murders and
 
 100
-00:10:11,805 --> 00:10:18,305
- shedding of blood; yea, your sacrifices and your burnt
+00:29:30,0 --> 00:29:30,0
+combinations; for it was
 
 101
-00:10:18,305 --> 00:10:24,805
- offerings shall be done away, for I will accept
+00:29:30,0 --> 00:29:30,0
+they that did
 
 102
-00:10:24,805 --> 00:10:31,305
- none of your sacrifices and your burnt offerings
+00:29:30,0 --> 00:29:30,0
+destroy the peace of
 
 103
-00:10:31,397 --> 00:10:37,022
-20 And ye shall offer for a sacrifice unto me a
+00:29:30,0 --> 00:29:30,0
+my people and the
 
 104
-00:10:37,022 --> 00:10:42,647
- broken heart and a contrite spirit. And whoso cometh
+00:29:30,0 --> 00:29:30,0
+government of the
 
 105
-00:10:42,647 --> 00:10:48,272
- unto me with a broken heart and a contrite
+00:29:30,0 --> 00:29:30,0
+land; therefore I
 
 106
-00:10:48,272 --> 00:10:53,897
- spirit, him will I baptize with fire and with the Holy
+00:29:30,0 --> 00:29:30,0
+did cause them to
 
 107
-00:10:53,897 --> 00:10:59,522
- Ghost, even as the Lamanites, because of their
+00:29:30,0 --> 00:29:30,0
+be burned, to
 
 108
-00:10:59,522 --> 00:11:05,147
- faith in me at the time of their conversion, were
+00:29:30,0 --> 00:29:30,0
+destroy them from
 
 109
-00:11:05,147 --> 00:11:10,772
- baptized with fire and with the Holy Ghost, and they
+00:29:30,0 --> 00:29:30,0
+before my face, that
 
 110
-00:11:10,772 --> 00:11:16,397
- knew it not
+00:29:30,0 --> 00:29:30,0
+the blood of the
 
 111
-00:11:16,776 --> 00:11:22,443
-21 Behold, I have come unto the world to bring
+00:29:30,0 --> 00:29:30,0
+prophets and the
 
 112
-00:11:22,443 --> 00:11:28,11
- redemption unto the world, to save the world from
+00:29:30,0 --> 00:29:30,0
+saints should not come
 
 113
-00:11:28,11 --> 00:11:33,777
- sin
+00:29:30,0 --> 00:31:42,
+up unto me any more against them.
 
 114
-00:11:33,56 --> 00:11:39,56
-22 Therefore, whoso repenteth and cometh unto me
+00:31:42,0 --> 00:31:42,0
+10 And behold,
 
 115
-00:11:39,56 --> 00:11:45,56
- as a little child, him will I receive, for of such
+00:31:42,0 --> 00:31:42,0
+the city of Laman,
 
 116
-00:11:45,56 --> 00:11:51,56
- is the kingdom of God. Behold, for such I have
+00:31:42,0 --> 00:31:42,0
+and the city of
 
 117
-00:11:51,56 --> 00:11:57,56
- laid down my life, and have taken it up again;
+00:31:42,0 --> 00:31:42,0
+Josh, and the city
 
 118
-00:11:57,56 --> 00:12:03,56
- therefore repent, and come unto me ye ends of the earth,
+00:31:42,0 --> 00:31:42,0
+of Gad, and the
 
 119
-00:12:03,56 --> 00:12:09,56
- and be saved.
+00:31:42,0 --> 00:31:42,0
+city of
+
+120
+00:31:42,0 --> 00:31:42,0
+Kishkumen, have I caused
+
+121
+00:31:42,0 --> 00:31:42,0
+to be burned with
+
+122
+00:31:42,0 --> 00:31:42,0
+fire, and the
+
+123
+00:31:42,0 --> 00:31:42,0
+inhabitants thereof,
+
+124
+00:31:42,0 --> 00:31:42,0
+because of their
+
+125
+00:31:42,0 --> 00:31:42,0
+wickedness in
+
+126
+00:31:42,0 --> 00:31:42,0
+casting out the
+
+127
+00:31:42,0 --> 00:31:42,0
+prophets, and
+
+128
+00:31:42,0 --> 00:31:42,0
+stoning those whom I
+
+129
+00:31:42,0 --> 00:31:42,0
+did send to declare
+
+130
+00:31:42,0 --> 00:31:42,0
+unto them
+
+131
+00:31:42,0 --> 00:31:42,0
+concerning their
+
+132
+00:31:42,0 --> 00:35:55,
+wickedness and their abominations.
+
+133
+00:35:55,0 --> 00:35:55,0
+11 And because
+
+134
+00:35:55,0 --> 00:35:55,0
+they did cast
+
+135
+00:35:55,0 --> 00:35:55,0
+them all out, that
+
+136
+00:35:55,0 --> 00:35:55,0
+there were none
+
+137
+00:35:55,0 --> 00:35:55,0
+righteous among
+
+138
+00:35:55,0 --> 00:35:55,0
+them, I did send
+
+139
+00:35:55,0 --> 00:35:55,0
+down fire and
+
+140
+00:35:55,0 --> 00:35:55,0
+destroy them,
+
+141
+00:35:55,0 --> 00:35:55,0
+that their
+
+142
+00:35:55,0 --> 00:35:55,0
+wickedness and
+
+143
+00:35:55,0 --> 00:35:55,0
+abominations might be hid
+
+144
+00:35:55,0 --> 00:35:55,0
+from before my
+
+145
+00:35:55,0 --> 00:35:55,0
+face, that the
+
+146
+00:35:55,0 --> 00:35:55,0
+blood of the
+
+147
+00:35:55,0 --> 00:35:55,0
+prophets and the
+
+148
+00:35:55,0 --> 00:35:55,0
+saints whom I sent
+
+149
+00:35:55,0 --> 00:35:55,0
+among them might
+
+150
+00:35:55,0 --> 00:35:55,0
+not cry unto me
+
+151
+00:35:55,0 --> 00:38:07,
+from the ground against them.
+
+152
+00:38:07,0 --> 00:38:07,0
+12 And many
+
+153
+00:38:07,0 --> 00:38:07,0
+great destructions
+
+154
+00:38:07,0 --> 00:38:07,0
+have I caused
+
+155
+00:38:07,0 --> 00:38:07,0
+to come upon
+
+156
+00:38:07,0 --> 00:38:07,0
+this land, and
+
+157
+00:38:07,0 --> 00:38:07,0
+upon this people,
+
+158
+00:38:07,0 --> 00:38:07,0
+because of
+
+159
+00:38:07,0 --> 00:38:07,0
+their wickedness
+
+160
+00:38:07,0 --> 00:45:51,
+and their abominations.
+
+161
+00:45:51,0 --> 00:45:51,0
+13 O all ye
+
+162
+00:45:51,0 --> 00:45:51,0
+that are spared
+
+163
+00:45:51,0 --> 00:45:51,0
+because ye were
+
+164
+00:45:51,0 --> 00:45:51,0
+more righteous
+
+165
+00:45:51,0 --> 00:45:51,0
+than they, will
+
+166
+00:45:51,0 --> 00:45:51,0
+ye not now
+
+167
+00:45:51,0 --> 00:45:51,0
+return unto me, and
+
+168
+00:45:51,0 --> 00:45:51,0
+repent of your
+
+169
+00:45:51,0 --> 00:45:51,0
+sins, and be
+
+170
+00:45:51,0 --> 00:45:51,0
+converted, that
+
+171
+00:45:51,0 --> 00:48:03,
+I may heal you?
+
+172
+00:48:03,0 --> 00:48:03,0
+14 Yea, verily
+
+173
+00:48:03,0 --> 00:48:03,0
+I say unto
+
+174
+00:48:03,0 --> 00:48:03,0
+you, if ye will
+
+175
+00:48:03,0 --> 00:48:03,0
+come unto me
+
+176
+00:48:03,0 --> 00:48:03,0
+ye shall have
+
+177
+00:48:03,0 --> 00:48:03,0
+eternal life.
+
+178
+00:48:03,0 --> 00:48:03,0
+Behold, mine
+
+179
+00:48:03,0 --> 00:48:03,0
+arm of mercy is
+
+180
+00:48:03,0 --> 00:48:03,0
+extended
+
+181
+00:48:03,0 --> 00:48:03,0
+towards you, and
+
+182
+00:48:03,0 --> 00:48:03,0
+whosoever will
+
+183
+00:48:03,0 --> 00:48:03,0
+come, him will
+
+184
+00:48:03,0 --> 00:48:03,0
+I receive; and
+
+185
+00:48:03,0 --> 00:48:03,0
+blessed are
+
+186
+00:48:03,0 --> 00:56:45,
+those who come unto me.
+
+187
+00:56:45,0 --> 00:56:45,0
+15 Behold, I
+
+188
+00:56:45,0 --> 00:56:45,0
+am Jesus
+
+189
+00:56:45,0 --> 00:56:45,0
+Christ the Son of
+
+190
+00:56:45,0 --> 00:56:45,0
+God. I
+
+191
+00:56:45,0 --> 00:56:45,0
+created the
+
+192
+00:56:45,0 --> 00:56:45,0
+heavens and the
+
+193
+00:56:45,0 --> 00:56:45,0
+earth, and all
+
+194
+00:56:45,0 --> 00:56:45,0
+things that in
+
+195
+00:56:45,0 --> 00:56:45,0
+them are. I
+
+196
+00:56:45,0 --> 00:56:45,0
+was with the
+
+197
+00:56:45,0 --> 00:56:45,0
+Father from
+
+198
+00:56:45,0 --> 00:56:45,0
+the beginning.
+
+199
+00:56:45,0 --> 00:56:45,0
+I am in the
+
+200
+00:56:45,0 --> 00:56:45,0
+Father, and
+
+201
+00:56:45,0 --> 00:56:45,0
+the Father in
+
+202
+00:56:45,0 --> 00:56:45,0
+me; and in me
+
+203
+00:56:45,0 --> 00:56:45,0
+hath the
+
+204
+00:56:45,0 --> 00:56:17,
+Father glorified his name.
+
+205
+00:56:17,0 --> 00:56:17,0
+16 I came
+
+206
+00:56:17,0 --> 00:56:17,0
+unto my own,
+
+207
+00:56:17,0 --> 00:56:17,0
+and my own
+
+208
+00:56:17,0 --> 00:56:17,0
+received
+
+209
+00:56:17,0 --> 00:56:17,0
+me not. And
+
+210
+00:56:17,0 --> 00:56:17,0
+the
+
+211
+00:56:17,0 --> 00:56:17,0
+scriptures
+
+212
+00:56:17,0 --> 00:56:17,0
+concerning my
+
+213
+00:56:17,0 --> 00:55:49,
+coming are fulfilled.
+
+214
+00:55:49,0 --> 00:55:49,0
+17 And as
+
+215
+00:55:49,0 --> 00:55:49,0
+many as have
+
+216
+00:55:49,0 --> 00:55:49,0
+received
+
+217
+00:55:49,0 --> 00:55:49,0
+me, to them
+
+218
+00:55:49,0 --> 00:55:49,0
+have I
+
+219
+00:55:49,0 --> 00:55:49,0
+given to become
+
+220
+00:55:49,0 --> 00:55:49,0
+the sons
+
+221
+00:55:49,0 --> 00:55:49,0
+of God; and
+
+222
+00:55:49,0 --> 00:55:49,0
+even so
+
+223
+00:55:49,0 --> 00:55:49,0
+will I to as
+
+224
+00:55:49,0 --> 00:55:49,0
+many as
+
+225
+00:55:49,0 --> 00:55:49,0
+shall believe
+
+226
+00:55:49,0 --> 00:55:49,0
+on my name,
+
+227
+00:55:49,0 --> 00:55:49,0
+for behold,
+
+228
+00:55:49,0 --> 00:55:49,0
+by me
+
+229
+00:55:49,0 --> 00:55:49,0
+redemption
+
+230
+00:55:49,0 --> 00:55:49,0
+cometh, and in
+
+231
+00:55:49,0 --> 00:55:49,0
+me is the
+
+232
+00:55:49,0 --> 00:55:49,0
+law of Moses
+
+233
+00:55:49,0 --> 00:59:20,
+fulfilled.
+
+234
+00:59:20,0 --> 00:59:20,0
+18 I am
+
+235
+00:59:20,0 --> 00:59:20,0
+the light
+
+236
+00:59:20,0 --> 00:59:20,0
+and the life
+
+237
+00:59:20,0 --> 00:59:20,0
+of the
+
+238
+00:59:20,0 --> 00:59:20,0
+world. I am
+
+239
+00:59:20,0 --> 00:59:20,0
+Alpha and
+
+240
+00:59:20,0 --> 00:59:20,0
+Omega, the
+
+241
+00:59:20,0 --> 00:59:20,0
+beginning
+
+242
+00:59:20,0 --> 01:05:31,
+and the end.
+
+243
+01:05:31,0 --> 01:05:31,0
+19 And ye
+
+244
+01:05:31,0 --> 01:05:31,0
+shall
+
+245
+01:05:31,0 --> 01:05:31,0
+offer up
+
+246
+01:05:31,0 --> 01:05:31,0
+unto me no
+
+247
+01:05:31,0 --> 01:05:31,0
+more the
+
+248
+01:05:31,0 --> 01:05:31,0
+shedding
+
+249
+01:05:31,0 --> 01:05:31,0
+of blood;
+
+250
+01:05:31,0 --> 01:05:31,0
+yea,
+
+251
+01:05:31,0 --> 01:05:31,0
+your
+
+252
+01:05:31,0 --> 01:05:31,0
+sacrifices and
+
+253
+01:05:31,0 --> 01:05:31,0
+your burnt
+
+254
+01:05:31,0 --> 01:05:31,0
+
+
+255
+01:05:31,0 --> 01:05:31,0
+offerings shall
+
+256
+01:05:31,0 --> 01:05:31,0
+be done
+
+257
+01:05:31,0 --> 01:05:31,0
+away, for I
+
+258
+01:05:31,0 --> 01:05:31,0
+will
+
+259
+01:05:31,0 --> 01:05:31,0
+accept none
+
+260
+01:05:31,0 --> 01:05:31,0
+of your
+
+261
+01:05:31,0 --> 01:05:31,0
+sacrifices
+
+262
+01:05:31,0 --> 01:07:43,
+and your burnt offerings.
+
+263
+01:07:43,0 --> 01:07:43,0
+20 And
+
+264
+01:07:43,0 --> 01:07:43,0
+ye shall
+
+265
+01:07:43,0 --> 01:07:43,0
+offer
+
+266
+01:07:43,0 --> 01:07:43,0
+for a
+
+267
+01:07:43,0 --> 01:07:43,0
+sacrifice
+
+268
+01:07:43,0 --> 01:07:43,0
+unto me a
+
+269
+01:07:43,0 --> 01:07:43,0
+broken
+
+270
+01:07:43,0 --> 01:07:43,0
+heart and
+
+271
+01:07:43,0 --> 01:07:43,0
+a
+
+272
+01:07:43,0 --> 01:07:43,0
+contrite
+
+273
+01:07:43,0 --> 01:07:43,0
+spirit. And
+
+274
+01:07:43,0 --> 01:07:43,0
+whoso
+
+275
+01:07:43,0 --> 01:07:43,0
+cometh
+
+276
+01:07:43,0 --> 01:07:43,0
+unto me
+
+277
+01:07:43,0 --> 01:07:43,0
+with a
+
+278
+01:07:43,0 --> 01:07:43,0
+broken heart
+
+279
+01:07:43,0 --> 01:07:43,0
+and a
+
+280
+01:07:43,0 --> 01:07:43,0
+contrite
+
+281
+01:07:43,0 --> 01:07:43,0
+spirit,
+
+282
+01:07:43,0 --> 01:07:43,0
+him will
+
+283
+01:07:43,0 --> 01:07:43,0
+I
+
+284
+01:07:43,0 --> 01:07:43,0
+baptize with
+
+285
+01:07:43,0 --> 01:07:43,0
+fire and
+
+286
+01:07:43,0 --> 01:07:43,0
+with
+
+287
+01:07:43,0 --> 01:07:43,0
+the Holy
+
+288
+01:07:43,0 --> 01:07:43,0
+Ghost,
+
+289
+01:07:43,0 --> 01:07:43,0
+even as
+
+290
+01:07:43,0 --> 01:07:43,0
+the
+
+291
+01:07:43,0 --> 01:07:43,0
+Lamanites,
+
+292
+01:07:43,0 --> 01:07:43,0
+because of
+
+293
+01:07:43,0 --> 01:07:43,0
+their
+
+294
+01:07:43,0 --> 01:07:43,0
+faith in
+
+295
+01:07:43,0 --> 01:07:43,0
+me at the
+
+296
+01:07:43,0 --> 01:07:43,0
+time of
+
+297
+01:07:43,0 --> 01:07:43,0
+their
+
+298
+01:07:43,0 --> 01:07:43,0
+
+
+299
+01:07:43,0 --> 01:07:43,0
+conversion, were
+
+300
+01:07:43,0 --> 01:07:43,0
+baptized
+
+301
+01:07:43,0 --> 01:07:43,0
+with
+
+302
+01:07:43,0 --> 01:07:43,0
+fire and
+
+303
+01:07:43,0 --> 01:27:09,
+with the Holy Ghost, and they knew it not.
+
+304
+01:27:09,0 --> 01:27:09,0
+21
+
+305
+01:27:09,0 --> 01:27:09,0
+Behold, I
+
+306
+01:27:09,0 --> 01:27:09,0
+have
+
+307
+01:27:09,0 --> 01:27:09,0
+come unto
+
+308
+01:27:09,0 --> 01:27:09,0
+the
+
+309
+01:27:09,0 --> 01:27:09,0
+world to
+
+310
+01:27:09,0 --> 01:27:09,0
+bring
+
+311
+01:27:09,0 --> 01:27:09,0
+
+
+312
+01:27:09,0 --> 01:27:09,0
+redemption unto
+
+313
+01:27:09,0 --> 01:27:09,0
+the
+
+314
+01:27:09,0 --> 01:27:09,0
+world, to
+
+315
+01:27:09,0 --> 01:27:09,0
+save
+
+316
+01:27:09,0 --> 01:26:41,
+the world from sin.
+
+317
+01:26:41,0 --> 01:26:41,0
+22
+
+318
+01:26:41,0 --> 01:26:41,0
+
+
+319
+01:26:41,0 --> 01:26:41,0
+Therefore,
+
+320
+01:26:41,0 --> 01:26:41,0
+whoso
+
+321
+01:26:41,0 --> 01:26:41,0
+repenteth
+
+322
+01:26:41,0 --> 01:26:41,0
+and
+
+323
+01:26:41,0 --> 01:26:41,0
+cometh
+
+324
+01:26:41,0 --> 01:26:41,0
+unto me
+
+325
+01:26:41,0 --> 01:26:41,0
+as a
+
+326
+01:26:41,0 --> 01:26:41,0
+little
+
+327
+01:26:41,0 --> 01:26:41,0
+
+
+328
+01:26:41,0 --> 01:26:41,0
+child, him
+
+329
+01:26:41,0 --> 01:26:41,0
+will I
+
+330
+01:26:41,0 --> 01:26:41,0
+
+
+331
+01:26:41,0 --> 01:26:41,0
+receive,
+
+332
+01:26:41,0 --> 01:26:41,0
+for of
+
+333
+01:26:41,0 --> 01:26:41,0
+such is
+
+334
+01:26:41,0 --> 01:26:41,0
+the
+
+335
+01:26:41,0 --> 01:26:41,0
+kingdom
+
+336
+01:26:41,0 --> 01:26:41,0
+of
+
+337
+01:26:41,0 --> 01:26:41,0
+God.
+
+338
+01:26:41,0 --> 01:26:41,0
+Behold,
+
+339
+01:26:41,0 --> 01:26:41,0
+for
+
+340
+01:26:41,0 --> 01:26:41,0
+such I
+
+341
+01:26:41,0 --> 01:26:41,0
+have
+
+342
+01:26:41,0 --> 01:26:41,0
+laid down
+
+343
+01:26:41,0 --> 01:26:41,0
+my
+
+344
+01:26:41,0 --> 01:26:41,0
+life,
+
+345
+01:26:41,0 --> 01:26:41,0
+and have
+
+346
+01:26:41,0 --> 01:26:41,0
+taken
+
+347
+01:26:41,0 --> 01:26:41,0
+it up
+
+348
+01:26:41,0 --> 01:26:41,0
+
+
+349
+01:26:41,0 --> 01:26:41,0
+again;
+
+350
+01:26:41,0 --> 01:26:41,0
+therefore
+
+351
+01:26:41,0 --> 01:26:41,0
+
+
+352
+01:26:41,0 --> 01:26:41,0
+repent, and
+
+353
+01:26:41,0 --> 01:26:41,0
+come
+
+354
+01:26:41,0 --> 01:26:55,
+unto me ye ends of the earth, and be saved. 
 

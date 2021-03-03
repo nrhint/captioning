@@ -1,368 +1,784 @@
 1
-00:00:00,0 --> 00:00:29,75
-Chapter 15 The Lord chastened the Nephites because
+00:00:00,0 --> 00:00:00,0
+Chapter 15 The Lord chastened the Nephites
 
 2
-00:00:29,75 --> 00:00:59,5
- He loved them—Converted Lamanites are firm and
+00:00:00,0 --> 00:00:00,0
+because He loved them—Converted Lamanites are firm and
 
 3
-00:00:59,5 --> 00:01:29,25
- steadfast in the faith—The Lord will be merciful
+00:00:00,0 --> 00:00:00,0
+steadfast in the faith—The Lord will be merciful
 
 4
-00:01:29,25 --> 00:01:59,0
- unto the Lamanites in the latter days. About 6 B.C.
+00:00:00,0 --> 00:03:31,
+unto the Lamanites in the latter days. About 6 B.C. 
 
 5
-00:01:59,62 --> 00:02:02,287
-1 And now, my beloved brethren, behold, I declare
+00:03:31,0 --> 00:03:31,0
+1 And now, my beloved brethren, behold, I
 
 6
-00:02:02,287 --> 00:02:04,954
- unto you that except ye shall repent your houses
+00:03:31,0 --> 00:03:31,0
+declare unto you that except ye shall repent
 
 7
-00:02:04,954 --> 00:02:07,621
- shall be left unto you desolate
+00:03:31,0 --> 00:08:14,
+your houses shall be left unto you desolate.
 
 8
-00:02:07,594 --> 00:02:07,594
-2 Yea, except ye repent, your women shall have
+00:08:14,0 --> 00:08:14,0
+2 Yea, except ye repent, your women
 
 9
-00:02:07,594 --> 00:02:07,594
- great cause to mourn in the day that they shall give
+00:08:14,0 --> 00:08:14,0
+shall have great cause to mourn in the day
 
 10
-00:02:07,594 --> 00:02:07,594
- suck; for ye shall attempt to flee and there shall
+00:08:14,0 --> 00:08:14,0
+that they shall give suck; for ye shall
 
 11
-00:02:07,594 --> 00:02:07,594
- be no place for refuge; yea, and wo unto them
+00:08:14,0 --> 00:08:14,0
+attempt to flee and there shall be no
 
 12
-00:02:07,594 --> 00:02:07,594
- which are with child, for they shall be heavy and
+00:08:14,0 --> 00:08:14,0
+place for refuge; yea, and wo unto them
 
 13
-00:02:07,594 --> 00:02:07,594
- cannot flee; therefore, they shall be trodden down
+00:08:14,0 --> 00:08:14,0
+which are with child, for they shall be
 
 14
-00:02:07,594 --> 00:02:07,594
- and shall be left to perish
+00:08:14,0 --> 00:08:14,0
+heavy and cannot flee; therefore, they
 
 15
-00:02:07,995 --> 00:02:10,245
-3 Yea, wo unto this people who are called the
+00:08:14,0 --> 00:07:46,
+shall be trodden down and shall be left to perish.
 
 16
-00:02:10,245 --> 00:02:12,495
- people of Nephi except they shall repent, when they
+00:07:46,0 --> 00:07:46,0
+3 Yea, wo unto this people who are
 
 17
-00:02:12,495 --> 00:02:14,745
- shall see all these signs and wonders which shall be
+00:07:46,0 --> 00:07:46,0
+called the people of Nephi except they
 
 18
-00:02:14,745 --> 00:02:16,995
- showed unto them; for behold, they have been a
+00:07:46,0 --> 00:07:46,0
+shall repent, when they shall see all
 
 19
-00:02:16,995 --> 00:02:19,245
- chosen people of the Lord; yea, the people of Nephi
+00:07:46,0 --> 00:07:46,0
+these signs and wonders which shall be
 
 20
-00:02:19,245 --> 00:02:21,495
- hath he loved, and also hath he chastened them;
+00:07:46,0 --> 00:07:46,0
+showed unto them; for behold, they have
 
 21
-00:02:21,495 --> 00:02:23,745
- yea, in the days of their iniquities hath he
+00:07:46,0 --> 00:07:46,0
+been a chosen people of the Lord;
 
 22
-00:02:23,745 --> 00:02:25,995
- chastened them because he loveth them
+00:07:46,0 --> 00:07:46,0
+yea, the people of Nephi hath he loved,
 
 23
-00:02:25,045 --> 00:02:30,188
-4 But behold my brethren, the Lamanites hath he
+00:07:46,0 --> 00:07:46,0
+and also hath he chastened them; yea,
 
 24
-00:02:30,188 --> 00:02:35,331
- hated because their deeds have been evil
+00:07:46,0 --> 00:07:46,0
+in the days of their iniquities hath he
 
 25
-00:02:35,331 --> 00:02:40,474
- continually, and this because of the iniquity of the
+00:07:46,0 --> 00:07:18,
+chastened them because he loveth them.
 
 26
-00:02:40,474 --> 00:02:45,617
- tradition of their fathers. But behold, salvation hath
+00:07:18,0 --> 00:07:18,0
+4 But behold my brethren, the
 
 27
-00:02:45,617 --> 00:02:50,76
- come unto them through the preaching of the Nephites;
+00:07:18,0 --> 00:07:18,0
+Lamanites hath he hated because their
 
 28
-00:02:50,76 --> 00:02:55,903
- and for this intent hath the Lord prolonged their
+00:07:18,0 --> 00:07:18,0
+deeds have been evil continually,
 
 29
-00:02:55,903 --> 00:03:01,046
- days
+00:07:18,0 --> 00:07:18,0
+and this because of the iniquity
 
 30
-00:03:01,281 --> 00:03:23,481
-5 And I would that ye should behold that the more
+00:07:18,0 --> 00:07:18,0
+of the tradition of their fathers.
 
 31
-00:03:23,481 --> 00:03:45,681
- part of them are in the path of their duty, and
+00:07:18,0 --> 00:07:18,0
+But behold, salvation hath come
 
 32
-00:03:45,681 --> 00:04:07,881
- they do walk circumspectly before God, and they do
+00:07:18,0 --> 00:07:18,0
+unto them through the preaching of
 
 33
-00:04:07,881 --> 00:04:30,081
- observe to keep his commandments and his statutes
+00:07:18,0 --> 00:07:18,0
+the Nephites; and for this intent
 
 34
-00:04:30,081 --> 00:04:52,281
- and his judgments according to the law of Moses
+00:07:18,0 --> 00:06:50,
+hath the Lord prolonged their days.
 
 35
-00:04:52,926 --> 00:04:55,593
-6 Yea, I say unto you, that the more part of them
+00:06:50,0 --> 00:06:50,0
+5 And I would that ye should
 
 36
-00:04:55,593 --> 00:04:58,26
- are doing this, and they are striving with
+00:06:50,0 --> 00:06:50,0
+behold that the more part of
 
 37
-00:04:58,26 --> 00:05:00,927
- unwearied diligence that they may bring the remainder of
+00:06:50,0 --> 00:06:50,0
+them are in the path of their
 
 38
-00:05:00,927 --> 00:05:03,594
- their brethren to the knowledge of the truth;
+00:06:50,0 --> 00:06:50,0
+duty, and they do walk
 
 39
-00:05:03,594 --> 00:05:06,261
- therefore there are many who do add to their numbers
+00:06:50,0 --> 00:06:50,0
+circumspectly before God, and they do
 
 40
-00:05:06,261 --> 00:05:08,928
- daily
+00:06:50,0 --> 00:06:50,0
+observe to keep his
 
 41
-00:05:08,875 --> 00:05:09,764
-7 And behold, ye do know of yourselves, for ye
+00:06:50,0 --> 00:06:50,0
+commandments and his statutes and his
 
 42
-00:05:09,764 --> 00:05:10,653
- have witnessed it, that as many of them as are
+00:06:50,0 --> 00:06:36,
+judgments according to the law of Moses.
 
 43
-00:05:10,653 --> 00:05:11,542
- brought to the knowledge of the truth, and to know of
+00:06:36,0 --> 00:06:36,0
+6 Yea, I say unto you, that
 
 44
-00:05:11,542 --> 00:05:12,431
- the wicked and abominable traditions of their
+00:06:36,0 --> 00:06:36,0
+the more part of them are
 
 45
-00:05:12,431 --> 00:05:13,32
- fathers, and are led to believe the holy scriptures,
+00:06:36,0 --> 00:06:36,0
+doing this, and they are
 
 46
-00:05:13,32 --> 00:05:14,209
- yea, the prophecies of the holy prophets, which are
+00:06:36,0 --> 00:06:36,0
+striving with unwearied diligence
 
 47
-00:05:14,209 --> 00:05:15,098
- written, which leadeth them to faith on the Lord,
+00:06:36,0 --> 00:06:36,0
+that they may bring the
 
 48
-00:05:15,098 --> 00:05:15,987
- and unto repentance, which faith and repentance
+00:06:36,0 --> 00:06:36,0
+remainder of their brethren to
 
 49
-00:05:15,987 --> 00:05:16,876
- bringeth a change of heart unto them
+00:06:36,0 --> 00:06:36,0
+the knowledge of the truth;
 
 50
-00:05:16,85 --> 00:05:17,1
-8 Therefore, as many as have come to this, ye know
+00:06:36,0 --> 00:06:36,0
+therefore there are many who
 
 51
-00:05:17,1 --> 00:05:17,35
- of yourselves are firm and steadfast in the
+00:06:36,0 --> 00:06:22,
+do add to their numbers daily.
 
 52
-00:05:17,35 --> 00:05:17,6
- faith, and in the thing wherewith they have been made
+00:06:22,0 --> 00:06:22,0
+7 And behold, ye do know of
 
 53
-00:05:17,6 --> 00:05:17,85
- free
+00:06:22,0 --> 00:06:22,0
+yourselves, for ye have
 
 54
-00:05:17,517 --> 00:05:50,517
-9 And ye know also that they have buried their
+00:06:22,0 --> 00:06:22,0
+witnessed it, that as many of
 
 55
-00:05:50,517 --> 00:06:23,517
- weapons of war, and they fear to take them up lest by
+00:06:22,0 --> 00:06:22,0
+them as are brought to the
 
 56
-00:06:23,517 --> 00:06:56,517
- any means they should sin; yea, ye can see that
+00:06:22,0 --> 00:06:22,0
+knowledge of the truth,
 
 57
-00:06:56,517 --> 00:07:29,517
- they fear to sin—for behold they will suffer
+00:06:22,0 --> 00:06:22,0
+and to know of the wicked and
 
 58
-00:07:29,517 --> 00:08:02,517
- themselves that they be trodden down and slain by their
+00:06:22,0 --> 00:06:22,0
+abominable traditions of
 
 59
-00:08:02,517 --> 00:08:35,517
- enemies, and will not lift their swords against
+00:06:22,0 --> 00:06:22,0
+their fathers, and are led
 
 60
-00:08:35,517 --> 00:09:08,517
- them, and this because of their faith in Christ
+00:06:22,0 --> 00:06:22,0
+to believe the holy
 
 61
-00:09:08,782 --> 00:09:10,115
-10 And now, because of their steadfastness when
+00:06:22,0 --> 00:06:22,0
+scriptures, yea, the prophecies of
 
 62
-00:09:10,115 --> 00:09:11,448
- they do believe in that thing which they do believe,
+00:06:22,0 --> 00:06:22,0
+the holy prophets, which
 
 63
-00:09:11,448 --> 00:09:12,781
- for because of their firmness when they are once
+00:06:22,0 --> 00:06:22,0
+are written, which leadeth
 
 64
-00:09:12,781 --> 00:09:14,114
- enlightened, behold, the Lord shall bless them and
+00:06:22,0 --> 00:06:22,0
+them to faith on the Lord,
 
 65
-00:09:14,114 --> 00:09:15,447
- prolong their days, notwithstanding their
+00:06:22,0 --> 00:06:22,0
+and unto repentance, which
 
 66
-00:09:15,447 --> 00:09:16,78
- iniquity
+00:06:22,0 --> 00:06:22,0
+faith and repentance bringeth
 
 67
-00:09:16,756 --> 00:09:17,899
-11 Yea, even if they should dwindle in unbelief
+00:06:22,0 --> 00:08:06,
+a change of heart unto them—
 
 68
-00:09:17,899 --> 00:09:19,042
- the Lord shall prolong their days, until the time
+00:08:06,0 --> 00:08:06,0
+8 Therefore, as many as
 
 69
-00:09:19,042 --> 00:09:20,185
- shall come which hath been spoken of by our fathers,
+00:08:06,0 --> 00:08:06,0
+have come to this, ye know
 
 70
-00:09:20,185 --> 00:09:21,328
- and also by the prophet Zenos, and many other
+00:08:06,0 --> 00:08:06,0
+of yourselves are firm
 
 71
-00:09:21,328 --> 00:09:22,471
- prophets, concerning the restoration of our brethren,
+00:08:06,0 --> 00:08:06,0
+and steadfast in the
 
 72
-00:09:22,471 --> 00:09:23,614
- the Lamanites, again to the knowledge of the
+00:08:06,0 --> 00:08:06,0
+faith, and in the thing
 
 73
-00:09:23,614 --> 00:09:24,757
- truth
+00:08:06,0 --> 00:11:51,
+wherewith they have been made free.
 
 74
-00:01:59,62 --> 00:02:03,62
-14 Therefore I say unto you, it shall be better
+00:11:51,0 --> 00:11:51,0
+9 And ye know also that
 
 75
-00:02:03,62 --> 00:02:07,62
- for them than for you except ye repent
+00:11:51,0 --> 00:11:51,0
+they have buried their
 
 76
-00:02:07,594 --> 00:02:10,261
-15 For behold, had the mighty works been shown
+00:11:51,0 --> 00:11:51,0
+weapons of war, and they
 
 77
-00:02:10,261 --> 00:02:12,928
- unto them which have been shown unto you, yea, unto
+00:11:51,0 --> 00:11:51,0
+fear to take them up
 
 78
-00:02:12,928 --> 00:02:15,595
- them who have dwindled in unbelief because of the
+00:11:51,0 --> 00:11:51,0
+lest by any means they
 
 79
-00:02:15,595 --> 00:02:18,262
- traditions of their fathers, ye can see of
+00:11:51,0 --> 00:11:51,0
+should sin; yea, ye can see
 
 80
-00:02:18,262 --> 00:02:20,929
- yourselves that they never would again have dwindled in
+00:11:51,0 --> 00:11:51,0
+that they fear to
 
 81
-00:02:20,929 --> 00:02:23,596
- unbelief
+00:11:51,0 --> 00:11:51,0
+sin—for behold they will
 
 82
-00:02:23,543 --> 00:02:27,543
-16 Therefore, saith the Lord: I will not utterly
+00:11:51,0 --> 00:11:51,0
+suffer themselves that they
 
 83
-00:02:27,543 --> 00:02:31,543
- destroy them, but I will cause that in the day of
+00:11:51,0 --> 00:11:51,0
+be trodden down and slain
 
 84
-00:02:31,543 --> 00:02:35,543
- my wisdom they shall return again unto me, saith
+00:11:51,0 --> 00:11:51,0
+by their enemies, and
 
 85
-00:02:35,543 --> 00:02:39,543
- the Lord
+00:11:51,0 --> 00:11:51,0
+will not lift their
 
 86
-00:02:39,493 --> 00:02:39,493
-17 And now behold, saith the Lord, concerning the
+00:11:51,0 --> 00:11:51,0
+swords against them, and this
 
 87
-00:02:39,493 --> 00:02:39,493
- people of the Nephites: If they will not repent,
+00:11:51,0 --> 00:11:23,
+because of their faith in Christ.
 
 88
-00:02:39,493 --> 00:02:39,493
- and observe to do my will, I will utterly destroy
+00:11:23,0 --> 00:11:23,0
+10 And now, because of
 
 89
-00:02:39,493 --> 00:02:39,493
- them, saith the Lord, because of their unbelief
+00:11:23,0 --> 00:11:23,0
+their steadfastness
 
 90
-00:02:39,493 --> 00:02:39,493
- notwithstanding the many mighty works which I have
+00:11:23,0 --> 00:11:23,0
+when they do believe in
 
 91
-00:02:39,493 --> 00:02:39,493
- done among them; and as surely as the Lord liveth
+00:11:23,0 --> 00:11:23,0
+that thing which they
 
 92
-00:02:39,493 --> 00:02:39,493
- shall these things be, saith the Lord.
+00:11:23,0 --> 00:11:23,0
+do believe, for
+
+93
+00:11:23,0 --> 00:11:23,0
+because of their firmness
+
+94
+00:11:23,0 --> 00:11:23,0
+when they are once
+
+95
+00:11:23,0 --> 00:11:23,0
+enlightened, behold, the
+
+96
+00:11:23,0 --> 00:11:23,0
+Lord shall bless them
+
+97
+00:11:23,0 --> 00:11:23,0
+and prolong their days,
+
+98
+00:11:23,0 --> 00:10:55,
+notwithstanding their iniquity—
+
+99
+00:10:55,0 --> 00:10:55,0
+11 Yea, even if they
+
+100
+00:10:55,0 --> 00:10:55,0
+should dwindle in
+
+101
+00:10:55,0 --> 00:10:55,0
+unbelief the Lord shall
+
+102
+00:10:55,0 --> 00:10:55,0
+prolong their days,
+
+103
+00:10:55,0 --> 00:10:55,0
+until the time shall
+
+104
+00:10:55,0 --> 00:10:55,0
+come which hath been
+
+105
+00:10:55,0 --> 00:10:55,0
+spoken of by our
+
+106
+00:10:55,0 --> 00:10:55,0
+fathers, and also by the
+
+107
+00:10:55,0 --> 00:10:55,0
+prophet Zenos, and
+
+108
+00:10:55,0 --> 00:10:55,0
+many other prophets,
+
+109
+00:10:55,0 --> 00:10:55,0
+concerning the
+
+110
+00:10:55,0 --> 00:10:55,0
+restoration of our brethren,
+
+111
+00:10:55,0 --> 00:10:55,0
+the Lamanites, again
+
+112
+00:10:55,0 --> 00:10:55,
+to the knowledge of the truth—
+
+113
+00:10:55,0 --> 00:10:55,0
+12 Yea, I say unto
+
+114
+00:10:55,0 --> 00:10:55,0
+you, that in the
+
+115
+00:10:55,0 --> 00:10:55,0
+latter times the
+
+116
+00:10:55,0 --> 00:10:55,0
+promises of the Lord have
+
+117
+00:10:55,0 --> 00:10:55,0
+been extended to our
+
+118
+00:10:55,0 --> 00:10:55,0
+brethren, the
+
+119
+00:10:55,0 --> 00:10:55,0
+Lamanites; and
+
+120
+00:10:55,0 --> 00:10:55,0
+notwithstanding the many
+
+121
+00:10:55,0 --> 00:10:55,0
+afflictions which they
+
+122
+00:10:55,0 --> 00:10:55,0
+shall have, and
+
+123
+00:10:55,0 --> 00:10:55,0
+notwithstanding they shall
+
+124
+00:10:55,0 --> 00:10:55,0
+be driven to and fro
+
+125
+00:10:55,0 --> 00:10:55,0
+upon the face of
+
+126
+00:10:55,0 --> 00:10:55,0
+the earth, and be
+
+127
+00:10:55,0 --> 00:10:55,0
+hunted, and shall be
+
+128
+00:10:55,0 --> 00:10:55,0
+smitten and scattered
+
+129
+00:10:55,0 --> 00:10:55,0
+abroad, having no
+
+130
+00:10:55,0 --> 00:10:55,0
+place for refuge, the
+
+131
+00:10:55,0 --> 00:10:55,
+Lord shall be merciful unto them.
+
+132
+00:10:55,0 --> 00:10:55,0
+13 And this is
+
+133
+00:10:55,0 --> 00:10:55,0
+according to the
+
+134
+00:10:55,0 --> 00:10:55,0
+prophecy, that they
+
+135
+00:10:55,0 --> 00:10:55,0
+shall again be
+
+136
+00:10:55,0 --> 00:10:55,0
+brought to the true
+
+137
+00:10:55,0 --> 00:10:55,0
+knowledge, which is
+
+138
+00:10:55,0 --> 00:10:55,0
+the knowledge of
+
+139
+00:10:55,0 --> 00:10:55,0
+their Redeemer, and
+
+140
+00:10:55,0 --> 00:10:55,0
+their great and
+
+141
+00:10:55,0 --> 00:10:55,0
+true shepherd, and
+
+142
+00:10:55,0 --> 00:10:55,
+be numbered among his sheep.
+
+143
+00:10:55,0 --> 00:10:55,0
+14 Therefore I
+
+144
+00:10:55,0 --> 00:10:55,0
+say unto you, it
+
+145
+00:10:55,0 --> 00:10:55,0
+shall be better for
+
+146
+00:10:55,0 --> 00:10:55,0
+them than for
+
+147
+00:10:55,0 --> 00:10:55,
+you except ye repent.
+
+148
+00:10:55,0 --> 00:10:55,0
+15 For behold,
+
+149
+00:10:55,0 --> 00:10:55,0
+had the mighty
+
+150
+00:10:55,0 --> 00:10:55,0
+works been shown
+
+151
+00:10:55,0 --> 00:10:55,0
+unto them which
+
+152
+00:10:55,0 --> 00:10:55,0
+have been shown
+
+153
+00:10:55,0 --> 00:10:55,0
+unto you, yea,
+
+154
+00:10:55,0 --> 00:10:55,0
+unto them who have
+
+155
+00:10:55,0 --> 00:10:55,0
+dwindled in
+
+156
+00:10:55,0 --> 00:10:55,0
+unbelief because of
+
+157
+00:10:55,0 --> 00:10:55,0
+the traditions
+
+158
+00:10:55,0 --> 00:10:55,0
+of their
+
+159
+00:10:55,0 --> 00:10:55,0
+fathers, ye can see of
+
+160
+00:10:55,0 --> 00:10:55,0
+yourselves that
+
+161
+00:10:55,0 --> 00:10:55,0
+they never would
+
+162
+00:10:55,0 --> 00:10:55,0
+again have
+
+163
+00:10:55,0 --> 00:10:55,
+dwindled in unbelief.
+
+164
+00:10:55,0 --> 00:10:55,0
+16 Therefore,
+
+165
+00:10:55,0 --> 00:10:55,0
+saith the Lord:
+
+166
+00:10:55,0 --> 00:10:55,0
+I will not
+
+167
+00:10:55,0 --> 00:10:55,0
+utterly destroy
+
+168
+00:10:55,0 --> 00:10:55,0
+them, but I will
+
+169
+00:10:55,0 --> 00:10:55,0
+cause that in
+
+170
+00:10:55,0 --> 00:10:55,0
+the day of my
+
+171
+00:10:55,0 --> 00:10:55,0
+wisdom they shall
+
+172
+00:10:55,0 --> 00:10:55,0
+return again
+
+173
+00:10:55,0 --> 00:10:55,
+unto me, saith the Lord.
+
+174
+00:10:55,0 --> 00:10:55,0
+17 And now
+
+175
+00:10:55,0 --> 00:10:55,0
+behold, saith the
+
+176
+00:10:55,0 --> 00:10:55,0
+Lord,
+
+177
+00:10:55,0 --> 00:10:55,0
+concerning the people
+
+178
+00:10:55,0 --> 00:10:55,0
+of the
+
+179
+00:10:55,0 --> 00:10:55,0
+Nephites: If they
+
+180
+00:10:55,0 --> 00:10:55,0
+will not repent,
+
+181
+00:10:55,0 --> 00:10:55,0
+and observe
+
+182
+00:10:55,0 --> 00:10:55,0
+to do my will,
+
+183
+00:10:55,0 --> 00:10:55,0
+I will utterly
+
+184
+00:10:55,0 --> 00:10:55,0
+destroy them,
+
+185
+00:10:55,0 --> 00:10:55,0
+saith the
+
+186
+00:10:55,0 --> 00:10:55,0
+Lord, because of
+
+187
+00:10:55,0 --> 00:10:55,0
+their unbelief
+
+188
+00:10:55,0 --> 00:10:55,0
+
+
+189
+00:10:55,0 --> 00:10:55,0
+notwithstanding the many
+
+190
+00:10:55,0 --> 00:10:55,0
+mighty works
+
+191
+00:10:55,0 --> 00:10:55,0
+which I have done
+
+192
+00:10:55,0 --> 00:10:55,0
+among them;
+
+193
+00:10:55,0 --> 00:10:55,0
+and as surely
+
+194
+00:10:55,0 --> 00:10:55,0
+as the Lord
+
+195
+00:10:55,0 --> 00:10:55,0
+liveth shall
+
+196
+00:10:55,0 --> 00:10:55,
+these things be, saith the Lord. 
 

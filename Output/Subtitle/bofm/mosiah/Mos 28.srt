@@ -1,400 +1,1196 @@
 1
-00:00:00,0 --> 00:00:02,333
-Chapter 28 The sons of Mosiah go to preach to the
+00:00:00,0 --> 00:00:00,0
+Chapter 28 The sons of Mosiah go to preach to
 
 2
-00:00:02,333 --> 00:00:04,666
- Lamanites—Using the two seer stones, Mosiah
+00:00:00,0 --> 00:00:00,0
+the Lamanites—Using the two seer stones,
 
 3
-00:00:04,666 --> 00:00:06,999
- translates the Jaredite plates. About 92 B.C.
+00:00:00,0 --> 00:06:27,
+Mosiah translates the Jaredite plates. About 92 B.C. 
 
 4
-00:00:07,975 --> 00:00:08,864
+00:06:27,0 --> 00:06:27,0
 1 Now it came to pass that after the sons of
 
 5
-00:00:08,864 --> 00:00:09,753
- Mosiah had done all these things, they took a small
+00:06:27,0 --> 00:06:27,0
+Mosiah had done all these things, they took a
 
 6
-00:00:09,753 --> 00:00:10,642
- number with them and returned to their father, the
+00:06:27,0 --> 00:06:27,0
+small number with them and returned to their
 
 7
-00:00:10,642 --> 00:00:11,531
- king, and desired of him that he would grant unto
+00:06:27,0 --> 00:06:27,0
+father, the king, and desired of him that he
 
 8
-00:00:11,531 --> 00:00:12,42
- them that they might, with these whom they had
+00:06:27,0 --> 00:06:27,0
+would grant unto them that they might, with these
 
 9
-00:00:12,42 --> 00:00:13,309
- selected, go up to the land of Nephi that they might
+00:06:27,0 --> 00:06:27,0
+whom they had selected, go up to the land of
 
 10
-00:00:13,309 --> 00:00:14,198
- preach the things which they had heard, and that
+00:06:27,0 --> 00:06:27,0
+Nephi that they might preach the things which
 
 11
-00:00:14,198 --> 00:00:15,087
- they might impart the word of God to their brethren,
+00:06:27,0 --> 00:06:27,0
+they had heard, and that they might impart the
 
 12
-00:00:15,087 --> 00:00:15,976
- the Lamanites
+00:06:27,0 --> 00:10:26,
+word of God to their brethren, the Lamanites—
 
 13
-00:00:15,949 --> 00:00:16,838
-2 That perhaps they might bring them to the
+00:10:26,0 --> 00:10:26,0
+2 That perhaps they might bring them to
 
 14
-00:00:16,838 --> 00:00:17,727
- knowledge of the Lord their God, and convince them of
+00:10:26,0 --> 00:10:26,0
+the knowledge of the Lord their God, and
 
 15
-00:00:17,727 --> 00:00:18,616
- the iniquity of their fathers; and that perhaps they
+00:10:26,0 --> 00:10:26,0
+convince them of the iniquity of their
 
 16
-00:00:18,616 --> 00:00:19,505
- might cure them of their hatred towards the
+00:10:26,0 --> 00:10:26,0
+fathers; and that perhaps they might cure them
 
 17
-00:00:19,505 --> 00:00:20,394
- Nephites, that they might also be brought to rejoice in
+00:10:26,0 --> 00:10:26,0
+of their hatred towards the Nephites, that
 
 18
-00:00:20,394 --> 00:00:21,283
- the Lord their God, that they might become
+00:10:26,0 --> 00:10:26,0
+they might also be brought to rejoice in
 
 19
-00:00:21,283 --> 00:00:22,172
- friendly to one another, and that there should be no
+00:10:26,0 --> 00:10:26,0
+the Lord their God, that they might become
 
 20
-00:00:22,172 --> 00:00:23,061
- more contentions in all the land which the Lord their
+00:10:26,0 --> 00:10:26,0
+friendly to one another, and that there
 
 21
-00:00:23,061 --> 00:00:23,95
- God had given them
+00:10:26,0 --> 00:10:26,0
+should be no more contentions in all the
 
 22
-00:00:23,924 --> 00:00:25,524
-3 Now they were desirous that salvation should be
+00:10:26,0 --> 00:14:11,
+land which the Lord their God had given them.
 
 23
-00:00:25,524 --> 00:00:27,124
- declared to every creature, for they could not
+00:14:11,0 --> 00:14:11,0
+3 Now they were desirous that salvation
 
 24
-00:00:27,124 --> 00:00:28,724
- bear that any human soul should perish; yea, even the
+00:14:11,0 --> 00:14:11,0
+should be declared to every creature,
 
 25
-00:00:28,724 --> 00:00:30,324
- very thoughts that any soul should endure endless
+00:14:11,0 --> 00:14:11,0
+for they could not bear that any human
 
 26
-00:00:30,324 --> 00:00:31,924
- torment did cause them to quake and tremble
+00:14:11,0 --> 00:14:11,0
+soul should perish; yea, even the very
 
 27
-00:00:31,899 --> 00:00:34,566
-4 And thus did the Spirit of the Lord work upon
+00:14:11,0 --> 00:14:11,0
+thoughts that any soul should endure endless
 
 28
-00:00:34,566 --> 00:00:37,233
- them, for they were the very vilest of sinners. And
+00:14:11,0 --> 00:16:23,
+torment did cause them to quake and tremble.
 
 29
-00:00:37,233 --> 00:00:39,9
- the Lord saw fit in his infinite mercy to spare
+00:16:23,0 --> 00:16:23,0
+4 And thus did the Spirit of the
 
 30
-00:00:39,9 --> 00:00:42,567
- them; nevertheless they suffered much anguish of
+00:16:23,0 --> 00:16:23,0
+Lord work upon them, for they were the
 
 31
-00:00:42,567 --> 00:00:45,234
- soul because of their iniquities, suffering much and
+00:16:23,0 --> 00:16:23,0
+very vilest of sinners. And the Lord
 
 32
-00:00:45,234 --> 00:00:47,901
- fearing that they should be cast off forever
+00:16:23,0 --> 00:16:23,0
+saw fit in his infinite mercy to
 
 33
-00:00:47,848 --> 00:00:50,515
-5 And it came to pass that they did plead with
+00:16:23,0 --> 00:16:23,0
+spare them; nevertheless they suffered
 
 34
-00:00:50,515 --> 00:00:53,182
- their father many days that they might go up to the
+00:16:23,0 --> 00:16:23,0
+much anguish of soul because of
 
 35
-00:00:53,182 --> 00:00:55,849
- land of Nephi
+00:16:23,0 --> 00:16:23,0
+their iniquities, suffering much and
 
 36
-00:00:55,822 --> 00:00:58,489
-6 And king Mosiah went and inquired of the Lord if
+00:16:23,0 --> 00:20:51,
+fearing that they should be cast off forever.
 
 37
-00:00:58,489 --> 00:01:01,156
- he should let his sons go up among the Lamanites
+00:20:51,0 --> 00:20:51,0
+5 And it came to pass that
 
 38
-00:01:01,156 --> 00:01:03,823
- to preach the word
+00:20:51,0 --> 00:20:51,0
+they did plead with their
 
 39
-00:01:03,797 --> 00:01:05,797
-7 And the Lord said unto Mosiah: Let them go up,
+00:20:51,0 --> 00:20:51,0
+father many days that they
 
 40
-00:01:05,797 --> 00:01:07,797
- for many shall believe on their words, and they
+00:20:51,0 --> 00:23:03,
+might go up to the land of Nephi.
 
 41
-00:01:07,797 --> 00:01:09,797
- shall have eternal life; and I will deliver thy sons
+00:23:03,0 --> 00:23:03,0
+6 And king Mosiah went
 
 42
-00:01:09,797 --> 00:01:11,797
- out of the hands of the Lamanites
+00:23:03,0 --> 00:23:03,0
+and inquired of the
 
 43
-00:01:11,772 --> 00:01:15,772
-8 And it came to pass that Mosiah granted that
+00:23:03,0 --> 00:23:03,0
+Lord if he should let his
 
 44
-00:01:15,772 --> 00:01:19,772
- they might go and do according to their request
+00:23:03,0 --> 00:23:03,0
+sons go up among the
 
 45
-00:01:19,746 --> 00:01:21,746
-9 And they took their journey into the wilderness
+00:23:03,0 --> 00:30:47,
+Lamanites to preach the word.
 
 46
-00:01:21,746 --> 00:01:23,746
- to go up to preach the word among the Lamanites;
+00:30:47,0 --> 00:30:47,0
+7 And the Lord said
 
 47
-00:01:23,746 --> 00:01:25,746
- and I shall give an account of their proceedings
+00:30:47,0 --> 00:30:47,0
+unto Mosiah: Let them go
 
 48
-00:01:25,746 --> 00:01:27,746
- hereafter
+00:30:47,0 --> 00:30:47,0
+up, for many shall
 
 49
-00:01:27,721 --> 00:01:30,388
-10 Now king Mosiah had no one to confer the
+00:30:47,0 --> 00:30:47,0
+believe on their words, and
 
 50
-00:01:30,388 --> 00:01:33,055
- kingdom upon, for there was not any of his sons who
+00:30:47,0 --> 00:30:47,0
+they shall have eternal
 
 51
-00:01:33,055 --> 00:01:35,722
- would accept of the kingdom
+00:30:47,0 --> 00:30:47,0
+life; and I will
 
 52
-00:01:35,696 --> 00:01:36,696
-11 Therefore he took the records which were
+00:30:47,0 --> 00:30:47,0
+deliver thy sons out of the
 
 53
-00:01:36,696 --> 00:01:37,696
- engraven on the plates of brass, and also the plates of
+00:30:47,0 --> 00:30:19,
+hands of the Lamanites.
 
 54
-00:01:37,696 --> 00:01:38,696
- Nephi, and all the things which he had kept and
+00:30:19,0 --> 00:30:19,0
+8 And it came to
 
 55
-00:01:38,696 --> 00:01:39,696
- preserved according to the commandments of God,
+00:30:19,0 --> 00:30:19,0
+pass that Mosiah
 
 56
-00:01:39,696 --> 00:01:40,696
- after having translated and caused to be written the
+00:30:19,0 --> 00:30:19,0
+granted that they might
 
 57
-00:01:40,696 --> 00:01:41,696
- records which were on the plates of gold which had
+00:30:19,0 --> 00:30:19,0
+go and do
 
 58
-00:01:41,696 --> 00:01:42,696
- been found by the people of Limhi, which were
+00:30:19,0 --> 00:30:33,
+according to their request.
 
 59
-00:01:42,696 --> 00:01:43,696
- delivered to him by the hand of Limhi
+00:30:33,0 --> 00:30:33,0
+9 And they took
 
 60
-00:01:43,67 --> 00:01:45,67
-12 And this he did because of the great anxiety of
+00:30:33,0 --> 00:30:33,0
+their journey into
 
 61
-00:01:45,67 --> 00:01:47,67
- his people; for they were desirous beyond measure
+00:30:33,0 --> 00:30:33,0
+the wilderness
 
 62
-00:01:47,67 --> 00:01:49,67
- to know concerning those people who had been
+00:30:33,0 --> 00:30:33,0
+to go up to preach
 
 63
-00:01:49,67 --> 00:01:51,67
- destroyed
+00:30:33,0 --> 00:30:33,0
+the word among
 
 64
-00:01:51,645 --> 00:01:54,312
-13 And now he translated them by the means of
+00:30:33,0 --> 00:30:33,0
+the Lamanites; and
 
 65
-00:01:54,312 --> 00:01:56,979
- those two stones which were fastened into the two rims
+00:30:33,0 --> 00:30:33,0
+I shall give an
 
 66
-00:01:56,979 --> 00:01:59,646
- of a bow
+00:30:33,0 --> 00:30:33,0
+account of their
 
 67
-00:01:59,62 --> 00:02:02,287
-14 Now these things were prepared from the
+00:30:33,0 --> 00:37:41,
+proceedings hereafter.
 
 68
-00:02:02,287 --> 00:02:04,954
- beginning, and were handed down from generation to
+00:37:41,0 --> 00:37:41,0
+10 Now king
 
 69
-00:02:04,954 --> 00:02:07,621
- generation, for the purpose of interpreting languages
+00:37:41,0 --> 00:37:41,0
+Mosiah had no one
 
 70
-00:02:07,594 --> 00:02:09,594
-15 And they have been kept and preserved by the
+00:37:41,0 --> 00:37:41,0
+to confer the
 
 71
-00:02:09,594 --> 00:02:11,594
- hand of the Lord, that he should discover to every
+00:37:41,0 --> 00:37:41,0
+kingdom upon,
 
 72
-00:02:11,594 --> 00:02:13,594
- creature who should possess the land the iniquities
+00:37:41,0 --> 00:37:41,0
+for there was not
 
 73
-00:02:13,594 --> 00:02:15,594
- and abominations of his people
+00:37:41,0 --> 00:37:41,0
+any of his
 
 74
-00:02:15,569 --> 00:02:19,569
-16 And whosoever has these things is called seer,
+00:37:41,0 --> 00:37:41,0
+sons who would
 
 75
-00:02:19,569 --> 00:02:23,569
- after the manner of old times
+00:37:41,0 --> 00:38:39,
+accept of the kingdom.
 
 76
-00:02:23,543 --> 00:02:24,543
-17 Now after Mosiah had finished translating these
+00:38:39,0 --> 00:38:39,0
+11 Therefore
 
 77
-00:02:24,543 --> 00:02:25,543
- records, behold, it gave an account of the people
+00:38:39,0 --> 00:38:39,0
+he took the
 
 78
-00:02:25,543 --> 00:02:26,543
- who were destroyed, from the time that they were
+00:38:39,0 --> 00:38:39,0
+records which
 
 79
-00:02:26,543 --> 00:02:27,543
- destroyed back to the building of the great tower,
+00:38:39,0 --> 00:38:39,0
+were engraven on
 
 80
-00:02:27,543 --> 00:02:28,543
- at the time the Lord confounded the language of
+00:38:39,0 --> 00:38:39,0
+the plates of
 
 81
-00:02:28,543 --> 00:02:29,543
- the people and they were scattered abroad upon the
+00:38:39,0 --> 00:38:39,0
+brass, and
 
 82
-00:02:29,543 --> 00:02:30,543
- face of all the earth, yea, and even from that
+00:38:39,0 --> 00:38:39,0
+also the plates
 
 83
-00:02:30,543 --> 00:02:31,543
- time back until the creation of Adam
+00:38:39,0 --> 00:38:39,0
+of Nephi, and
 
 84
-00:02:31,518 --> 00:02:33,518
-18 Now this account did cause the people of Mosiah
+00:38:39,0 --> 00:38:39,0
+all the things
 
 85
-00:02:33,518 --> 00:02:35,518
- to mourn exceedingly, yea, they were filled with
+00:38:39,0 --> 00:38:39,0
+which he had
 
 86
-00:02:35,518 --> 00:02:37,518
- sorrow; nevertheless it gave them much knowledge,
+00:38:39,0 --> 00:38:39,0
+kept and
 
 87
-00:02:37,518 --> 00:02:39,518
- in the which they did rejoice
+00:38:39,0 --> 00:38:39,0
+preserved according
 
 88
-00:02:39,493 --> 00:02:42,16
-19 And this account shall be written hereafter;
+00:38:39,0 --> 00:38:39,0
+to the
 
 89
-00:02:42,16 --> 00:02:44,827
- for behold, it is expedient that all people should
+00:38:39,0 --> 00:38:39,0
+commandments of God,
 
 90
-00:02:44,827 --> 00:02:47,494
- know the things which are written in this account
+00:38:39,0 --> 00:38:39,0
+after having
 
 91
-00:02:47,467 --> 00:02:48,267
-20 And now, as I said unto you, that after king
+00:38:39,0 --> 00:38:39,0
+translated and
 
 92
-00:02:48,267 --> 00:02:49,067
- Mosiah had done these things, he took the plates of
+00:38:39,0 --> 00:38:39,0
+caused to be
 
 93
-00:02:49,067 --> 00:02:49,867
- brass, and all the things which he had kept, and
+00:38:39,0 --> 00:38:39,0
+written the
 
 94
-00:02:49,867 --> 00:02:50,667
- conferred them upon Alma, who was the son of Alma;
+00:38:39,0 --> 00:38:39,0
+records which
 
 95
-00:02:50,667 --> 00:02:51,467
- yea, all the records, and also the interpreters,
+00:38:39,0 --> 00:38:39,0
+were on the
 
 96
-00:02:51,467 --> 00:02:52,267
- and conferred them upon him, and commanded him that
+00:38:39,0 --> 00:38:39,0
+plates of gold
 
 97
-00:02:52,267 --> 00:02:53,067
- he should keep and preserve them, and also keep a
+00:38:39,0 --> 00:38:39,0
+which had been
 
 98
-00:02:53,067 --> 00:02:53,867
- record of the people, handing them down from one
+00:38:39,0 --> 00:38:39,0
+found by the
 
 99
-00:02:53,867 --> 00:02:54,667
- generation to another, even as they had been
+00:38:39,0 --> 00:38:39,0
+people of Limhi,
 
 100
-00:02:54,667 --> 00:02:55,467
- handed down from the time that Lehi left Jerusalem.
+00:38:39,0 --> 00:38:39,0
+which were
+
+101
+00:38:39,0 --> 00:40:09,
+delivered to him by the hand of Limhi;
+
+102
+00:40:09,0 --> 00:40:09,0
+12 And this
+
+103
+00:40:09,0 --> 00:40:09,0
+he did because
+
+104
+00:40:09,0 --> 00:40:09,0
+of the great
+
+105
+00:40:09,0 --> 00:40:09,0
+anxiety of
+
+106
+00:40:09,0 --> 00:40:09,0
+his people;
+
+107
+00:40:09,0 --> 00:40:09,0
+for they were
+
+108
+00:40:09,0 --> 00:40:09,0
+desirous
+
+109
+00:40:09,0 --> 00:40:09,0
+beyond measure to
+
+110
+00:40:09,0 --> 00:40:09,0
+know
+
+111
+00:40:09,0 --> 00:40:09,0
+concerning those
+
+112
+00:40:09,0 --> 00:40:09,0
+people who had
+
+113
+00:40:09,0 --> 00:46:35,
+been destroyed.
+
+114
+00:46:35,0 --> 00:46:35,0
+13 And now
+
+115
+00:46:35,0 --> 00:46:35,0
+he translated
+
+116
+00:46:35,0 --> 00:46:35,0
+them by the
+
+117
+00:46:35,0 --> 00:46:35,0
+means of
+
+118
+00:46:35,0 --> 00:46:35,0
+those two
+
+119
+00:46:35,0 --> 00:46:35,0
+stones which
+
+120
+00:46:35,0 --> 00:46:35,0
+were fastened
+
+121
+00:46:35,0 --> 00:46:35,0
+into the two
+
+122
+00:46:35,0 --> 00:57:28,
+rims of a bow.
+
+123
+00:57:28,0 --> 00:57:28,0
+14 Now
+
+124
+00:57:28,0 --> 00:57:28,0
+these things
+
+125
+00:57:28,0 --> 00:57:28,0
+were prepared
+
+126
+00:57:28,0 --> 00:57:28,0
+from the
+
+127
+00:57:28,0 --> 00:57:28,0
+beginning,
+
+128
+00:57:28,0 --> 00:57:28,0
+and were
+
+129
+00:57:28,0 --> 00:57:28,0
+handed down
+
+130
+00:57:28,0 --> 00:57:28,0
+from
+
+131
+00:57:28,0 --> 00:57:28,0
+generation to
+
+132
+00:57:28,0 --> 00:57:28,0
+generation, for
+
+133
+00:57:28,0 --> 00:57:28,0
+the purpose
+
+134
+00:57:28,0 --> 00:57:28,0
+of
+
+135
+00:57:28,0 --> 01:04:23,
+interpreting languages;
+
+136
+01:04:23,0 --> 01:04:23,0
+15 And
+
+137
+01:04:23,0 --> 01:04:23,0
+they have
+
+138
+01:04:23,0 --> 01:04:23,0
+been kept and
+
+139
+01:04:23,0 --> 01:04:23,0
+preserved
+
+140
+01:04:23,0 --> 01:04:23,0
+by the
+
+141
+01:04:23,0 --> 01:04:23,0
+hand of the
+
+142
+01:04:23,0 --> 01:04:23,0
+Lord, that
+
+143
+01:04:23,0 --> 01:04:23,0
+he should
+
+144
+01:04:23,0 --> 01:04:23,0
+discover
+
+145
+01:04:23,0 --> 01:04:23,0
+to every
+
+146
+01:04:23,0 --> 01:04:23,0
+creature
+
+147
+01:04:23,0 --> 01:04:23,0
+who should
+
+148
+01:04:23,0 --> 01:04:23,0
+possess the
+
+149
+01:04:23,0 --> 01:04:23,0
+land the
+
+150
+01:04:23,0 --> 01:04:23,0
+iniquities
+
+151
+01:04:23,0 --> 01:04:23,0
+and
+
+152
+01:04:23,0 --> 01:11:31,
+abominations of his people;
+
+153
+01:11:31,0 --> 01:11:31,0
+16 And
+
+154
+01:11:31,0 --> 01:11:31,0
+whosoever has
+
+155
+01:11:31,0 --> 01:11:31,0
+these
+
+156
+01:11:31,0 --> 01:11:31,0
+things is
+
+157
+01:11:31,0 --> 01:11:31,0
+called seer,
+
+158
+01:11:31,0 --> 01:11:31,0
+after the
+
+159
+01:11:31,0 --> 01:11:31,0
+manner of
+
+160
+01:11:31,0 --> 01:11:03,
+old times.
+
+161
+01:11:03,0 --> 01:11:03,0
+17 Now
+
+162
+01:11:03,0 --> 01:11:03,0
+after
+
+163
+01:11:03,0 --> 01:11:03,0
+Mosiah had
+
+164
+01:11:03,0 --> 01:11:03,0
+finished
+
+165
+01:11:03,0 --> 01:11:03,0
+translating
+
+166
+01:11:03,0 --> 01:11:03,0
+these
+
+167
+01:11:03,0 --> 01:11:03,0
+records,
+
+168
+01:11:03,0 --> 01:11:03,0
+behold, it
+
+169
+01:11:03,0 --> 01:11:03,0
+gave an
+
+170
+01:11:03,0 --> 01:11:03,0
+account of
+
+171
+01:11:03,0 --> 01:11:03,0
+the
+
+172
+01:11:03,0 --> 01:11:03,0
+people who
+
+173
+01:11:03,0 --> 01:11:03,0
+were
+
+174
+01:11:03,0 --> 01:11:03,0
+destroyed, from
+
+175
+01:11:03,0 --> 01:11:03,0
+the time
+
+176
+01:11:03,0 --> 01:11:03,0
+that they
+
+177
+01:11:03,0 --> 01:11:03,0
+were
+
+178
+01:11:03,0 --> 01:11:03,0
+destroyed
+
+179
+01:11:03,0 --> 01:11:03,0
+back to the
+
+180
+01:11:03,0 --> 01:11:03,0
+building
+
+181
+01:11:03,0 --> 01:11:03,0
+of the
+
+182
+01:11:03,0 --> 01:11:03,0
+great
+
+183
+01:11:03,0 --> 01:11:03,0
+tower, at the
+
+184
+01:11:03,0 --> 01:11:03,0
+time the
+
+185
+01:11:03,0 --> 01:11:03,0
+Lord
+
+186
+01:11:03,0 --> 01:11:03,0
+confounded
+
+187
+01:11:03,0 --> 01:11:03,0
+the
+
+188
+01:11:03,0 --> 01:11:03,0
+language of the
+
+189
+01:11:03,0 --> 01:11:03,0
+people
+
+190
+01:11:03,0 --> 01:11:03,0
+and they
+
+191
+01:11:03,0 --> 01:11:03,0
+were
+
+192
+01:11:03,0 --> 01:11:03,0
+scattered
+
+193
+01:11:03,0 --> 01:11:03,0
+abroad upon
+
+194
+01:11:03,0 --> 01:11:03,0
+the face
+
+195
+01:11:03,0 --> 01:11:03,0
+of all the
+
+196
+01:11:03,0 --> 01:11:03,0
+earth,
+
+197
+01:11:03,0 --> 01:11:03,0
+yea, and
+
+198
+01:11:03,0 --> 01:11:03,0
+even from
+
+199
+01:11:03,0 --> 01:22:46,
+that time back until the creation of Adam.
+
+200
+01:22:46,0 --> 01:22:46,0
+18 Now
+
+201
+01:22:46,0 --> 01:22:46,0
+this
+
+202
+01:22:46,0 --> 01:22:46,0
+account did
+
+203
+01:22:46,0 --> 01:22:46,0
+cause the
+
+204
+01:22:46,0 --> 01:22:46,0
+people of
+
+205
+01:22:46,0 --> 01:22:46,0
+Mosiah to
+
+206
+01:22:46,0 --> 01:22:46,0
+mourn
+
+207
+01:22:46,0 --> 01:22:46,0
+exceedingly,
+
+208
+01:22:46,0 --> 01:22:46,0
+yea,
+
+209
+01:22:46,0 --> 01:22:46,0
+they were
+
+210
+01:22:46,0 --> 01:22:46,0
+filled with
+
+211
+01:22:46,0 --> 01:22:46,0
+sorrow;
+
+212
+01:22:46,0 --> 01:22:46,0
+
+
+213
+01:22:46,0 --> 01:22:46,0
+nevertheless it
+
+214
+01:22:46,0 --> 01:22:46,0
+gave them
+
+215
+01:22:46,0 --> 01:22:46,0
+much
+
+216
+01:22:46,0 --> 01:22:46,0
+knowledge, in
+
+217
+01:22:46,0 --> 01:22:46,0
+the which
+
+218
+01:22:46,0 --> 01:22:46,0
+they did
+
+219
+01:22:46,0 --> 01:24:30,
+rejoice.
+
+220
+01:24:30,0 --> 01:24:30,0
+19 And
+
+221
+01:24:30,0 --> 01:24:30,0
+this
+
+222
+01:24:30,0 --> 01:24:30,0
+account
+
+223
+01:24:30,0 --> 01:24:30,0
+shall be
+
+224
+01:24:30,0 --> 01:24:30,0
+written
+
+225
+01:24:30,0 --> 01:24:30,0
+hereafter;
+
+226
+01:24:30,0 --> 01:24:30,0
+for
+
+227
+01:24:30,0 --> 01:24:30,0
+behold, it
+
+228
+01:24:30,0 --> 01:24:30,0
+is
+
+229
+01:24:30,0 --> 01:24:30,0
+expedient that
+
+230
+01:24:30,0 --> 01:24:30,0
+all
+
+231
+01:24:30,0 --> 01:24:30,0
+people
+
+232
+01:24:30,0 --> 01:24:30,0
+should know
+
+233
+01:24:30,0 --> 01:24:30,0
+the
+
+234
+01:24:30,0 --> 01:24:30,0
+things which
+
+235
+01:24:30,0 --> 01:24:30,0
+are
+
+236
+01:24:30,0 --> 01:29:26,
+written in this account.
+
+237
+01:29:26,0 --> 01:29:26,0
+20 And
+
+238
+01:29:26,0 --> 01:29:26,0
+now, as
+
+239
+01:29:26,0 --> 01:29:26,0
+I said
+
+240
+01:29:26,0 --> 01:29:26,0
+unto
+
+241
+01:29:26,0 --> 01:29:26,0
+you,
+
+242
+01:29:26,0 --> 01:29:26,0
+that after
+
+243
+01:29:26,0 --> 01:29:26,0
+king
+
+244
+01:29:26,0 --> 01:29:26,0
+Mosiah
+
+245
+01:29:26,0 --> 01:29:26,0
+had done
+
+246
+01:29:26,0 --> 01:29:26,0
+these
+
+247
+01:29:26,0 --> 01:29:26,0
+things,
+
+248
+01:29:26,0 --> 01:29:26,0
+he
+
+249
+01:29:26,0 --> 01:29:26,0
+took the
+
+250
+01:29:26,0 --> 01:29:26,0
+plates
+
+251
+01:29:26,0 --> 01:29:26,0
+of
+
+252
+01:29:26,0 --> 01:29:26,0
+brass, and
+
+253
+01:29:26,0 --> 01:29:26,0
+all the
+
+254
+01:29:26,0 --> 01:29:26,0
+things
+
+255
+01:29:26,0 --> 01:29:26,0
+which
+
+256
+01:29:26,0 --> 01:29:26,0
+he had
+
+257
+01:29:26,0 --> 01:29:26,0
+kept,
+
+258
+01:29:26,0 --> 01:29:26,0
+and
+
+259
+01:29:26,0 --> 01:29:26,0
+conferred
+
+260
+01:29:26,0 --> 01:29:26,0
+them upon
+
+261
+01:29:26,0 --> 01:29:26,0
+Alma,
+
+262
+01:29:26,0 --> 01:29:26,0
+who was
+
+263
+01:29:26,0 --> 01:29:26,0
+the
+
+264
+01:29:26,0 --> 01:29:26,0
+son of
+
+265
+01:29:26,0 --> 01:29:26,0
+Alma;
+
+266
+01:29:26,0 --> 01:29:26,0
+yea, all
+
+267
+01:29:26,0 --> 01:29:26,0
+the
+
+268
+01:29:26,0 --> 01:29:26,0
+records,
+
+269
+01:29:26,0 --> 01:29:26,0
+and also
+
+270
+01:29:26,0 --> 01:29:26,0
+the
+
+271
+01:29:26,0 --> 01:29:26,0
+
+
+272
+01:29:26,0 --> 01:29:26,0
+interpreters, and
+
+273
+01:29:26,0 --> 01:29:26,0
+
+
+274
+01:29:26,0 --> 01:29:26,0
+conferred
+
+275
+01:29:26,0 --> 01:29:26,0
+them upon
+
+276
+01:29:26,0 --> 01:29:26,0
+him,
+
+277
+01:29:26,0 --> 01:29:26,0
+and
+
+278
+01:29:26,0 --> 01:29:26,0
+commanded
+
+279
+01:29:26,0 --> 01:29:26,0
+him that
+
+280
+01:29:26,0 --> 01:29:26,0
+he
+
+281
+01:29:26,0 --> 01:29:26,0
+should keep
+
+282
+01:29:26,0 --> 01:29:26,0
+and
+
+283
+01:29:26,0 --> 01:29:26,0
+preserve
+
+284
+01:29:26,0 --> 01:29:26,0
+them,
+
+285
+01:29:26,0 --> 01:29:26,0
+and also
+
+286
+01:29:26,0 --> 01:29:26,0
+keep a
+
+287
+01:29:26,0 --> 01:29:26,0
+record
+
+288
+01:29:26,0 --> 01:29:26,0
+of the
+
+289
+01:29:26,0 --> 01:29:26,0
+
+
+290
+01:29:26,0 --> 01:29:26,0
+people,
+
+291
+01:29:26,0 --> 01:29:26,0
+handing them
+
+292
+01:29:26,0 --> 01:29:26,0
+down
+
+293
+01:29:26,0 --> 01:29:26,0
+from one
+
+294
+01:29:26,0 --> 01:29:26,0
+
+
+295
+01:29:26,0 --> 01:29:26,0
+generation to
+
+296
+01:29:26,0 --> 01:29:26,0
+
+
+297
+01:29:26,0 --> 01:29:26,0
+another, even
+
+298
+01:29:26,0 --> 01:29:26,0
+as
+
+299
+01:29:26,0 --> 01:30:38,
+they had been handed down from the time that Lehi left Jerusalem. 
 

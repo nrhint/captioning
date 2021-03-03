@@ -1,460 +1,2000 @@
 1
-00:00:00,0 --> 00:00:11,75
+00:00:00,0 --> 00:00:00,0
 Chapter 7 Orihah reigns in righteousness—Amid
 
 2
-00:00:11,75 --> 00:00:23,5
- usurpation and strife, the rival kingdoms of Shule and
+00:00:00,0 --> 00:00:00,0
+usurpation and strife, the rival kingdoms of Shule
 
 3
-00:00:23,5 --> 00:00:35,25
- Cohor are set up—Prophets condemn the wickedness
+00:00:00,0 --> 00:00:00,0
+and Cohor are set up—Prophets condemn the
 
 4
-00:00:35,25 --> 00:00:47,0
- and idolatry of the people, who then repent.
+00:00:00,0 --> 00:04:43,
+wickedness and idolatry of the people, who then repent. 
 
 5
-00:00:47,147 --> 00:00:54,147
-1 And it came to pass that Orihah did execute
+00:04:43,0 --> 00:04:43,0
+1 And it came to pass that Orihah did
 
 6
-00:00:54,147 --> 00:01:01,147
- judgment upon the land in righteousness all his days,
+00:04:43,0 --> 00:04:43,0
+execute judgment upon the land in righteousness
 
 7
-00:01:01,147 --> 00:01:08,147
- whose days were exceedingly many
+00:04:43,0 --> 00:08:13,
+all his days, whose days were exceedingly many.
 
 8
-00:01:08,602 --> 00:01:11,602
-2 And he begat sons and daughters; yea, he begat
+00:08:13,0 --> 00:08:13,0
+2 And he begat sons and daughters;
 
 9
-00:01:11,602 --> 00:01:14,602
- thirty and one, among whom were twenty and three
+00:08:13,0 --> 00:08:13,0
+yea, he begat thirty and one,
 
 10
-00:01:14,602 --> 00:01:17,602
- sons
+00:08:13,0 --> 00:15:57,
+among whom were twenty and three sons.
 
 11
-00:01:17,477 --> 00:01:22,477
-3 And it came to pass that he also begat Kib in
+00:15:57,0 --> 00:15:57,0
+3 And it came to pass that he
 
 12
-00:01:22,477 --> 00:01:27,477
- his old age. And it came to pass that Kib reigned in
+00:15:57,0 --> 00:15:57,0
+also begat Kib in his old age. And
 
 13
-00:01:27,477 --> 00:01:32,477
- his stead; and Kib begat Corihor
+00:15:57,0 --> 00:15:57,0
+it came to pass that Kib reigned
 
 14
-00:01:32,459 --> 00:01:38,259
-4 And when Corihor was thirty and two years old he
+00:15:57,0 --> 00:19:42,
+in his stead; and Kib begat Corihor.
 
 15
-00:01:38,259 --> 00:01:44,059
- rebelled against his father, and went over and
+00:19:42,0 --> 00:19:42,0
+4 And when Corihor was thirty
 
 16
-00:01:44,059 --> 00:01:49,859
- dwelt in the land of Nehor; and he begat sons and
+00:19:42,0 --> 00:19:42,0
+and two years old he rebelled
 
 17
-00:01:49,859 --> 00:01:55,659
- daughters, and they became exceedingly fair;
+00:19:42,0 --> 00:19:42,0
+against his father, and went
 
 18
-00:01:55,659 --> 00:02:01,459
- wherefore Corihor drew away many people after him
+00:19:42,0 --> 00:19:42,0
+over and dwelt in the land of
 
 19
-00:02:01,888 --> 00:02:07,088
-5 And when he had gathered together an army he
+00:19:42,0 --> 00:19:42,0
+Nehor; and he begat sons and
 
 20
-00:02:07,088 --> 00:02:12,288
- came up unto the land of Moron where the king dwelt,
+00:19:42,0 --> 00:19:42,0
+daughters, and they became
 
 21
-00:02:12,288 --> 00:02:17,488
- and took him captive, which brought to pass the
+00:19:42,0 --> 00:19:42,0
+exceedingly fair; wherefore Corihor
 
 22
-00:02:17,488 --> 00:02:22,688
- saying of the brother of Jared that they would be
+00:19:42,0 --> 00:21:54,
+drew away many people after him.
 
 23
-00:02:22,688 --> 00:02:27,888
- brought into captivity
+00:21:54,0 --> 00:21:54,0
+5 And when he had gathered
 
 24
-00:02:27,881 --> 00:02:33,214
-6 Now the land of Moron, where the king dwelt, was
+00:21:54,0 --> 00:21:54,0
+together an army he came up
 
 25
-00:02:33,214 --> 00:02:38,547
- near the land which is called Desolation by the
+00:21:54,0 --> 00:21:54,0
+unto the land of Moron
 
 26
-00:02:38,547 --> 00:02:43,88
- Nephites
+00:21:54,0 --> 00:21:54,0
+where the king dwelt, and took
 
 27
-00:02:43,363 --> 00:02:49,613
-7 And it came to pass that Kib dwelt in captivity,
+00:21:54,0 --> 00:21:54,0
+him captive, which brought
 
 28
-00:02:49,613 --> 00:02:55,863
- and his people under Corihor his son, until he
+00:21:54,0 --> 00:21:54,0
+to pass the saying of the
 
 29
-00:02:55,863 --> 00:03:02,113
- became exceedingly old; nevertheless Kib begat Shule
+00:21:54,0 --> 00:21:54,0
+brother of Jared that they
 
 30
-00:03:02,113 --> 00:03:08,363
- in his old age, while he was yet in captivity
+00:21:54,0 --> 00:30:50,
+would be brought into captivity.
 
 31
-00:03:08,522 --> 00:03:13,772
-8 And it came to pass that Shule was angry with
+00:30:50,0 --> 00:30:50,0
+6 Now the land of Moron,
 
 32
-00:03:13,772 --> 00:03:19,022
- his brother; and Shule waxed strong, and became
+00:30:50,0 --> 00:30:50,0
+where the king dwelt, was
 
 33
-00:03:19,022 --> 00:03:24,272
- mighty as to the strength of a man; and he was also
+00:30:50,0 --> 00:30:50,0
+near the land which is called
 
 34
-00:03:24,272 --> 00:03:29,522
- mighty in judgment
+00:30:50,0 --> 00:32:02,
+Desolation by the Nephites.
 
 35
-00:03:29,176 --> 00:03:35,319
-9 Wherefore, he came to the hill Ephraim, and he
+00:32:02,0 --> 00:32:02,0
+7 And it came to pass
 
 36
-00:03:35,319 --> 00:03:41,462
- did molten out of the hill, and made swords out of
+00:32:02,0 --> 00:32:02,0
+that Kib dwelt in
 
 37
-00:03:41,462 --> 00:03:47,605
- steel for those whom he had drawn away with him;
+00:32:02,0 --> 00:32:02,0
+captivity, and his people under
 
 38
-00:03:47,605 --> 00:03:53,748
- and after he had armed them with swords he returned
+00:32:02,0 --> 00:32:02,0
+Corihor his son, until
 
 39
-00:03:53,748 --> 00:03:59,891
- to the city Nehor, and gave battle unto his
+00:32:02,0 --> 00:32:02,0
+he became exceedingly
 
 40
-00:03:59,891 --> 00:04:06,034
- brother Corihor, by which means he obtained the kingdom
+00:32:02,0 --> 00:32:02,0
+old; nevertheless Kib begat
 
 41
-00:04:06,034 --> 00:04:12,177
- and restored it unto his father Kib
+00:32:02,0 --> 00:32:02,0
+Shule in his old age,
 
 42
-00:04:12,085 --> 00:04:16,585
-10 And now because of the thing which Shule had
+00:32:02,0 --> 00:38:13,
+while he was yet in captivity.
 
 43
-00:04:16,585 --> 00:04:21,085
- done, his father bestowed upon him the kingdom;
+00:38:13,0 --> 00:38:13,0
+8 And it came to pass
 
 44
-00:04:21,085 --> 00:04:25,585
- therefore he began to reign in the stead of his
+00:38:13,0 --> 00:38:13,0
+that Shule was angry
 
 45
-00:04:25,585 --> 00:04:30,085
- father
+00:38:13,0 --> 00:38:13,0
+with his brother; and
 
 46
-00:04:30,07 --> 00:04:35,82
-11 And it came to pass that he did execute
+00:38:13,0 --> 00:38:13,0
+Shule waxed strong, and
 
 47
-00:04:35,82 --> 00:04:41,57
- judgment in righteousness; and he did spread his kingdom
+00:38:13,0 --> 00:38:13,0
+became mighty as to the
 
 48
-00:04:41,57 --> 00:04:47,32
- upon all the face of the land, for the people had
+00:38:13,0 --> 00:38:13,0
+strength of a man; and he
 
 49
-00:04:47,32 --> 00:04:53,07
- become exceedingly numerous
+00:38:13,0 --> 00:45:21,
+was also mighty in judgment.
 
 50
-00:04:53,527 --> 00:04:58,027
-12 And it came to pass that Shule also begat many
+00:45:21,0 --> 00:45:21,0
+9 Wherefore, he came
 
 51
-00:04:58,027 --> 00:05:02,527
- sons and daughters
+00:45:21,0 --> 00:45:21,0
+to the hill Ephraim,
 
 52
-00:05:02,636 --> 00:05:07,969
-13 And Corihor repented of the many evils which he
+00:45:21,0 --> 00:45:21,0
+and he did molten out of
 
 53
-00:05:07,969 --> 00:05:13,302
- had done; wherefore Shule gave him power in his
+00:45:21,0 --> 00:45:21,0
+the hill, and made
 
 54
-00:05:13,302 --> 00:05:18,635
- kingdom
+00:45:21,0 --> 00:45:21,0
+swords out of steel for
 
 55
-00:05:18,585 --> 00:05:23,585
-14 And it came to pass that Corihor had many sons
+00:45:21,0 --> 00:45:21,0
+those whom he had
 
 56
-00:05:23,585 --> 00:05:28,585
- and daughters. And among the sons of Corihor there
+00:45:21,0 --> 00:45:21,0
+drawn away with him; and
 
 57
-00:05:28,585 --> 00:05:33,585
- was one whose name was Noah
+00:45:21,0 --> 00:45:21,0
+after he had armed them
 
 58
-00:05:33,266 --> 00:05:40,016
-15 And it came to pass that Noah rebelled against
+00:45:21,0 --> 00:45:21,0
+with swords he
 
 59
-00:05:40,016 --> 00:05:46,766
- Shule, the king, and also his father Corihor, and
+00:45:21,0 --> 00:45:21,0
+returned to the city Nehor,
 
 60
-00:05:46,766 --> 00:05:53,516
- drew away Cohor his brother, and also all his
+00:45:21,0 --> 00:45:21,0
+and gave battle unto
 
 61
-00:05:53,516 --> 00:06:00,266
- brethren and many of the people
+00:45:21,0 --> 00:45:21,0
+his brother Corihor, by
 
 62
-00:06:00,493 --> 00:06:05,743
-16 And he gave battle unto Shule, the king, in
+00:45:21,0 --> 00:45:21,0
+which means he
 
 63
-00:06:05,743 --> 00:06:10,993
- which he did obtain the land of their first
+00:45:21,0 --> 00:45:21,0
+obtained the kingdom and
 
 64
-00:06:10,993 --> 00:06:16,243
- inheritance; and he became a king over that part of the
+00:45:21,0 --> 01:00:00,
+restored it unto his father Kib.
 
 65
-00:06:16,243 --> 00:06:21,493
- land
+01:00:00,0 --> 01:00:00,0
+10 And now because of
 
 66
-00:06:21,615 --> 00:06:26,948
-17 And it came to pass that he gave battle again
+01:00:00,0 --> 01:00:00,0
+the thing which
 
 67
-00:06:26,948 --> 00:06:32,281
- unto Shule, the king; and he took Shule, the king,
+01:00:00,0 --> 01:00:00,0
+Shule had done, his
 
 68
-00:06:32,281 --> 00:06:37,614
- and carried him away captive into Moron
+01:00:00,0 --> 01:00:00,0
+father bestowed upon him
 
 69
-00:06:37,664 --> 00:06:43,664
-18 And it came to pass as he was about to put him
+01:00:00,0 --> 01:00:00,0
+the kingdom; therefore
 
 70
-00:06:43,664 --> 00:06:49,664
- to death, the sons of Shule crept into the house
+01:00:00,0 --> 01:00:00,0
+he began to reign in
 
 71
-00:06:49,664 --> 00:06:55,664
- of Noah by night and slew him, and broke down the
+01:00:00,0 --> 01:11:07,
+the stead of his father.
 
 72
-00:06:55,664 --> 00:07:01,664
- door of the prison and brought out their father,
+01:11:07,0 --> 01:11:07,0
+11 And it came to
 
 73
-00:07:01,664 --> 00:07:07,664
- and placed him upon his throne in his own kingdom
+01:11:07,0 --> 01:11:07,0
+pass that he did
 
 74
-00:07:07,894 --> 00:07:14,494
-19 Wherefore, the son of Noah did build up his
+01:11:07,0 --> 01:11:07,0
+execute judgment in
 
 75
-00:07:14,494 --> 00:07:21,094
- kingdom in his stead; nevertheless they did not gain
+01:11:07,0 --> 01:11:07,0
+righteousness; and he
 
 76
-00:07:21,094 --> 00:07:27,694
- power any more over Shule the king, and the people
+01:11:07,0 --> 01:11:07,0
+did spread his
 
 77
-00:07:27,694 --> 00:07:34,294
- who were under the reign of Shule the king did
+01:11:07,0 --> 01:11:07,0
+kingdom upon all the
 
 78
-00:07:34,294 --> 00:07:40,894
- prosper exceedingly and wax great
+01:11:07,0 --> 01:11:07,0
+face of the land,
 
 79
-00:07:40,66 --> 00:07:47,66
-20 And the country was divided; and there were two
+01:11:07,0 --> 01:11:07,0
+for the people had
 
 80
-00:07:47,66 --> 00:07:54,66
- kingdoms, the kingdom of Shule, and the kingdom
+01:11:07,0 --> 01:13:19,
+become exceedingly numerous.
 
 81
-00:07:54,66 --> 00:08:01,66
- of Cohor, the son of Noah
+01:13:19,0 --> 01:13:19,0
+12 And it came to
 
 82
-00:08:01,982 --> 00:08:13,315
-21 And Cohor, the son of Noah, caused that his
+01:13:19,0 --> 01:13:19,0
+pass that Shule
 
 83
-00:08:13,315 --> 00:08:24,648
- people should give battle unto Shule, in which Shule
+01:13:19,0 --> 01:13:19,0
+also begat many
 
 84
-00:08:24,648 --> 00:08:35,981
- did beat them and did slay Cohor
+01:13:19,0 --> 01:21:03,
+sons and daughters.
 
 85
-00:08:35,081 --> 00:08:38,748
-22 And now Cohor had a son who was called Nimrod;
+01:21:03,0 --> 01:21:03,0
+13 And Corihor
 
 86
-00:08:38,748 --> 00:08:42,415
- and Nimrod gave up the kingdom of Cohor unto
+01:21:03,0 --> 01:21:03,0
+repented of the
 
 87
-00:08:42,415 --> 00:08:46,082
- Shule, and he did gain favor in the eyes of Shule;
+01:21:03,0 --> 01:21:03,0
+many evils
 
 88
-00:08:46,082 --> 00:08:49,749
- wherefore Shule did bestow great favors upon him, and
+01:21:03,0 --> 01:21:03,0
+which he had done;
 
 89
-00:08:49,749 --> 00:08:53,416
- he did do in the kingdom of Shule according to his
+01:21:03,0 --> 01:21:03,0
+wherefore
 
 90
-00:08:53,416 --> 00:08:57,083
- desires
+01:21:03,0 --> 01:21:03,0
+Shule gave him
 
 91
-00:08:57,103 --> 00:09:04,103
-23 And also in the reign of Shule there came
+01:21:03,0 --> 01:33:58,
+power in his kingdom.
 
 92
-00:09:04,103 --> 00:09:11,103
- prophets among the people, who were sent from the Lord,
+01:33:58,0 --> 01:33:58,0
+14 And it came
 
 93
-00:09:11,103 --> 00:09:18,103
- prophesying that the wickedness and idolatry of
+01:33:58,0 --> 01:33:58,0
+to pass that
 
 94
-00:09:18,103 --> 00:09:25,103
- the people was bringing a curse upon the land, and
+01:33:58,0 --> 01:33:58,0
+Corihor had
 
 95
-00:09:25,103 --> 00:09:32,103
- they should be destroyed if they did not repent
+01:33:58,0 --> 01:33:58,0
+many sons and
 
 96
-00:09:32,305 --> 00:09:36,505
-24 And it came to pass that the people did revile
+01:33:58,0 --> 01:33:58,0
+daughters. And
 
 97
-00:09:36,505 --> 00:09:40,705
- against the prophets, and did mock them. And it
+01:33:58,0 --> 01:33:58,0
+among the sons
 
 98
-00:09:40,705 --> 00:09:44,905
- came to pass that king Shule did execute judgment
+01:33:58,0 --> 01:33:58,0
+of Corihor
 
 99
-00:09:44,905 --> 00:09:49,105
- against all those who did revile against the
+01:33:58,0 --> 01:33:58,0
+there was one
 
 100
-00:09:49,105 --> 00:09:53,305
- prophets
+01:33:58,0 --> 01:40:08,
+whose name was Noah.
 
 101
-00:09:53,193 --> 00:09:58,443
-25 And he did execute a law throughout all the
+01:40:08,0 --> 01:40:08,0
+15 And it
 
 102
-00:09:58,443 --> 00:10:03,693
- land, which gave power unto the prophets that they
+01:40:08,0 --> 01:40:08,0
+came to pass
 
 103
-00:10:03,693 --> 00:10:08,943
- should go whithersoever they would; and by this
+01:40:08,0 --> 01:40:08,0
+that Noah
 
 104
-00:10:08,943 --> 00:10:14,193
- cause the people were brought unto repentance
+01:40:08,0 --> 01:40:08,0
+rebelled against
 
 105
-00:10:14,114 --> 00:10:19,114
-26 And because the people did repent of their
+01:40:08,0 --> 01:40:08,0
+Shule, the
 
 106
-00:10:19,114 --> 00:10:24,114
- iniquities and idolatries the Lord did spare them, and
+01:40:08,0 --> 01:40:08,0
+king, and also
 
 107
-00:10:24,114 --> 00:10:29,114
- they began to prosper again in the land. And it
+01:40:08,0 --> 01:40:08,0
+his father
 
 108
-00:10:29,114 --> 00:10:34,114
- came to pass that Shule begat sons and daughters in
+01:40:08,0 --> 01:40:08,0
+Corihor, and drew
 
 109
-00:10:34,114 --> 00:10:39,114
- his old age
+01:40:08,0 --> 01:40:08,0
+away Cohor
 
 110
-00:10:39,572 --> 00:10:40,405
-27 And there were no more wars in the days of
+01:40:08,0 --> 01:40:08,0
+his brother,
 
 111
-00:10:40,405 --> 00:10:41,238
- Shule; and he remembered the great things that the
+01:40:08,0 --> 01:40:08,0
+and also all
 
 112
-00:10:41,238 --> 00:10:42,071
- Lord had done for his fathers in bringing them across
+01:40:08,0 --> 01:40:08,0
+his brethren
 
 113
-00:10:42,071 --> 00:10:42,904
- the great deep into the promised land; wherefore
+01:40:08,0 --> 02:05:13,
+and many of the people.
 
 114
-00:10:42,904 --> 00:10:43,737
- he did execute judgment in righteousness all his
+02:05:13,0 --> 02:05:13,0
+16 And he
 
 115
-00:10:43,737 --> 00:10:44,57
- days.
+02:05:13,0 --> 02:05:13,0
+gave battle
+
+116
+02:05:13,0 --> 02:05:13,0
+unto Shule,
+
+117
+02:05:13,0 --> 02:05:13,0
+the king, in
+
+118
+02:05:13,0 --> 02:05:13,0
+which he did
+
+119
+02:05:13,0 --> 02:05:13,0
+obtain the
+
+120
+02:05:13,0 --> 02:05:13,0
+land of their
+
+121
+02:05:13,0 --> 02:05:13,0
+first
+
+122
+02:05:13,0 --> 02:05:13,0
+inheritance; and
+
+123
+02:05:13,0 --> 02:05:13,0
+he became a
+
+124
+02:05:13,0 --> 02:05:13,0
+king over
+
+125
+02:05:13,0 --> 02:07:25,
+that part of the land.
+
+126
+02:07:25,0 --> 02:07:25,0
+17 And it
+
+127
+02:07:25,0 --> 02:07:25,0
+came to pass
+
+128
+02:07:25,0 --> 02:07:25,0
+that he
+
+129
+02:07:25,0 --> 02:07:25,0
+gave battle
+
+130
+02:07:25,0 --> 02:07:25,0
+again unto
+
+131
+02:07:25,0 --> 02:07:25,0
+Shule, the
+
+132
+02:07:25,0 --> 02:07:25,0
+king; and he
+
+133
+02:07:25,0 --> 02:07:25,0
+took
+
+134
+02:07:25,0 --> 02:07:25,0
+Shule, the king,
+
+135
+02:07:25,0 --> 02:07:25,0
+and
+
+136
+02:07:25,0 --> 02:07:25,0
+carried him away
+
+137
+02:07:25,0 --> 02:10:07,
+captive into Moron.
+
+138
+02:10:07,0 --> 02:10:07,0
+18 And it
+
+139
+02:10:07,0 --> 02:10:07,0
+came to
+
+140
+02:10:07,0 --> 02:10:07,0
+pass as he
+
+141
+02:10:07,0 --> 02:10:07,0
+was about
+
+142
+02:10:07,0 --> 02:10:07,0
+to put him
+
+143
+02:10:07,0 --> 02:10:07,0
+to death,
+
+144
+02:10:07,0 --> 02:10:07,0
+the sons
+
+145
+02:10:07,0 --> 02:10:07,0
+of Shule
+
+146
+02:10:07,0 --> 02:10:07,0
+crept into
+
+147
+02:10:07,0 --> 02:10:07,0
+the house
+
+148
+02:10:07,0 --> 02:10:07,0
+of Noah by
+
+149
+02:10:07,0 --> 02:10:07,0
+night and
+
+150
+02:10:07,0 --> 02:10:07,0
+slew him,
+
+151
+02:10:07,0 --> 02:10:07,0
+and broke
+
+152
+02:10:07,0 --> 02:10:07,0
+down the
+
+153
+02:10:07,0 --> 02:10:07,0
+door of the
+
+154
+02:10:07,0 --> 02:10:07,0
+prison
+
+155
+02:10:07,0 --> 02:10:07,0
+and brought
+
+156
+02:10:07,0 --> 02:10:07,0
+out their
+
+157
+02:10:07,0 --> 02:10:07,0
+father,
+
+158
+02:10:07,0 --> 02:10:07,0
+and placed
+
+159
+02:10:07,0 --> 02:10:07,0
+him upon
+
+160
+02:10:07,0 --> 02:14:20,
+his throne in his own kingdom.
+
+161
+02:14:20,0 --> 02:14:20,0
+19
+
+162
+02:14:20,0 --> 02:14:20,0
+Wherefore, the
+
+163
+02:14:20,0 --> 02:14:20,0
+son of
+
+164
+02:14:20,0 --> 02:14:20,0
+Noah did
+
+165
+02:14:20,0 --> 02:14:20,0
+build up
+
+166
+02:14:20,0 --> 02:14:20,0
+his kingdom
+
+167
+02:14:20,0 --> 02:14:20,0
+in his
+
+168
+02:14:20,0 --> 02:14:20,0
+stead;
+
+169
+02:14:20,0 --> 02:14:20,0
+nevertheless
+
+170
+02:14:20,0 --> 02:14:20,0
+they did
+
+171
+02:14:20,0 --> 02:14:20,0
+not gain
+
+172
+02:14:20,0 --> 02:14:20,0
+power
+
+173
+02:14:20,0 --> 02:14:20,0
+any more
+
+174
+02:14:20,0 --> 02:14:20,0
+over Shule
+
+175
+02:14:20,0 --> 02:14:20,0
+the king,
+
+176
+02:14:20,0 --> 02:14:20,0
+and the
+
+177
+02:14:20,0 --> 02:14:20,0
+people
+
+178
+02:14:20,0 --> 02:14:20,0
+who were
+
+179
+02:14:20,0 --> 02:14:20,0
+under the
+
+180
+02:14:20,0 --> 02:14:20,0
+reign of
+
+181
+02:14:20,0 --> 02:14:20,0
+Shule the
+
+182
+02:14:20,0 --> 02:14:20,0
+king did
+
+183
+02:14:20,0 --> 02:14:20,0
+prosper
+
+184
+02:14:20,0 --> 02:25:27,
+exceedingly and wax great.
+
+185
+02:25:27,0 --> 02:25:27,0
+20 And
+
+186
+02:25:27,0 --> 02:25:27,0
+the
+
+187
+02:25:27,0 --> 02:25:27,0
+country was
+
+188
+02:25:27,0 --> 02:25:27,0
+divided;
+
+189
+02:25:27,0 --> 02:25:27,0
+and
+
+190
+02:25:27,0 --> 02:25:27,0
+there were
+
+191
+02:25:27,0 --> 02:25:27,0
+two
+
+192
+02:25:27,0 --> 02:25:27,0
+kingdoms, the
+
+193
+02:25:27,0 --> 02:25:27,0
+kingdom
+
+194
+02:25:27,0 --> 02:25:27,0
+of
+
+195
+02:25:27,0 --> 02:25:27,0
+Shule, and
+
+196
+02:25:27,0 --> 02:25:27,0
+the
+
+197
+02:25:27,0 --> 02:25:27,0
+kingdom of
+
+198
+02:25:27,0 --> 02:30:37,
+Cohor, the son of Noah.
+
+199
+02:30:37,0 --> 02:30:37,0
+21 And
+
+200
+02:30:37,0 --> 02:30:37,0
+Cohor,
+
+201
+02:30:37,0 --> 02:30:37,0
+the son
+
+202
+02:30:37,0 --> 02:30:37,0
+of
+
+203
+02:30:37,0 --> 02:30:37,0
+Noah,
+
+204
+02:30:37,0 --> 02:30:37,0
+caused that
+
+205
+02:30:37,0 --> 02:30:37,0
+his
+
+206
+02:30:37,0 --> 02:30:37,0
+people
+
+207
+02:30:37,0 --> 02:30:37,0
+should
+
+208
+02:30:37,0 --> 02:30:37,0
+give
+
+209
+02:30:37,0 --> 02:30:37,0
+battle unto
+
+210
+02:30:37,0 --> 02:30:37,0
+Shule,
+
+211
+02:30:37,0 --> 02:30:37,0
+in
+
+212
+02:30:37,0 --> 02:30:37,0
+which
+
+213
+02:30:37,0 --> 02:30:37,0
+Shule did
+
+214
+02:30:37,0 --> 02:30:37,0
+beat
+
+215
+02:30:37,0 --> 02:37:32,
+them and did slay Cohor.
+
+216
+02:37:32,0 --> 02:37:32,0
+22 And
+
+217
+02:37:32,0 --> 02:37:32,0
+now
+
+218
+02:37:32,0 --> 02:37:32,0
+Cohor had
+
+219
+02:37:32,0 --> 02:37:32,0
+a son
+
+220
+02:37:32,0 --> 02:37:32,0
+who was
+
+221
+02:37:32,0 --> 02:37:32,0
+called
+
+222
+02:37:32,0 --> 02:37:32,0
+Nimrod;
+
+223
+02:37:32,0 --> 02:37:32,0
+and
+
+224
+02:37:32,0 --> 02:37:32,0
+Nimrod
+
+225
+02:37:32,0 --> 02:37:32,0
+gave up
+
+226
+02:37:32,0 --> 02:37:32,0
+the
+
+227
+02:37:32,0 --> 02:37:32,0
+kingdom of
+
+228
+02:37:32,0 --> 02:37:32,0
+Cohor
+
+229
+02:37:32,0 --> 02:37:32,0
+unto
+
+230
+02:37:32,0 --> 02:37:32,0
+Shule, and
+
+231
+02:37:32,0 --> 02:37:32,0
+he did
+
+232
+02:37:32,0 --> 02:37:32,0
+gain
+
+233
+02:37:32,0 --> 02:37:32,0
+favor in
+
+234
+02:37:32,0 --> 02:37:32,0
+the
+
+235
+02:37:32,0 --> 02:37:32,0
+eyes of
+
+236
+02:37:32,0 --> 02:37:32,0
+Shule;
+
+237
+02:37:32,0 --> 02:37:32,0
+
+
+238
+02:37:32,0 --> 02:37:32,0
+wherefore Shule
+
+239
+02:37:32,0 --> 02:37:32,0
+did
+
+240
+02:37:32,0 --> 02:37:32,0
+bestow
+
+241
+02:37:32,0 --> 02:37:32,0
+great
+
+242
+02:37:32,0 --> 02:37:32,0
+favors
+
+243
+02:37:32,0 --> 02:37:32,0
+upon him,
+
+244
+02:37:32,0 --> 02:37:32,0
+and he
+
+245
+02:37:32,0 --> 02:37:32,0
+did do
+
+246
+02:37:32,0 --> 02:37:32,0
+in the
+
+247
+02:37:32,0 --> 02:37:32,0
+kingdom
+
+248
+02:37:32,0 --> 02:37:32,0
+of
+
+249
+02:37:32,0 --> 02:37:32,0
+Shule
+
+250
+02:37:32,0 --> 02:37:32,0
+according
+
+251
+02:37:32,0 --> 02:37:32,0
+to his
+
+252
+02:37:32,0 --> 02:45:44,
+desires.
+
+253
+02:45:44,0 --> 02:45:44,0
+23 And
+
+254
+02:45:44,0 --> 02:45:44,0
+also
+
+255
+02:45:44,0 --> 02:45:44,0
+in the
+
+256
+02:45:44,0 --> 02:45:44,0
+reign
+
+257
+02:45:44,0 --> 02:45:44,0
+of
+
+258
+02:45:44,0 --> 02:45:44,0
+Shule
+
+259
+02:45:44,0 --> 02:45:44,0
+there
+
+260
+02:45:44,0 --> 02:45:44,0
+came
+
+261
+02:45:44,0 --> 02:45:44,0
+prophets
+
+262
+02:45:44,0 --> 02:45:44,0
+among
+
+263
+02:45:44,0 --> 02:45:44,0
+the
+
+264
+02:45:44,0 --> 02:45:44,0
+people,
+
+265
+02:45:44,0 --> 02:45:44,0
+who
+
+266
+02:45:44,0 --> 02:45:44,0
+were
+
+267
+02:45:44,0 --> 02:45:44,0
+sent from
+
+268
+02:45:44,0 --> 02:45:44,0
+the
+
+269
+02:45:44,0 --> 02:45:44,0
+Lord,
+
+270
+02:45:44,0 --> 02:45:44,0
+
+
+271
+02:45:44,0 --> 02:45:44,0
+prophesying
+
+272
+02:45:44,0 --> 02:45:44,0
+that
+
+273
+02:45:44,0 --> 02:45:44,0
+the
+
+274
+02:45:44,0 --> 02:45:44,0
+wickedness
+
+275
+02:45:44,0 --> 02:45:44,0
+and
+
+276
+02:45:44,0 --> 02:45:44,0
+
+
+277
+02:45:44,0 --> 02:45:44,0
+idolatry of
+
+278
+02:45:44,0 --> 02:45:44,0
+the
+
+279
+02:45:44,0 --> 02:45:44,0
+people
+
+280
+02:45:44,0 --> 02:45:44,0
+was
+
+281
+02:45:44,0 --> 02:45:44,0
+bringing a
+
+282
+02:45:44,0 --> 02:45:44,0
+curse
+
+283
+02:45:44,0 --> 02:45:44,0
+upon
+
+284
+02:45:44,0 --> 02:45:44,0
+the
+
+285
+02:45:44,0 --> 02:45:44,0
+land,
+
+286
+02:45:44,0 --> 02:45:44,0
+and they
+
+287
+02:45:44,0 --> 02:45:44,0
+
+
+288
+02:45:44,0 --> 02:58:53,
+should be destroyed if they did not repent.
+
+289
+02:58:53,0 --> 02:58:53,0
+24
+
+290
+02:58:53,0 --> 02:58:53,0
+And it
+
+291
+02:58:53,0 --> 02:58:53,0
+came
+
+292
+02:58:53,0 --> 02:58:53,0
+to
+
+293
+02:58:53,0 --> 02:58:53,0
+pass
+
+294
+02:58:53,0 --> 02:58:53,0
+that
+
+295
+02:58:53,0 --> 02:58:53,0
+the
+
+296
+02:58:53,0 --> 02:58:53,0
+people
+
+297
+02:58:53,0 --> 02:58:53,0
+did
+
+298
+02:58:53,0 --> 02:58:53,0
+revile
+
+299
+02:58:53,0 --> 02:58:53,0
+
+
+300
+02:58:53,0 --> 02:58:53,0
+against
+
+301
+02:58:53,0 --> 02:58:53,0
+the
+
+302
+02:58:53,0 --> 02:58:53,0
+
+
+303
+02:58:53,0 --> 02:58:53,0
+prophets, and
+
+304
+02:58:53,0 --> 02:58:53,0
+did
+
+305
+02:58:53,0 --> 02:58:53,0
+mock
+
+306
+02:58:53,0 --> 02:58:53,0
+them.
+
+307
+02:58:53,0 --> 02:58:53,0
+And
+
+308
+02:58:53,0 --> 02:58:53,0
+it
+
+309
+02:58:53,0 --> 02:58:53,0
+came to
+
+310
+02:58:53,0 --> 02:58:53,0
+pass
+
+311
+02:58:53,0 --> 02:58:53,0
+that
+
+312
+02:58:53,0 --> 02:58:53,0
+king
+
+313
+02:58:53,0 --> 02:58:53,0
+
+
+314
+02:58:53,0 --> 02:58:53,0
+Shule did
+
+315
+02:58:53,0 --> 02:58:53,0
+
+
+316
+02:58:53,0 --> 02:58:53,0
+execute
+
+317
+02:58:53,0 --> 02:58:53,0
+
+
+318
+02:58:53,0 --> 02:58:53,0
+judgment
+
+319
+02:58:53,0 --> 02:58:53,0
+against
+
+320
+02:58:53,0 --> 02:58:53,0
+all
+
+321
+02:58:53,0 --> 02:58:53,0
+those
+
+322
+02:58:53,0 --> 03:10:22,
+who did revile against the prophets.
+
+323
+03:10:22,0 --> 03:10:22,0
+25
+
+324
+03:10:22,0 --> 03:10:22,0
+And
+
+325
+03:10:22,0 --> 03:10:22,0
+he
+
+326
+03:10:22,0 --> 03:10:22,0
+did
+
+327
+03:10:22,0 --> 03:10:22,0
+
+
+328
+03:10:22,0 --> 03:10:22,0
+execute a
+
+329
+03:10:22,0 --> 03:10:22,0
+law
+
+330
+03:10:22,0 --> 03:10:22,0
+
+
+331
+03:10:22,0 --> 03:10:22,0
+
+
+332
+03:10:22,0 --> 03:10:22,0
+throughout
+
+333
+03:10:22,0 --> 03:10:22,0
+all
+
+334
+03:10:22,0 --> 03:10:22,0
+the
+
+335
+03:10:22,0 --> 03:10:22,0
+land,
+
+336
+03:10:22,0 --> 03:10:22,0
+
+
+337
+03:10:22,0 --> 03:10:22,0
+which
+
+338
+03:10:22,0 --> 03:10:22,0
+gave
+
+339
+03:10:22,0 --> 03:10:22,0
+
+
+340
+03:10:22,0 --> 03:10:22,0
+power
+
+341
+03:10:22,0 --> 03:10:22,0
+unto
+
+342
+03:10:22,0 --> 03:10:22,0
+the
+
+343
+03:10:22,0 --> 03:10:22,0
+
+
+344
+03:10:22,0 --> 03:10:22,0
+prophets
+
+345
+03:10:22,0 --> 03:10:22,0
+that
+
+346
+03:10:22,0 --> 03:10:22,0
+
+
+347
+03:10:22,0 --> 03:10:22,0
+they
+
+348
+03:10:22,0 --> 03:10:22,0
+should
+
+349
+03:10:22,0 --> 03:10:22,0
+go
+
+350
+03:10:22,0 --> 03:10:22,0
+
+
+351
+03:10:22,0 --> 03:10:22,0
+
+
+352
+03:10:22,0 --> 03:10:22,0
+
+
+353
+03:10:22,0 --> 03:10:22,0
+whithersoever
+
+354
+03:10:22,0 --> 03:10:22,0
+they
+
+355
+03:10:22,0 --> 03:10:22,0
+
+
+356
+03:10:22,0 --> 03:10:22,0
+would;
+
+357
+03:10:22,0 --> 03:10:22,0
+and by
+
+358
+03:10:22,0 --> 03:10:22,0
+
+
+359
+03:10:22,0 --> 03:10:22,0
+this
+
+360
+03:10:22,0 --> 03:10:22,0
+cause
+
+361
+03:10:22,0 --> 03:18:06,
+the people were brought unto repentance.
+
+362
+03:18:06,0 --> 03:18:06,0
+26
+
+363
+03:18:06,0 --> 03:18:06,0
+And
+
+364
+03:18:06,0 --> 03:18:06,0
+
+
+365
+03:18:06,0 --> 03:18:06,0
+
+
+366
+03:18:06,0 --> 03:18:06,0
+because
+
+367
+03:18:06,0 --> 03:18:06,0
+the
+
+368
+03:18:06,0 --> 03:18:06,0
+
+
+369
+03:18:06,0 --> 03:18:06,0
+
+
+370
+03:18:06,0 --> 03:18:06,0
+people
+
+371
+03:18:06,0 --> 03:18:06,0
+did
+
+372
+03:18:06,0 --> 03:18:06,0
+
+
+373
+03:18:06,0 --> 03:18:06,0
+repent
+
+374
+03:18:06,0 --> 03:18:06,0
+of
+
+375
+03:18:06,0 --> 03:18:06,0
+
+
+376
+03:18:06,0 --> 03:18:06,0
+their
+
+377
+03:18:06,0 --> 03:18:06,0
+
+
+378
+03:18:06,0 --> 03:18:06,0
+
+
+379
+03:18:06,0 --> 03:18:06,0
+
+
+380
+03:18:06,0 --> 03:18:06,0
+iniquities
+
+381
+03:18:06,0 --> 03:18:06,0
+and
+
+382
+03:18:06,0 --> 03:18:06,0
+
+
+383
+03:18:06,0 --> 03:18:06,0
+
+
+384
+03:18:06,0 --> 03:18:06,0
+
+
+385
+03:18:06,0 --> 03:18:06,0
+idolatries
+
+386
+03:18:06,0 --> 03:18:06,0
+the
+
+387
+03:18:06,0 --> 03:18:06,0
+
+
+388
+03:18:06,0 --> 03:18:06,0
+Lord
+
+389
+03:18:06,0 --> 03:18:06,0
+did
+
+390
+03:18:06,0 --> 03:18:06,0
+
+
+391
+03:18:06,0 --> 03:18:06,0
+spare
+
+392
+03:18:06,0 --> 03:18:06,0
+
+
+393
+03:18:06,0 --> 03:18:06,0
+them,
+
+394
+03:18:06,0 --> 03:18:06,0
+
+
+395
+03:18:06,0 --> 03:18:06,0
+and
+
+396
+03:18:06,0 --> 03:18:06,0
+they
+
+397
+03:18:06,0 --> 03:18:06,0
+
+
+398
+03:18:06,0 --> 03:18:06,0
+began
+
+399
+03:18:06,0 --> 03:18:06,0
+to
+
+400
+03:18:06,0 --> 03:18:06,0
+
+
+401
+03:18:06,0 --> 03:18:06,0
+
+
+402
+03:18:06,0 --> 03:18:06,0
+prosper
+
+403
+03:18:06,0 --> 03:18:06,0
+
+
+404
+03:18:06,0 --> 03:18:06,0
+again
+
+405
+03:18:06,0 --> 03:18:06,0
+in
+
+406
+03:18:06,0 --> 03:18:06,0
+the
+
+407
+03:18:06,0 --> 03:18:06,0
+
+
+408
+03:18:06,0 --> 03:18:06,0
+land.
+
+409
+03:18:06,0 --> 03:18:06,0
+
+
+410
+03:18:06,0 --> 03:18:06,0
+And
+
+411
+03:18:06,0 --> 03:18:06,0
+it
+
+412
+03:18:06,0 --> 03:18:06,0
+came
+
+413
+03:18:06,0 --> 03:18:06,0
+to
+
+414
+03:18:06,0 --> 03:18:06,0
+
+
+415
+03:18:06,0 --> 03:40:42,
+pass that Shule begat sons and daughters in his old age.
+
+416
+03:40:42,0 --> 03:40:42,0
+27
+
+417
+03:40:42,0 --> 03:40:42,0
+And
+
+418
+03:40:42,0 --> 03:40:42,0
+
+
+419
+03:40:42,0 --> 03:40:42,0
+there
+
+420
+03:40:42,0 --> 03:40:42,0
+
+
+421
+03:40:42,0 --> 03:40:42,0
+were
+
+422
+03:40:42,0 --> 03:40:42,0
+no
+
+423
+03:40:42,0 --> 03:40:42,0
+
+
+424
+03:40:42,0 --> 03:40:42,0
+more
+
+425
+03:40:42,0 --> 03:40:42,0
+wars
+
+426
+03:40:42,0 --> 03:40:42,0
+in
+
+427
+03:40:42,0 --> 03:40:42,0
+
+
+428
+03:40:42,0 --> 03:40:42,0
+the
+
+429
+03:40:42,0 --> 03:40:42,0
+days
+
+430
+03:40:42,0 --> 03:40:42,0
+of
+
+431
+03:40:42,0 --> 03:40:42,0
+
+
+432
+03:40:42,0 --> 03:40:42,0
+
+
+433
+03:40:42,0 --> 03:40:42,0
+Shule;
+
+434
+03:40:42,0 --> 03:40:42,0
+and
+
+435
+03:40:42,0 --> 03:40:42,0
+he
+
+436
+03:40:42,0 --> 03:40:42,0
+
+
+437
+03:40:42,0 --> 03:40:42,0
+
+
+438
+03:40:42,0 --> 03:40:42,0
+
+
+439
+03:40:42,0 --> 03:40:42,0
+remembered
+
+440
+03:40:42,0 --> 03:40:42,0
+the
+
+441
+03:40:42,0 --> 03:40:42,0
+
+
+442
+03:40:42,0 --> 03:40:42,0
+great
+
+443
+03:40:42,0 --> 03:40:42,0
+
+
+444
+03:40:42,0 --> 03:40:42,0
+things
+
+445
+03:40:42,0 --> 03:40:42,0
+
+
+446
+03:40:42,0 --> 03:40:42,0
+that
+
+447
+03:40:42,0 --> 03:40:42,0
+the
+
+448
+03:40:42,0 --> 03:40:42,0
+
+
+449
+03:40:42,0 --> 03:40:42,0
+Lord
+
+450
+03:40:42,0 --> 03:40:42,0
+had
+
+451
+03:40:42,0 --> 03:40:42,0
+
+
+452
+03:40:42,0 --> 03:40:42,0
+done
+
+453
+03:40:42,0 --> 03:40:42,0
+for
+
+454
+03:40:42,0 --> 03:40:42,0
+
+
+455
+03:40:42,0 --> 03:40:42,0
+his
+
+456
+03:40:42,0 --> 03:40:42,0
+
+
+457
+03:40:42,0 --> 03:40:42,0
+fathers
+
+458
+03:40:42,0 --> 03:40:42,0
+in
+
+459
+03:40:42,0 --> 03:40:42,0
+
+
+460
+03:40:42,0 --> 03:40:42,0
+
+
+461
+03:40:42,0 --> 03:40:42,0
+bringing
+
+462
+03:40:42,0 --> 03:40:42,0
+
+
+463
+03:40:42,0 --> 03:40:42,0
+them
+
+464
+03:40:42,0 --> 03:40:42,0
+
+
+465
+03:40:42,0 --> 03:40:42,0
+across
+
+466
+03:40:42,0 --> 03:40:42,0
+
+
+467
+03:40:42,0 --> 03:40:42,0
+the
+
+468
+03:40:42,0 --> 03:40:42,0
+
+
+469
+03:40:42,0 --> 03:40:42,0
+great
+
+470
+03:40:42,0 --> 03:40:42,0
+deep
+
+471
+03:40:42,0 --> 03:40:42,0
+
+
+472
+03:40:42,0 --> 03:40:42,0
+into
+
+473
+03:40:42,0 --> 03:40:42,0
+the
+
+474
+03:40:42,0 --> 03:40:42,0
+
+
+475
+03:40:42,0 --> 03:40:42,0
+
+
+476
+03:40:42,0 --> 03:40:42,0
+promised
+
+477
+03:40:42,0 --> 03:40:42,0
+
+
+478
+03:40:42,0 --> 03:40:42,0
+land;
+
+479
+03:40:42,0 --> 03:40:42,0
+
+
+480
+03:40:42,0 --> 03:40:42,0
+
+
+481
+03:40:42,0 --> 03:40:42,0
+
+
+482
+03:40:42,0 --> 03:40:42,0
+wherefore
+
+483
+03:40:42,0 --> 03:40:42,0
+he
+
+484
+03:40:42,0 --> 03:40:42,0
+did
+
+485
+03:40:42,0 --> 03:40:42,0
+
+
+486
+03:40:42,0 --> 03:40:42,0
+
+
+487
+03:40:42,0 --> 03:40:42,0
+execute
+
+488
+03:40:42,0 --> 03:40:42,0
+
+
+489
+03:40:42,0 --> 03:40:42,0
+
+
+490
+03:40:42,0 --> 03:40:42,0
+judgment
+
+491
+03:40:42,0 --> 03:40:42,0
+in
+
+492
+03:40:42,0 --> 03:40:42,0
+
+
+493
+03:40:42,0 --> 03:40:42,0
+
+
+494
+03:40:42,0 --> 03:40:42,0
+
+
+495
+03:40:42,0 --> 03:40:42,0
+righteousness
+
+496
+03:40:42,0 --> 03:40:42,0
+
+
+497
+03:40:42,0 --> 03:40:42,0
+all
+
+498
+03:40:42,0 --> 03:40:42,0
+his
+
+499
+03:40:42,0 --> 03:40:42,0
+
+
+500
+03:40:42,0 --> 03:48:26,
+days. 
 
