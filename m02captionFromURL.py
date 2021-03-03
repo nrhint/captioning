@@ -4,7 +4,7 @@ from util.file_util import write_file, read_file, delete_file
 from util.subtitle_util import generate_srt_adv
 from util.text_util import remove_space_delimeter
 from util.verse_util import get_verse_from_file
-from util.video_util import get_time_from_video
+from util.video_util_m2 import get_time_from_video
 
 print('\n-- Start Processing -- ')
 csv = read_file('Resources', 'Book List', 'csv')

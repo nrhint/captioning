@@ -17,7 +17,7 @@ def save_frame(name, frame):
 def get_pixel_positions(video, f, thresh, name = 'tmp'):
     video.cap.set(1, f)
     ret, frame = video.cap.read()
-    save_frame(name, frame)
+    #save_frame(name, frame)
     #frame[50:200, 850:1150]
     positions = []
     if ret == True:
@@ -28,15 +28,12 @@ def get_pixel_positions(video, f, thresh, name = 'tmp'):
     return positions
 
 def calculate_prob(previous_pixels, current_pixels, sensitivity = 5):#Sens = 5 for BofM
-    differences = np.setdiff1d(previous_pixels, current_pixels)
-    if len(differences) > sensitivity and len(differences) <100:
-        print("Different")
+    differences = abs(len(previous_pixels)-len(current_pixels))
+    if differences > sensitivity:# and len(differences) <100:
+        # print("Different")
         return True, differences
-    elif len(previous_pixels) == 0 and len(current_pixels)>5:
-        print("Different")
-        return True, 5.5
     else:
-        print("Same")
+        # print("Same")
         return False, differences
 
 def find_backward(video, last_positions, max_frame, thresh):
@@ -52,13 +49,13 @@ def find_backward(video, last_positions, max_frame, thresh):
                 
         start_size = start_size/division
         rate = int(-1 * start_size * video.fps)
-        print(rate, curr_f)
+        # print(rate, curr_f)
     return curr_f
 
 
 
 def find_forward(video, verse, start_frame, end_frame, inc_rate, last_positions, thresh):
-    f = start_frame
+    f = start_frame+200
     new_positions = get_pixel_positions(video, f, thresh)
     prob = calculate_prob(last_positions, new_positions)
     while not prob[0]:
@@ -86,13 +83,13 @@ def find_times(video, verses, thresh = 200):#Thresh = 150 for BofM
             next_verse = verses[verse_index + 1]
         end_frame = video.frame_count
         inc_rate = int(video.fps * max_time)
-        if verse.start_frame == None:
+        if verse_index == 0:
             start_frame = 0
+            positions = get_pixel_positions(video, start_frame+200, thresh, 'start')
         else:
             start_frame = verse.start_frame
 
-        positions = get_pixel_positions(video, start_frame+200, thresh, 'start')
-
+    
         # if verse.number > 0 and verse.start_frame is not None:
         #     start_frame += verse.start_frame
 
@@ -103,7 +100,7 @@ def find_times(video, verses, thresh = 200):#Thresh = 150 for BofM
         
         if verse_index != len(verses) - 1:
             next_verse.start_frame = verse.end_frame
-            positions = get_pixel_positions(video, verse.end_frame, thresh)
+            positions = get_pixel_positions(video, verse.end_frame+100, thresh, 'start2')
             next_verse.start_time = verse.end_time
         if verse_index == 0:
             verse.start_frame = 0

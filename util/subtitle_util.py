@@ -16,13 +16,13 @@ def generate_srt_adv(verses, ccLength = 50):
         #print('\n' + str(verse.number) + '\t' + verse.text)
         words = [char for char in verse.text]
         ##Generate the times for this verse
-        if verse.end_time is None or verse.start_time is None:
-            print('\t%s missing time: %s : %s'%(verse.id, verse.start_time, verse.end_time))
+        if verse.end_frame is None or verse.start_frame is None:
+            print('\t%s missing time: %s : %s'%(verse.id, verse.start_frame, verse.end_frame))
             continue
             
-        duration = int(verse.end_time)-int(verse.start_time)
+        duration = int(verse.end_frame)-int(verse.end_frame)
         smallDuration = round(duration/divisions, 3)
-        #print('%s\t%s\t%s\t%s\t%s'%(verse.id, verse.start_time, verse.end_time, smallDuration, divisions))
+        #print('%s\t%s\t%s\t%s\t%s'%(verse.id, verse.start_frame, verse.end_frame, smallDuration, divisions))
         ##Generate the lines for the file
         for div in range(0, divisions):
             if tend != 0:
@@ -35,11 +35,11 @@ def generate_srt_adv(verses, ccLength = 50):
                     tend -= 1
             
             #tstart = div*ccLength
-            new_start_time = verse.start_time + (smallDuration * div)
-            new_end_time = verse.start_time + (smallDuration * (div + 1))
+            new_start_time = verse.start_frame + (smallDuration * div)
+            new_end_time = verse.start_frame + (smallDuration * (div + 1))
             if div == divisions - 1:
                 captionText = words[tstart:]
-                new_end_time = verse.end_time
+                new_end_time = verse.end_frame
             else:
                 captionText = words[tstart:tend]
             #convert the caption text from a list to a string
