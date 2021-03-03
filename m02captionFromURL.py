@@ -52,7 +52,6 @@ for book_csv in book_list:
                 print('\t\t(2) Skip the Verse')
                 k = int(input('\t\tEnter the number then press enter: '))
                 log = add_to_log(log, '\t\t%s %s\n\t\t(1) Read the Verse\n\t\t(2) Skip the Verse\n\t\tEnter the number then press enter: %s'%(book.video_prefix, chapter_number, k))
-                save_log(log, file_name = 'captionFromURL_log')
             if k == 1:
                 #try:
                 verses = get_verse_from_file(book, chapter_number)  
@@ -69,3 +68,5 @@ for book_csv in book_list:
                 #except:
                     #print('\t\tGenerate srt for %s %s unsuccess.'%(book.video_prefix, chapter_number))
     print('FINISH BOOK')
+    log = add_to_log(log, 'FINISH BOOK')
+    save_log(log, file_name = 'captionFromURL_log')

@@ -20,7 +20,7 @@ def generate_srt_adv(verses, ccLength = 50):
             print('\t%s missing time: %s : %s'%(verse.id, verse.start_frame, verse.end_frame))
             continue
             
-        duration = int(verse.end_frame)-int(verse.end_frame)
+        duration = int(verse.end_frame)-int(verse.start_frame)
         smallDuration = round(duration/divisions, 3)
         #print('%s\t%s\t%s\t%s\t%s'%(verse.id, verse.start_frame, verse.end_frame, smallDuration, divisions))
         ##Generate the lines for the file
