@@ -1,307 +1,559 @@
 1
-00:00:11,278 --> 00:00:17,528
-Section 28 Revelation given through Joseph Smith
+00:00:00,0 --> 00:00:00,0
+Section 28 Revelation given through Joseph
 
 2
-00:00:17,528 --> 00:00:23,778
- the Prophet to Oliver Cowdery, at Fayette, New
+00:00:00,0 --> 00:00:00,0
+Smith the Prophet to Oliver Cowdery, at Fayette,
 
 3
-00:00:23,778 --> 00:00:30,028
- York, September 1830. Hiram Page, a member of the
+00:00:00,0 --> 00:00:00,0
+New York, September 1830. Hiram Page, a member of
 
 4
-00:00:30,028 --> 00:00:36,278
- Church, had a certain stone and professed to be
+00:00:00,0 --> 00:00:00,0
+the Church, had a certain stone and professed
 
 5
-00:00:36,278 --> 00:00:42,528
- receiving revelations by its aid concerning the
+00:00:00,0 --> 00:00:00,0
+to be receiving revelations by its aid
 
 6
-00:00:42,528 --> 00:00:48,778
- upbuilding of Zion and the order of the Church. Several
+00:00:00,0 --> 00:00:00,0
+concerning the upbuilding of Zion and the order of the
 
 7
-00:00:48,778 --> 00:00:55,028
- members had been deceived by these claims, and even
+00:00:00,0 --> 00:00:00,0
+Church. Several members had been deceived by
 
 8
-00:00:55,028 --> 00:01:01,278
- Oliver Cowdery was wrongly influenced thereby.
+00:00:00,0 --> 00:00:00,0
+these claims, and even Oliver Cowdery was wrongly
 
 9
-00:01:01,278 --> 00:01:07,528
- Just prior to an appointed conference, the Prophet
+00:00:00,0 --> 00:00:00,0
+influenced thereby. Just prior to an appointed
 
 10
-00:01:07,528 --> 00:01:13,778
- inquired earnestly of the Lord concerning the
+00:00:00,0 --> 00:00:00,0
+conference, the Prophet inquired earnestly of
 
 11
-00:01:13,778 --> 00:01:20,028
- matter, and this revelation followed. 
-1–7, Joseph Smith
+00:00:00,0 --> 00:00:00,0
+the Lord concerning the matter, and this
 
 12
-00:01:20,028 --> 00:01:26,278
- holds the keys of the mysteries, and only he
+00:00:00,0 --> 00:00:00,0
+revelation followed. 
+1–7, Joseph Smith holds the
 
 13
-00:01:26,278 --> 00:01:32,528
- receives revelations for the Church; 
-8–10, Oliver
+00:00:00,0 --> 00:00:00,0
+keys of the mysteries, and only he receives
 
 14
-00:01:32,528 --> 00:01:38,778
- Cowdery is to preach to the Lamanites; 
-11–16, Satan
+00:00:00,0 --> 00:00:00,0
+revelations for the Church; 
+8–10, Oliver Cowdery is
 
 15
-00:01:38,778 --> 00:01:45,028
- deceived Hiram Page and gave him false
+00:00:00,0 --> 00:00:00,0
+to preach to the Lamanites; 
+11–16, Satan
 
 16
-00:01:45,028 --> 00:01:51,278
- revelations.
+00:00:00,0 --> 00:55:32,
+deceived Hiram Page and gave him false revelations. 
 
 17
-00:01:51,745 --> 00:01:57,945
-1 Behold, I say unto thee, Oliver, that it shall
+00:55:32,0 --> 00:55:32,0
+1 Behold, I say unto thee, Oliver, that it
 
 18
-00:01:57,945 --> 00:02:04,145
- be given unto thee that thou shalt be heard by the
+00:55:32,0 --> 00:55:32,0
+shall be given unto thee that thou shalt be heard
 
 19
-00:02:04,145 --> 00:02:10,345
- church in all things whatsoever thou shalt teach
+00:55:32,0 --> 00:55:32,0
+by the church in all things whatsoever thou
 
 20
-00:02:10,345 --> 00:02:16,545
- them by the Comforter, concerning the revelations
+00:55:32,0 --> 00:55:32,0
+shalt teach them by the Comforter, concerning the
 
 21
-00:02:16,545 --> 00:02:22,745
- and commandments which I have given
+00:55:32,0 --> 01:05:42,
+revelations and commandments which I have given.
 
 22
-00:02:22,442 --> 00:02:27,442
-2 But, behold, verily, verily, I say unto thee, no
+01:05:42,0 --> 01:05:42,0
+2 But, behold, verily, verily, I say unto
 
 23
-00:02:27,442 --> 00:02:32,442
- one shall be appointed to receive commandments
+01:05:42,0 --> 01:05:42,0
+thee, no one shall be appointed to
 
 24
-00:02:32,442 --> 00:02:37,442
- and revelations in this church excepting my servant
+01:05:42,0 --> 01:05:42,0
+receive commandments and revelations in this
 
 25
-00:02:37,442 --> 00:02:42,442
- Joseph Smith, Jun., for he receiveth them even as
+01:05:42,0 --> 01:05:42,0
+church excepting my servant Joseph Smith,
 
 26
-00:02:42,442 --> 00:02:47,442
- Moses
+01:05:42,0 --> 01:10:53,
+Jun., for he receiveth them even as Moses.
 
 27
-00:02:47,534 --> 00:02:54,034
-3 And thou shalt be obedient unto the things which
+01:10:53,0 --> 01:10:53,0
+3 And thou shalt be obedient unto the
 
 28
-00:02:54,034 --> 00:03:00,534
- I shall give unto him, even as Aaron, to declare
+01:10:53,0 --> 01:10:53,0
+things which I shall give unto him,
 
 29
-00:03:00,534 --> 00:03:07,034
- faithfully the commandments and the revelations,
+01:10:53,0 --> 01:10:53,0
+even as Aaron, to declare faithfully the
 
 30
-00:03:07,034 --> 00:03:13,534
- with power and authority unto the church
+01:10:53,0 --> 01:10:53,0
+commandments and the revelations,
 
 31
-00:03:13,493 --> 00:03:20,493
-4 And if thou art led at any time by the Comforter
+01:10:53,0 --> 01:23:04,
+with power and authority unto the church.
 
 32
-00:03:20,493 --> 00:03:27,493
- to speak or teach, or at all times by the way of
+01:23:04,0 --> 01:23:04,0
+4 And if thou art led at any time by
 
 33
-00:03:27,493 --> 00:03:34,493
- commandment unto the church, thou mayest do it
+01:23:04,0 --> 01:23:04,0
+the Comforter to speak or teach, or
 
 34
-00:03:34,981 --> 00:03:39,481
-5 But thou shalt not write by way of commandment,
+01:23:04,0 --> 01:23:04,0
+at all times by the way of
 
 35
-00:03:39,481 --> 00:03:43,981
- but by wisdom
+01:23:04,0 --> 01:36:13,
+commandment unto the church, thou mayest do it.
 
 36
-00:03:43,59 --> 00:03:48,59
-6 And thou shalt not command him who is at thy
+01:36:13,0 --> 01:36:13,0
+5 But thou shalt not write by
 
 37
-00:03:48,59 --> 00:03:53,59
- head, and at the head of the church
+01:36:13,0 --> 01:47:06,
+way of commandment, but by wisdom;
 
 38
-00:03:53,633 --> 00:03:56,3
-7 For I have given him the keys of the mysteries,
+01:47:06,0 --> 01:47:06,0
+6 And thou shalt not
 
 39
-00:03:56,3 --> 00:03:58,967
- and the revelations which are sealed, until I
+01:47:06,0 --> 01:47:06,0
+command him who is at thy head,
 
 40
-00:03:58,967 --> 00:04:01,634
- shall appoint unto them another in his stead
+01:47:06,0 --> 01:51:19,
+and at the head of the church;
 
 41
-00:04:01,608 --> 00:04:08,441
-8 And now, behold, I say unto you that you shall
+01:51:19,0 --> 01:51:19,0
+7 For I have given him
 
 42
-00:04:08,441 --> 00:04:15,274
- go unto the Lamanites and preach my gospel unto
+01:51:19,0 --> 01:51:19,0
+the keys of the
 
 43
-00:04:15,274 --> 00:04:22,107
- them; and inasmuch as they receive thy teachings thou
+01:51:19,0 --> 01:51:19,0
+mysteries, and the revelations
 
 44
-00:04:22,107 --> 00:04:28,94
- shalt cause my church to be established among
+01:51:19,0 --> 01:51:19,0
+which are sealed,
 
 45
-00:04:28,94 --> 00:04:35,773
- them; and thou shalt have revelations, but write them
+01:51:19,0 --> 01:51:19,0
+until I shall appoint unto
 
 46
-00:04:35,773 --> 00:04:42,606
- not by way of commandment
+01:51:19,0 --> 01:56:30,
+them another in his stead.
 
 47
-00:04:42,082 --> 00:04:47,882
-9 And now, behold, I say unto you that it is not
+01:56:30,0 --> 01:56:30,0
+8 And now, behold, I
 
 48
-00:04:47,882 --> 00:04:53,682
- revealed, and no man knoweth where the city Zion
+01:56:30,0 --> 01:56:30,0
+say unto you that you
 
 49
-00:04:53,682 --> 00:04:59,482
- shall be built, but it shall be given hereafter.
+01:56:30,0 --> 01:56:30,0
+shall go unto the
 
 50
-00:04:59,482 --> 00:05:05,282
- Behold, I say unto you that it shall be on the
+01:56:30,0 --> 01:56:30,0
+Lamanites and preach my
 
 51
-00:05:05,282 --> 00:05:11,082
- borders by the Lamanites
+01:56:30,0 --> 01:56:30,0
+gospel unto them;
 
 52
-00:05:11,044 --> 00:05:18,044
-10 Thou shalt not leave this place until after the
+01:56:30,0 --> 01:56:30,0
+and inasmuch as they
 
 53
-00:05:18,044 --> 00:05:25,044
- conference; and my servant Joseph shall be
+01:56:30,0 --> 01:56:30,0
+receive thy teachings
 
 54
-00:05:25,044 --> 00:05:32,044
- appointed to preside over the conference by the voice of
+01:56:30,0 --> 01:56:30,0
+thou shalt cause my
 
 55
-00:05:32,044 --> 00:05:39,044
- it, and what he saith to thee thou shalt tell
+01:56:30,0 --> 01:56:30,0
+church to be
 
 56
-00:05:39,773 --> 00:05:46,773
-11 And again, thou shalt take thy brother, Hiram
+01:56:30,0 --> 01:56:30,0
+established among them; and
 
 57
-00:05:46,773 --> 00:05:53,773
- Page, between him and thee alone, and tell him that
+01:56:30,0 --> 01:56:30,0
+thou shalt have
 
 58
-00:05:53,773 --> 00:06:00,773
- those things which he hath written from that
+01:56:30,0 --> 01:56:30,0
+revelations, but write them
 
 59
-00:06:00,773 --> 00:06:07,773
- stone are not of me and that Satan deceiveth him
+01:56:30,0 --> 02:06:40,
+not by way of commandment.
 
 60
-00:06:07,767 --> 00:06:12,767
-12 For, behold, these things have not been
+02:06:40,0 --> 02:06:40,0
+9 And now, behold,
 
 61
-00:06:12,767 --> 00:06:17,767
- appointed unto him, neither shall anything be appointed
+02:06:40,0 --> 02:06:40,0
+I say unto you that
 
 62
-00:06:17,767 --> 00:06:22,767
- unto any of this church contrary to the church
+02:06:40,0 --> 02:06:40,0
+it is not
 
 63
-00:06:22,767 --> 00:06:27,767
- covenants
+02:06:40,0 --> 02:06:40,0
+revealed, and no man
 
 64
-00:06:27,254 --> 00:06:31,921
-13 For all things must be done in order, and by
+02:06:40,0 --> 02:06:40,0
+knoweth where the city
 
 65
-00:06:31,921 --> 00:06:36,588
- common consent in the church, by the prayer of
+02:06:40,0 --> 02:06:40,0
+Zion shall be built,
 
 66
-00:06:36,588 --> 00:06:41,255
- faith
+02:06:40,0 --> 02:06:40,0
+but it shall be
 
 67
-00:06:41,534 --> 00:06:45,784
-14 And thou shalt assist to settle all these
+02:06:40,0 --> 02:06:40,0
+given hereafter.
 
 68
-00:06:45,784 --> 00:06:50,034
- things, according to the covenants of the church,
+02:06:40,0 --> 02:06:40,0
+Behold, I say unto you
 
 69
-00:06:50,034 --> 00:06:54,284
- before thou shalt take thy journey among the Lamanites
+02:06:40,0 --> 02:06:40,0
+that it shall be on
 
 70
-00:06:54,284 --> 00:06:58,534
-
+02:06:40,0 --> 02:19:49,
+the borders by the Lamanites.
 
 71
-00:06:58,818 --> 00:07:02,818
-15 And it shall be given thee from the time thou
+02:19:49,0 --> 02:19:49,0
+10 Thou shalt not
 
 72
-00:07:02,818 --> 00:07:06,818
- shalt go, until the time thou shalt return, what
+02:19:49,0 --> 02:19:49,0
+leave this place
 
 73
-00:07:06,818 --> 00:07:10,818
- thou shalt do
+02:19:49,0 --> 02:19:49,0
+until after the
 
 74
-00:07:10,797 --> 00:07:15,13
-16 And thou must open thy mouth at all times,
+02:19:49,0 --> 02:19:49,0
+conference; and
 
 75
-00:07:15,13 --> 00:07:19,463
- declaring my gospel with the sound of rejoicing. Amen.
+02:19:49,0 --> 02:19:49,0
+my servant Joseph
 
 76
-00:07:19,463 --> 00:07:23,796
+02:19:49,0 --> 02:19:49,0
+shall be
 
+77
+02:19:49,0 --> 02:19:49,0
+appointed to preside over
+
+78
+02:19:49,0 --> 02:19:49,0
+the conference
+
+79
+02:19:49,0 --> 02:19:49,0
+by the voice of
+
+80
+02:19:49,0 --> 02:19:49,0
+it, and what he
+
+81
+02:19:49,0 --> 02:35:17,
+saith to thee thou shalt tell.
+
+82
+02:35:17,0 --> 02:35:17,0
+11 And again,
+
+83
+02:35:17,0 --> 02:35:17,0
+thou shalt take
+
+84
+02:35:17,0 --> 02:35:17,0
+thy brother, Hiram
+
+85
+02:35:17,0 --> 02:35:17,0
+Page, between
+
+86
+02:35:17,0 --> 02:35:17,0
+him and thee
+
+87
+02:35:17,0 --> 02:35:17,0
+alone, and tell him
+
+88
+02:35:17,0 --> 02:35:17,0
+that those
+
+89
+02:35:17,0 --> 02:35:17,0
+things which he hath
+
+90
+02:35:17,0 --> 02:35:17,0
+written from
+
+91
+02:35:17,0 --> 02:35:17,0
+that stone are not
+
+92
+02:35:17,0 --> 02:35:17,0
+of me and that
+
+93
+02:35:17,0 --> 02:40:27,
+Satan deceiveth him;
+
+94
+02:40:27,0 --> 02:40:27,0
+12 For, behold,
+
+95
+02:40:27,0 --> 02:40:27,0
+these things
+
+96
+02:40:27,0 --> 02:40:27,0
+have not been
+
+97
+02:40:27,0 --> 02:40:27,0
+appointed unto
+
+98
+02:40:27,0 --> 02:40:27,0
+him, neither
+
+99
+02:40:27,0 --> 02:40:27,0
+shall anything be
+
+100
+02:40:27,0 --> 02:40:27,0
+appointed unto
+
+101
+02:40:27,0 --> 02:40:27,0
+any of this
+
+102
+02:40:27,0 --> 02:40:27,0
+church contrary to
+
+103
+02:40:27,0 --> 02:49:23,
+the church covenants.
+
+104
+02:49:23,0 --> 02:49:23,0
+13 For all
+
+105
+02:49:23,0 --> 02:49:23,0
+things must be
+
+106
+02:49:23,0 --> 02:49:23,0
+done in order,
+
+107
+02:49:23,0 --> 02:49:23,0
+and by common
+
+108
+02:49:23,0 --> 02:49:23,0
+consent in the
+
+109
+02:49:23,0 --> 02:49:23,0
+church, by the
+
+110
+02:49:23,0 --> 02:54:34,
+prayer of faith.
+
+111
+02:54:34,0 --> 02:54:34,0
+14 And thou
+
+112
+02:54:34,0 --> 02:54:34,0
+shalt assist
+
+113
+02:54:34,0 --> 02:54:34,0
+to settle all
+
+114
+02:54:34,0 --> 02:54:34,0
+these things,
+
+115
+02:54:34,0 --> 02:54:34,0
+according to
+
+116
+02:54:34,0 --> 02:54:34,0
+the
+
+117
+02:54:34,0 --> 02:54:34,0
+covenants of the
+
+118
+02:54:34,0 --> 02:54:34,0
+church, before
+
+119
+02:54:34,0 --> 02:54:34,0
+thou shalt take
+
+120
+02:54:34,0 --> 02:54:34,0
+thy journey
+
+121
+02:54:34,0 --> 02:58:47,
+among the Lamanites.
+
+122
+02:58:47,0 --> 02:58:47,0
+15 And it
+
+123
+02:58:47,0 --> 02:58:47,0
+shall be given
+
+124
+02:58:47,0 --> 02:58:47,0
+thee from
+
+125
+02:58:47,0 --> 02:58:47,0
+the time thou
+
+126
+02:58:47,0 --> 02:58:47,0
+shalt go,
+
+127
+02:58:47,0 --> 02:58:47,0
+until the
+
+128
+02:58:47,0 --> 02:58:47,0
+time thou shalt
+
+129
+02:58:47,0 --> 02:58:47,0
+return,
+
+130
+02:58:47,0 --> 03:03:30,
+what thou shalt do.
+
+131
+03:03:30,0 --> 03:03:30,0
+16 And thou
+
+132
+03:03:30,0 --> 03:03:30,0
+must open
+
+133
+03:03:30,0 --> 03:03:30,0
+thy mouth
+
+134
+03:03:30,0 --> 03:03:30,0
+at all
+
+135
+03:03:30,0 --> 03:03:30,0
+times, declaring
+
+136
+03:03:30,0 --> 03:03:30,0
+my gospel
+
+137
+03:03:30,0 --> 03:03:30,0
+with the
+
+138
+03:03:30,0 --> 03:03:30,0
+sound of
+
+139
+03:03:30,0 --> 03:12:40,
+rejoicing. Amen. 
 

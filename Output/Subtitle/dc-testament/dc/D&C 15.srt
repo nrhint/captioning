@@ -1,106 +1,187 @@
 1
-00:00:11,511 --> 00:00:18,111
-Section 15 Revelation given through Joseph Smith
+00:00:00,0 --> 00:00:00,0
+Section 15 Revelation given through Joseph
 
 2
-00:00:18,111 --> 00:00:24,712
- the Prophet to John Whitmer, at Fayette, New York,
+00:00:00,0 --> 00:00:00,0
+Smith the Prophet to John Whitmer, at Fayette,
 
 3
-00:00:24,712 --> 00:00:31,311
- June 1829 (see the 
-heading to section 14). The
+00:00:00,0 --> 00:00:00,0
+New York, June 1829 (see the 
+heading to
 
 4
-00:00:31,311 --> 00:00:37,911
- message is intimately and impressively personal in
+00:00:00,0 --> 00:00:00,0
+section 14). The message is intimately and
 
 5
-00:00:37,911 --> 00:00:44,511
- that the Lord tells of what was known only to John
+00:00:00,0 --> 00:00:00,0
+impressively personal in that the Lord tells of what was
 
 6
-00:00:44,511 --> 00:00:51,111
- Whitmer and Himself. John Whitmer later became one
+00:00:00,0 --> 00:00:00,0
+known only to John Whitmer and Himself. John
 
 7
-00:00:51,111 --> 00:00:57,711
- of the Eight Witnesses to the Book of Mormon.
+00:00:00,0 --> 00:00:00,0
+Whitmer later became one of the Eight
 
 8
-00:00:57,711 --> 00:01:04,311
-1–2, The Lord’s arm is over all the earth; 
-3–6, To
+00:00:00,0 --> 00:00:00,0
+Witnesses to the Book of Mormon. 
+1–2, The Lord’s arm
 
 9
-00:01:04,311 --> 00:01:10,912
- preach the gospel and save souls is the thing of
+00:00:00,0 --> 00:00:00,0
+is over all the earth; 
+3–6, To preach the
 
 10
-00:01:10,912 --> 00:01:17,511
- most worth.
+00:00:00,0 --> 00:38:03,
+gospel and save souls is the thing of most worth. 
 
 11
-00:01:17,311 --> 00:01:24,811
-1 Hearken, my servant John, and listen to the
+00:38:03,0 --> 00:38:03,0
+1 Hearken, my servant John, and
 
 12
-00:01:24,811 --> 00:01:32,311
- words of Jesus Christ, your Lord and your Redeemer
+00:38:03,0 --> 00:38:03,0
+listen to the words of Jesus
 
 13
-00:01:32,559 --> 00:01:39,559
-2 For behold, I speak unto you with sharpness and
+00:38:03,0 --> 00:40:45,
+Christ, your Lord and your Redeemer.
 
 14
-00:01:39,559 --> 00:01:46,559
- with power, for mine arm is over all the earth
+00:40:45,0 --> 00:40:45,0
+2 For behold, I speak
 
 15
-00:01:46,84 --> 00:01:52,84
-3 And I will tell you that which no man knoweth
+00:40:45,0 --> 00:40:45,0
+unto you with sharpness
 
 16
-00:01:52,84 --> 00:01:58,84
- save me and thee alone
+00:40:45,0 --> 00:40:45,0
+and with power, for mine
 
 17
-00:01:58,819 --> 00:02:04,819
-4 For many times you have desired of me to know
+00:40:45,0 --> 00:44:15,
+arm is over all the earth.
 
 18
-00:02:04,819 --> 00:02:10,819
- that which would be of the most worth unto you
+00:44:15,0 --> 00:44:15,0
+3 And I will tell you
 
 19
-00:02:10,13 --> 00:02:15,13
-5 Behold, blessed are you for this thing, and for
+00:44:15,0 --> 00:44:15,0
+that which no man
 
 20
-00:02:15,13 --> 00:02:20,13
- speaking my words which I have given you according
+00:44:15,0 --> 00:45:13,
+knoweth save me and thee alone—
 
 21
-00:02:20,13 --> 00:02:25,13
- to my commandments
+00:45:13,0 --> 00:45:13,0
+4 For many times
 
 22
-00:02:25,112 --> 00:02:30,712
-6 And now, behold, I say unto you, that the thing
+00:45:13,0 --> 00:45:13,0
+you have desired of
 
 23
-00:02:30,712 --> 00:02:36,312
- which will be of the most worth unto you will be
+00:45:13,0 --> 00:45:13,0
+me to know that
 
 24
-00:02:36,312 --> 00:02:41,912
- to declare repentance unto this people, that you
+00:45:13,0 --> 00:45:13,0
+which would be of the
 
 25
-00:02:41,912 --> 00:02:47,512
- may bring souls unto me, that you may rest with them
+00:45:13,0 --> 00:52:57,
+most worth unto you.
 
 26
-00:02:47,512 --> 00:02:53,112
- in the kingdom of my Father. Amen.
+00:52:57,0 --> 00:52:57,0
+5 Behold, blessed
+
+27
+00:52:57,0 --> 00:52:57,0
+are you for this
+
+28
+00:52:57,0 --> 00:52:57,0
+thing, and for
+
+29
+00:52:57,0 --> 00:52:57,0
+speaking my words
+
+30
+00:52:57,0 --> 00:52:57,0
+which I have
+
+31
+00:52:57,0 --> 00:52:57,0
+given you according
+
+32
+00:52:57,0 --> 00:58:08,
+to my commandments.
+
+33
+00:58:08,0 --> 00:58:08,0
+6 And now,
+
+34
+00:58:08,0 --> 00:58:08,0
+behold, I say unto
+
+35
+00:58:08,0 --> 00:58:08,0
+you, that the
+
+36
+00:58:08,0 --> 00:58:08,0
+thing which will be
+
+37
+00:58:08,0 --> 00:58:08,0
+of the most
+
+38
+00:58:08,0 --> 00:58:08,0
+worth unto you will
+
+39
+00:58:08,0 --> 00:58:08,0
+be to declare
+
+40
+00:58:08,0 --> 00:58:08,0
+repentance unto
+
+41
+00:58:08,0 --> 00:58:08,0
+this people, that
+
+42
+00:58:08,0 --> 00:58:08,0
+you may bring
+
+43
+00:58:08,0 --> 00:58:08,0
+souls unto me,
+
+44
+00:58:08,0 --> 00:58:08,0
+that you may rest
+
+45
+00:58:08,0 --> 00:58:08,0
+with them in the
+
+46
+00:58:08,0 --> 01:04:19,
+kingdom of my Father. Amen. 
 

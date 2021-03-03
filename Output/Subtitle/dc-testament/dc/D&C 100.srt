@@ -1,275 +1,612 @@
 1
-00:00:11,278 --> 00:00:18,914
+00:00:00,0 --> 00:00:00,0
 Section 100 Revelation given to Joseph Smith the
 
 2
-00:00:18,914 --> 00:00:26,55
- Prophet and Sidney Rigdon, at Perrysburg, New York,
+00:00:00,0 --> 00:00:00,0
+Prophet and Sidney Rigdon, at Perrysburg, New
 
 3
-00:00:26,55 --> 00:00:34,186
- October 12, 1833. The two brethren, having been
+00:00:00,0 --> 00:00:00,0
+York, October 12, 1833. The two brethren, having
 
 4
-00:00:34,186 --> 00:00:41,822
- absent from their families for several days, felt
+00:00:00,0 --> 00:00:00,0
+been absent from their families for several
 
 5
-00:00:41,822 --> 00:00:49,458
- some concern about them. 
-1–4, Joseph and Sidney to
+00:00:00,0 --> 00:00:00,0
+days, felt some concern about them. 
+1–4, Joseph and
 
 6
-00:00:49,458 --> 00:00:57,094
- preach the gospel for the salvation of souls;
+00:00:00,0 --> 00:00:00,0
+Sidney to preach the gospel for the salvation
 
 7
-00:00:57,094 --> 00:01:04,73
-5–8, It will be given them in the very hour what
+00:00:00,0 --> 00:00:00,0
+of souls; 
+5–8, It will be given them in the very
 
 8
-00:01:04,73 --> 00:01:12,366
- they should say; 
-9–12, Sidney is to be a spokesman
+00:00:00,0 --> 00:00:00,0
+hour what they should say; 
+9–12, Sidney is to
 
 9
-00:01:12,366 --> 00:01:20,002
- and Joseph is to be a revelator and mighty in
+00:00:00,0 --> 00:00:00,0
+be a spokesman and Joseph is to be a revelator
 
 10
-00:01:20,002 --> 00:01:27,638
- testimony; 
-13–17, The Lord will raise up a pure
+00:00:00,0 --> 00:00:00,0
+and mighty in testimony; 
+13–17, The Lord will
 
 11
-00:01:27,638 --> 00:01:35,274
- people, and the obedient will be saved.
+00:00:00,0 --> 01:34:52,
+raise up a pure people, and the obedient will be saved. 
 
 12
-00:01:35,412 --> 00:01:41,412
-1 Verily, thus saith the Lord unto you, my friends
+01:34:52,0 --> 01:34:52,0
+1 Verily, thus saith the Lord unto you, my
 
 13
-00:01:41,412 --> 00:01:47,412
- Sidney and Joseph, your families are well; they
+01:34:52,0 --> 01:34:52,0
+friends Sidney and Joseph, your families are well;
 
 14
-00:01:47,412 --> 00:01:53,412
- are in mine hands, and I will do with them as
+01:34:52,0 --> 01:34:52,0
+they are in mine hands, and I will do with them
 
 15
-00:01:53,412 --> 00:01:59,412
- seemeth me good; for in me there is all power
+01:34:52,0 --> 01:57:52,
+as seemeth me good; for in me there is all power.
 
 16
-00:01:59,703 --> 00:02:03,203
-2 Therefore, follow me, and listen to the counsel
+01:57:52,0 --> 01:57:52,0
+2 Therefore, follow me, and listen to
 
 17
-00:02:03,203 --> 00:02:06,703
- which I shall give unto you
+01:57:52,0 --> 01:53:32,
+the counsel which I shall give unto you.
 
 18
-00:02:06,727 --> 00:02:12,727
-3 Behold, and lo, I have much people in this
+01:53:32,0 --> 01:53:32,0
+3 Behold, and lo, I have much
 
 19
-00:02:12,727 --> 00:02:18,727
- place, in the regions round about; and an effectual
+01:53:32,0 --> 01:53:32,0
+people in this place, in the regions
 
 20
-00:02:18,727 --> 00:02:24,727
- door shall be opened in the regions round about in
+01:53:32,0 --> 01:53:32,0
+round about; and an effectual
 
 21
-00:02:24,727 --> 00:02:30,727
- this eastern land
+01:53:32,0 --> 01:53:32,0
+door shall be opened in the regions
 
 22
-00:02:30,217 --> 00:02:33,884
-4 Therefore, I, the Lord, have suffered you to
+01:53:32,0 --> 01:57:11,
+round about in this eastern land.
 
 23
-00:02:33,884 --> 00:02:37,551
- come unto this place; for thus it was expedient in me
+01:57:11,0 --> 01:57:11,0
+4 Therefore, I, the Lord, have
 
 24
-00:02:37,551 --> 00:02:41,218
- for the salvation of souls
+01:57:11,0 --> 01:57:11,0
+suffered you to come unto this
 
 25
-00:02:41,495 --> 00:02:46,745
-5 Therefore, verily I say unto you, lift up your
+01:57:11,0 --> 01:57:11,0
+place; for thus it was expedient
 
 26
-00:02:46,745 --> 00:02:51,995
- voices unto this people; speak the thoughts that I
+01:57:11,0 --> 01:58:15,
+in me for the salvation of souls.
 
 27
-00:02:51,995 --> 00:02:57,245
- shall put into your hearts, and you shall not be
+01:58:15,0 --> 01:58:15,0
+5 Therefore, verily I say
 
 28
-00:02:57,245 --> 00:03:02,495
- confounded before men
+01:58:15,0 --> 01:58:15,0
+unto you, lift up your voices
 
 29
-00:03:02,766 --> 00:03:08,766
-6 For it shall be given you in the very hour, yea,
+01:58:15,0 --> 01:58:15,0
+unto this people; speak the
 
 30
-00:03:08,766 --> 00:03:14,766
- in the very moment, what ye shall say
+01:58:15,0 --> 01:58:15,0
+thoughts that I shall put
 
 31
-00:03:14,528 --> 00:03:19,028
-7 But a commandment I give unto you, that ye shall
+01:58:15,0 --> 01:58:15,0
+into your hearts, and you
 
 32
-00:03:19,028 --> 00:03:23,528
- declare whatsoever thing ye declare in my name,
+01:58:15,0 --> 02:05:18,
+shall not be confounded before men;
 
 33
-00:03:23,528 --> 00:03:28,028
- in solemnity of heart, in the spirit of meekness,
+02:05:18,0 --> 02:05:18,0
+6 For it shall be
 
 34
-00:03:28,028 --> 00:03:32,528
- in all things
+02:05:18,0 --> 02:05:18,0
+given you in the very
 
 35
-00:03:32,062 --> 00:03:34,062
-8 And I give unto you this promise, that inasmuch
+02:05:18,0 --> 02:05:18,0
+hour, yea, in the very
 
 36
-00:03:34,062 --> 00:03:36,062
- as ye do this the Holy Ghost shall be shed forth
+02:05:18,0 --> 02:28:18,
+moment, what ye shall say.
 
 37
-00:03:36,062 --> 00:03:38,062
- in bearing record unto all things whatsoever ye
+02:28:18,0 --> 02:28:18,0
+7 But a commandment
 
 38
-00:03:38,062 --> 00:03:40,062
- shall say
+02:28:18,0 --> 02:28:18,0
+I give unto you,
 
 39
-00:03:40,053 --> 00:03:47,303
-9 And it is expedient in me that you, my servant
+02:28:18,0 --> 02:28:18,0
+that ye shall declare
 
 40
-00:03:47,303 --> 00:03:54,553
- Sidney, should be a spokesman unto this people;
+02:28:18,0 --> 02:28:18,0
+whatsoever thing ye
 
 41
-00:03:54,553 --> 00:04:01,803
- yea, verily, I will ordain you unto this calling,
+02:28:18,0 --> 02:28:18,0
+declare in my name,
 
 42
-00:04:01,803 --> 00:04:09,053
- even to be a spokesman unto my servant Joseph
+02:28:18,0 --> 02:28:18,0
+in solemnity of
 
 43
-00:04:09,049 --> 00:04:12,049
-10 And I will give unto him power to be mighty in
+02:28:18,0 --> 02:28:18,0
+heart, in the spirit of
 
 44
-00:04:12,049 --> 00:04:15,049
- testimony
+02:28:18,0 --> 02:23:58,
+meekness, in all things.
 
 45
-00:04:15,572 --> 00:04:19,572
-11 And I will give unto thee power to be mighty in
+02:23:58,0 --> 02:23:58,0
+8 And I give unto
 
 46
-00:04:19,572 --> 00:04:23,572
- expounding all scriptures, that thou mayest be a
+02:23:58,0 --> 02:23:58,0
+you this promise,
 
 47
-00:04:23,572 --> 00:04:27,572
- spokesman unto him, and he shall be a revelator
+02:23:58,0 --> 02:23:58,0
+that inasmuch as ye
 
 48
-00:04:27,572 --> 00:04:31,572
- unto thee, that thou mayest know the certainty of
+02:23:58,0 --> 02:23:58,0
+do this the Holy
 
 49
-00:04:31,572 --> 00:04:35,572
- all things pertaining to the things of my kingdom on
+02:23:58,0 --> 02:23:58,0
+Ghost shall be shed
 
 50
-00:04:35,572 --> 00:04:39,572
- the earth
+02:23:58,0 --> 02:23:58,0
+forth in bearing
 
 51
-00:04:39,062 --> 00:04:43,729
-12 Therefore, continue your journey and let your
+02:23:58,0 --> 02:23:58,0
+record unto all things
 
 52
-00:04:43,729 --> 00:04:48,396
- hearts rejoice; for behold, and lo, I am with you
+02:23:58,0 --> 02:29:03,
+whatsoever ye shall say.
 
 53
-00:04:48,396 --> 00:04:53,063
- even unto the end
+02:29:03,0 --> 02:29:03,0
+9 And it is
 
 54
-00:04:53,093 --> 00:04:57,76
-13 And now I give unto you a word concerning Zion.
+02:29:03,0 --> 02:29:03,0
+expedient in me that
 
 55
-00:04:57,76 --> 00:05:02,427
- Zion shall be redeemed, although she is chastened
+02:29:03,0 --> 02:29:03,0
+you, my servant
 
 56
-00:05:02,427 --> 00:05:07,094
- for a little season
+02:29:03,0 --> 02:29:03,0
+Sidney, should be a
 
 57
-00:05:07,374 --> 00:05:13,374
-14 Thy brethren, my servants Orson Hyde and John
+02:29:03,0 --> 02:29:03,0
+spokesman unto
 
 58
-00:05:13,374 --> 00:05:19,374
- Gould, are in my hands; and inasmuch as they keep
+02:29:03,0 --> 02:29:03,0
+this people; yea,
 
 59
-00:05:19,374 --> 00:05:25,374
- my commandments they shall be saved
+02:29:03,0 --> 02:29:03,0
+verily, I will
 
 60
-00:05:25,158 --> 00:05:28,658
-15 Therefore, let your hearts be comforted; for
+02:29:03,0 --> 02:29:03,0
+ordain you unto
 
 61
-00:05:28,658 --> 00:05:32,158
- all things shall work together for good to them that
+02:29:03,0 --> 02:29:03,0
+this calling, even
 
 62
-00:05:32,158 --> 00:05:35,658
- walk uprightly, and to the sanctification of the
+02:29:03,0 --> 02:29:03,0
+to be a spokesman
 
 63
-00:05:35,658 --> 00:05:39,158
- church
+02:29:03,0 --> 02:28:41,
+unto my servant Joseph.
 
 64
-00:05:39,923 --> 00:05:44,423
-16 For I will raise up unto myself a pure people,
+02:28:41,0 --> 02:28:41,0
+10 And I will
 
 65
-00:05:44,423 --> 00:05:48,923
- that will serve me in righteousness
+02:28:41,0 --> 02:28:41,0
+give unto him
 
 66
-00:05:48,949 --> 00:05:51,616
-17 And all that call upon the name of the Lord,
+02:28:41,0 --> 02:28:41,0
+power to be
 
 67
-00:05:51,616 --> 00:05:54,283
- and keep his commandments, shall be saved. Even so.
+02:28:41,0 --> 02:24:21,
+mighty in testimony.
 
 68
-00:05:54,283 --> 00:05:56,95
- Amen.
+02:24:21,0 --> 02:24:21,0
+11 And I will
+
+69
+02:24:21,0 --> 02:24:21,0
+give unto thee
+
+70
+02:24:21,0 --> 02:24:21,0
+power to be
+
+71
+02:24:21,0 --> 02:24:21,0
+mighty in
+
+72
+02:24:21,0 --> 02:24:21,0
+expounding all
+
+73
+02:24:21,0 --> 02:24:21,0
+scriptures, that
+
+74
+02:24:21,0 --> 02:24:21,0
+thou mayest be
+
+75
+02:24:21,0 --> 02:24:21,0
+a spokesman
+
+76
+02:24:21,0 --> 02:24:21,0
+unto him, and he
+
+77
+02:24:21,0 --> 02:24:21,0
+shall be a
+
+78
+02:24:21,0 --> 02:24:21,0
+revelator unto
+
+79
+02:24:21,0 --> 02:24:21,0
+thee, that thou
+
+80
+02:24:21,0 --> 02:24:21,0
+mayest know
+
+81
+02:24:21,0 --> 02:24:21,0
+the certainty
+
+82
+02:24:21,0 --> 02:24:21,0
+of all things
+
+83
+02:24:21,0 --> 02:24:21,0
+pertaining to
+
+84
+02:24:21,0 --> 02:24:21,0
+the things of
+
+85
+02:24:21,0 --> 02:29:26,
+my kingdom on the earth.
+
+86
+02:29:26,0 --> 02:29:26,0
+12 Therefore,
+
+87
+02:29:26,0 --> 02:29:26,0
+continue
+
+88
+02:29:26,0 --> 02:29:26,0
+your journey and
+
+89
+02:29:26,0 --> 02:29:26,0
+let your
+
+90
+02:29:26,0 --> 02:29:26,0
+hearts rejoice;
+
+91
+02:29:26,0 --> 02:29:26,0
+for behold,
+
+92
+02:29:26,0 --> 02:29:26,0
+and lo, I am
+
+93
+02:29:26,0 --> 02:29:26,0
+with you even
+
+94
+02:29:26,0 --> 02:41:04,
+unto the end.
+
+95
+02:41:04,0 --> 02:41:04,0
+13 And now I
+
+96
+02:41:04,0 --> 02:41:04,0
+give unto
+
+97
+02:41:04,0 --> 02:41:04,0
+you a word
+
+98
+02:41:04,0 --> 02:41:04,0
+concerning
+
+99
+02:41:04,0 --> 02:41:04,0
+Zion. Zion
+
+100
+02:41:04,0 --> 02:41:04,0
+shall be
+
+101
+02:41:04,0 --> 02:41:04,0
+redeemed, although
+
+102
+02:41:04,0 --> 02:41:04,0
+she is
+
+103
+02:41:04,0 --> 02:41:04,0
+chastened for a
+
+104
+02:41:04,0 --> 03:02:07,
+little season.
+
+105
+03:02:07,0 --> 03:02:07,0
+14 Thy
+
+106
+03:02:07,0 --> 03:02:07,0
+brethren, my
+
+107
+03:02:07,0 --> 03:02:07,0
+servants
+
+108
+03:02:07,0 --> 03:02:07,0
+Orson Hyde and
+
+109
+03:02:07,0 --> 03:02:07,0
+John Gould,
+
+110
+03:02:07,0 --> 03:02:07,0
+are in my
+
+111
+03:02:07,0 --> 03:02:07,0
+hands; and
+
+112
+03:02:07,0 --> 03:02:07,0
+inasmuch as
+
+113
+03:02:07,0 --> 03:02:07,0
+they keep
+
+114
+03:02:07,0 --> 03:02:07,0
+my
+
+115
+03:02:07,0 --> 03:02:07,0
+commandments they
+
+116
+03:02:07,0 --> 03:13:45,
+shall be saved.
+
+117
+03:13:45,0 --> 03:13:45,0
+15
+
+118
+03:13:45,0 --> 03:13:45,0
+Therefore, let
+
+119
+03:13:45,0 --> 03:13:45,0
+your hearts
+
+120
+03:13:45,0 --> 03:13:45,0
+be
+
+121
+03:13:45,0 --> 03:13:45,0
+comforted; for
+
+122
+03:13:45,0 --> 03:13:45,0
+all things
+
+123
+03:13:45,0 --> 03:13:45,0
+shall work
+
+124
+03:13:45,0 --> 03:13:45,0
+together
+
+125
+03:13:45,0 --> 03:13:45,0
+for good to
+
+126
+03:13:45,0 --> 03:13:45,0
+them that
+
+127
+03:13:45,0 --> 03:13:45,0
+walk
+
+128
+03:13:45,0 --> 03:13:45,0
+uprightly, and
+
+129
+03:13:45,0 --> 03:13:45,0
+to the
+
+130
+03:13:45,0 --> 03:13:45,0
+
+
+131
+03:13:45,0 --> 03:28:47,
+sanctification of the church.
+
+132
+03:28:47,0 --> 03:28:47,0
+16 For I
+
+133
+03:28:47,0 --> 03:28:47,0
+will
+
+134
+03:28:47,0 --> 03:28:47,0
+raise up unto
+
+135
+03:28:47,0 --> 03:28:47,0
+myself a
+
+136
+03:28:47,0 --> 03:28:47,0
+pure
+
+137
+03:28:47,0 --> 03:28:47,0
+people, that
+
+138
+03:28:47,0 --> 03:28:47,0
+will
+
+139
+03:28:47,0 --> 03:28:47,0
+serve me in
+
+140
+03:28:47,0 --> 03:30:51,
+righteousness;
+
+141
+03:30:51,0 --> 03:30:51,0
+17 And
+
+142
+03:30:51,0 --> 03:30:51,0
+all that
+
+143
+03:30:51,0 --> 03:30:51,0
+call
+
+144
+03:30:51,0 --> 03:30:51,0
+upon the
+
+145
+03:30:51,0 --> 03:30:51,0
+name of
+
+146
+03:30:51,0 --> 03:30:51,0
+the Lord,
+
+147
+03:30:51,0 --> 03:30:51,0
+and keep
+
+148
+03:30:51,0 --> 03:30:51,0
+his
+
+149
+03:30:51,0 --> 03:30:51,0
+
+
+150
+03:30:51,0 --> 03:30:51,0
+commandments, shall
+
+151
+03:30:51,0 --> 03:30:51,0
+be
+
+152
+03:30:51,0 --> 03:30:29,
+saved. Even so. Amen. 
 

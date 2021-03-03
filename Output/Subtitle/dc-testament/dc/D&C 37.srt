@@ -1,80 +1,92 @@
 1
-00:00:11,278 --> 00:00:18,678
+00:00:00,0 --> 00:00:00,0
 Section 37 Revelation given to Joseph Smith the
 
 2
-00:00:18,678 --> 00:00:26,078
- Prophet and Sidney Rigdon, near Fayette, New York,
+00:00:00,0 --> 00:00:00,0
+Prophet and Sidney Rigdon, near Fayette, New York,
 
 3
-00:00:26,078 --> 00:00:33,478
- December 1830. Herein is given the first
+00:00:00,0 --> 00:00:00,0
+December 1830. Herein is given the first
 
 4
-00:00:33,478 --> 00:00:40,878
- commandment concerning a gathering in this dispensation.
+00:00:00,0 --> 00:00:00,0
+commandment concerning a gathering in this dispensation.
 
 5
-00:00:40,878 --> 00:00:48,278
-1–4, The Saints are called to gather at the Ohio.
+00:00:00,0 --> 00:23:40,
+1–4, The Saints are called to gather at the Ohio. 
 
 6
-00:00:48,215 --> 00:00:52,465
-1 Behold, I say unto you that it is not expedient
+00:23:40,0 --> 00:23:40,0
+1 Behold, I say unto you that it is not
 
 7
-00:00:52,465 --> 00:00:56,715
- in me that ye should translate any more until ye
+00:23:40,0 --> 00:23:40,0
+expedient in me that ye should translate any
 
 8
-00:00:56,715 --> 00:01:00,965
- shall go to the Ohio, and this because of the enemy
+00:23:40,0 --> 00:23:40,0
+more until ye shall go to the Ohio, and
 
 9
-00:01:00,965 --> 00:01:05,215
- and for your sakes
+00:23:40,0 --> 00:31:52,
+this because of the enemy and for your sakes.
 
 10
-00:01:05,732 --> 00:01:10,532
-2 And again, I say unto you that ye shall not go
+00:31:52,0 --> 00:31:52,0
+2 And again, I say unto you that ye
 
 11
-00:01:10,532 --> 00:01:15,332
- until ye have preached my gospel in those parts,
+00:31:52,0 --> 00:31:52,0
+shall not go until ye have preached my
 
 12
-00:01:15,332 --> 00:01:20,132
- and have strengthened up the church whithersoever it
+00:31:52,0 --> 00:31:52,0
+gospel in those parts, and have strengthened
 
 13
-00:01:20,132 --> 00:01:24,932
- is found, and more especially in Colesville; for,
+00:31:52,0 --> 00:31:52,0
+up the church whithersoever it is found,
 
 14
-00:01:24,932 --> 00:01:29,732
- behold, they pray unto me in much faith
+00:31:52,0 --> 00:31:52,0
+and more especially in Colesville; for,
 
 15
-00:01:29,423 --> 00:01:33,423
-3 And again, a commandment I give unto the church,
+00:31:52,0 --> 00:44:03,
+behold, they pray unto me in much faith.
 
 16
-00:01:33,423 --> 00:01:37,423
- that it is expedient in me that they should
+00:44:03,0 --> 00:44:03,0
+3 And again, a commandment I give unto
 
 17
-00:01:37,423 --> 00:01:41,423
- assemble together at the Ohio, against the time that my
+00:44:03,0 --> 00:44:03,0
+the church, that it is expedient in me
 
 18
-00:01:41,423 --> 00:01:45,423
- servant Oliver Cowdery shall return unto them
+00:44:03,0 --> 00:44:03,0
+that they should assemble together at
 
 19
-00:01:45,973 --> 00:01:49,973
-4 Behold, here is wisdom, and let every man choose
+00:44:03,0 --> 00:44:03,0
+the Ohio, against the time that my
 
 20
-00:01:49,973 --> 00:01:53,973
- for himself until I come. Even so. Amen.
+00:44:03,0 --> 00:52:15,
+servant Oliver Cowdery shall return unto them.
+
+21
+00:52:15,0 --> 00:52:15,0
+4 Behold, here is wisdom, and
+
+22
+00:52:15,0 --> 00:52:15,0
+let every man choose for
+
+23
+00:52:15,0 --> 01:01:11,
+himself until I come. Even so. Amen. 
 

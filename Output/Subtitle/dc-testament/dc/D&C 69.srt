@@ -1,195 +1,307 @@
 1
-00:00:11,278 --> 00:00:18,067
+00:00:00,0 --> 00:00:00,0
 Section 69 Revelation given through Joseph Smith
 
 2
-00:00:18,067 --> 00:00:24,856
- the Prophet, at Hiram, Ohio, November 11, 1831. The
+00:00:00,0 --> 00:00:00,0
+the Prophet, at Hiram, Ohio, November 11, 1831.
 
 3
-00:00:24,856 --> 00:00:31,645
- compilation of revelations intended for early
+00:00:00,0 --> 00:00:00,0
+The compilation of revelations intended for
 
 4
-00:00:31,645 --> 00:00:38,434
- publication had been passed upon at the special
+00:00:00,0 --> 00:00:00,0
+early publication had been passed upon at the
 
 5
-00:00:38,434 --> 00:00:45,223
- conference of November 1–2. On November 3, the
+00:00:00,0 --> 00:00:00,0
+special conference of November 1–2. On November 3,
 
 6
-00:00:45,223 --> 00:00:52,012
- revelation herein appearing as 
-section 133, later called
+00:00:00,0 --> 00:00:00,0
+the revelation herein appearing as 
+section 133,
 
 7
-00:00:52,012 --> 00:00:58,801
- the Appendix, was added. Oliver Cowdery had
+00:00:00,0 --> 00:00:00,0
+later called the Appendix, was added. Oliver
 
 8
-00:00:58,801 --> 00:01:05,59
- previously been appointed to carry the manuscript of the
+00:00:00,0 --> 00:00:00,0
+Cowdery had previously been appointed to carry the
 
 9
-00:01:05,59 --> 00:01:12,379
- compiled revelations and commandments to
+00:00:00,0 --> 00:00:00,0
+manuscript of the compiled revelations and
 
 10
-00:01:12,379 --> 00:01:19,168
- Independence, Missouri, for printing. He was also to take
+00:00:00,0 --> 00:00:00,0
+commandments to Independence, Missouri, for printing.
 
 11
-00:01:19,168 --> 00:01:25,957
- with him money that had been contributed for the
+00:00:00,0 --> 00:00:00,0
+He was also to take with him money that had been
 
 12
-00:01:25,957 --> 00:01:32,746
- building up of the Church in Missouri. This
+00:00:00,0 --> 00:00:00,0
+contributed for the building up of the Church
 
 13
-00:01:32,746 --> 00:01:39,535
- revelation instructs John Whitmer to accompany Oliver
+00:00:00,0 --> 00:00:00,0
+in Missouri. This revelation instructs John
 
 14
-00:01:39,535 --> 00:01:46,324
- Cowdery and also directs Whitmer to travel and
+00:00:00,0 --> 00:00:00,0
+Whitmer to accompany Oliver Cowdery and also directs
 
 15
-00:01:46,324 --> 00:01:53,113
- collect historical material in his calling as Church
+00:00:00,0 --> 00:00:00,0
+Whitmer to travel and collect historical
 
 16
-00:01:53,113 --> 00:01:59,902
- historian and recorder. 
-1–2, John Whitmer is to
+00:00:00,0 --> 00:00:00,0
+material in his calling as Church historian and
 
 17
-00:01:59,902 --> 00:02:06,691
- accompany Oliver Cowdery to Missouri; 
-3–8, He is also
+00:00:00,0 --> 00:00:00,0
+recorder. 
+1–2, John Whitmer is to accompany Oliver
 
 18
-00:02:06,691 --> 00:02:13,48
- to preach and to collect, record, and write
+00:00:00,0 --> 00:00:00,0
+Cowdery to Missouri; 
+3–8, He is also to preach and
 
 19
-00:02:13,48 --> 00:02:20,269
- historical data.
+00:00:00,0 --> 02:19:22,
+to collect, record, and write historical data. 
 
 20
-00:02:20,157 --> 00:02:26,657
-1 Hearken unto me, saith the Lord your God, for my
+02:19:22,0 --> 02:19:22,0
+1 Hearken unto me, saith the Lord your God,
 
 21
-00:02:26,657 --> 00:02:33,157
- servant Oliver Cowdery’s sake. It is not wisdom
+02:19:22,0 --> 02:19:22,0
+for my servant Oliver Cowdery’s sake. It is
 
 22
-00:02:33,157 --> 00:02:39,657
- in me that he should be entrusted with the
+02:19:22,0 --> 02:19:22,0
+not wisdom in me that he should be entrusted
 
 23
-00:02:39,657 --> 00:02:46,157
- commandments and the moneys which he shall carry unto the
+02:19:22,0 --> 02:19:22,0
+with the commandments and the moneys which
 
 24
-00:02:46,157 --> 00:02:52,657
- land of Zion, except one go with him who will be
+02:19:22,0 --> 02:19:22,0
+he shall carry unto the land of Zion, except
 
 25
-00:02:52,657 --> 00:02:59,157
- true and faithful
+02:19:22,0 --> 02:54:19,
+one go with him who will be true and faithful.
 
 26
-00:02:59,88 --> 00:03:05,547
-2 Wherefore, I, the Lord, will that my servant,
+02:54:19,0 --> 02:54:19,0
+2 Wherefore, I, the Lord, will
 
 27
-00:03:05,547 --> 00:03:11,214
- John Whitmer, should go with my servant Oliver
+02:54:19,0 --> 02:54:19,0
+that my servant, John Whitmer, should
 
 28
-00:03:11,214 --> 00:03:16,881
- Cowdery
+02:54:19,0 --> 02:59:24,
+go with my servant Oliver Cowdery;
 
 29
-00:03:16,913 --> 00:03:23,246
-3 And also that he shall continue in writing and
+02:59:24,0 --> 02:59:24,0
+3 And also that he shall
 
 30
-00:03:23,246 --> 00:03:29,579
- making a history of all the important things which
+02:59:24,0 --> 02:59:24,0
+continue in writing and making a
 
 31
-00:03:29,579 --> 00:03:35,912
- he shall observe and know concerning my church
+02:59:24,0 --> 02:59:24,0
+history of all the important
 
 32
-00:03:35,465 --> 00:03:41,465
-4 And also that he receive counsel and assistance
+02:59:24,0 --> 02:59:24,0
+things which he shall observe
 
 33
-00:03:41,465 --> 00:03:47,465
- from my servant Oliver Cowdery and others
+02:59:24,0 --> 03:14:26,
+and know concerning my church;
 
 34
-00:03:47,477 --> 00:03:53,477
-5 And also, my servants who are abroad in the
+03:14:26,0 --> 03:14:26,0
+4 And also that he
 
 35
-00:03:53,477 --> 00:03:59,477
- earth should send forth the accounts of their
+03:14:26,0 --> 03:14:26,0
+receive counsel and
 
 36
-00:03:59,477 --> 00:04:05,477
- stewardships to the land of Zion
+03:14:26,0 --> 03:14:26,0
+assistance from my servant
 
 37
-00:04:05,245 --> 00:04:11,745
-6 For the land of Zion shall be a seat and a place
+03:14:26,0 --> 03:15:30,
+Oliver Cowdery and others.
 
 38
-00:04:11,745 --> 00:04:18,245
- to receive and do all these things
+03:15:30,0 --> 03:15:30,0
+5 And also, my
 
 39
-00:04:18,759 --> 00:04:24,009
-7 Nevertheless, let my servant John Whitmer travel
+03:15:30,0 --> 03:15:30,0
+servants who are abroad
 
 40
-00:04:24,009 --> 00:04:29,259
- many times from place to place, and from church
+03:15:30,0 --> 03:15:30,0
+in the earth should
 
 41
-00:04:29,259 --> 00:04:34,509
- to church, that he may the more easily obtain
+03:15:30,0 --> 03:15:30,0
+send forth the
 
 42
-00:04:34,509 --> 00:04:39,759
- knowledge
+03:15:30,0 --> 03:15:30,0
+accounts of their
 
 43
-00:04:39,312 --> 00:04:43,312
-8 Preaching and expounding, writing, copying,
+03:15:30,0 --> 03:35:07,
+stewardships to the land of Zion;
 
 44
-00:04:43,312 --> 00:04:47,312
- selecting, and obtaining all things which shall be for
+03:35:07,0 --> 03:35:07,0
+6 For the land of
 
 45
-00:04:47,312 --> 00:04:51,312
- the good of the church, and for the rising
+03:35:07,0 --> 03:35:07,0
+Zion shall be a
 
 46
-00:04:51,312 --> 00:04:55,312
- generations that shall grow up on the land of Zion, to
+03:35:07,0 --> 03:35:07,0
+seat and a place
 
 47
-00:04:55,312 --> 00:04:59,312
- possess it from generation to generation, forever
+03:35:07,0 --> 03:35:07,0
+to receive and do
 
 48
-00:04:59,312 --> 00:05:03,312
- and ever. Amen.
+03:35:07,0 --> 03:46:45,
+all these things.
+
+49
+03:46:45,0 --> 03:46:45,0
+7 Nevertheless,
+
+50
+03:46:45,0 --> 03:46:45,0
+let my servant
+
+51
+03:46:45,0 --> 03:46:45,0
+John Whitmer
+
+52
+03:46:45,0 --> 03:46:45,0
+travel many
+
+53
+03:46:45,0 --> 03:46:45,0
+times from place to
+
+54
+03:46:45,0 --> 03:46:45,0
+place, and
+
+55
+03:46:45,0 --> 03:46:45,0
+from church to
+
+56
+03:46:45,0 --> 03:46:45,0
+church, that he
+
+57
+03:46:45,0 --> 03:46:45,0
+may the more
+
+58
+03:46:45,0 --> 04:03:47,
+easily obtain knowledge—
+
+59
+04:03:47,0 --> 04:03:47,0
+8 Preaching
+
+60
+04:03:47,0 --> 04:03:47,0
+and expounding,
+
+61
+04:03:47,0 --> 04:03:47,0
+writing,
+
+62
+04:03:47,0 --> 04:03:47,0
+copying, selecting,
+
+63
+04:03:47,0 --> 04:03:47,0
+and obtaining
+
+64
+04:03:47,0 --> 04:03:47,0
+all things
+
+65
+04:03:47,0 --> 04:03:47,0
+which shall be
+
+66
+04:03:47,0 --> 04:03:47,0
+for the good of
+
+67
+04:03:47,0 --> 04:03:47,0
+the church,
+
+68
+04:03:47,0 --> 04:03:47,0
+and for the
+
+69
+04:03:47,0 --> 04:03:47,0
+rising
+
+70
+04:03:47,0 --> 04:03:47,0
+generations that shall
+
+71
+04:03:47,0 --> 04:03:47,0
+grow up on the
+
+72
+04:03:47,0 --> 04:03:47,0
+land of Zion,
+
+73
+04:03:47,0 --> 04:03:47,0
+to possess it
+
+74
+04:03:47,0 --> 04:03:47,0
+from
+
+75
+04:03:47,0 --> 04:03:47,0
+generation to
+
+76
+04:03:47,0 --> 04:17:51,
+generation, forever and ever. Amen. 
 

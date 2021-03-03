@@ -1,362 +1,558 @@
 1
-00:00:11,278 --> 00:00:17,421
-Section 127 An epistle from Joseph Smith the
+00:00:00,0 --> 00:00:00,0
+Section 127 An epistle from Joseph Smith
 
 2
-00:00:17,421 --> 00:00:23,564
- Prophet to the Latter-day Saints at Nauvoo, Illinois,
+00:00:00,0 --> 00:00:00,0
+the Prophet to the Latter-day Saints at
 
 3
-00:00:23,564 --> 00:00:29,707
- containing directions on baptism for the dead,
+00:00:00,0 --> 00:00:00,0
+Nauvoo, Illinois, containing directions on
 
 4
-00:00:29,707 --> 00:00:35,85
- dated at Nauvoo, September 1, 1842. 
-1–4, Joseph Smith
+00:00:00,0 --> 00:00:00,0
+baptism for the dead, dated at Nauvoo, September
 
 5
-00:00:35,85 --> 00:00:41,993
- glories in persecution and tribulation; 
-5–12,
+00:00:00,0 --> 00:00:00,0
+1, 1842. 
+1–4, Joseph Smith glories in
 
 6
-00:00:41,993 --> 00:00:48,136
- Records must be kept relative to baptisms for the
+00:00:00,0 --> 00:00:00,0
+persecution and tribulation; 
+5–12, Records
 
 7
-00:00:48,136 --> 00:00:54,279
- dead.
+00:00:00,0 --> 00:52:59,
+must be kept relative to baptisms for the dead. 
 
 8
-00:00:54,521 --> 00:01:00,363
-1 Forasmuch as the Lord has revealed unto me that
+00:52:59,0 --> 00:52:59,0
+1 Forasmuch as the Lord has revealed unto
 
 9
-00:01:00,363 --> 00:01:06,205
- my enemies, both in Missouri and this State, were
+00:52:59,0 --> 00:52:59,0
+me that my enemies, both in Missouri and
 
 10
-00:01:06,205 --> 00:01:12,047
- again in the pursuit of me; and inasmuch as they
+00:52:59,0 --> 00:52:59,0
+this State, were again in the pursuit of
 
 11
-00:01:12,047 --> 00:01:17,889
- pursue me without a cause, and have not the least
+00:52:59,0 --> 00:52:59,0
+me; and inasmuch as they pursue me without a
 
 12
-00:01:17,889 --> 00:01:23,731
- shadow or coloring of justice or right on their
+00:52:59,0 --> 00:52:59,0
+cause, and have not the least shadow or
 
 13
-00:01:23,731 --> 00:01:29,573
- side in the getting up of their prosecutions against
+00:52:59,0 --> 00:52:59,0
+coloring of justice or right on their side
 
 14
-00:01:29,573 --> 00:01:35,415
- me; and inasmuch as their pretensions are all
+00:52:59,0 --> 00:52:59,0
+in the getting up of their prosecutions
 
 15
-00:01:35,415 --> 00:01:41,257
- founded in falsehood of the blackest dye, I have
+00:52:59,0 --> 00:52:59,0
+against me; and inasmuch as their
 
 16
-00:01:41,257 --> 00:01:47,099
- thought it expedient and wisdom in me to leave the
+00:52:59,0 --> 00:52:59,0
+pretensions are all founded in falsehood of the
 
 17
-00:01:47,099 --> 00:01:52,941
- place for a short season, for my own safety and the
+00:52:59,0 --> 00:52:59,0
+blackest dye, I have thought it expedient and
 
 18
-00:01:52,941 --> 00:01:58,783
- safety of this people. I would say to all those with
+00:52:59,0 --> 00:52:59,0
+wisdom in me to leave the place for a
 
 19
-00:01:58,783 --> 00:02:04,625
- whom I have business, that I have left my affairs
+00:52:59,0 --> 00:52:59,0
+short season, for my own safety and the safety
 
 20
-00:02:04,625 --> 00:02:10,467
- with agents and clerks who will transact all
+00:52:59,0 --> 00:52:59,0
+of this people. I would say to all those
 
 21
-00:02:10,467 --> 00:02:16,309
- business in a prompt and proper manner, and will see
+00:52:59,0 --> 00:52:59,0
+with whom I have business, that I have
 
 22
-00:02:16,309 --> 00:02:22,151
- that all my debts are canceled in due time, by
+00:52:59,0 --> 00:52:59,0
+left my affairs with agents and clerks who
 
 23
-00:02:22,151 --> 00:02:27,993
- turning out property, or otherwise, as the case may
+00:52:59,0 --> 00:52:59,0
+will transact all business in a prompt and
 
 24
-00:02:27,993 --> 00:02:33,835
- require, or as the circumstances may admit of. When
+00:52:59,0 --> 00:52:59,0
+proper manner, and will see that all my
 
 25
-00:02:33,835 --> 00:02:39,677
- I learn that the storm is fully blown over, then I
+00:52:59,0 --> 00:52:59,0
+debts are canceled in due time, by turning
 
 26
-00:02:39,677 --> 00:02:45,519
- will return to you again
+00:52:59,0 --> 00:52:59,0
+out property, or otherwise, as the case may
 
 27
-00:02:45,682 --> 00:02:51,744
-2 And as for the perils which I am called to pass
+00:52:59,0 --> 00:52:59,0
+require, or as the circumstances may admit
 
 28
-00:02:51,744 --> 00:02:57,806
- through, they seem but a small thing to me, as the
+00:52:59,0 --> 00:52:59,0
+of. When I learn that the storm is fully
 
 29
-00:02:57,806 --> 00:03:03,868
- envy and wrath of man have been my common lot all
+00:52:59,0 --> 00:48:39,
+blown over, then I will return to you again.
 
 30
-00:03:03,868 --> 00:03:09,93
- the days of my life; and for what cause it seems
+00:48:39,0 --> 00:48:39,0
+2 And as for the perils which I am
 
 31
-00:03:09,93 --> 00:03:15,992
- mysterious, unless I was ordained from before the
+00:48:39,0 --> 00:48:39,0
+called to pass through, they seem but a
 
 32
-00:03:15,992 --> 00:03:22,054
- foundation of the world for some good end, or bad,
+00:48:39,0 --> 00:48:39,0
+small thing to me, as the envy and wrath
 
 33
-00:03:22,054 --> 00:03:28,116
- as you may choose to call it. Judge ye for
+00:48:39,0 --> 00:48:39,0
+of man have been my common lot all the
 
 34
-00:03:28,116 --> 00:03:34,178
- yourselves. God knoweth all these things, whether it be
+00:48:39,0 --> 00:48:39,0
+days of my life; and for what cause it
 
 35
-00:03:34,178 --> 00:03:40,24
- good or bad. But nevertheless, deep water is what
+00:48:39,0 --> 00:48:39,0
+seems mysterious, unless I was ordained
 
 36
-00:03:40,24 --> 00:03:46,302
- I am wont to swim in. It all has become a second
+00:48:39,0 --> 00:48:39,0
+from before the foundation of the world
 
 37
-00:03:46,302 --> 00:03:52,364
- nature to me; and I feel, like Paul, to glory in
+00:48:39,0 --> 00:48:39,0
+for some good end, or bad, as you may
 
 38
-00:03:52,364 --> 00:03:58,426
- tribulation; for to this day has the God of my
+00:48:39,0 --> 00:48:39,0
+choose to call it. Judge ye for
 
 39
-00:03:58,426 --> 00:04:04,488
- fathers delivered me out of them all, and will deliver
+00:48:39,0 --> 00:48:39,0
+yourselves. God knoweth all these things,
 
 40
-00:04:04,488 --> 00:04:10,55
- me from henceforth; for behold, and lo, I shall
+00:48:39,0 --> 00:48:39,0
+whether it be good or bad. But
 
 41
-00:04:10,55 --> 00:04:16,612
- triumph over all my enemies, for the Lord God hath
+00:48:39,0 --> 00:48:39,0
+nevertheless, deep water is what I am wont to swim
 
 42
-00:04:16,612 --> 00:04:22,674
- spoken it
+00:48:39,0 --> 00:48:39,0
+in. It all has become a second nature
 
 43
-00:04:22,629 --> 00:04:29,629
-3 Let all the saints rejoice, therefore, and be
+00:48:39,0 --> 00:48:39,0
+to me; and I feel, like Paul, to glory
 
 44
-00:04:29,629 --> 00:04:36,629
- exceedingly glad; for Israel’s God is their God, and
+00:48:39,0 --> 00:48:39,0
+in tribulation; for to this day has the
 
 45
-00:04:36,629 --> 00:04:43,629
- he will mete out a just recompense of reward upon
+00:48:39,0 --> 00:48:39,0
+God of my fathers delivered me out of
 
 46
-00:04:43,629 --> 00:04:50,629
- the heads of all their oppressors
+00:48:39,0 --> 00:48:39,0
+them all, and will deliver me from
 
 47
-00:04:50,607 --> 00:04:55,051
-4 And again, verily thus saith the Lord: Let the
+00:48:39,0 --> 00:48:39,0
+henceforth; for behold, and lo, I shall
 
 48
-00:04:55,051 --> 00:04:59,495
- work of my temple, and all the works which I have
+00:48:39,0 --> 00:53:44,
+triumph over all my enemies, for the Lord God hath spoken it.
 
 49
-00:04:59,495 --> 00:05:03,939
- appointed unto you, be continued on and not cease;
+00:53:44,0 --> 00:53:44,0
+3 Let all the saints rejoice,
 
 50
-00:05:03,939 --> 00:05:08,383
- and let your diligence, and your perseverance, and
+00:53:44,0 --> 00:53:44,0
+therefore, and be exceedingly glad; for
 
 51
-00:05:08,383 --> 00:05:12,827
- patience, and your works be redoubled, and you
+00:53:44,0 --> 00:53:44,0
+Israel’s God is their God, and he will
 
 52
-00:05:12,827 --> 00:05:17,271
- shall in nowise lose your reward, saith the Lord of
+00:53:44,0 --> 00:53:44,0
+mete out a just recompense of reward
 
 53
-00:05:17,271 --> 00:05:21,715
- Hosts. And if they persecute you, so persecuted
+00:53:44,0 --> 02:44:34,
+upon the heads of all their oppressors.
 
 54
-00:05:21,715 --> 00:05:26,159
- they the prophets and righteous men that were before
+02:44:34,0 --> 02:44:34,0
+4 And again, verily thus saith the
 
 55
-00:05:26,159 --> 00:05:30,603
- you. For all this there is a reward in heaven
+02:44:34,0 --> 02:44:34,0
+Lord: Let the work of my temple,
 
 56
-00:05:30,564 --> 00:05:34,064
-5 And again, I give unto you a word in relation to
+02:44:34,0 --> 02:44:34,0
+and all the works which I have
 
 57
-00:05:34,064 --> 00:05:37,564
- the baptism for your dead
+02:44:34,0 --> 02:44:34,0
+appointed unto you, be continued on
 
 58
-00:05:37,571 --> 00:05:41,238
-6 Verily, thus saith the Lord unto you concerning
+02:44:34,0 --> 02:44:34,0
+and not cease; and let your
 
 59
-00:05:41,238 --> 00:05:44,905
- your dead: When any of you are baptized for your
+02:44:34,0 --> 02:44:34,0
+diligence, and your perseverance, and
 
 60
-00:05:44,905 --> 00:05:48,572
- dead, let there be a recorder, and let him be
+02:44:34,0 --> 02:44:34,0
+patience, and your works be
 
 61
-00:05:48,572 --> 00:05:52,239
- eye-witness of your baptisms; let him hear with his
+02:44:34,0 --> 02:44:34,0
+redoubled, and you shall in nowise lose
 
 62
-00:05:52,239 --> 00:05:55,906
- ears, that he may testify of a truth, saith the Lord
+02:44:34,0 --> 02:44:34,0
+your reward, saith the Lord of Hosts.
 
 63
-00:05:55,906 --> 00:05:59,573
-
+02:44:34,0 --> 02:44:34,0
+And if they persecute you, so
 
 64
-00:05:59,075 --> 00:06:04,075
-7 That in all your recordings it may be recorded
+02:44:34,0 --> 02:44:34,0
+persecuted they the prophets and
 
 65
-00:06:04,075 --> 00:06:09,075
- in heaven; whatsoever you bind on earth, may be
+02:44:34,0 --> 02:44:34,0
+righteous men that were before you.
 
 66
-00:06:09,075 --> 00:06:14,075
- bound in heaven; whatsoever you loose on earth, may
+02:44:34,0 --> 02:55:34,
+For all this there is a reward in heaven.
 
 67
-00:06:14,075 --> 00:06:19,075
- be loosed in heaven
+02:55:34,0 --> 02:55:34,0
+5 And again, I give unto
 
 68
-00:06:19,362 --> 00:06:22,695
-8 For I am about to restore many things to the
+02:55:34,0 --> 02:55:34,0
+you a word in relation to
 
 69
-00:06:22,695 --> 00:06:26,028
- earth, pertaining to the priesthood, saith the Lord
+02:55:34,0 --> 04:21:29,
+the baptism for your dead.
 
 70
-00:06:26,028 --> 00:06:29,361
- of Hosts
+04:21:29,0 --> 04:21:29,0
+6 Verily, thus saith the
 
 71
-00:06:29,439 --> 00:06:34,689
-9 And again, let all the records be had in order,
+04:21:29,0 --> 04:21:29,0
+Lord unto you concerning
 
 72
-00:06:34,689 --> 00:06:39,939
- that they may be put in the archives of my holy
+04:21:29,0 --> 04:21:29,0
+your dead: When any of
 
 73
-00:06:39,939 --> 00:06:45,189
- temple, to be held in remembrance from generation to
+04:21:29,0 --> 04:21:29,0
+you are baptized for your
 
 74
-00:06:45,189 --> 00:06:50,439
- generation, saith the Lord of Hosts
+04:21:29,0 --> 04:21:29,0
+dead, let there be a
 
 75
-00:06:50,944 --> 00:06:54,694
-10 I will say to all the saints, that I desired,
+04:21:29,0 --> 04:21:29,0
+recorder, and let him be
 
 76
-00:06:54,694 --> 00:06:58,444
- with exceedingly great desire, to have addressed
+04:21:29,0 --> 04:21:29,0
+eye-witness of your baptisms;
 
 77
-00:06:58,444 --> 00:07:02,194
- them from the stand on the subject of baptism for
+04:21:29,0 --> 04:21:29,0
+let him hear with his
 
 78
-00:07:02,194 --> 00:07:05,944
- the dead, on the following Sabbath. But inasmuch as
+04:21:29,0 --> 04:21:29,0
+ears, that he may testify of
 
 79
-00:07:05,944 --> 00:07:09,694
- it is out of my power to do so, I will write the
+04:21:29,0 --> 04:49:33,
+a truth, saith the Lord;
 
 80
-00:07:09,694 --> 00:07:13,444
- word of the Lord from time to time, on that
+04:49:33,0 --> 04:49:33,0
+7 That in all your
 
 81
-00:07:13,444 --> 00:07:17,194
- subject, and send it to you by mail, as well as many
+04:49:33,0 --> 04:49:33,0
+recordings it may be recorded
 
 82
-00:07:17,194 --> 00:07:20,944
- other things
+04:49:33,0 --> 04:49:33,0
+in heaven; whatsoever
 
 83
-00:07:20,957 --> 00:07:27,707
-11 I now close my letter for the present, for the
+04:49:33,0 --> 04:49:33,0
+you bind on earth, may be
 
 84
-00:07:27,707 --> 00:07:34,457
- want of more time; for the enemy is on the alert,
+04:49:33,0 --> 04:49:33,0
+bound in heaven;
 
 85
-00:07:34,457 --> 00:07:41,207
- and as the Savior said, the prince of this world
+04:49:33,0 --> 04:49:33,0
+whatsoever you loose on earth,
 
 86
-00:07:41,207 --> 00:07:47,957
- cometh, but he hath nothing in me
+04:49:33,0 --> 04:45:13,
+may be loosed in heaven;
 
 87
-00:07:47,25 --> 00:07:53,75
-12 Behold, my prayer to God is that you all may be
+04:45:13,0 --> 04:45:13,0
+8 For I am about to
 
 88
-00:07:53,75 --> 00:08:00,25
- saved. And I subscribe myself your servant in the
+04:45:13,0 --> 04:45:13,0
+restore many things to
 
 89
-00:08:00,25 --> 00:08:06,75
- Lord, prophet and seer of The Church of Jesus
+04:45:13,0 --> 04:45:13,0
+the earth,
 
 90
-00:08:06,75 --> 00:08:13,25
- Christ of Latter-day Saints.Joseph Smith.
+04:45:13,0 --> 04:45:13,0
+pertaining to the priesthood,
+
+91
+04:45:13,0 --> 04:49:50,
+saith the Lord of Hosts.
+
+92
+04:49:50,0 --> 04:49:50,0
+9 And again, let all
+
+93
+04:49:50,0 --> 04:49:50,0
+the records be had
+
+94
+04:49:50,0 --> 04:49:50,0
+in order, that they
+
+95
+04:49:50,0 --> 04:49:50,0
+may be put in the
+
+96
+04:49:50,0 --> 04:49:50,0
+archives of my holy
+
+97
+04:49:50,0 --> 04:49:50,0
+temple, to be held in
+
+98
+04:49:50,0 --> 04:49:50,0
+remembrance from
+
+99
+04:49:50,0 --> 04:49:50,0
+generation to
+
+100
+04:49:50,0 --> 05:08:49,
+generation, saith the Lord of Hosts.
+
+101
+05:08:49,0 --> 05:08:49,0
+10 I will say to
+
+102
+05:08:49,0 --> 05:08:49,0
+all the saints, that
+
+103
+05:08:49,0 --> 05:08:49,0
+I desired, with
+
+104
+05:08:49,0 --> 05:08:49,0
+exceedingly great
+
+105
+05:08:49,0 --> 05:08:49,0
+desire, to have
+
+106
+05:08:49,0 --> 05:08:49,0
+addressed them from the
+
+107
+05:08:49,0 --> 05:08:49,0
+stand on the subject
+
+108
+05:08:49,0 --> 05:08:49,0
+of baptism for the
+
+109
+05:08:49,0 --> 05:08:49,0
+dead, on the
+
+110
+05:08:49,0 --> 05:08:49,0
+following Sabbath. But
+
+111
+05:08:49,0 --> 05:08:49,0
+inasmuch as it is out
+
+112
+05:08:49,0 --> 05:08:49,0
+of my power to do
+
+113
+05:08:49,0 --> 05:08:49,0
+so, I will write
+
+114
+05:08:49,0 --> 05:08:49,0
+the word of the Lord
+
+115
+05:08:49,0 --> 05:08:49,0
+from time to time,
+
+116
+05:08:49,0 --> 05:08:49,0
+on that subject,
+
+117
+05:08:49,0 --> 05:08:49,0
+and send it to you by
+
+118
+05:08:49,0 --> 05:43:46,
+mail, as well as many other things.
+
+119
+05:43:46,0 --> 05:43:46,0
+11 I now close my
+
+120
+05:43:46,0 --> 05:43:46,0
+letter for the
+
+121
+05:43:46,0 --> 05:43:46,0
+present, for the want
+
+122
+05:43:46,0 --> 05:43:46,0
+of more time; for
+
+123
+05:43:46,0 --> 05:43:46,0
+the enemy is on
+
+124
+05:43:46,0 --> 05:43:46,0
+the alert, and as
+
+125
+05:43:46,0 --> 05:43:46,0
+the Savior said,
+
+126
+05:43:46,0 --> 05:43:46,0
+the prince of this
+
+127
+05:43:46,0 --> 05:43:46,0
+world cometh, but
+
+128
+05:43:46,0 --> 05:57:50,
+he hath nothing in me.
+
+129
+05:57:50,0 --> 05:57:50,0
+12 Behold, my
+
+130
+05:57:50,0 --> 05:57:50,0
+prayer to God is
+
+131
+05:57:50,0 --> 05:57:50,0
+that you all may be
+
+132
+05:57:50,0 --> 05:57:50,0
+saved. And I
+
+133
+05:57:50,0 --> 05:57:50,0
+subscribe myself your
+
+134
+05:57:50,0 --> 05:57:50,0
+servant in the
+
+135
+05:57:50,0 --> 05:57:50,0
+Lord, prophet and
+
+136
+05:57:50,0 --> 05:57:50,0
+seer of The
+
+137
+05:57:50,0 --> 05:57:50,0
+Church of Jesus Christ
+
+138
+05:57:50,0 --> 05:57:50,0
+of Latter-day
+
+139
+05:57:50,0 --> 06:12:52,
+Saints.Joseph Smith. 
 

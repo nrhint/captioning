@@ -1,674 +1,5587 @@
 1
-00:00:11,278 --> 00:00:24,5
+00:00:00,0 --> 00:00:00,0
 Verses 30 through 32, having to do with the
 
 2
-00:00:24,5 --> 00:00:37,722
- Council of the Twelve Apostles, were added in 1835 under
+00:00:00,0 --> 00:00:00,0
+Council of the Twelve Apostles, were added in 1835
 
 3
-00:00:37,722 --> 00:00:50,944
- Joseph Smith’s direction when this section was
+00:00:00,0 --> 00:00:00,0
+under Joseph Smith’s direction when this section was
 
 4
-00:00:50,944 --> 00:01:04,166
- prepared for publication in the Doctrine and
+00:00:00,0 --> 00:00:00,0
+prepared for publication in the Doctrine and
 
 5
-00:01:04,166 --> 00:01:17,388
- Covenants. 
-1–8, A high council is appointed to settle
+00:00:00,0 --> 00:00:00,0
+Covenants. 
+1–8, A high council is appointed to
 
 6
-00:01:17,388 --> 00:01:30,61
- important difficulties that arise in the Church;
+00:00:00,0 --> 00:00:00,0
+settle important difficulties that arise in the
 
 7
-00:01:30,61 --> 00:01:43,832
+00:00:00,0 --> 00:00:00,0
+Church; 
 9–18, Procedures are given for hearing cases;
 
 8
-00:01:43,832 --> 00:01:57,054
+00:00:00,0 --> 00:00:00,0
 19–23, The president of the council renders the
 
 9
-00:01:57,054 --> 00:02:10,276
- decision; 
-24–34, Appellate procedure is set forth.
+00:00:00,0 --> 02:09:48,
+decision; 
+24–34, Appellate procedure is set forth. 
 
 10
-00:02:10,647 --> 00:02:15,647
-1 This day a general council of twenty-four high
+02:09:48,0 --> 02:09:48,0
+1 This day a general council of twenty-four
 
 11
-00:02:15,647 --> 00:02:20,647
- priests assembled at the house of Joseph Smith,
+02:09:48,0 --> 02:09:48,0
+high priests assembled at the house of Joseph
 
 12
-00:02:20,647 --> 00:02:25,647
- Jun., by revelation, and proceeded to organize the
+02:09:48,0 --> 02:09:48,0
+Smith, Jun., by revelation, and proceeded to
 
 13
-00:02:25,647 --> 00:02:30,647
- high council of the church of Christ, which was to
+02:09:48,0 --> 02:09:48,0
+organize the high council of the church of Christ,
 
 14
-00:02:30,647 --> 00:02:35,647
- consist of twelve high priests, and one or three
+02:09:48,0 --> 02:09:48,0
+which was to consist of twelve high priests, and
 
 15
-00:02:35,647 --> 00:02:40,647
- presidents as the case might require
+02:09:48,0 --> 02:38:50,
+one or three presidents as the case might require.
 
 16
-00:02:40,911 --> 00:02:46,911
-2 The high council was appointed by revelation for
+02:38:50,0 --> 02:38:50,0
+2 The high council was appointed by revelation
 
 17
-00:02:46,911 --> 00:02:52,911
- the purpose of settling important difficulties
+02:38:50,0 --> 02:38:50,0
+for the purpose of settling important
 
 18
-00:02:52,911 --> 00:02:58,911
- which might arise in the church, which could not be
+02:38:50,0 --> 02:38:50,0
+difficulties which might arise in the church, which
 
 19
-00:02:58,911 --> 00:03:04,911
- settled by the church or the bishop’s council to
+02:38:50,0 --> 02:38:50,0
+could not be settled by the church or the
 
 20
-00:03:04,911 --> 00:03:10,911
- the satisfaction of the parties
+02:38:50,0 --> 02:39:54,
+bishop’s council to the satisfaction of the parties.
 
 21
-00:03:10,657 --> 00:03:18,768
+02:39:54,0 --> 02:39:54,0
 3 Joseph Smith, Jun., Sidney Rigdon and
 
 22
-00:03:18,768 --> 00:03:26,879
- Frederick G. Williams were acknowledged presidents by the
+02:39:54,0 --> 02:39:54,0
+Frederick G. Williams were acknowledged presidents
 
 23
-00:03:26,879 --> 00:03:34,99
- voice of the council; and Joseph Smith, Sen., John
+02:39:54,0 --> 02:39:54,0
+by the voice of the council; and Joseph
 
 24
-00:03:34,99 --> 00:03:43,101
- Smith, Joseph Coe, John Johnson, Martin Harris,
+02:39:54,0 --> 02:39:54,0
+Smith, Sen., John Smith, Joseph Coe, John
 
 25
-00:03:43,101 --> 00:03:51,212
- John S. Carter, Jared Carter, Oliver Cowdery,
+02:39:54,0 --> 02:39:54,0
+Johnson, Martin Harris, John S. Carter, Jared
 
 26
-00:03:51,212 --> 00:03:59,323
- Samuel H. Smith, Orson Hyde, Sylvester Smith, and Luke
+02:39:54,0 --> 02:39:54,0
+Carter, Oliver Cowdery, Samuel H. Smith, Orson
 
 27
-00:03:59,323 --> 00:04:07,434
- Johnson, high priests, were chosen to be a standing
+02:39:54,0 --> 02:39:54,0
+Hyde, Sylvester Smith, and Luke Johnson, high
 
 28
-00:04:07,434 --> 00:04:15,545
- council for the church, by the unanimous voice of
+02:39:54,0 --> 02:39:54,0
+priests, were chosen to be a standing council
 
 29
-00:04:15,545 --> 00:04:23,656
- the council
+02:39:54,0 --> 02:47:31,
+for the church, by the unanimous voice of the council.
 
 30
-00:04:23,63 --> 00:04:27,773
-4 The above-named councilors were then asked
+02:47:31,0 --> 02:47:31,0
+4 The above-named councilors were then
 
 31
-00:04:27,773 --> 00:04:31,916
- whether they accepted their appointments, and whether
+02:47:31,0 --> 02:47:31,0
+asked whether they accepted their appointments,
 
 32
-00:04:31,916 --> 00:04:36,059
- they would act in that office according to the law
+02:47:31,0 --> 02:47:31,0
+and whether they would act in that office
 
 33
-00:04:36,059 --> 00:04:40,202
- of heaven, to which they all answered that they
+02:47:31,0 --> 02:47:31,0
+according to the law of heaven, to which
 
 34
-00:04:40,202 --> 00:04:44,345
- accepted their appointments, and would fill their
+02:47:31,0 --> 02:47:31,0
+they all answered that they accepted their
 
 35
-00:04:44,345 --> 00:04:48,488
- offices according to the grace of God bestowed upon
+02:47:31,0 --> 02:47:31,0
+appointments, and would fill their offices
 
 36
-00:04:48,488 --> 00:04:52,631
- them
+02:47:31,0 --> 03:10:04,
+according to the grace of God bestowed upon them.
 
 37
-00:04:52,893 --> 00:04:57,893
-5 The number composing the council, who voted in
+03:10:04,0 --> 03:10:04,0
+5 The number composing the council,
 
 38
-00:04:57,893 --> 00:05:02,893
- the name and for the church in appointing the
+03:10:04,0 --> 03:10:04,0
+who voted in the name and for the
 
 39
-00:05:02,893 --> 00:05:07,893
- above-named councilors were forty-three, as follows:
+03:10:04,0 --> 03:10:04,0
+church in appointing the above-named
 
 40
-00:05:07,893 --> 00:05:12,893
- nine high priests, seventeen elders, four priests,
+03:10:04,0 --> 03:10:04,0
+councilors were forty-three, as
 
 41
-00:05:12,893 --> 00:05:17,893
- and thirteen members
+03:10:04,0 --> 03:10:04,0
+follows: nine high priests, seventeen
 
 42
-00:05:17,417 --> 00:05:21,667
-6 Voted: that the high council cannot have power
+03:10:04,0 --> 03:29:03,
+elders, four priests, and thirteen members.
 
 43
-00:05:21,667 --> 00:05:25,917
- to act without seven of the above-named councilors,
+03:29:03,0 --> 03:29:03,0
+6 Voted: that the high council
 
 44
-00:05:25,917 --> 00:05:30,167
- or their regularly appointed successors are
+03:29:03,0 --> 03:29:03,0
+cannot have power to act
 
 45
-00:05:30,167 --> 00:05:34,417
- present
+03:29:03,0 --> 03:29:03,0
+without seven of the above-named
 
 46
-00:05:34,701 --> 00:05:40,034
-7 These seven shall have power to appoint other
+03:29:03,0 --> 03:29:03,0
+councilors, or their regularly
 
 47
-00:05:40,034 --> 00:05:45,367
- high priests, whom they may consider worthy and
+03:29:03,0 --> 04:22:02,
+appointed successors are present.
 
 48
-00:05:45,367 --> 00:05:50,7
- capable to act in the place of absent councilors
+04:22:02,0 --> 04:22:02,0
+7 These seven shall have
 
 49
-00:05:50,684 --> 00:05:55,684
-8 Voted: that whenever any vacancy shall occur by
+04:22:02,0 --> 04:22:02,0
+power to appoint other high
 
 50
-00:05:55,684 --> 00:06:00,684
- the death, removal from office for transgression,
+04:22:02,0 --> 04:22:02,0
+priests, whom they may consider
 
 51
-00:06:00,684 --> 00:06:05,684
- or removal from the bounds of this church
+04:22:02,0 --> 04:22:02,0
+worthy and capable to act in
 
 52
-00:06:05,684 --> 00:06:10,684
- government, of any one of the above-named councilors, it
+04:22:02,0 --> 04:25:41,
+the place of absent councilors.
 
 53
-00:06:10,684 --> 00:06:15,684
- shall be filled by the nomination of the president
+04:25:41,0 --> 04:25:41,0
+8 Voted: that whenever any
 
 54
-00:06:15,684 --> 00:06:20,684
- or presidents, and sanctioned by the voice of a
+04:25:41,0 --> 04:25:41,0
+vacancy shall occur by the
 
 55
-00:06:20,684 --> 00:06:25,684
- general council of high priests, convened for that
+04:25:41,0 --> 04:25:41,0
+death, removal from office
 
 56
-00:06:25,684 --> 00:06:30,684
- purpose, to act in the name of the church
+04:25:41,0 --> 04:25:41,0
+for transgression, or
 
 57
-00:06:30,957 --> 00:06:35,207
-9 The president of the church, who is also the
+04:25:41,0 --> 04:25:41,0
+removal from the bounds of this
 
 58
-00:06:35,207 --> 00:06:39,457
- president of the council, is appointed by revelation,
+04:25:41,0 --> 04:25:41,0
+church government, of any
 
 59
-00:06:39,457 --> 00:06:43,707
- and acknowledged in his administration by the
+04:25:41,0 --> 04:25:41,0
+one of the above-named
 
 60
-00:06:43,707 --> 00:06:47,957
- voice of the church
+04:25:41,0 --> 04:25:41,0
+councilors, it shall be filled
 
 61
-00:06:47,49 --> 00:06:52,29
-10 And it is according to the dignity of his
+04:25:41,0 --> 04:25:41,0
+by the nomination of the
 
 62
-00:06:52,29 --> 00:06:57,09
- office that he should preside over the council of the
+04:25:41,0 --> 04:25:41,0
+president or presidents, and
 
 63
-00:06:57,09 --> 00:07:01,89
- church; and it is his privilege to be assisted by
+04:25:41,0 --> 04:25:41,0
+sanctioned by the voice of a
 
 64
-00:07:01,89 --> 00:07:06,69
- two other presidents, appointed after the same
+04:25:41,0 --> 04:25:41,0
+general council of high
 
 65
-00:07:06,69 --> 00:07:11,49
- manner that he himself was appointed
+04:25:41,0 --> 04:25:41,0
+priests, convened for that
 
 66
-00:07:11,781 --> 00:07:17,114
-11 And in case of the absence of one or both of
+04:25:41,0 --> 04:28:43,
+purpose, to act in the name of the church.
 
 67
-00:07:17,114 --> 00:07:22,447
- those who are appointed to assist him, he has power
+04:28:43,0 --> 04:28:43,0
+9 The president of the
 
 68
-00:07:22,447 --> 00:07:27,78
- to preside over the council without an assistant;
+04:28:43,0 --> 04:28:43,0
+church, who is also the
 
 69
-00:07:27,78 --> 00:07:33,113
- and in case he himself is absent, the other
+04:28:43,0 --> 04:28:43,0
+president of the
 
 70
-00:07:33,113 --> 00:07:38,446
- presidents have power to preside in his stead, both or
+04:28:43,0 --> 04:28:43,0
+council, is appointed by
 
 71
-00:07:38,446 --> 00:07:43,779
- either of them
+04:28:43,0 --> 04:28:43,0
+revelation, and
 
 72
-00:07:43,747 --> 00:07:48,033
-12 Whenever a high council of the church of Christ
+04:28:43,0 --> 04:28:43,0
+acknowledged in his
 
 73
-00:07:48,033 --> 00:07:52,319
- is regularly organized, according to the
+04:28:43,0 --> 04:39:43,
+administration by the voice of the church.
 
 74
-00:07:52,319 --> 00:07:56,605
- foregoing pattern, it shall be the duty of the twelve
+04:39:43,0 --> 04:39:43,0
+10 And it is
 
 75
-00:07:56,605 --> 00:08:00,891
- councilors to cast lots by numbers, and thereby
+04:39:43,0 --> 04:39:43,0
+according to the dignity of
 
 76
-00:08:00,891 --> 00:08:05,177
- ascertain who of the twelve shall speak first,
+04:39:43,0 --> 04:39:43,0
+his office that he
 
 77
-00:08:05,177 --> 00:08:09,463
- commencing with number one and so in succession to number
+04:39:43,0 --> 04:39:43,0
+should preside over the
 
 78
-00:08:09,463 --> 00:08:13,749
- twelve
+04:39:43,0 --> 04:39:43,0
+council of the
 
 79
-00:08:13,727 --> 00:08:18,927
-13 Whenever this council convenes to act upon any
+04:39:43,0 --> 04:39:43,0
+church; and it is his
 
 80
-00:08:18,927 --> 00:08:24,127
- case, the twelve councilors shall consider whether
+04:39:43,0 --> 04:39:43,0
+privilege to be assisted
 
 81
-00:08:24,127 --> 00:08:29,327
- it is a difficult one or not; if it is not, two
+04:39:43,0 --> 04:39:43,0
+by two other
 
 82
-00:08:29,327 --> 00:08:34,527
- only of the councilors shall speak upon it,
+04:39:43,0 --> 04:39:43,0
+presidents, appointed after
 
 83
-00:08:34,527 --> 00:08:39,727
- according to the form above written
+04:39:43,0 --> 04:39:43,0
+the same manner that he
 
 84
-00:08:39,719 --> 00:08:44,469
-14 But if it is thought to be difficult, four
+04:39:43,0 --> 04:42:45,
+himself was appointed.
 
 85
-00:08:44,469 --> 00:08:49,219
- shall be appointed; and if more difficult, six; but in
+04:42:45,0 --> 04:42:45,0
+11 And in case of
 
 86
-00:08:49,219 --> 00:08:53,969
- no case shall more than six be appointed to
+04:42:45,0 --> 04:42:45,0
+the absence of one or
 
 87
-00:08:53,969 --> 00:08:58,719
- speak
+04:42:45,0 --> 04:42:45,0
+both of those who
 
 88
-00:08:58,004 --> 00:09:03,671
-15 The accused, in all cases, has a right to
+04:42:45,0 --> 04:42:45,0
+are appointed to
 
 89
-00:09:03,671 --> 00:09:09,338
- one-half of the council, to prevent insult or
+04:42:45,0 --> 04:42:45,0
+assist him, he has power
 
 90
-00:09:09,338 --> 00:09:15,005
- injustice
+04:42:45,0 --> 04:42:45,0
+to preside over the
 
 91
-00:09:15,538 --> 00:09:21,138
-16 And the councilors appointed to speak before
+04:42:45,0 --> 04:42:45,0
+council without an
 
 92
-00:09:21,138 --> 00:09:26,738
- the council are to present the case, after the
+04:42:45,0 --> 04:42:45,0
+assistant; and in
 
 93
-00:09:26,738 --> 00:09:32,338
- evidence is examined, in its true light before the
+04:42:45,0 --> 04:42:45,0
+case he himself is
 
 94
-00:09:32,338 --> 00:09:37,938
- council; and every man is to speak according to equity
+04:42:45,0 --> 04:42:45,0
+absent, the other
 
 95
-00:09:37,938 --> 00:09:43,538
- and justice
+04:42:45,0 --> 04:42:45,0
+presidents have power to
 
 96
-00:09:43,283 --> 00:09:48,033
-17 Those councilors who draw even numbers, that
+04:42:45,0 --> 04:42:45,0
+preside in his stead,
 
 97
-00:09:48,033 --> 00:09:52,783
- is, 2, 4, 6, 8, 10, and 12, are the individuals who
+04:42:45,0 --> 04:51:47,
+both or either of them.
 
 98
-00:09:52,783 --> 00:09:57,533
- are to stand up in behalf of the accused, and
+04:51:47,0 --> 04:51:47,0
+12 Whenever a high
 
 99
-00:09:57,533 --> 00:10:02,283
- prevent insult and injustice
+04:51:47,0 --> 04:51:47,0
+council of the
 
 100
-00:10:02,786 --> 00:10:08,786
-18 In all cases the accuser and the accused shall
+04:51:47,0 --> 04:51:47,0
+church of Christ is
 
 101
-00:10:08,786 --> 00:10:14,786
- have a privilege of speaking for themselves before
+04:51:47,0 --> 04:51:47,0
+regularly organized,
 
 102
-00:10:14,786 --> 00:10:20,786
- the council, after the evidences are heard and
+04:51:47,0 --> 04:51:47,0
+according to the
 
 103
-00:10:20,786 --> 00:10:26,786
- the councilors who are appointed to speak on the
+04:51:47,0 --> 04:51:47,0
+foregoing pattern, it
 
 104
-00:10:26,786 --> 00:10:32,786
- case have finished their remarks
+04:51:47,0 --> 04:51:47,0
+shall be the duty
 
 105
-00:10:32,532 --> 00:10:38,865
-19 After the evidences are heard, the councilors,
+04:51:47,0 --> 04:51:47,0
+of the twelve
 
 106
-00:10:38,865 --> 00:10:45,198
- accuser and accused have spoken, the president
+04:51:47,0 --> 04:51:47,0
+councilors to cast lots
 
 107
-00:10:45,198 --> 00:10:51,531
- shall give a decision according to the understanding
+04:51:47,0 --> 04:51:47,0
+by numbers, and
 
 108
-00:10:51,531 --> 00:10:57,864
- which he shall have of the case, and call upon the
+04:51:47,0 --> 04:51:47,0
+thereby ascertain who
 
 109
-00:10:57,864 --> 00:11:04,197
- twelve councilors to sanction the same by their
+04:51:47,0 --> 04:51:47,0
+of the twelve shall
 
 110
-00:11:04,197 --> 00:11:10,53
- vote
+04:51:47,0 --> 04:51:47,0
+speak first,
 
 111
-00:11:10,603 --> 00:11:14,203
-20 But should the remaining councilors, who have
+04:51:47,0 --> 04:51:47,0
+commencing with number
 
 112
-00:11:14,203 --> 00:11:17,803
- not spoken, or any one of them, after hearing the
+04:51:47,0 --> 04:51:47,0
+one and so in
 
 113
-00:11:17,803 --> 00:11:21,403
- evidences and pleadings impartially, discover an
+04:51:47,0 --> 05:06:48,
+succession to number twelve.
 
 114
-00:11:21,403 --> 00:11:25,003
- error in the decision of the president, they can
+05:06:48,0 --> 05:06:48,0
+13 Whenever this
 
 115
-00:11:25,003 --> 00:11:28,603
- manifest it, and the case shall have a re-hearing
+05:06:48,0 --> 05:06:48,0
+council convenes
 
 116
-00:11:28,888 --> 00:11:32,888
-21 And if, after a careful re-hearing, any
+05:06:48,0 --> 05:06:48,0
+to act upon any
 
 117
-00:11:32,888 --> 00:11:36,888
- additional light is shown upon the case, the decision
+05:06:48,0 --> 05:06:48,0
+case, the twelve
 
 118
-00:11:36,888 --> 00:11:40,888
- shall be altered accordingly
+05:06:48,0 --> 05:06:48,0
+councilors shall
 
 119
-00:11:40,4 --> 00:11:44,733
-22 But in case no additional light is given, the
+05:06:48,0 --> 05:06:48,0
+consider whether
 
 120
-00:11:44,733 --> 00:11:49,066
- first decision shall stand, the majority of the
+05:06:48,0 --> 05:06:48,0
+it is a difficult
 
 121
-00:11:49,066 --> 00:11:53,399
- council having power to determine the same
+05:06:48,0 --> 05:06:48,0
+one or not; if it
 
 122
-00:11:53,413 --> 00:11:58,613
-23 In case of difficulty respecting doctrine or
+05:06:48,0 --> 05:06:48,0
+is not, two only
 
 123
-00:11:58,613 --> 00:12:03,813
- principle, if there is not a sufficiency written to
+05:06:48,0 --> 05:06:48,0
+of the
 
 124
-00:12:03,813 --> 00:12:09,013
- make the case clear to the minds of the council,
+05:06:48,0 --> 05:06:48,0
+councilors shall speak
 
 125
-00:12:09,013 --> 00:12:14,213
- the president may inquire and obtain the mind of
+05:06:48,0 --> 05:06:48,0
+upon it, according
 
 126
-00:12:14,213 --> 00:12:19,413
- the Lord by revelation
+05:06:48,0 --> 05:15:50,
+to the form above written.
 
 127
-00:12:19,923 --> 00:12:25,923
-24 The high priests, when abroad, have power to
+05:15:50,0 --> 05:15:50,0
+14 But if it is
 
 128
-00:12:25,923 --> 00:12:31,923
- call and organize a council after the manner of the
+05:15:50,0 --> 05:15:50,0
+thought to be
 
 129
-00:12:31,923 --> 00:12:37,923
- foregoing, to settle difficulties, when the
+05:15:50,0 --> 05:15:50,0
+difficult, four
 
 130
-00:12:37,923 --> 00:12:43,923
- parties or either of them shall request it
+05:15:50,0 --> 05:15:50,0
+shall be
 
 131
-00:12:43,413 --> 00:12:47,08
-25 And the said council of high priests shall have
+05:15:50,0 --> 05:15:50,0
+appointed; and if more
 
 132
-00:12:47,08 --> 00:12:50,747
- power to appoint one of their own number to
+05:15:50,0 --> 05:15:50,0
+difficult, six;
 
 133
-00:12:50,747 --> 00:12:54,414
- preside over such council for the time being
+05:15:50,0 --> 05:15:50,0
+but in no case
 
 134
-00:12:54,691 --> 00:12:59,491
-26 It shall be the duty of said council to
+05:15:50,0 --> 05:15:50,0
+shall more than six
 
 135
-00:12:59,491 --> 00:13:04,291
- transmit, immediately, a copy of their proceedings, with
+05:15:50,0 --> 05:33:52,
+be appointed to speak.
 
 136
-00:13:04,291 --> 00:13:09,091
- a full statement of the testimony accompanying
+05:33:52,0 --> 05:33:52,0
+15 The
 
 137
-00:13:09,091 --> 00:13:13,891
- their decision, to the high council of the seat of
+05:33:52,0 --> 05:33:52,0
+accused, in all
 
 138
-00:13:13,891 --> 00:13:18,691
- the First Presidency of the Church
+05:33:52,0 --> 05:33:52,0
+cases, has a right
 
 139
-00:13:18,181 --> 00:13:23,181
-27 Should the parties or either of them be
+05:33:52,0 --> 05:33:52,0
+to one-half of
 
 140
-00:13:23,181 --> 00:13:28,181
- dissatisfied with the decision of said council, they may
+05:33:52,0 --> 05:33:52,0
+the council,
 
 141
-00:13:28,181 --> 00:13:33,181
- appeal to the high council of the seat of the
+05:33:52,0 --> 05:33:52,0
+to prevent
 
 142
-00:13:33,181 --> 00:13:38,181
- First Presidency of the Church, and have a re-hearing,
+05:33:52,0 --> 05:44:53,
+insult or injustice.
 
 143
-00:13:38,181 --> 00:13:43,181
- which case shall there be conducted, according to
+05:44:53,0 --> 05:44:53,0
+16 And the
 
 144
-00:13:43,181 --> 00:13:48,181
- the former pattern written, as though no such
+05:44:53,0 --> 05:44:53,0
+councilors
 
 145
-00:13:48,181 --> 00:13:53,181
- decision had been made
+05:44:53,0 --> 05:44:53,0
+appointed to
 
 146
-00:13:53,216 --> 00:13:58,716
-28 This council of high priests abroad is only to
+05:44:53,0 --> 05:44:53,0
+speak before the
 
 147
-00:13:58,716 --> 00:14:04,216
- be called on the most difficult cases of church
+05:44:53,0 --> 05:44:53,0
+council are
 
 148
-00:14:04,216 --> 00:14:09,716
- matters; and no common or ordinary case is to be
+05:44:53,0 --> 05:44:53,0
+to present the
 
 149
-00:14:09,716 --> 00:14:15,216
- sufficient to call such council
+05:44:53,0 --> 05:44:53,0
+case, after
 
 150
-00:14:15,972 --> 00:14:20,305
-29 The traveling or located high priests abroad
+05:44:53,0 --> 05:44:53,0
+the evidence
 
 151
-00:14:20,305 --> 00:14:24,638
- have power to say whether it is necessary to call
+05:44:53,0 --> 05:44:53,0
+is examined,
 
 152
-00:14:24,638 --> 00:14:28,971
- such a council or not
+05:44:53,0 --> 05:44:53,0
+in its true
 
 153
-00:14:28,985 --> 00:14:32,735
-30 There is a distinction between the high council
+05:44:53,0 --> 05:44:53,0
+light before
 
 154
-00:14:32,735 --> 00:14:36,485
- or traveling high priests abroad, and the
+05:44:53,0 --> 05:44:53,0
+the council;
 
 155
-00:14:36,485 --> 00:14:40,235
- traveling high council composed of the twelve apostles,
+05:44:53,0 --> 05:44:53,0
+and every man
 
 156
-00:14:40,235 --> 00:14:43,985
- in their decisions
+05:44:53,0 --> 05:44:53,0
+is to speak
 
 157
-00:14:43,983 --> 00:14:47,983
-31 From the decision of the former there can be an
+05:44:53,0 --> 05:44:53,0
+according to
 
 158
-00:14:47,983 --> 00:14:51,983
- appeal; but from the decision of the latter there
+05:44:53,0 --> 05:48:32,
+equity and justice.
 
 159
-00:14:51,983 --> 00:14:55,983
- cannot
+05:48:32,0 --> 05:48:32,0
+17 Those
 
 160
-00:14:55,495 --> 00:14:59,495
-32 The latter can only be called in question by
+05:48:32,0 --> 05:48:32,0
+councilors who
 
 161
-00:14:59,495 --> 00:15:03,495
- the general authorities of the church in case of
+05:48:32,0 --> 05:48:32,0
+draw even
 
 162
-00:15:03,495 --> 00:15:07,495
- transgression
+05:48:32,0 --> 05:48:32,0
+numbers, that
 
 163
-00:15:07,49 --> 00:15:13,99
-33 Resolved: that the president or presidents of
+05:48:32,0 --> 05:48:32,0
+is, 2, 4, 6,
 
 164
-00:15:13,99 --> 00:15:20,49
- the seat of the First Presidency of the Church
+05:48:32,0 --> 05:48:32,0
+8, 10, and
 
 165
-00:15:20,49 --> 00:15:26,99
- shall have power to determine whether any such case,
+05:48:32,0 --> 05:48:32,0
+12, are the
 
 166
-00:15:26,99 --> 00:15:33,49
- as may be appealed, is justly entitled to a
+05:48:32,0 --> 05:48:32,0
+individuals
 
 167
-00:15:33,49 --> 00:15:39,99
- re-hearing, after examining the appeal and the evidences
+05:48:32,0 --> 05:48:32,0
+who are to
 
 168
-00:15:39,99 --> 00:15:46,49
- and statements accompanying it
+05:48:32,0 --> 05:48:32,0
+stand up in
+
+169
+05:48:32,0 --> 05:48:32,0
+behalf of the
+
+170
+05:48:32,0 --> 05:48:32,0
+accused,
+
+171
+05:48:32,0 --> 05:48:32,0
+and prevent
+
+172
+05:48:32,0 --> 05:57:34,
+insult and injustice.
+
+173
+05:57:34,0 --> 05:57:34,0
+18 In all
+
+174
+05:57:34,0 --> 05:57:34,0
+cases the
+
+175
+05:57:34,0 --> 05:57:34,0
+accuser and
+
+176
+05:57:34,0 --> 05:57:34,0
+the accused
+
+177
+05:57:34,0 --> 05:57:34,0
+shall have
+
+178
+05:57:34,0 --> 05:57:34,0
+a privilege
+
+179
+05:57:34,0 --> 05:57:34,0
+of
+
+180
+05:57:34,0 --> 05:57:34,0
+speaking for
+
+181
+05:57:34,0 --> 05:57:34,0
+themselves
+
+182
+05:57:34,0 --> 05:57:34,0
+before the
+
+183
+05:57:34,0 --> 05:57:34,0
+council, after
+
+184
+05:57:34,0 --> 05:57:34,0
+the
+
+185
+05:57:34,0 --> 05:57:34,0
+evidences are heard
+
+186
+05:57:34,0 --> 05:57:34,0
+and the
+
+187
+05:57:34,0 --> 05:57:34,0
+councilors
+
+188
+05:57:34,0 --> 05:57:34,0
+who are
+
+189
+05:57:34,0 --> 05:57:34,0
+appointed to
+
+190
+05:57:34,0 --> 05:57:34,0
+speak on the
+
+191
+05:57:34,0 --> 05:57:34,0
+case have
+
+192
+05:57:34,0 --> 06:23:34,
+finished their remarks.
+
+193
+06:23:34,0 --> 06:23:34,0
+19 After
+
+194
+06:23:34,0 --> 06:23:34,0
+the
+
+195
+06:23:34,0 --> 06:23:34,0
+evidences are
+
+196
+06:23:34,0 --> 06:23:34,0
+heard, the
+
+197
+06:23:34,0 --> 06:23:34,0
+councilors,
+
+198
+06:23:34,0 --> 06:23:34,0
+accuser
+
+199
+06:23:34,0 --> 06:23:34,0
+and accused
+
+200
+06:23:34,0 --> 06:23:34,0
+have
+
+201
+06:23:34,0 --> 06:23:34,0
+spoken, the
+
+202
+06:23:34,0 --> 06:23:34,0
+president
+
+203
+06:23:34,0 --> 06:23:34,0
+shall give a
+
+204
+06:23:34,0 --> 06:23:34,0
+decision
+
+205
+06:23:34,0 --> 06:23:34,0
+according
+
+206
+06:23:34,0 --> 06:23:34,0
+to the
+
+207
+06:23:34,0 --> 06:23:34,0
+understanding
+
+208
+06:23:34,0 --> 06:23:34,0
+which he
+
+209
+06:23:34,0 --> 06:23:34,0
+shall have
+
+210
+06:23:34,0 --> 06:23:34,0
+of the
+
+211
+06:23:34,0 --> 06:23:34,0
+case, and
+
+212
+06:23:34,0 --> 06:23:34,0
+call upon the
+
+213
+06:23:34,0 --> 06:23:34,0
+twelve
+
+214
+06:23:34,0 --> 06:23:34,0
+councilors
+
+215
+06:23:34,0 --> 06:23:34,0
+to sanction
+
+216
+06:23:34,0 --> 06:33:36,
+the same by their vote.
+
+217
+06:33:36,0 --> 06:33:36,0
+20 But
+
+218
+06:33:36,0 --> 06:33:36,0
+should the
+
+219
+06:33:36,0 --> 06:33:36,0
+remaining
+
+220
+06:33:36,0 --> 06:33:36,0
+
+
+221
+06:33:36,0 --> 06:33:36,0
+councilors, who
+
+222
+06:33:36,0 --> 06:33:36,0
+have not
+
+223
+06:33:36,0 --> 06:33:36,0
+spoken, or
+
+224
+06:33:36,0 --> 06:33:36,0
+any one
+
+225
+06:33:36,0 --> 06:33:36,0
+of them,
+
+226
+06:33:36,0 --> 06:33:36,0
+after
+
+227
+06:33:36,0 --> 06:33:36,0
+hearing the
+
+228
+06:33:36,0 --> 06:33:36,0
+evidences
+
+229
+06:33:36,0 --> 06:33:36,0
+and
+
+230
+06:33:36,0 --> 06:33:36,0
+pleadings
+
+231
+06:33:36,0 --> 06:33:36,0
+impartially,
+
+232
+06:33:36,0 --> 06:33:36,0
+discover
+
+233
+06:33:36,0 --> 06:33:36,0
+an error
+
+234
+06:33:36,0 --> 06:33:36,0
+in the
+
+235
+06:33:36,0 --> 06:33:36,0
+decision
+
+236
+06:33:36,0 --> 06:33:36,0
+of the
+
+237
+06:33:36,0 --> 06:33:36,0
+president,
+
+238
+06:33:36,0 --> 06:33:36,0
+they can
+
+239
+06:33:36,0 --> 06:33:36,0
+manifest
+
+240
+06:33:36,0 --> 06:33:36,0
+it, and
+
+241
+06:33:36,0 --> 06:46:40,
+the case shall have a re-hearing.
+
+242
+06:46:40,0 --> 06:46:40,0
+21 And
+
+243
+06:46:40,0 --> 06:46:40,0
+if, after a
+
+244
+06:46:40,0 --> 06:46:40,0
+careful
+
+245
+06:46:40,0 --> 06:46:40,0
+
+
+246
+06:46:40,0 --> 06:46:40,0
+re-hearing, any
+
+247
+06:46:40,0 --> 06:46:40,0
+additional
+
+248
+06:46:40,0 --> 06:46:40,0
+light is
+
+249
+06:46:40,0 --> 06:46:40,0
+shown
+
+250
+06:46:40,0 --> 06:46:40,0
+upon the
+
+251
+06:46:40,0 --> 06:46:40,0
+case, the
+
+252
+06:46:40,0 --> 06:46:40,0
+decision
+
+253
+06:46:40,0 --> 06:46:40,0
+shall be
+
+254
+06:46:40,0 --> 06:46:40,0
+altered
+
+255
+06:46:40,0 --> 07:09:41,
+accordingly.
+
+256
+07:09:41,0 --> 07:09:41,0
+22 But
+
+257
+07:09:41,0 --> 07:09:41,0
+in case
+
+258
+07:09:41,0 --> 07:09:41,0
+no
+
+259
+07:09:41,0 --> 07:09:41,0
+additional
+
+260
+07:09:41,0 --> 07:09:41,0
+light is
+
+261
+07:09:41,0 --> 07:09:41,0
+given, the
+
+262
+07:09:41,0 --> 07:09:41,0
+first
+
+263
+07:09:41,0 --> 07:09:41,0
+decision
+
+264
+07:09:41,0 --> 07:09:41,0
+shall
+
+265
+07:09:41,0 --> 07:09:41,0
+stand, the
+
+266
+07:09:41,0 --> 07:09:41,0
+
+
+267
+07:09:41,0 --> 07:09:41,0
+majority of the
+
+268
+07:09:41,0 --> 07:09:41,0
+council
+
+269
+07:09:41,0 --> 07:09:41,0
+having
+
+270
+07:09:41,0 --> 07:09:41,0
+power to
+
+271
+07:09:41,0 --> 07:28:40,
+determine the same.
+
+272
+07:28:40,0 --> 07:28:40,0
+23 In
+
+273
+07:28:40,0 --> 07:28:40,0
+case of
+
+274
+07:28:40,0 --> 07:28:40,0
+
+
+275
+07:28:40,0 --> 07:28:40,0
+difficulty
+
+276
+07:28:40,0 --> 07:28:40,0
+respecting
+
+277
+07:28:40,0 --> 07:28:40,0
+
+
+278
+07:28:40,0 --> 07:28:40,0
+doctrine or
+
+279
+07:28:40,0 --> 07:28:40,0
+
+
+280
+07:28:40,0 --> 07:28:40,0
+principle, if
+
+281
+07:28:40,0 --> 07:28:40,0
+there is
+
+282
+07:28:40,0 --> 07:28:40,0
+not a
+
+283
+07:28:40,0 --> 07:28:40,0
+
+
+284
+07:28:40,0 --> 07:28:40,0
+sufficiency
+
+285
+07:28:40,0 --> 07:28:40,0
+written
+
+286
+07:28:40,0 --> 07:28:40,0
+to make
+
+287
+07:28:40,0 --> 07:28:40,0
+the
+
+288
+07:28:40,0 --> 07:28:40,0
+case clear
+
+289
+07:28:40,0 --> 07:28:40,0
+to the
+
+290
+07:28:40,0 --> 07:28:40,0
+minds
+
+291
+07:28:40,0 --> 07:28:40,0
+of the
+
+292
+07:28:40,0 --> 07:28:40,0
+
+
+293
+07:28:40,0 --> 07:28:40,0
+council, the
+
+294
+07:28:40,0 --> 07:28:40,0
+
+
+295
+07:28:40,0 --> 07:28:40,0
+president may
+
+296
+07:28:40,0 --> 07:28:40,0
+inquire
+
+297
+07:28:40,0 --> 07:28:40,0
+and
+
+298
+07:28:40,0 --> 07:28:40,0
+obtain the
+
+299
+07:28:40,0 --> 07:41:44,
+mind of the Lord by revelation.
+
+300
+07:41:44,0 --> 07:41:44,0
+24 The
+
+301
+07:41:44,0 --> 07:41:44,0
+high
+
+302
+07:41:44,0 --> 07:41:44,0
+
+
+303
+07:41:44,0 --> 07:41:44,0
+priests,
+
+304
+07:41:44,0 --> 07:41:44,0
+when
+
+305
+07:41:44,0 --> 07:41:44,0
+abroad,
+
+306
+07:41:44,0 --> 07:41:44,0
+have
+
+307
+07:41:44,0 --> 07:41:44,0
+power to
+
+308
+07:41:44,0 --> 07:41:44,0
+call
+
+309
+07:41:44,0 --> 07:41:44,0
+and
+
+310
+07:41:44,0 --> 07:41:44,0
+organize
+
+311
+07:41:44,0 --> 07:41:44,0
+a
+
+312
+07:41:44,0 --> 07:41:44,0
+council
+
+313
+07:41:44,0 --> 07:41:44,0
+after
+
+314
+07:41:44,0 --> 07:41:44,0
+the
+
+315
+07:41:44,0 --> 07:41:44,0
+manner of
+
+316
+07:41:44,0 --> 07:41:44,0
+the
+
+317
+07:41:44,0 --> 07:41:44,0
+
+
+318
+07:41:44,0 --> 07:41:44,0
+foregoing, to
+
+319
+07:41:44,0 --> 07:41:44,0
+settle
+
+320
+07:41:44,0 --> 07:41:44,0
+
+
+321
+07:41:44,0 --> 07:41:44,0
+
+
+322
+07:41:44,0 --> 07:41:44,0
+difficulties,
+
+323
+07:41:44,0 --> 07:41:44,0
+when the
+
+324
+07:41:44,0 --> 07:41:44,0
+
+
+325
+07:41:44,0 --> 07:41:44,0
+parties or
+
+326
+07:41:44,0 --> 07:45:51,
+either of them shall request it.
+
+327
+07:45:51,0 --> 07:45:51,0
+25
+
+328
+07:45:51,0 --> 07:45:51,0
+And the
+
+329
+07:45:51,0 --> 07:45:51,0
+said
+
+330
+07:45:51,0 --> 07:45:51,0
+
+
+331
+07:45:51,0 --> 07:45:51,0
+council
+
+332
+07:45:51,0 --> 07:45:51,0
+of
+
+333
+07:45:51,0 --> 07:45:51,0
+high
+
+334
+07:45:51,0 --> 07:45:51,0
+priests
+
+335
+07:45:51,0 --> 07:45:51,0
+shall
+
+336
+07:45:51,0 --> 07:45:51,0
+have
+
+337
+07:45:51,0 --> 07:45:51,0
+
+
+338
+07:45:51,0 --> 07:45:51,0
+power to
+
+339
+07:45:51,0 --> 07:45:51,0
+
+
+340
+07:45:51,0 --> 07:45:51,0
+appoint
+
+341
+07:45:51,0 --> 07:45:51,0
+one of
+
+342
+07:45:51,0 --> 07:45:51,0
+their
+
+343
+07:45:51,0 --> 07:45:51,0
+own
+
+344
+07:45:51,0 --> 07:45:51,0
+
+
+345
+07:45:51,0 --> 07:45:51,0
+number to
+
+346
+07:45:51,0 --> 07:45:51,0
+
+
+347
+07:45:51,0 --> 07:45:51,0
+preside
+
+348
+07:45:51,0 --> 07:45:51,0
+over
+
+349
+07:45:51,0 --> 07:45:51,0
+such
+
+350
+07:45:51,0 --> 08:12:50,
+council for the time being.
+
+351
+08:12:50,0 --> 08:12:50,0
+26
+
+352
+08:12:50,0 --> 08:12:50,0
+It
+
+353
+08:12:50,0 --> 08:12:50,0
+shall
+
+354
+08:12:50,0 --> 08:12:50,0
+be
+
+355
+08:12:50,0 --> 08:12:50,0
+the
+
+356
+08:12:50,0 --> 08:12:50,0
+duty
+
+357
+08:12:50,0 --> 08:12:50,0
+of
+
+358
+08:12:50,0 --> 08:12:50,0
+said
+
+359
+08:12:50,0 --> 08:12:50,0
+
+
+360
+08:12:50,0 --> 08:12:50,0
+council
+
+361
+08:12:50,0 --> 08:12:50,0
+to
+
+362
+08:12:50,0 --> 08:12:50,0
+
+
+363
+08:12:50,0 --> 08:12:50,0
+transmit,
+
+364
+08:12:50,0 --> 08:12:50,0
+
+
+365
+08:12:50,0 --> 08:12:50,0
+
+
+366
+08:12:50,0 --> 08:12:50,0
+
+
+367
+08:12:50,0 --> 08:12:50,0
+immediately, a
+
+368
+08:12:50,0 --> 08:12:50,0
+copy
+
+369
+08:12:50,0 --> 08:12:50,0
+of
+
+370
+08:12:50,0 --> 08:12:50,0
+
+
+371
+08:12:50,0 --> 08:12:50,0
+their
+
+372
+08:12:50,0 --> 08:12:50,0
+
+
+373
+08:12:50,0 --> 08:12:50,0
+
+
+374
+08:12:50,0 --> 08:12:50,0
+proceedings,
+
+375
+08:12:50,0 --> 08:12:50,0
+with
+
+376
+08:12:50,0 --> 08:12:50,0
+a
+
+377
+08:12:50,0 --> 08:12:50,0
+full
+
+378
+08:12:50,0 --> 08:12:50,0
+
+
+379
+08:12:50,0 --> 08:12:50,0
+statement
+
+380
+08:12:50,0 --> 08:12:50,0
+of
+
+381
+08:12:50,0 --> 08:12:50,0
+the
+
+382
+08:12:50,0 --> 08:12:50,0
+
+
+383
+08:12:50,0 --> 08:12:50,0
+
+
+384
+08:12:50,0 --> 08:12:50,0
+testimony
+
+385
+08:12:50,0 --> 08:12:50,0
+
+
+386
+08:12:50,0 --> 08:12:50,0
+
+
+387
+08:12:50,0 --> 08:12:50,0
+accompanying
+
+388
+08:12:50,0 --> 08:12:50,0
+their
+
+389
+08:12:50,0 --> 08:12:50,0
+
+
+390
+08:12:50,0 --> 08:12:50,0
+
+
+391
+08:12:50,0 --> 08:12:50,0
+decision,
+
+392
+08:12:50,0 --> 08:12:50,0
+to
+
+393
+08:12:50,0 --> 08:12:50,0
+the
+
+394
+08:12:50,0 --> 08:12:50,0
+high
+
+395
+08:12:50,0 --> 08:12:50,0
+
+
+396
+08:12:50,0 --> 08:12:50,0
+council
+
+397
+08:12:50,0 --> 08:35:50,
+of the seat of the First Presidency of the Church.
+
+398
+08:35:50,0 --> 08:35:50,0
+27
+
+399
+08:35:50,0 --> 08:35:50,0
+
+
+400
+08:35:50,0 --> 08:35:50,0
+Should
+
+401
+08:35:50,0 --> 08:35:50,0
+the
+
+402
+08:35:50,0 --> 08:35:50,0
+
+
+403
+08:35:50,0 --> 08:35:50,0
+parties or
+
+404
+08:35:50,0 --> 08:35:50,0
+
+
+405
+08:35:50,0 --> 08:35:50,0
+either
+
+406
+08:35:50,0 --> 08:35:50,0
+of
+
+407
+08:35:50,0 --> 08:35:50,0
+them
+
+408
+08:35:50,0 --> 08:35:50,0
+be
+
+409
+08:35:50,0 --> 08:35:50,0
+
+
+410
+08:35:50,0 --> 08:35:50,0
+
+
+411
+08:35:50,0 --> 08:35:50,0
+dissatisfied
+
+412
+08:35:50,0 --> 08:35:50,0
+with
+
+413
+08:35:50,0 --> 08:35:50,0
+the
+
+414
+08:35:50,0 --> 08:35:50,0
+
+
+415
+08:35:50,0 --> 08:35:50,0
+
+
+416
+08:35:50,0 --> 08:35:50,0
+decision of
+
+417
+08:35:50,0 --> 08:35:50,0
+
+
+418
+08:35:50,0 --> 08:35:50,0
+said
+
+419
+08:35:50,0 --> 08:35:50,0
+
+
+420
+08:35:50,0 --> 08:35:50,0
+council,
+
+421
+08:35:50,0 --> 08:35:50,0
+they
+
+422
+08:35:50,0 --> 08:35:50,0
+may
+
+423
+08:35:50,0 --> 08:35:50,0
+
+
+424
+08:35:50,0 --> 08:35:50,0
+appeal
+
+425
+08:35:50,0 --> 08:35:50,0
+to
+
+426
+08:35:50,0 --> 08:35:50,0
+the
+
+427
+08:35:50,0 --> 08:35:50,0
+high
+
+428
+08:35:50,0 --> 08:35:50,0
+
+
+429
+08:35:50,0 --> 08:35:50,0
+council
+
+430
+08:35:50,0 --> 08:35:50,0
+of
+
+431
+08:35:50,0 --> 08:35:50,0
+the
+
+432
+08:35:50,0 --> 08:35:50,0
+seat
+
+433
+08:35:50,0 --> 08:35:50,0
+of
+
+434
+08:35:50,0 --> 08:35:50,0
+the
+
+435
+08:35:50,0 --> 08:35:50,0
+First
+
+436
+08:35:50,0 --> 08:35:50,0
+
+
+437
+08:35:50,0 --> 08:35:50,0
+
+
+438
+08:35:50,0 --> 08:35:50,0
+Presidency
+
+439
+08:35:50,0 --> 08:35:50,0
+of
+
+440
+08:35:50,0 --> 08:35:50,0
+the
+
+441
+08:35:50,0 --> 08:35:50,0
+
+
+442
+08:35:50,0 --> 08:35:50,0
+Church,
+
+443
+08:35:50,0 --> 08:35:50,0
+and
+
+444
+08:35:50,0 --> 08:35:50,0
+have a
+
+445
+08:35:50,0 --> 08:35:50,0
+
+
+446
+08:35:50,0 --> 08:35:50,0
+
+
+447
+08:35:50,0 --> 08:35:50,0
+re-hearing,
+
+448
+08:35:50,0 --> 08:35:50,0
+
+
+449
+08:35:50,0 --> 08:35:50,0
+which
+
+450
+08:35:50,0 --> 08:35:50,0
+case
+
+451
+08:35:50,0 --> 08:35:50,0
+
+
+452
+08:35:50,0 --> 08:35:50,0
+shall
+
+453
+08:35:50,0 --> 08:35:50,0
+there
+
+454
+08:35:50,0 --> 08:35:50,0
+be
+
+455
+08:35:50,0 --> 08:35:50,0
+
+
+456
+08:35:50,0 --> 08:35:50,0
+
+
+457
+08:35:50,0 --> 08:35:50,0
+conducted,
+
+458
+08:35:50,0 --> 08:35:50,0
+
+
+459
+08:35:50,0 --> 08:35:50,0
+according
+
+460
+08:35:50,0 --> 08:35:50,0
+to
+
+461
+08:35:50,0 --> 08:35:50,0
+the
+
+462
+08:35:50,0 --> 08:35:50,0
+
+
+463
+08:35:50,0 --> 08:35:50,0
+former
+
+464
+08:35:50,0 --> 08:35:50,0
+
+
+465
+08:35:50,0 --> 08:35:50,0
+pattern
+
+466
+08:35:50,0 --> 08:35:50,0
+
+
+467
+08:35:50,0 --> 08:35:50,0
+written,
+
+468
+08:35:50,0 --> 08:35:50,0
+as
+
+469
+08:35:50,0 --> 08:35:50,0
+though
+
+470
+08:35:50,0 --> 08:35:50,0
+no
+
+471
+08:35:50,0 --> 08:35:50,0
+such
+
+472
+08:35:50,0 --> 08:35:50,0
+
+
+473
+08:35:50,0 --> 08:35:50,0
+
+
+474
+08:35:50,0 --> 08:35:50,0
+decision
+
+475
+08:35:50,0 --> 08:35:50,0
+had
+
+476
+08:35:50,0 --> 08:35:50,0
+been
+
+477
+08:35:50,0 --> 08:38:52,
+made.
+
+478
+08:38:52,0 --> 08:38:52,0
+28
+
+479
+08:38:52,0 --> 08:38:52,0
+
+
+480
+08:38:52,0 --> 08:38:52,0
+This
+
+481
+08:38:52,0 --> 08:38:52,0
+
+
+482
+08:38:52,0 --> 08:38:52,0
+council
+
+483
+08:38:52,0 --> 08:38:52,0
+of
+
+484
+08:38:52,0 --> 08:38:52,0
+
+
+485
+08:38:52,0 --> 08:38:52,0
+high
+
+486
+08:38:52,0 --> 08:38:52,0
+
+
+487
+08:38:52,0 --> 08:38:52,0
+
+
+488
+08:38:52,0 --> 08:38:52,0
+priests
+
+489
+08:38:52,0 --> 08:38:52,0
+
+
+490
+08:38:52,0 --> 08:38:52,0
+abroad
+
+491
+08:38:52,0 --> 08:38:52,0
+is
+
+492
+08:38:52,0 --> 08:38:52,0
+
+
+493
+08:38:52,0 --> 08:38:52,0
+only
+
+494
+08:38:52,0 --> 08:38:52,0
+to
+
+495
+08:38:52,0 --> 08:38:52,0
+be
+
+496
+08:38:52,0 --> 08:38:52,0
+
+
+497
+08:38:52,0 --> 08:38:52,0
+called
+
+498
+08:38:52,0 --> 08:38:52,0
+on
+
+499
+08:38:52,0 --> 08:38:52,0
+the
+
+500
+08:38:52,0 --> 08:38:52,0
+
+
+501
+08:38:52,0 --> 08:38:52,0
+most
+
+502
+08:38:52,0 --> 08:38:52,0
+
+
+503
+08:38:52,0 --> 08:38:52,0
+
+
+504
+08:38:52,0 --> 08:38:52,0
+difficult
+
+505
+08:38:52,0 --> 08:38:52,0
+
+
+506
+08:38:52,0 --> 08:38:52,0
+cases
+
+507
+08:38:52,0 --> 08:38:52,0
+of
+
+508
+08:38:52,0 --> 08:38:52,0
+
+
+509
+08:38:52,0 --> 08:38:52,0
+
+
+510
+08:38:52,0 --> 08:38:52,0
+church
+
+511
+08:38:52,0 --> 08:38:52,0
+
+
+512
+08:38:52,0 --> 08:38:52,0
+
+
+513
+08:38:52,0 --> 08:38:52,0
+matters;
+
+514
+08:38:52,0 --> 08:38:52,0
+and
+
+515
+08:38:52,0 --> 08:38:52,0
+no
+
+516
+08:38:52,0 --> 08:38:52,0
+
+
+517
+08:38:52,0 --> 08:38:52,0
+common
+
+518
+08:38:52,0 --> 08:38:52,0
+or
+
+519
+08:38:52,0 --> 08:38:52,0
+
+
+520
+08:38:52,0 --> 08:38:52,0
+
+
+521
+08:38:52,0 --> 08:38:52,0
+ordinary
+
+522
+08:38:52,0 --> 08:39:56,
+case is to be sufficient to call such council.
+
+523
+08:39:56,0 --> 08:39:56,0
+29
+
+524
+08:39:56,0 --> 08:39:56,0
+The
+
+525
+08:39:56,0 --> 08:39:56,0
+
+
+526
+08:39:56,0 --> 08:39:56,0
+
+
+527
+08:39:56,0 --> 08:39:56,0
+
+
+528
+08:39:56,0 --> 08:39:56,0
+traveling
+
+529
+08:39:56,0 --> 08:39:56,0
+or
+
+530
+08:39:56,0 --> 08:39:56,0
+
+
+531
+08:39:56,0 --> 08:39:56,0
+located
+
+532
+08:39:56,0 --> 08:39:56,0
+
+
+533
+08:39:56,0 --> 08:39:56,0
+high
+
+534
+08:39:56,0 --> 08:39:56,0
+
+
+535
+08:39:56,0 --> 08:39:56,0
+
+
+536
+08:39:56,0 --> 08:39:56,0
+priests
+
+537
+08:39:56,0 --> 08:39:56,0
+
+
+538
+08:39:56,0 --> 08:39:56,0
+abroad
+
+539
+08:39:56,0 --> 08:39:56,0
+
+
+540
+08:39:56,0 --> 08:39:56,0
+have
+
+541
+08:39:56,0 --> 08:39:56,0
+
+
+542
+08:39:56,0 --> 08:39:56,0
+power
+
+543
+08:39:56,0 --> 08:39:56,0
+to
+
+544
+08:39:56,0 --> 08:39:56,0
+say
+
+545
+08:39:56,0 --> 08:39:56,0
+
+
+546
+08:39:56,0 --> 08:39:56,0
+
+
+547
+08:39:56,0 --> 08:39:56,0
+whether
+
+548
+08:39:56,0 --> 08:39:56,0
+it
+
+549
+08:39:56,0 --> 08:39:56,0
+is
+
+550
+08:39:56,0 --> 08:39:56,0
+
+
+551
+08:39:56,0 --> 08:39:56,0
+
+
+552
+08:39:56,0 --> 08:39:56,0
+necessary
+
+553
+08:39:56,0 --> 08:39:56,0
+to
+
+554
+08:39:56,0 --> 08:39:56,0
+
+
+555
+08:39:56,0 --> 08:39:56,0
+call
+
+556
+08:39:56,0 --> 08:39:56,0
+such
+
+557
+08:39:56,0 --> 08:39:56,0
+a
+
+558
+08:39:56,0 --> 08:39:56,0
+
+
+559
+08:39:56,0 --> 08:39:56,0
+
+
+560
+08:39:56,0 --> 08:39:56,0
+council
+
+561
+08:39:56,0 --> 08:39:56,0
+or
+
+562
+08:39:56,0 --> 08:54:58,
+not.
+
+563
+08:54:58,0 --> 08:54:58,0
+30
+
+564
+08:54:58,0 --> 08:54:58,0
+
+
+565
+08:54:58,0 --> 08:54:58,0
+There
+
+566
+08:54:58,0 --> 08:54:58,0
+is
+
+567
+08:54:58,0 --> 08:54:58,0
+a
+
+568
+08:54:58,0 --> 08:54:58,0
+
+
+569
+08:54:58,0 --> 08:54:58,0
+
+
+570
+08:54:58,0 --> 08:54:58,0
+
+
+571
+08:54:58,0 --> 08:54:58,0
+distinction
+
+572
+08:54:58,0 --> 08:54:58,0
+
+
+573
+08:54:58,0 --> 08:54:58,0
+between
+
+574
+08:54:58,0 --> 08:54:58,0
+
+
+575
+08:54:58,0 --> 08:54:58,0
+the
+
+576
+08:54:58,0 --> 08:54:58,0
+high
+
+577
+08:54:58,0 --> 08:54:58,0
+
+
+578
+08:54:58,0 --> 08:54:58,0
+
+
+579
+08:54:58,0 --> 08:54:58,0
+council
+
+580
+08:54:58,0 --> 08:54:58,0
+or
+
+581
+08:54:58,0 --> 08:54:58,0
+
+
+582
+08:54:58,0 --> 08:54:58,0
+
+
+583
+08:54:58,0 --> 08:54:58,0
+traveling
+
+584
+08:54:58,0 --> 08:54:58,0
+
+
+585
+08:54:58,0 --> 08:54:58,0
+high
+
+586
+08:54:58,0 --> 08:54:58,0
+
+
+587
+08:54:58,0 --> 08:54:58,0
+
+
+588
+08:54:58,0 --> 08:54:58,0
+priests
+
+589
+08:54:58,0 --> 08:54:58,0
+
+
+590
+08:54:58,0 --> 08:54:58,0
+abroad,
+
+591
+08:54:58,0 --> 08:54:58,0
+
+
+592
+08:54:58,0 --> 08:54:58,0
+and
+
+593
+08:54:58,0 --> 08:54:58,0
+the
+
+594
+08:54:58,0 --> 08:54:58,0
+
+
+595
+08:54:58,0 --> 08:54:58,0
+
+
+596
+08:54:58,0 --> 08:54:58,0
+traveling
+
+597
+08:54:58,0 --> 08:54:58,0
+
+
+598
+08:54:58,0 --> 08:54:58,0
+high
+
+599
+08:54:58,0 --> 08:54:58,0
+
+
+600
+08:54:58,0 --> 08:54:58,0
+
+
+601
+08:54:58,0 --> 08:54:58,0
+council
+
+602
+08:54:58,0 --> 08:54:58,0
+
+
+603
+08:54:58,0 --> 08:54:58,0
+
+
+604
+08:54:58,0 --> 08:54:58,0
+composed
+
+605
+08:54:58,0 --> 08:54:58,0
+of
+
+606
+08:54:58,0 --> 08:54:58,0
+the
+
+607
+08:54:58,0 --> 08:54:58,0
+
+
+608
+08:54:58,0 --> 08:54:58,0
+twelve
+
+609
+08:54:58,0 --> 08:54:58,0
+
+
+610
+08:54:58,0 --> 08:54:58,0
+
+
+611
+08:54:58,0 --> 08:54:58,0
+
+
+612
+08:54:58,0 --> 08:54:58,0
+apostles,
+
+613
+08:54:58,0 --> 08:54:58,0
+in
+
+614
+08:54:58,0 --> 08:54:58,0
+
+
+615
+08:54:58,0 --> 08:54:58,0
+their
+
+616
+08:54:58,0 --> 08:54:58,0
+
+
+617
+08:54:58,0 --> 08:54:58,0
+
+
+618
+08:54:58,0 --> 08:57:02,
+decisions.
+
+619
+08:57:02,0 --> 08:57:02,0
+31
+
+620
+08:57:02,0 --> 08:57:02,0
+
+
+621
+08:57:02,0 --> 08:57:02,0
+From
+
+622
+08:57:02,0 --> 08:57:02,0
+the
+
+623
+08:57:02,0 --> 08:57:02,0
+
+
+624
+08:57:02,0 --> 08:57:02,0
+
+
+625
+08:57:02,0 --> 08:57:02,0
+decision
+
+626
+08:57:02,0 --> 08:57:02,0
+of
+
+627
+08:57:02,0 --> 08:57:02,0
+the
+
+628
+08:57:02,0 --> 08:57:02,0
+
+
+629
+08:57:02,0 --> 08:57:02,0
+
+
+630
+08:57:02,0 --> 08:57:02,0
+former
+
+631
+08:57:02,0 --> 08:57:02,0
+
+
+632
+08:57:02,0 --> 08:57:02,0
+there
+
+633
+08:57:02,0 --> 08:57:02,0
+can
+
+634
+08:57:02,0 --> 08:57:02,0
+be
+
+635
+08:57:02,0 --> 08:57:02,0
+an
+
+636
+08:57:02,0 --> 08:57:02,0
+
+
+637
+08:57:02,0 --> 08:57:02,0
+
+
+638
+08:57:02,0 --> 08:57:02,0
+appeal;
+
+639
+08:57:02,0 --> 08:57:02,0
+but
+
+640
+08:57:02,0 --> 08:57:02,0
+
+
+641
+08:57:02,0 --> 08:57:02,0
+from
+
+642
+08:57:02,0 --> 08:57:02,0
+the
+
+643
+08:57:02,0 --> 08:57:02,0
+
+
+644
+08:57:02,0 --> 08:57:02,0
+
+
+645
+08:57:02,0 --> 08:57:02,0
+decision
+
+646
+08:57:02,0 --> 08:57:02,0
+of
+
+647
+08:57:02,0 --> 08:57:02,0
+the
+
+648
+08:57:02,0 --> 08:57:02,0
+
+
+649
+08:57:02,0 --> 08:57:02,0
+
+
+650
+08:57:02,0 --> 08:57:02,0
+latter
+
+651
+08:57:02,0 --> 08:57:02,0
+
+
+652
+08:57:02,0 --> 08:57:02,0
+there
+
+653
+08:57:02,0 --> 08:57:02,0
+
+
+654
+08:57:02,0 --> 09:14:03,
+cannot.
+
+655
+09:14:03,0 --> 09:14:03,0
+32
+
+656
+09:14:03,0 --> 09:14:03,0
+The
+
+657
+09:14:03,0 --> 09:14:03,0
+
+
+658
+09:14:03,0 --> 09:14:03,0
+
+
+659
+09:14:03,0 --> 09:14:03,0
+latter
+
+660
+09:14:03,0 --> 09:14:03,0
+can
+
+661
+09:14:03,0 --> 09:14:03,0
+
+
+662
+09:14:03,0 --> 09:14:03,0
+only
+
+663
+09:14:03,0 --> 09:14:03,0
+be
+
+664
+09:14:03,0 --> 09:14:03,0
+
+
+665
+09:14:03,0 --> 09:14:03,0
+called
+
+666
+09:14:03,0 --> 09:14:03,0
+in
+
+667
+09:14:03,0 --> 09:14:03,0
+
+
+668
+09:14:03,0 --> 09:14:03,0
+
+
+669
+09:14:03,0 --> 09:14:03,0
+question
+
+670
+09:14:03,0 --> 09:14:03,0
+by
+
+671
+09:14:03,0 --> 09:14:03,0
+the
+
+672
+09:14:03,0 --> 09:14:03,0
+
+
+673
+09:14:03,0 --> 09:14:03,0
+
+
+674
+09:14:03,0 --> 09:14:03,0
+general
+
+675
+09:14:03,0 --> 09:14:03,0
+
+
+676
+09:14:03,0 --> 09:14:03,0
+
+
+677
+09:14:03,0 --> 09:14:03,0
+
+
+678
+09:14:03,0 --> 09:14:03,0
+authorities
+
+679
+09:14:03,0 --> 09:14:03,0
+of
+
+680
+09:14:03,0 --> 09:14:03,0
+the
+
+681
+09:14:03,0 --> 09:14:03,0
+
+
+682
+09:14:03,0 --> 09:14:03,0
+
+
+683
+09:14:03,0 --> 09:14:03,0
+church
+
+684
+09:14:03,0 --> 09:14:03,0
+in
+
+685
+09:14:03,0 --> 09:14:03,0
+case
+
+686
+09:14:03,0 --> 09:14:03,0
+of
+
+687
+09:14:03,0 --> 09:14:03,0
+
+
+688
+09:14:03,0 --> 09:14:03,0
+
+
+689
+09:14:03,0 --> 09:14:03,0
+
+
+690
+09:14:03,0 --> 09:14:03,0
+
+
+691
+09:14:03,0 --> 09:33:02,
+transgression.
+
+692
+09:33:02,0 --> 09:33:02,0
+33
+
+693
+09:33:02,0 --> 09:33:02,0
+
+
+694
+09:33:02,0 --> 09:33:02,0
+
+
+695
+09:33:02,0 --> 09:33:02,0
+
+
+696
+09:33:02,0 --> 09:33:02,0
+
+
+697
+09:33:02,0 --> 09:33:02,0
+Resolved:
+
+698
+09:33:02,0 --> 09:33:02,0
+
+
+699
+09:33:02,0 --> 09:33:02,0
+
+
+700
+09:33:02,0 --> 09:33:02,0
+that
+
+701
+09:33:02,0 --> 09:33:02,0
+
+
+702
+09:33:02,0 --> 09:33:02,0
+the
+
+703
+09:33:02,0 --> 09:33:02,0
+
+
+704
+09:33:02,0 --> 09:33:02,0
+
+
+705
+09:33:02,0 --> 09:33:02,0
+
+
+706
+09:33:02,0 --> 09:33:02,0
+
+
+707
+09:33:02,0 --> 09:33:02,0
+president
+
+708
+09:33:02,0 --> 09:33:02,0
+or
+
+709
+09:33:02,0 --> 09:33:02,0
+
+
+710
+09:33:02,0 --> 09:33:02,0
+
+
+711
+09:33:02,0 --> 09:33:02,0
+
+
+712
+09:33:02,0 --> 09:33:02,0
+
+
+713
+09:33:02,0 --> 09:33:02,0
+
+
+714
+09:33:02,0 --> 09:33:02,0
+presidents
+
+715
+09:33:02,0 --> 09:33:02,0
+of
+
+716
+09:33:02,0 --> 09:33:02,0
+
+
+717
+09:33:02,0 --> 09:33:02,0
+the
+
+718
+09:33:02,0 --> 09:33:02,0
+
+
+719
+09:33:02,0 --> 09:33:02,0
+
+
+720
+09:33:02,0 --> 09:33:02,0
+seat
+
+721
+09:33:02,0 --> 09:33:02,0
+of
+
+722
+09:33:02,0 --> 09:33:02,0
+
+
+723
+09:33:02,0 --> 09:33:02,0
+the
+
+724
+09:33:02,0 --> 09:33:02,0
+
+
+725
+09:33:02,0 --> 09:33:02,0
+
+
+726
+09:33:02,0 --> 09:33:02,0
+First
+
+727
+09:33:02,0 --> 09:33:02,0
+
+
+728
+09:33:02,0 --> 09:33:02,0
+
+
+729
+09:33:02,0 --> 09:33:02,0
+
+
+730
+09:33:02,0 --> 09:33:02,0
+
+
+731
+09:33:02,0 --> 09:33:02,0
+
+
+732
+09:33:02,0 --> 09:33:02,0
+Presidency
+
+733
+09:33:02,0 --> 09:33:02,0
+of
+
+734
+09:33:02,0 --> 09:33:02,0
+
+
+735
+09:33:02,0 --> 09:33:02,0
+the
+
+736
+09:33:02,0 --> 09:33:02,0
+
+
+737
+09:33:02,0 --> 09:33:02,0
+
+
+738
+09:33:02,0 --> 09:33:02,0
+
+
+739
+09:33:02,0 --> 09:33:02,0
+Church
+
+740
+09:33:02,0 --> 09:33:02,0
+
+
+741
+09:33:02,0 --> 09:33:02,0
+
+
+742
+09:33:02,0 --> 09:33:02,0
+shall
+
+743
+09:33:02,0 --> 09:33:02,0
+
+
+744
+09:33:02,0 --> 09:33:02,0
+have
+
+745
+09:33:02,0 --> 09:33:02,0
+
+
+746
+09:33:02,0 --> 09:33:02,0
+
+
+747
+09:33:02,0 --> 09:33:02,0
+power
+
+748
+09:33:02,0 --> 09:33:02,0
+
+
+749
+09:33:02,0 --> 09:33:02,0
+to
+
+750
+09:33:02,0 --> 09:33:02,0
+
+
+751
+09:33:02,0 --> 09:33:02,0
+
+
+752
+09:33:02,0 --> 09:33:02,0
+
+
+753
+09:33:02,0 --> 09:33:02,0
+
+
+754
+09:33:02,0 --> 09:33:02,0
+determine
+
+755
+09:33:02,0 --> 09:33:02,0
+
+
+756
+09:33:02,0 --> 09:33:02,0
+
+
+757
+09:33:02,0 --> 09:33:02,0
+
+
+758
+09:33:02,0 --> 09:33:02,0
+whether
+
+759
+09:33:02,0 --> 09:33:02,0
+
+
+760
+09:33:02,0 --> 09:33:02,0
+any
+
+761
+09:33:02,0 --> 09:33:02,0
+
+
+762
+09:33:02,0 --> 09:33:02,0
+such
+
+763
+09:33:02,0 --> 09:33:02,0
+
+
+764
+09:33:02,0 --> 09:33:02,0
+
+
+765
+09:33:02,0 --> 09:33:02,0
+case,
+
+766
+09:33:02,0 --> 09:33:02,0
+
+
+767
+09:33:02,0 --> 09:33:02,0
+as
+
+768
+09:33:02,0 --> 09:33:02,0
+
+
+769
+09:33:02,0 --> 09:33:02,0
+may
+
+770
+09:33:02,0 --> 09:33:02,0
+be
+
+771
+09:33:02,0 --> 09:33:02,0
+
+
+772
+09:33:02,0 --> 09:33:02,0
+
+
+773
+09:33:02,0 --> 09:33:02,0
+
+
+774
+09:33:02,0 --> 09:33:02,0
+
+
+775
+09:33:02,0 --> 09:33:02,0
+appealed,
+
+776
+09:33:02,0 --> 09:33:02,0
+
+
+777
+09:33:02,0 --> 09:33:02,0
+is
+
+778
+09:33:02,0 --> 09:33:02,0
+
+
+779
+09:33:02,0 --> 09:33:02,0
+
+
+780
+09:33:02,0 --> 09:33:02,0
+justly
+
+781
+09:33:02,0 --> 09:33:02,0
+
+
+782
+09:33:02,0 --> 09:33:02,0
+
+
+783
+09:33:02,0 --> 09:33:02,0
+
+
+784
+09:33:02,0 --> 09:33:02,0
+
+
+785
+09:33:02,0 --> 09:42:05,
+entitled to a re-hearing, after examining the appeal and the evidences and statements accompanying it.
+
+786
+09:42:05,0 --> 09:42:05,0
+34 The twelve councilors then proceeded to cast lots or ballot, to ascertain who should speak first, and the following was the result, namely: 1, Oliver Cowdery; 2, Joseph Coe; 3, Samuel H. Smith; 4, Luke Johnson; 5, John S. Carter; 6, Sylvester Smith; 7, John Johnson; 8, Orson Hyde; 9, Jared Carter; 10, Joseph Smith, Sen.; 11, John Smith; 12, Martin Harris.After prayer the conference adjourned.Oliver Cowdery,Orson Hyde,Clerks
+
+787
+09:42:05,0 --> 09:42:05,0
+
+
+788
+09:42:05,0 --> 09:42:05,0
+
+
+789
+09:42:05,0 --> 09:42:05,0
+
+
+790
+09:42:05,0 --> 09:42:05,0
+
+
+791
+09:42:05,0 --> 09:42:05,0
+The
+
+792
+09:42:05,0 --> 09:42:05,0
+
+
+793
+09:42:05,0 --> 09:42:05,0
+
+
+794
+09:42:05,0 --> 09:42:05,0
+
+
+795
+09:42:05,0 --> 09:42:05,0
+
+
+796
+09:42:05,0 --> 09:42:05,0
+
+
+797
+09:42:05,0 --> 09:42:05,0
+
+
+798
+09:42:05,0 --> 09:42:05,0
+twelve
+
+799
+09:42:05,0 --> 09:42:05,0
+
+
+800
+09:42:05,0 --> 09:42:05,0
+
+
+801
+09:42:05,0 --> 09:42:05,0
+
+
+802
+09:42:05,0 --> 09:42:05,0
+
+
+803
+09:42:05,0 --> 09:42:05,0
+
+
+804
+09:42:05,0 --> 09:42:05,0
+
+
+805
+09:42:05,0 --> 09:42:05,0
+
+
+806
+09:42:05,0 --> 09:42:05,0
+
+
+807
+09:42:05,0 --> 09:42:05,0
+
+
+808
+09:42:05,0 --> 09:42:05,0
+
+
+809
+09:42:05,0 --> 09:42:05,0
+councilors
+
+810
+09:42:05,0 --> 09:42:05,0
+
+
+811
+09:42:05,0 --> 09:42:05,0
+
+
+812
+09:42:05,0 --> 09:42:05,0
+
+
+813
+09:42:05,0 --> 09:42:05,0
+
+
+814
+09:42:05,0 --> 09:42:05,0
+then
+
+815
+09:42:05,0 --> 09:42:05,0
+
+
+816
+09:42:05,0 --> 09:42:05,0
+
+
+817
+09:42:05,0 --> 09:42:05,0
+
+
+818
+09:42:05,0 --> 09:42:05,0
+
+
+819
+09:42:05,0 --> 09:42:05,0
+
+
+820
+09:42:05,0 --> 09:42:05,0
+
+
+821
+09:42:05,0 --> 09:42:05,0
+
+
+822
+09:42:05,0 --> 09:42:05,0
+
+
+823
+09:42:05,0 --> 09:42:05,0
+
+
+824
+09:42:05,0 --> 09:42:05,0
+proceeded
+
+825
+09:42:05,0 --> 09:42:05,0
+
+
+826
+09:42:05,0 --> 09:42:05,0
+
+
+827
+09:42:05,0 --> 09:42:05,0
+to
+
+828
+09:42:05,0 --> 09:42:05,0
+
+
+829
+09:42:05,0 --> 09:42:05,0
+
+
+830
+09:42:05,0 --> 09:42:05,0
+
+
+831
+09:42:05,0 --> 09:42:05,0
+
+
+832
+09:42:05,0 --> 09:42:05,0
+cast
+
+833
+09:42:05,0 --> 09:42:05,0
+
+
+834
+09:42:05,0 --> 09:42:05,0
+
+
+835
+09:42:05,0 --> 09:42:05,0
+
+
+836
+09:42:05,0 --> 09:42:05,0
+
+
+837
+09:42:05,0 --> 09:42:05,0
+lots
+
+838
+09:42:05,0 --> 09:42:05,0
+
+
+839
+09:42:05,0 --> 09:42:05,0
+
+
+840
+09:42:05,0 --> 09:42:05,0
+or
+
+841
+09:42:05,0 --> 09:42:05,0
+
+
+842
+09:42:05,0 --> 09:42:05,0
+
+
+843
+09:42:05,0 --> 09:42:05,0
+
+
+844
+09:42:05,0 --> 09:42:05,0
+
+
+845
+09:42:05,0 --> 09:42:05,0
+
+
+846
+09:42:05,0 --> 09:42:05,0
+
+
+847
+09:42:05,0 --> 09:42:05,0
+
+
+848
+09:42:05,0 --> 09:42:05,0
+ballot,
+
+849
+09:42:05,0 --> 09:42:05,0
+
+
+850
+09:42:05,0 --> 09:42:05,0
+
+
+851
+09:42:05,0 --> 09:42:05,0
+to
+
+852
+09:42:05,0 --> 09:42:05,0
+
+
+853
+09:42:05,0 --> 09:42:05,0
+
+
+854
+09:42:05,0 --> 09:42:05,0
+
+
+855
+09:42:05,0 --> 09:42:05,0
+
+
+856
+09:42:05,0 --> 09:42:05,0
+
+
+857
+09:42:05,0 --> 09:42:05,0
+
+
+858
+09:42:05,0 --> 09:42:05,0
+
+
+859
+09:42:05,0 --> 09:42:05,0
+
+
+860
+09:42:05,0 --> 09:42:05,0
+
+
+861
+09:42:05,0 --> 09:42:05,0
+ascertain
+
+862
+09:42:05,0 --> 09:42:05,0
+
+
+863
+09:42:05,0 --> 09:42:05,0
+
+
+864
+09:42:05,0 --> 09:42:05,0
+
+
+865
+09:42:05,0 --> 09:42:05,0
+who
+
+866
+09:42:05,0 --> 09:42:05,0
+
+
+867
+09:42:05,0 --> 09:42:05,0
+
+
+868
+09:42:05,0 --> 09:42:05,0
+
+
+869
+09:42:05,0 --> 09:42:05,0
+
+
+870
+09:42:05,0 --> 09:42:05,0
+
+
+871
+09:42:05,0 --> 09:42:05,0
+
+
+872
+09:42:05,0 --> 09:42:05,0
+should
+
+873
+09:42:05,0 --> 09:42:05,0
+
+
+874
+09:42:05,0 --> 09:42:05,0
+
+
+875
+09:42:05,0 --> 09:42:05,0
+
+
+876
+09:42:05,0 --> 09:42:05,0
+
+
+877
+09:42:05,0 --> 09:42:05,0
+
+
+878
+09:42:05,0 --> 09:42:05,0
+speak
+
+879
+09:42:05,0 --> 09:42:05,0
+
+
+880
+09:42:05,0 --> 09:42:05,0
+
+
+881
+09:42:05,0 --> 09:42:05,0
+
+
+882
+09:42:05,0 --> 09:42:05,0
+
+
+883
+09:42:05,0 --> 09:42:05,0
+
+
+884
+09:42:05,0 --> 09:42:05,0
+
+
+885
+09:42:05,0 --> 09:42:05,0
+first,
+
+886
+09:42:05,0 --> 09:42:05,0
+
+
+887
+09:42:05,0 --> 09:42:05,0
+
+
+888
+09:42:05,0 --> 09:42:05,0
+
+
+889
+09:42:05,0 --> 09:42:05,0
+and
+
+890
+09:42:05,0 --> 09:42:05,0
+
+
+891
+09:42:05,0 --> 09:42:05,0
+
+
+892
+09:42:05,0 --> 09:42:05,0
+
+
+893
+09:42:05,0 --> 09:42:05,0
+the
+
+894
+09:42:05,0 --> 09:42:05,0
+
+
+895
+09:42:05,0 --> 09:42:05,0
+
+
+896
+09:42:05,0 --> 09:42:05,0
+
+
+897
+09:42:05,0 --> 09:42:05,0
+
+
+898
+09:42:05,0 --> 09:42:05,0
+
+
+899
+09:42:05,0 --> 09:42:05,0
+
+
+900
+09:42:05,0 --> 09:42:05,0
+
+
+901
+09:42:05,0 --> 09:42:05,0
+
+
+902
+09:42:05,0 --> 09:42:05,0
+
+
+903
+09:42:05,0 --> 09:42:05,0
+following
+
+904
+09:42:05,0 --> 09:42:05,0
+
+
+905
+09:42:05,0 --> 09:42:05,0
+
+
+906
+09:42:05,0 --> 09:42:05,0
+
+
+907
+09:42:05,0 --> 09:42:05,0
+was
+
+908
+09:42:05,0 --> 09:42:05,0
+
+
+909
+09:42:05,0 --> 09:42:05,0
+
+
+910
+09:42:05,0 --> 09:42:05,0
+
+
+911
+09:42:05,0 --> 09:42:05,0
+the
+
+912
+09:42:05,0 --> 09:42:05,0
+
+
+913
+09:42:05,0 --> 09:42:05,0
+
+
+914
+09:42:05,0 --> 09:42:05,0
+
+
+915
+09:42:05,0 --> 09:42:05,0
+
+
+916
+09:42:05,0 --> 09:42:05,0
+
+
+917
+09:42:05,0 --> 09:42:05,0
+
+
+918
+09:42:05,0 --> 09:42:05,0
+
+
+919
+09:42:05,0 --> 09:42:05,0
+result,
+
+920
+09:42:05,0 --> 09:42:05,0
+
+
+921
+09:42:05,0 --> 09:42:05,0
+
+
+922
+09:42:05,0 --> 09:42:05,0
+
+
+923
+09:42:05,0 --> 09:42:05,0
+
+
+924
+09:42:05,0 --> 09:42:05,0
+
+
+925
+09:42:05,0 --> 09:42:05,0
+
+
+926
+09:42:05,0 --> 09:42:05,0
+
+
+927
+09:42:05,0 --> 09:42:05,0
+namely:
+
+928
+09:42:05,0 --> 09:42:05,0
+
+
+929
+09:42:05,0 --> 09:42:05,0
+
+
+930
+09:42:05,0 --> 09:42:05,0
+1,
+
+931
+09:42:05,0 --> 09:42:05,0
+
+
+932
+09:42:05,0 --> 09:42:05,0
+
+
+933
+09:42:05,0 --> 09:42:05,0
+
+
+934
+09:42:05,0 --> 09:42:05,0
+
+
+935
+09:42:05,0 --> 09:42:05,0
+
+
+936
+09:42:05,0 --> 09:42:05,0
+
+
+937
+09:42:05,0 --> 09:42:05,0
+Oliver
+
+938
+09:42:05,0 --> 09:42:05,0
+
+
+939
+09:42:05,0 --> 09:42:05,0
+
+
+940
+09:42:05,0 --> 09:42:05,0
+
+
+941
+09:42:05,0 --> 09:42:05,0
+
+
+942
+09:42:05,0 --> 09:42:05,0
+
+
+943
+09:42:05,0 --> 09:42:05,0
+
+
+944
+09:42:05,0 --> 09:42:05,0
+
+
+945
+09:42:05,0 --> 09:42:05,0
+
+
+946
+09:42:05,0 --> 09:42:05,0
+Cowdery;
+
+947
+09:42:05,0 --> 09:42:05,0
+
+
+948
+09:42:05,0 --> 09:42:05,0
+
+
+949
+09:42:05,0 --> 09:42:05,0
+2,
+
+950
+09:42:05,0 --> 09:42:05,0
+
+
+951
+09:42:05,0 --> 09:42:05,0
+
+
+952
+09:42:05,0 --> 09:42:05,0
+
+
+953
+09:42:05,0 --> 09:42:05,0
+
+
+954
+09:42:05,0 --> 09:42:05,0
+
+
+955
+09:42:05,0 --> 09:42:05,0
+
+
+956
+09:42:05,0 --> 09:42:05,0
+Joseph
+
+957
+09:42:05,0 --> 09:42:05,0
+
+
+958
+09:42:05,0 --> 09:42:05,0
+
+
+959
+09:42:05,0 --> 09:42:05,0
+
+
+960
+09:42:05,0 --> 09:42:05,0
+
+
+961
+09:42:05,0 --> 09:42:05,0
+Coe;
+
+962
+09:42:05,0 --> 09:42:05,0
+
+
+963
+09:42:05,0 --> 09:42:05,0
+
+
+964
+09:42:05,0 --> 09:42:05,0
+3,
+
+965
+09:42:05,0 --> 09:42:05,0
+
+
+966
+09:42:05,0 --> 09:42:05,0
+
+
+967
+09:42:05,0 --> 09:42:05,0
+
+
+968
+09:42:05,0 --> 09:42:05,0
+
+
+969
+09:42:05,0 --> 09:42:05,0
+
+
+970
+09:42:05,0 --> 09:42:05,0
+
+
+971
+09:42:05,0 --> 09:42:05,0
+
+
+972
+09:42:05,0 --> 09:42:05,0
+
+
+973
+09:42:05,0 --> 09:42:05,0
+
+
+974
+09:42:05,0 --> 09:42:05,0
+Samuel H.
+
+975
+09:42:05,0 --> 09:42:05,0
+
+
+976
+09:42:05,0 --> 09:42:05,0
+
+
+977
+09:42:05,0 --> 09:42:05,0
+
+
+978
+09:42:05,0 --> 09:42:05,0
+
+
+979
+09:42:05,0 --> 09:42:05,0
+
+
+980
+09:42:05,0 --> 09:42:05,0
+
+
+981
+09:42:05,0 --> 09:42:05,0
+Smith;
+
+982
+09:42:05,0 --> 09:42:05,0
+
+
+983
+09:42:05,0 --> 09:42:05,0
+
+
+984
+09:42:05,0 --> 09:42:05,0
+4,
+
+985
+09:42:05,0 --> 09:42:05,0
+
+
+986
+09:42:05,0 --> 09:42:05,0
+
+
+987
+09:42:05,0 --> 09:42:05,0
+
+
+988
+09:42:05,0 --> 09:42:05,0
+
+
+989
+09:42:05,0 --> 09:42:05,0
+Luke
+
+990
+09:42:05,0 --> 09:42:05,0
+
+
+991
+09:42:05,0 --> 09:42:05,0
+
+
+992
+09:42:05,0 --> 09:42:05,0
+
+
+993
+09:42:05,0 --> 09:42:05,0
+
+
+994
+09:42:05,0 --> 09:42:05,0
+
+
+995
+09:42:05,0 --> 09:42:05,0
+
+
+996
+09:42:05,0 --> 09:42:05,0
+
+
+997
+09:42:05,0 --> 09:42:05,0
+
+
+998
+09:42:05,0 --> 09:42:05,0
+Johnson;
+
+999
+09:42:05,0 --> 09:42:05,0
+
+
+1000
+09:42:05,0 --> 09:42:05,0
+
+
+1001
+09:42:05,0 --> 10:01:42,
+5, John S. Carter; 6, Sylvester Smith; 7, John Johnson; 8, Orson Hyde; 9, Jared Carter; 10, Joseph Smith, Sen.; 11, John Smith; 12, Martin Harris.After prayer the conference adjourned.Oliver Cowdery,Orson Hyde,Clerks 
+
+1002
+10:01:42,0 --> 10:01:42,0
+Section 102 Minutes of the organization of the first high council of the Church, at Kirtland, Ohio, February 17, 1834. The original minutes were recorded by Elders Oliver Cowdery and Orson Hyde. The Prophet revised the minutes the following day, and the next day the corrected minutes were unanimously accepted by the high council as “a form and constitution of the high council” of the Church.
+
+1003
+10:01:42,0 --> 10:01:42,0
+
+
+1004
+10:01:42,0 --> 10:01:42,0
+
+
+1005
+10:01:42,0 --> 10:01:42,0
+
+
+1006
+10:01:42,0 --> 10:01:42,0
+
+
+1007
+10:01:42,0 --> 10:01:42,0
+
+
+1008
+10:01:42,0 --> 10:01:42,0
+
+
+1009
+10:01:42,0 --> 10:01:42,0
+
+
+1010
+10:01:42,0 --> 10:01:42,0
+
+
+1011
+10:01:42,0 --> 10:01:42,0
+
+
+1012
+10:01:42,0 --> 10:01:42,0
+102
+
+1013
+10:01:42,0 --> 10:01:42,0
+
+
+1014
+10:01:42,0 --> 10:01:42,0
+
+
+1015
+10:01:42,0 --> 10:01:42,0
+
+
+1016
+10:01:42,0 --> 10:01:42,0
+
+
+1017
+10:01:42,0 --> 10:01:42,0
+
+
+1018
+10:01:42,0 --> 10:01:42,0
+
+
+1019
+10:01:42,0 --> 10:01:42,0
+
+
+1020
+10:01:42,0 --> 10:01:42,0
+Minutes
+
+1021
+10:01:42,0 --> 10:01:42,0
+
+
+1022
+10:01:42,0 --> 10:01:42,0
+
+
+1023
+10:01:42,0 --> 10:01:42,0
+of
+
+1024
+10:01:42,0 --> 10:01:42,0
+
+
+1025
+10:01:42,0 --> 10:01:42,0
+
+
+1026
+10:01:42,0 --> 10:01:42,0
+
+
+1027
+10:01:42,0 --> 10:01:42,0
+the
+
+1028
+10:01:42,0 --> 10:01:42,0
+
+
+1029
+10:01:42,0 --> 10:01:42,0
+
+
+1030
+10:01:42,0 --> 10:01:42,0
+
+
+1031
+10:01:42,0 --> 10:01:42,0
+
+
+1032
+10:01:42,0 --> 10:01:42,0
+
+
+1033
+10:01:42,0 --> 10:01:42,0
+
+
+1034
+10:01:42,0 --> 10:01:42,0
+
+
+1035
+10:01:42,0 --> 10:01:42,0
+
+
+1036
+10:01:42,0 --> 10:01:42,0
+
+
+1037
+10:01:42,0 --> 10:01:42,0
+
+
+1038
+10:01:42,0 --> 10:01:42,0
+
+
+1039
+10:01:42,0 --> 10:01:42,0
+
+
+1040
+10:01:42,0 --> 10:01:42,0
+organization
+
+1041
+10:01:42,0 --> 10:01:42,0
+
+
+1042
+10:01:42,0 --> 10:01:42,0
+
+
+1043
+10:01:42,0 --> 10:01:42,0
+of
+
+1044
+10:01:42,0 --> 10:01:42,0
+
+
+1045
+10:01:42,0 --> 10:01:42,0
+
+
+1046
+10:01:42,0 --> 10:01:42,0
+
+
+1047
+10:01:42,0 --> 10:01:42,0
+the
+
+1048
+10:01:42,0 --> 10:01:42,0
+
+
+1049
+10:01:42,0 --> 10:01:42,0
+
+
+1050
+10:01:42,0 --> 10:01:42,0
+
+
+1051
+10:01:42,0 --> 10:01:42,0
+
+
+1052
+10:01:42,0 --> 10:01:42,0
+
+
+1053
+10:01:42,0 --> 10:01:42,0
+first
+
+1054
+10:01:42,0 --> 10:01:42,0
+
+
+1055
+10:01:42,0 --> 10:01:42,0
+
+
+1056
+10:01:42,0 --> 10:01:42,0
+
+
+1057
+10:01:42,0 --> 10:01:42,0
+
+
+1058
+10:01:42,0 --> 10:01:42,0
+high
+
+1059
+10:01:42,0 --> 10:01:42,0
+
+
+1060
+10:01:42,0 --> 10:01:42,0
+
+
+1061
+10:01:42,0 --> 10:01:42,0
+
+
+1062
+10:01:42,0 --> 10:01:42,0
+
+
+1063
+10:01:42,0 --> 10:01:42,0
+
+
+1064
+10:01:42,0 --> 10:01:42,0
+
+
+1065
+10:01:42,0 --> 10:01:42,0
+
+
+1066
+10:01:42,0 --> 10:01:42,0
+council
+
+1067
+10:01:42,0 --> 10:01:42,0
+
+
+1068
+10:01:42,0 --> 10:01:42,0
+
+
+1069
+10:01:42,0 --> 10:01:42,0
+of
+
+1070
+10:01:42,0 --> 10:01:42,0
+
+
+1071
+10:01:42,0 --> 10:01:42,0
+
+
+1072
+10:01:42,0 --> 10:01:42,0
+
+
+1073
+10:01:42,0 --> 10:01:42,0
+the
+
+1074
+10:01:42,0 --> 10:01:42,0
+
+
+1075
+10:01:42,0 --> 10:01:42,0
+
+
+1076
+10:01:42,0 --> 10:01:42,0
+
+
+1077
+10:01:42,0 --> 10:01:42,0
+
+
+1078
+10:01:42,0 --> 10:01:42,0
+
+
+1079
+10:01:42,0 --> 10:01:42,0
+
+
+1080
+10:01:42,0 --> 10:01:42,0
+
+
+1081
+10:01:42,0 --> 10:01:42,0
+Church,
+
+1082
+10:01:42,0 --> 10:01:42,0
+
+
+1083
+10:01:42,0 --> 10:01:42,0
+
+
+1084
+10:01:42,0 --> 10:01:42,0
+at
+
+1085
+10:01:42,0 --> 10:01:42,0
+
+
+1086
+10:01:42,0 --> 10:01:42,0
+
+
+1087
+10:01:42,0 --> 10:01:42,0
+
+
+1088
+10:01:42,0 --> 10:01:42,0
+
+
+1089
+10:01:42,0 --> 10:01:42,0
+
+
+1090
+10:01:42,0 --> 10:01:42,0
+
+
+1091
+10:01:42,0 --> 10:01:42,0
+
+
+1092
+10:01:42,0 --> 10:01:42,0
+
+
+1093
+10:01:42,0 --> 10:01:42,0
+
+
+1094
+10:01:42,0 --> 10:01:42,0
+Kirtland,
+
+1095
+10:01:42,0 --> 10:01:42,0
+
+
+1096
+10:01:42,0 --> 10:01:42,0
+
+
+1097
+10:01:42,0 --> 10:01:42,0
+
+
+1098
+10:01:42,0 --> 10:01:42,0
+
+
+1099
+10:01:42,0 --> 10:01:42,0
+
+
+1100
+10:01:42,0 --> 10:01:42,0
+Ohio,
+
+1101
+10:01:42,0 --> 10:01:42,0
+
+
+1102
+10:01:42,0 --> 10:01:42,0
+
+
+1103
+10:01:42,0 --> 10:01:42,0
+
+
+1104
+10:01:42,0 --> 10:01:42,0
+
+
+1105
+10:01:42,0 --> 10:01:42,0
+
+
+1106
+10:01:42,0 --> 10:01:42,0
+
+
+1107
+10:01:42,0 --> 10:01:42,0
+
+
+1108
+10:01:42,0 --> 10:01:42,0
+
+
+1109
+10:01:42,0 --> 10:01:42,0
+February
+
+1110
+10:01:42,0 --> 10:01:42,0
+
+
+1111
+10:01:42,0 --> 10:01:42,0
+
+
+1112
+10:01:42,0 --> 10:01:42,0
+
+
+1113
+10:01:42,0 --> 10:01:42,0
+17,
+
+1114
+10:01:42,0 --> 10:01:42,0
+
+
+1115
+10:01:42,0 --> 10:01:42,0
+
+
+1116
+10:01:42,0 --> 10:01:42,0
+
+
+1117
+10:01:42,0 --> 10:01:42,0
+
+
+1118
+10:01:42,0 --> 10:01:42,0
+
+
+1119
+10:01:42,0 --> 10:01:42,0
+1834.
+
+1120
+10:01:42,0 --> 10:01:42,0
+
+
+1121
+10:01:42,0 --> 10:01:42,0
+
+
+1122
+10:01:42,0 --> 10:01:42,0
+
+
+1123
+10:01:42,0 --> 10:01:42,0
+The
+
+1124
+10:01:42,0 --> 10:01:42,0
+
+
+1125
+10:01:42,0 --> 10:01:42,0
+
+
+1126
+10:01:42,0 --> 10:01:42,0
+
+
+1127
+10:01:42,0 --> 10:01:42,0
+
+
+1128
+10:01:42,0 --> 10:01:42,0
+
+
+1129
+10:01:42,0 --> 10:01:42,0
+
+
+1130
+10:01:42,0 --> 10:01:42,0
+
+
+1131
+10:01:42,0 --> 10:01:42,0
+
+
+1132
+10:01:42,0 --> 10:01:42,0
+original
+
+1133
+10:01:42,0 --> 10:01:42,0
+
+
+1134
+10:01:42,0 --> 10:01:42,0
+
+
+1135
+10:01:42,0 --> 10:01:42,0
+
+
+1136
+10:01:42,0 --> 10:01:42,0
+
+
+1137
+10:01:42,0 --> 10:01:42,0
+
+
+1138
+10:01:42,0 --> 10:01:42,0
+
+
+1139
+10:01:42,0 --> 10:01:42,0
+
+
+1140
+10:01:42,0 --> 10:01:42,0
+minutes
+
+1141
+10:01:42,0 --> 10:01:42,0
+
+
+1142
+10:01:42,0 --> 10:01:42,0
+
+
+1143
+10:01:42,0 --> 10:01:42,0
+
+
+1144
+10:01:42,0 --> 10:01:42,0
+
+
+1145
+10:01:42,0 --> 10:01:42,0
+were
+
+1146
+10:01:42,0 --> 10:01:42,0
+
+
+1147
+10:01:42,0 --> 10:01:42,0
+
+
+1148
+10:01:42,0 --> 10:01:42,0
+
+
+1149
+10:01:42,0 --> 10:01:42,0
+
+
+1150
+10:01:42,0 --> 10:01:42,0
+
+
+1151
+10:01:42,0 --> 10:01:42,0
+
+
+1152
+10:01:42,0 --> 10:01:42,0
+
+
+1153
+10:01:42,0 --> 10:01:42,0
+
+
+1154
+10:01:42,0 --> 10:01:42,0
+recorded
+
+1155
+10:01:42,0 --> 10:01:42,0
+
+
+1156
+10:01:42,0 --> 10:01:42,0
+
+
+1157
+10:01:42,0 --> 10:01:42,0
+by
+
+1158
+10:01:42,0 --> 10:01:42,0
+
+
+1159
+10:01:42,0 --> 10:01:42,0
+
+
+1160
+10:01:42,0 --> 10:01:42,0
+
+
+1161
+10:01:42,0 --> 10:01:42,0
+
+
+1162
+10:01:42,0 --> 10:01:42,0
+
+
+1163
+10:01:42,0 --> 10:01:42,0
+
+
+1164
+10:01:42,0 --> 10:01:42,0
+Elders
+
+1165
+10:01:42,0 --> 10:01:42,0
+
+
+1166
+10:01:42,0 --> 10:01:42,0
+
+
+1167
+10:01:42,0 --> 10:01:42,0
+
+
+1168
+10:01:42,0 --> 10:01:42,0
+
+
+1169
+10:01:42,0 --> 10:01:42,0
+
+
+1170
+10:01:42,0 --> 10:01:42,0
+
+
+1171
+10:01:42,0 --> 10:01:42,0
+Oliver
+
+1172
+10:01:42,0 --> 10:01:42,0
+
+
+1173
+10:01:42,0 --> 10:01:42,0
+
+
+1174
+10:01:42,0 --> 10:01:42,0
+
+
+1175
+10:01:42,0 --> 10:01:42,0
+
+
+1176
+10:01:42,0 --> 10:01:42,0
+
+
+1177
+10:01:42,0 --> 10:01:42,0
+
+
+1178
+10:01:42,0 --> 10:01:42,0
+
+
+1179
+10:01:42,0 --> 10:01:42,0
+Cowdery
+
+1180
+10:01:42,0 --> 10:01:42,0
+
+
+1181
+10:01:42,0 --> 10:01:42,0
+
+
+1182
+10:01:42,0 --> 10:01:42,0
+
+
+1183
+10:01:42,0 --> 10:01:42,0
+and
+
+1184
+10:01:42,0 --> 10:01:42,0
+
+
+1185
+10:01:42,0 --> 10:01:42,0
+
+
+1186
+10:01:42,0 --> 10:01:42,0
+
+
+1187
+10:01:42,0 --> 10:01:42,0
+
+
+1188
+10:01:42,0 --> 10:01:42,0
+
+
+1189
+10:01:42,0 --> 10:01:42,0
+Orson
+
+1190
+10:01:42,0 --> 10:01:42,0
+
+
+1191
+10:01:42,0 --> 10:01:42,0
+
+
+1192
+10:01:42,0 --> 10:01:42,0
+
+
+1193
+10:01:42,0 --> 10:01:42,0
+
+
+1194
+10:01:42,0 --> 10:01:42,0
+
+
+1195
+10:01:42,0 --> 10:01:42,0
+Hyde.
+
+1196
+10:01:42,0 --> 10:01:42,0
+
+
+1197
+10:01:42,0 --> 10:01:42,0
+
+
+1198
+10:01:42,0 --> 10:01:42,0
+
+
+1199
+10:01:42,0 --> 10:01:42,0
+The
+
+1200
+10:01:42,0 --> 10:01:42,0
+
+
+1201
+10:01:42,0 --> 10:01:42,0
+
+
+1202
+10:01:42,0 --> 10:01:42,0
+
+
+1203
+10:01:42,0 --> 10:01:42,0
+
+
+1204
+10:01:42,0 --> 10:01:42,0
+
+
+1205
+10:01:42,0 --> 10:01:42,0
+
+
+1206
+10:01:42,0 --> 10:01:42,0
+
+
+1207
+10:01:42,0 --> 10:01:42,0
+Prophet
+
+1208
+10:01:42,0 --> 10:01:42,0
+
+
+1209
+10:01:42,0 --> 10:01:42,0
+
+
+1210
+10:01:42,0 --> 10:01:42,0
+
+
+1211
+10:01:42,0 --> 10:01:42,0
+
+
+1212
+10:01:42,0 --> 10:01:42,0
+
+
+1213
+10:01:42,0 --> 10:01:42,0
+
+
+1214
+10:01:42,0 --> 10:01:42,0
+
+
+1215
+10:01:42,0 --> 10:01:42,0
+revised
+
+1216
+10:01:42,0 --> 10:01:42,0
+
+
+1217
+10:01:42,0 --> 10:01:42,0
+
+
+1218
+10:01:42,0 --> 10:01:42,0
+
+
+1219
+10:01:42,0 --> 10:01:42,0
+the
+
+1220
+10:01:42,0 --> 10:01:42,0
+
+
+1221
+10:01:42,0 --> 10:01:42,0
+
+
+1222
+10:01:42,0 --> 10:01:42,0
+
+
+1223
+10:01:42,0 --> 10:01:42,0
+
+
+1224
+10:01:42,0 --> 10:01:42,0
+
+
+1225
+10:01:42,0 --> 10:01:42,0
+
+
+1226
+10:01:42,0 --> 10:01:42,0
+
+
+1227
+10:01:42,0 --> 10:01:42,0
+minutes
+
+1228
+10:01:42,0 --> 10:01:42,0
+
+
+1229
+10:01:42,0 --> 10:01:42,0
+
+
+1230
+10:01:42,0 --> 10:01:42,0
+
+
+1231
+10:01:42,0 --> 10:01:42,0
+the
+
+1232
+10:01:42,0 --> 10:01:42,0
+
+
+1233
+10:01:42,0 --> 10:01:42,0
+
+
+1234
+10:01:42,0 --> 10:01:42,0
+
+
+1235
+10:01:42,0 --> 10:01:42,0
+
+
+1236
+10:01:42,0 --> 10:01:42,0
+
+
+1237
+10:01:42,0 --> 10:01:42,0
+
+
+1238
+10:01:42,0 --> 10:01:42,0
+
+
+1239
+10:01:42,0 --> 10:01:42,0
+
+
+1240
+10:01:42,0 --> 10:01:42,0
+
+
+1241
+10:01:42,0 --> 10:01:42,0
+following
+
+1242
+10:01:42,0 --> 10:01:42,0
+
+
+1243
+10:01:42,0 --> 10:01:42,0
+
+
+1244
+10:01:42,0 --> 10:01:42,0
+
+
+1245
+10:01:42,0 --> 10:01:42,0
+
+
+1246
+10:01:42,0 --> 10:01:42,0
+day,
+
+1247
+10:01:42,0 --> 10:01:42,0
+
+
+1248
+10:01:42,0 --> 10:01:42,0
+
+
+1249
+10:01:42,0 --> 10:01:42,0
+
+
+1250
+10:01:42,0 --> 10:01:42,0
+and
+
+1251
+10:01:42,0 --> 10:01:42,0
+
+
+1252
+10:01:42,0 --> 10:01:42,0
+
+
+1253
+10:01:42,0 --> 10:01:42,0
+
+
+1254
+10:01:42,0 --> 10:01:42,0
+the
+
+1255
+10:01:42,0 --> 10:01:42,0
+
+
+1256
+10:01:42,0 --> 10:01:42,0
+
+
+1257
+10:01:42,0 --> 10:01:42,0
+
+
+1258
+10:01:42,0 --> 10:01:42,0
+
+
+1259
+10:01:42,0 --> 10:01:42,0
+next
+
+1260
+10:01:42,0 --> 10:01:42,0
+
+
+1261
+10:01:42,0 --> 10:01:42,0
+
+
+1262
+10:01:42,0 --> 10:01:42,0
+
+
+1263
+10:01:42,0 --> 10:01:42,0
+day
+
+1264
+10:01:42,0 --> 10:01:42,0
+
+
+1265
+10:01:42,0 --> 10:01:42,0
+
+
+1266
+10:01:42,0 --> 10:01:42,0
+
+
+1267
+10:01:42,0 --> 10:01:42,0
+the
+
+1268
+10:01:42,0 --> 10:01:42,0
+
+
+1269
+10:01:42,0 --> 10:01:42,0
+
+
+1270
+10:01:42,0 --> 10:01:42,0
+
+
+1271
+10:01:42,0 --> 10:01:42,0
+
+
+1272
+10:01:42,0 --> 10:01:42,0
+
+
+1273
+10:01:42,0 --> 10:01:42,0
+
+
+1274
+10:01:42,0 --> 10:01:42,0
+
+
+1275
+10:01:42,0 --> 10:01:42,0
+
+
+1276
+10:01:42,0 --> 10:01:42,0
+
+
+1277
+10:01:42,0 --> 10:01:42,0
+corrected
+
+1278
+10:01:42,0 --> 10:01:42,0
+
+
+1279
+10:01:42,0 --> 10:01:42,0
+
+
+1280
+10:01:42,0 --> 10:01:42,0
+
+
+1281
+10:01:42,0 --> 10:01:42,0
+
+
+1282
+10:01:42,0 --> 10:01:42,0
+
+
+1283
+10:01:42,0 --> 10:01:42,0
+
+
+1284
+10:01:42,0 --> 10:01:42,0
+
+
+1285
+10:01:42,0 --> 10:01:42,0
+minutes
+
+1286
+10:01:42,0 --> 10:01:42,0
+
+
+1287
+10:01:42,0 --> 10:01:42,0
+
+
+1288
+10:01:42,0 --> 10:01:42,0
+
+
+1289
+10:01:42,0 --> 10:01:42,0
+
+
+1290
+10:01:42,0 --> 10:01:42,0
+were
+
+1291
+10:01:42,0 --> 10:01:42,0
+
+
+1292
+10:01:42,0 --> 10:01:42,0
+
+
+1293
+10:01:42,0 --> 10:01:42,0
+
+
+1294
+10:01:42,0 --> 10:01:42,0
+
+
+1295
+10:01:42,0 --> 10:01:42,0
+
+
+1296
+10:01:42,0 --> 10:01:42,0
+
+
+1297
+10:01:42,0 --> 10:01:42,0
+
+
+1298
+10:01:42,0 --> 10:01:42,0
+
+
+1299
+10:01:42,0 --> 10:01:42,0
+
+
+1300
+10:01:42,0 --> 10:01:42,0
+
+
+1301
+10:01:42,0 --> 10:01:42,0
+
+
+1302
+10:01:42,0 --> 10:01:42,0
+unanimously
+
+1303
+10:01:42,0 --> 10:01:42,0
+
+
+1304
+10:01:42,0 --> 10:01:42,0
+
+
+1305
+10:01:42,0 --> 10:01:42,0
+
+
+1306
+10:01:42,0 --> 10:01:42,0
+
+
+1307
+10:01:42,0 --> 10:01:42,0
+
+
+1308
+10:01:42,0 --> 10:01:42,0
+
+
+1309
+10:01:42,0 --> 10:01:42,0
+
+
+1310
+10:01:42,0 --> 10:01:42,0
+
+
+1311
+10:01:42,0 --> 10:01:42,0
+accepted
+
+1312
+10:01:42,0 --> 10:01:42,0
+
+
+1313
+10:01:42,0 --> 10:01:42,0
+
+
+1314
+10:01:42,0 --> 10:01:42,0
+by
+
+1315
+10:01:42,0 --> 10:01:42,0
+
+
+1316
+10:01:42,0 --> 10:01:42,0
+
+
+1317
+10:01:42,0 --> 10:01:42,0
+
+
+1318
+10:01:42,0 --> 10:01:42,0
+the
+
+1319
+10:01:42,0 --> 10:01:42,0
+
+
+1320
+10:01:42,0 --> 10:01:42,0
+
+
+1321
+10:01:42,0 --> 10:01:42,0
+
+
+1322
+10:01:42,0 --> 10:01:42,0
+
+
+1323
+10:01:42,0 --> 10:01:42,0
+high
+
+1324
+10:01:42,0 --> 10:01:42,0
+
+
+1325
+10:01:42,0 --> 10:01:42,0
+
+
+1326
+10:01:42,0 --> 10:01:42,0
+
+
+1327
+10:01:42,0 --> 10:01:42,0
+
+
+1328
+10:01:42,0 --> 10:01:42,0
+
+
+1329
+10:01:42,0 --> 10:01:42,0
+
+
+1330
+10:01:42,0 --> 10:01:42,0
+
+
+1331
+10:01:42,0 --> 10:01:42,0
+council
+
+1332
+10:01:42,0 --> 10:01:42,0
+
+
+1333
+10:01:42,0 --> 10:01:42,0
+
+
+1334
+10:01:42,0 --> 10:01:42,0
+as
+
+1335
+10:01:42,0 --> 10:01:42,0
+
+
+1336
+10:01:42,0 --> 10:01:42,0
+
+
+1337
+10:01:42,0 --> 10:01:42,0
+“a
+
+1338
+10:01:42,0 --> 10:01:42,0
+
+
+1339
+10:01:42,0 --> 10:01:42,0
+
+
+1340
+10:01:42,0 --> 10:01:42,0
+
+
+1341
+10:01:42,0 --> 10:01:42,0
+
+
+1342
+10:01:42,0 --> 10:01:42,0
+form
+
+1343
+10:01:42,0 --> 10:01:42,0
+
+
+1344
+10:01:42,0 --> 10:01:42,0
+
+
+1345
+10:01:42,0 --> 10:01:42,0
+
+
+1346
+10:01:42,0 --> 10:01:42,0
+and
+
+1347
+10:01:42,0 --> 10:01:42,0
+
+
+1348
+10:01:42,0 --> 10:01:42,0
+
+
+1349
+10:01:42,0 --> 10:01:42,0
+
+
+1350
+10:01:42,0 --> 10:01:42,0
+
+
+1351
+10:01:42,0 --> 10:01:42,0
+
+
+1352
+10:01:42,0 --> 10:01:42,0
+
+
+1353
+10:01:42,0 --> 10:01:42,0
+
+
+1354
+10:01:42,0 --> 10:01:42,0
+
+
+1355
+10:01:42,0 --> 10:01:42,0
+
+
+1356
+10:01:42,0 --> 10:01:42,0
+
+
+1357
+10:01:42,0 --> 10:01:42,0
+
+
+1358
+10:01:42,0 --> 10:01:42,0
+
+
+1359
+10:01:42,0 --> 10:01:42,0
+constitution
+
+1360
+10:01:42,0 --> 10:01:42,0
+
+
+1361
+10:01:42,0 --> 10:01:42,0
+
+
+1362
+10:01:42,0 --> 10:01:42,0
+of
+
+1363
+10:01:42,0 --> 10:01:42,0
+
+
+1364
+10:01:42,0 --> 10:01:42,0
+
+
+1365
+10:01:42,0 --> 10:01:42,0
+
+
+1366
+10:01:42,0 --> 10:01:42,0
+the
+
+1367
+10:01:42,0 --> 10:01:42,0
+
+
+1368
+10:01:42,0 --> 10:01:42,0
+
+
+1369
+10:01:42,0 --> 10:01:42,0
+
+
+1370
+10:01:42,0 --> 10:01:42,0
+
+
+1371
+10:01:42,0 --> 10:01:42,0
+high
+
+1372
+10:01:42,0 --> 10:01:42,0
+
+
+1373
+10:01:42,0 --> 10:01:42,0
+
+
+1374
+10:01:42,0 --> 10:01:42,0
+
+
+1375
+10:01:42,0 --> 10:01:42,0
+
+
+1376
+10:01:42,0 --> 10:01:42,0
+
+
+1377
+10:01:42,0 --> 10:01:42,0
+
+
+1378
+10:01:42,0 --> 10:01:42,0
+
+
+1379
+10:01:42,0 --> 10:01:42,0
+
+
+1380
+10:01:42,0 --> 10:01:42,0
+council”
+
+1381
+10:01:42,0 --> 10:01:42,0
+
+
+1382
+10:01:42,0 --> 10:01:42,0
+
+
+1383
+10:01:42,0 --> 10:01:42,0
+of
+
+1384
+10:01:42,0 --> 10:01:42,0
+
+
+1385
+10:01:42,0 --> 10:01:42,0
+
+
+1386
+10:01:42,0 --> 10:01:42,0
+
+
+1387
+10:01:42,0 --> 10:01:42,0
+the
+
+1388
+10:01:42,0 --> 10:01:42,0
+
+
+1389
+10:01:42,0 --> 10:01:42,0
+
+
+1390
+10:01:42,0 --> 10:01:42,0
+
+
+1391
+10:01:42,0 --> 10:01:42,0
+
+
+1392
+10:01:42,0 --> 10:01:42,0
+
+
+1393
+10:01:42,0 --> 10:01:42,0
+
+
+1394
+10:01:42,0 --> 10:01:42,0
+
+
+1395
+10:01:42,0 --> 10:01:42,0
+Church.
+
+1396
+10:01:42,0 --> 10:04:44,
+
 

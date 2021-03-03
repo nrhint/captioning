@@ -1,510 +1,784 @@
 1
-00:00:11,278 --> 00:00:19,556
+00:00:00,0 --> 00:00:00,0
 Section 134 A declaration of belief regarding
 
 2
-00:00:19,556 --> 00:00:27,834
- governments and laws in general, adopted by unanimous
+00:00:00,0 --> 00:00:00,0
+governments and laws in general, adopted by
 
 3
-00:00:27,834 --> 00:00:36,112
- vote at a general assembly of the Church held at
+00:00:00,0 --> 00:00:00,0
+unanimous vote at a general assembly of the Church
 
 4
-00:00:36,112 --> 00:00:44,39
- Kirtland, Ohio, August 17, 1835. Many Saints
+00:00:00,0 --> 00:00:00,0
+held at Kirtland, Ohio, August 17, 1835. Many
 
 5
-00:00:44,39 --> 00:00:52,668
- gathered together to consider the proposed contents of
+00:00:00,0 --> 00:00:00,0
+Saints gathered together to consider the proposed
 
 6
-00:00:52,668 --> 00:01:00,946
- the first edition of the Doctrine and Covenants. At
+00:00:00,0 --> 00:00:00,0
+contents of the first edition of the Doctrine and
 
 7
-00:01:00,946 --> 00:01:09,224
- that time, this declaration was given the
+00:00:00,0 --> 00:00:00,0
+Covenants. At that time, this declaration was
 
 8
-00:01:09,224 --> 00:01:17,502
- following preamble: “That our belief with regard to
+00:00:00,0 --> 00:00:00,0
+given the following preamble: “That our belief with
 
 9
-00:01:17,502 --> 00:01:25,78
- earthly governments and laws in general may not be
+00:00:00,0 --> 00:00:00,0
+regard to earthly governments and laws in
 
 10
-00:01:25,78 --> 00:01:34,058
- misinterpreted nor misunderstood, we have thought
+00:00:00,0 --> 00:00:00,0
+general may not be misinterpreted nor misunderstood,
 
 11
-00:01:34,058 --> 00:01:42,336
- proper to present, at the close of this volume, our
+00:00:00,0 --> 00:00:00,0
+we have thought proper to present, at the close
 
 12
-00:01:42,336 --> 00:01:50,614
- opinion concerning the same.” 
-1–4, Governments
+00:00:00,0 --> 00:00:00,0
+of this volume, our opinion concerning the
 
 13
-00:01:50,614 --> 00:01:58,892
- should preserve freedom of conscience and worship;
+00:00:00,0 --> 00:00:00,0
+same.” 
+1–4, Governments should preserve freedom of
 
 14
-00:01:58,892 --> 00:02:07,17
-5–8, All men should uphold their governments and owe
+00:00:00,0 --> 00:00:00,0
+conscience and worship; 
+5–8, All men should
 
 15
-00:02:07,17 --> 00:02:15,448
- respect and deference to the law; 
-9–10,
+00:00:00,0 --> 00:00:00,0
+uphold their governments and owe respect and
 
 16
-00:02:15,448 --> 00:02:23,726
- Religious societies should not exercise civil powers;
+00:00:00,0 --> 00:00:00,0
+deference to the law; 
+9–10, Religious societies should
 
 17
-00:02:23,726 --> 00:02:32,004
-11–12, Men are justified in defending themselves and
+00:00:00,0 --> 00:00:00,0
+not exercise civil powers; 
+11–12, Men are
 
 18
-00:02:32,004 --> 00:02:40,282
- their property.
+00:00:00,0 --> 02:38:44,
+justified in defending themselves and their property. 
 
 19
-00:02:40,627 --> 00:02:46,227
-1 We believe that governments were instituted of
+02:38:44,0 --> 02:38:44,0
+1 We believe that governments were instituted
 
 20
-00:02:46,227 --> 00:02:51,827
- God for the benefit of man; and that he holds men
+02:38:44,0 --> 02:38:44,0
+of God for the benefit of man; and that he
 
 21
-00:02:51,827 --> 00:02:57,427
- accountable for their acts in relation to them,
+02:38:44,0 --> 02:38:44,0
+holds men accountable for their acts in
 
 22
-00:02:57,427 --> 00:03:03,027
- both in making laws and administering them, for the
+02:38:44,0 --> 02:38:44,0
+relation to them, both in making laws and
 
 23
-00:03:03,027 --> 00:03:08,627
- good and safety of society
+02:38:44,0 --> 02:34:24,
+administering them, for the good and safety of society.
 
 24
-00:03:08,638 --> 00:03:15,838
-2 We believe that no government can exist in
+02:34:24,0 --> 02:34:24,0
+2 We believe that no government can
 
 25
-00:03:15,838 --> 00:03:23,038
- peace, except such laws are framed and held inviolate
+02:34:24,0 --> 02:34:24,0
+exist in peace, except such laws are
 
 26
-00:03:23,038 --> 00:03:30,238
- as will secure to each individual the free exercise
+02:34:24,0 --> 02:34:24,0
+framed and held inviolate as will secure
 
 27
-00:03:30,238 --> 00:03:37,438
- of conscience, the right and control of property,
+02:34:24,0 --> 02:34:24,0
+to each individual the free exercise
 
 28
-00:03:37,438 --> 00:03:44,638
- and the protection of life
+02:34:24,0 --> 02:34:24,0
+of conscience, the right and control of
 
 29
-00:03:44,374 --> 00:03:51,207
-3 We believe that all governments necessarily
+02:34:24,0 --> 02:39:29,
+property, and the protection of life.
 
 30
-00:03:51,207 --> 00:03:58,04
- require civil officers and magistrates to enforce the
+02:39:29,0 --> 02:39:29,0
+3 We believe that all governments
 
 31
-00:03:58,04 --> 00:04:04,873
- laws of the same; and that such as will administer
+02:39:29,0 --> 02:39:29,0
+necessarily require civil officers
 
 32
-00:04:04,873 --> 00:04:11,706
- the law in equity and justice should be sought
+02:39:29,0 --> 02:39:29,0
+and magistrates to enforce the laws
 
 33
-00:04:11,706 --> 00:04:18,539
- for and upheld by the voice of the people if a
+02:39:29,0 --> 02:39:29,0
+of the same; and that such as will
 
 34
-00:04:18,539 --> 00:04:25,372
- republic, or the will of the sovereign
+02:39:29,0 --> 02:39:29,0
+administer the law in equity and
 
 35
-00:04:25,365 --> 00:04:34,456
-4 We believe that religion is instituted of God;
+02:39:29,0 --> 02:39:29,0
+justice should be sought for and
 
 36
-00:04:34,456 --> 00:04:43,547
- and that men are amenable to him, and to him only,
+02:39:29,0 --> 02:39:29,0
+upheld by the voice of the people if a
 
 37
-00:04:43,547 --> 00:04:52,638
- for the exercise of it, unless their religious
+02:39:29,0 --> 03:08:03,
+republic, or the will of the sovereign.
 
 38
-00:04:52,638 --> 00:05:01,729
- opinions prompt them to infringe upon the rights and
+03:08:03,0 --> 03:08:03,0
+4 We believe that religion is
 
 39
-00:05:01,729 --> 00:05:10,82
- liberties of others; but we do not believe that
+03:08:03,0 --> 03:08:03,0
+instituted of God; and that men are
 
 40
-00:05:10,82 --> 00:05:19,911
- human law has a right to interfere in prescribing
+03:08:03,0 --> 03:08:03,0
+amenable to him, and to him only,
 
 41
-00:05:19,911 --> 00:05:29,002
- rules of worship to bind the consciences of men, nor
+03:08:03,0 --> 03:08:03,0
+for the exercise of it, unless
 
 42
-00:05:29,002 --> 00:05:38,093
- dictate forms for public or private devotion;
+03:08:03,0 --> 03:08:03,0
+their religious opinions prompt
 
 43
-00:05:38,093 --> 00:05:47,184
- that the civil magistrate should restrain crime, but
+03:08:03,0 --> 03:08:03,0
+them to infringe upon the rights
 
 44
-00:05:47,184 --> 00:05:56,275
- never control conscience; should punish guilt, but
+03:08:03,0 --> 03:08:03,0
+and liberties of others; but we do
 
 45
-00:05:56,275 --> 00:06:05,366
- never suppress the freedom of the soul
+03:08:03,0 --> 03:08:03,0
+not believe that human law has a
 
 46
-00:06:05,815 --> 00:06:11,633
-5 We believe that all men are bound to sustain and
+03:08:03,0 --> 03:08:03,0
+right to interfere in prescribing
 
 47
-00:06:11,633 --> 00:06:17,451
- uphold the respective governments in which they
+03:08:03,0 --> 03:08:03,0
+rules of worship to bind the
 
 48
-00:06:17,451 --> 00:06:23,269
- reside, while protected in their inherent and
+03:08:03,0 --> 03:08:03,0
+consciences of men, nor dictate
 
 49
-00:06:23,269 --> 00:06:29,087
- inalienable rights by the laws of such governments; and
+03:08:03,0 --> 03:08:03,0
+forms for public or private devotion;
 
 50
-00:06:29,087 --> 00:06:34,905
- that sedition and rebellion are unbecoming every
+03:08:03,0 --> 03:08:03,0
+that the civil magistrate should
 
 51
-00:06:34,905 --> 00:06:40,723
- citizen thus protected, and should be punished
+03:08:03,0 --> 03:08:03,0
+restrain crime, but never
 
 52
-00:06:40,723 --> 00:06:46,541
- accordingly; and that all governments have a right to
+03:08:03,0 --> 03:08:03,0
+control conscience; should punish
 
 53
-00:06:46,541 --> 00:06:52,359
- enact such laws as in their own judgments are
+03:08:03,0 --> 03:23:04,
+guilt, but never suppress the freedom of the soul.
 
 54
-00:06:52,359 --> 00:06:58,177
- best calculated to secure the public interest; at the
+03:23:04,0 --> 03:23:04,0
+5 We believe that all men are
 
 55
-00:06:58,177 --> 00:07:03,995
- same time, however, holding sacred the freedom of
+03:23:04,0 --> 03:23:04,0
+bound to sustain and uphold the
 
 56
-00:07:03,995 --> 00:07:09,813
- conscience
+03:23:04,0 --> 03:23:04,0
+respective governments in which
 
 57
-00:07:09,746 --> 00:07:19,329
-6 We believe that every man should be honored in
+03:23:04,0 --> 03:23:04,0
+they reside, while protected in
 
 58
-00:07:19,329 --> 00:07:28,912
- his station, rulers and magistrates as such, being
+03:23:04,0 --> 03:23:04,0
+their inherent and inalienable
 
 59
-00:07:28,912 --> 00:07:38,495
- placed for the protection of the innocent and the
+03:23:04,0 --> 03:23:04,0
+rights by the laws of such
 
 60
-00:07:38,495 --> 00:07:48,078
- punishment of the guilty; and that to the laws all
+03:23:04,0 --> 03:23:04,0
+governments; and that sedition and
 
 61
-00:07:48,078 --> 00:07:57,661
- men owe respect and deference, as without them
+03:23:04,0 --> 03:23:04,0
+rebellion are unbecoming every
 
 62
-00:07:57,661 --> 00:08:07,244
- peace and harmony would be supplanted by anarchy and
+03:23:04,0 --> 03:23:04,0
+citizen thus protected, and should be
 
 63
-00:08:07,244 --> 00:08:16,827
- terror; human laws being instituted for the
+03:23:04,0 --> 03:23:04,0
+punished accordingly; and that
 
 64
-00:08:16,827 --> 00:08:26,41
- express purpose of regulating our interests as
+03:23:04,0 --> 03:23:04,0
+all governments have a right to
 
 65
-00:08:26,41 --> 00:08:35,993
- individuals and nations, between man and man; and divine
+03:23:04,0 --> 03:23:04,0
+enact such laws as in their own
 
 66
-00:08:35,993 --> 00:08:45,576
- laws given of heaven, prescribing rules on
+03:23:04,0 --> 03:23:04,0
+judgments are best calculated to
 
 67
-00:08:45,576 --> 00:08:55,159
- spiritual concerns, for faith and worship, both to be
+03:23:04,0 --> 03:23:04,0
+secure the public interest; at
 
 68
-00:08:55,159 --> 00:09:04,742
- answered by man to his Maker
+03:23:04,0 --> 03:23:04,0
+the same time, however, holding
 
 69
-00:09:04,644 --> 00:09:12,311
-7 We believe that rulers, states, and governments
+03:23:04,0 --> 03:34:04,
+sacred the freedom of conscience.
 
 70
-00:09:12,311 --> 00:09:19,978
- have a right, and are bound to enact laws for the
+03:34:04,0 --> 03:34:04,0
+6 We believe that every man
 
 71
-00:09:19,978 --> 00:09:27,645
- protection of all citizens in the free exercise of
+03:34:04,0 --> 03:34:04,0
+should be honored in his station,
 
 72
-00:09:27,645 --> 00:09:35,312
- their religious belief; but we do not believe
+03:34:04,0 --> 03:34:04,0
+rulers and magistrates as such,
 
 73
-00:09:35,312 --> 00:09:42,979
- that they have a right in justice to deprive citizens
+03:34:04,0 --> 03:34:04,0
+being placed for the
 
 74
-00:09:42,979 --> 00:09:50,646
- of this privilege, or proscribe them in their
+03:34:04,0 --> 03:34:04,0
+protection of the innocent and the
 
 75
-00:09:50,646 --> 00:09:58,313
- opinions, so long as a regard and reverence are shown
+03:34:04,0 --> 03:34:04,0
+punishment of the guilty; and that
 
 76
-00:09:58,313 --> 00:10:05,98
- to the laws and such religious opinions do not
+03:34:04,0 --> 03:34:04,0
+to the laws all men owe respect
 
 77
-00:10:05,98 --> 00:10:13,647
- justify sedition nor conspiracy
+03:34:04,0 --> 03:34:04,0
+and deference, as without them
 
 78
-00:10:13,863 --> 00:10:22,863
-8 We believe that the commission of crime should
+03:34:04,0 --> 03:34:04,0
+peace and harmony would be
 
 79
-00:10:22,863 --> 00:10:31,863
- be punished according to the nature of the offense;
+03:34:04,0 --> 03:34:04,0
+supplanted by anarchy and terror;
 
 80
-00:10:31,863 --> 00:10:40,863
- that murder, treason, robbery, theft, and the
+03:34:04,0 --> 03:34:04,0
+human laws being instituted for
 
 81
-00:10:40,863 --> 00:10:49,863
- breach of the general peace, in all respects, should
+03:34:04,0 --> 03:34:04,0
+the express purpose of
 
 82
-00:10:49,863 --> 00:10:58,863
- be punished according to their criminality and
+03:34:04,0 --> 03:34:04,0
+regulating our interests as individuals
 
 83
-00:10:58,863 --> 00:11:07,863
- their tendency to evil among men, by the laws of that
+03:34:04,0 --> 03:34:04,0
+and nations, between man and
 
 84
-00:11:07,863 --> 00:11:16,863
- government in which the offense is committed; and
+03:34:04,0 --> 03:34:04,0
+man; and divine laws given of
 
 85
-00:11:16,863 --> 00:11:25,863
- for the public peace and tranquility all men
+03:34:04,0 --> 03:34:04,0
+heaven, prescribing rules on
 
 86
-00:11:25,863 --> 00:11:34,863
- should step forward and use their ability in bringing
+03:34:04,0 --> 03:34:04,0
+spiritual concerns, for faith and
 
 87
-00:11:34,863 --> 00:11:43,863
- offenders against good laws to punishment
+03:34:04,0 --> 03:43:07,
+worship, both to be answered by man to his Maker.
 
 88
-00:11:43,069 --> 00:11:50,269
-9 We do not believe it just to mingle religious
+03:43:07,0 --> 03:43:07,0
+7 We believe that rulers,
 
 89
-00:11:50,269 --> 00:11:57,469
- influence with civil government, whereby one
+03:43:07,0 --> 03:43:07,0
+states, and governments have a
 
 90
-00:11:57,469 --> 00:12:04,669
- religious society is fostered and another proscribed in
+03:43:07,0 --> 03:43:07,0
+right, and are bound to enact
 
 91
-00:12:04,669 --> 00:12:11,869
- its spiritual privileges, and the individual rights
+03:43:07,0 --> 03:43:07,0
+laws for the protection of all
 
 92
-00:12:11,869 --> 00:12:19,069
- of its members, as citizens, denied
+03:43:07,0 --> 03:43:07,0
+citizens in the free exercise of
 
 93
-00:12:19,372 --> 00:12:25,122
-10 We believe that all religious societies have a
+03:43:07,0 --> 03:43:07,0
+their religious belief; but
 
 94
-00:12:25,122 --> 00:12:30,872
- right to deal with their members for disorderly
+03:43:07,0 --> 03:43:07,0
+we do not believe that they
 
 95
-00:12:30,872 --> 00:12:36,622
- conduct, according to the rules and regulations of
+03:43:07,0 --> 03:43:07,0
+have a right in justice to
 
 96
-00:12:36,622 --> 00:12:42,372
- such societies; provided that such dealings be for
+03:43:07,0 --> 03:43:07,0
+deprive citizens of this privilege,
 
 97
-00:12:42,372 --> 00:12:48,122
- fellowship and good standing; but we do not
+03:43:07,0 --> 03:43:07,0
+or proscribe them in their
 
 98
-00:12:48,122 --> 00:12:53,872
- believe that any religious society has authority to try
+03:43:07,0 --> 03:43:07,0
+opinions, so long as a regard and
 
 99
-00:12:53,872 --> 00:12:59,622
- men on the right of property or life, to take from
+03:43:07,0 --> 03:43:07,0
+reverence are shown to the
 
 100
-00:12:59,622 --> 00:13:05,372
- them this world’s goods, or to put them in
+03:43:07,0 --> 03:43:07,0
+laws and such religious opinions
 
 101
-00:13:05,372 --> 00:13:11,122
- jeopardy of either life or limb, or to inflict any
+03:43:07,0 --> 04:24:06,
+do not justify sedition nor conspiracy.
 
 102
-00:13:11,122 --> 00:13:16,872
- physical punishment upon them. They can only
+04:24:06,0 --> 04:24:06,0
+8 We believe that the
 
 103
-00:13:16,872 --> 00:13:22,622
- excommunicate them from their society, and withdraw from
+04:24:06,0 --> 04:24:06,0
+commission of crime should be
 
 104
-00:13:22,622 --> 00:13:28,372
- them their fellowship
+04:24:06,0 --> 04:24:06,0
+punished according to the nature
 
 105
-00:13:28,091 --> 00:13:36,091
-11 We believe that men should appeal to the civil
+04:24:06,0 --> 04:24:06,0
+of the offense; that
 
 106
-00:13:36,091 --> 00:13:44,091
- law for redress of all wrongs and grievances,
+04:24:06,0 --> 04:24:06,0
+murder, treason, robbery, theft,
 
 107
-00:13:44,091 --> 00:13:52,091
- where personal abuse is inflicted or the right of
+04:24:06,0 --> 04:24:06,0
+and the breach of the general
 
 108
-00:13:52,091 --> 00:14:00,091
- property or character infringed, where such laws exist
+04:24:06,0 --> 04:24:06,0
+peace, in all respects,
 
 109
-00:14:00,091 --> 00:14:08,091
- as will protect the same; but we believe that all
+04:24:06,0 --> 04:24:06,0
+should be punished according to
 
 110
-00:14:08,091 --> 00:14:16,091
- men are justified in defending themselves, their
+04:24:06,0 --> 04:24:06,0
+their criminality and their
 
 111
-00:14:16,091 --> 00:14:24,091
- friends, and property, and the government, from
+04:24:06,0 --> 04:24:06,0
+tendency to evil among men,
 
 112
-00:14:24,091 --> 00:14:32,091
- the unlawful assaults and encroachments of all
+04:24:06,0 --> 04:24:06,0
+by the laws of that
 
 113
-00:14:32,091 --> 00:14:40,091
- persons in times of exigency, where immediate appeal
+04:24:06,0 --> 04:24:06,0
+government in which the offense is
 
 114
-00:14:40,091 --> 00:14:48,091
- cannot be made to the laws, and relief afforded
+04:24:06,0 --> 04:24:06,0
+committed; and for the
 
 115
-00:14:48,554 --> 00:14:52,862
-12 We believe it just to preach the gospel to the
+04:24:06,0 --> 04:24:06,0
+public peace and tranquility all
 
 116
-00:14:52,862 --> 00:14:57,17
- nations of the earth, and warn the righteous to
+04:24:06,0 --> 04:24:06,0
+men should step forward and
 
 117
-00:14:57,17 --> 00:15:01,478
- save themselves from the corruption of the world;
+04:24:06,0 --> 04:24:06,0
+use their ability in
 
 118
-00:15:01,478 --> 00:15:05,786
- but we do not believe it right to interfere with
+04:24:06,0 --> 04:34:38,
+bringing offenders against good laws to punishment.
 
 119
-00:15:05,786 --> 00:15:10,094
- bond-servants, neither preach the gospel to, nor
+04:34:38,0 --> 04:34:38,0
+9 We do not believe it
 
 120
-00:15:10,094 --> 00:15:14,402
- baptize them contrary to the will and wish of their
+04:34:38,0 --> 04:34:38,0
+just to mingle religious
 
 121
-00:15:14,402 --> 00:15:18,71
- masters, nor to meddle with or influence them in the
+04:34:38,0 --> 04:34:38,0
+influence with civil
 
 122
-00:15:18,71 --> 00:15:23,018
- least to cause them to be dissatisfied with their
+04:34:38,0 --> 04:34:38,0
+government, whereby one religious
 
 123
-00:15:23,018 --> 00:15:27,326
- situations in this life, thereby jeopardizing the
+04:34:38,0 --> 04:34:38,0
+society is fostered and
 
 124
-00:15:27,326 --> 00:15:31,634
- lives of men; such interference we believe to be
+04:34:38,0 --> 04:34:38,0
+another proscribed in its
 
 125
-00:15:31,634 --> 00:15:35,942
- unlawful and unjust, and dangerous to the peace of
+04:34:38,0 --> 04:34:38,0
+spiritual privileges, and the
 
 126
-00:15:35,942 --> 00:15:40,25
- every government allowing human beings to be held
+04:34:38,0 --> 04:34:38,0
+individual rights of its
 
 127
-00:15:40,25 --> 00:15:44,558
- in servitude.
+04:34:38,0 --> 05:20:38,
+members, as citizens, denied.
+
+128
+05:20:38,0 --> 05:20:38,0
+10 We believe that all
+
+129
+05:20:38,0 --> 05:20:38,0
+religious societies have a
+
+130
+05:20:38,0 --> 05:20:38,0
+right to deal with their
+
+131
+05:20:38,0 --> 05:20:38,0
+members for disorderly
+
+132
+05:20:38,0 --> 05:20:38,0
+conduct, according to the
+
+133
+05:20:38,0 --> 05:20:38,0
+rules and regulations of
+
+134
+05:20:38,0 --> 05:20:38,0
+such societies; provided
+
+135
+05:20:38,0 --> 05:20:38,0
+that such dealings be for
+
+136
+05:20:38,0 --> 05:20:38,0
+fellowship and good
+
+137
+05:20:38,0 --> 05:20:38,0
+standing; but we do not
+
+138
+05:20:38,0 --> 05:20:38,0
+believe that any religious
+
+139
+05:20:38,0 --> 05:20:38,0
+society has authority to try
+
+140
+05:20:38,0 --> 05:20:38,0
+men on the right of
+
+141
+05:20:38,0 --> 05:20:38,0
+property or life, to take from
+
+142
+05:20:38,0 --> 05:20:38,0
+them this world’s goods,
+
+143
+05:20:38,0 --> 05:20:38,0
+or to put them in
+
+144
+05:20:38,0 --> 05:20:38,0
+jeopardy of either life or
+
+145
+05:20:38,0 --> 05:20:38,0
+limb, or to inflict any
+
+146
+05:20:38,0 --> 05:20:38,0
+physical punishment upon them.
+
+147
+05:20:38,0 --> 05:20:38,0
+They can only
+
+148
+05:20:38,0 --> 05:20:38,0
+excommunicate them from their
+
+149
+05:20:38,0 --> 05:27:41,
+society, and withdraw from them their fellowship.
+
+150
+05:27:41,0 --> 05:27:41,0
+11 We believe that men
+
+151
+05:27:41,0 --> 05:27:41,0
+should appeal to the
+
+152
+05:27:41,0 --> 05:27:41,0
+civil law for redress of all
+
+153
+05:27:41,0 --> 05:27:41,0
+wrongs and grievances,
+
+154
+05:27:41,0 --> 05:27:41,0
+where personal abuse is
+
+155
+05:27:41,0 --> 05:27:41,0
+inflicted or the right
+
+156
+05:27:41,0 --> 05:27:41,0
+of property or character
+
+157
+05:27:41,0 --> 05:27:41,0
+infringed, where such
+
+158
+05:27:41,0 --> 05:27:41,0
+laws exist as will protect
+
+159
+05:27:41,0 --> 05:27:41,0
+the same; but we
+
+160
+05:27:41,0 --> 05:27:41,0
+believe that all men are
+
+161
+05:27:41,0 --> 05:27:41,0
+justified in defending
+
+162
+05:27:41,0 --> 05:27:41,0
+themselves, their friends, and
+
+163
+05:27:41,0 --> 05:27:41,0
+property, and the
+
+164
+05:27:41,0 --> 05:27:41,0
+government, from the unlawful
+
+165
+05:27:41,0 --> 05:27:41,0
+assaults and
+
+166
+05:27:41,0 --> 05:27:41,0
+encroachments of all persons in
+
+167
+05:27:41,0 --> 05:27:41,0
+times of exigency, where
+
+168
+05:27:41,0 --> 05:27:41,0
+immediate appeal cannot
+
+169
+05:27:41,0 --> 05:27:47,
+be made to the laws, and relief afforded.
+
+170
+05:27:47,0 --> 05:27:47,0
+12 We believe it just
+
+171
+05:27:47,0 --> 05:27:47,0
+to preach the gospel to
+
+172
+05:27:47,0 --> 05:27:47,0
+the nations of the
+
+173
+05:27:47,0 --> 05:27:47,0
+earth, and warn the
+
+174
+05:27:47,0 --> 05:27:47,0
+righteous to save themselves
+
+175
+05:27:47,0 --> 05:27:47,0
+from the corruption of
+
+176
+05:27:47,0 --> 05:27:47,0
+the world; but we do not
+
+177
+05:27:47,0 --> 05:27:47,0
+believe it right to
+
+178
+05:27:47,0 --> 05:27:47,0
+interfere with
+
+179
+05:27:47,0 --> 05:27:47,0
+bond-servants, neither preach the
+
+180
+05:27:47,0 --> 05:27:47,0
+gospel to, nor baptize
+
+181
+05:27:47,0 --> 05:27:47,0
+them contrary to the
+
+182
+05:27:47,0 --> 05:27:47,0
+will and wish of their
+
+183
+05:27:47,0 --> 05:27:47,0
+masters, nor to meddle
+
+184
+05:27:47,0 --> 05:27:47,0
+with or influence them
+
+185
+05:27:47,0 --> 05:27:47,0
+in the least to cause
+
+186
+05:27:47,0 --> 05:27:47,0
+them to be dissatisfied
+
+187
+05:27:47,0 --> 05:27:47,0
+with their situations in
+
+188
+05:27:47,0 --> 05:27:47,0
+this life, thereby
+
+189
+05:27:47,0 --> 05:27:47,0
+jeopardizing the lives of
+
+190
+05:27:47,0 --> 05:27:47,0
+men; such interference
+
+191
+05:27:47,0 --> 05:27:47,0
+we believe to be
+
+192
+05:27:47,0 --> 05:27:47,0
+unlawful and unjust, and
+
+193
+05:27:47,0 --> 05:27:47,0
+dangerous to the peace of
+
+194
+05:27:47,0 --> 05:27:47,0
+every government
+
+195
+05:27:47,0 --> 05:27:53,
+allowing human beings to be held in servitude. 
 

@@ -1,315 +1,638 @@
 1
-00:00:11,278 --> 00:00:18,278
-Section 110 Visions manifested to Joseph Smith the
+00:00:00,0 --> 00:00:00,0
+Section 110 Visions manifested to Joseph Smith
 
 2
-00:00:18,278 --> 00:00:25,278
- Prophet and Oliver Cowdery in the temple at
+00:00:00,0 --> 00:00:00,0
+the Prophet and Oliver Cowdery in the temple at
 
 3
-00:00:25,278 --> 00:00:32,278
- Kirtland, Ohio, April 3, 1836. The occasion was that of
+00:00:00,0 --> 00:00:00,0
+Kirtland, Ohio, April 3, 1836. The occasion was that
 
 4
-00:00:32,278 --> 00:00:39,278
- a Sabbath day meeting. Joseph Smith’s history
+00:00:00,0 --> 00:00:00,0
+of a Sabbath day meeting. Joseph Smith’s history
 
 5
-00:00:39,278 --> 00:00:46,278
- states: “In the afternoon, I assisted the other
+00:00:00,0 --> 00:00:00,0
+states: “In the afternoon, I assisted the other
 
 6
-00:00:46,278 --> 00:00:53,278
- Presidents in distributing the Lord’s Supper to the
+00:00:00,0 --> 00:00:00,0
+Presidents in distributing the Lord’s Supper to
 
 7
-00:00:53,278 --> 00:01:00,278
- Church, receiving it from the Twelve, whose privilege
+00:00:00,0 --> 00:00:00,0
+the Church, receiving it from the Twelve, whose
 
 8
-00:01:00,278 --> 00:01:07,278
- it was to officiate at the sacred desk this day.
+00:00:00,0 --> 00:00:00,0
+privilege it was to officiate at the sacred desk
 
 9
-00:01:07,278 --> 00:01:14,278
- After having performed this service to my
+00:00:00,0 --> 00:00:00,0
+this day. After having performed this service to my
 
 10
-00:01:14,278 --> 00:01:21,278
- brethren, I retired to the pulpit, the veils being
+00:00:00,0 --> 00:00:00,0
+brethren, I retired to the pulpit, the veils
 
 11
-00:01:21,278 --> 00:01:28,278
- dropped, and bowed myself, with Oliver Cowdery, in solemn
+00:00:00,0 --> 00:00:00,0
+being dropped, and bowed myself, with Oliver
 
 12
-00:01:28,278 --> 00:01:35,278
- and silent prayer. After rising from prayer, the
+00:00:00,0 --> 00:00:00,0
+Cowdery, in solemn and silent prayer. After rising from
 
 13
-00:01:35,278 --> 00:01:42,278
- following vision was opened to both of us.” 
-1–10,
+00:00:00,0 --> 00:00:00,0
+prayer, the following vision was opened to both
 
 14
-00:01:42,278 --> 00:01:49,278
- The Lord Jehovah appears in glory and accepts the
+00:00:00,0 --> 00:00:00,0
+of us.” 
+1–10, The Lord Jehovah appears in glory
 
 15
-00:01:49,278 --> 00:01:56,278
- Kirtland Temple as His house; 
-11–12, Moses and
+00:00:00,0 --> 00:00:00,0
+and accepts the Kirtland Temple as His house;
 
 16
-00:01:56,278 --> 00:02:03,278
- Elias each appear and commit their keys and
+00:00:00,0 --> 00:00:00,0
+11–12, Moses and Elias each appear and commit their
 
 17
-00:02:03,278 --> 00:02:10,278
- dispensations; 
-13–16, Elijah returns and commits the
+00:00:00,0 --> 00:00:00,0
+keys and dispensations; 
+13–16, Elijah returns
 
 18
-00:02:10,278 --> 00:02:17,278
- keys of his dispensation as promised by Malachi.
+00:00:00,0 --> 02:16:47,
+and commits the keys of his dispensation as promised by Malachi. 
 
 19
-00:02:17,638 --> 00:02:23,138
-1 The veil was taken from our minds, and the eyes
+02:16:47,0 --> 02:16:47,0
+1 The veil was taken from our minds, and
 
 20
-00:02:23,138 --> 00:02:28,638
- of our understanding were opened
+02:16:47,0 --> 02:27:47,
+the eyes of our understanding were opened.
 
 21
-00:02:28,649 --> 00:02:34,982
-2 We saw the Lord standing upon the breastwork of
+02:27:47,0 --> 02:27:47,0
+2 We saw the Lord standing upon the
 
 22
-00:02:34,982 --> 00:02:41,315
- the pulpit, before us; and under his feet was a
+02:27:47,0 --> 02:27:47,0
+breastwork of the pulpit, before
 
 23
-00:02:41,315 --> 00:02:47,648
- paved work of pure gold, in color like amber
+02:27:47,0 --> 02:27:47,0
+us; and under his feet was a paved
 
 24
-00:02:47,167 --> 00:02:53,767
-3 His eyes were as a flame of fire; the hair of
+02:27:47,0 --> 02:46:47,
+work of pure gold, in color like amber.
 
 25
-00:02:53,767 --> 00:03:00,367
- his head was white like the pure snow; his
+02:46:47,0 --> 02:46:47,0
+3 His eyes were as a flame of
 
 26
-00:03:00,367 --> 00:03:06,967
- countenance shone above the brightness of the sun; and his
+02:46:47,0 --> 02:46:47,0
+fire; the hair of his head was white
 
 27
-00:03:06,967 --> 00:03:13,567
- voice was as the sound of the rushing of great
+02:46:47,0 --> 02:46:47,0
+like the pure snow; his countenance
 
 28
-00:03:13,567 --> 00:03:20,167
- waters, even the voice of Jehovah, saying
+02:46:47,0 --> 02:46:47,0
+shone above the brightness of the
 
 29
-00:03:20,167 --> 00:03:27,167
-4 I am the first and the last; I am he who liveth,
+02:46:47,0 --> 02:46:47,0
+sun; and his voice was as the
 
 30
-00:03:27,167 --> 00:03:34,167
- I am he who was slain; I am your advocate with
+02:46:47,0 --> 02:46:47,0
+sound of the rushing of great waters,
 
 31
-00:03:34,167 --> 00:03:41,167
- the Father
+02:46:47,0 --> 03:17:47,
+even the voice of Jehovah, saying:
 
 32
-00:03:41,171 --> 00:03:45,838
-5 Behold, your sins are forgiven you; you are
+03:17:47,0 --> 03:17:47,0
+4 I am the first and the
 
 33
-00:03:45,838 --> 00:03:50,505
- clean before me; therefore, lift up your heads and
+03:17:47,0 --> 03:17:47,0
+last; I am he who liveth, I
 
 34
-00:03:50,505 --> 00:03:55,172
- rejoice
+03:17:47,0 --> 03:17:47,0
+am he who was slain; I am
 
 35
-00:03:55,936 --> 00:04:01,603
-6 Let the hearts of your brethren rejoice, and let
+03:17:47,0 --> 03:18:51,
+your advocate with the Father.
 
 36
-00:04:01,603 --> 00:04:07,27
- the hearts of all my people rejoice, who have,
+03:18:51,0 --> 03:18:51,0
+5 Behold, your sins are
 
 37
-00:04:07,27 --> 00:04:12,937
- with their might, built this house to my name
+03:18:51,0 --> 03:18:51,0
+forgiven you; you are clean
 
 38
-00:04:12,469 --> 00:04:17,469
-7 For behold, I have accepted this house, and my
+03:18:51,0 --> 03:18:51,0
+before me; therefore, lift
 
 39
-00:04:17,469 --> 00:04:22,469
- name shall be here; and I will manifest myself to
+03:18:51,0 --> 03:39:54,
+up your heads and rejoice.
 
 40
-00:04:22,469 --> 00:04:27,469
- my people in mercy in this house
+03:39:54,0 --> 03:39:54,0
+6 Let the hearts of your
 
 41
-00:04:27,234 --> 00:04:31,984
-8 Yea, I will appear unto my servants, and speak
+03:39:54,0 --> 03:39:54,0
+brethren rejoice, and
 
 42
-00:04:31,984 --> 00:04:36,734
- unto them with mine own voice, if my people will
+03:39:54,0 --> 03:39:54,0
+let the hearts of all my
 
 43
-00:04:36,734 --> 00:04:41,484
- keep my commandments, and do not pollute this holy
+03:39:54,0 --> 03:39:54,0
+people rejoice, who
 
 44
-00:04:41,484 --> 00:04:46,234
- house
+03:39:54,0 --> 03:39:54,0
+have, with their might,
 
 45
-00:04:46,236 --> 00:04:50,636
-9 Yea the hearts of thousands and tens of
+03:39:54,0 --> 03:54:56,
+built this house to my name.
 
 46
-00:04:50,636 --> 00:04:55,036
- thousands shall greatly rejoice in consequence of the
+03:54:56,0 --> 03:54:56,0
+7 For behold, I have
 
 47
-00:04:55,036 --> 00:04:59,436
- blessings which shall be poured out, and the endowment
+03:54:56,0 --> 03:54:56,0
+accepted this house,
 
 48
-00:04:59,436 --> 00:05:03,836
- with which my servants have been endowed in this
+03:54:56,0 --> 03:54:56,0
+and my name shall be
 
 49
-00:05:03,836 --> 00:05:08,236
- house
+03:54:56,0 --> 03:54:56,0
+here; and I will manifest
 
 50
-00:05:08,508 --> 00:05:13,008
-10 And the fame of this house shall spread to
+03:54:56,0 --> 03:54:56,0
+myself to my people
 
 51
-00:05:13,008 --> 00:05:17,508
- foreign lands; and this is the beginning of the
+03:54:56,0 --> 04:09:58,
+in mercy in this house.
 
 52
-00:05:17,508 --> 00:05:22,008
- blessing which shall be poured out upon the heads of my
+04:09:58,0 --> 04:09:58,0
+8 Yea, I will
 
 53
-00:05:22,008 --> 00:05:26,508
- people. Even so. Amen
+04:09:58,0 --> 04:09:58,0
+appear unto my servants,
 
 54
-00:05:26,793 --> 00:05:32,46
-11 After this vision closed, the heavens were
+04:09:58,0 --> 04:09:58,0
+and speak unto
 
 55
-00:05:32,46 --> 00:05:38,127
- again opened unto us; and Moses appeared before us,
+04:09:58,0 --> 04:09:58,0
+them with mine own
 
 56
-00:05:38,127 --> 00:05:43,794
- and committed unto us the keys of the gathering of
+04:09:58,0 --> 04:09:58,0
+voice, if my people
 
 57
-00:05:43,794 --> 00:05:49,461
- Israel from the four parts of the earth, and the
+04:09:58,0 --> 04:09:58,0
+will keep my
 
 58
-00:05:49,461 --> 00:05:55,128
- leading of the ten tribes from the land of the
+04:09:58,0 --> 04:09:58,0
+commandments, and do not
 
 59
-00:05:55,128 --> 00:06:00,795
- north
+04:09:58,0 --> 04:11:02,
+pollute this holy house.
 
 60
-00:06:00,544 --> 00:06:06,044
-12 After this, Elias appeared, and committed the
+04:11:02,0 --> 04:11:02,0
+9 Yea the hearts
 
 61
-00:06:06,044 --> 00:06:11,544
- dispensation of the gospel of Abraham, saying that
+04:11:02,0 --> 04:11:02,0
+of thousands and
 
 62
-00:06:11,544 --> 00:06:17,044
- in us and our seed all generations after us should
+04:11:02,0 --> 04:11:02,0
+tens of thousands
 
 63
-00:06:17,044 --> 00:06:22,544
- be blessed
+04:11:02,0 --> 04:11:02,0
+shall greatly
 
 64
-00:06:22,549 --> 00:06:28,299
-13 After this vision had closed, another great and
+04:11:02,0 --> 04:11:02,0
+rejoice in consequence
 
 65
-00:06:28,299 --> 00:06:34,049
- glorious vision burst upon us; for Elijah the
+04:11:02,0 --> 04:11:02,0
+of the blessings
 
 66
-00:06:34,049 --> 00:06:39,799
- prophet, who was taken to heaven without tasting
+04:11:02,0 --> 04:11:02,0
+which shall be
 
 67
-00:06:39,799 --> 00:06:45,549
- death, stood before us, and said
+04:11:02,0 --> 04:11:02,0
+poured out, and the
 
 68
-00:06:45,572 --> 00:06:51,322
-14 Behold, the time has fully come, which was
+04:11:02,0 --> 04:11:02,0
+endowment with which
 
 69
-00:06:51,322 --> 00:06:57,072
- spoken of by the mouth of Malachi—testifying that he
+04:11:02,0 --> 04:11:02,0
+my servants have
 
 70
-00:06:57,072 --> 00:07:02,822
- [Elijah] should be sent, before the great and
+04:11:02,0 --> 04:26:04,
+been endowed in this house.
 
 71
-00:07:02,822 --> 00:07:08,572
- dreadful day of the Lord come
+04:26:04,0 --> 04:26:04,0
+10 And the fame
 
 72
-00:07:08,078 --> 00:07:13,411
-15 To turn the hearts of the fathers to the
+04:26:04,0 --> 04:26:04,0
+of this house
 
 73
-00:07:13,411 --> 00:07:18,744
- children, and the children to the fathers, lest the
+04:26:04,0 --> 04:26:04,0
+shall spread to
 
 74
-00:07:18,744 --> 00:07:24,077
- whole earth be smitten with a curse
+04:26:04,0 --> 04:26:04,0
+foreign lands; and
 
 75
-00:07:24,377 --> 00:07:29,877
-16 Therefore, the keys of this dispensation are
+04:26:04,0 --> 04:26:04,0
+this is the
 
 76
-00:07:29,877 --> 00:07:35,377
- committed into your hands; and by this ye may know
+04:26:04,0 --> 04:26:04,0
+beginning of the blessing
 
 77
-00:07:35,377 --> 00:07:40,877
- that the great and dreadful day of the Lord is
+04:26:04,0 --> 04:26:04,0
+which shall be
 
 78
-00:07:40,877 --> 00:07:46,377
- near, even at the doors.
+04:26:04,0 --> 04:26:04,0
+poured out upon
+
+79
+04:26:04,0 --> 04:26:04,0
+the heads of my
+
+80
+04:26:04,0 --> 04:44:36,
+people. Even so. Amen.
+
+81
+04:44:36,0 --> 04:44:36,0
+11 After this
+
+82
+04:44:36,0 --> 04:44:36,0
+vision closed, the
+
+83
+04:44:36,0 --> 04:44:36,0
+heavens were
+
+84
+04:44:36,0 --> 04:44:36,0
+again opened unto
+
+85
+04:44:36,0 --> 04:44:36,0
+us; and Moses
+
+86
+04:44:36,0 --> 04:44:36,0
+appeared before
+
+87
+04:44:36,0 --> 04:44:36,0
+us, and committed
+
+88
+04:44:36,0 --> 04:44:36,0
+unto us the keys
+
+89
+04:44:36,0 --> 04:44:36,0
+of the
+
+90
+04:44:36,0 --> 04:44:36,0
+gathering of Israel from
+
+91
+04:44:36,0 --> 04:44:36,0
+the four parts
+
+92
+04:44:36,0 --> 04:44:36,0
+of the earth,
+
+93
+04:44:36,0 --> 04:44:36,0
+and the leading of
+
+94
+04:44:36,0 --> 04:44:36,0
+the ten tribes
+
+95
+04:44:36,0 --> 05:07:37,
+from the land of the north.
+
+96
+05:07:37,0 --> 05:07:37,0
+12 After this,
+
+97
+05:07:37,0 --> 05:07:37,0
+Elias
+
+98
+05:07:37,0 --> 05:07:37,0
+appeared, and
+
+99
+05:07:37,0 --> 05:07:37,0
+committed the
+
+100
+05:07:37,0 --> 05:07:37,0
+dispensation of the
+
+101
+05:07:37,0 --> 05:07:37,0
+gospel of
+
+102
+05:07:37,0 --> 05:07:37,0
+Abraham, saying
+
+103
+05:07:37,0 --> 05:07:37,0
+that in us and
+
+104
+05:07:37,0 --> 05:07:37,0
+our seed all
+
+105
+05:07:37,0 --> 05:07:37,0
+generations after
+
+106
+05:07:37,0 --> 05:03:17,
+us should be blessed.
+
+107
+05:03:17,0 --> 05:03:17,0
+13 After this
+
+108
+05:03:17,0 --> 05:03:17,0
+vision had
+
+109
+05:03:17,0 --> 05:03:17,0
+closed,
+
+110
+05:03:17,0 --> 05:03:17,0
+another great and
+
+111
+05:03:17,0 --> 05:03:17,0
+glorious
+
+112
+05:03:17,0 --> 05:03:17,0
+vision burst upon
+
+113
+05:03:17,0 --> 05:03:17,0
+us; for
+
+114
+05:03:17,0 --> 05:03:17,0
+Elijah the
+
+115
+05:03:17,0 --> 05:03:17,0
+prophet, who was
+
+116
+05:03:17,0 --> 05:03:17,0
+taken to heaven
+
+117
+05:03:17,0 --> 05:03:17,0
+without
+
+118
+05:03:17,0 --> 05:03:17,0
+tasting death,
+
+119
+05:03:17,0 --> 05:07:24,
+stood before us, and said:
+
+120
+05:07:24,0 --> 05:07:24,0
+14 Behold,
+
+121
+05:07:24,0 --> 05:07:24,0
+the time has
+
+122
+05:07:24,0 --> 05:07:24,0
+fully come,
+
+123
+05:07:24,0 --> 05:07:24,0
+which was
+
+124
+05:07:24,0 --> 05:07:24,0
+spoken of by
+
+125
+05:07:24,0 --> 05:07:24,0
+the mouth of
+
+126
+05:07:24,0 --> 05:07:24,0
+
+
+127
+05:07:24,0 --> 05:07:24,0
+Malachi—testifying that
+
+128
+05:07:24,0 --> 05:07:24,0
+he [Elijah]
+
+129
+05:07:24,0 --> 05:07:24,0
+should be
+
+130
+05:07:24,0 --> 05:07:24,0
+sent, before
+
+131
+05:07:24,0 --> 05:07:24,0
+the great and
+
+132
+05:07:24,0 --> 05:07:24,0
+dreadful
+
+133
+05:07:24,0 --> 05:03:04,
+day of the Lord come—
+
+134
+05:03:04,0 --> 05:03:04,0
+15 To turn
+
+135
+05:03:04,0 --> 05:03:04,0
+the hearts of
+
+136
+05:03:04,0 --> 05:03:04,0
+the fathers
+
+137
+05:03:04,0 --> 05:03:04,0
+to the
+
+138
+05:03:04,0 --> 05:03:04,0
+children, and
+
+139
+05:03:04,0 --> 05:03:04,0
+the children
+
+140
+05:03:04,0 --> 05:03:04,0
+to the
+
+141
+05:03:04,0 --> 05:03:04,0
+fathers, lest the
+
+142
+05:03:04,0 --> 05:03:04,0
+whole earth
+
+143
+05:03:04,0 --> 05:03:04,0
+be smitten
+
+144
+05:03:04,0 --> 05:07:41,
+with a curse—
+
+145
+05:07:41,0 --> 05:07:41,0
+16
+
+146
+05:07:41,0 --> 05:07:41,0
+Therefore, the keys
+
+147
+05:07:41,0 --> 05:07:41,0
+of this
+
+148
+05:07:41,0 --> 05:07:41,0
+dispensation
+
+149
+05:07:41,0 --> 05:07:41,0
+are
+
+150
+05:07:41,0 --> 05:07:41,0
+committed into
+
+151
+05:07:41,0 --> 05:07:41,0
+your hands;
+
+152
+05:07:41,0 --> 05:07:41,0
+and by this
+
+153
+05:07:41,0 --> 05:07:41,0
+ye may know
+
+154
+05:07:41,0 --> 05:07:41,0
+that the
+
+155
+05:07:41,0 --> 05:07:41,0
+great and
+
+156
+05:07:41,0 --> 05:07:41,0
+dreadful day
+
+157
+05:07:41,0 --> 05:07:41,0
+of the Lord
+
+158
+05:07:41,0 --> 05:07:41,0
+is near,
+
+159
+05:07:41,0 --> 05:20:45,
+even at the doors. 
 

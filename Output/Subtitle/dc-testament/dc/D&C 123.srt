@@ -1,364 +1,731 @@
 1
-00:00:41,225 --> 00:00:45,134
+00:00:00,0 --> 00:00:00,0
 Section 123 Duty of the Saints in relation to
 
 2
-00:00:45,134 --> 00:00:49,043
- their persecutors, as written by Joseph Smith the
+00:00:00,0 --> 00:00:00,0
+their persecutors, as written by Joseph Smith
 
 3
-00:00:49,043 --> 00:00:52,952
- Prophet while a prisoner in the jail at Liberty,
+00:00:00,0 --> 00:00:00,0
+the Prophet while a prisoner in the jail at
 
 4
-00:00:52,952 --> 00:00:56,861
- Missouri. This section is an excerpt from an epistle to
+00:00:00,0 --> 00:00:00,0
+Liberty, Missouri. This section is an excerpt
 
 5
-00:00:56,861 --> 00:01:00,77
- the Church dated March 20, 1839 (see the 
-heading
+00:00:00,0 --> 00:00:00,0
+from an epistle to the Church dated March 20,
 
 6
-00:01:00,77 --> 00:01:04,679
- to section 121). 
-1–6, The Saints should collect
+00:00:00,0 --> 00:00:00,0
+1839 (see the 
+heading to section 121). 
+1–6,
 
 7
-00:01:04,679 --> 00:01:08,588
- and publish an account of their sufferings and
+00:00:00,0 --> 00:00:00,0
+The Saints should collect and publish an account
 
 8
-00:01:08,588 --> 00:01:12,497
- persecutions; 
-7–10, The same spirit that established
+00:00:00,0 --> 00:00:00,0
+of their sufferings and persecutions; 
+7–10,
 
 9
-00:01:12,497 --> 00:01:16,406
- the false creeds also leads to persecution of the
+00:00:00,0 --> 00:00:00,0
+The same spirit that established the false
 
 10
-00:01:16,406 --> 00:01:20,315
- Saints; 
-11–17, Many among all sects will yet
+00:00:00,0 --> 00:00:00,0
+creeds also leads to persecution of the Saints;
 
 11
-00:01:20,315 --> 00:01:24,224
- receive the truth.
+00:00:00,0 --> 01:24:27,
+11–17, Many among all sects will yet receive the truth. 
 
 12
-00:01:24,985 --> 00:01:32,985
+01:24:27,0 --> 01:24:27,0
 1 And again, we would suggest for your
 
 13
-00:01:32,985 --> 00:01:40,985
- consideration the propriety of all the saints gathering up a
+01:24:27,0 --> 01:24:27,0
+consideration the propriety of all the
 
 14
-00:01:40,985 --> 00:01:48,985
- knowledge of all the facts, and sufferings and
+01:24:27,0 --> 01:24:27,0
+saints gathering up a knowledge of all
 
 15
-00:01:48,985 --> 00:01:56,985
- abuses put upon them by the people of this State
+01:24:27,0 --> 01:24:27,0
+the facts, and sufferings and abuses
 
 16
-00:01:56,033 --> 00:02:03,7
-2 And also of all the property and amount of
+01:24:27,0 --> 01:55:27,
+put upon them by the people of this State;
 
 17
-00:02:03,7 --> 00:02:11,367
- damages which they have sustained, both of character
+01:55:27,0 --> 01:55:27,0
+2 And also of all the property and
 
 18
-00:02:11,367 --> 00:02:19,034
- and personal injuries, as well as real property
+01:55:27,0 --> 01:55:27,0
+amount of damages which they have
 
 19
-00:02:19,773 --> 00:02:26,106
-3 And also the names of all persons that have had
+01:55:27,0 --> 01:55:27,0
+sustained, both of character and
 
 20
-00:02:26,106 --> 00:02:32,439
- a hand in their oppressions, as far as they can
+01:55:27,0 --> 02:18:28,
+personal injuries, as well as real property;
 
 21
-00:02:32,439 --> 00:02:38,772
- get hold of them and find them out
+02:18:28,0 --> 02:18:28,0
+3 And also the names of all
 
 22
-00:02:38,091 --> 00:02:47,841
-4 And perhaps a committee can be appointed to find
+02:18:28,0 --> 02:18:28,0
+persons that have had a hand in their
 
 23
-00:02:47,841 --> 00:02:57,591
- out these things, and to take statements and
+02:18:28,0 --> 02:18:28,0
+oppressions, as far as they can
 
 24
-00:02:57,591 --> 00:03:07,341
- affidavits; and also to gather up the libelous
+02:18:28,0 --> 02:37:28,
+get hold of them and find them out.
 
 25
-00:03:07,341 --> 00:03:17,091
- publications that are afloat
+02:37:28,0 --> 02:37:28,0
+4 And perhaps a committee
 
 26
-00:03:17,814 --> 00:03:26,981
-5 And all that are in the magazines, and in the
+02:37:28,0 --> 02:37:28,0
+can be appointed to find out
 
 27
-00:03:26,981 --> 00:03:36,148
- encyclopedias, and all the libelous histories that
+02:37:28,0 --> 02:37:28,0
+these things, and to take
 
 28
-00:03:36,148 --> 00:03:45,315
- are published, and are writing, and by whom, and
+02:37:28,0 --> 02:37:28,0
+statements and affidavits; and
 
 29
-00:03:45,315 --> 00:03:54,482
- present the whole concatenation of diabolical
+02:37:28,0 --> 02:37:28,0
+also to gather up the
 
 30
-00:03:54,482 --> 00:04:03,649
- rascality and nefarious and murderous impositions that
+02:37:28,0 --> 03:04:26,
+libelous publications that are afloat;
 
 31
-00:04:03,649 --> 00:04:12,816
- have been practiced upon this people
+03:04:26,0 --> 03:04:26,0
+5 And all that are in the
 
 32
-00:04:12,285 --> 00:04:21,285
-6 That we may not only publish to all the world,
+03:04:26,0 --> 03:04:26,0
+magazines, and in the
 
 33
-00:04:21,285 --> 00:04:30,285
- but present them to the heads of government in all
+03:04:26,0 --> 03:04:26,0
+encyclopedias, and all the
 
 34
-00:04:30,285 --> 00:04:39,285
- their dark and hellish hue, as the last effort
+03:04:26,0 --> 03:04:26,0
+libelous histories that are
 
 35
-00:04:39,285 --> 00:04:48,285
- which is enjoined on us by our Heavenly Father,
+03:04:26,0 --> 03:04:26,0
+published, and are writing,
 
 36
-00:04:48,285 --> 00:04:57,285
- before we can fully and completely claim that promise
+03:04:26,0 --> 03:04:26,0
+and by whom, and present
 
 37
-00:04:57,285 --> 00:05:06,285
- which shall call him forth from his hiding place;
+03:04:26,0 --> 03:04:26,0
+the whole concatenation of
 
 38
-00:05:06,285 --> 00:05:15,285
- and also that the whole nation may be left without
+03:04:26,0 --> 03:04:26,0
+diabolical rascality and
 
 39
-00:05:15,285 --> 00:05:24,285
- excuse before he can send forth the power of his
+03:04:26,0 --> 03:04:26,0
+nefarious and murderous
 
 40
-00:05:24,285 --> 00:05:33,285
- mighty arm
+03:04:26,0 --> 03:04:26,0
+impositions that have been
 
 41
-00:05:33,75 --> 00:05:41,442
-7 It is an imperative duty that we owe to God, to
+03:04:26,0 --> 03:11:29,
+practiced upon this people—
 
 42
-00:05:41,442 --> 00:05:49,134
- angels, with whom we shall be brought to stand,
+03:11:29,0 --> 03:11:29,0
+6 That we may not only
 
 43
-00:05:49,134 --> 00:05:56,826
- and also to ourselves, to our wives and children,
+03:11:29,0 --> 03:11:29,0
+publish to all the world,
 
 44
-00:05:56,826 --> 00:06:04,518
- who have been made to bow down with grief, sorrow,
+03:11:29,0 --> 03:11:29,0
+but present them to the
 
 45
-00:06:04,518 --> 00:06:12,21
- and care, under the most damning hand of murder,
+03:11:29,0 --> 03:11:29,0
+heads of government in all
 
 46
-00:06:12,21 --> 00:06:19,902
- tyranny, and oppression, supported and urged on and
+03:11:29,0 --> 03:11:29,0
+their dark and hellish
 
 47
-00:06:19,902 --> 00:06:27,594
- upheld by the influence of that spirit which hath
+03:11:29,0 --> 03:11:29,0
+hue, as the last effort
 
 48
-00:06:27,594 --> 00:06:35,286
- so strongly riveted the creeds of the fathers, who
+03:11:29,0 --> 03:11:29,0
+which is enjoined on us by
 
 49
-00:06:35,286 --> 00:06:42,978
- have inherited lies, upon the hearts of the
+03:11:29,0 --> 03:11:29,0
+our Heavenly Father,
 
 50
-00:06:42,978 --> 00:06:50,67
- children, and filled the world with confusion, and has
+03:11:29,0 --> 03:11:29,0
+before we can fully and
 
 51
-00:06:50,67 --> 00:06:58,362
- been growing stronger and stronger, and is now the
+03:11:29,0 --> 03:11:29,0
+completely claim that promise
 
 52
-00:06:58,362 --> 00:07:06,054
- very mainspring of all corruption, and the whole
+03:11:29,0 --> 03:11:29,0
+which shall call him forth
 
 53
-00:07:06,054 --> 00:07:13,746
- earth groans under the weight of its iniquity
+03:11:29,0 --> 03:11:29,0
+from his hiding place;
 
 54
-00:07:13,166 --> 00:07:24,499
-8 It is an iron yoke, it is a strong band; they
+03:11:29,0 --> 03:11:29,0
+and also that the whole
 
 55
-00:07:24,499 --> 00:07:35,832
- are the very handcuffs, and chains, and shackles,
+03:11:29,0 --> 03:11:29,0
+nation may be left without
 
 56
-00:07:35,832 --> 00:07:47,165
- and fetters of hell
+03:11:29,0 --> 03:11:29,0
+excuse before he can send
 
 57
-00:07:47,484 --> 00:07:52,484
-9 Therefore it is an imperative duty that we owe,
+03:11:29,0 --> 03:13:33,
+forth the power of his mighty arm.
 
 58
-00:07:52,484 --> 00:07:57,484
- not only to our own wives and children, but to the
+03:13:33,0 --> 03:13:33,0
+7 It is an imperative
 
 59
-00:07:57,484 --> 00:08:02,484
- widows and fatherless, whose husbands and fathers
+03:13:33,0 --> 03:13:33,0
+duty that we owe to God,
 
 60
-00:08:02,484 --> 00:08:07,484
- have been murdered under its iron hand
+03:13:33,0 --> 03:13:33,0
+to angels, with whom we
 
 61
-00:08:07,771 --> 00:08:14,771
-10 Which dark and blackening deeds are enough to
+03:13:33,0 --> 03:13:33,0
+shall be brought to
 
 62
-00:08:14,771 --> 00:08:21,771
- make hell itself shudder, and to stand aghast and
+03:13:33,0 --> 03:13:33,0
+stand, and also to ourselves,
 
 63
-00:08:21,771 --> 00:08:28,771
- pale, and the hands of the very devil to tremble
+03:13:33,0 --> 03:13:33,0
+to our wives and
 
 64
-00:08:28,771 --> 00:08:35,771
- and palsy
+03:13:33,0 --> 03:13:33,0
+children, who have been made
 
 65
-00:08:35,765 --> 00:08:40,765
-11 And also it is an imperative duty that we owe
+03:13:33,0 --> 03:13:33,0
+to bow down with grief,
 
 66
-00:08:40,765 --> 00:08:45,765
- to all the rising generation, and to all the pure
+03:13:33,0 --> 03:13:33,0
+sorrow, and care, under
 
 67
-00:08:45,765 --> 00:08:50,765
- in heart
+03:13:33,0 --> 03:13:33,0
+the most damning hand of
 
 68
-00:08:50,53 --> 00:08:58,93
-12 For there are many yet on the earth among all
+03:13:33,0 --> 03:13:33,0
+murder, tyranny, and
 
 69
-00:08:58,93 --> 00:09:07,33
- sects, parties, and denominations, who are blinded
+03:13:33,0 --> 03:13:33,0
+oppression, supported and
 
 70
-00:09:07,33 --> 00:09:15,73
- by the subtle craftiness of men, whereby they lie
+03:13:33,0 --> 03:13:33,0
+urged on and upheld by
 
 71
-00:09:15,73 --> 00:09:24,13
- in wait to deceive, and who are only kept from the
+03:13:33,0 --> 03:13:33,0
+the influence of that
 
 72
-00:09:24,13 --> 00:09:32,53
- truth because they know not where to find it
+03:13:33,0 --> 03:13:33,0
+spirit which hath so
 
 73
-00:09:32,038 --> 00:09:39,288
-13 Therefore, that we should waste and wear out
+03:13:33,0 --> 03:13:33,0
+strongly riveted the creeds of
 
 74
-00:09:39,288 --> 00:09:46,538
- our lives in bringing to light all the hidden things
+03:13:33,0 --> 03:13:33,0
+the fathers, who have
 
 75
-00:09:46,538 --> 00:09:53,788
- of darkness, wherein we know them; and they are
+03:13:33,0 --> 03:13:33,0
+inherited lies, upon the
 
 76
-00:09:53,788 --> 00:10:01,038
- truly manifest from heaven
+03:13:33,0 --> 03:13:33,0
+hearts of the children,
 
 77
-00:10:01,551 --> 00:10:04,551
-14 These should then be attended to with great
+03:13:33,0 --> 03:13:33,0
+and filled the world with
 
 78
-00:10:04,551 --> 00:10:07,551
- earnestness
+03:13:33,0 --> 03:13:33,0
+confusion, and has been
 
 79
-00:10:07,841 --> 00:10:14,174
-15 Let no man count them as small things; for
+03:13:33,0 --> 03:13:33,0
+growing stronger and
 
 80
-00:10:14,174 --> 00:10:20,507
- there is much which lieth in futurity, pertaining to
+03:13:33,0 --> 03:13:33,0
+stronger, and is now the
 
 81
-00:10:20,507 --> 00:10:26,84
- the saints, which depends upon these things
+03:13:33,0 --> 03:13:33,0
+very mainspring of all
 
 82
-00:10:26,359 --> 00:10:33,609
-16 You know, brethren, that a very large ship is
+03:13:33,0 --> 03:13:33,0
+corruption, and the whole
 
 83
-00:10:33,609 --> 00:10:40,859
- benefited very much by a very small helm in the
+03:13:33,0 --> 03:17:12,
+earth groans under the weight of its iniquity.
 
 84
-00:10:40,859 --> 00:10:48,109
- time of a storm, by being kept workways with the wind
+03:17:12,0 --> 03:17:12,0
+8 It is an iron yoke,
 
 85
-00:10:48,109 --> 00:10:55,359
- and the waves
+03:17:12,0 --> 03:17:12,0
+it is a strong band;
 
 86
-00:10:55,388 --> 00:10:59,988
-17 Therefore, dearly beloved brethren, let us
+03:17:12,0 --> 03:17:12,0
+they are the very
 
 87
-00:10:59,988 --> 00:11:04,588
- cheerfully do all things that lie in our power; and
+03:17:12,0 --> 03:17:12,0
+handcuffs, and chains, and
 
 88
-00:11:04,588 --> 00:11:09,188
- then may we stand still, with the utmost assurance,
+03:17:12,0 --> 04:00:08,
+shackles, and fetters of hell.
 
 89
-00:11:09,188 --> 00:11:13,788
- to see the salvation of God, and for his arm to be
+04:00:08,0 --> 04:00:08,0
+9 Therefore it is an
 
 90
-00:11:13,788 --> 00:11:18,388
- revealed.
+04:00:08,0 --> 04:00:08,0
+imperative duty that
+
+91
+04:00:08,0 --> 04:00:08,0
+we owe, not only to
+
+92
+04:00:08,0 --> 04:00:08,0
+our own wives and
+
+93
+04:00:08,0 --> 04:00:08,0
+children, but to the
+
+94
+04:00:08,0 --> 04:00:08,0
+widows and fatherless,
+
+95
+04:00:08,0 --> 04:00:08,0
+whose husbands and
+
+96
+04:00:08,0 --> 04:00:08,0
+fathers have been
+
+97
+04:00:08,0 --> 04:11:46,
+murdered under its iron hand;
+
+98
+04:11:46,0 --> 04:11:46,0
+10 Which dark and
+
+99
+04:11:46,0 --> 04:11:46,0
+blackening deeds are
+
+100
+04:11:46,0 --> 04:11:46,0
+enough to make
+
+101
+04:11:46,0 --> 04:11:46,0
+hell itself shudder,
+
+102
+04:11:46,0 --> 04:11:46,0
+and to stand aghast
+
+103
+04:11:46,0 --> 04:11:46,0
+and pale, and the
+
+104
+04:11:46,0 --> 04:11:46,0
+hands of the very
+
+105
+04:11:46,0 --> 04:46:44,
+devil to tremble and palsy.
+
+106
+04:46:44,0 --> 04:46:44,0
+11 And also it is
+
+107
+04:46:44,0 --> 04:46:44,0
+an imperative duty
+
+108
+04:46:44,0 --> 04:46:44,0
+that we owe to
+
+109
+04:46:44,0 --> 04:46:44,0
+all the rising
+
+110
+04:46:44,0 --> 04:46:44,0
+generation, and to all
+
+111
+04:46:44,0 --> 05:32:44,
+the pure in heart—
+
+112
+05:32:44,0 --> 05:32:44,0
+12 For there are
+
+113
+05:32:44,0 --> 05:32:44,0
+many yet on the
+
+114
+05:32:44,0 --> 05:32:44,0
+earth among all
+
+115
+05:32:44,0 --> 05:32:44,0
+sects, parties, and
+
+116
+05:32:44,0 --> 05:32:44,0
+denominations,
+
+117
+05:32:44,0 --> 05:32:44,0
+who are blinded by
+
+118
+05:32:44,0 --> 05:32:44,0
+the subtle
+
+119
+05:32:44,0 --> 05:32:44,0
+craftiness of men,
+
+120
+05:32:44,0 --> 05:32:44,0
+whereby they lie in
+
+121
+05:32:44,0 --> 05:32:44,0
+wait to deceive,
+
+122
+05:32:44,0 --> 05:32:44,0
+and who are only
+
+123
+05:32:44,0 --> 05:32:44,0
+kept from the
+
+124
+05:32:44,0 --> 05:32:44,0
+truth because they
+
+125
+05:32:44,0 --> 06:15:40,
+know not where to find it—
+
+126
+06:15:40,0 --> 06:15:40,0
+13 Therefore,
+
+127
+06:15:40,0 --> 06:15:40,0
+that we should
+
+128
+06:15:40,0 --> 06:15:40,0
+waste and wear out
+
+129
+06:15:40,0 --> 06:15:40,0
+our lives in
+
+130
+06:15:40,0 --> 06:15:40,0
+bringing to light
+
+131
+06:15:40,0 --> 06:15:40,0
+all the hidden
+
+132
+06:15:40,0 --> 06:15:40,0
+things of
+
+133
+06:15:40,0 --> 06:15:40,0
+darkness, wherein we
+
+134
+06:15:40,0 --> 06:15:40,0
+know them; and they
+
+135
+06:15:40,0 --> 06:15:40,0
+are truly
+
+136
+06:15:40,0 --> 07:10:37,
+manifest from heaven—
+
+137
+07:10:37,0 --> 07:10:37,0
+14 These
+
+138
+07:10:37,0 --> 07:10:37,0
+should then be
+
+139
+07:10:37,0 --> 07:10:37,0
+attended to with
+
+140
+07:10:37,0 --> 07:11:41,
+great earnestness.
+
+141
+07:11:41,0 --> 07:11:41,0
+15 Let no man
+
+142
+07:11:41,0 --> 07:11:41,0
+count them
+
+143
+07:11:41,0 --> 07:11:41,0
+as small
+
+144
+07:11:41,0 --> 07:11:41,0
+things; for there
+
+145
+07:11:41,0 --> 07:11:41,0
+is much which
+
+146
+07:11:41,0 --> 07:11:41,0
+lieth in
+
+147
+07:11:41,0 --> 07:11:41,0
+futurity,
+
+148
+07:11:41,0 --> 07:11:41,0
+pertaining to the
+
+149
+07:11:41,0 --> 07:11:41,0
+saints, which
+
+150
+07:11:41,0 --> 07:11:41,0
+depends upon
+
+151
+07:11:41,0 --> 07:31:46,
+these things.
+
+152
+07:31:46,0 --> 07:31:46,0
+16 You know,
+
+153
+07:31:46,0 --> 07:31:46,0
+brethren,
+
+154
+07:31:46,0 --> 07:31:46,0
+that a very
+
+155
+07:31:46,0 --> 07:31:46,0
+large ship is
+
+156
+07:31:46,0 --> 07:31:46,0
+benefited
+
+157
+07:31:46,0 --> 07:31:46,0
+very much by
+
+158
+07:31:46,0 --> 07:31:46,0
+a very small
+
+159
+07:31:46,0 --> 07:31:46,0
+helm in the
+
+160
+07:31:46,0 --> 07:31:46,0
+time of a
+
+161
+07:31:46,0 --> 07:31:46,0
+storm, by
+
+162
+07:31:46,0 --> 07:31:46,0
+being kept
+
+163
+07:31:46,0 --> 07:31:46,0
+workways with
+
+164
+07:31:46,0 --> 08:06:44,
+the wind and the waves.
+
+165
+08:06:44,0 --> 08:06:44,0
+17
+
+166
+08:06:44,0 --> 08:06:44,0
+Therefore, dearly
+
+167
+08:06:44,0 --> 08:06:44,0
+beloved
+
+168
+08:06:44,0 --> 08:06:44,0
+brethren, let
+
+169
+08:06:44,0 --> 08:06:44,0
+us
+
+170
+08:06:44,0 --> 08:06:44,0
+cheerfully do all
+
+171
+08:06:44,0 --> 08:06:44,0
+things that
+
+172
+08:06:44,0 --> 08:06:44,0
+lie in our
+
+173
+08:06:44,0 --> 08:06:44,0
+power; and
+
+174
+08:06:44,0 --> 08:06:44,0
+then may we
+
+175
+08:06:44,0 --> 08:06:44,0
+stand
+
+176
+08:06:44,0 --> 08:06:44,0
+still, with the
+
+177
+08:06:44,0 --> 08:06:44,0
+utmost
+
+178
+08:06:44,0 --> 08:06:44,0
+assurance, to
+
+179
+08:06:44,0 --> 08:06:44,0
+see the
+
+180
+08:06:44,0 --> 08:06:44,0
+salvation of
+
+181
+08:06:44,0 --> 08:06:44,0
+God, and for
+
+182
+08:06:44,0 --> 08:34:48,
+his arm to be revealed. 
 

@@ -1,283 +1,399 @@
 1
-00:00:11,278 --> 00:00:17,373
+00:00:00,0 --> 00:00:00,0
 Section 21 Revelation given to Joseph Smith the
 
 2
-00:00:17,373 --> 00:00:23,468
- Prophet, at Fayette, New York, April 6, 1830. This
+00:00:00,0 --> 00:00:00,0
+Prophet, at Fayette, New York, April 6, 1830. This
 
 3
-00:00:23,468 --> 00:00:29,563
- revelation was given at the organization of the
+00:00:00,0 --> 00:00:00,0
+revelation was given at the organization of the
 
 4
-00:00:29,563 --> 00:00:35,658
- Church, on the date named, in the home of Peter
+00:00:00,0 --> 00:00:00,0
+Church, on the date named, in the home of Peter
 
 5
-00:00:35,658 --> 00:00:41,753
- Whitmer Sr. Six men, who had previously been baptized,
+00:00:00,0 --> 00:00:00,0
+Whitmer Sr. Six men, who had previously been
 
 6
-00:00:41,753 --> 00:00:47,848
- participated. By unanimous vote these persons
+00:00:00,0 --> 00:00:00,0
+baptized, participated. By unanimous vote these
 
 7
-00:00:47,848 --> 00:00:53,943
- expressed their desire and determination to organize,
+00:00:00,0 --> 00:00:00,0
+persons expressed their desire and determination to
 
 8
-00:00:53,943 --> 00:01:00,038
- according to the commandment of God (see
+00:00:00,0 --> 00:00:00,0
+organize, according to the commandment of God (see
 
 9
-00:01:00,038 --> 00:01:06,133
-section 20). They also voted to accept and sustain Joseph
+00:00:00,0 --> 00:00:00,0
+section 20). They also voted to accept and
 
 10
-00:01:06,133 --> 00:01:12,228
- Smith Jr. and Oliver Cowdery as the presiding
+00:00:00,0 --> 00:00:00,0
+sustain Joseph Smith Jr. and Oliver Cowdery as the
 
 11
-00:01:12,228 --> 00:01:18,323
- officers of the Church. With the laying on of hands,
+00:00:00,0 --> 00:00:00,0
+presiding officers of the Church. With the laying on
 
 12
-00:01:18,323 --> 00:01:24,418
- Joseph then ordained Oliver an elder of the Church,
+00:00:00,0 --> 00:00:00,0
+of hands, Joseph then ordained Oliver an elder of
 
 13
-00:01:24,418 --> 00:01:30,513
- and Oliver similarly ordained Joseph. After
+00:00:00,0 --> 00:00:00,0
+the Church, and Oliver similarly ordained
 
 14
-00:01:30,513 --> 00:01:36,608
- administration of the sacrament, Joseph and Oliver laid
+00:00:00,0 --> 00:00:00,0
+Joseph. After administration of the sacrament, Joseph
 
 15
-00:01:36,608 --> 00:01:42,703
- hands upon the participants individually for the
+00:00:00,0 --> 00:00:00,0
+and Oliver laid hands upon the participants
 
 16
-00:01:42,703 --> 00:01:48,798
- bestowal of the Holy Ghost and for the
+00:00:00,0 --> 00:00:00,0
+individually for the bestowal of the Holy Ghost and for
 
 17
-00:01:48,798 --> 00:01:54,893
- confirmation of each as a member of the Church. 
-1–3, Joseph
+00:00:00,0 --> 00:00:00,0
+the confirmation of each as a member of the
 
 18
-00:01:54,893 --> 00:02:00,988
- Smith is called to be a seer, translator, prophet,
+00:00:00,0 --> 00:00:00,0
+Church. 
+1–3, Joseph Smith is called to be a seer,
 
 19
-00:02:00,988 --> 00:02:07,083
- apostle, and elder; 
-4–8, His word will guide the
+00:00:00,0 --> 00:00:00,0
+translator, prophet, apostle, and elder; 
+4–8, His
 
 20
-00:02:07,083 --> 00:02:13,178
- cause of Zion; 
-9–12, The Saints will believe his
+00:00:00,0 --> 00:00:00,0
+word will guide the cause of Zion; 
+9–12, The
 
 21
-00:02:13,178 --> 00:02:19,273
- words as he speaks by the Comforter.
+00:00:00,0 --> 01:08:55,
+Saints will believe his words as he speaks by the Comforter. 
 
 22
-00:02:19,339 --> 00:02:25,539
-1 Behold, there shall be a record kept among you;
+01:08:55,0 --> 01:08:55,0
+1 Behold, there shall be a record kept among
 
 23
-00:02:25,539 --> 00:02:31,739
- and in it thou shalt be called a seer, a
+01:08:55,0 --> 01:08:55,0
+you; and in it thou shalt be called a seer, a
 
 24
-00:02:31,739 --> 00:02:37,939
- translator, a prophet, an apostle of Jesus Christ, an elder
+01:08:55,0 --> 01:08:55,0
+translator, a prophet, an apostle of Jesus Christ, an
 
 25
-00:02:37,939 --> 00:02:44,139
- of the church through the will of God the Father,
+01:08:55,0 --> 01:08:55,0
+elder of the church through the will of God the
 
 26
-00:02:44,139 --> 00:02:50,339
- and the grace of your Lord Jesus Christ
+01:08:55,0 --> 01:08:27,
+Father, and the grace of your Lord Jesus Christ,
 
 27
-00:02:50,771 --> 00:02:55,438
-2 Being inspired of the Holy Ghost to lay the
+01:08:27,0 --> 01:08:27,0
+2 Being inspired of the Holy Ghost
 
 28
-00:02:55,438 --> 00:03:00,105
- foundation thereof, and to build it up unto the most
+01:08:27,0 --> 01:08:27,0
+to lay the foundation thereof, and to
 
 29
-00:03:00,105 --> 00:03:04,772
- holy faith
+01:08:27,0 --> 01:10:39,
+build it up unto the most holy faith.
 
 30
-00:03:04,751 --> 00:03:08,251
-3 Which church was organized and established in
+01:10:39,0 --> 01:10:39,0
+3 Which church was organized and
 
 31
-00:03:08,251 --> 00:03:11,751
- the year of your Lord eighteen hundred and thirty,
+01:10:39,0 --> 01:10:39,0
+established in the year of your Lord
 
 32
-00:03:11,751 --> 00:03:15,251
- in the fourth month, and on the sixth day of the
+01:10:39,0 --> 01:10:39,0
+eighteen hundred and thirty, in the
 
 33
-00:03:15,251 --> 00:03:18,751
- month which is called April
+01:10:39,0 --> 01:10:39,0
+fourth month, and on the sixth day
 
 34
-00:03:18,265 --> 00:03:23,515
-4 Wherefore, meaning the church, thou shalt give
+01:10:39,0 --> 01:14:52,
+of the month which is called April.
 
 35
-00:03:23,515 --> 00:03:28,765
- heed unto all his words and commandments which he
+01:14:52,0 --> 01:14:52,0
+4 Wherefore, meaning the church,
 
 36
-00:03:28,765 --> 00:03:34,015
- shall give unto you as he receiveth them, walking
+01:14:52,0 --> 01:14:52,0
+thou shalt give heed unto all his
 
 37
-00:03:34,015 --> 00:03:39,265
- in all holiness before me
+01:14:52,0 --> 01:14:52,0
+words and commandments which he shall
 
 38
-00:03:39,019 --> 00:03:46,519
-5 For his word ye shall receive, as if from mine
+01:14:52,0 --> 01:14:52,0
+give unto you as he receiveth them,
 
 39
-00:03:46,519 --> 00:03:54,019
- own mouth, in all patience and faith
+01:14:52,0 --> 01:25:02,
+walking in all holiness before me;
 
 40
-00:03:54,0 --> 00:04:00,2
-6 For by doing these things the gates of hell
+01:25:02,0 --> 01:25:02,0
+5 For his word ye shall
 
 41
-00:04:00,2 --> 00:04:06,4
- shall not prevail against you; yea, and the Lord God
+01:25:02,0 --> 01:25:02,0
+receive, as if from mine own
 
 42
-00:04:06,4 --> 00:04:12,6
- will disperse the powers of darkness from before
+01:25:02,0 --> 01:31:57,
+mouth, in all patience and faith.
 
 43
-00:04:12,6 --> 00:04:18,8
- you, and cause the heavens to shake for your good,
+01:31:57,0 --> 01:31:57,0
+6 For by doing these things
 
 44
-00:04:18,8 --> 00:04:25,0
- and his name’s glory
+01:31:57,0 --> 01:31:57,0
+the gates of hell shall
 
 45
-00:04:25,665 --> 00:04:32,915
-7 For thus saith the Lord God: Him have I inspired
+01:31:57,0 --> 01:31:57,0
+not prevail against you; yea,
 
 46
-00:04:32,915 --> 00:04:40,165
- to move the cause of Zion in mighty power for
+01:31:57,0 --> 01:31:57,0
+and the Lord God will
 
 47
-00:04:40,165 --> 00:04:47,415
- good, and his diligence I know, and his prayers I
+01:31:57,0 --> 01:31:57,0
+disperse the powers of darkness
 
 48
-00:04:47,415 --> 00:04:54,665
- have heard
+01:31:57,0 --> 01:31:57,0
+from before you, and cause
 
 49
-00:04:54,161 --> 00:05:00,361
-8 Yea, his weeping for Zion I have seen, and I
+01:31:57,0 --> 01:31:57,0
+the heavens to shake for
 
 50
-00:05:00,361 --> 00:05:06,561
- will cause that he shall mourn for her no longer; for
+01:31:57,0 --> 01:38:38,
+your good, and his name’s glory.
 
 51
-00:05:06,561 --> 00:05:12,761
- his days of rejoicing are come unto the remission
+01:38:38,0 --> 01:38:38,0
+7 For thus saith the Lord
 
 52
-00:05:12,761 --> 00:05:18,961
- of his sins, and the manifestations of my
+01:38:38,0 --> 01:38:38,0
+God: Him have I inspired
 
 53
-00:05:18,961 --> 00:05:25,161
- blessings upon his works
+01:38:38,0 --> 01:38:38,0
+to move the cause of Zion
 
 54
-00:05:25,592 --> 00:05:31,163
-9 For, behold, I will bless all those who labor in
+01:38:38,0 --> 01:38:38,0
+in mighty power for good,
 
 55
-00:05:31,163 --> 00:05:36,734
- my vineyard with a mighty blessing, and they
+01:38:38,0 --> 01:38:38,0
+and his diligence I know,
 
 56
-00:05:36,734 --> 00:05:42,305
- shall believe on his words, which are given him
+01:38:38,0 --> 01:48:48,
+and his prayers I have heard.
 
 57
-00:05:42,305 --> 00:05:47,876
- through me by the Comforter, which manifesteth that
+01:48:48,0 --> 01:48:48,0
+8 Yea, his weeping for
 
 58
-00:05:47,876 --> 00:05:53,447
- Jesus was crucified by sinful men for the sins of the
+01:48:48,0 --> 01:48:48,0
+Zion I have seen, and I
 
 59
-00:05:53,447 --> 00:05:59,018
- world, yea, for the remission of sins unto the
+01:48:48,0 --> 01:48:48,0
+will cause that he shall
 
 60
-00:05:59,018 --> 00:06:04,589
- contrite heart
+01:48:48,0 --> 01:48:48,0
+mourn for her no longer;
 
 61
-00:06:04,764 --> 00:06:10,264
-10 Wherefore it behooveth me that he should be
+01:48:48,0 --> 01:48:48,0
+for his days of
 
 62
-00:06:10,264 --> 00:06:15,764
- ordained by you, Oliver Cowdery mine apostle
+01:48:48,0 --> 01:48:48,0
+rejoicing are come unto the
 
 63
-00:06:15,809 --> 00:06:21,559
-11 This being an ordinance unto you, that you are
+01:48:48,0 --> 01:48:48,0
+remission of his sins, and
 
 64
-00:06:21,559 --> 00:06:27,309
- an elder under his hand, he being the first unto
+01:48:48,0 --> 01:48:48,0
+the manifestations of my
 
 65
-00:06:27,309 --> 00:06:33,059
- you, that you might be an elder unto this church of
+01:48:48,0 --> 01:56:32,
+blessings upon his works.
 
 66
-00:06:33,059 --> 00:06:38,809
- Christ, bearing my name
+01:56:32,0 --> 01:56:32,0
+9 For, behold, I will
 
 67
-00:06:38,064 --> 00:06:44,564
-12 And the first preacher of this church unto the
+01:56:32,0 --> 01:56:32,0
+bless all those who labor
 
 68
-00:06:44,564 --> 00:06:51,064
- church, and before the world, yea, before the
+01:56:32,0 --> 01:56:32,0
+in my vineyard with a
 
 69
-00:06:51,064 --> 00:06:57,564
- Gentiles; yea, and thus saith the Lord God, lo, lo! to
+01:56:32,0 --> 01:56:32,0
+mighty blessing, and they
 
 70
-00:06:57,564 --> 00:07:04,064
- the Jews also. Amen.
+01:56:32,0 --> 01:56:32,0
+shall believe on his
+
+71
+01:56:32,0 --> 01:56:32,0
+words, which are given him
+
+72
+01:56:32,0 --> 01:56:32,0
+through me by the
+
+73
+01:56:32,0 --> 01:56:32,0
+Comforter, which manifesteth
+
+74
+01:56:32,0 --> 01:56:32,0
+that Jesus was crucified
+
+75
+01:56:32,0 --> 01:56:32,0
+by sinful men for the
+
+76
+01:56:32,0 --> 01:56:32,0
+sins of the world, yea,
+
+77
+01:56:32,0 --> 01:56:32,0
+for the remission of sins
+
+78
+01:56:32,0 --> 02:12:28,
+unto the contrite heart.
+
+79
+02:12:28,0 --> 02:12:28,0
+10 Wherefore it
+
+80
+02:12:28,0 --> 02:12:28,0
+behooveth me that he should be
+
+81
+02:12:28,0 --> 02:12:28,0
+ordained by you,
+
+82
+02:12:28,0 --> 02:26:37,
+Oliver Cowdery mine apostle;
+
+83
+02:26:37,0 --> 02:26:37,0
+11 This being an
+
+84
+02:26:37,0 --> 02:26:37,0
+ordinance unto you, that
+
+85
+02:26:37,0 --> 02:26:37,0
+you are an elder
+
+86
+02:26:37,0 --> 02:26:37,0
+under his hand, he being
+
+87
+02:26:37,0 --> 02:26:37,0
+the first unto you,
+
+88
+02:26:37,0 --> 02:26:37,0
+that you might be an
+
+89
+02:26:37,0 --> 02:26:37,0
+elder unto this church
+
+90
+02:26:37,0 --> 02:36:47,
+of Christ, bearing my name—
+
+91
+02:36:47,0 --> 02:36:47,0
+12 And the first
+
+92
+02:36:47,0 --> 02:36:47,0
+preacher of this
+
+93
+02:36:47,0 --> 02:36:47,0
+church unto the church,
+
+94
+02:36:47,0 --> 02:36:47,0
+and before the
+
+95
+02:36:47,0 --> 02:36:47,0
+world, yea, before the
+
+96
+02:36:47,0 --> 02:36:47,0
+Gentiles; yea, and
+
+97
+02:36:47,0 --> 02:36:47,0
+thus saith the
+
+98
+02:36:47,0 --> 02:36:47,0
+Lord God, lo, lo! to
+
+99
+02:36:47,0 --> 02:37:59,
+the Jews also. Amen. 
 

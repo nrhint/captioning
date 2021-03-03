@@ -1,1182 +1,3958 @@
 1
-00:00:11,328 --> 00:00:13,928
+00:00:00,0 --> 00:00:00,0
 Section 128 An epistle from Joseph Smith the
 
 2
-00:00:13,928 --> 00:00:16,528
- Prophet to The Church of Jesus Christ of Latter-day
+00:00:00,0 --> 00:00:00,0
+Prophet to The Church of Jesus Christ of Latter-day
 
 3
-00:00:16,528 --> 00:00:19,128
- Saints, containing further directions on baptism for
+00:00:00,0 --> 00:00:00,0
+Saints, containing further directions on baptism
 
 4
-00:00:19,128 --> 00:00:21,728
- the dead, dated at Nauvoo, Illinois, September 6,
+00:00:00,0 --> 00:00:00,0
+for the dead, dated at Nauvoo, Illinois, September
 
 5
-00:00:21,728 --> 00:00:24,328
- 1842. 
+00:00:00,0 --> 00:00:00,0
+6, 1842. 
 1–5, Local and general recorders must
 
 6
-00:00:24,328 --> 00:00:26,928
- certify to the fact of baptisms for the dead; 
-6–9,
+00:00:00,0 --> 00:00:00,0
+certify to the fact of baptisms for the dead;
 
 7
-00:00:26,928 --> 00:00:29,528
- Their records are binding and recorded on earth and
+00:00:00,0 --> 00:00:00,0
+6–9, Their records are binding and recorded on
 
 8
-00:00:29,528 --> 00:00:32,128
- in heaven; 
+00:00:00,0 --> 00:00:00,0
+earth and in heaven; 
 10–14, The baptismal font is a
 
 9
-00:00:32,128 --> 00:00:34,728
- similitude of the grave; 
-15–17, Elijah restored power
+00:00:00,0 --> 00:00:00,0
+similitude of the grave; 
+15–17, Elijah restored
 
 10
-00:00:34,728 --> 00:00:37,328
- relative to baptism for the dead; 
-18–21, All of the
+00:00:00,0 --> 00:00:00,0
+power relative to baptism for the dead; 
+18–21,
 
 11
-00:00:37,328 --> 00:00:39,928
- keys, powers, and authorities of past
+00:00:00,0 --> 00:00:00,0
+All of the keys, powers, and authorities of past
 
 12
-00:00:39,928 --> 00:00:42,528
- dispensations have been restored; 
-22–25, Glad and glorious
+00:00:00,0 --> 00:00:00,0
+dispensations have been restored; 
+22–25, Glad and
 
 13
-00:00:42,528 --> 00:00:45,128
- tidings are acclaimed for the living and the dead.
+00:00:00,0 --> 00:00:00,0
+glorious tidings are acclaimed for the living
 
 14
-00:00:45,128 --> 00:00:47,728
-Revelation 20:12—And I saw the dead, small and
+00:00:00,0 --> 00:00:00,0
+and the dead. 
+Revelation 20:12—And I saw the dead,
 
 15
-00:00:47,728 --> 00:00:50,328
- great, stand before God; and the books were opened;
+00:00:00,0 --> 00:00:00,0
+small and great, stand before God; and the books
 
 16
-00:00:50,328 --> 00:00:52,928
- and another book was opened, which is the book of
+00:00:00,0 --> 00:00:00,0
+were opened; and another book was opened, which
 
 17
-00:00:52,928 --> 00:00:55,528
- life; and the dead were judged out of those things
+00:00:00,0 --> 00:00:00,0
+is the book of life; and the dead were judged out
 
 18
-00:00:55,528 --> 00:00:58,128
- which were written in the books, according to
+00:00:00,0 --> 00:00:00,0
+of those things which were written in the books,
 
 19
-00:00:58,128 --> 00:01:00,728
- their works.
-Matthew 16:18, 19: And I say also unto
+00:00:00,0 --> 00:00:00,0
+according to their works.
+Matthew 16:18, 19: And
 
 20
-00:01:00,728 --> 00:01:03,328
- thee, That thou art Peter, and upon this rock I will
+00:00:00,0 --> 00:00:00,0
+I say also unto thee, That thou art Peter, and
 
 21
-00:01:03,328 --> 00:01:05,928
- build my church; and the gates of hell shall not
+00:00:00,0 --> 00:00:00,0
+upon this rock I will build my church; and the
 
 22
-00:01:05,928 --> 00:01:08,528
- prevail against it. And I will give unto thee the
+00:00:00,0 --> 00:00:00,0
+gates of hell shall not prevail against it. And I
 
 23
-00:01:08,528 --> 00:01:11,128
- keys of the kingdom of heaven: and whatsoever thou
+00:00:00,0 --> 00:00:00,0
+will give unto thee the keys of the kingdom of
 
 24
-00:01:11,128 --> 00:01:13,728
- shalt bind on earth shall be bound in heaven; and
+00:00:00,0 --> 00:00:00,0
+heaven: and whatsoever thou shalt bind on earth shall
 
 25
-00:01:13,728 --> 00:01:16,328
- whatsoever thou shalt loose on earth shall be
+00:00:00,0 --> 00:00:00,0
+be bound in heaven; and whatsoever thou shalt
 
 26
-00:01:16,328 --> 00:01:18,928
- loosed in heaven.
-1 Corinthians 15:46, 47, and
+00:00:00,0 --> 00:00:00,0
+loose on earth shall be loosed in
 
 27
-00:01:18,928 --> 00:01:21,528
- 48:
-1 Corinthians 15:29: Else what shall they do which
+00:00:00,0 --> 00:00:00,0
+heaven.
+1 Corinthians 15:46, 47, and 48:
+1 Corinthians 15:29: Else
 
 28
-00:01:21,528 --> 00:01:24,128
- are baptized for the dead, if the dead rise not at
+00:00:00,0 --> 00:00:00,0
+what shall they do which are baptized for the
 
 29
-00:01:24,128 --> 00:01:26,728
- all? Why are they then baptized for the dead?
-last
+00:00:00,0 --> 00:00:00,0
+dead, if the dead rise not at all? Why are they
 
 30
-00:01:26,728 --> 00:01:29,328
- chapter, verses 5th and 6th: Behold, I will send
+00:00:00,0 --> 00:00:00,0
+then baptized for the dead?
+last chapter, verses 5th
 
 31
-00:01:29,328 --> 00:01:31,928
- you Elijah the prophet before the coming of the
+00:00:00,0 --> 00:00:00,0
+and 6th: Behold, I will send you Elijah the
 
 32
-00:01:31,928 --> 00:01:34,528
- great and dreadful day of the Lord: And he shall
+00:00:00,0 --> 00:00:00,0
+prophet before the coming of the great and dreadful
 
 33
-00:01:34,528 --> 00:01:37,128
- turn the heart of the fathers to the children, and
+00:00:00,0 --> 00:00:00,0
+day of the Lord: And he shall turn the heart of
 
 34
-00:01:37,128 --> 00:01:39,728
- the heart of the children to their fathers, lest I
+00:00:00,0 --> 00:00:00,0
+the fathers to the children, and the heart of the
 
 35
-00:01:39,728 --> 00:01:42,328
- come and smite the earth with a curse
+00:00:00,0 --> 01:40:53,
+children to their fathers, lest I come and smite the earth with a curse.
 
 36
-00:01:42,419 --> 00:01:46,99
-1 As I stated to you in my letter before I left my
+01:40:53,0 --> 01:40:53,0
+1 As I stated to you in my letter before I left
 
 37
-00:01:46,99 --> 00:01:51,561
- place, that I would write to you from time to
+01:40:53,0 --> 01:40:53,0
+my place, that I would write to you from time to
 
 38
-00:01:51,561 --> 00:01:56,132
- time and give you information in relation to many
+01:40:53,0 --> 01:40:53,0
+time and give you information in relation to
 
 39
-00:01:56,132 --> 00:02:00,703
- subjects, I now resume the subject of the baptism for
+01:40:53,0 --> 01:40:53,0
+many subjects, I now resume the subject of the
 
 40
-00:02:00,703 --> 00:02:05,274
- the dead, as that subject seems to occupy my
+01:40:53,0 --> 01:40:53,0
+baptism for the dead, as that subject seems to
 
 41
-00:02:05,274 --> 00:02:09,845
- mind, and press itself upon my feelings the strongest,
+01:40:53,0 --> 01:40:53,0
+occupy my mind, and press itself upon my feelings
 
 42
-00:02:09,845 --> 00:02:14,416
- since I have been pursued by my enemies
+01:40:53,0 --> 01:40:31,
+the strongest, since I have been pursued by my enemies.
 
 43
-00:02:14,384 --> 00:02:19,813
+01:40:31,0 --> 01:40:31,0
 2 I wrote a few words of revelation to you
 
 44
-00:02:19,813 --> 00:02:25,242
- concerning a recorder. I have had a few additional views
+01:40:31,0 --> 01:40:31,0
+concerning a recorder. I have had a few
 
 45
-00:02:25,242 --> 00:02:30,671
- in relation to this matter, which I now certify.
+01:40:31,0 --> 01:40:31,0
+additional views in relation to this
 
 46
-00:02:30,671 --> 00:02:36,1
- That is, it was declared in my former letter that
+01:40:31,0 --> 01:40:31,0
+matter, which I now certify. That is, it was
 
 47
-00:02:36,1 --> 00:02:41,529
- there should be a recorder, who should be
+01:40:31,0 --> 01:40:31,0
+declared in my former letter that there
 
 48
-00:02:41,529 --> 00:02:46,958
- eye-witness, and also to hear with his ears, that he might
+01:40:31,0 --> 01:40:31,0
+should be a recorder, who should be
 
 49
-00:02:46,958 --> 00:02:52,387
- make a record of a truth before the Lord
+01:40:31,0 --> 01:40:31,0
+eye-witness, and also to hear with his ears, that he
 
 50
-00:02:52,639 --> 00:02:58,106
-3 Now, in relation to this matter, it would be
+01:40:31,0 --> 01:36:11,
+might make a record of a truth before the Lord.
 
 51
-00:02:58,106 --> 00:03:03,573
- very difficult for one recorder to be present at all
+01:36:11,0 --> 01:36:11,0
+3 Now, in relation to this matter, it
 
 52
-00:03:03,573 --> 00:03:09,04
- times, and to do all the business. To obviate this
+01:36:11,0 --> 01:36:11,0
+would be very difficult for one recorder
 
 53
-00:03:09,04 --> 00:03:14,507
- difficulty, there can be a recorder appointed in
+01:36:11,0 --> 01:36:11,0
+to be present at all times, and to do all
 
 54
-00:03:14,507 --> 00:03:19,974
- each ward of the city, who is well qualified for
+01:36:11,0 --> 01:36:11,0
+the business. To obviate this
 
 55
-00:03:19,974 --> 00:03:25,441
- taking accurate minutes; and let him be very
+01:36:11,0 --> 01:36:11,0
+difficulty, there can be a recorder appointed in
 
 56
-00:03:25,441 --> 00:03:30,908
- particular and precise in taking the whole proceedings,
+01:36:11,0 --> 01:36:11,0
+each ward of the city, who is well
 
 57
-00:03:30,908 --> 00:03:36,375
- certifying in his record that he saw with his
+01:36:11,0 --> 01:36:11,0
+qualified for taking accurate minutes; and
 
 58
-00:03:36,375 --> 00:03:41,842
- eyes, and heard with his ears, giving the date, and
+01:36:11,0 --> 01:36:11,0
+let him be very particular and precise in
 
 59
-00:03:41,842 --> 00:03:47,309
- names, and so forth, and the history of the whole
+01:36:11,0 --> 01:36:11,0
+taking the whole proceedings, certifying
 
 60
-00:03:47,309 --> 00:03:52,776
- transaction; naming also some three individuals that
+01:36:11,0 --> 01:36:11,0
+in his record that he saw with his
 
 61
-00:03:52,776 --> 00:03:58,243
- are present, if there be any present, who can at
+01:36:11,0 --> 01:36:11,0
+eyes, and heard with his ears, giving the
 
 62
-00:03:58,243 --> 00:04:03,71
- any time when called upon certify to the same,
+01:36:11,0 --> 01:36:11,0
+date, and names, and so forth, and the
 
 63
-00:04:03,71 --> 00:04:09,177
- that in the mouth of two or three witnesses every
+01:36:11,0 --> 01:36:11,0
+history of the whole transaction; naming
 
 64
-00:04:09,177 --> 00:04:14,644
- word may be established
+01:36:11,0 --> 01:36:11,0
+also some three individuals that are
 
 65
-00:04:14,571 --> 00:04:20,446
-4 Then, let there be a general recorder, to whom
+01:36:11,0 --> 01:36:11,0
+present, if there be any present, who can at
 
 66
-00:04:20,446 --> 00:04:26,321
- these other records can be handed, being attended
+01:36:11,0 --> 01:36:11,0
+any time when called upon certify to the
 
 67
-00:04:26,321 --> 00:04:32,196
- with certificates over their own signatures,
+01:36:11,0 --> 01:36:11,0
+same, that in the mouth of two or three
 
 68
-00:04:32,196 --> 00:04:38,071
- certifying that the record they have made is true. Then
+01:36:11,0 --> 01:41:16,
+witnesses every word may be established.
 
 69
-00:04:38,071 --> 00:04:43,946
- the general church recorder can enter the record
+01:41:16,0 --> 01:41:16,0
+4 Then, let there be a general
 
 70
-00:04:43,946 --> 00:04:49,821
- on the general church book, with the certificates
+01:41:16,0 --> 01:41:16,0
+recorder, to whom these other records can be
 
 71
-00:04:49,821 --> 00:04:55,696
- and all the attending witnesses, with his own
+01:41:16,0 --> 01:41:16,0
+handed, being attended with certificates
 
 72
-00:04:55,696 --> 00:05:01,571
- statement that he verily believes the above statement
+01:41:16,0 --> 01:41:16,0
+over their own signatures, certifying
 
 73
-00:05:01,571 --> 00:05:07,446
- and records to be true, from his knowledge of the
+01:41:16,0 --> 01:41:16,0
+that the record they have made is true.
 
 74
-00:05:07,446 --> 00:05:13,321
- general character and appointment of those men by
+01:41:16,0 --> 01:41:16,0
+Then the general church recorder can
 
 75
-00:05:13,321 --> 00:05:19,196
- the church. And when this is done on the general
+01:41:16,0 --> 01:41:16,0
+enter the record on the general church
 
 76
-00:05:19,196 --> 00:05:25,071
- church book, the record shall be just as holy, and
+01:41:16,0 --> 01:41:16,0
+book, with the certificates and all the
 
 77
-00:05:25,071 --> 00:05:30,946
- shall answer the ordinance just the same as if he
+01:41:16,0 --> 01:41:16,0
+attending witnesses, with his own
 
 78
-00:05:30,946 --> 00:05:36,821
- had seen with his eyes and heard with his ears, and
+01:41:16,0 --> 01:41:16,0
+statement that he verily believes the above
 
 79
-00:05:36,821 --> 00:05:42,696
- made a record of the same on the general church
+01:41:16,0 --> 01:41:16,0
+statement and records to be true, from
 
 80
-00:05:42,696 --> 00:05:48,571
- book
+01:41:16,0 --> 01:41:16,0
+his knowledge of the general character
 
 81
-00:05:48,248 --> 00:05:51,677
-5 You may think this order of things to be very
+01:41:16,0 --> 01:41:16,0
+and appointment of those men by the
 
 82
-00:05:51,677 --> 00:05:55,106
- particular; but let me tell you that it is only to
+01:41:16,0 --> 01:41:16,0
+church. And when this is done on the
 
 83
-00:05:55,106 --> 00:05:58,535
- answer the will of God, by conforming to the
+01:41:16,0 --> 01:41:16,0
+general church book, the record shall be just
 
 84
-00:05:58,535 --> 00:06:01,964
- ordinance and preparation that the Lord ordained and
+01:41:16,0 --> 01:41:16,0
+as holy, and shall answer the
 
 85
-00:06:01,964 --> 00:06:05,393
- prepared before the foundation of the world, for the
+01:41:16,0 --> 01:41:16,0
+ordinance just the same as if he had seen with
 
 86
-00:06:05,393 --> 00:06:08,822
- salvation of the dead who should die without a
+01:41:16,0 --> 01:41:16,0
+his eyes and heard with his ears, and
 
 87
-00:06:08,822 --> 00:06:12,251
- knowledge of the gospel
+01:41:16,0 --> 01:40:54,
+made a record of the same on the general church book.
 
 88
-00:06:12,772 --> 00:06:26,522
-6 And further, I want you to remember that John
+01:40:54,0 --> 01:40:54,0
+5 You may think this order of
 
 89
-00:06:26,522 --> 00:06:40,272
- the Revelator was contemplating this very subject in
+01:40:54,0 --> 01:40:54,0
+things to be very particular; but let me
 
 90
-00:06:40,272 --> 00:06:54,022
- relation to the dead, when he declared, as you
+01:40:54,0 --> 01:40:54,0
+tell you that it is only to answer
 
 91
-00:06:54,022 --> 00:07:07,772
- will find recorded in
+01:40:54,0 --> 01:40:54,0
+the will of God, by conforming to
 
 92
-00:07:07,243 --> 00:07:11,886
-7 You will discover in this quotation that the
+01:40:54,0 --> 01:40:54,0
+the ordinance and preparation that
 
 93
-00:07:11,886 --> 00:07:16,529
- books were opened; and another book was opened, which
+01:40:54,0 --> 01:40:54,0
+the Lord ordained and prepared
 
 94
-00:07:16,529 --> 00:07:21,172
- was the book of life; but the dead were judged
+01:40:54,0 --> 01:40:54,0
+before the foundation of the world, for
 
 95
-00:07:21,172 --> 00:07:25,815
- out of those things which were written in the books,
+01:40:54,0 --> 01:40:54,0
+the salvation of the dead who
 
 96
-00:07:25,815 --> 00:07:30,458
- according to their works; consequently, the books
+01:40:54,0 --> 01:40:32,
+should die without a knowledge of the gospel.
 
 97
-00:07:30,458 --> 00:07:35,101
- spoken of must be the books which contained the
+01:40:32,0 --> 01:40:32,0
+6 And further, I want you to
 
 98
-00:07:35,101 --> 00:07:39,744
- record of their works, and refer to the records
+01:40:32,0 --> 01:40:32,0
+remember that John the Revelator was
 
 99
-00:07:39,744 --> 00:07:44,387
- which are kept on the earth. And the book which was
+01:40:32,0 --> 01:40:32,0
+contemplating this very subject in
 
 100
-00:07:44,387 --> 00:07:49,03
- the book of life is the record which is kept in
+01:40:32,0 --> 01:40:32,0
+relation to the dead, when he
 
 101
-00:07:49,03 --> 00:07:53,673
- heaven; the principle agreeing precisely with the
+01:40:32,0 --> 01:36:12,
+declared, as you will find recorded in 
 
 102
-00:07:53,673 --> 00:07:58,316
- doctrine which is commanded you in the revelation
+01:36:12,0 --> 01:36:12,0
+7 You will discover in this
 
 103
-00:07:58,316 --> 00:08:02,959
- contained in the letter which I wrote to you previous
+01:36:12,0 --> 01:36:12,0
+quotation that the books were
 
 104
-00:08:02,959 --> 00:08:07,602
- to my leaving my place—that in all your
+01:36:12,0 --> 01:36:12,0
+opened; and another book was opened,
 
 105
-00:08:07,602 --> 00:08:12,245
- recordings it may be recorded in heaven
+01:36:12,0 --> 01:36:12,0
+which was the book of life; but
 
 106
-00:08:12,959 --> 00:08:18,9
-8 Now, the nature of this ordinance consists in
+01:36:12,0 --> 01:36:12,0
+the dead were judged out of those
 
 107
-00:08:18,9 --> 00:08:24,841
- the power of the priesthood, by the revelation of
+01:36:12,0 --> 01:36:12,0
+things which were written in
 
 108
-00:08:24,841 --> 00:08:30,782
- Jesus Christ, wherein it is granted that whatsoever
+01:36:12,0 --> 01:36:12,0
+the books, according to their
 
 109
-00:08:30,782 --> 00:08:36,723
- you bind on earth shall be bound in heaven, and
+01:36:12,0 --> 01:36:12,0
+works; consequently, the books
 
 110
-00:08:36,723 --> 00:08:42,664
- whatsoever you loose on earth shall be loosed in
+01:36:12,0 --> 01:36:12,0
+spoken of must be the books which
 
 111
-00:08:42,664 --> 00:08:48,605
- heaven. Or, in other words, taking a different view
+01:36:12,0 --> 01:36:12,0
+contained the record of their
 
 112
-00:08:48,605 --> 00:08:54,546
- of the translation, whatsoever you record on earth
+01:36:12,0 --> 01:36:12,0
+works, and refer to the records which
 
 113
-00:08:54,546 --> 00:09:00,487
- shall be recorded in heaven, and whatsoever you do
+01:36:12,0 --> 01:36:12,0
+are kept on the earth. And the
 
 114
-00:09:00,487 --> 00:09:06,428
- not record on earth shall not be recorded in
+01:36:12,0 --> 01:36:12,0
+book which was the book of life
 
 115
-00:09:06,428 --> 00:09:12,369
- heaven; for out of the books shall your dead be
+01:36:12,0 --> 01:36:12,0
+is the record which is kept in
 
 116
-00:09:12,369 --> 00:09:18,31
- judged, according to their own works, whether they
+01:36:12,0 --> 01:36:12,0
+heaven; the principle agreeing
 
 117
-00:09:18,31 --> 00:09:24,251
- themselves have attended to the ordinances in their own
+01:36:12,0 --> 01:36:12,0
+precisely with the doctrine which
 
 118
-00:09:24,251 --> 00:09:30,192
- propria persona, or by the means of their own
+01:36:12,0 --> 01:36:12,0
+is commanded you in the
 
 119
-00:09:30,192 --> 00:09:36,133
- agents, according to the ordinance which God has
+01:36:12,0 --> 01:36:12,0
+revelation contained in the letter which
 
 120
-00:09:36,133 --> 00:09:42,074
- prepared for their salvation from before the
+01:36:12,0 --> 01:36:12,0
+I wrote to you previous to my
 
 121
-00:09:42,074 --> 00:09:48,015
- foundation of the world, according to the records which
+01:36:12,0 --> 01:36:12,0
+leaving my place—that in all your
 
 122
-00:09:48,015 --> 00:09:53,956
- they have kept concerning their dead
+01:36:12,0 --> 01:41:17,
+recordings it may be recorded in heaven.
 
 123
-00:09:53,893 --> 00:10:00,047
-9 It may seem to some to be a very bold doctrine
+01:41:17,0 --> 01:41:17,0
+8 Now, the nature of this
 
 124
-00:10:00,047 --> 00:10:06,201
- that we talk of—a power which records or binds on
+01:41:17,0 --> 01:41:17,0
+ordinance consists in the power of
 
 125
-00:10:06,201 --> 00:10:12,355
- earth and binds in heaven. Nevertheless, in all
+01:41:17,0 --> 01:41:17,0
+the priesthood, by the
 
 126
-00:10:12,355 --> 00:10:18,509
- ages of the world, whenever the Lord has given a
+01:41:17,0 --> 01:41:17,0
+revelation of Jesus Christ, wherein
 
 127
-00:10:18,509 --> 00:10:24,663
- dispensation of the priesthood to any man by actual
+01:41:17,0 --> 01:41:17,0
+it is granted that whatsoever
 
 128
-00:10:24,663 --> 00:10:30,817
- revelation, or any set of men, this power has always
+01:41:17,0 --> 01:41:17,0
+you bind on earth shall be
 
 129
-00:10:30,817 --> 00:10:36,971
- been given. Hence, whatsoever those men did in
+01:41:17,0 --> 01:41:17,0
+bound in heaven, and whatsoever
 
 130
-00:10:36,971 --> 00:10:43,125
- authority, in the name of the Lord, and did it truly
+01:41:17,0 --> 01:41:17,0
+you loose on earth shall be
 
 131
-00:10:43,125 --> 00:10:49,279
- and faithfully, and kept a proper and faithful
+01:41:17,0 --> 01:41:17,0
+loosed in heaven. Or, in other
 
 132
-00:10:49,279 --> 00:10:55,433
- record of the same, it became a law on earth and in
+01:41:17,0 --> 01:41:17,0
+words, taking a different view
 
 133
-00:10:55,433 --> 00:11:01,587
- heaven, and could not be annulled, according to
+01:41:17,0 --> 01:41:17,0
+of the translation, whatsoever
 
 134
-00:11:01,587 --> 00:11:07,741
- the decrees of the great Jehovah. This is a faithful
+01:41:17,0 --> 01:41:17,0
+you record on earth shall be
 
 135
-00:11:07,741 --> 00:11:13,895
- saying. Who can hear it
+01:41:17,0 --> 01:41:17,0
+recorded in heaven, and
 
 136
-00:11:13,823 --> 00:12:00,823
-10 And again, for the precedent,
+01:41:17,0 --> 01:41:17,0
+whatsoever you do not record on earth
 
 137
-00:12:00,069 --> 00:12:04,319
-11 Now the great and grand secret of the whole
+01:41:17,0 --> 01:41:17,0
+shall not be recorded in
 
 138
-00:12:04,319 --> 00:12:08,569
- matter, and the summum bonum of the whole subject
+01:41:17,0 --> 01:41:17,0
+heaven; for out of the books shall
 
 139
-00:12:08,569 --> 00:12:12,819
- that is lying before us, consists in obtaining the
+01:41:17,0 --> 01:41:17,0
+your dead be judged,
 
 140
-00:12:12,819 --> 00:12:17,069
- powers of the Holy Priesthood. For him to whom these
+01:41:17,0 --> 01:41:17,0
+according to their own works, whether
 
 141
-00:12:17,069 --> 00:12:21,319
- keys are given there is no difficulty in
+01:41:17,0 --> 01:41:17,0
+they themselves have attended
 
 142
-00:12:21,319 --> 00:12:25,569
- obtaining a knowledge of facts in relation to the
+01:41:17,0 --> 01:41:17,0
+to the ordinances in their own
 
 143
-00:12:25,569 --> 00:12:29,819
- salvation of the children of men, both as well for the
+01:41:17,0 --> 01:41:17,0
+propria persona, or by the
 
 144
-00:12:29,819 --> 00:12:34,069
- dead as for the living
+01:41:17,0 --> 01:41:17,0
+means of their own agents,
 
 145
-00:12:34,337 --> 00:12:38,537
-12 Herein is glory and honor, and immortality and
+01:41:17,0 --> 01:41:17,0
+according to the ordinance which
 
 146
-00:12:38,537 --> 00:12:42,737
- eternal life—The ordinance of baptism by water, to
+01:41:17,0 --> 01:41:17,0
+God has prepared for their
 
 147
-00:12:42,737 --> 00:12:46,937
- be immersed therein in order to answer to the
+01:41:17,0 --> 01:41:17,0
+salvation from before the
 
 148
-00:12:46,937 --> 00:12:51,137
- likeness of the dead, that one principle might accord
+01:41:17,0 --> 01:41:17,0
+foundation of the world, according to
 
 149
-00:12:51,137 --> 00:12:55,337
- with the other; to be immersed in the water and
+01:41:17,0 --> 01:40:55,
+the records which they have kept concerning their dead.
 
 150
-00:12:55,337 --> 00:12:59,537
- come forth out of the water is in the likeness of
+01:40:55,0 --> 01:40:55,0
+9 It may seem to some to be a
 
 151
-00:12:59,537 --> 00:13:03,737
- the resurrection of the dead in coming forth out of
+01:40:55,0 --> 01:40:55,0
+very bold doctrine that we
 
 152
-00:13:03,737 --> 00:13:07,937
- their graves; hence, this ordinance was
+01:40:55,0 --> 01:40:55,0
+talk of—a power which records
 
 153
-00:13:07,937 --> 00:13:12,137
- instituted to form a relationship with the ordinance of
+01:40:55,0 --> 01:40:55,0
+or binds on earth and binds
 
 154
-00:13:12,137 --> 00:13:16,337
- baptism for the dead, being in likeness of the dead
+01:40:55,0 --> 01:40:55,0
+in heaven. Nevertheless, in
 
 155
-00:13:16,312 --> 00:13:22,437
-13 Consequently, the baptismal font was instituted
+01:40:55,0 --> 01:40:55,0
+all ages of the world, whenever
 
 156
-00:13:22,437 --> 00:13:28,562
- as a similitude of the grave, and was commanded
+01:40:55,0 --> 01:40:55,0
+the Lord has given a
 
 157
-00:13:28,562 --> 00:13:34,687
- to be in a place underneath where the living are
+01:40:55,0 --> 01:40:55,0
+dispensation of the priesthood to
 
 158
-00:13:34,687 --> 00:13:40,812
- wont to assemble, to show forth the living and the
+01:40:55,0 --> 01:40:55,0
+any man by actual revelation,
 
 159
-00:13:40,812 --> 00:13:46,937
- dead, and that all things may have their likeness,
+01:40:55,0 --> 01:40:55,0
+or any set of men, this power
 
 160
-00:13:46,937 --> 00:13:53,062
- and that they may accord one with another—that
+01:40:55,0 --> 01:40:55,0
+has always been given. Hence,
 
 161
-00:13:53,062 --> 00:13:59,187
- which is earthly conforming to that which is
+01:40:55,0 --> 01:40:55,0
+whatsoever those men did in
 
 162
-00:13:59,187 --> 00:14:05,312
- heavenly, as Paul hath declared,
+01:40:55,0 --> 01:40:55,0
+authority, in the name of the
 
 163
-00:14:05,561 --> 00:14:10,728
-14 Howbeit that was not first which is spiritual,
+01:40:55,0 --> 01:40:55,0
+Lord, and did it truly and
 
 164
-00:14:10,728 --> 00:14:15,895
- but that which is natural; and afterward that
+01:40:55,0 --> 01:40:55,0
+faithfully, and kept a proper
 
 165
-00:14:15,895 --> 00:14:21,062
- which is spiritual. The first man is of the earth,
+01:40:55,0 --> 01:40:55,0
+and faithful record of the
 
 166
-00:14:21,062 --> 00:14:26,229
- earthy; the second man is the Lord from heaven. As is
+01:40:55,0 --> 01:40:55,0
+same, it became a law on earth
 
 167
-00:14:26,229 --> 00:14:31,396
- the earthy, such are they also that are earthy;
+01:40:55,0 --> 01:40:55,0
+and in heaven, and could not
 
 168
-00:14:31,396 --> 00:14:36,563
- and as is the heavenly, such are they also that are
+01:40:55,0 --> 01:40:55,0
+be annulled, according to the
 
 169
-00:14:36,563 --> 00:14:41,73
- heavenly. And as are the records on the earth in
+01:40:55,0 --> 01:40:55,0
+decrees of the great
 
 170
-00:14:41,73 --> 00:14:46,897
- relation to your dead, which are truly made out,
+01:40:55,0 --> 01:40:33,
+Jehovah. This is a faithful saying. Who can hear it?
 
 171
-00:14:46,897 --> 00:14:52,064
- so also are the records in heaven. This, therefore,
+01:40:33,0 --> 01:40:33,0
+10 And again,
 
 172
-00:14:52,064 --> 00:14:57,231
- is the sealing and binding power, and, in one
+01:40:33,0 --> 01:36:13,
+for the precedent, 
 
 173
-00:14:57,231 --> 00:15:02,398
- sense of the word, the keys of the kingdom, which
+01:36:13,0 --> 01:36:13,0
+11 Now the
 
 174
-00:15:02,398 --> 00:15:07,565
- consist in the key of knowledge
+01:36:13,0 --> 01:36:13,0
+great and grand
 
 175
-00:15:07,039 --> 00:15:12,039
-15 And now, my dearly beloved brethren and
+01:36:13,0 --> 01:36:13,0
+secret of the
 
 176
-00:15:12,039 --> 00:15:17,039
- sisters, let me assure you that these are principles in
+01:36:13,0 --> 01:36:13,0
+whole matter, and
 
 177
-00:15:17,039 --> 00:15:22,039
- relation to the dead and the living that cannot be
+01:36:13,0 --> 01:36:13,0
+the summum bonum
 
 178
-00:15:22,039 --> 00:15:27,039
- lightly passed over, as pertaining to our
+01:36:13,0 --> 01:36:13,0
+of the whole
 
 179
-00:15:27,039 --> 00:15:32,039
- salvation. For their salvation is necessary and essential
+01:36:13,0 --> 01:36:13,0
+subject that is
 
 180
-00:15:32,039 --> 00:15:37,039
- to our salvation, as Paul says concerning the
+01:36:13,0 --> 01:36:13,0
+lying before
 
 181
-00:15:37,039 --> 00:15:42,039
- fathers—that they without us cannot be made
+01:36:13,0 --> 01:36:13,0
+us, consists in
 
 182
-00:15:42,039 --> 00:15:47,039
- perfect—neither can we without our dead be made perfect
+01:36:13,0 --> 01:36:13,0
+obtaining the
 
 183
-00:15:47,797 --> 00:16:01,797
-16 And now, in relation to the baptism for the
+01:36:13,0 --> 01:36:13,0
+powers of the
 
 184
-00:16:01,797 --> 00:16:15,797
- dead, I will give you another quotation of Paul,
+01:36:13,0 --> 01:36:13,0
+Holy Priesthood.
 
 185
-00:16:15,541 --> 00:16:24,166
-17 And again, in connection with this quotation I
+01:36:13,0 --> 01:36:13,0
+For him to whom
 
 186
-00:16:24,166 --> 00:16:32,791
- will give you a quotation from one of the
+01:36:13,0 --> 01:36:13,0
+these keys are
 
 187
-00:16:32,791 --> 00:16:41,416
- prophets, who had his eye fixed on the restoration of the
+01:36:13,0 --> 01:36:13,0
+given there is
 
 188
-00:16:41,416 --> 00:16:50,041
- priesthood, the glories to be revealed in the last
+01:36:13,0 --> 01:36:13,0
+no difficulty
 
 189
-00:16:50,041 --> 00:16:58,666
- days, and in an especial manner this most
+01:36:13,0 --> 01:36:13,0
+in obtaining a
 
 190
-00:16:58,666 --> 00:17:07,291
- glorious of all subjects belonging to the everlasting
+01:36:13,0 --> 01:36:13,0
+knowledge of
 
 191
-00:17:07,291 --> 00:17:15,916
- gospel, namely, the baptism for the dead; for Malachi
+01:36:13,0 --> 01:36:13,0
+facts in relation
 
 192
-00:17:15,916 --> 00:17:24,541
- says,
+01:36:13,0 --> 01:36:13,0
+to the
 
 193
-00:17:24,26 --> 00:17:30,086
-18 I might have rendered a plainer translation to
+01:36:13,0 --> 01:36:13,0
+salvation of the
 
 194
-00:17:30,086 --> 00:17:35,912
- this, but it is sufficiently plain to suit my
+01:36:13,0 --> 01:36:13,0
+children of men, both
 
 195
-00:17:35,912 --> 00:17:41,738
- purpose as it stands. It is sufficient to know, in
+01:36:13,0 --> 01:36:13,0
+as well for
 
 196
-00:17:41,738 --> 00:17:47,564
- this case, that the earth will be smitten with a
+01:36:13,0 --> 01:41:18,
+the dead as for the living.
 
 197
-00:17:47,564 --> 00:17:53,39
- curse unless there is a welding link of some kind or
+01:41:18,0 --> 01:41:18,0
+12 Herein is
 
 198
-00:17:53,39 --> 00:17:59,216
- other between the fathers and the children, upon
+01:41:18,0 --> 01:41:18,0
+glory and
 
 199
-00:17:59,216 --> 00:18:05,042
- some subject or other—and behold what is that
+01:41:18,0 --> 01:41:18,0
+honor, and
 
 200
-00:18:05,042 --> 00:18:10,868
- subject? It is the baptism for the dead. For we without
+01:41:18,0 --> 01:41:18,0
+immortality and
 
 201
-00:18:10,868 --> 00:18:16,694
- them cannot be made perfect; neither can they
+01:41:18,0 --> 01:41:18,0
+eternal life—The
 
 202
-00:18:16,694 --> 00:18:22,52
- without us be made perfect. Neither can they nor we be
+01:41:18,0 --> 01:41:18,0
+ordinance of
 
 203
-00:18:22,52 --> 00:18:28,346
- made perfect without those who have died in the
+01:41:18,0 --> 01:41:18,0
+baptism by water,
 
 204
-00:18:28,346 --> 00:18:34,172
- gospel also; for it is necessary in the ushering in
+01:41:18,0 --> 01:41:18,0
+to be immersed
 
 205
-00:18:34,172 --> 00:18:39,998
- of the dispensation of the fulness of times,
+01:41:18,0 --> 01:41:18,0
+therein in
 
 206
-00:18:39,998 --> 00:18:45,824
- which dispensation is now beginning to usher in, that
+01:41:18,0 --> 01:41:18,0
+order to answer
 
 207
-00:18:45,824 --> 00:18:51,65
- a whole and complete and perfect union, and
+01:41:18,0 --> 01:41:18,0
+to the
 
 208
-00:18:51,65 --> 00:18:57,476
- welding together of dispensations, and keys, and powers,
+01:41:18,0 --> 01:41:18,0
+likeness of the dead,
 
 209
-00:18:57,476 --> 00:19:03,302
- and glories should take place, and be revealed
+01:41:18,0 --> 01:41:18,0
+that one
 
 210
-00:19:03,302 --> 00:19:09,128
- from the days of Adam even to the present time. And
+01:41:18,0 --> 01:41:18,0
+principle might
 
 211
-00:19:09,128 --> 00:19:14,954
- not only this, but those things which never have
+01:41:18,0 --> 01:41:18,0
+accord with the
 
 212
-00:19:14,954 --> 00:19:20,78
- been revealed from the foundation of the world, but
+01:41:18,0 --> 01:41:18,0
+other; to be
 
 213
-00:19:20,78 --> 00:19:26,606
- have been kept hid from the wise and prudent,
+01:41:18,0 --> 01:41:18,0
+immersed in the
 
 214
-00:19:26,606 --> 00:19:32,432
- shall be revealed unto babes and sucklings in this,
+01:41:18,0 --> 01:41:18,0
+water and
 
 215
-00:19:32,432 --> 00:19:38,258
- the dispensation of the fulness of times
+01:41:18,0 --> 01:41:18,0
+come forth out of
 
 216
-00:19:38,661 --> 00:19:44,761
-19 Now, what do we hear in the gospel which we
+01:41:18,0 --> 01:41:18,0
+the water is
 
 217
-00:19:44,761 --> 00:19:50,861
- have received? A voice of gladness! A voice of mercy
+01:41:18,0 --> 01:41:18,0
+in the
 
 218
-00:19:50,861 --> 00:19:56,961
- from heaven; and a voice of truth out of the
+01:41:18,0 --> 01:41:18,0
+likeness of the
 
 219
-00:19:56,961 --> 00:20:03,061
- earth; glad tidings for the dead; a voice of gladness
+01:41:18,0 --> 01:41:18,0
+resurrection of the
 
 220
-00:20:03,061 --> 00:20:09,161
- for the living and the dead; glad tidings of great
+01:41:18,0 --> 01:41:18,0
+dead in
 
 221
-00:20:09,161 --> 00:20:15,261
- joy. How beautiful upon the mountains are the feet
+01:41:18,0 --> 01:41:18,0
+coming forth out of
 
 222
-00:20:15,261 --> 00:20:21,361
- of those that bring glad tidings of good things,
+01:41:18,0 --> 01:41:18,0
+their graves;
 
 223
-00:20:21,361 --> 00:20:27,461
- and that say unto Zion: Behold, thy God reigneth!
+01:41:18,0 --> 01:41:18,0
+hence, this
 
 224
-00:20:27,461 --> 00:20:33,561
- As the dews of Carmel, so shall the knowledge of
+01:41:18,0 --> 01:41:18,0
+ordinance was
 
 225
-00:20:33,561 --> 00:20:39,661
- God descend upon them
+01:41:18,0 --> 01:41:18,0
+instituted to
 
 226
-00:20:39,021 --> 00:20:48,329
-20 And again, what do we hear? Glad tidings from
+01:41:18,0 --> 01:41:18,0
+form a
 
 227
-00:20:48,329 --> 00:20:57,637
- Cumorah! Moroni, an angel from heaven, declaring
+01:41:18,0 --> 01:41:18,0
+relationship with the
 
 228
-00:20:57,637 --> 00:21:06,945
- the fulfilment of the prophets—the book to be
+01:41:18,0 --> 01:41:18,0
+ordinance of
 
 229
-00:21:06,945 --> 00:21:16,253
- revealed. A voice of the Lord in the wilderness of
+01:41:18,0 --> 01:41:18,0
+baptism for the
 
 230
-00:21:16,253 --> 00:21:25,561
- Fayette, Seneca county, declaring the three witnesses
+01:41:18,0 --> 01:40:56,
+dead, being in likeness of the dead.
 
 231
-00:21:25,561 --> 00:21:34,869
- to bear record of the book! The voice of Michael on
+01:40:56,0 --> 01:40:56,0
+13
 
 232
-00:21:34,869 --> 00:21:44,177
- the banks of the Susquehanna, detecting the devil
+01:40:56,0 --> 01:40:56,0
+Consequently, the
 
 233
-00:21:44,177 --> 00:21:53,485
- when he appeared as an angel of light! The voice
+01:40:56,0 --> 01:40:56,0
+baptismal font was
 
 234
-00:21:53,485 --> 00:22:02,793
- of Peter, James, and John in the wilderness
+01:40:56,0 --> 01:40:56,0
+instituted
 
 235
-00:22:02,793 --> 00:22:12,101
- between Harmony, Susquehanna county, and Colesville,
+01:40:56,0 --> 01:40:56,0
+as a
 
 236
-00:22:12,101 --> 00:22:21,409
- Broome county, on the Susquehanna river, declaring
+01:40:56,0 --> 01:40:56,0
+similitude of the
 
 237
-00:22:21,409 --> 00:22:30,717
- themselves as possessing the keys of the kingdom,
+01:40:56,0 --> 01:40:56,0
+grave, and was
 
 238
-00:22:30,717 --> 00:22:40,025
- and of the dispensation of the fulness of times
+01:40:56,0 --> 01:40:56,0
+commanded to be
 
 239
-00:22:40,91 --> 00:22:47,839
-21 And again, the voice of God in the chamber of
+01:40:56,0 --> 01:40:56,0
+in a place
 
 240
-00:22:47,839 --> 00:22:54,768
- old Father Whitmer, in Fayette, Seneca county, and
+01:40:56,0 --> 01:40:56,0
+underneath
 
 241
-00:22:54,768 --> 00:23:01,697
- at sundry times, and in divers places through all
+01:40:56,0 --> 01:40:56,0
+where the living
 
 242
-00:23:01,697 --> 00:23:08,626
- the travels and tribulations of this Church of
+01:40:56,0 --> 01:40:56,0
+are wont to
 
 243
-00:23:08,626 --> 00:23:15,555
- Jesus Christ of Latter-day Saints! And the voice of
+01:40:56,0 --> 01:40:56,0
+assemble, to
 
 244
-00:23:15,555 --> 00:23:22,484
- Michael, the archangel; the voice of Gabriel, and
+01:40:56,0 --> 01:40:56,0
+show forth
 
 245
-00:23:22,484 --> 00:23:29,413
- of Raphael, and of divers angels, from Michael or
+01:40:56,0 --> 01:40:56,0
+the living and
 
 246
-00:23:29,413 --> 00:23:36,342
- Adam down to the present time, all declaring their
+01:40:56,0 --> 01:40:56,0
+the dead, and
 
 247
-00:23:36,342 --> 00:23:43,271
- dispensation, their rights, their keys, their
+01:40:56,0 --> 01:40:56,0
+that all
 
 248
-00:23:43,271 --> 00:23:50,2
- honors, their majesty and glory, and the power of
+01:40:56,0 --> 01:40:56,0
+things may have
 
 249
-00:23:50,2 --> 00:23:57,129
- their priesthood; giving line upon line, precept upon
+01:40:56,0 --> 01:40:56,0
+their
 
 250
-00:23:57,129 --> 00:24:04,058
- precept; here a little, and there a little; giving
+01:40:56,0 --> 01:40:56,0
+likeness, and that
 
 251
-00:24:04,058 --> 00:24:10,987
- us consolation by holding forth that which is to
+01:40:56,0 --> 01:40:56,0
+they may
 
 252
-00:24:10,987 --> 00:24:17,916
- come, confirming our hope
+01:40:56,0 --> 01:40:56,0
+accord one with
 
 253
-00:24:17,84 --> 00:24:23,618
-22 Brethren, shall we not go on in so great a
+01:40:56,0 --> 01:40:56,0
+another—that
 
 254
-00:24:23,618 --> 00:24:29,396
- cause? Go forward and not backward. Courage, brethren;
+01:40:56,0 --> 01:40:56,0
+which is
 
 255
-00:24:29,396 --> 00:24:35,174
- and on, on to the victory! Let your hearts
+01:40:56,0 --> 01:40:56,0
+earthly conforming
 
 256
-00:24:35,174 --> 00:24:40,952
- rejoice, and be exceedingly glad. Let the earth break
+01:40:56,0 --> 01:40:56,0
+to that which
 
 257
-00:24:40,952 --> 00:24:46,73
- forth into singing. Let the dead speak forth anthems
+01:40:56,0 --> 01:40:34,
+is heavenly, as Paul hath declared, 
 
 258
-00:24:46,73 --> 00:24:52,508
- of eternal praise to the King Immanuel, who hath
+01:40:34,0 --> 01:40:34,0
+14 Howbeit
 
 259
-00:24:52,508 --> 00:24:58,286
- ordained, before the world was, that which would
+01:40:34,0 --> 01:40:34,0
+that was not
 
 260
-00:24:58,286 --> 00:25:04,064
- enable us to redeem them out of their prison; for
+01:40:34,0 --> 01:40:34,0
+first which
 
 261
-00:25:04,064 --> 00:25:09,842
- the prisoners shall go free
+01:40:34,0 --> 01:40:34,0
+is
 
 262
-00:25:09,091 --> 00:25:15,877
-23 Let the mountains shout for joy, and all ye
+01:40:34,0 --> 01:40:34,0
+spiritual, but that
 
 263
-00:25:15,877 --> 00:25:22,663
- valleys cry aloud; and all ye seas and dry lands tell
+01:40:34,0 --> 01:40:34,0
+which is
 
 264
-00:25:22,663 --> 00:25:29,449
- the wonders of your Eternal King! And ye rivers,
+01:40:34,0 --> 01:40:34,0
+natural; and
 
 265
-00:25:29,449 --> 00:25:36,235
- and brooks, and rills, flow down with gladness.
+01:40:34,0 --> 01:40:34,0
+afterward that
 
 266
-00:25:36,235 --> 00:25:43,021
- Let the woods and all the trees of the field praise
+01:40:34,0 --> 01:40:34,0
+which is
 
 267
-00:25:43,021 --> 00:25:49,807
- the Lord; and ye solid rocks weep for joy! And let
+01:40:34,0 --> 01:40:34,0
+spiritual. The
 
 268
-00:25:49,807 --> 00:25:56,593
- the sun, moon, and the morning stars sing
+01:40:34,0 --> 01:40:34,0
+first man is
 
 269
-00:25:56,593 --> 00:26:03,379
- together, and let all the sons of God shout for joy! And
+01:40:34,0 --> 01:40:34,0
+of the
 
 270
-00:26:03,379 --> 00:26:10,165
- let the eternal creations declare his name forever
+01:40:34,0 --> 01:40:34,0
+earth, earthy;
 
 271
-00:26:10,165 --> 00:26:16,951
- and ever! And again I say, how glorious is the
+01:40:34,0 --> 01:40:34,0
+the second
 
 272
-00:26:16,951 --> 00:26:23,737
- voice we hear from heaven, proclaiming in our ears,
+01:40:34,0 --> 01:40:34,0
+man is the
 
 273
-00:26:23,737 --> 00:26:30,523
- glory, and salvation, and honor, and immortality,
+01:40:34,0 --> 01:40:34,0
+Lord from
 
 274
-00:26:30,523 --> 00:26:37,309
- and eternal life; kingdoms, principalities, and
+01:40:34,0 --> 01:40:34,0
+heaven. As is the
 
 275
-00:26:37,309 --> 00:26:44,095
- powers
+01:40:34,0 --> 01:40:34,0
+earthy,
 
 276
-00:26:44,987 --> 00:26:51,449
-24 Behold, the great day of the Lord is at hand;
+01:40:34,0 --> 01:40:34,0
+such are they
 
 277
-00:26:51,449 --> 00:26:57,911
- and who can abide the day of his coming, and who
+01:40:34,0 --> 01:40:34,0
+also that are
 
 278
-00:26:57,911 --> 00:27:04,373
- can stand when he appeareth? For he is like a
+01:40:34,0 --> 01:40:34,0
+earthy; and
 
 279
-00:27:04,373 --> 00:27:10,835
- refiner’s fire, and like fuller’s soap; and he shall sit
+01:40:34,0 --> 01:40:34,0
+as is the
 
 280
-00:27:10,835 --> 00:27:17,297
- as a refiner and purifier of silver, and he shall
+01:40:34,0 --> 01:40:34,0
+heavenly,
 
 281
-00:27:17,297 --> 00:27:23,759
- purify the sons of Levi, and purge them as gold
+01:40:34,0 --> 01:40:34,0
+such are they
 
 282
-00:27:23,759 --> 00:27:30,221
- and silver, that they may offer unto the Lord an
+01:40:34,0 --> 01:40:34,0
+also that are
 
 283
-00:27:30,221 --> 00:27:36,683
- offering in righteousness. Let us, therefore, as a
+01:40:34,0 --> 01:40:34,0
+heavenly.
 
 284
-00:27:36,683 --> 00:27:43,145
- church and a people, and as Latter-day Saints,
+01:40:34,0 --> 01:40:34,0
+And as are
 
 285
-00:27:43,145 --> 00:27:49,607
- offer unto the Lord an offering in righteousness; and
+01:40:34,0 --> 01:40:34,0
+the records on
 
 286
-00:27:49,607 --> 00:27:56,069
- let us present in his holy temple, when it is
+01:40:34,0 --> 01:40:34,0
+the earth
 
 287
-00:27:56,069 --> 00:28:02,531
- finished, a book containing the records of our dead,
+01:40:34,0 --> 01:40:34,0
+in relation
 
 288
-00:28:02,531 --> 00:28:08,993
- which shall be worthy of all acceptation
+01:40:34,0 --> 01:40:34,0
+to your dead,
 
 289
-00:28:08,42 --> 00:28:13,82
-25 Brethren, I have many things to say to you on
+01:40:34,0 --> 01:40:34,0
+which are
 
 290
-00:28:13,82 --> 00:28:19,22
- the subject; but shall now close for the present,
+01:40:34,0 --> 01:40:34,0
+truly made
 
 291
-00:28:19,22 --> 00:28:24,62
- and continue the subject another time. I am, as
+01:40:34,0 --> 01:40:34,0
+out, so also
 
 292
-00:28:24,62 --> 00:28:30,02
- ever, your humble servant and never deviating
+01:40:34,0 --> 01:40:34,0
+are the
 
 293
-00:28:30,02 --> 00:28:35,42
- friend,Joseph Smith.
+01:40:34,0 --> 01:40:34,0
+records in
+
+294
+01:40:34,0 --> 01:40:34,0
+heaven. This,
+
+295
+01:40:34,0 --> 01:40:34,0
+therefore, is
+
+296
+01:40:34,0 --> 01:40:34,0
+the sealing
+
+297
+01:40:34,0 --> 01:40:34,0
+and binding
+
+298
+01:40:34,0 --> 01:40:34,0
+power, and, in
+
+299
+01:40:34,0 --> 01:40:34,0
+one sense
+
+300
+01:40:34,0 --> 01:40:34,0
+of the word,
+
+301
+01:40:34,0 --> 01:40:34,0
+the keys of
+
+302
+01:40:34,0 --> 01:36:14,
+the kingdom, which consist in the key of knowledge.
+
+303
+01:36:14,0 --> 01:36:14,0
+15 And now,
+
+304
+01:36:14,0 --> 01:36:14,0
+my dearly
+
+305
+01:36:14,0 --> 01:36:14,0
+beloved
+
+306
+01:36:14,0 --> 01:36:14,0
+brethren and
+
+307
+01:36:14,0 --> 01:36:14,0
+sisters, let me
+
+308
+01:36:14,0 --> 01:36:14,0
+assure you
+
+309
+01:36:14,0 --> 01:36:14,0
+that these are
+
+310
+01:36:14,0 --> 01:36:14,0
+principles
+
+311
+01:36:14,0 --> 01:36:14,0
+in relation
+
+312
+01:36:14,0 --> 01:36:14,0
+to the dead
+
+313
+01:36:14,0 --> 01:36:14,0
+and the
+
+314
+01:36:14,0 --> 01:36:14,0
+living that
+
+315
+01:36:14,0 --> 01:36:14,0
+cannot be
+
+316
+01:36:14,0 --> 01:36:14,0
+lightly passed
+
+317
+01:36:14,0 --> 01:36:14,0
+over, as
+
+318
+01:36:14,0 --> 01:36:14,0
+pertaining to our
+
+319
+01:36:14,0 --> 01:36:14,0
+salvation.
+
+320
+01:36:14,0 --> 01:36:14,0
+For their
+
+321
+01:36:14,0 --> 01:36:14,0
+salvation is
+
+322
+01:36:14,0 --> 01:36:14,0
+necessary and
+
+323
+01:36:14,0 --> 01:36:14,0
+essential to
+
+324
+01:36:14,0 --> 01:36:14,0
+our
+
+325
+01:36:14,0 --> 01:36:14,0
+salvation, as Paul
+
+326
+01:36:14,0 --> 01:36:14,0
+says
+
+327
+01:36:14,0 --> 01:36:14,0
+concerning the
+
+328
+01:36:14,0 --> 01:36:14,0
+fathers—that
+
+329
+01:36:14,0 --> 01:36:14,0
+they without us
+
+330
+01:36:14,0 --> 01:36:14,0
+cannot be
+
+331
+01:36:14,0 --> 01:36:14,0
+made
+
+332
+01:36:14,0 --> 01:36:14,0
+perfect—neither can
+
+333
+01:36:14,0 --> 01:36:14,0
+we without
+
+334
+01:36:14,0 --> 01:36:14,0
+our dead be
+
+335
+01:36:14,0 --> 01:41:19,
+made perfect.
+
+336
+01:41:19,0 --> 01:41:19,0
+16 And now,
+
+337
+01:41:19,0 --> 01:41:19,0
+in relation
+
+338
+01:41:19,0 --> 01:41:19,0
+to the
+
+339
+01:41:19,0 --> 01:41:19,0
+baptism for the
+
+340
+01:41:19,0 --> 01:41:19,0
+dead, I will
+
+341
+01:41:19,0 --> 01:41:19,0
+give you
+
+342
+01:41:19,0 --> 01:41:19,0
+another
+
+343
+01:41:19,0 --> 01:42:23,
+quotation of Paul, 
+
+344
+01:42:23,0 --> 01:42:23,0
+17 And
+
+345
+01:42:23,0 --> 01:42:23,0
+again, in
+
+346
+01:42:23,0 --> 01:42:23,0
+connection with
+
+347
+01:42:23,0 --> 01:42:23,0
+this
+
+348
+01:42:23,0 --> 01:42:23,0
+quotation I will
+
+349
+01:42:23,0 --> 01:42:23,0
+give you a
+
+350
+01:42:23,0 --> 01:42:23,0
+quotation
+
+351
+01:42:23,0 --> 01:42:23,0
+from one of
+
+352
+01:42:23,0 --> 01:42:23,0
+the
+
+353
+01:42:23,0 --> 01:42:23,0
+prophets, who had
+
+354
+01:42:23,0 --> 01:42:23,0
+his eye
+
+355
+01:42:23,0 --> 01:42:23,0
+fixed on the
+
+356
+01:42:23,0 --> 01:42:23,0
+restoration
+
+357
+01:42:23,0 --> 01:42:23,0
+of the
+
+358
+01:42:23,0 --> 01:42:23,0
+priesthood, the
+
+359
+01:42:23,0 --> 01:42:23,0
+glories to
+
+360
+01:42:23,0 --> 01:42:23,0
+be
+
+361
+01:42:23,0 --> 01:42:23,0
+revealed in the
+
+362
+01:42:23,0 --> 01:42:23,0
+last days,
+
+363
+01:42:23,0 --> 01:42:23,0
+and in an
+
+364
+01:42:23,0 --> 01:42:23,0
+especial
+
+365
+01:42:23,0 --> 01:42:23,0
+manner this most
+
+366
+01:42:23,0 --> 01:42:23,0
+glorious
+
+367
+01:42:23,0 --> 01:42:23,0
+of all
+
+368
+01:42:23,0 --> 01:42:23,0
+subjects
+
+369
+01:42:23,0 --> 01:42:23,0
+belonging to the
+
+370
+01:42:23,0 --> 01:42:23,0
+everlasting
+
+371
+01:42:23,0 --> 01:42:23,0
+gospel,
+
+372
+01:42:23,0 --> 01:42:23,0
+namely, the
+
+373
+01:42:23,0 --> 01:53:23,
+baptism for the dead; for Malachi says, 
+
+374
+01:53:23,0 --> 01:53:23,0
+18 I might
+
+375
+01:53:23,0 --> 01:53:23,0
+have
+
+376
+01:53:23,0 --> 01:53:23,0
+rendered a
+
+377
+01:53:23,0 --> 01:53:23,0
+plainer
+
+378
+01:53:23,0 --> 01:53:23,0
+translation to
+
+379
+01:53:23,0 --> 01:53:23,0
+this, but
+
+380
+01:53:23,0 --> 01:53:23,0
+it is
+
+381
+01:53:23,0 --> 01:53:23,0
+sufficiently
+
+382
+01:53:23,0 --> 01:53:23,0
+plain to
+
+383
+01:53:23,0 --> 01:53:23,0
+suit my
+
+384
+01:53:23,0 --> 01:53:23,0
+purpose as it
+
+385
+01:53:23,0 --> 01:53:23,0
+stands. It
+
+386
+01:53:23,0 --> 01:53:23,0
+is
+
+387
+01:53:23,0 --> 01:53:23,0
+sufficient to
+
+388
+01:53:23,0 --> 01:53:23,0
+know, in
+
+389
+01:53:23,0 --> 01:53:23,0
+this case,
+
+390
+01:53:23,0 --> 01:53:23,0
+that the
+
+391
+01:53:23,0 --> 01:53:23,0
+earth will be
+
+392
+01:53:23,0 --> 01:53:23,0
+smitten
+
+393
+01:53:23,0 --> 01:53:23,0
+with a
+
+394
+01:53:23,0 --> 01:53:23,0
+curse unless
+
+395
+01:53:23,0 --> 01:53:23,0
+there is a
+
+396
+01:53:23,0 --> 01:53:23,0
+welding
+
+397
+01:53:23,0 --> 01:53:23,0
+link of some
+
+398
+01:53:23,0 --> 01:53:23,0
+kind or
+
+399
+01:53:23,0 --> 01:53:23,0
+other
+
+400
+01:53:23,0 --> 01:53:23,0
+between the
+
+401
+01:53:23,0 --> 01:53:23,0
+fathers and
+
+402
+01:53:23,0 --> 01:53:23,0
+the
+
+403
+01:53:23,0 --> 01:53:23,0
+children, upon
+
+404
+01:53:23,0 --> 01:53:23,0
+some subject
+
+405
+01:53:23,0 --> 01:53:23,0
+or
+
+406
+01:53:23,0 --> 01:53:23,0
+other—and behold
+
+407
+01:53:23,0 --> 01:53:23,0
+what is
+
+408
+01:53:23,0 --> 01:53:23,0
+that
+
+409
+01:53:23,0 --> 01:53:23,0
+subject? It is
+
+410
+01:53:23,0 --> 01:53:23,0
+the baptism
+
+411
+01:53:23,0 --> 01:53:23,0
+for the
+
+412
+01:53:23,0 --> 01:53:23,0
+dead. For
+
+413
+01:53:23,0 --> 01:53:23,0
+we without
+
+414
+01:53:23,0 --> 01:53:23,0
+them
+
+415
+01:53:23,0 --> 01:53:23,0
+cannot be made
+
+416
+01:53:23,0 --> 01:53:23,0
+perfect;
+
+417
+01:53:23,0 --> 01:53:23,0
+neither can
+
+418
+01:53:23,0 --> 01:53:23,0
+they
+
+419
+01:53:23,0 --> 01:53:23,0
+without us be
+
+420
+01:53:23,0 --> 01:53:23,0
+made
+
+421
+01:53:23,0 --> 01:53:23,0
+perfect.
+
+422
+01:53:23,0 --> 01:53:23,0
+Neither can they
+
+423
+01:53:23,0 --> 01:53:23,0
+nor we be
+
+424
+01:53:23,0 --> 01:53:23,0
+made
+
+425
+01:53:23,0 --> 01:53:23,0
+perfect
+
+426
+01:53:23,0 --> 01:53:23,0
+without those
+
+427
+01:53:23,0 --> 01:53:23,0
+who have
+
+428
+01:53:23,0 --> 01:53:23,0
+died in the
+
+429
+01:53:23,0 --> 01:53:23,0
+gospel
+
+430
+01:53:23,0 --> 01:53:23,0
+also; for it
+
+431
+01:53:23,0 --> 01:53:23,0
+is
+
+432
+01:53:23,0 --> 01:53:23,0
+necessary in the
+
+433
+01:53:23,0 --> 01:53:23,0
+ushering in
+
+434
+01:53:23,0 --> 01:53:23,0
+of the
+
+435
+01:53:23,0 --> 01:53:23,0
+dispensation
+
+436
+01:53:23,0 --> 01:53:23,0
+of the
+
+437
+01:53:23,0 --> 01:53:23,0
+fulness of
+
+438
+01:53:23,0 --> 01:53:23,0
+times,
+
+439
+01:53:23,0 --> 01:53:23,0
+which
+
+440
+01:53:23,0 --> 01:53:23,0
+dispensation is
+
+441
+01:53:23,0 --> 01:53:23,0
+now
+
+442
+01:53:23,0 --> 01:53:23,0
+beginning to usher
+
+443
+01:53:23,0 --> 01:53:23,0
+in, that
+
+444
+01:53:23,0 --> 01:53:23,0
+a whole
+
+445
+01:53:23,0 --> 01:53:23,0
+and complete
+
+446
+01:53:23,0 --> 01:53:23,0
+and
+
+447
+01:53:23,0 --> 01:53:23,0
+perfect union,
+
+448
+01:53:23,0 --> 01:53:23,0
+and
+
+449
+01:53:23,0 --> 01:53:23,0
+welding together
+
+450
+01:53:23,0 --> 01:53:23,0
+of
+
+451
+01:53:23,0 --> 01:53:23,0
+dispensations,
+
+452
+01:53:23,0 --> 01:53:23,0
+and keys,
+
+453
+01:53:23,0 --> 01:53:23,0
+and powers,
+
+454
+01:53:23,0 --> 01:53:23,0
+and
+
+455
+01:53:23,0 --> 01:53:23,0
+glories should
+
+456
+01:53:23,0 --> 01:53:23,0
+take
+
+457
+01:53:23,0 --> 01:53:23,0
+place, and be
+
+458
+01:53:23,0 --> 01:53:23,0
+revealed
+
+459
+01:53:23,0 --> 01:53:23,0
+from the
+
+460
+01:53:23,0 --> 01:53:23,0
+days of Adam
+
+461
+01:53:23,0 --> 01:53:23,0
+even to
+
+462
+01:53:23,0 --> 01:53:23,0
+the present
+
+463
+01:53:23,0 --> 01:53:23,0
+time. And
+
+464
+01:53:23,0 --> 01:53:23,0
+not only
+
+465
+01:53:23,0 --> 01:53:23,0
+this, but
+
+466
+01:53:23,0 --> 01:53:23,0
+those
+
+467
+01:53:23,0 --> 01:53:23,0
+things which
+
+468
+01:53:23,0 --> 01:53:23,0
+never have
+
+469
+01:53:23,0 --> 01:53:23,0
+been
+
+470
+01:53:23,0 --> 01:53:23,0
+revealed from
+
+471
+01:53:23,0 --> 01:53:23,0
+the
+
+472
+01:53:23,0 --> 01:53:23,0
+foundation of the
+
+473
+01:53:23,0 --> 01:53:23,0
+world, but
+
+474
+01:53:23,0 --> 01:53:23,0
+have been
+
+475
+01:53:23,0 --> 01:53:23,0
+kept hid
+
+476
+01:53:23,0 --> 01:53:23,0
+from the
+
+477
+01:53:23,0 --> 02:08:25,
+wise and prudent, shall be revealed unto babes and sucklings in this, the dispensation of the fulness of times.
+
+478
+02:08:25,0 --> 02:08:25,0
+19 Now,
+
+479
+02:08:25,0 --> 02:08:25,0
+what do we
+
+480
+02:08:25,0 --> 02:08:25,0
+hear in
+
+481
+02:08:25,0 --> 02:08:25,0
+the
+
+482
+02:08:25,0 --> 02:08:25,0
+gospel which
+
+483
+02:08:25,0 --> 02:08:25,0
+we have
+
+484
+02:08:25,0 --> 02:08:25,0
+received? A
+
+485
+02:08:25,0 --> 02:08:25,0
+voice of
+
+486
+02:08:25,0 --> 02:08:25,0
+
+
+487
+02:08:25,0 --> 02:08:25,0
+gladness! A voice
+
+488
+02:08:25,0 --> 02:08:25,0
+of mercy
+
+489
+02:08:25,0 --> 02:08:25,0
+from
+
+490
+02:08:25,0 --> 02:08:25,0
+heaven; and
+
+491
+02:08:25,0 --> 02:08:25,0
+a voice
+
+492
+02:08:25,0 --> 02:08:25,0
+of truth
+
+493
+02:08:25,0 --> 02:08:25,0
+out of the
+
+494
+02:08:25,0 --> 02:08:25,0
+earth;
+
+495
+02:08:25,0 --> 02:08:25,0
+glad
+
+496
+02:08:25,0 --> 02:08:25,0
+tidings for
+
+497
+02:08:25,0 --> 02:08:25,0
+the dead; a
+
+498
+02:08:25,0 --> 02:08:25,0
+voice of
+
+499
+02:08:25,0 --> 02:08:25,0
+gladness
+
+500
+02:08:25,0 --> 02:08:25,0
+for the
+
+501
+02:08:25,0 --> 02:08:25,0
+living
+
+502
+02:08:25,0 --> 02:08:25,0
+and the
+
+503
+02:08:25,0 --> 02:08:25,0
+dead; glad
+
+504
+02:08:25,0 --> 02:08:25,0
+tidings of
+
+505
+02:08:25,0 --> 02:08:25,0
+great
+
+506
+02:08:25,0 --> 02:08:25,0
+joy. How
+
+507
+02:08:25,0 --> 02:08:25,0
+beautiful
+
+508
+02:08:25,0 --> 02:08:25,0
+upon the
+
+509
+02:08:25,0 --> 02:08:25,0
+mountains
+
+510
+02:08:25,0 --> 02:08:25,0
+are the
+
+511
+02:08:25,0 --> 02:08:25,0
+feet of
+
+512
+02:08:25,0 --> 02:08:25,0
+those that
+
+513
+02:08:25,0 --> 02:08:25,0
+bring
+
+514
+02:08:25,0 --> 02:08:25,0
+glad tidings
+
+515
+02:08:25,0 --> 02:08:25,0
+of good
+
+516
+02:08:25,0 --> 02:08:25,0
+things,
+
+517
+02:08:25,0 --> 02:08:25,0
+and that
+
+518
+02:08:25,0 --> 02:08:25,0
+say unto
+
+519
+02:08:25,0 --> 02:08:25,0
+Zion:
+
+520
+02:08:25,0 --> 02:08:25,0
+Behold, thy
+
+521
+02:08:25,0 --> 02:08:25,0
+God
+
+522
+02:08:25,0 --> 02:08:25,0
+reigneth! As
+
+523
+02:08:25,0 --> 02:08:25,0
+the dews of
+
+524
+02:08:25,0 --> 02:08:25,0
+Carmel,
+
+525
+02:08:25,0 --> 02:13:02,
+so shall the knowledge of God descend upon them!
+
+526
+02:13:02,0 --> 02:13:02,0
+20 And
+
+527
+02:13:02,0 --> 02:13:02,0
+again,
+
+528
+02:13:02,0 --> 02:13:02,0
+what do we
+
+529
+02:13:02,0 --> 02:13:02,0
+hear?
+
+530
+02:13:02,0 --> 02:13:02,0
+Glad
+
+531
+02:13:02,0 --> 02:13:02,0
+tidings from
+
+532
+02:13:02,0 --> 02:13:02,0
+
+
+533
+02:13:02,0 --> 02:13:02,0
+Cumorah!
+
+534
+02:13:02,0 --> 02:13:02,0
+Moroni, an
+
+535
+02:13:02,0 --> 02:13:02,0
+angel from
+
+536
+02:13:02,0 --> 02:13:02,0
+heaven,
+
+537
+02:13:02,0 --> 02:13:02,0
+
+
+538
+02:13:02,0 --> 02:13:02,0
+declaring the
+
+539
+02:13:02,0 --> 02:13:02,0
+fulfilment
+
+540
+02:13:02,0 --> 02:13:02,0
+of the
+
+541
+02:13:02,0 --> 02:13:02,0
+
+
+542
+02:13:02,0 --> 02:13:02,0
+prophets—the
+
+543
+02:13:02,0 --> 02:13:02,0
+book to be
+
+544
+02:13:02,0 --> 02:13:02,0
+
+
+545
+02:13:02,0 --> 02:13:02,0
+revealed. A
+
+546
+02:13:02,0 --> 02:13:02,0
+voice of the
+
+547
+02:13:02,0 --> 02:13:02,0
+Lord in
+
+548
+02:13:02,0 --> 02:13:02,0
+the
+
+549
+02:13:02,0 --> 02:13:02,0
+wilderness
+
+550
+02:13:02,0 --> 02:13:02,0
+of
+
+551
+02:13:02,0 --> 02:13:02,0
+Fayette,
+
+552
+02:13:02,0 --> 02:13:02,0
+Seneca
+
+553
+02:13:02,0 --> 02:13:02,0
+county,
+
+554
+02:13:02,0 --> 02:13:02,0
+declaring the
+
+555
+02:13:02,0 --> 02:13:02,0
+three
+
+556
+02:13:02,0 --> 02:13:02,0
+witnesses
+
+557
+02:13:02,0 --> 02:13:02,0
+to bear
+
+558
+02:13:02,0 --> 02:13:02,0
+record
+
+559
+02:13:02,0 --> 02:13:02,0
+of the
+
+560
+02:13:02,0 --> 02:13:02,0
+book! The
+
+561
+02:13:02,0 --> 02:13:02,0
+voice
+
+562
+02:13:02,0 --> 02:13:02,0
+of
+
+563
+02:13:02,0 --> 02:13:02,0
+Michael on the
+
+564
+02:13:02,0 --> 02:13:02,0
+banks
+
+565
+02:13:02,0 --> 02:13:02,0
+of the
+
+566
+02:13:02,0 --> 02:13:02,0
+
+
+567
+02:13:02,0 --> 02:13:02,0
+Susquehanna,
+
+568
+02:13:02,0 --> 02:13:02,0
+detecting the
+
+569
+02:13:02,0 --> 02:13:02,0
+devil
+
+570
+02:13:02,0 --> 02:13:02,0
+when he
+
+571
+02:13:02,0 --> 02:13:02,0
+appeared
+
+572
+02:13:02,0 --> 02:13:02,0
+as an
+
+573
+02:13:02,0 --> 02:13:02,0
+angel of
+
+574
+02:13:02,0 --> 02:13:02,0
+light!
+
+575
+02:13:02,0 --> 02:13:02,0
+The voice
+
+576
+02:13:02,0 --> 02:13:02,0
+of
+
+577
+02:13:02,0 --> 02:13:02,0
+Peter, James,
+
+578
+02:13:02,0 --> 02:13:02,0
+and
+
+579
+02:13:02,0 --> 02:13:02,0
+John in the
+
+580
+02:13:02,0 --> 02:13:02,0
+
+
+581
+02:13:02,0 --> 02:13:02,0
+wilderness
+
+582
+02:13:02,0 --> 02:13:02,0
+between
+
+583
+02:13:02,0 --> 02:13:02,0
+Harmony,
+
+584
+02:13:02,0 --> 02:13:02,0
+Susquehanna
+
+585
+02:13:02,0 --> 02:13:02,0
+county,
+
+586
+02:13:02,0 --> 02:13:02,0
+and
+
+587
+02:13:02,0 --> 02:13:02,0
+Colesville,
+
+588
+02:13:02,0 --> 02:13:02,0
+Broome
+
+589
+02:13:02,0 --> 02:13:02,0
+county,
+
+590
+02:13:02,0 --> 02:13:02,0
+on the
+
+591
+02:13:02,0 --> 02:13:02,0
+
+
+592
+02:13:02,0 --> 02:13:02,0
+Susquehanna
+
+593
+02:13:02,0 --> 02:13:02,0
+river,
+
+594
+02:13:02,0 --> 02:13:02,0
+declaring
+
+595
+02:13:02,0 --> 02:13:02,0
+themselves
+
+596
+02:13:02,0 --> 02:13:02,0
+as
+
+597
+02:13:02,0 --> 02:50:03,
+possessing the keys of the kingdom, and of the dispensation of the fulness of times!
+
+598
+02:50:03,0 --> 02:50:03,0
+21 And
+
+599
+02:50:03,0 --> 02:50:03,0
+again,
+
+600
+02:50:03,0 --> 02:50:03,0
+the
+
+601
+02:50:03,0 --> 02:50:03,0
+voice of
+
+602
+02:50:03,0 --> 02:50:03,0
+God in
+
+603
+02:50:03,0 --> 02:50:03,0
+the
+
+604
+02:50:03,0 --> 02:50:03,0
+chamber of
+
+605
+02:50:03,0 --> 02:50:03,0
+old
+
+606
+02:50:03,0 --> 02:50:03,0
+Father
+
+607
+02:50:03,0 --> 02:50:03,0
+Whitmer,
+
+608
+02:50:03,0 --> 02:50:03,0
+in
+
+609
+02:50:03,0 --> 02:50:03,0
+Fayette,
+
+610
+02:50:03,0 --> 02:50:03,0
+Seneca
+
+611
+02:50:03,0 --> 02:50:03,0
+county,
+
+612
+02:50:03,0 --> 02:50:03,0
+and at
+
+613
+02:50:03,0 --> 02:50:03,0
+sundry
+
+614
+02:50:03,0 --> 02:50:03,0
+times,
+
+615
+02:50:03,0 --> 02:50:03,0
+and in
+
+616
+02:50:03,0 --> 02:50:03,0
+divers
+
+617
+02:50:03,0 --> 02:50:03,0
+places
+
+618
+02:50:03,0 --> 02:50:03,0
+through
+
+619
+02:50:03,0 --> 02:50:03,0
+all the
+
+620
+02:50:03,0 --> 02:50:03,0
+travels
+
+621
+02:50:03,0 --> 02:50:03,0
+and
+
+622
+02:50:03,0 --> 02:50:03,0
+
+
+623
+02:50:03,0 --> 02:50:03,0
+tribulations of
+
+624
+02:50:03,0 --> 02:50:03,0
+this
+
+625
+02:50:03,0 --> 02:50:03,0
+Church of
+
+626
+02:50:03,0 --> 02:50:03,0
+Jesus
+
+627
+02:50:03,0 --> 02:50:03,0
+Christ
+
+628
+02:50:03,0 --> 02:50:03,0
+of
+
+629
+02:50:03,0 --> 02:50:03,0
+Latter-day
+
+630
+02:50:03,0 --> 02:50:03,0
+Saints!
+
+631
+02:50:03,0 --> 02:50:03,0
+And
+
+632
+02:50:03,0 --> 02:50:03,0
+the voice
+
+633
+02:50:03,0 --> 02:50:03,0
+of
+
+634
+02:50:03,0 --> 02:50:03,0
+Michael,
+
+635
+02:50:03,0 --> 02:50:03,0
+the
+
+636
+02:50:03,0 --> 02:50:03,0
+archangel;
+
+637
+02:50:03,0 --> 02:50:03,0
+the
+
+638
+02:50:03,0 --> 02:50:03,0
+voice of
+
+639
+02:50:03,0 --> 02:50:03,0
+Gabriel,
+
+640
+02:50:03,0 --> 02:50:03,0
+and of
+
+641
+02:50:03,0 --> 02:50:03,0
+
+
+642
+02:50:03,0 --> 02:50:03,0
+Raphael, and
+
+643
+02:50:03,0 --> 02:50:03,0
+of
+
+644
+02:50:03,0 --> 02:50:03,0
+divers
+
+645
+02:50:03,0 --> 02:50:03,0
+angels,
+
+646
+02:50:03,0 --> 02:50:03,0
+from
+
+647
+02:50:03,0 --> 02:50:03,0
+Michael or
+
+648
+02:50:03,0 --> 02:50:03,0
+Adam
+
+649
+02:50:03,0 --> 02:50:03,0
+down to
+
+650
+02:50:03,0 --> 02:50:03,0
+the
+
+651
+02:50:03,0 --> 02:50:03,0
+present
+
+652
+02:50:03,0 --> 02:50:03,0
+time, all
+
+653
+02:50:03,0 --> 02:50:03,0
+
+
+654
+02:50:03,0 --> 02:50:03,0
+declaring their
+
+655
+02:50:03,0 --> 02:50:03,0
+
+
+656
+02:50:03,0 --> 02:50:03,0
+dispensation,
+
+657
+02:50:03,0 --> 02:50:03,0
+their
+
+658
+02:50:03,0 --> 02:50:03,0
+rights,
+
+659
+02:50:03,0 --> 02:50:03,0
+their
+
+660
+02:50:03,0 --> 02:50:03,0
+keys,
+
+661
+02:50:03,0 --> 02:50:03,0
+their
+
+662
+02:50:03,0 --> 02:50:03,0
+honors,
+
+663
+02:50:03,0 --> 02:50:03,0
+their
+
+664
+02:50:03,0 --> 02:50:03,0
+majesty
+
+665
+02:50:03,0 --> 02:50:03,0
+and
+
+666
+02:50:03,0 --> 02:50:03,0
+glory, and
+
+667
+02:50:03,0 --> 02:50:03,0
+the
+
+668
+02:50:03,0 --> 02:50:03,0
+power of
+
+669
+02:50:03,0 --> 02:50:03,0
+their
+
+670
+02:50:03,0 --> 02:50:03,0
+
+
+671
+02:50:03,0 --> 02:50:03,0
+priesthood;
+
+672
+02:50:03,0 --> 02:50:03,0
+giving line
+
+673
+02:50:03,0 --> 02:50:03,0
+upon
+
+674
+02:50:03,0 --> 02:50:03,0
+line,
+
+675
+02:50:03,0 --> 02:50:03,0
+precept
+
+676
+02:50:03,0 --> 02:50:03,0
+upon
+
+677
+02:50:03,0 --> 02:50:03,0
+precept;
+
+678
+02:50:03,0 --> 02:50:03,0
+here a
+
+679
+02:50:03,0 --> 02:50:03,0
+little,
+
+680
+02:50:03,0 --> 02:50:03,0
+and
+
+681
+02:50:03,0 --> 02:50:03,0
+there a
+
+682
+02:50:03,0 --> 03:00:35,
+little; giving us consolation by holding forth that which is to come, confirming our hope!
+
+683
+03:00:35,0 --> 03:00:35,0
+22
+
+684
+03:00:35,0 --> 03:00:35,0
+Brethren,
+
+685
+03:00:35,0 --> 03:00:35,0
+shall we
+
+686
+03:00:35,0 --> 03:00:35,0
+not go
+
+687
+03:00:35,0 --> 03:00:35,0
+on in
+
+688
+03:00:35,0 --> 03:00:35,0
+so
+
+689
+03:00:35,0 --> 03:00:35,0
+great a
+
+690
+03:00:35,0 --> 03:00:35,0
+cause? Go
+
+691
+03:00:35,0 --> 03:00:35,0
+forward
+
+692
+03:00:35,0 --> 03:00:35,0
+and
+
+693
+03:00:35,0 --> 03:00:35,0
+not
+
+694
+03:00:35,0 --> 03:00:35,0
+backward.
+
+695
+03:00:35,0 --> 03:00:35,0
+Courage,
+
+696
+03:00:35,0 --> 03:00:35,0
+
+
+697
+03:00:35,0 --> 03:00:35,0
+brethren; and
+
+698
+03:00:35,0 --> 03:00:35,0
+on, on
+
+699
+03:00:35,0 --> 03:00:35,0
+to the
+
+700
+03:00:35,0 --> 03:00:35,0
+
+
+701
+03:00:35,0 --> 03:00:35,0
+victory! Let
+
+702
+03:00:35,0 --> 03:00:35,0
+your
+
+703
+03:00:35,0 --> 03:00:35,0
+hearts
+
+704
+03:00:35,0 --> 03:00:35,0
+rejoice,
+
+705
+03:00:35,0 --> 03:00:35,0
+and be
+
+706
+03:00:35,0 --> 03:00:35,0
+
+
+707
+03:00:35,0 --> 03:00:35,0
+exceedingly
+
+708
+03:00:35,0 --> 03:00:35,0
+glad. Let
+
+709
+03:00:35,0 --> 03:00:35,0
+the
+
+710
+03:00:35,0 --> 03:00:35,0
+earth
+
+711
+03:00:35,0 --> 03:00:35,0
+break forth
+
+712
+03:00:35,0 --> 03:00:35,0
+into
+
+713
+03:00:35,0 --> 03:00:35,0
+singing.
+
+714
+03:00:35,0 --> 03:00:35,0
+Let
+
+715
+03:00:35,0 --> 03:00:35,0
+the dead
+
+716
+03:00:35,0 --> 03:00:35,0
+speak
+
+717
+03:00:35,0 --> 03:00:35,0
+forth
+
+718
+03:00:35,0 --> 03:00:35,0
+anthems
+
+719
+03:00:35,0 --> 03:00:35,0
+of
+
+720
+03:00:35,0 --> 03:00:35,0
+eternal
+
+721
+03:00:35,0 --> 03:00:35,0
+praise to
+
+722
+03:00:35,0 --> 03:00:35,0
+the King
+
+723
+03:00:35,0 --> 03:00:35,0
+
+
+724
+03:00:35,0 --> 03:00:35,0
+Immanuel, who
+
+725
+03:00:35,0 --> 03:00:35,0
+hath
+
+726
+03:00:35,0 --> 03:00:35,0
+
+
+727
+03:00:35,0 --> 03:00:35,0
+ordained,
+
+728
+03:00:35,0 --> 03:00:35,0
+before the
+
+729
+03:00:35,0 --> 03:00:35,0
+world
+
+730
+03:00:35,0 --> 03:00:35,0
+was, that
+
+731
+03:00:35,0 --> 03:00:35,0
+which
+
+732
+03:00:35,0 --> 03:00:35,0
+would
+
+733
+03:00:35,0 --> 03:00:35,0
+enable
+
+734
+03:00:35,0 --> 03:00:35,0
+us to
+
+735
+03:00:35,0 --> 03:00:35,0
+redeem
+
+736
+03:00:35,0 --> 03:00:35,0
+them out
+
+737
+03:00:35,0 --> 03:00:35,0
+of
+
+738
+03:00:35,0 --> 03:00:35,0
+their
+
+739
+03:00:35,0 --> 03:00:35,0
+prison; for
+
+740
+03:00:35,0 --> 03:00:35,0
+the
+
+741
+03:00:35,0 --> 03:00:35,0
+prisoners
+
+742
+03:00:35,0 --> 03:00:35,0
+shall
+
+743
+03:00:35,0 --> 04:13:30,
+go free.
+
+744
+04:13:30,0 --> 04:13:30,0
+23 Let
+
+745
+04:13:30,0 --> 04:13:30,0
+the
+
+746
+04:13:30,0 --> 04:13:30,0
+
+
+747
+04:13:30,0 --> 04:13:30,0
+mountains
+
+748
+04:13:30,0 --> 04:13:30,0
+shout for
+
+749
+04:13:30,0 --> 04:13:30,0
+joy,
+
+750
+04:13:30,0 --> 04:13:30,0
+and
+
+751
+04:13:30,0 --> 04:13:30,0
+all ye
+
+752
+04:13:30,0 --> 04:13:30,0
+valleys
+
+753
+04:13:30,0 --> 04:13:30,0
+cry
+
+754
+04:13:30,0 --> 04:13:30,0
+aloud;
+
+755
+04:13:30,0 --> 04:13:30,0
+and
+
+756
+04:13:30,0 --> 04:13:30,0
+all ye
+
+757
+04:13:30,0 --> 04:13:30,0
+seas
+
+758
+04:13:30,0 --> 04:13:30,0
+and dry
+
+759
+04:13:30,0 --> 04:13:30,0
+lands
+
+760
+04:13:30,0 --> 04:13:30,0
+tell
+
+761
+04:13:30,0 --> 04:13:30,0
+the
+
+762
+04:13:30,0 --> 04:13:30,0
+wonders
+
+763
+04:13:30,0 --> 04:13:30,0
+of your
+
+764
+04:13:30,0 --> 04:13:30,0
+
+
+765
+04:13:30,0 --> 04:13:30,0
+Eternal
+
+766
+04:13:30,0 --> 04:13:30,0
+King! And
+
+767
+04:13:30,0 --> 04:13:30,0
+ye
+
+768
+04:13:30,0 --> 04:13:30,0
+rivers,
+
+769
+04:13:30,0 --> 04:13:30,0
+and
+
+770
+04:13:30,0 --> 04:13:30,0
+brooks,
+
+771
+04:13:30,0 --> 04:13:30,0
+and
+
+772
+04:13:30,0 --> 04:13:30,0
+rills,
+
+773
+04:13:30,0 --> 04:13:30,0
+flow
+
+774
+04:13:30,0 --> 04:13:30,0
+down
+
+775
+04:13:30,0 --> 04:13:30,0
+with
+
+776
+04:13:30,0 --> 04:13:30,0
+gladness.
+
+777
+04:13:30,0 --> 04:13:30,0
+Let
+
+778
+04:13:30,0 --> 04:13:30,0
+the
+
+779
+04:13:30,0 --> 04:13:30,0
+woods and
+
+780
+04:13:30,0 --> 04:13:30,0
+all
+
+781
+04:13:30,0 --> 04:13:30,0
+the
+
+782
+04:13:30,0 --> 04:13:30,0
+trees of
+
+783
+04:13:30,0 --> 04:13:30,0
+the
+
+784
+04:13:30,0 --> 04:13:30,0
+field
+
+785
+04:13:30,0 --> 04:13:30,0
+praise
+
+786
+04:13:30,0 --> 04:13:30,0
+the
+
+787
+04:13:30,0 --> 04:13:30,0
+Lord; and
+
+788
+04:13:30,0 --> 04:13:30,0
+ye
+
+789
+04:13:30,0 --> 04:13:30,0
+solid
+
+790
+04:13:30,0 --> 04:13:30,0
+rocks
+
+791
+04:13:30,0 --> 04:13:30,0
+weep for
+
+792
+04:13:30,0 --> 04:13:30,0
+joy!
+
+793
+04:13:30,0 --> 04:13:30,0
+And let
+
+794
+04:13:30,0 --> 04:13:30,0
+the
+
+795
+04:13:30,0 --> 04:13:30,0
+sun,
+
+796
+04:13:30,0 --> 04:13:30,0
+moon,
+
+797
+04:13:30,0 --> 04:13:30,0
+and the
+
+798
+04:13:30,0 --> 04:13:30,0
+
+
+799
+04:13:30,0 --> 04:13:30,0
+morning
+
+800
+04:13:30,0 --> 04:13:30,0
+stars sing
+
+801
+04:13:30,0 --> 04:13:30,0
+
+
+802
+04:13:30,0 --> 04:13:30,0
+together,
+
+803
+04:13:30,0 --> 04:13:30,0
+and let
+
+804
+04:13:30,0 --> 04:13:30,0
+all
+
+805
+04:13:30,0 --> 04:13:30,0
+the
+
+806
+04:13:30,0 --> 04:13:30,0
+sons of
+
+807
+04:13:30,0 --> 04:13:30,0
+God
+
+808
+04:13:30,0 --> 04:13:30,0
+shout for
+
+809
+04:13:30,0 --> 04:13:30,0
+joy!
+
+810
+04:13:30,0 --> 04:13:30,0
+And
+
+811
+04:13:30,0 --> 04:13:30,0
+let the
+
+812
+04:13:30,0 --> 04:13:30,0
+
+
+813
+04:13:30,0 --> 04:13:30,0
+eternal
+
+814
+04:13:30,0 --> 04:13:30,0
+creations
+
+815
+04:13:30,0 --> 04:13:30,0
+
+
+816
+04:13:30,0 --> 04:13:30,0
+declare his
+
+817
+04:13:30,0 --> 04:13:30,0
+name
+
+818
+04:13:30,0 --> 04:13:30,0
+forever
+
+819
+04:13:30,0 --> 04:13:30,0
+and
+
+820
+04:13:30,0 --> 04:13:30,0
+ever!
+
+821
+04:13:30,0 --> 04:13:30,0
+And
+
+822
+04:13:30,0 --> 04:13:30,0
+again I
+
+823
+04:13:30,0 --> 04:13:30,0
+say,
+
+824
+04:13:30,0 --> 04:13:30,0
+how
+
+825
+04:13:30,0 --> 04:13:30,0
+glorious
+
+826
+04:13:30,0 --> 04:13:30,0
+is the
+
+827
+04:13:30,0 --> 04:13:30,0
+voice
+
+828
+04:13:30,0 --> 04:13:30,0
+we
+
+829
+04:13:30,0 --> 04:13:30,0
+hear from
+
+830
+04:13:30,0 --> 04:13:30,0
+
+
+831
+04:13:30,0 --> 04:13:30,0
+heaven,
+
+832
+04:13:30,0 --> 04:13:30,0
+
+
+833
+04:13:30,0 --> 04:13:30,0
+proclaiming in
+
+834
+04:13:30,0 --> 04:13:30,0
+our
+
+835
+04:13:30,0 --> 04:13:30,0
+ears,
+
+836
+04:13:30,0 --> 04:13:30,0
+glory,
+
+837
+04:13:30,0 --> 04:09:10,
+and salvation, and honor, and immortality, and eternal life; kingdoms, principalities, and powers!
+
+838
+04:09:10,0 --> 04:09:10,0
+24
+
+839
+04:09:10,0 --> 04:09:10,0
+Behold,
+
+840
+04:09:10,0 --> 04:09:10,0
+the
+
+841
+04:09:10,0 --> 04:09:10,0
+great
+
+842
+04:09:10,0 --> 04:09:10,0
+day
+
+843
+04:09:10,0 --> 04:09:10,0
+of
+
+844
+04:09:10,0 --> 04:09:10,0
+the
+
+845
+04:09:10,0 --> 04:09:10,0
+Lord is
+
+846
+04:09:10,0 --> 04:09:10,0
+at
+
+847
+04:09:10,0 --> 04:09:10,0
+hand;
+
+848
+04:09:10,0 --> 04:09:10,0
+and
+
+849
+04:09:10,0 --> 04:09:10,0
+who can
+
+850
+04:09:10,0 --> 04:09:10,0
+
+
+851
+04:09:10,0 --> 04:09:10,0
+abide the
+
+852
+04:09:10,0 --> 04:09:10,0
+day
+
+853
+04:09:10,0 --> 04:09:10,0
+of
+
+854
+04:09:10,0 --> 04:09:10,0
+his
+
+855
+04:09:10,0 --> 04:09:10,0
+coming,
+
+856
+04:09:10,0 --> 04:09:10,0
+and
+
+857
+04:09:10,0 --> 04:09:10,0
+who
+
+858
+04:09:10,0 --> 04:09:10,0
+can
+
+859
+04:09:10,0 --> 04:09:10,0
+stand
+
+860
+04:09:10,0 --> 04:09:10,0
+when he
+
+861
+04:09:10,0 --> 04:09:10,0
+
+
+862
+04:09:10,0 --> 04:09:10,0
+
+
+863
+04:09:10,0 --> 04:09:10,0
+appeareth? For
+
+864
+04:09:10,0 --> 04:09:10,0
+he
+
+865
+04:09:10,0 --> 04:09:10,0
+is
+
+866
+04:09:10,0 --> 04:09:10,0
+like a
+
+867
+04:09:10,0 --> 04:09:10,0
+
+
+868
+04:09:10,0 --> 04:09:10,0
+refiner’s
+
+869
+04:09:10,0 --> 04:09:10,0
+fire,
+
+870
+04:09:10,0 --> 04:09:10,0
+and
+
+871
+04:09:10,0 --> 04:09:10,0
+like
+
+872
+04:09:10,0 --> 04:09:10,0
+
+
+873
+04:09:10,0 --> 04:09:10,0
+fuller’s
+
+874
+04:09:10,0 --> 04:09:10,0
+soap;
+
+875
+04:09:10,0 --> 04:09:10,0
+and he
+
+876
+04:09:10,0 --> 04:09:10,0
+
+
+877
+04:09:10,0 --> 04:09:10,0
+shall sit
+
+878
+04:09:10,0 --> 04:09:10,0
+as a
+
+879
+04:09:10,0 --> 04:09:10,0
+
+
+880
+04:09:10,0 --> 04:09:10,0
+refiner
+
+881
+04:09:10,0 --> 04:09:10,0
+and
+
+882
+04:09:10,0 --> 04:09:10,0
+
+
+883
+04:09:10,0 --> 04:09:10,0
+purifier of
+
+884
+04:09:10,0 --> 04:09:10,0
+
+
+885
+04:09:10,0 --> 04:09:10,0
+silver,
+
+886
+04:09:10,0 --> 04:09:10,0
+and he
+
+887
+04:09:10,0 --> 04:09:10,0
+shall
+
+888
+04:09:10,0 --> 04:09:10,0
+
+
+889
+04:09:10,0 --> 04:09:10,0
+purify
+
+890
+04:09:10,0 --> 04:09:10,0
+the
+
+891
+04:09:10,0 --> 04:09:10,0
+sons of
+
+892
+04:09:10,0 --> 04:09:10,0
+Levi,
+
+893
+04:09:10,0 --> 04:09:10,0
+and
+
+894
+04:09:10,0 --> 04:09:10,0
+purge
+
+895
+04:09:10,0 --> 04:09:10,0
+them
+
+896
+04:09:10,0 --> 04:09:10,0
+as
+
+897
+04:09:10,0 --> 04:09:10,0
+gold
+
+898
+04:09:10,0 --> 04:09:10,0
+and
+
+899
+04:09:10,0 --> 04:09:10,0
+silver,
+
+900
+04:09:10,0 --> 04:09:10,0
+that
+
+901
+04:09:10,0 --> 04:09:10,0
+they
+
+902
+04:09:10,0 --> 04:09:10,0
+may
+
+903
+04:09:10,0 --> 04:09:10,0
+offer
+
+904
+04:09:10,0 --> 04:09:10,0
+unto
+
+905
+04:09:10,0 --> 04:09:10,0
+the
+
+906
+04:09:10,0 --> 04:09:10,0
+Lord
+
+907
+04:09:10,0 --> 04:09:10,0
+an
+
+908
+04:09:10,0 --> 04:09:10,0
+
+
+909
+04:09:10,0 --> 04:09:10,0
+offering in
+
+910
+04:09:10,0 --> 04:09:10,0
+
+
+911
+04:09:10,0 --> 04:09:10,0
+
+
+912
+04:09:10,0 --> 04:09:10,0
+righteousness.
+
+913
+04:09:10,0 --> 04:09:10,0
+Let
+
+914
+04:09:10,0 --> 04:09:10,0
+us,
+
+915
+04:09:10,0 --> 04:09:10,0
+
+
+916
+04:09:10,0 --> 04:09:10,0
+therefore,
+
+917
+04:09:10,0 --> 04:09:10,0
+as a
+
+918
+04:09:10,0 --> 04:09:10,0
+church
+
+919
+04:09:10,0 --> 04:09:10,0
+and
+
+920
+04:09:10,0 --> 04:09:10,0
+a
+
+921
+04:09:10,0 --> 04:09:10,0
+people,
+
+922
+04:09:10,0 --> 04:09:10,0
+and
+
+923
+04:09:10,0 --> 04:09:10,0
+as
+
+924
+04:09:10,0 --> 04:09:10,0
+
+
+925
+04:09:10,0 --> 04:09:10,0
+Latter-day
+
+926
+04:09:10,0 --> 04:09:10,0
+Saints,
+
+927
+04:09:10,0 --> 04:09:10,0
+
+
+928
+04:09:10,0 --> 04:09:10,0
+offer
+
+929
+04:09:10,0 --> 04:09:10,0
+unto the
+
+930
+04:09:10,0 --> 04:09:10,0
+Lord
+
+931
+04:09:10,0 --> 04:09:10,0
+an
+
+932
+04:09:10,0 --> 04:09:10,0
+
+
+933
+04:09:10,0 --> 04:09:10,0
+offering in
+
+934
+04:09:10,0 --> 04:09:10,0
+
+
+935
+04:09:10,0 --> 04:09:10,0
+
+
+936
+04:09:10,0 --> 04:09:10,0
+righteousness;
+
+937
+04:09:10,0 --> 04:09:10,0
+and
+
+938
+04:09:10,0 --> 04:09:10,0
+let
+
+939
+04:09:10,0 --> 04:09:10,0
+us
+
+940
+04:09:10,0 --> 04:09:10,0
+present
+
+941
+04:09:10,0 --> 04:09:10,0
+in
+
+942
+04:09:10,0 --> 04:09:10,0
+his
+
+943
+04:09:10,0 --> 04:09:10,0
+holy
+
+944
+04:09:10,0 --> 04:14:15,
+temple, when it is finished, a book containing the records of our dead, which shall be worthy of all acceptation.
+
+945
+04:14:15,0 --> 04:14:15,0
+25
+
+946
+04:14:15,0 --> 04:14:15,0
+
+
+947
+04:14:15,0 --> 04:14:15,0
+Brethren,
+
+948
+04:14:15,0 --> 04:14:15,0
+I
+
+949
+04:14:15,0 --> 04:14:15,0
+have
+
+950
+04:14:15,0 --> 04:14:15,0
+many
+
+951
+04:14:15,0 --> 04:14:15,0
+
+
+952
+04:14:15,0 --> 04:14:15,0
+things
+
+953
+04:14:15,0 --> 04:14:15,0
+to
+
+954
+04:14:15,0 --> 04:14:15,0
+say
+
+955
+04:14:15,0 --> 04:14:15,0
+to
+
+956
+04:14:15,0 --> 04:14:15,0
+you on
+
+957
+04:14:15,0 --> 04:14:15,0
+the
+
+958
+04:14:15,0 --> 04:14:15,0
+
+
+959
+04:14:15,0 --> 04:14:15,0
+
+
+960
+04:14:15,0 --> 04:14:15,0
+subject;
+
+961
+04:14:15,0 --> 04:14:15,0
+but
+
+962
+04:14:15,0 --> 04:14:15,0
+shall
+
+963
+04:14:15,0 --> 04:14:15,0
+now
+
+964
+04:14:15,0 --> 04:14:15,0
+
+
+965
+04:14:15,0 --> 04:14:15,0
+close
+
+966
+04:14:15,0 --> 04:14:15,0
+for
+
+967
+04:14:15,0 --> 04:14:15,0
+the
+
+968
+04:14:15,0 --> 04:14:15,0
+
+
+969
+04:14:15,0 --> 04:14:15,0
+present,
+
+970
+04:14:15,0 --> 04:14:15,0
+and
+
+971
+04:14:15,0 --> 04:14:15,0
+
+
+972
+04:14:15,0 --> 04:14:15,0
+continue
+
+973
+04:14:15,0 --> 04:14:15,0
+the
+
+974
+04:14:15,0 --> 04:14:15,0
+
+
+975
+04:14:15,0 --> 04:14:15,0
+subject
+
+976
+04:14:15,0 --> 04:14:15,0
+
+
+977
+04:14:15,0 --> 04:14:15,0
+another
+
+978
+04:14:15,0 --> 04:14:15,0
+
+
+979
+04:14:15,0 --> 04:14:15,0
+time. I
+
+980
+04:14:15,0 --> 04:14:15,0
+am,
+
+981
+04:14:15,0 --> 04:14:15,0
+as
+
+982
+04:14:15,0 --> 04:14:15,0
+ever,
+
+983
+04:14:15,0 --> 04:14:15,0
+
+
+984
+04:14:15,0 --> 04:14:15,0
+your
+
+985
+04:14:15,0 --> 04:14:15,0
+humble
+
+986
+04:14:15,0 --> 04:14:15,0
+
+
+987
+04:14:15,0 --> 04:17:54,
+servant and never deviating friend,Joseph Smith. 
 

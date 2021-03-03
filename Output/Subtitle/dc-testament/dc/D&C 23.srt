@@ -1,173 +1,205 @@
 1
-00:00:11,278 --> 00:00:17,378
+00:00:00,0 --> 00:00:00,0
 Section 23 A series of five revelations given
 
 2
-00:00:17,378 --> 00:00:23,478
- through Joseph Smith the Prophet, at Manchester, New
+00:00:00,0 --> 00:00:00,0
+through Joseph Smith the Prophet, at Manchester,
 
 3
-00:00:23,478 --> 00:00:29,578
- York, April 1830, to Oliver Cowdery, Hyrum Smith,
+00:00:00,0 --> 00:00:00,0
+New York, April 1830, to Oliver Cowdery, Hyrum
 
 4
-00:00:29,578 --> 00:00:35,678
- Samuel H. Smith, Joseph Smith Sr., and Joseph
+00:00:00,0 --> 00:00:00,0
+Smith, Samuel H. Smith, Joseph Smith Sr., and
 
 5
-00:00:35,678 --> 00:00:41,778
- Knight Sr. As the result of earnest desire on the part
+00:00:00,0 --> 00:00:00,0
+Joseph Knight Sr. As the result of earnest
 
 6
-00:00:41,778 --> 00:00:47,878
- of the five persons named to know of their
+00:00:00,0 --> 00:00:00,0
+desire on the part of the five persons named to
 
 7
-00:00:47,878 --> 00:00:53,978
- respective duties, the Prophet inquired of the Lord and
+00:00:00,0 --> 00:00:00,0
+know of their respective duties, the Prophet
 
 8
-00:00:53,978 --> 00:01:00,078
- received a revelation for each person. 
-1–7, These
+00:00:00,0 --> 00:00:00,0
+inquired of the Lord and received a revelation for
 
 9
-00:01:00,078 --> 00:01:06,178
- early disciples are called to preach, exhort, and
+00:00:00,0 --> 00:00:00,0
+each person. 
+1–7, These early disciples are
 
 10
-00:01:06,178 --> 00:01:12,278
- strengthen the Church.
+00:00:00,0 --> 00:35:51,
+called to preach, exhort, and strengthen the Church. 
 
 11
-00:01:12,372 --> 00:01:17,622
-1 Behold, I speak unto you, Oliver, a few words.
+00:35:51,0 --> 00:35:51,0
+1 Behold, I speak unto you, Oliver, a few
 
 12
-00:01:17,622 --> 00:01:22,872
- Behold, thou art blessed, and art under no
+00:35:51,0 --> 00:35:51,0
+words. Behold, thou art blessed, and art
 
 13
-00:01:22,872 --> 00:01:28,122
- condemnation. But beware of pride, lest thou shouldst
+00:35:51,0 --> 00:35:51,0
+under no condemnation. But beware of pride,
 
 14
-00:01:28,122 --> 00:01:33,372
- enter into temptation
+00:35:51,0 --> 00:46:01,
+lest thou shouldst enter into temptation.
 
 15
-00:01:33,126 --> 00:01:38,126
-2 Make known thy calling unto the church, and also
+00:46:01,0 --> 00:46:01,0
+2 Make known thy calling unto the
 
 16
-00:01:38,126 --> 00:01:43,126
- before the world, and thy heart shall be opened
+00:46:01,0 --> 00:46:01,0
+church, and also before the world, and thy
 
 17
-00:01:43,126 --> 00:01:48,126
- to preach the truth from henceforth and forever.
+00:46:01,0 --> 00:46:01,0
+heart shall be opened to preach the
 
 18
-00:01:48,126 --> 00:01:53,126
- Amen
+00:46:01,0 --> 00:56:11,
+truth from henceforth and forever. Amen.
 
 19
-00:01:53,88 --> 00:01:59,047
-3 Behold, I speak unto you, Hyrum, a few words;
+00:56:11,0 --> 00:56:11,0
+3 Behold, I speak unto you, Hyrum, a
 
 20
-00:01:59,047 --> 00:02:04,214
- for thou also art under no condemnation, and thy
+00:56:11,0 --> 00:56:11,0
+few words; for thou also art under no
 
 21
-00:02:04,214 --> 00:02:09,381
- heart is opened, and thy tongue loosed; and thy
+00:56:11,0 --> 00:56:11,0
+condemnation, and thy heart is
 
 22
-00:02:09,381 --> 00:02:14,548
- calling is to exhortation, and to strengthen the church
+00:56:11,0 --> 00:56:11,0
+opened, and thy tongue loosed; and thy
 
 23
-00:02:14,548 --> 00:02:19,715
- continually. Wherefore thy duty is unto the
+00:56:11,0 --> 00:56:11,0
+calling is to exhortation, and to
 
 24
-00:02:19,715 --> 00:02:24,882
- church forever, and this because of thy family. Amen
+00:56:11,0 --> 00:56:11,0
+strengthen the church continually.
 
 25
-00:02:24,811 --> 00:02:29,211
-4 Behold, I speak a few words unto you, Samuel;
+00:56:11,0 --> 00:56:11,0
+Wherefore thy duty is unto the church
 
 26
-00:02:29,211 --> 00:02:33,611
- for thou also art under no condemnation, and thy
+00:56:11,0 --> 01:11:53,
+forever, and this because of thy family. Amen.
 
 27
-00:02:33,611 --> 00:02:38,011
- calling is to exhortation, and to strengthen the
+01:11:53,0 --> 01:11:53,0
+4 Behold, I speak a few words unto
 
 28
-00:02:38,011 --> 00:02:42,411
- church; and thou art not as yet called to preach
+01:11:53,0 --> 01:11:53,0
+you, Samuel; for thou also art under
 
 29
-00:02:42,411 --> 00:02:46,811
- before the world. Amen
+01:11:53,0 --> 01:11:53,0
+no condemnation, and thy calling is
 
 30
-00:02:46,533 --> 00:02:50,933
-5 Behold, I speak a few words unto you, Joseph;
+01:11:53,0 --> 01:11:53,0
+to exhortation, and to strengthen
 
 31
-00:02:50,933 --> 00:02:55,333
- for thou also art under no condemnation, and thy
+01:11:53,0 --> 01:11:53,0
+the church; and thou art not as yet
 
 32
-00:02:55,333 --> 00:02:59,733
- calling also is to exhortation, and to strengthen the
+01:11:53,0 --> 01:22:47,
+called to preach before the world. Amen.
 
 33
-00:02:59,733 --> 00:03:04,133
- church; and this is thy duty from henceforth and
+01:22:47,0 --> 01:22:47,0
+5 Behold, I speak a few words unto
 
 34
-00:03:04,133 --> 00:03:08,533
- forever. Amen
+01:22:47,0 --> 01:22:47,0
+you, Joseph; for thou also art
 
 35
-00:03:08,522 --> 00:03:14,922
-6 Behold, I manifest unto you, Joseph Knight, by
+01:22:47,0 --> 01:22:47,0
+under no condemnation, and thy calling
 
 36
-00:03:14,922 --> 00:03:21,322
- these words, that you must take up your cross, in
+01:22:47,0 --> 01:22:47,0
+also is to exhortation, and to
 
 37
-00:03:21,322 --> 00:03:27,722
- the which you must pray vocally before the world as
+01:22:47,0 --> 01:22:47,0
+strengthen the church; and this is thy
 
 38
-00:03:27,722 --> 00:03:34,122
- well as in secret, and in your family, and among
+01:22:47,0 --> 01:34:16,
+duty from henceforth and forever. Amen.
 
 39
-00:03:34,122 --> 00:03:40,522
- your friends, and in all places
+01:34:16,0 --> 01:34:16,0
+6 Behold, I manifest unto you,
 
 40
-00:03:40,787 --> 00:03:48,787
-7 And, behold, it is your duty to unite with the
+01:34:16,0 --> 01:34:16,0
+Joseph Knight, by these words, that
 
 41
-00:03:48,787 --> 00:03:56,787
- true church, and give your language to exhortation
+01:34:16,0 --> 01:34:16,0
+you must take up your cross, in
 
 42
-00:03:56,787 --> 00:04:04,787
- continually, that you may receive the reward of
+01:34:16,0 --> 01:34:16,0
+the which you must pray vocally
 
 43
-00:04:04,787 --> 00:04:12,787
- the laborer. Amen.
+01:34:16,0 --> 01:34:16,0
+before the world as well as in
+
+44
+01:34:16,0 --> 01:34:16,0
+secret, and in your family, and
+
+45
+01:34:16,0 --> 01:49:58,
+among your friends, and in all places.
+
+46
+01:49:58,0 --> 01:49:58,0
+7 And, behold, it is your
+
+47
+01:49:58,0 --> 01:49:58,0
+duty to unite with the true
+
+48
+01:49:58,0 --> 01:49:58,0
+church, and give your
+
+49
+01:49:58,0 --> 01:49:58,0
+language to exhortation
+
+50
+01:49:58,0 --> 01:49:58,0
+continually, that you may receive
+
+51
+01:49:58,0 --> 02:01:55,
+the reward of the laborer. Amen. 
 

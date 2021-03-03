@@ -1,138 +1,170 @@
 1
-00:00:09,293 --> 00:00:16,126
+00:00:00,0 --> 00:00:00,0
 Section 65 Revelation on prayer given through
 
 2
-00:00:16,126 --> 00:00:22,959
- Joseph Smith the Prophet, at Hiram, Ohio, October 30,
+00:00:00,0 --> 00:00:00,0
+Joseph Smith the Prophet, at Hiram, Ohio, October
 
 3
-00:00:22,959 --> 00:00:29,792
- 1831. 
+00:00:00,0 --> 00:00:00,0
+30, 1831. 
 1–2, The keys of the kingdom of God are
 
 4
-00:00:29,792 --> 00:00:36,625
- committed to man on earth, and the gospel cause will
+00:00:00,0 --> 00:00:00,0
+committed to man on earth, and the gospel cause
 
 5
-00:00:36,625 --> 00:00:43,458
- triumph; 
-3–6, The millennial kingdom of heaven
+00:00:00,0 --> 00:00:00,0
+will triumph; 
+3–6, The millennial kingdom of
 
 6
-00:00:43,458 --> 00:00:50,291
- will come and join the kingdom of God on earth.
+00:00:00,0 --> 00:48:58,
+heaven will come and join the kingdom of God on earth. 
 
 7
-00:00:50,267 --> 00:00:55,667
-1 Hearken, and lo, a voice as of one sent down
+00:48:58,0 --> 00:48:58,0
+1 Hearken, and lo, a voice as of one sent
 
 8
-00:00:55,667 --> 00:01:01,067
- from on high, who is mighty and powerful, whose going
+00:48:58,0 --> 00:48:58,0
+down from on high, who is mighty and powerful,
 
 9
-00:01:01,067 --> 00:01:06,467
- forth is unto the ends of the earth, yea, whose
+00:48:58,0 --> 00:48:58,0
+whose going forth is unto the ends of the
 
 10
-00:01:06,467 --> 00:01:11,867
- voice is unto men—Prepare ye the way of the Lord,
+00:48:58,0 --> 00:48:58,0
+earth, yea, whose voice is unto men—Prepare
 
 11
-00:01:11,867 --> 00:01:17,267
- make his paths straight
+00:48:58,0 --> 00:48:36,
+ye the way of the Lord, make his paths straight.
 
 12
-00:01:17,761 --> 00:01:22,261
-2 The keys of the kingdom of God are committed
+00:48:36,0 --> 00:48:36,0
+2 The keys of the kingdom of God are
 
 13
-00:01:22,261 --> 00:01:26,761
- unto man on the earth, and from thence shall the
+00:48:36,0 --> 00:48:36,0
+committed unto man on the earth, and from
 
 14
-00:01:26,761 --> 00:01:31,261
- gospel roll forth unto the ends of the earth, as the
+00:48:36,0 --> 00:48:36,0
+thence shall the gospel roll forth unto the
 
 15
-00:01:31,261 --> 00:01:35,761
- stone which is cut out of the mountain without
+00:48:36,0 --> 00:48:36,0
+ends of the earth, as the stone which is cut
 
 16
-00:01:35,761 --> 00:01:40,261
- hands shall roll forth, until it has filled the whole
+00:48:36,0 --> 00:48:36,0
+out of the mountain without hands shall
 
 17
-00:01:40,261 --> 00:01:44,761
- earth
+00:48:36,0 --> 00:44:16,
+roll forth, until it has filled the whole earth.
 
 18
-00:01:44,521 --> 00:01:52,854
-3 Yea, a voice crying—Prepare ye the way of the
+00:44:16,0 --> 00:44:16,0
+3 Yea, a voice crying—Prepare ye the
 
 19
-00:01:52,854 --> 00:02:01,187
- Lord, prepare ye the supper of the Lamb, make ready
+00:44:16,0 --> 00:44:16,0
+way of the Lord, prepare ye the supper of
 
 20
-00:02:01,187 --> 00:02:09,52
- for the Bridegroom
+00:44:16,0 --> 00:49:21,
+the Lamb, make ready for the Bridegroom.
 
 21
-00:02:09,796 --> 00:02:18,796
-4 Pray unto the Lord, call upon his holy name,
+00:49:21,0 --> 00:49:21,0
+4 Pray unto the Lord, call upon
 
 22
-00:02:18,796 --> 00:02:27,796
- make known his wonderful works among the people
+00:49:21,0 --> 00:49:21,0
+his holy name, make known his
 
 23
-00:02:27,848 --> 00:02:33,419
-5 Call upon the Lord, that his kingdom may go
+00:49:21,0 --> 01:16:19,
+wonderful works among the people.
 
 24
-00:02:33,419 --> 00:02:38,99
- forth upon the earth, that the inhabitants thereof may
+01:16:19,0 --> 01:16:19,0
+5 Call upon the Lord, that his
 
 25
-00:02:38,99 --> 00:02:44,561
- receive it, and be prepared for the days to come,
+01:16:19,0 --> 01:16:19,0
+kingdom may go forth upon the
 
 26
-00:02:44,561 --> 00:02:50,132
- in the which the Son of Man shall come down in
+01:16:19,0 --> 01:16:19,0
+earth, that the inhabitants
 
 27
-00:02:50,132 --> 00:02:55,703
- heaven, clothed in the brightness of his glory, to
+01:16:19,0 --> 01:16:19,0
+thereof may receive it, and be
 
 28
-00:02:55,703 --> 00:03:01,274
- meet the kingdom of God which is set up on the
+01:16:19,0 --> 01:16:19,0
+prepared for the days to come,
 
 29
-00:03:01,274 --> 00:03:06,845
- earth
+01:16:19,0 --> 01:16:19,0
+in the which the Son of Man
 
 30
-00:03:06,586 --> 00:03:08,986
-6 Wherefore, may the kingdom of God go forth, that
+01:16:19,0 --> 01:16:19,0
+shall come down in heaven,
 
 31
-00:03:08,986 --> 00:03:11,386
- the kingdom of heaven may come, that thou, O God,
+01:16:19,0 --> 01:16:19,0
+clothed in the brightness of his
 
 32
-00:03:11,386 --> 00:03:13,786
- mayest be glorified in heaven so on earth, that
+01:16:19,0 --> 01:16:19,0
+glory, to meet the kingdom of
 
 33
-00:03:13,786 --> 00:03:16,186
- thine enemies may be subdued; for thine is the
+01:16:19,0 --> 01:43:55,
+God which is set up on the earth.
 
 34
-00:03:16,186 --> 00:03:18,586
- honor, power and glory, forever and ever. Amen.
+01:43:55,0 --> 01:43:55,0
+6 Wherefore, may the
+
+35
+01:43:55,0 --> 01:43:55,0
+kingdom of God go forth, that the
+
+36
+01:43:55,0 --> 01:43:55,0
+kingdom of heaven may
+
+37
+01:43:55,0 --> 01:43:55,0
+come, that thou, O God, mayest
+
+38
+01:43:55,0 --> 01:43:55,0
+be glorified in heaven so
+
+39
+01:43:55,0 --> 01:43:55,0
+on earth, that thine enemies
+
+40
+01:43:55,0 --> 01:43:55,0
+may be subdued; for thine
+
+41
+01:43:55,0 --> 01:43:55,0
+is the honor, power and
+
+42
+01:43:55,0 --> 02:08:56,
+glory, forever and ever. Amen. 
 

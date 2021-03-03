@@ -1,248 +1,444 @@
 1
-00:00:11,278 --> 00:00:17,09
+00:00:00,0 --> 00:00:00,0
 Section 41 Revelation given through Joseph Smith
 
 2
-00:00:17,09 --> 00:00:22,902
- the Prophet to the Church, at Kirtland, Ohio,
+00:00:00,0 --> 00:00:00,0
+the Prophet to the Church, at Kirtland, Ohio,
 
 3
-00:00:22,902 --> 00:00:28,714
- February 4, 1831. This revelation instructs the Prophet
+00:00:00,0 --> 00:00:00,0
+February 4, 1831. This revelation instructs the
 
 4
-00:00:28,714 --> 00:00:34,526
- and Church elders to pray to receive God’s “law”
+00:00:00,0 --> 00:00:00,0
+Prophet and Church elders to pray to receive
 
 5
-00:00:34,526 --> 00:00:40,338
- (see 
-section 42). Joseph Smith had just arrived
+00:00:00,0 --> 00:00:00,0
+God’s “law” (see 
+section 42). Joseph Smith had just
 
 6
-00:00:40,338 --> 00:00:46,15
- in Kirtland from New York, and Leman Copley, a
+00:00:00,0 --> 00:00:00,0
+arrived in Kirtland from New York, and Leman
 
 7
-00:00:46,15 --> 00:00:51,962
- Church member in nearby Thompson, Ohio, “requested
+00:00:00,0 --> 00:00:00,0
+Copley, a Church member in nearby Thompson, Ohio,
 
 8
-00:00:51,962 --> 00:00:57,774
- Brother Joseph and Sidney [Rigdon] … live with him
+00:00:00,0 --> 00:00:00,0
+“requested Brother Joseph and Sidney [Rigdon] …
 
 9
-00:00:57,774 --> 00:01:03,586
- and he would furnish them houses and provisions.”
+00:00:00,0 --> 00:00:00,0
+live with him and he would furnish them houses
 
 10
-00:01:03,586 --> 00:01:09,398
- The following revelation clarifies where Joseph and
+00:00:00,0 --> 00:00:00,0
+and provisions.” The following revelation
 
 11
-00:01:09,398 --> 00:01:15,21
- Sidney should live and also calls Edward Partridge
+00:00:00,0 --> 00:00:00,0
+clarifies where Joseph and Sidney should live and also
 
 12
-00:01:15,21 --> 00:01:21,022
- to be the Church’s first bishop. 
-1–3, The elders
+00:00:00,0 --> 00:00:00,0
+calls Edward Partridge to be the Church’s first
 
 13
-00:01:21,022 --> 00:01:26,834
- will govern the Church by the spirit of
+00:00:00,0 --> 00:00:00,0
+bishop. 
+1–3, The elders will govern the Church
 
 14
-00:01:26,834 --> 00:01:32,646
- revelation; 
-4–6, True disciples will receive and keep the
+00:00:00,0 --> 00:00:00,0
+by the spirit of revelation; 
+4–6, True
 
 15
-00:01:32,646 --> 00:01:38,458
- Lord’s law; 
-7–12, Edward Partridge is named as a
+00:00:00,0 --> 00:00:00,0
+disciples will receive and keep the Lord’s law; 
+7–12,
 
 16
-00:01:38,458 --> 00:01:44,27
- bishop unto the Church.
+00:00:00,0 --> 00:52:01,
+Edward Partridge is named as a bishop unto the Church. 
 
 17
-00:01:44,738 --> 00:01:50,338
-1 Hearken and hear, O ye my people, saith the Lord
+00:52:01,0 --> 00:52:01,0
+1 Hearken and hear, O ye my people, saith
 
 18
-00:01:50,338 --> 00:01:55,938
- and your God, ye whom I delight to bless with the
+00:52:01,0 --> 00:52:01,0
+the Lord and your God, ye whom I delight
 
 19
-00:01:55,938 --> 00:02:01,538
- greatest of all blessings, ye that hear me; and
+00:52:01,0 --> 00:52:01,0
+to bless with the greatest of all
 
 20
-00:02:01,538 --> 00:02:07,138
- ye that hear me not will I curse, that have
+00:52:01,0 --> 00:52:01,0
+blessings, ye that hear me; and ye that hear me
 
 21
-00:02:07,138 --> 00:02:12,738
- professed my name, with the heaviest of all cursings
+00:52:01,0 --> 00:52:01,0
+not will I curse, that have professed my
 
 22
-00:02:12,199 --> 00:02:16,199
-2 Hearken, O ye elders of my church whom I have
+00:52:01,0 --> 00:58:42,
+name, with the heaviest of all cursings.
 
 23
-00:02:16,199 --> 00:02:20,199
- called, behold I give unto you a commandment, that
+00:58:42,0 --> 00:58:42,0
+2 Hearken, O ye elders of my church
 
 24
-00:02:20,199 --> 00:02:24,199
- ye shall assemble yourselves together to agree upon
+00:58:42,0 --> 00:58:42,0
+whom I have called, behold I give unto you
 
 25
-00:02:24,199 --> 00:02:28,199
- my word
+00:58:42,0 --> 00:58:42,0
+a commandment, that ye shall assemble
 
 26
-00:02:28,749 --> 00:02:34,416
-3 And by the prayer of your faith ye shall receive
+00:58:42,0 --> 01:02:55,
+yourselves together to agree upon my word;
 
 27
-00:02:34,416 --> 00:02:40,083
- my law, that ye may know how to govern my church
+01:02:55,0 --> 01:02:55,0
+3 And by the prayer of your faith
 
 28
-00:02:40,083 --> 00:02:45,75
- and have all things right before me
+01:02:55,0 --> 01:02:55,0
+ye shall receive my law, that ye
 
 29
-00:02:45,565 --> 00:02:50,232
-4 And I will be your ruler when I come; and
+01:02:55,0 --> 01:02:55,0
+may know how to govern my church
 
 30
-00:02:50,232 --> 00:02:54,899
- behold, I come quickly, and ye shall see that my law is
+01:02:55,0 --> 01:05:37,
+and have all things right before me.
 
 31
-00:02:54,899 --> 00:02:59,566
- kept
+01:05:37,0 --> 01:05:37,0
+4 And I will be your ruler
 
 32
-00:02:59,146 --> 00:03:03,396
-5 He that receiveth my law and doeth it, the same
+01:05:37,0 --> 01:05:37,0
+when I come; and behold,
 
 33
-00:03:03,396 --> 00:03:07,646
- is my disciple; and he that saith he receiveth it
+01:05:37,0 --> 01:05:37,0
+I come quickly, and ye
 
 34
-00:03:07,646 --> 00:03:11,896
- and doeth it not, the same is not my disciple, and
+01:05:37,0 --> 01:15:47,
+shall see that my law is kept.
 
 35
-00:03:11,896 --> 00:03:16,146
- shall be cast out from among you
+01:15:47,0 --> 01:15:47,0
+5 He that receiveth my
 
 36
-00:03:16,897 --> 00:03:23,647
-6 For it is not meet that the things which belong
+01:15:47,0 --> 01:15:47,0
+law and doeth it, the
 
 37
-00:03:23,647 --> 00:03:30,397
- to the children of the kingdom should be given to
+01:15:47,0 --> 01:15:47,0
+same is my disciple; and
 
 38
-00:03:30,397 --> 00:03:37,147
- them that are not worthy, or to dogs, or the
+01:15:47,0 --> 01:15:47,0
+he that saith he
 
 39
-00:03:37,147 --> 00:03:43,897
- pearls to be cast before swine
+01:15:47,0 --> 01:15:47,0
+receiveth it and doeth it
 
 40
-00:03:43,623 --> 00:03:47,956
-7 And again, it is meet that my servant Joseph
+01:15:47,0 --> 01:15:47,0
+not, the same is not my
 
 41
-00:03:47,956 --> 00:03:52,289
- Smith, Jun., should have a house built, in which to
+01:15:47,0 --> 01:15:47,0
+disciple, and shall be
 
 42
-00:03:52,289 --> 00:03:56,622
- live and translate
+01:15:47,0 --> 01:21:58,
+cast out from among you;
 
 43
-00:03:56,436 --> 00:04:00,769
-8 And again, it is meet that my servant Sidney
+01:21:58,0 --> 01:21:58,0
+6 For it is not meet
 
 44
-00:04:00,769 --> 00:04:05,102
- Rigdon should live as seemeth him good, inasmuch as
+01:21:58,0 --> 01:21:58,0
+that the things which
 
 45
-00:04:05,102 --> 00:04:09,435
- he keepeth my commandments
+01:21:58,0 --> 01:21:58,0
+belong to the children
 
 46
-00:04:09,449 --> 00:04:13,449
-9 And again, I have called my servant Edward
+01:21:58,0 --> 01:21:58,0
+of the kingdom should
 
 47
-00:04:13,449 --> 00:04:17,449
- Partridge; and I give a commandment, that he should be
+01:21:58,0 --> 01:21:58,0
+be given to them that
 
 48
-00:04:17,449 --> 00:04:21,449
- appointed by the voice of the church, and ordained
+01:21:58,0 --> 01:21:58,0
+are not worthy, or to
 
 49
-00:04:21,449 --> 00:04:25,449
- a bishop unto the church, to leave his
+01:21:58,0 --> 01:21:58,0
+dogs, or the pearls to
 
 50
-00:04:25,449 --> 00:04:29,449
- merchandise and to spend all his time in the labors of the
+01:21:58,0 --> 01:29:28,
+be cast before swine.
 
 51
-00:04:29,449 --> 00:04:33,449
- church
+01:29:28,0 --> 01:29:28,0
+7 And again, it is
 
 52
-00:04:33,974 --> 00:04:37,641
-10 To see to all things as it shall be appointed
+01:29:28,0 --> 01:29:28,0
+meet that my
 
 53
-00:04:37,641 --> 00:04:41,308
- unto him in my laws in the day that I shall give
+01:29:28,0 --> 01:29:28,0
+servant Joseph Smith,
 
 54
-00:04:41,308 --> 00:04:44,975
- them
+01:29:28,0 --> 01:29:28,0
+Jun., should have a
 
 55
-00:04:44,751 --> 00:04:50,084
-11 And this because his heart is pure before me,
+01:29:28,0 --> 01:29:28,0
+house built, in which
 
 56
-00:04:50,084 --> 00:04:55,417
- for he is like unto Nathanael of old, in whom there
+01:29:28,0 --> 01:37:40,
+to live and translate.
 
 57
-00:04:55,417 --> 00:05:00,75
- is no guile
+01:37:40,0 --> 01:37:40,0
+8 And again, it is
 
 58
-00:05:00,467 --> 00:05:05,967
-12 These words are given unto you, and they are
+01:37:40,0 --> 01:37:40,0
+meet that my
 
 59
-00:05:05,967 --> 00:05:11,467
- pure before me; wherefore, beware how you hold them,
+01:37:40,0 --> 01:37:40,0
+servant Sidney Rigdon
 
 60
-00:05:11,467 --> 00:05:16,967
- for they are to be answered upon your souls in
+01:37:40,0 --> 01:37:40,0
+should live as
 
 61
-00:05:16,967 --> 00:05:22,467
- the day of judgment. Even so. Amen.
+01:37:40,0 --> 01:37:40,0
+seemeth him good,
+
+62
+01:37:40,0 --> 01:37:40,0
+inasmuch as he
+
+63
+01:37:40,0 --> 01:50:49,
+keepeth my commandments.
+
+64
+01:50:49,0 --> 01:50:49,0
+9 And again, I
+
+65
+01:50:49,0 --> 01:50:49,0
+have called my
+
+66
+01:50:49,0 --> 01:50:49,0
+servant Edward
+
+67
+01:50:49,0 --> 01:50:49,0
+Partridge; and I give a
+
+68
+01:50:49,0 --> 01:50:49,0
+commandment,
+
+69
+01:50:49,0 --> 01:50:49,0
+that he should be
+
+70
+01:50:49,0 --> 01:50:49,0
+appointed by the
+
+71
+01:50:49,0 --> 01:50:49,0
+voice of the
+
+72
+01:50:49,0 --> 01:50:49,0
+church, and ordained a
+
+73
+01:50:49,0 --> 01:50:49,0
+bishop unto the
+
+74
+01:50:49,0 --> 01:50:49,0
+church, to leave
+
+75
+01:50:49,0 --> 01:50:49,0
+his merchandise
+
+76
+01:50:49,0 --> 01:50:49,0
+and to spend all
+
+77
+01:50:49,0 --> 01:50:49,0
+his time in the
+
+78
+01:50:49,0 --> 01:57:44,
+labors of the church;
+
+79
+01:57:44,0 --> 01:57:44,0
+10 To see to
+
+80
+01:57:44,0 --> 01:57:44,0
+all things as
+
+81
+01:57:44,0 --> 01:57:44,0
+it shall be
+
+82
+01:57:44,0 --> 01:57:44,0
+appointed unto
+
+83
+01:57:44,0 --> 01:57:44,0
+him in my laws
+
+84
+01:57:44,0 --> 01:57:44,0
+in the day that
+
+85
+01:57:44,0 --> 02:02:55,
+I shall give them.
+
+86
+02:02:55,0 --> 02:02:55,0
+11 And this
+
+87
+02:02:55,0 --> 02:02:55,0
+because his
+
+88
+02:02:55,0 --> 02:02:55,0
+heart is
+
+89
+02:02:55,0 --> 02:02:55,0
+pure before me,
+
+90
+02:02:55,0 --> 02:02:55,0
+for he is
+
+91
+02:02:55,0 --> 02:02:55,0
+like unto
+
+92
+02:02:55,0 --> 02:02:55,0
+Nathanael of
+
+93
+02:02:55,0 --> 02:02:55,0
+old, in whom
+
+94
+02:02:55,0 --> 02:05:51,
+there is no guile.
+
+95
+02:05:51,0 --> 02:05:51,0
+12 These
+
+96
+02:05:51,0 --> 02:05:51,0
+words are
+
+97
+02:05:51,0 --> 02:05:51,0
+given unto
+
+98
+02:05:51,0 --> 02:05:51,0
+you, and they
+
+99
+02:05:51,0 --> 02:05:51,0
+are pure
+
+100
+02:05:51,0 --> 02:05:51,0
+before me;
+
+101
+02:05:51,0 --> 02:05:51,0
+wherefore,
+
+102
+02:05:51,0 --> 02:05:51,0
+beware how
+
+103
+02:05:51,0 --> 02:05:51,0
+you hold
+
+104
+02:05:51,0 --> 02:05:51,0
+them, for they
+
+105
+02:05:51,0 --> 02:05:51,0
+are to be
+
+106
+02:05:51,0 --> 02:05:51,0
+answered
+
+107
+02:05:51,0 --> 02:05:51,0
+upon your
+
+108
+02:05:51,0 --> 02:05:51,0
+souls in the
+
+109
+02:05:51,0 --> 02:05:51,0
+day of
+
+110
+02:05:51,0 --> 02:16:30,
+judgment. Even so. Amen. 
 

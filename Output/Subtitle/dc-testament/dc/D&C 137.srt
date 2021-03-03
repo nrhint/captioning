@@ -1,163 +1,263 @@
 1
-00:00:11,278 --> 00:00:17,403
+00:00:00,0 --> 00:00:00,0
 Section 137 A vision given to Joseph Smith the
 
 2
-00:00:17,403 --> 00:00:23,528
- Prophet, in the temple at Kirtland, Ohio, January 21,
+00:00:00,0 --> 00:00:00,0
+Prophet, in the temple at Kirtland, Ohio, January
 
 3
-00:00:23,528 --> 00:00:29,653
- 1836. The occasion was the administration of
+00:00:00,0 --> 00:00:00,0
+21, 1836. The occasion was the administration
 
 4
-00:00:29,653 --> 00:00:35,778
- ordinances in preparation for the dedication of the
+00:00:00,0 --> 00:00:00,0
+of ordinances in preparation for the dedication
 
 5
-00:00:35,778 --> 00:00:41,903
- temple. 
-1–6, The Prophet sees his brother Alvin in
+00:00:00,0 --> 00:00:00,0
+of the temple. 
+1–6, The Prophet sees his brother
 
 6
-00:00:41,903 --> 00:00:48,028
- the celestial kingdom; 
-7–9, The doctrine of
+00:00:00,0 --> 00:00:00,0
+Alvin in the celestial kingdom; 
+7–9, The
 
 7
-00:00:48,028 --> 00:00:54,153
- salvation for the dead is revealed; 
-10, All children
+00:00:00,0 --> 00:00:00,0
+doctrine of salvation for the dead is revealed; 
+10,
 
 8
-00:00:54,153 --> 00:01:00,278
- are saved in the celestial kingdom.
+00:00:00,0 --> 00:57:57,
+All children are saved in the celestial kingdom. 
 
 9
-00:01:00,978 --> 00:01:06,978
+00:57:57,0 --> 00:57:57,0
 1 The heavens were opened upon us, and I beheld
 
 10
-00:01:06,978 --> 00:01:12,978
- the celestial kingdom of God, and the glory thereof,
+00:57:57,0 --> 00:57:57,0
+the celestial kingdom of God, and the glory
 
 11
-00:01:12,978 --> 00:01:18,978
- whether in the body or out I cannot tell
+00:57:57,0 --> 01:03:01,
+thereof, whether in the body or out I cannot tell.
 
 12
-00:01:18,495 --> 00:01:23,495
+01:03:01,0 --> 01:03:01,0
 2 I saw the transcendent beauty of the gate
 
 13
-00:01:23,495 --> 00:01:28,495
- through which the heirs of that kingdom will enter,
+01:03:01,0 --> 01:03:01,0
+through which the heirs of that kingdom will
 
 14
-00:01:28,495 --> 00:01:33,495
- which was like unto circling flames of fire
+01:03:01,0 --> 01:18:03,
+enter, which was like unto circling flames of fire;
 
 15
-00:01:33,527 --> 00:01:39,027
-3 Also the blazing throne of God, whereon was
+01:18:03,0 --> 01:18:03,0
+3 Also the blazing throne of God,
 
 16
-00:01:39,027 --> 00:01:44,527
- seated the Father and the Son
+01:18:03,0 --> 01:37:39,
+whereon was seated the Father and the Son.
 
 17
-00:01:44,821 --> 00:01:52,321
-4 I saw the beautiful streets of that kingdom,
+01:37:39,0 --> 01:37:39,0
+4 I saw the beautiful streets of
 
 18
-00:01:52,321 --> 00:01:59,821
- which had the appearance of being paved with gold
+01:37:39,0 --> 01:37:39,0
+that kingdom, which had the
 
 19
-00:01:59,119 --> 00:02:06,786
-5 I saw Father Adam and Abraham; and my father and
+01:37:39,0 --> 01:33:19,
+appearance of being paved with gold.
 
 20
-00:02:06,786 --> 00:02:14,453
- my mother; my brother Alvin, that has long since
+01:33:19,0 --> 01:33:19,0
+5 I saw Father Adam and
 
 21
-00:02:14,453 --> 00:02:22,12
- slept
+01:33:19,0 --> 01:33:19,0
+Abraham; and my father and
 
 22
-00:02:22,376 --> 00:02:24,176
-6 And marveled how it was that he had obtained an
+01:33:19,0 --> 01:33:19,0
+my mother; my brother
 
 23
-00:02:24,176 --> 00:02:25,976
- inheritance in that kingdom, seeing that he had
+01:33:19,0 --> 01:44:20,
+Alvin, that has long since slept;
 
 24
-00:02:25,976 --> 00:02:27,776
- departed this life before the Lord had set his hand
+01:44:20,0 --> 01:44:20,0
+6 And marveled how it
 
 25
-00:02:27,776 --> 00:02:29,576
- to gather Israel the second time, and had not been
+01:44:20,0 --> 01:44:20,0
+was that he had obtained
 
 26
-00:02:29,576 --> 00:02:31,376
- baptized for the remission of sins
+01:44:20,0 --> 01:44:20,0
+an inheritance in that
 
 27
-00:02:31,902 --> 00:02:36,302
-7 Thus came the voice of the Lord unto me, saying:
+01:44:20,0 --> 01:44:20,0
+kingdom, seeing that
 
 28
-00:02:36,302 --> 00:02:40,702
- All who have died without a knowledge of this
+01:44:20,0 --> 01:44:20,0
+he had departed this
 
 29
-00:02:40,702 --> 00:02:45,102
- gospel, who would have received it if they had been
+01:44:20,0 --> 01:44:20,0
+life before the Lord had
 
 30
-00:02:45,102 --> 00:02:49,502
- permitted to tarry, shall be heirs of the celestial
+01:44:20,0 --> 01:44:20,0
+set his hand to gather
 
 31
-00:02:49,502 --> 00:02:53,902
- kingdom of God
+01:44:20,0 --> 01:44:20,0
+Israel the second time,
 
 32
-00:02:53,173 --> 00:02:57,84
-8 Also all that shall die henceforth without a
+01:44:20,0 --> 01:44:20,0
+and had not been
 
 33
-00:02:57,84 --> 00:03:02,507
- knowledge of it, who would have received it with all
+01:44:20,0 --> 01:57:24,
+baptized for the remission of sins.
 
 34
-00:03:02,507 --> 00:03:07,174
- their hearts, shall be heirs of that kingdom
+01:57:24,0 --> 01:57:24,0
+7 Thus came the voice
 
 35
-00:03:07,22 --> 00:03:10,22
-9 For I, the Lord, will judge all men according to
+01:57:24,0 --> 01:57:24,0
+of the Lord unto me,
 
 36
-00:03:10,22 --> 00:03:13,22
- their works, according to the desire of their
+01:57:24,0 --> 01:57:24,0
+saying: All who have
 
 37
-00:03:13,22 --> 00:03:16,22
- hearts
+01:57:24,0 --> 01:57:24,0
+died without a
 
 38
-00:03:16,78 --> 00:03:22,113
-10 And I also beheld that all children who die
+01:57:24,0 --> 01:57:24,0
+knowledge of this gospel,
 
 39
-00:03:22,113 --> 00:03:27,446
- before they arrive at the years of accountability are
+01:57:24,0 --> 01:57:24,0
+who would have
 
 40
-00:03:27,446 --> 00:03:32,779
- saved in the celestial kingdom of heaven.
+01:57:24,0 --> 01:57:24,0
+received it if they had
+
+41
+01:57:24,0 --> 01:57:24,0
+been permitted to tarry,
+
+42
+01:57:24,0 --> 01:57:24,0
+shall be heirs of
+
+43
+01:57:24,0 --> 02:11:58,
+the celestial kingdom of God;
+
+44
+02:11:58,0 --> 02:11:58,0
+8 Also all that
+
+45
+02:11:58,0 --> 02:11:58,0
+shall die henceforth
+
+46
+02:11:58,0 --> 02:11:58,0
+without a knowledge of
+
+47
+02:11:58,0 --> 02:11:58,0
+it, who would have
+
+48
+02:11:58,0 --> 02:11:58,0
+received it with all
+
+49
+02:11:58,0 --> 02:11:58,0
+their hearts, shall
+
+50
+02:11:58,0 --> 02:31:35,
+be heirs of that kingdom;
+
+51
+02:31:35,0 --> 02:31:35,0
+9 For I, the
+
+52
+02:31:35,0 --> 02:31:35,0
+Lord, will judge all
+
+53
+02:31:35,0 --> 02:31:35,0
+men according to
+
+54
+02:31:35,0 --> 02:31:35,0
+their works,
+
+55
+02:31:35,0 --> 02:31:35,0
+according to the
+
+56
+02:31:35,0 --> 02:46:36,
+desire of their hearts.
+
+57
+02:46:36,0 --> 02:46:36,0
+10 And I also
+
+58
+02:46:36,0 --> 02:46:36,0
+beheld that all
+
+59
+02:46:36,0 --> 02:46:36,0
+children who
+
+60
+02:46:36,0 --> 02:46:36,0
+die before they
+
+61
+02:46:36,0 --> 02:46:36,0
+arrive at the
+
+62
+02:46:36,0 --> 02:46:36,0
+years of
+
+63
+02:46:36,0 --> 02:46:36,0
+accountability are
+
+64
+02:46:36,0 --> 02:46:36,0
+saved in the
+
+65
+02:46:36,0 --> 02:51:41,
+celestial kingdom of heaven. 
 

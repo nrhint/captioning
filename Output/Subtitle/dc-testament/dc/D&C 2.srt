@@ -1,81 +1,81 @@
 1
-00:00:11,278 --> 00:00:18,369
+00:00:00,0 --> 00:00:00,0
 Section 2 An extract from Joseph Smith’s history
 
 2
-00:00:18,369 --> 00:00:25,46
+00:00:00,0 --> 00:00:00,0
 relating the words of the angel Moroni to
 
 3
-00:00:25,46 --> 00:00:32,551
+00:00:00,0 --> 00:00:00,0
 Joseph Smith the Prophet, while in the house of the
 
 4
-00:00:32,551 --> 00:00:39,642
+00:00:00,0 --> 00:00:00,0
 Prophet’s father at Manchester, New York, on the
 
 5
-00:00:39,642 --> 00:00:46,733
+00:00:00,0 --> 00:00:00,0
 evening of September 21, 1823. Moroni was the
 
 6
-00:00:46,733 --> 00:00:53,824
+00:00:00,0 --> 00:00:00,0
 last of a long line of historians who had made the
 
 7
-00:00:53,824 --> 00:01:00,915
+00:00:00,0 --> 00:00:00,0
 record that is now before the world as the Book
 
 8
-00:01:00,915 --> 00:01:08,006
+00:00:00,0 --> 00:00:00,0
 of Mormon. (Compare 
 Malachi 4:5–6; also
 
 9
-00:01:08,006 --> 00:01:15,097
+00:00:00,0 --> 00:00:00,0
 sections 27:9; 
 110:13–16; and 
 128:18.) 
 1, Elijah
 
 10
-00:01:15,097 --> 00:01:22,188
+00:00:00,0 --> 00:00:00,0
 is to reveal the priesthood; 
 2–3, The promises
 
 11
-00:01:22,188 --> 00:01:29,69
+00:00:00,0 --> 01:28:53,
 of the fathers are planted in the hearts of the children. 
 
 12
-00:01:29,69 --> 00:01:36,023
+01:28:53,0 --> 01:28:53,0
 1 Behold, I will reveal unto you the Priesthood,
 
 13
-00:01:36,023 --> 00:01:42,356
+01:28:53,0 --> 01:28:53,0
 by the hand of Elijah the prophet, before the
 
 14
-00:01:42,356 --> 00:01:48,041
+01:28:53,0 --> 01:47:52,
 coming of the great and dreadful day of the Lord.
 
 15
-00:01:48,041 --> 00:01:54,374
+01:47:52,0 --> 01:47:52,0
 2 And he shall plant in the hearts of the
 
 16
-00:01:54,374 --> 00:02:00,707
+01:47:52,0 --> 01:47:52,0
 children the promises made to the fathers, and the
 
 17
-00:02:00,707 --> 00:02:07,044
+01:47:52,0 --> 02:02:54,
 hearts of the children shall turn to their fathers.
 
 18
-00:02:07,044 --> 00:02:09,044
+02:02:54,0 --> 02:02:54,0
 3 If it were not so, the whole earth
 
 19
-00:02:09,044 --> 00:02:11,865
+02:02:54,0 --> 02:06:33,
 would be utterly wasted at his coming. 
 

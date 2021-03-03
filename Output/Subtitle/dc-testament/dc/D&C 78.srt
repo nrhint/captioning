@@ -1,433 +1,1057 @@
 1
-00:00:11,278 --> 00:00:18,861
+00:00:00,0 --> 00:00:00,0
 Section 78 Revelation given through Joseph Smith
 
 2
-00:00:18,861 --> 00:00:26,444
- the Prophet, at Kirtland, Ohio, March 1, 1832. On
+00:00:00,0 --> 00:00:00,0
+the Prophet, at Kirtland, Ohio, March 1, 1832.
 
 3
-00:00:26,444 --> 00:00:34,027
- that day, the Prophet and other leaders had
+00:00:00,0 --> 00:00:00,0
+On that day, the Prophet and other leaders had
 
 4
-00:00:34,027 --> 00:00:41,61
- assembled to discuss Church business. This revelation
+00:00:00,0 --> 00:00:00,0
+assembled to discuss Church business. This
 
 5
-00:00:41,61 --> 00:00:49,193
- originally instructed the Prophet, Sidney Rigdon, and
+00:00:00,0 --> 00:00:00,0
+revelation originally instructed the Prophet, Sidney
 
 6
-00:00:49,193 --> 00:00:56,776
- Newel K. Whitney to travel to Missouri and
+00:00:00,0 --> 00:00:00,0
+Rigdon, and Newel K. Whitney to travel to
 
 7
-00:00:56,776 --> 00:01:04,359
- organize the Church’s mercantile and publishing
+00:00:00,0 --> 00:00:00,0
+Missouri and organize the Church’s mercantile and
 
 8
-00:01:04,359 --> 00:01:11,942
- endeavors by creating a “firm” that would oversee these
+00:00:00,0 --> 00:00:00,0
+publishing endeavors by creating a “firm” that would
 
 9
-00:01:11,942 --> 00:01:19,525
- efforts, generating funds for the establishment of
+00:00:00,0 --> 00:00:00,0
+oversee these efforts, generating funds for the
 
 10
-00:01:19,525 --> 00:01:27,108
- Zion and for the benefit of the poor. This firm,
+00:00:00,0 --> 00:00:00,0
+establishment of Zion and for the benefit of the
 
 11
-00:01:27,108 --> 00:01:34,691
- known as the United Firm, was organized in April
+00:00:00,0 --> 00:00:00,0
+poor. This firm, known as the United Firm, was
 
 12
-00:01:34,691 --> 00:01:42,274
- 1832 and disbanded in 1834 (see 
-section 82).
+00:00:00,0 --> 00:00:00,0
+organized in April 1832 and disbanded in 1834
 
 13
-00:01:42,274 --> 00:01:49,857
- Sometime after its dissolution, under the direction of
+00:00:00,0 --> 00:00:00,0
+(see 
+section 82). Sometime after its dissolution,
 
 14
-00:01:49,857 --> 00:01:57,44
- Joseph Smith, the phrase “the affairs of the
+00:00:00,0 --> 00:00:00,0
+under the direction of Joseph Smith, the phrase
 
 15
-00:01:57,44 --> 00:02:05,023
- storehouse for the poor” replaced “mercantile and
+00:00:00,0 --> 00:00:00,0
+“the affairs of the storehouse for the poor”
 
 16
-00:02:05,023 --> 00:02:12,606
- publishing establishments” in the revelation, and the
+00:00:00,0 --> 00:00:00,0
+replaced “mercantile and publishing
 
 17
-00:02:12,606 --> 00:02:20,189
- word “order” replaced the word “firm.” 
-1–4, The
+00:00:00,0 --> 00:00:00,0
+establishments” in the revelation, and the word “order”
 
 18
-00:02:20,189 --> 00:02:27,772
- Saints should organize and establish a storehouse;
+00:00:00,0 --> 00:00:00,0
+replaced the word “firm.” 
+1–4, The Saints should
 
 19
-00:02:27,772 --> 00:02:35,355
-5–12, Wise use of their properties will lead to
+00:00:00,0 --> 00:00:00,0
+organize and establish a storehouse; 
+5–12, Wise use
 
 20
-00:02:35,355 --> 00:02:42,938
- salvation; 
-13–14, The Church should be independent of
+00:00:00,0 --> 00:00:00,0
+of their properties will lead to salvation;
 
 21
-00:02:42,938 --> 00:02:50,521
- earthly powers; 
-15–16, Michael (Adam) serves
+00:00:00,0 --> 00:00:00,0
+13–14, The Church should be independent of earthly
 
 22
-00:02:50,521 --> 00:02:58,104
- under the direction of the Holy One (Christ); 
-17–22,
+00:00:00,0 --> 00:00:00,0
+powers; 
+15–16, Michael (Adam) serves under the
 
 23
-00:02:58,104 --> 00:03:05,687
- Blessed are the faithful, for they will inherit
+00:00:00,0 --> 00:00:00,0
+direction of the Holy One (Christ); 
+17–22,
 
 24
-00:03:05,687 --> 00:03:13,27
- all things.
+00:00:00,0 --> 03:12:40,
+Blessed are the faithful, for they will inherit all things. 
 
 25
-00:03:13,81 --> 00:03:18,06
-1 The Lord spake unto Joseph Smith, Jun., saying:
+03:12:40,0 --> 03:12:40,0
+1 The Lord spake unto Joseph Smith, Jun.,
 
 26
-00:03:18,06 --> 00:03:22,31
- Hearken unto me, saith the Lord your God, who are
+03:12:40,0 --> 03:12:40,0
+saying: Hearken unto me, saith the Lord your God,
 
 27
-00:03:22,31 --> 00:03:26,56
- ordained unto the high priesthood of my church,
+03:12:40,0 --> 03:12:40,0
+who are ordained unto the high priesthood of
 
 28
-00:03:26,56 --> 00:03:30,81
- who have assembled yourselves together
+03:12:40,0 --> 03:19:42,
+my church, who have assembled yourselves together;
 
 29
-00:03:30,844 --> 00:03:35,244
+03:19:42,0 --> 03:19:42,0
 2 And listen to the counsel of him who has
 
 30
-00:03:35,244 --> 00:03:39,644
- ordained you from on high, who shall speak in your ears
+03:19:42,0 --> 03:19:42,0
+ordained you from on high, who shall speak in
 
 31
-00:03:39,644 --> 00:03:44,044
- the words of wisdom, that salvation may be unto you
+03:19:42,0 --> 03:19:42,0
+your ears the words of wisdom, that
 
 32
-00:03:44,044 --> 00:03:48,444
- in that thing which you have presented before me,
+03:19:42,0 --> 03:19:42,0
+salvation may be unto you in that thing which you
 
 33
-00:03:48,444 --> 00:03:52,844
- saith the Lord God
+03:19:42,0 --> 03:29:45,
+have presented before me, saith the Lord God.
 
 34
-00:03:52,349 --> 00:03:56,516
-3 For verily I say unto you, the time has come,
+03:29:45,0 --> 03:29:45,0
+3 For verily I say unto you, the time
 
 35
-00:03:56,516 --> 00:04:00,683
- and is now at hand; and behold, and lo, it must
+03:29:45,0 --> 03:29:45,0
+has come, and is now at hand; and behold,
 
 36
-00:04:00,683 --> 00:04:04,85
- needs be that there be an organization of my people,
+03:29:45,0 --> 03:29:45,0
+and lo, it must needs be that there be
 
 37
-00:04:04,85 --> 00:04:09,017
- in regulating and establishing the affairs of the
+03:29:45,0 --> 03:29:45,0
+an organization of my people, in
 
 38
-00:04:09,017 --> 00:04:13,184
- storehouse for the poor of my people, both in this
+03:29:45,0 --> 03:29:45,0
+regulating and establishing the affairs of the
 
 39
-00:04:13,184 --> 00:04:17,351
- place and in the land of Zion
+03:29:45,0 --> 03:29:45,0
+storehouse for the poor of my people,
 
 40
-00:04:17,39 --> 00:04:23,14
-4 For a permanent and everlasting establishment
+03:29:45,0 --> 03:50:48,
+both in this place and in the land of Zion—
 
 41
-00:04:23,14 --> 00:04:28,89
- and order unto my church, to advance the cause,
+03:50:48,0 --> 03:50:48,0
+4 For a permanent and everlasting
 
 42
-00:04:28,89 --> 00:04:34,64
- which ye have espoused, to the salvation of man, and
+03:50:48,0 --> 03:50:48,0
+establishment and order unto my church, to
 
 43
-00:04:34,64 --> 00:04:40,39
- to the glory of your Father who is in heaven
+03:50:48,0 --> 03:50:48,0
+advance the cause, which ye have
 
 44
-00:04:40,881 --> 00:04:45,881
-5 That you may be equal in the bonds of heavenly
+03:50:48,0 --> 03:50:48,0
+espoused, to the salvation of man, and to
 
 45
-00:04:45,881 --> 00:04:50,881
- things, yea, and earthly things also, for the
+03:50:48,0 --> 04:15:49,
+the glory of your Father who is in heaven;
 
 46
-00:04:50,881 --> 00:04:55,881
- obtaining of heavenly things
+04:15:49,0 --> 04:15:49,0
+5 That you may be equal in the
 
 47
-00:04:55,912 --> 00:05:00,912
-6 For if ye are not equal in earthly things ye
+04:15:49,0 --> 04:15:49,0
+bonds of heavenly things, yea,
 
 48
-00:05:00,912 --> 00:05:05,912
- cannot be equal in obtaining heavenly things
+04:15:49,0 --> 04:15:49,0
+and earthly things also, for
 
 49
-00:05:05,922 --> 00:05:10,922
-7 For if you will that I give unto you a place in
+04:15:49,0 --> 04:38:50,
+the obtaining of heavenly things.
 
 50
-00:05:10,922 --> 00:05:15,922
- the celestial world, you must prepare yourselves
+04:38:50,0 --> 04:38:50,0
+6 For if ye are not equal in
 
 51
-00:05:15,922 --> 00:05:20,922
- by doing the things which I have commanded you and
+04:38:50,0 --> 04:38:50,0
+earthly things ye cannot be
 
 52
-00:05:20,922 --> 00:05:25,922
- required of you
+04:38:50,0 --> 04:37:54,
+equal in obtaining heavenly things;
 
 53
-00:05:25,458 --> 00:05:30,791
-8 And now, verily thus saith the Lord, it is
+04:37:54,0 --> 04:37:54,0
+7 For if you will that I
 
 54
-00:05:30,791 --> 00:05:36,124
- expedient that all things be done unto my glory, by you
+04:37:54,0 --> 04:37:54,0
+give unto you a place in the
 
 55
-00:05:36,124 --> 00:05:41,457
- who are joined together in this order
+04:37:54,0 --> 04:37:54,0
+celestial world, you must
 
 56
-00:05:41,441 --> 00:05:46,941
-9 Or, in other words, let my servant Newel K.
+04:37:54,0 --> 04:37:54,0
+prepare yourselves by doing
 
 57
-00:05:46,941 --> 00:05:52,441
- Whitney and my servant Joseph Smith, Jun., and my
+04:37:54,0 --> 04:37:54,0
+the things which I have
 
 58
-00:05:52,441 --> 00:05:57,941
- servant Sidney Rigdon sit in council with the saints
+04:37:54,0 --> 04:39:58,
+commanded you and required of you.
 
 59
-00:05:57,941 --> 00:06:03,441
- which are in Zion
+04:39:58,0 --> 04:39:58,0
+8 And now, verily thus
 
 60
-00:06:03,713 --> 00:06:08,713
-10 Otherwise Satan seeketh to turn their hearts
+04:39:58,0 --> 04:39:58,0
+saith the Lord, it is
 
 61
-00:06:08,713 --> 00:06:13,713
- away from the truth, that they become blinded and
+04:39:58,0 --> 04:39:58,0
+expedient that all
 
 62
-00:06:13,713 --> 00:06:18,713
- understand not the things which are prepared for
+04:39:58,0 --> 04:39:58,0
+things be done unto my
 
 63
-00:06:18,713 --> 00:06:23,713
- them
+04:39:58,0 --> 04:39:58,0
+glory, by you who are joined
 
 64
-00:06:23,216 --> 00:06:28,216
-11 Wherefore, a commandment I give unto you, to
+04:39:58,0 --> 04:55:00,
+together in this order;
 
 65
-00:06:28,216 --> 00:06:33,216
- prepare and organize yourselves by a bond or
+04:55:00,0 --> 04:55:00,0
+9 Or, in other
 
 66
-00:06:33,216 --> 00:06:38,216
- everlasting covenant that cannot be broken
+04:55:00,0 --> 04:55:00,0
+words, let my servant
 
 67
-00:06:38,715 --> 00:06:43,215
-12 And he who breaketh it shall lose his office
+04:55:00,0 --> 04:55:00,0
+Newel K. Whitney and my
 
 68
-00:06:43,215 --> 00:06:47,715
- and standing in the church, and shall be delivered
+04:55:00,0 --> 04:55:00,0
+servant Joseph
 
 69
-00:06:47,715 --> 00:06:52,215
- over to the buffetings of Satan until the day of
+04:55:00,0 --> 04:55:00,0
+Smith, Jun., and my
 
 70
-00:06:52,215 --> 00:06:56,715
- redemption
+04:55:00,0 --> 04:55:00,0
+servant Sidney Rigdon
 
 71
-00:06:56,483 --> 00:07:01,733
-13 Behold, this is the preparation wherewith I
+04:55:00,0 --> 04:55:00,0
+sit in council with
 
 72
-00:07:01,733 --> 00:07:06,983
- prepare you, and the foundation, and the ensample
+04:55:00,0 --> 05:04:02,
+the saints which are in Zion;
 
 73
-00:07:06,983 --> 00:07:12,233
- which I give unto you, whereby you may accomplish the
+05:04:02,0 --> 05:04:02,0
+10 Otherwise Satan
 
 74
-00:07:12,233 --> 00:07:17,483
- commandments which are given you
+05:04:02,0 --> 05:04:02,0
+seeketh to turn
 
 75
-00:07:17,003 --> 00:07:22,253
-14 That through my providence, notwithstanding the
+05:04:02,0 --> 05:04:02,0
+their hearts away from
 
 76
-00:07:22,253 --> 00:07:27,503
- tribulation which shall descend upon you, that
+05:04:02,0 --> 05:04:02,0
+the truth, that
 
 77
-00:07:27,503 --> 00:07:32,753
- the church may stand independent above all other
+05:04:02,0 --> 05:04:02,0
+they become blinded
 
 78
-00:07:32,753 --> 00:07:38,003
- creatures beneath the celestial world
+05:04:02,0 --> 05:04:02,0
+and understand not
 
 79
-00:07:38,508 --> 00:07:45,258
-15 That you may come up unto the crown prepared
+05:04:02,0 --> 05:04:02,0
+the things which are
 
 80
-00:07:45,258 --> 00:07:52,008
- for you, and be made rulers over many kingdoms,
+05:04:02,0 --> 05:24:37,
+prepared for them.
 
 81
-00:07:52,008 --> 00:07:58,758
- saith the Lord God, the Holy One of Zion, who hath
+05:24:37,0 --> 05:24:37,0
+11 Wherefore, a
 
 82
-00:07:58,758 --> 00:08:05,508
- established the foundations of Adam-ondi-Ahman
+05:24:37,0 --> 05:24:37,0
+commandment I give
 
 83
-00:08:05,018 --> 00:08:10,418
-16 Who hath appointed Michael your prince, and
+05:24:37,0 --> 05:24:37,0
+unto you, to
 
 84
-00:08:10,418 --> 00:08:15,818
- established his feet, and set him upon high, and
+05:24:37,0 --> 05:24:37,0
+prepare and organize
 
 85
-00:08:15,818 --> 00:08:21,218
- given unto him the keys of salvation under the counsel
+05:24:37,0 --> 05:24:37,0
+yourselves by a
 
 86
-00:08:21,218 --> 00:08:26,618
- and direction of the Holy One, who is without
+05:24:37,0 --> 05:24:37,0
+bond or
 
 87
-00:08:26,618 --> 00:08:32,018
- beginning of days or end of life
+05:24:37,0 --> 05:24:37,0
+everlasting covenant that
 
 88
-00:08:32,762 --> 00:08:36,762
-17 Verily, verily, I say unto you, ye are little
+05:24:37,0 --> 05:39:39,
+cannot be broken.
 
 89
-00:08:36,762 --> 00:08:40,762
- children, and ye have not as yet understood how
+05:39:39,0 --> 05:39:39,0
+12 And he who
 
 90
-00:08:40,762 --> 00:08:44,762
- great blessings the Father hath in his own hands and
+05:39:39,0 --> 05:39:39,0
+breaketh it
 
 91
-00:08:44,762 --> 00:08:48,762
- prepared for you
+05:39:39,0 --> 05:39:39,0
+shall lose his
 
 92
-00:08:48,511 --> 00:08:54,011
-18 And ye cannot bear all things now;
+05:39:39,0 --> 05:39:39,0
+office and standing
 
 93
-00:08:54,011 --> 00:08:59,511
- nevertheless, be of good cheer, for I will lead you along. The
+05:39:39,0 --> 05:39:39,0
+in the church,
 
 94
-00:08:59,511 --> 00:09:05,011
- kingdom is yours and the blessings thereof are
+05:39:39,0 --> 05:39:39,0
+and shall be
 
 95
-00:09:05,011 --> 00:09:10,511
- yours, and the riches of eternity are yours
+05:39:39,0 --> 05:39:39,0
+delivered over
 
 96
-00:09:10,016 --> 00:09:14,266
-19 And he who receiveth all things with
+05:39:39,0 --> 05:39:39,0
+to the
 
 97
-00:09:14,266 --> 00:09:18,516
- thankfulness shall be made glorious; and the things of this
+05:39:39,0 --> 05:39:39,0
+buffetings of Satan
 
 98
-00:09:18,516 --> 00:09:22,766
- earth shall be added unto him, even an hundred
+05:39:39,0 --> 06:02:40,
+until the day of redemption.
 
 99
-00:09:22,766 --> 00:09:27,016
- fold, yea, more
+06:02:40,0 --> 06:02:40,0
+13 Behold,
 
 100
-00:09:27,317 --> 00:09:33,65
-20 Wherefore, do the things which I have commanded
+06:02:40,0 --> 06:02:40,0
+this is the
 
 101
-00:09:33,65 --> 00:09:39,983
- you, saith your Redeemer, even the Son Ahman, who
+06:02:40,0 --> 06:02:40,0
+preparation
 
 102
-00:09:39,983 --> 00:09:46,316
- prepareth all things before he taketh you
+06:02:40,0 --> 06:02:40,0
+wherewith I prepare
 
 103
-00:09:46,386 --> 00:09:52,386
-21 For ye are the church of the Firstborn, and he
+06:02:40,0 --> 06:02:40,0
+you, and the
 
 104
-00:09:52,386 --> 00:09:58,386
- will take you up in a cloud, and appoint every man
+06:02:40,0 --> 06:02:40,0
+foundation, and
 
 105
-00:09:58,386 --> 00:10:04,386
- his portion
+06:02:40,0 --> 06:02:40,0
+the ensample
 
 106
-00:10:04,154 --> 00:10:11,654
-22 And he that is a faithful and wise steward
+06:02:40,0 --> 06:02:40,0
+which I give
 
 107
-00:10:11,654 --> 00:10:19,154
- shall inherit all things. Amen.
+06:02:40,0 --> 06:02:40,0
+unto you,
+
+108
+06:02:40,0 --> 06:02:40,0
+whereby you may
+
+109
+06:02:40,0 --> 06:02:40,0
+accomplish the
+
+110
+06:02:40,0 --> 06:02:40,0
+commandments
+
+111
+06:02:40,0 --> 06:13:40,
+which are given you;
+
+112
+06:13:40,0 --> 06:13:40,0
+14 That
+
+113
+06:13:40,0 --> 06:13:40,0
+through my
+
+114
+06:13:40,0 --> 06:13:40,0
+providence,
+
+115
+06:13:40,0 --> 06:13:40,0
+notwithstanding the
+
+116
+06:13:40,0 --> 06:13:40,0
+tribulation
+
+117
+06:13:40,0 --> 06:13:40,0
+which shall
+
+118
+06:13:40,0 --> 06:13:40,0
+descend upon
+
+119
+06:13:40,0 --> 06:13:40,0
+you, that the
+
+120
+06:13:40,0 --> 06:13:40,0
+church may
+
+121
+06:13:40,0 --> 06:13:40,0
+stand independent
+
+122
+06:13:40,0 --> 06:13:40,0
+above all
+
+123
+06:13:40,0 --> 06:13:40,0
+other creatures
+
+124
+06:13:40,0 --> 06:13:40,0
+beneath the
+
+125
+06:13:40,0 --> 06:20:43,
+celestial world;
+
+126
+06:20:43,0 --> 06:20:43,0
+15 That you
+
+127
+06:20:43,0 --> 06:20:43,0
+may come up
+
+128
+06:20:43,0 --> 06:20:43,0
+unto the
+
+129
+06:20:43,0 --> 06:20:43,0
+crown prepared
+
+130
+06:20:43,0 --> 06:20:43,0
+for you, and
+
+131
+06:20:43,0 --> 06:20:43,0
+be made
+
+132
+06:20:43,0 --> 06:20:43,0
+rulers over
+
+133
+06:20:43,0 --> 06:20:43,0
+many kingdoms,
+
+134
+06:20:43,0 --> 06:20:43,0
+saith the
+
+135
+06:20:43,0 --> 06:20:43,0
+Lord God, the
+
+136
+06:20:43,0 --> 06:20:43,0
+Holy One of
+
+137
+06:20:43,0 --> 06:20:43,0
+Zion, who
+
+138
+06:20:43,0 --> 06:20:43,0
+hath
+
+139
+06:20:43,0 --> 06:20:43,0
+established the
+
+140
+06:20:43,0 --> 06:21:47,
+foundations of Adam-ondi-Ahman;
+
+141
+06:21:47,0 --> 06:21:47,0
+16 Who hath
+
+142
+06:21:47,0 --> 06:21:47,0
+appointed
+
+143
+06:21:47,0 --> 06:21:47,0
+Michael
+
+144
+06:21:47,0 --> 06:21:47,0
+your prince,
+
+145
+06:21:47,0 --> 06:21:47,0
+and
+
+146
+06:21:47,0 --> 06:21:47,0
+established his
+
+147
+06:21:47,0 --> 06:21:47,0
+feet, and set
+
+148
+06:21:47,0 --> 06:21:47,0
+him upon
+
+149
+06:21:47,0 --> 06:21:47,0
+high, and
+
+150
+06:21:47,0 --> 06:21:47,0
+given unto him
+
+151
+06:21:47,0 --> 06:21:47,0
+the keys
+
+152
+06:21:47,0 --> 06:21:47,0
+of salvation
+
+153
+06:21:47,0 --> 06:21:47,0
+under the
+
+154
+06:21:47,0 --> 06:21:47,0
+counsel and
+
+155
+06:21:47,0 --> 06:21:47,0
+direction
+
+156
+06:21:47,0 --> 06:21:47,0
+of the Holy
+
+157
+06:21:47,0 --> 06:21:47,0
+One, who
+
+158
+06:21:47,0 --> 06:21:47,0
+is without
+
+159
+06:21:47,0 --> 06:21:47,0
+beginning of
+
+160
+06:21:47,0 --> 06:21:25,
+days or end of life.
+
+161
+06:21:25,0 --> 06:21:25,0
+17 Verily,
+
+162
+06:21:25,0 --> 06:21:25,0
+verily, I
+
+163
+06:21:25,0 --> 06:21:25,0
+say unto
+
+164
+06:21:25,0 --> 06:21:25,0
+you, ye
+
+165
+06:21:25,0 --> 06:21:25,0
+are little
+
+166
+06:21:25,0 --> 06:21:25,0
+children,
+
+167
+06:21:25,0 --> 06:21:25,0
+and ye have
+
+168
+06:21:25,0 --> 06:21:25,0
+not as
+
+169
+06:21:25,0 --> 06:21:25,0
+yet
+
+170
+06:21:25,0 --> 06:21:25,0
+understood how
+
+171
+06:21:25,0 --> 06:21:25,0
+great
+
+172
+06:21:25,0 --> 06:21:25,0
+blessings the
+
+173
+06:21:25,0 --> 06:21:25,0
+Father hath
+
+174
+06:21:25,0 --> 06:21:25,0
+in his own
+
+175
+06:21:25,0 --> 06:21:25,0
+hands and
+
+176
+06:21:25,0 --> 06:23:29,
+prepared for you;
+
+177
+06:23:29,0 --> 06:23:29,0
+18 And ye
+
+178
+06:23:29,0 --> 06:23:29,0
+cannot
+
+179
+06:23:29,0 --> 06:23:29,0
+bear all
+
+180
+06:23:29,0 --> 06:23:29,0
+things
+
+181
+06:23:29,0 --> 06:23:29,0
+now;
+
+182
+06:23:29,0 --> 06:23:29,0
+nevertheless, be
+
+183
+06:23:29,0 --> 06:23:29,0
+of good
+
+184
+06:23:29,0 --> 06:23:29,0
+cheer,
+
+185
+06:23:29,0 --> 06:23:29,0
+for I will
+
+186
+06:23:29,0 --> 06:23:29,0
+lead you
+
+187
+06:23:29,0 --> 06:23:29,0
+along.
+
+188
+06:23:29,0 --> 06:23:29,0
+The kingdom
+
+189
+06:23:29,0 --> 06:23:29,0
+is yours
+
+190
+06:23:29,0 --> 06:23:29,0
+and the
+
+191
+06:23:29,0 --> 06:23:29,0
+blessings
+
+192
+06:23:29,0 --> 06:23:29,0
+thereof
+
+193
+06:23:29,0 --> 06:23:29,0
+are
+
+194
+06:23:29,0 --> 06:23:29,0
+yours, and the
+
+195
+06:23:29,0 --> 06:23:29,0
+riches
+
+196
+06:23:29,0 --> 06:37:33,
+of eternity are yours.
+
+197
+06:37:33,0 --> 06:37:33,0
+19 And
+
+198
+06:37:33,0 --> 06:37:33,0
+he who
+
+199
+06:37:33,0 --> 06:37:33,0
+receiveth
+
+200
+06:37:33,0 --> 06:37:33,0
+all
+
+201
+06:37:33,0 --> 06:37:33,0
+things with
+
+202
+06:37:33,0 --> 06:37:33,0
+
+
+203
+06:37:33,0 --> 06:37:33,0
+thankfulness
+
+204
+06:37:33,0 --> 06:37:33,0
+shall be
+
+205
+06:37:33,0 --> 06:37:33,0
+made
+
+206
+06:37:33,0 --> 06:37:33,0
+glorious; and
+
+207
+06:37:33,0 --> 06:37:33,0
+the
+
+208
+06:37:33,0 --> 06:37:33,0
+things of
+
+209
+06:37:33,0 --> 06:37:33,0
+this
+
+210
+06:37:33,0 --> 06:37:33,0
+earth shall
+
+211
+06:37:33,0 --> 06:37:33,0
+be added
+
+212
+06:37:33,0 --> 06:37:33,0
+unto
+
+213
+06:37:33,0 --> 06:37:33,0
+him, even
+
+214
+06:37:33,0 --> 06:37:33,0
+an
+
+215
+06:37:33,0 --> 06:33:13,
+hundred fold, yea, more.
+
+216
+06:33:13,0 --> 06:33:13,0
+20
+
+217
+06:33:13,0 --> 06:33:13,0
+Wherefore,
+
+218
+06:33:13,0 --> 06:33:13,0
+do the
+
+219
+06:33:13,0 --> 06:33:13,0
+things
+
+220
+06:33:13,0 --> 06:33:13,0
+which I
+
+221
+06:33:13,0 --> 06:33:13,0
+have
+
+222
+06:33:13,0 --> 06:33:13,0
+
+
+223
+06:33:13,0 --> 06:33:13,0
+commanded you,
+
+224
+06:33:13,0 --> 06:33:13,0
+saith
+
+225
+06:33:13,0 --> 06:33:13,0
+your
+
+226
+06:33:13,0 --> 06:33:13,0
+Redeemer,
+
+227
+06:33:13,0 --> 06:33:13,0
+even
+
+228
+06:33:13,0 --> 06:33:13,0
+the Son
+
+229
+06:33:13,0 --> 06:33:13,0
+Ahman,
+
+230
+06:33:13,0 --> 06:33:13,0
+who
+
+231
+06:33:13,0 --> 06:33:13,0
+prepareth
+
+232
+06:33:13,0 --> 06:33:13,0
+all
+
+233
+06:33:13,0 --> 06:37:20,
+things before he taketh you;
+
+234
+06:37:20,0 --> 06:37:20,0
+21 For
+
+235
+06:37:20,0 --> 06:37:20,0
+ye
+
+236
+06:37:20,0 --> 06:37:20,0
+are the
+
+237
+06:37:20,0 --> 06:37:20,0
+church
+
+238
+06:37:20,0 --> 06:37:20,0
+of
+
+239
+06:37:20,0 --> 06:37:20,0
+the
+
+240
+06:37:20,0 --> 06:37:20,0
+Firstborn,
+
+241
+06:37:20,0 --> 06:37:20,0
+and
+
+242
+06:37:20,0 --> 06:37:20,0
+he will
+
+243
+06:37:20,0 --> 06:37:20,0
+take
+
+244
+06:37:20,0 --> 06:37:20,0
+you up
+
+245
+06:37:20,0 --> 06:37:20,0
+in a
+
+246
+06:37:20,0 --> 06:37:20,0
+cloud,
+
+247
+06:37:20,0 --> 06:37:20,0
+and
+
+248
+06:37:20,0 --> 06:37:20,0
+appoint
+
+249
+06:37:20,0 --> 06:37:20,0
+every
+
+250
+06:37:20,0 --> 06:33:00,
+man his portion.
+
+251
+06:33:00,0 --> 06:33:00,0
+22 And
+
+252
+06:33:00,0 --> 06:33:00,0
+he
+
+253
+06:33:00,0 --> 06:33:00,0
+that is
+
+254
+06:33:00,0 --> 06:33:00,0
+a
+
+255
+06:33:00,0 --> 06:33:00,0
+faithful
+
+256
+06:33:00,0 --> 06:33:00,0
+and
+
+257
+06:33:00,0 --> 06:33:00,0
+wise
+
+258
+06:33:00,0 --> 06:33:00,0
+steward
+
+259
+06:33:00,0 --> 06:33:00,0
+shall
+
+260
+06:33:00,0 --> 06:33:00,0
+inherit
+
+261
+06:33:00,0 --> 06:33:00,0
+all
+
+262
+06:33:00,0 --> 06:33:00,0
+things.
+
+263
+06:33:00,0 --> 06:37:37,
+Amen. 
 

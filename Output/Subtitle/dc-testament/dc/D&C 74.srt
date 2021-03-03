@@ -1,166 +1,227 @@
 1
-00:00:11,278 --> 00:00:18,914
+00:00:00,0 --> 00:00:00,0
 Section 74 Revelation given to Joseph Smith the
 
 2
-00:00:18,914 --> 00:00:26,55
- Prophet, at Wayne County, New York, in 1830. Even
+00:00:00,0 --> 00:00:00,0
+Prophet, at Wayne County, New York, in 1830. Even
 
 3
-00:00:26,55 --> 00:00:34,186
- before the organization of the Church, questions had
+00:00:00,0 --> 00:00:00,0
+before the organization of the Church, questions
 
 4
-00:00:34,186 --> 00:00:41,822
- arisen about the proper mode of baptism, leading
+00:00:00,0 --> 00:00:00,0
+had arisen about the proper mode of baptism,
 
 5
-00:00:41,822 --> 00:00:49,458
- the Prophet to seek answers on the subject. Joseph
+00:00:00,0 --> 00:00:00,0
+leading the Prophet to seek answers on the subject.
 
 6
-00:00:49,458 --> 00:00:57,094
- Smith’s history states that this revelation is an
+00:00:00,0 --> 00:00:00,0
+Joseph Smith’s history states that this revelation
 
 7
-00:00:57,094 --> 00:01:04,73
- explanation of 
-1 Corinthians 7:14, a scripture
+00:00:00,0 --> 00:00:00,0
+is an explanation of 
+1 Corinthians 7:14, a
 
 8
-00:01:04,73 --> 00:01:12,366
- that had often been used to justify infant baptism.
+00:00:00,0 --> 00:00:00,0
+scripture that had often been used to justify infant
 
 9
-00:01:12,366 --> 00:01:20,002
-1–5, Paul counsels the Church of his day not to
+00:00:00,0 --> 00:00:00,0
+baptism. 
+1–5, Paul counsels the Church of his
 
 10
-00:01:20,002 --> 00:01:27,638
- keep the law of Moses; 
-6–7, Little children are
+00:00:00,0 --> 00:00:00,0
+day not to keep the law of Moses; 
+6–7, Little
 
 11
-00:01:27,638 --> 00:01:35,274
- holy and are sanctified through the Atonement.
+00:00:00,0 --> 01:34:52,
+children are holy and are sanctified through the Atonement. 
 
 12
-00:01:35,178 --> 00:01:41,928
-1 For the unbelieving husband is sanctified by the
+01:34:52,0 --> 01:34:52,0
+1 For the unbelieving husband is
 
 13
-00:01:41,928 --> 00:01:48,678
- wife, and the unbelieving wife is sanctified by
+01:34:52,0 --> 01:34:52,0
+sanctified by the wife, and the unbelieving wife
 
 14
-00:01:48,678 --> 00:01:55,428
- the husband; else were your children unclean, but
+01:34:52,0 --> 01:34:52,0
+is sanctified by the husband; else were
 
 15
-00:01:55,428 --> 00:02:02,178
- now are they holy
+01:34:52,0 --> 02:01:51,
+your children unclean, but now are they holy.
 
 16
-00:02:02,689 --> 00:02:07,356
-2 Now, in the days of the apostles the law of
+02:01:51,0 --> 02:01:51,0
+2 Now, in the days of the
 
 17
-00:02:07,356 --> 00:02:12,023
- circumcision was had among all the Jews who believed
+02:01:51,0 --> 02:01:51,0
+apostles the law of circumcision was
 
 18
-00:02:12,023 --> 00:02:16,69
- not the gospel of Jesus Christ
+02:01:51,0 --> 02:01:51,0
+had among all the Jews who
 
 19
-00:02:16,97 --> 00:02:20,637
-3 And it came to pass that there arose a great
+02:01:51,0 --> 02:15:55,
+believed not the gospel of Jesus Christ.
 
 20
-00:02:20,637 --> 00:02:24,304
- contention among the people concerning the law of
+02:15:55,0 --> 02:15:55,0
+3 And it came to pass that there
 
 21
-00:02:24,304 --> 00:02:27,971
- circumcision, for the unbelieving husband was
+02:15:55,0 --> 02:15:55,0
+arose a great contention among
 
 22
-00:02:27,971 --> 00:02:31,638
- desirous that his children should be circumcised and
+02:15:55,0 --> 02:15:55,0
+the people concerning the law of
 
 23
-00:02:31,638 --> 00:02:35,305
- become subject to the law of Moses, which law was
+02:15:55,0 --> 02:15:55,0
+circumcision, for the
 
 24
-00:02:35,305 --> 00:02:38,972
- fulfilled
+02:15:55,0 --> 02:15:55,0
+unbelieving husband was desirous that his
 
 25
-00:02:38,241 --> 00:02:42,441
-4 And it came to pass that the children, being
+02:15:55,0 --> 02:15:55,0
+children should be circumcised
 
 26
-00:02:42,441 --> 00:02:46,641
- brought up in subjection to the law of Moses, gave
+02:15:55,0 --> 02:15:55,0
+and become subject to the law of
 
 27
-00:02:46,641 --> 00:02:50,841
- heed to the traditions of their fathers and believed
+02:15:55,0 --> 02:36:58,
+Moses, which law was fulfilled.
 
 28
-00:02:50,841 --> 00:02:55,041
- not the gospel of Christ, wherein they became
+02:36:58,0 --> 02:36:58,0
+4 And it came to pass that
 
 29
-00:02:55,041 --> 00:02:59,241
- unholy
+02:36:58,0 --> 02:36:58,0
+the children, being brought up
 
 30
-00:02:59,279 --> 00:03:05,679
-5 Wherefore, for this cause the apostle wrote unto
+02:36:58,0 --> 02:36:58,0
+in subjection to the law of
 
 31
-00:03:05,679 --> 00:03:12,079
- the church, giving unto them a commandment, not
+02:36:58,0 --> 02:36:58,0
+Moses, gave heed to the
 
 32
-00:03:12,079 --> 00:03:18,479
- of the Lord, but of himself, that a believer should
+02:36:58,0 --> 02:36:58,0
+traditions of their fathers and
 
 33
-00:03:18,479 --> 00:03:24,879
- not be united to an unbeliever; except the law of
+02:36:58,0 --> 02:36:58,0
+believed not the gospel of
 
 34
-00:03:24,879 --> 00:03:31,279
- Moses should be done away among them
+02:36:58,0 --> 02:58:01,
+Christ, wherein they became unholy.
 
 35
-00:03:31,561 --> 00:03:35,561
-6 That their children might remain without
+02:58:01,0 --> 02:58:01,0
+5 Wherefore, for this
 
 36
-00:03:35,561 --> 00:03:39,561
- circumcision; and that the tradition might be done away,
+02:58:01,0 --> 02:58:01,0
+cause the apostle wrote unto
 
 37
-00:03:39,561 --> 00:03:43,561
- which saith that little children are unholy; for
+02:58:01,0 --> 02:58:01,0
+the church, giving unto
 
 38
-00:03:43,561 --> 00:03:47,561
- it was had among the Jews
+02:58:01,0 --> 02:58:01,0
+them a commandment, not of
 
 39
-00:03:47,31 --> 00:03:52,31
-7 But little children are holy, being sanctified
+02:58:01,0 --> 02:58:01,0
+the Lord, but of himself,
 
 40
-00:03:52,31 --> 00:03:57,31
- through the atonement of Jesus Christ; and this is
+02:58:01,0 --> 02:58:01,0
+that a believer should not
 
 41
-00:03:57,31 --> 00:04:02,31
- what the scriptures mean.
+02:58:01,0 --> 02:58:01,0
+be united to an unbeliever;
+
+42
+02:58:01,0 --> 02:58:01,0
+except the law of Moses
+
+43
+02:58:01,0 --> 03:29:01,
+should be done away among them,
+
+44
+03:29:01,0 --> 03:29:01,0
+6 That their children
+
+45
+03:29:01,0 --> 03:29:01,0
+might remain without
+
+46
+03:29:01,0 --> 03:29:01,0
+circumcision; and that the
+
+47
+03:29:01,0 --> 03:29:01,0
+tradition might be done away,
+
+48
+03:29:01,0 --> 03:29:01,0
+which saith that little
+
+49
+03:29:01,0 --> 03:29:01,0
+children are unholy; for
+
+50
+03:29:01,0 --> 03:30:05,
+it was had among the Jews;
+
+51
+03:30:05,0 --> 03:30:05,0
+7 But little children
+
+52
+03:30:05,0 --> 03:30:05,0
+are holy, being
+
+53
+03:30:05,0 --> 03:30:05,0
+sanctified through the
+
+54
+03:30:05,0 --> 03:30:05,0
+atonement of Jesus
+
+55
+03:30:05,0 --> 03:30:05,0
+Christ; and this is what
+
+56
+03:30:05,0 --> 03:41:05,
+the scriptures mean. 
 

@@ -1,363 +1,1176 @@
 1
-00:00:11,278 --> 00:00:17,207
+00:00:00,0 --> 00:00:00,0
 Section 3 Revelation given to Joseph Smith the
 
 2
-00:00:17,207 --> 00:00:23,136
- Prophet, at Harmony, Pennsylvania, July 1828,
+00:00:00,0 --> 00:00:00,0
+Prophet, at Harmony, Pennsylvania, July 1828,
 
 3
-00:00:23,136 --> 00:00:29,065
- relating to the loss of 116 pages of manuscript
+00:00:00,0 --> 00:00:00,0
+relating to the loss of 116 pages of manuscript
 
 4
-00:00:29,065 --> 00:00:34,994
- translated from the first part of the Book of Mormon, which
+00:00:00,0 --> 00:00:00,0
+translated from the first part of the Book of
 
 5
-00:00:34,994 --> 00:00:40,923
- was called the book of Lehi. The Prophet had
+00:00:00,0 --> 00:00:00,0
+Mormon, which was called the book of Lehi. The
 
 6
-00:00:40,923 --> 00:00:46,852
- reluctantly allowed these pages to pass from his
+00:00:00,0 --> 00:00:00,0
+Prophet had reluctantly allowed these pages to
 
 7
-00:00:46,852 --> 00:00:52,781
- custody to that of Martin Harris, who had served for a
+00:00:00,0 --> 00:00:00,0
+pass from his custody to that of Martin Harris,
 
 8
-00:00:52,781 --> 00:00:58,71
- brief period as scribe in the translation of the
+00:00:00,0 --> 00:00:00,0
+who had served for a brief period as scribe in
 
 9
-00:00:58,71 --> 00:01:04,639
- Book of Mormon. The revelation was given through
+00:00:00,0 --> 00:00:00,0
+the translation of the Book of Mormon. The
 
 10
-00:01:04,639 --> 00:01:10,568
- the Urim and Thummim. (See 
-section 10.) 
-1–4, The
+00:00:00,0 --> 00:00:00,0
+revelation was given through the Urim and Thummim.
 
 11
-00:01:10,568 --> 00:01:16,497
- Lord’s course is one eternal round; 
-5–15, Joseph
+00:00:00,0 --> 00:00:00,0
+(See 
+section 10.) 
+1–4, The Lord’s course is
 
 12
-00:01:16,497 --> 00:01:22,426
- Smith must repent or lose the gift to translate;
+00:00:00,0 --> 00:00:00,0
+one eternal round; 
+5–15, Joseph Smith must
 
 13
-00:01:22,426 --> 00:01:28,355
-16–20, The Book of Mormon comes forth to save the
+00:00:00,0 --> 00:00:00,0
+repent or lose the gift to translate; 
+16–20, The
 
 14
-00:01:28,355 --> 00:01:34,284
- seed of Lehi.
+00:00:00,0 --> 01:32:54,
+Book of Mormon comes forth to save the seed of Lehi. 
 
 15
-00:01:34,194 --> 00:01:39,194
-1 The works, and the designs, and the purposes of
+01:32:54,0 --> 01:32:54,0
+1 The works, and the designs, and
 
 16
-00:01:39,194 --> 00:01:44,194
- God cannot be frustrated, neither can they come to
+01:32:54,0 --> 01:32:54,0
+the purposes of God cannot be
 
 17
-00:01:44,194 --> 00:01:49,194
- naught
+01:32:54,0 --> 01:28:34,
+frustrated, neither can they come to naught.
 
 18
-00:01:49,543 --> 00:01:55,943
-2 For God doth not walk in crooked paths, neither
+01:28:34,0 --> 01:28:34,0
+2 For God doth not walk in
 
 19
-00:01:55,943 --> 00:02:02,343
- doth he turn to the right hand nor to the left,
+01:28:34,0 --> 01:28:34,0
+crooked paths, neither doth he turn
 
 20
-00:02:02,343 --> 00:02:08,743
- neither doth he vary from that which he hath said,
+01:28:34,0 --> 01:28:34,0
+to the right hand nor to the
 
 21
-00:02:08,743 --> 00:02:15,143
- therefore his paths are straight, and his course is
+01:28:34,0 --> 01:28:34,0
+left, neither doth he vary from
 
 22
-00:02:15,143 --> 00:02:21,543
- one eternal round
+01:28:34,0 --> 01:28:34,0
+that which he hath said,
 
 23
-00:02:21,024 --> 00:02:28,024
-3 Remember, remember that it is not the work of
+01:28:34,0 --> 01:28:34,0
+therefore his paths are straight, and
 
 24
-00:02:28,024 --> 00:02:35,024
- God that is frustrated, but the work of men
+01:28:34,0 --> 01:33:39,
+his course is one eternal round.
 
 25
-00:02:35,539 --> 00:02:43,206
-4 For although a man may have many revelations,
+01:33:39,0 --> 01:33:39,0
+3 Remember, remember that it
 
 26
-00:02:43,206 --> 00:02:50,873
- and have power to do many mighty works, yet if he
+01:33:39,0 --> 01:33:39,0
+is not the work of God that is
 
 27
-00:02:50,873 --> 00:02:58,54
- boasts in his own strength, and sets at naught the
+01:33:39,0 --> 01:48:41,
+frustrated, but the work of men;
 
 28
-00:02:58,54 --> 00:03:06,207
- counsels of God, and follows after the dictates of
+01:48:41,0 --> 01:48:41,0
+4 For although a man may have
 
 29
-00:03:06,207 --> 00:03:13,874
- his own will and carnal desires, he must fall and
+01:48:41,0 --> 01:48:41,0
+many revelations, and have
 
 30
-00:03:13,874 --> 00:03:21,541
- incur the vengeance of a just God upon him
+01:48:41,0 --> 01:48:41,0
+power to do many mighty works,
 
 31
-00:03:21,501 --> 00:03:27,751
-5 Behold, you have been entrusted with these
+01:48:41,0 --> 01:48:41,0
+yet if he boasts in his own
 
 32
-00:03:27,751 --> 00:03:34,001
- things, but how strict were your commandments; and
+01:48:41,0 --> 01:48:41,0
+strength, and sets at naught
 
 33
-00:03:34,001 --> 00:03:40,251
- remember also the promises which were made to you, if
+01:48:41,0 --> 01:48:41,0
+the counsels of God, and
 
 34
-00:03:40,251 --> 00:03:46,501
- you did not transgress them
+01:48:41,0 --> 01:48:41,0
+follows after the dictates of his
 
 35
-00:03:46,126 --> 00:03:51,793
-6 And behold, how oft you have transgressed the
+01:48:41,0 --> 01:48:41,0
+own will and carnal desires,
 
 36
-00:03:51,793 --> 00:03:57,46
- commandments and the laws of God, and have gone on
+01:48:41,0 --> 01:48:41,0
+he must fall and incur the
 
 37
-00:03:57,46 --> 00:04:03,127
- in the persuasions of men
+01:48:41,0 --> 02:19:41,
+vengeance of a just God upon him.
 
 38
-00:04:03,176 --> 00:04:10,176
-7 For, behold, you should not have feared man more
+02:19:41,0 --> 02:19:41,0
+5 Behold, you have been
 
 39
-00:04:10,176 --> 00:04:17,176
- than God. Although men set at naught the counsels
+02:19:41,0 --> 02:19:41,0
+entrusted with these
 
 40
-00:04:17,176 --> 00:04:24,176
- of God, and despise his words
+02:19:41,0 --> 02:19:41,0
+things, but how strict were
 
 41
-00:04:24,681 --> 00:04:32,931
-8 Yet you should have been faithful; and he would
+02:19:41,0 --> 02:19:41,0
+your commandments; and
 
 42
-00:04:32,931 --> 00:04:41,181
- have extended his arm and supported you against
+02:19:41,0 --> 02:19:41,0
+remember also the promises
 
 43
-00:04:41,181 --> 00:04:49,431
- all the fiery darts of the adversary; and he would
+02:19:41,0 --> 02:19:41,0
+which were made to you, if
 
 44
-00:04:49,431 --> 00:04:57,681
- have been with you in every time of trouble
+02:19:41,0 --> 02:34:43,
+you did not transgress them.
 
 45
-00:04:57,214 --> 00:05:04,881
-9 Behold, thou art Joseph, and thou wast chosen to
+02:34:43,0 --> 02:34:43,0
+6 And behold, how oft you
 
 46
-00:05:04,881 --> 00:05:12,548
- do the work of the Lord, but because of
+02:34:43,0 --> 02:34:43,0
+have transgressed the
 
 47
-00:05:12,548 --> 00:05:20,215
- transgression, if thou art not aware thou wilt fall
+02:34:43,0 --> 02:34:43,0
+commandments and the laws
 
 48
-00:05:20,287 --> 00:05:26,537
-10 But remember, God is merciful; therefore,
+02:34:43,0 --> 02:34:43,0
+of God, and have gone on
 
 49
-00:05:26,537 --> 00:05:32,787
- repent of that which thou hast done which is contrary
+02:34:43,0 --> 03:19:43,
+in the persuasions of men.
 
 50
-00:05:32,787 --> 00:05:39,037
- to the commandment which I gave you, and thou art
+03:19:43,0 --> 03:19:43,0
+7 For, behold, you
 
 51
-00:05:39,037 --> 00:05:45,287
- still chosen, and art again called to the work
+03:19:43,0 --> 03:19:43,0
+should not have feared
 
 52
-00:05:45,812 --> 00:05:54,312
-11 Except thou do this, thou shalt be delivered up
+03:19:43,0 --> 03:19:43,0
+man more than God.
 
 53
-00:05:54,312 --> 00:06:02,812
- and become as other men, and have no more gift
+03:19:43,0 --> 03:19:43,0
+Although men set at
 
 54
-00:06:02,596 --> 00:06:08,346
-12 And when thou deliveredst up that which God had
+03:19:43,0 --> 03:19:43,0
+naught the counsels of
 
 55
-00:06:08,346 --> 00:06:14,096
- given thee sight and power to translate, thou
+03:19:43,0 --> 03:44:44,
+God, and despise his words—
 
 56
-00:06:14,096 --> 00:06:19,846
- deliveredst up that which was sacred into the hands
+03:44:44,0 --> 03:44:44,0
+8 Yet you should
 
 57
-00:06:19,846 --> 00:06:25,596
- of a wicked man
+03:44:44,0 --> 03:44:44,0
+have been faithful;
 
 58
-00:06:25,852 --> 00:06:33,102
-13 Who has set at naught the counsels of God, and
+03:44:44,0 --> 03:44:44,0
+and he would have
 
 59
-00:06:33,102 --> 00:06:40,352
- has broken the most sacred promises which were
+03:44:44,0 --> 03:44:44,0
+extended his arm and
 
 60
-00:06:40,352 --> 00:06:47,602
- made before God, and has depended upon his own
+03:44:44,0 --> 03:44:44,0
+supported you
 
 61
-00:06:47,602 --> 00:06:54,852
- judgment and boasted in his own wisdom
+03:44:44,0 --> 03:44:44,0
+against all the fiery
 
 62
-00:06:54,614 --> 00:07:00,614
-14 And this is the reason that thou hast lost thy
+03:44:44,0 --> 03:44:44,0
+darts of the
 
 63
-00:07:00,614 --> 00:07:06,614
- privileges for a season
+03:44:44,0 --> 03:44:44,0
+adversary; and he would
 
 64
-00:07:06,927 --> 00:07:15,927
-15 For thou hast suffered the counsel of thy
+03:44:44,0 --> 03:44:44,0
+have been with you in
 
 65
-00:07:15,927 --> 00:07:24,927
- director to be trampled upon from the beginning
+03:44:44,0 --> 04:01:46,
+every time of trouble.
 
 66
-00:07:24,444 --> 00:07:30,044
-16 Nevertheless, my work shall go forth, for
+04:01:46,0 --> 04:01:46,0
+9 Behold, thou
 
 67
-00:07:30,044 --> 00:07:35,644
- inasmuch as the knowledge of a Savior has come unto the
+04:01:46,0 --> 04:01:46,0
+art Joseph, and
 
 68
-00:07:35,644 --> 00:07:41,244
- world, through the testimony of the Jews, even so
+04:01:46,0 --> 04:01:46,0
+thou wast chosen to
 
 69
-00:07:41,244 --> 00:07:46,844
- shall the knowledge of a Savior come unto my
+04:01:46,0 --> 04:01:46,0
+do the work of
 
 70
-00:07:46,844 --> 00:07:52,444
- people
+04:01:46,0 --> 04:01:46,0
+the Lord, but
 
 71
-00:07:52,439 --> 00:07:58,106
-17 And to the Nephites, and the Jacobites, and the
+04:01:46,0 --> 04:01:46,0
+because of
 
 72
-00:07:58,106 --> 00:08:03,773
- Josephites, and the Zoramites, through the
+04:01:46,0 --> 04:01:46,0
+transgression, if thou art
 
 73
-00:08:03,773 --> 00:08:09,44
- testimony of their fathers
+04:01:46,0 --> 04:12:46,
+not aware thou wilt fall.
 
 74
-00:08:09,456 --> 00:08:16,456
-18 And this testimony shall come to the knowledge
+04:12:46,0 --> 04:12:46,0
+10 But remember,
 
 75
-00:08:16,456 --> 00:08:23,456
- of the Lamanites, and the Lemuelites, and the
+04:12:46,0 --> 04:12:46,0
+God is
 
 76
-00:08:23,456 --> 00:08:30,456
- Ishmaelites, who dwindled in unbelief because of the
+04:12:46,0 --> 04:12:46,0
+merciful; therefore,
 
 77
-00:08:30,456 --> 00:08:37,456
- iniquity of their fathers, whom the Lord has
+04:12:46,0 --> 04:12:46,0
+repent of that
 
 78
-00:08:37,456 --> 00:08:44,456
- suffered to destroy their brethren the Nephites, because
+04:12:46,0 --> 04:12:46,0
+which thou hast done
 
 79
-00:08:44,456 --> 00:08:51,456
- of their iniquities and their abominations
+04:12:46,0 --> 04:12:46,0
+which is
 
 80
-00:08:51,431 --> 00:08:56,931
-19 And for this very purpose are these plates
+04:12:46,0 --> 04:12:46,0
+contrary to the
 
 81
-00:08:56,931 --> 00:09:02,431
- preserved, which contain these records—that the
+04:12:46,0 --> 04:12:46,0
+commandment which I
 
 82
-00:09:02,431 --> 00:09:07,931
- promises of the Lord might be fulfilled, which he made
+04:12:46,0 --> 04:12:46,0
+gave you, and thou
 
 83
-00:09:07,931 --> 00:09:13,431
- to his people
+04:12:46,0 --> 04:12:46,0
+art still
 
 84
-00:09:13,703 --> 00:09:14,274
-20 And that the Lamanites might come to the
+04:12:46,0 --> 04:12:46,0
+chosen, and art again
 
 85
-00:09:14,274 --> 00:09:14,845
- knowledge of their fathers, and that they might know the
+04:12:46,0 --> 04:24:24,
+called to the work;
 
 86
-00:09:14,845 --> 00:09:15,416
- promises of the Lord, and that they may believe
+04:24:24,0 --> 04:24:24,0
+11 Except thou
 
 87
-00:09:15,416 --> 00:09:15,987
- the gospel and rely upon the merits of Jesus
+04:24:24,0 --> 04:24:24,0
+do this, thou
 
 88
-00:09:15,987 --> 00:09:16,558
- Christ, and be glorified through faith in his name, and
+04:24:24,0 --> 04:24:24,0
+shalt be
 
 89
-00:09:16,558 --> 00:09:17,129
- that through their repentance they might be saved.
+04:24:24,0 --> 04:24:24,0
+delivered up and
 
 90
-00:09:17,129 --> 00:09:17,7
- Amen.
+04:24:24,0 --> 04:24:24,0
+become as other
+
+91
+04:24:24,0 --> 04:24:24,0
+men, and have
+
+92
+04:24:24,0 --> 04:55:24,
+no more gift.
+
+93
+04:55:24,0 --> 04:55:24,0
+12 And when
+
+94
+04:55:24,0 --> 04:55:24,0
+thou
+
+95
+04:55:24,0 --> 04:55:24,0
+deliveredst up that
+
+96
+04:55:24,0 --> 04:55:24,0
+which God had
+
+97
+04:55:24,0 --> 04:55:24,0
+given thee
+
+98
+04:55:24,0 --> 04:55:24,0
+sight and power
+
+99
+04:55:24,0 --> 04:55:24,0
+to translate,
+
+100
+04:55:24,0 --> 04:55:24,0
+thou
+
+101
+04:55:24,0 --> 04:55:24,0
+deliveredst up that
+
+102
+04:55:24,0 --> 04:55:24,0
+which was
+
+103
+04:55:24,0 --> 04:55:24,0
+sacred into the
+
+104
+04:55:24,0 --> 05:14:23,
+hands of a wicked man,
+
+105
+05:14:23,0 --> 05:14:23,0
+13 Who has
+
+106
+05:14:23,0 --> 05:14:23,0
+set at naught
+
+107
+05:14:23,0 --> 05:14:23,0
+the
+
+108
+05:14:23,0 --> 05:14:23,0
+counsels of God,
+
+109
+05:14:23,0 --> 05:14:23,0
+and has broken
+
+110
+05:14:23,0 --> 05:14:23,0
+the most
+
+111
+05:14:23,0 --> 05:14:23,0
+sacred
+
+112
+05:14:23,0 --> 05:14:23,0
+promises which were
+
+113
+05:14:23,0 --> 05:14:23,0
+made before
+
+114
+05:14:23,0 --> 05:14:23,0
+God, and
+
+115
+05:14:23,0 --> 05:14:23,0
+has depended
+
+116
+05:14:23,0 --> 05:14:23,0
+upon his own
+
+117
+05:14:23,0 --> 05:14:23,0
+judgment and
+
+118
+05:14:23,0 --> 05:14:23,0
+boasted in
+
+119
+05:14:23,0 --> 05:19:28,
+his own wisdom.
+
+120
+05:19:28,0 --> 05:19:28,0
+14 And
+
+121
+05:19:28,0 --> 05:19:28,0
+this is the
+
+122
+05:19:28,0 --> 05:19:28,0
+reason that
+
+123
+05:19:28,0 --> 05:19:28,0
+thou hast
+
+124
+05:19:28,0 --> 05:19:28,0
+lost thy
+
+125
+05:19:28,0 --> 05:19:28,0
+privileges
+
+126
+05:19:28,0 --> 05:44:29,
+for a season—
+
+127
+05:44:29,0 --> 05:44:29,0
+15 For
+
+128
+05:44:29,0 --> 05:44:29,0
+thou hast
+
+129
+05:44:29,0 --> 05:44:29,0
+suffered
+
+130
+05:44:29,0 --> 05:44:29,0
+the
+
+131
+05:44:29,0 --> 05:44:29,0
+counsel of thy
+
+132
+05:44:29,0 --> 05:44:29,0
+director
+
+133
+05:44:29,0 --> 05:44:29,0
+to be
+
+134
+05:44:29,0 --> 05:44:29,0
+trampled
+
+135
+05:44:29,0 --> 05:44:29,0
+upon from
+
+136
+05:44:29,0 --> 05:40:09,
+the beginning.
+
+137
+05:40:09,0 --> 05:40:09,0
+16
+
+138
+05:40:09,0 --> 05:40:09,0
+Nevertheless,
+
+139
+05:40:09,0 --> 05:40:09,0
+my work
+
+140
+05:40:09,0 --> 05:40:09,0
+shall
+
+141
+05:40:09,0 --> 05:40:09,0
+go forth,
+
+142
+05:40:09,0 --> 05:40:09,0
+for
+
+143
+05:40:09,0 --> 05:40:09,0
+inasmuch as
+
+144
+05:40:09,0 --> 05:40:09,0
+the
+
+145
+05:40:09,0 --> 05:40:09,0
+knowledge
+
+146
+05:40:09,0 --> 05:40:09,0
+of a
+
+147
+05:40:09,0 --> 05:40:09,0
+Savior has
+
+148
+05:40:09,0 --> 05:40:09,0
+come unto
+
+149
+05:40:09,0 --> 05:40:09,0
+the
+
+150
+05:40:09,0 --> 05:40:09,0
+world,
+
+151
+05:40:09,0 --> 05:40:09,0
+through the
+
+152
+05:40:09,0 --> 05:40:09,0
+
+
+153
+05:40:09,0 --> 05:40:09,0
+testimony of the
+
+154
+05:40:09,0 --> 05:40:09,0
+Jews,
+
+155
+05:40:09,0 --> 05:40:09,0
+even so
+
+156
+05:40:09,0 --> 05:40:09,0
+shall the
+
+157
+05:40:09,0 --> 05:40:09,0
+
+
+158
+05:40:09,0 --> 05:40:09,0
+knowledge of a
+
+159
+05:40:09,0 --> 05:44:46,
+Savior come unto my people—
+
+160
+05:44:46,0 --> 05:44:46,0
+17 And
+
+161
+05:44:46,0 --> 05:44:46,0
+to the
+
+162
+05:44:46,0 --> 05:44:46,0
+
+
+163
+05:44:46,0 --> 05:44:46,0
+Nephites, and
+
+164
+05:44:46,0 --> 05:44:46,0
+the
+
+165
+05:44:46,0 --> 05:44:46,0
+Jacobites,
+
+166
+05:44:46,0 --> 05:44:46,0
+and
+
+167
+05:44:46,0 --> 05:44:46,0
+the
+
+168
+05:44:46,0 --> 05:44:46,0
+Josephites,
+
+169
+05:44:46,0 --> 05:44:46,0
+and the
+
+170
+05:44:46,0 --> 05:44:46,0
+
+
+171
+05:44:46,0 --> 05:44:46,0
+Zoramites,
+
+172
+05:44:46,0 --> 05:44:46,0
+through
+
+173
+05:44:46,0 --> 05:44:46,0
+the
+
+174
+05:44:46,0 --> 05:44:46,0
+testimony
+
+175
+05:44:46,0 --> 05:44:24,
+of their fathers—
+
+176
+05:44:24,0 --> 05:44:24,0
+18 And
+
+177
+05:44:24,0 --> 05:44:24,0
+this
+
+178
+05:44:24,0 --> 05:44:24,0
+testimony
+
+179
+05:44:24,0 --> 05:44:24,0
+shall
+
+180
+05:44:24,0 --> 05:44:24,0
+come to
+
+181
+05:44:24,0 --> 05:44:24,0
+the
+
+182
+05:44:24,0 --> 05:44:24,0
+knowledge
+
+183
+05:44:24,0 --> 05:44:24,0
+of the
+
+184
+05:44:24,0 --> 05:44:24,0
+
+
+185
+05:44:24,0 --> 05:44:24,0
+Lamanites,
+
+186
+05:44:24,0 --> 05:44:24,0
+and the
+
+187
+05:44:24,0 --> 05:44:24,0
+
+
+188
+05:44:24,0 --> 05:44:24,0
+Lemuelites, and
+
+189
+05:44:24,0 --> 05:44:24,0
+the
+
+190
+05:44:24,0 --> 05:44:24,0
+
+
+191
+05:44:24,0 --> 05:44:24,0
+Ishmaelites, who
+
+192
+05:44:24,0 --> 05:44:24,0
+
+
+193
+05:44:24,0 --> 05:44:24,0
+dwindled in
+
+194
+05:44:24,0 --> 05:44:24,0
+unbelief
+
+195
+05:44:24,0 --> 05:44:24,0
+
+
+196
+05:44:24,0 --> 05:44:24,0
+because of
+
+197
+05:44:24,0 --> 05:44:24,0
+the
+
+198
+05:44:24,0 --> 05:44:24,0
+iniquity of
+
+199
+05:44:24,0 --> 05:44:24,0
+their
+
+200
+05:44:24,0 --> 05:44:24,0
+fathers,
+
+201
+05:44:24,0 --> 05:44:24,0
+whom
+
+202
+05:44:24,0 --> 05:44:24,0
+the Lord
+
+203
+05:44:24,0 --> 05:44:24,0
+has
+
+204
+05:44:24,0 --> 05:44:24,0
+suffered
+
+205
+05:44:24,0 --> 05:44:24,0
+to
+
+206
+05:44:24,0 --> 05:44:24,0
+destroy
+
+207
+05:44:24,0 --> 05:44:24,0
+their
+
+208
+05:44:24,0 --> 05:44:24,0
+brethren
+
+209
+05:44:24,0 --> 05:44:24,0
+the
+
+210
+05:44:24,0 --> 05:44:24,0
+Nephites,
+
+211
+05:44:24,0 --> 05:44:24,0
+because
+
+212
+05:44:24,0 --> 05:44:24,0
+of their
+
+213
+05:44:24,0 --> 05:44:24,0
+
+
+214
+05:44:24,0 --> 05:44:24,0
+iniquities
+
+215
+05:44:24,0 --> 05:44:24,0
+and their
+
+216
+05:44:24,0 --> 05:44:24,0
+
+
+217
+05:44:24,0 --> 05:40:04,
+abominations.
+
+218
+05:40:04,0 --> 05:40:04,0
+19 And
+
+219
+05:40:04,0 --> 05:40:04,0
+for
+
+220
+05:40:04,0 --> 05:40:04,0
+this
+
+221
+05:40:04,0 --> 05:40:04,0
+very
+
+222
+05:40:04,0 --> 05:40:04,0
+purpose
+
+223
+05:40:04,0 --> 05:40:04,0
+are
+
+224
+05:40:04,0 --> 05:40:04,0
+these
+
+225
+05:40:04,0 --> 05:40:04,0
+plates
+
+226
+05:40:04,0 --> 05:40:04,0
+
+
+227
+05:40:04,0 --> 05:40:04,0
+preserved,
+
+228
+05:40:04,0 --> 05:40:04,0
+which
+
+229
+05:40:04,0 --> 05:40:04,0
+contain
+
+230
+05:40:04,0 --> 05:40:04,0
+these
+
+231
+05:40:04,0 --> 05:40:04,0
+
+
+232
+05:40:04,0 --> 05:40:04,0
+records—that
+
+233
+05:40:04,0 --> 05:40:04,0
+the
+
+234
+05:40:04,0 --> 05:40:04,0
+promises
+
+235
+05:40:04,0 --> 05:40:04,0
+of
+
+236
+05:40:04,0 --> 05:40:04,0
+the Lord
+
+237
+05:40:04,0 --> 05:40:04,0
+might
+
+238
+05:40:04,0 --> 05:40:04,0
+be
+
+239
+05:40:04,0 --> 05:40:04,0
+
+
+240
+05:40:04,0 --> 05:40:04,0
+fulfilled,
+
+241
+05:40:04,0 --> 05:45:09,
+which he made to his people;
+
+242
+05:45:09,0 --> 05:45:09,0
+20
+
+243
+05:45:09,0 --> 05:45:09,0
+And
+
+244
+05:45:09,0 --> 05:45:09,0
+that the
+
+245
+05:45:09,0 --> 05:45:09,0
+
+
+246
+05:45:09,0 --> 05:45:09,0
+Lamanites
+
+247
+05:45:09,0 --> 05:45:09,0
+
+
+248
+05:45:09,0 --> 05:45:09,0
+might
+
+249
+05:45:09,0 --> 05:45:09,0
+come to
+
+250
+05:45:09,0 --> 05:45:09,0
+the
+
+251
+05:45:09,0 --> 05:45:09,0
+
+
+252
+05:45:09,0 --> 05:45:09,0
+knowledge
+
+253
+05:45:09,0 --> 05:45:09,0
+of
+
+254
+05:45:09,0 --> 05:45:09,0
+their
+
+255
+05:45:09,0 --> 05:45:09,0
+
+
+256
+05:45:09,0 --> 05:45:09,0
+fathers, and
+
+257
+05:45:09,0 --> 05:45:09,0
+that
+
+258
+05:45:09,0 --> 05:45:09,0
+they
+
+259
+05:45:09,0 --> 05:45:09,0
+
+
+260
+05:45:09,0 --> 05:45:09,0
+might
+
+261
+05:45:09,0 --> 05:45:09,0
+know the
+
+262
+05:45:09,0 --> 05:45:09,0
+
+
+263
+05:45:09,0 --> 05:45:09,0
+promises
+
+264
+05:45:09,0 --> 05:45:09,0
+of
+
+265
+05:45:09,0 --> 05:45:09,0
+the
+
+266
+05:45:09,0 --> 05:45:09,0
+Lord,
+
+267
+05:45:09,0 --> 05:45:09,0
+and
+
+268
+05:45:09,0 --> 05:45:09,0
+that
+
+269
+05:45:09,0 --> 05:45:09,0
+they may
+
+270
+05:45:09,0 --> 05:45:09,0
+
+
+271
+05:45:09,0 --> 05:45:09,0
+believe
+
+272
+05:45:09,0 --> 05:45:09,0
+the
+
+273
+05:45:09,0 --> 05:45:09,0
+gospel
+
+274
+05:45:09,0 --> 05:45:09,0
+and
+
+275
+05:45:09,0 --> 05:45:09,0
+rely
+
+276
+05:45:09,0 --> 05:45:09,0
+upon
+
+277
+05:45:09,0 --> 05:45:09,0
+the
+
+278
+05:45:09,0 --> 05:45:09,0
+merits
+
+279
+05:45:09,0 --> 05:45:09,0
+of
+
+280
+05:45:09,0 --> 05:45:09,0
+Jesus
+
+281
+05:45:09,0 --> 05:45:09,0
+
+
+282
+05:45:09,0 --> 05:45:09,0
+Christ, and
+
+283
+05:45:09,0 --> 05:45:09,0
+be
+
+284
+05:45:09,0 --> 05:45:09,0
+
+
+285
+05:45:09,0 --> 05:45:09,0
+glorified
+
+286
+05:45:09,0 --> 05:45:09,0
+
+
+287
+05:45:09,0 --> 05:45:09,0
+through
+
+288
+05:45:09,0 --> 05:45:09,0
+faith in
+
+289
+05:45:09,0 --> 05:45:09,0
+his
+
+290
+05:45:09,0 --> 05:45:09,0
+name,
+
+291
+05:45:09,0 --> 05:45:09,0
+and
+
+292
+05:45:09,0 --> 05:45:09,0
+that
+
+293
+05:45:09,0 --> 05:44:47,
+through their repentance they might be saved. Amen. 
 

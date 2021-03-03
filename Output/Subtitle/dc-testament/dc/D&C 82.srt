@@ -1,442 +1,1433 @@
 1
-00:00:11,295 --> 00:00:19,137
+00:00:00,0 --> 00:00:00,0
 Section 82 Revelation given to Joseph Smith the
 
 2
-00:00:19,137 --> 00:00:26,979
- Prophet, in Independence, Jackson County, Missouri,
+00:00:00,0 --> 00:00:00,0
+Prophet, in Independence, Jackson County,
 
 3
-00:00:26,979 --> 00:00:34,821
- April 26, 1832. The occasion was a council of high
+00:00:00,0 --> 00:00:00,0
+Missouri, April 26, 1832. The occasion was a council of
 
 4
-00:00:34,821 --> 00:00:42,663
- priests and elders of the Church. At the council,
+00:00:00,0 --> 00:00:00,0
+high priests and elders of the Church. At the
 
 5
-00:00:42,663 --> 00:00:50,505
- Joseph Smith was sustained as the President of
+00:00:00,0 --> 00:00:00,0
+council, Joseph Smith was sustained as the President
 
 6
-00:00:50,505 --> 00:00:58,347
- the High Priesthood, to which office he had
+00:00:00,0 --> 00:00:00,0
+of the High Priesthood, to which office he had
 
 7
-00:00:58,347 --> 00:01:06,189
- previously been ordained at a conference of high priests,
+00:00:00,0 --> 00:00:00,0
+previously been ordained at a conference of high
 
 8
-00:01:06,189 --> 00:01:14,031
- elders, and members, at Amherst, Ohio, January 25,
+00:00:00,0 --> 00:00:00,0
+priests, elders, and members, at Amherst, Ohio,
 
 9
-00:01:14,031 --> 00:01:21,873
- 1832 (see the 
-heading to section 75). This
+00:00:00,0 --> 00:00:00,0
+January 25, 1832 (see the 
+heading to section 75).
 
 10
-00:01:21,873 --> 00:01:29,715
- revelation reiterates instructions given in an earlier
+00:00:00,0 --> 00:00:00,0
+This revelation reiterates instructions given in
 
 11
-00:01:29,715 --> 00:01:37,557
- revelation (
-section 78) to establish a firm—known
+00:00:00,0 --> 00:00:00,0
+an earlier revelation (
+section 78) to establish a
 
 12
-00:01:37,557 --> 00:01:45,399
- as the United Firm (under Joseph Smith’s
+00:00:00,0 --> 00:00:00,0
+firm—known as the United Firm (under Joseph
 
 13
-00:01:45,399 --> 00:01:53,241
- direction, the term “order” later replaced “firm”)—to
+00:00:00,0 --> 00:00:00,0
+Smith’s direction, the term “order” later replaced
 
 14
-00:01:53,241 --> 00:02:01,083
- govern the Church’s mercantile and publishing
+00:00:00,0 --> 00:00:00,0
+“firm”)—to govern the Church’s mercantile and
 
 15
-00:02:01,083 --> 00:02:08,925
- endeavors. 
-1–4, Where much is given, much is required;
+00:00:00,0 --> 00:00:00,0
+publishing endeavors. 
+1–4, Where much is given, much
 
 16
-00:02:08,925 --> 00:02:16,767
-5–7, Darkness reigns in the world; 
-8–13, The Lord
+00:00:00,0 --> 00:00:00,0
+is required; 
+5–7, Darkness reigns in the world;
 
 17
-00:02:16,767 --> 00:02:24,609
- is bound when we do what He says; 
-14–18, Zion
+00:00:00,0 --> 00:00:00,0
+8–13, The Lord is bound when we do what He says;
 
 18
-00:02:24,609 --> 00:02:32,451
- must increase in beauty and holiness; 
-19–24, Every
+00:00:00,0 --> 00:00:00,0
+14–18, Zion must increase in beauty and
 
 19
-00:02:32,451 --> 00:02:40,293
- man should seek the interest of his neighbor.
+00:00:00,0 --> 02:38:44,
+holiness; 
+19–24, Every man should seek the interest of his neighbor. 
 
 20
-00:02:40,16 --> 00:02:44,16
+02:38:44,0 --> 02:38:44,0
 1 Verily, verily, I say unto you, my servants,
 
 21
-00:02:44,16 --> 00:02:48,16
- that inasmuch as you have forgiven one another your
+02:38:44,0 --> 02:38:44,0
+that inasmuch as you have forgiven one another
 
 22
-00:02:48,16 --> 00:02:52,16
- trespasses, even so I, the Lord, forgive you
+02:38:44,0 --> 02:38:22,
+your trespasses, even so I, the Lord, forgive you.
 
 23
-00:02:52,689 --> 00:02:57,089
-2 Nevertheless, there are those among you who have
+02:38:22,0 --> 02:38:22,0
+2 Nevertheless, there are those among you
 
 24
-00:02:57,089 --> 00:03:01,489
- sinned exceedingly; yea, even all of you have
+02:38:22,0 --> 02:38:22,0
+who have sinned exceedingly; yea, even all
 
 25
-00:03:01,489 --> 00:03:05,889
- sinned; but verily I say unto you, beware from
+02:38:22,0 --> 02:38:22,0
+of you have sinned; but verily I say unto
 
 26
-00:03:05,889 --> 00:03:10,289
- henceforth, and refrain from sin, lest sore judgments
+02:38:22,0 --> 02:38:22,0
+you, beware from henceforth, and refrain from
 
 27
-00:03:10,289 --> 00:03:14,689
- fall upon your heads
+02:38:22,0 --> 02:34:02,
+sin, lest sore judgments fall upon your heads.
 
 28
-00:03:14,961 --> 00:03:21,628
-3 For of him unto whom much is given much is
+02:34:02,0 --> 02:34:02,0
+3 For of him unto whom much is
 
 29
-00:03:21,628 --> 00:03:28,295
- required; and he who sins against the greater light
+02:34:02,0 --> 02:34:02,0
+given much is required; and he who
 
 30
-00:03:28,295 --> 00:03:34,962
- shall receive the greater condemnation
+02:34:02,0 --> 02:34:02,0
+sins against the greater light shall
 
 31
-00:03:34,464 --> 00:03:39,464
-4 Ye call upon my name for revelations, and I give
+02:34:02,0 --> 02:39:07,
+receive the greater condemnation.
 
 32
-00:03:39,464 --> 00:03:44,464
- them unto you; and inasmuch as ye keep not my
+02:39:07,0 --> 02:39:07,0
+4 Ye call upon my name for
 
 33
-00:03:44,464 --> 00:03:49,464
- sayings, which I give unto you, ye become
+02:39:07,0 --> 02:39:07,0
+revelations, and I give them unto
 
 34
-00:03:49,464 --> 00:03:54,464
- transgressors; and justice and judgment are the penalty which
+02:39:07,0 --> 02:39:07,0
+you; and inasmuch as ye keep not my
 
 35
-00:03:54,464 --> 00:03:59,464
- is affixed unto my law
+02:39:07,0 --> 02:39:07,0
+sayings, which I give unto you,
 
 36
-00:03:59,973 --> 00:04:07,306
-5 Therefore, what I say unto one I say unto all:
+02:39:07,0 --> 02:39:07,0
+ye become transgressors; and
 
 37
-00:04:07,306 --> 00:04:14,639
- Watch, for the adversary spreadeth his dominions,
+02:39:07,0 --> 02:39:07,0
+justice and judgment are the
 
 38
-00:04:14,639 --> 00:04:21,972
- and darkness reigneth
+02:39:07,0 --> 02:38:45,
+penalty which is affixed unto my law.
 
 39
-00:04:21,511 --> 00:04:26,178
-6 And the anger of God kindleth against the
+02:38:45,0 --> 02:38:45,0
+5 Therefore, what I say unto
 
 40
-00:04:26,178 --> 00:04:30,845
- inhabitants of the earth; and none doeth good, for all
+02:38:45,0 --> 02:38:45,0
+one I say unto all: Watch, for
 
 41
-00:04:30,845 --> 00:04:35,512
- have gone out of the way
+02:38:45,0 --> 02:38:45,0
+the adversary spreadeth his
 
 42
-00:04:35,542 --> 00:04:43,542
-7 And now, verily I say unto you, I, the Lord,
+02:38:45,0 --> 02:38:23,
+dominions, and darkness reigneth;
 
 43
-00:04:43,542 --> 00:04:51,542
- will not lay any sin to your charge; go your ways and
+02:38:23,0 --> 02:38:23,0
+6 And the anger of God
 
 44
-00:04:51,542 --> 00:04:59,542
- sin no more; but unto that soul who sinneth shall
+02:38:23,0 --> 02:38:23,0
+kindleth against the
 
 45
-00:04:59,542 --> 00:05:07,542
- the former sins return, saith the Lord your God
+02:38:23,0 --> 02:38:23,0
+inhabitants of the earth;
 
 46
-00:05:07,507 --> 00:05:10,84
-8 And again, I say unto you, I give unto you a new
+02:38:23,0 --> 02:38:23,0
+and none doeth good, for
 
 47
-00:05:10,84 --> 00:05:14,173
- commandment, that you may understand my will
+02:38:23,0 --> 02:34:03,
+all have gone out of the way.
 
 48
-00:05:14,173 --> 00:05:17,506
- concerning you
+02:34:03,0 --> 02:34:03,0
+7 And now, verily I
 
 49
-00:05:17,517 --> 00:05:22,184
-9 Or, in other words, I give unto you directions
+02:34:03,0 --> 02:34:03,0
+say unto you, I, the
 
 50
-00:05:22,184 --> 00:05:26,851
- how you may act before me, that it may turn to you
+02:34:03,0 --> 02:34:03,0
+Lord, will not lay any
 
 51
-00:05:26,851 --> 00:05:31,518
- for your salvation
+02:34:03,0 --> 02:34:03,0
+sin to your charge; go
 
 52
-00:05:31,031 --> 00:05:39,031
-10 I, the Lord, am bound when ye do what I say;
+02:34:03,0 --> 02:34:03,0
+your ways and sin no
 
 53
-00:05:39,031 --> 00:05:47,031
- but when ye do not what I say, ye have no promise
+02:34:03,0 --> 02:34:03,0
+more; but unto that soul
 
 54
-00:05:47,013 --> 00:05:53,124
-11 Therefore, verily I say unto you, that it is
+02:34:03,0 --> 02:34:03,0
+who sinneth shall the
 
 55
-00:05:53,124 --> 00:05:59,235
- expedient for my servants Edward Partridge and
+02:34:03,0 --> 02:34:03,0
+former sins return,
 
 56
-00:05:59,235 --> 00:06:05,346
- Newel K. Whitney, A. Sidney Gilbert and Sidney Rigdon,
+02:34:03,0 --> 02:39:08,
+saith the Lord your God.
 
 57
-00:06:05,346 --> 00:06:11,457
- and my servant Joseph Smith, and John Whitmer and
+02:39:08,0 --> 02:39:08,0
+8 And again, I say
 
 58
-00:06:11,457 --> 00:06:17,568
- Oliver Cowdery, and W. W. Phelps and Martin Harris
+02:39:08,0 --> 02:39:08,0
+unto you, I give
 
 59
-00:06:17,568 --> 00:06:23,679
- to be bound together by a bond and covenant that
+02:39:08,0 --> 02:39:08,0
+unto you a new
 
 60
-00:06:23,679 --> 00:06:29,79
- cannot be broken by transgression, except judgment
+02:39:08,0 --> 02:39:08,0
+commandment, that you
 
 61
-00:06:29,79 --> 00:06:35,901
- shall immediately follow, in your several
+02:39:08,0 --> 02:39:08,0
+may understand my
 
 62
-00:06:35,901 --> 00:06:42,012
- stewardships
+02:39:08,0 --> 02:38:46,
+will concerning you;
 
 63
-00:06:42,953 --> 00:06:47,62
-12 To manage the affairs of the poor, and all
+02:38:46,0 --> 02:38:46,0
+9 Or, in other
 
 64
-00:06:47,62 --> 00:06:52,287
- things pertaining to the bishopric both in the land of
+02:38:46,0 --> 02:38:46,0
+words, I give unto
 
 65
-00:06:52,287 --> 00:06:56,954
- Zion and in the land of Kirtland
+02:38:46,0 --> 02:38:46,0
+you directions
 
 66
-00:06:56,0 --> 00:07:03,667
-13 For I have consecrated the land of Kirtland in
+02:38:46,0 --> 02:38:46,0
+how you may act
 
 67
-00:07:03,667 --> 00:07:10,334
- mine own due time for the benefit of the saints of
+02:38:46,0 --> 02:38:46,0
+before me, that it
 
 68
-00:07:10,334 --> 00:07:17,001
- the Most High, and for a stake to Zion
+02:38:46,0 --> 02:38:46,0
+may turn to you
 
 69
-00:07:16,269 --> 00:07:23,269
-14 For Zion must increase in beauty, and in
+02:38:46,0 --> 02:38:24,
+for your salvation.
 
 70
-00:07:23,269 --> 00:07:30,269
- holiness; her borders must be enlarged; her stakes must
+02:38:24,0 --> 02:38:24,0
+10 I, the Lord,
 
 71
-00:07:30,269 --> 00:07:37,269
- be strengthened; yea, verily I say unto you, Zion
+02:38:24,0 --> 02:38:24,0
+am bound when ye
 
 72
-00:07:37,269 --> 00:07:44,269
- must arise and put on her beautiful garments
+02:38:24,0 --> 02:38:24,0
+do what I say;
 
 73
-00:07:44,547 --> 00:07:48,88
-15 Therefore, I give unto you this commandment,
+02:38:24,0 --> 02:38:24,0
+but when ye do
 
 74
-00:07:48,88 --> 00:07:53,213
- that ye bind yourselves by this covenant, and it
+02:38:24,0 --> 02:38:24,0
+not what I say,
 
 75
-00:07:53,213 --> 00:07:57,546
- shall be done according to the laws of the Lord
+02:38:24,0 --> 02:34:04,
+ye have no promise.
 
 76
-00:07:57,827 --> 00:08:01,327
-16 Behold, here is wisdom also in me for your
+02:34:04,0 --> 02:34:04,0
+11 Therefore,
 
 77
-00:08:01,327 --> 00:08:04,827
- good
+02:34:04,0 --> 02:34:04,0
+verily I say
 
 78
-00:08:04,601 --> 00:08:10,601
-17 And you are to be equal, or in other words, you
+02:34:04,0 --> 02:34:04,0
+unto you, that it
 
 79
-00:08:10,601 --> 00:08:16,601
- are to have equal claims on the properties, for
+02:34:04,0 --> 02:34:04,0
+is expedient
 
 80
-00:08:16,601 --> 00:08:22,601
- the benefit of managing the concerns of your
+02:34:04,0 --> 02:34:04,0
+for my servants
 
 81
-00:08:22,601 --> 00:08:28,601
- stewardships, every man according to his wants and his
+02:34:04,0 --> 02:34:04,0
+Edward Partridge
 
 82
-00:08:28,601 --> 00:08:34,601
- needs, inasmuch as his wants are just
+02:34:04,0 --> 02:34:04,0
+and Newel K.
 
 83
-00:08:34,581 --> 00:08:41,414
-18 And all this for the benefit of the church of
+02:34:04,0 --> 02:34:04,0
+Whitney,
 
 84
-00:08:41,414 --> 00:08:48,247
- the living God, that every man may improve upon his
+02:34:04,0 --> 02:34:04,0
+A. Sidney Gilbert and
 
 85
-00:08:48,247 --> 00:08:55,08
- talent, that every man may gain other talents,
+02:34:04,0 --> 02:34:04,0
+Sidney Rigdon,
 
 86
-00:08:55,08 --> 00:09:01,913
- yea, even an hundred fold, to be cast into the
+02:34:04,0 --> 02:34:04,0
+and my servant
 
 87
-00:09:01,913 --> 00:09:08,746
- Lord’s storehouse, to become the common property of the
+02:34:04,0 --> 02:34:04,0
+Joseph Smith,
 
 88
-00:09:08,746 --> 00:09:15,579
- whole church
+02:34:04,0 --> 02:34:04,0
+and John Whitmer
 
 89
-00:09:15,588 --> 00:09:20,588
-19 Every man seeking the interest of his neighbor,
+02:34:04,0 --> 02:34:04,0
+and Oliver
 
 90
-00:09:20,588 --> 00:09:25,588
- and doing all things with an eye single to the
+02:34:04,0 --> 02:34:04,0
+Cowdery, and W. W.
 
 91
-00:09:25,588 --> 00:09:30,588
- glory of God
+02:34:04,0 --> 02:34:04,0
+Phelps and
 
 92
-00:09:30,103 --> 00:09:35,103
-20 This order I have appointed to be an
+02:34:04,0 --> 02:34:04,0
+Martin Harris to
 
 93
-00:09:35,103 --> 00:09:40,103
- everlasting order unto you, and unto your successors,
+02:34:04,0 --> 02:34:04,0
+be bound
 
 94
-00:09:40,103 --> 00:09:45,103
- inasmuch as you sin not
+02:34:04,0 --> 02:34:04,0
+together by a bond and
 
 95
-00:09:45,368 --> 00:09:49,768
-21 And the soul that sins against this covenant,
+02:34:04,0 --> 02:34:04,0
+covenant that
 
 96
-00:09:49,768 --> 00:09:54,168
- and hardeneth his heart against it, shall be dealt
+02:34:04,0 --> 02:34:04,0
+cannot be
 
 97
-00:09:54,168 --> 00:09:58,568
- with according to the laws of my church, and shall
+02:34:04,0 --> 02:34:04,0
+broken by
 
 98
-00:09:58,568 --> 00:10:02,968
- be delivered over to the buffetings of Satan
+02:34:04,0 --> 02:34:04,0
+transgression, except
 
 99
-00:10:02,968 --> 00:10:07,368
- until the day of redemption
+02:34:04,0 --> 02:34:04,0
+judgment shall
 
 100
-00:10:07,357 --> 00:10:12,107
-22 And now, verily I say unto you, and this is
+02:34:04,0 --> 02:34:04,0
+immediately
 
 101
-00:10:12,107 --> 00:10:16,857
- wisdom, make unto yourselves friends with the mammon
+02:34:04,0 --> 02:39:09,
+follow, in your several stewardships—
 
 102
-00:10:16,857 --> 00:10:21,607
- of unrighteousness, and they will not destroy you
+02:39:09,0 --> 02:39:09,0
+12 To manage
 
 103
-00:10:21,607 --> 00:10:26,357
-
+02:39:09,0 --> 02:39:09,0
+the affairs of
 
 104
-00:10:26,359 --> 00:10:30,026
-23 Leave judgment alone with me, for it is mine
+02:39:09,0 --> 02:39:09,0
+the poor, and
 
 105
-00:10:30,026 --> 00:10:33,693
- and I will repay. Peace be with you; my blessings
+02:39:09,0 --> 02:39:09,0
+all things
 
 106
-00:10:33,693 --> 00:10:37,36
- continue with you
+02:39:09,0 --> 02:39:09,0
+pertaining to the
 
 107
-00:10:37,137 --> 00:10:44,804
-24 For even yet the kingdom is yours, and shall be
+02:39:09,0 --> 02:39:09,0
+bishopric
 
 108
-00:10:44,804 --> 00:10:52,471
- forever, if you fall not from your steadfastness.
+02:39:09,0 --> 02:39:09,0
+both in the land
 
 109
-00:10:52,471 --> 00:11:00,138
- Even so. Amen.
+02:39:09,0 --> 02:39:09,0
+of Zion and in
+
+110
+02:39:09,0 --> 02:38:47,
+the land of Kirtland;
+
+111
+02:38:47,0 --> 02:38:47,0
+13 For I have
+
+112
+02:38:47,0 --> 02:38:47,0
+consecrated
+
+113
+02:38:47,0 --> 02:38:47,0
+the land of
+
+114
+02:38:47,0 --> 02:38:47,0
+Kirtland in mine
+
+115
+02:38:47,0 --> 02:38:47,0
+own due time
+
+116
+02:38:47,0 --> 02:38:47,0
+for the benefit
+
+117
+02:38:47,0 --> 02:38:47,0
+of the saints
+
+118
+02:38:47,0 --> 02:38:47,0
+of the Most
+
+119
+02:38:47,0 --> 02:38:47,0
+High, and for a
+
+120
+02:38:47,0 --> 02:38:25,
+stake to Zion.
+
+121
+02:38:25,0 --> 02:38:25,0
+14 For Zion
+
+122
+02:38:25,0 --> 02:38:25,0
+must increase
+
+123
+02:38:25,0 --> 02:38:25,0
+in beauty,
+
+124
+02:38:25,0 --> 02:38:25,0
+and in
+
+125
+02:38:25,0 --> 02:38:25,0
+holiness; her borders
+
+126
+02:38:25,0 --> 02:38:25,0
+must be
+
+127
+02:38:25,0 --> 02:38:25,0
+enlarged; her
+
+128
+02:38:25,0 --> 02:38:25,0
+stakes must be
+
+129
+02:38:25,0 --> 02:38:25,0
+strengthened;
+
+130
+02:38:25,0 --> 02:38:25,0
+yea, verily I
+
+131
+02:38:25,0 --> 02:38:25,0
+say unto
+
+132
+02:38:25,0 --> 02:38:25,0
+you, Zion must
+
+133
+02:38:25,0 --> 02:38:25,0
+arise and put
+
+134
+02:38:25,0 --> 02:34:05,
+on her beautiful garments.
+
+135
+02:34:05,0 --> 02:34:05,0
+15
+
+136
+02:34:05,0 --> 02:34:05,0
+Therefore, I give
+
+137
+02:34:05,0 --> 02:34:05,0
+unto you this
+
+138
+02:34:05,0 --> 02:34:05,0
+commandment,
+
+139
+02:34:05,0 --> 02:34:05,0
+that ye bind
+
+140
+02:34:05,0 --> 02:34:05,0
+yourselves
+
+141
+02:34:05,0 --> 02:34:05,0
+by this
+
+142
+02:34:05,0 --> 02:34:05,0
+covenant, and it
+
+143
+02:34:05,0 --> 02:34:05,0
+shall be
+
+144
+02:34:05,0 --> 02:34:05,0
+done according
+
+145
+02:34:05,0 --> 02:34:05,0
+to the laws
+
+146
+02:34:05,0 --> 02:39:10,
+of the Lord.
+
+147
+02:39:10,0 --> 02:39:10,0
+16 Behold,
+
+148
+02:39:10,0 --> 02:39:10,0
+here is
+
+149
+02:39:10,0 --> 02:39:10,0
+wisdom also
+
+150
+02:39:10,0 --> 02:39:10,0
+in me for
+
+151
+02:39:10,0 --> 02:40:14,
+your good.
+
+152
+02:40:14,0 --> 02:40:14,0
+17 And
+
+153
+02:40:14,0 --> 02:40:14,0
+you are to
+
+154
+02:40:14,0 --> 02:40:14,0
+be equal,
+
+155
+02:40:14,0 --> 02:40:14,0
+or in
+
+156
+02:40:14,0 --> 02:40:14,0
+other
+
+157
+02:40:14,0 --> 02:40:14,0
+words, you are
+
+158
+02:40:14,0 --> 02:40:14,0
+to have
+
+159
+02:40:14,0 --> 02:40:14,0
+equal
+
+160
+02:40:14,0 --> 02:40:14,0
+claims on
+
+161
+02:40:14,0 --> 02:40:14,0
+the
+
+162
+02:40:14,0 --> 02:40:14,0
+properties, for
+
+163
+02:40:14,0 --> 02:40:14,0
+the
+
+164
+02:40:14,0 --> 02:40:14,0
+benefit of
+
+165
+02:40:14,0 --> 02:40:14,0
+managing the
+
+166
+02:40:14,0 --> 02:40:14,0
+concerns
+
+167
+02:40:14,0 --> 02:40:14,0
+of your
+
+168
+02:40:14,0 --> 02:40:14,0
+
+
+169
+02:40:14,0 --> 02:40:14,0
+stewardships,
+
+170
+02:40:14,0 --> 02:40:14,0
+every man
+
+171
+02:40:14,0 --> 02:40:14,0
+according to
+
+172
+02:40:14,0 --> 02:40:14,0
+his
+
+173
+02:40:14,0 --> 02:40:14,0
+wants and his
+
+174
+02:40:14,0 --> 02:40:14,0
+needs,
+
+175
+02:40:14,0 --> 02:52:20,
+inasmuch as his wants are just—
+
+176
+02:52:20,0 --> 02:52:20,0
+18 And
+
+177
+02:52:20,0 --> 02:52:20,0
+all this
+
+178
+02:52:20,0 --> 02:52:20,0
+for the
+
+179
+02:52:20,0 --> 02:52:20,0
+benefit
+
+180
+02:52:20,0 --> 02:52:20,0
+of the
+
+181
+02:52:20,0 --> 02:52:20,0
+church of
+
+182
+02:52:20,0 --> 02:52:20,0
+the
+
+183
+02:52:20,0 --> 02:52:20,0
+living God,
+
+184
+02:52:20,0 --> 02:52:20,0
+that
+
+185
+02:52:20,0 --> 02:52:20,0
+every man
+
+186
+02:52:20,0 --> 02:52:20,0
+may
+
+187
+02:52:20,0 --> 02:52:20,0
+improve upon
+
+188
+02:52:20,0 --> 02:52:20,0
+his
+
+189
+02:52:20,0 --> 02:52:20,0
+talent,
+
+190
+02:52:20,0 --> 02:52:20,0
+that every
+
+191
+02:52:20,0 --> 02:52:20,0
+man may
+
+192
+02:52:20,0 --> 02:52:20,0
+gain
+
+193
+02:52:20,0 --> 02:52:20,0
+other
+
+194
+02:52:20,0 --> 02:52:20,0
+talents, yea,
+
+195
+02:52:20,0 --> 02:52:20,0
+even an
+
+196
+02:52:20,0 --> 02:52:20,0
+hundred
+
+197
+02:52:20,0 --> 02:52:20,0
+fold,
+
+198
+02:52:20,0 --> 02:52:20,0
+to be
+
+199
+02:52:20,0 --> 02:52:20,0
+cast into
+
+200
+02:52:20,0 --> 02:52:20,0
+the
+
+201
+02:52:20,0 --> 02:52:20,0
+Lord’s
+
+202
+02:52:20,0 --> 02:52:20,0
+storehouse, to
+
+203
+02:52:20,0 --> 02:52:20,0
+become
+
+204
+02:52:20,0 --> 02:52:20,0
+the
+
+205
+02:52:20,0 --> 03:14:23,
+common property of the whole church—
+
+206
+03:14:23,0 --> 03:14:23,0
+19
+
+207
+03:14:23,0 --> 03:14:23,0
+Every man
+
+208
+03:14:23,0 --> 03:14:23,0
+seeking
+
+209
+03:14:23,0 --> 03:14:23,0
+the
+
+210
+03:14:23,0 --> 03:14:23,0
+interest
+
+211
+03:14:23,0 --> 03:14:23,0
+of his
+
+212
+03:14:23,0 --> 03:14:23,0
+
+
+213
+03:14:23,0 --> 03:14:23,0
+neighbor, and
+
+214
+03:14:23,0 --> 03:14:23,0
+doing
+
+215
+03:14:23,0 --> 03:14:23,0
+all
+
+216
+03:14:23,0 --> 03:14:23,0
+things with
+
+217
+03:14:23,0 --> 03:14:23,0
+an eye
+
+218
+03:14:23,0 --> 03:14:23,0
+single
+
+219
+03:14:23,0 --> 03:34:00,
+to the glory of God.
+
+220
+03:34:00,0 --> 03:34:00,0
+20
+
+221
+03:34:00,0 --> 03:34:00,0
+This
+
+222
+03:34:00,0 --> 03:34:00,0
+order I
+
+223
+03:34:00,0 --> 03:34:00,0
+have
+
+224
+03:34:00,0 --> 03:34:00,0
+appointed
+
+225
+03:34:00,0 --> 03:34:00,0
+to be
+
+226
+03:34:00,0 --> 03:34:00,0
+an
+
+227
+03:34:00,0 --> 03:34:00,0
+
+
+228
+03:34:00,0 --> 03:34:00,0
+everlasting
+
+229
+03:34:00,0 --> 03:34:00,0
+order
+
+230
+03:34:00,0 --> 03:34:00,0
+unto
+
+231
+03:34:00,0 --> 03:34:00,0
+you, and
+
+232
+03:34:00,0 --> 03:34:00,0
+unto
+
+233
+03:34:00,0 --> 03:34:00,0
+your
+
+234
+03:34:00,0 --> 03:34:00,0
+
+
+235
+03:34:00,0 --> 03:34:00,0
+successors,
+
+236
+03:34:00,0 --> 03:59:01,
+inasmuch as you sin not.
+
+237
+03:59:01,0 --> 03:59:01,0
+21
+
+238
+03:59:01,0 --> 03:59:01,0
+And the
+
+239
+03:59:01,0 --> 03:59:01,0
+soul
+
+240
+03:59:01,0 --> 03:59:01,0
+that
+
+241
+03:59:01,0 --> 03:59:01,0
+sins
+
+242
+03:59:01,0 --> 03:59:01,0
+
+
+243
+03:59:01,0 --> 03:59:01,0
+against
+
+244
+03:59:01,0 --> 03:59:01,0
+this
+
+245
+03:59:01,0 --> 03:59:01,0
+
+
+246
+03:59:01,0 --> 03:59:01,0
+covenant,
+
+247
+03:59:01,0 --> 03:59:01,0
+and
+
+248
+03:59:01,0 --> 03:59:01,0
+
+
+249
+03:59:01,0 --> 03:59:01,0
+hardeneth
+
+250
+03:59:01,0 --> 03:59:01,0
+his
+
+251
+03:59:01,0 --> 03:59:01,0
+heart
+
+252
+03:59:01,0 --> 03:59:01,0
+against
+
+253
+03:59:01,0 --> 03:59:01,0
+it,
+
+254
+03:59:01,0 --> 03:59:01,0
+shall
+
+255
+03:59:01,0 --> 03:59:01,0
+be
+
+256
+03:59:01,0 --> 03:59:01,0
+dealt
+
+257
+03:59:01,0 --> 03:59:01,0
+with
+
+258
+03:59:01,0 --> 03:59:01,0
+
+
+259
+03:59:01,0 --> 03:59:01,0
+according
+
+260
+03:59:01,0 --> 03:59:01,0
+to
+
+261
+03:59:01,0 --> 03:59:01,0
+the
+
+262
+03:59:01,0 --> 03:59:01,0
+laws of
+
+263
+03:59:01,0 --> 03:59:01,0
+my
+
+264
+03:59:01,0 --> 03:59:01,0
+church,
+
+265
+03:59:01,0 --> 03:59:01,0
+and
+
+266
+03:59:01,0 --> 03:59:01,0
+shall
+
+267
+03:59:01,0 --> 03:59:01,0
+be
+
+268
+03:59:01,0 --> 03:59:01,0
+
+
+269
+03:59:01,0 --> 03:59:01,0
+delivered
+
+270
+03:59:01,0 --> 03:59:01,0
+over
+
+271
+03:59:01,0 --> 03:59:01,0
+to the
+
+272
+03:59:01,0 --> 03:59:01,0
+
+
+273
+03:59:01,0 --> 03:59:01,0
+
+
+274
+03:59:01,0 --> 04:19:36,
+buffetings of Satan until the day of redemption.
+
+275
+04:19:36,0 --> 04:19:36,0
+22
+
+276
+04:19:36,0 --> 04:19:36,0
+And
+
+277
+04:19:36,0 --> 04:19:36,0
+now,
+
+278
+04:19:36,0 --> 04:19:36,0
+verily I
+
+279
+04:19:36,0 --> 04:19:36,0
+say
+
+280
+04:19:36,0 --> 04:19:36,0
+unto
+
+281
+04:19:36,0 --> 04:19:36,0
+you,
+
+282
+04:19:36,0 --> 04:19:36,0
+and
+
+283
+04:19:36,0 --> 04:19:36,0
+this
+
+284
+04:19:36,0 --> 04:19:36,0
+is
+
+285
+04:19:36,0 --> 04:19:36,0
+wisdom,
+
+286
+04:19:36,0 --> 04:19:36,0
+make
+
+287
+04:19:36,0 --> 04:19:36,0
+unto
+
+288
+04:19:36,0 --> 04:19:36,0
+
+
+289
+04:19:36,0 --> 04:19:36,0
+yourselves
+
+290
+04:19:36,0 --> 04:19:36,0
+
+
+291
+04:19:36,0 --> 04:19:36,0
+friends
+
+292
+04:19:36,0 --> 04:19:36,0
+with
+
+293
+04:19:36,0 --> 04:19:36,0
+the
+
+294
+04:19:36,0 --> 04:19:36,0
+mammon
+
+295
+04:19:36,0 --> 04:19:36,0
+of
+
+296
+04:19:36,0 --> 04:19:36,0
+
+
+297
+04:19:36,0 --> 04:19:36,0
+
+
+298
+04:19:36,0 --> 04:19:36,0
+unrighteousness,
+
+299
+04:19:36,0 --> 04:19:36,0
+and
+
+300
+04:19:36,0 --> 04:19:36,0
+they
+
+301
+04:19:36,0 --> 04:19:36,0
+will
+
+302
+04:19:36,0 --> 04:19:36,0
+not
+
+303
+04:19:36,0 --> 04:19:36,0
+destroy
+
+304
+04:19:36,0 --> 04:15:16,
+you.
+
+305
+04:15:16,0 --> 04:15:16,0
+23
+
+306
+04:15:16,0 --> 04:15:16,0
+Leave
+
+307
+04:15:16,0 --> 04:15:16,0
+
+
+308
+04:15:16,0 --> 04:15:16,0
+
+
+309
+04:15:16,0 --> 04:15:16,0
+judgment
+
+310
+04:15:16,0 --> 04:15:16,0
+alone
+
+311
+04:15:16,0 --> 04:15:16,0
+with
+
+312
+04:15:16,0 --> 04:15:16,0
+me,
+
+313
+04:15:16,0 --> 04:15:16,0
+for
+
+314
+04:15:16,0 --> 04:15:16,0
+it
+
+315
+04:15:16,0 --> 04:15:16,0
+is
+
+316
+04:15:16,0 --> 04:15:16,0
+mine
+
+317
+04:15:16,0 --> 04:15:16,0
+and
+
+318
+04:15:16,0 --> 04:15:16,0
+I
+
+319
+04:15:16,0 --> 04:15:16,0
+will
+
+320
+04:15:16,0 --> 04:15:16,0
+
+
+321
+04:15:16,0 --> 04:15:16,0
+repay.
+
+322
+04:15:16,0 --> 04:15:16,0
+Peace
+
+323
+04:15:16,0 --> 04:15:16,0
+be
+
+324
+04:15:16,0 --> 04:15:16,0
+with
+
+325
+04:15:16,0 --> 04:15:16,0
+you;
+
+326
+04:15:16,0 --> 04:15:16,0
+my
+
+327
+04:15:16,0 --> 04:15:16,0
+
+
+328
+04:15:16,0 --> 04:20:21,
+blessings continue with you.
+
+329
+04:20:21,0 --> 04:20:21,0
+24
+
+330
+04:20:21,0 --> 04:20:21,0
+For
+
+331
+04:20:21,0 --> 04:20:21,0
+even
+
+332
+04:20:21,0 --> 04:20:21,0
+yet
+
+333
+04:20:21,0 --> 04:20:21,0
+the
+
+334
+04:20:21,0 --> 04:20:21,0
+
+
+335
+04:20:21,0 --> 04:20:21,0
+kingdom
+
+336
+04:20:21,0 --> 04:20:21,0
+is
+
+337
+04:20:21,0 --> 04:20:21,0
+
+
+338
+04:20:21,0 --> 04:20:21,0
+yours,
+
+339
+04:20:21,0 --> 04:20:21,0
+and
+
+340
+04:20:21,0 --> 04:20:21,0
+shall
+
+341
+04:20:21,0 --> 04:20:21,0
+be
+
+342
+04:20:21,0 --> 04:20:21,0
+
+
+343
+04:20:21,0 --> 04:20:21,0
+forever,
+
+344
+04:20:21,0 --> 04:20:21,0
+if
+
+345
+04:20:21,0 --> 04:20:21,0
+you
+
+346
+04:20:21,0 --> 04:20:21,0
+fall
+
+347
+04:20:21,0 --> 04:20:21,0
+not
+
+348
+04:20:21,0 --> 04:20:21,0
+from
+
+349
+04:20:21,0 --> 04:20:21,0
+
+
+350
+04:20:21,0 --> 04:20:21,0
+your
+
+351
+04:20:21,0 --> 04:20:21,0
+
+
+352
+04:20:21,0 --> 04:20:21,0
+
+
+353
+04:20:21,0 --> 04:20:21,0
+steadfastness.
+
+354
+04:20:21,0 --> 04:20:21,0
+
+
+355
+04:20:21,0 --> 04:20:21,0
+Even
+
+356
+04:20:21,0 --> 04:20:21,0
+so.
+
+357
+04:20:21,0 --> 04:27:23,
+Amen. 
 

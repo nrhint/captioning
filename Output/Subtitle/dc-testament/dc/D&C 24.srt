@@ -1,362 +1,899 @@
 1
-00:00:23,69 --> 00:00:29,921
+00:00:00,0 --> 00:00:00,0
 Section 24 Revelation given to Joseph Smith the
 
 2
-00:00:29,921 --> 00:00:36,152
- Prophet and Oliver Cowdery, at Harmony,
+00:00:00,0 --> 00:00:00,0
+Prophet and Oliver Cowdery, at Harmony,
 
 3
-00:00:36,152 --> 00:00:42,383
- Pennsylvania, July 1830. Though less than four months had
+00:00:00,0 --> 00:00:00,0
+Pennsylvania, July 1830. Though less than four months
 
 4
-00:00:42,383 --> 00:00:48,614
- elapsed since the Church was organized, persecution
+00:00:00,0 --> 00:00:00,0
+had elapsed since the Church was organized,
 
 5
-00:00:48,614 --> 00:00:54,845
- had become intense, and the leaders had to seek
+00:00:00,0 --> 00:00:00,0
+persecution had become intense, and the leaders had to
 
 6
-00:00:54,845 --> 00:01:01,076
- safety in partial seclusion. The following three
+00:00:00,0 --> 00:00:00,0
+seek safety in partial seclusion. The following
 
 7
-00:01:01,076 --> 00:01:07,307
- revelations were given at this time to strengthen,
+00:00:00,0 --> 00:00:00,0
+three revelations were given at this time to
 
 8
-00:01:07,307 --> 00:01:13,538
- encourage, and instruct them. 
-1–9, Joseph Smith is
+00:00:00,0 --> 00:00:00,0
+strengthen, encourage, and instruct them. 
+1–9,
 
 9
-00:01:13,538 --> 00:01:19,769
- called to translate, preach, and expound scriptures;
+00:00:00,0 --> 00:00:00,0
+Joseph Smith is called to translate, preach, and
 
 10
-00:01:19,769 --> 00:01:26,0
-10–12, Oliver Cowdery is called to preach the
+00:00:00,0 --> 00:00:00,0
+expound scriptures; 
+10–12, Oliver Cowdery is
 
 11
-00:01:26,0 --> 00:01:32,231
- gospel; 
-13–19, The law is revealed relative to
+00:00:00,0 --> 00:00:00,0
+called to preach the gospel; 
+13–19, The law is
 
 12
-00:01:32,231 --> 00:01:38,462
- miracles, cursings, casting off the dust of one’s
+00:00:00,0 --> 00:00:00,0
+revealed relative to miracles, cursings, casting
 
 13
-00:01:38,462 --> 00:01:44,693
- feet, and going without purse or scrip.
+00:00:00,0 --> 00:52:01,
+off the dust of one’s feet, and going without purse or scrip. 
 
 14
-00:01:44,504 --> 00:01:50,671
-1 Behold, thou wast called and chosen to write the
+00:52:01,0 --> 00:52:01,0
+1 Behold, thou wast called and chosen to
 
 15
-00:01:50,671 --> 00:01:56,838
- Book of Mormon, and to my ministry; and I have
+00:52:01,0 --> 00:52:01,0
+write the Book of Mormon, and to my
 
 16
-00:01:56,838 --> 00:02:03,005
- lifted thee up out of thine afflictions, and have
+00:52:01,0 --> 00:52:01,0
+ministry; and I have lifted thee up out of
 
 17
-00:02:03,005 --> 00:02:09,172
- counseled thee, that thou hast been delivered from
+00:52:01,0 --> 00:52:01,0
+thine afflictions, and have counseled thee,
 
 18
-00:02:09,172 --> 00:02:15,339
- all thine enemies, and thou hast been delivered
+00:52:01,0 --> 00:52:01,0
+that thou hast been delivered from all
 
 19
-00:02:15,339 --> 00:02:21,506
- from the powers of Satan and from darkness
+00:52:01,0 --> 00:52:01,0
+thine enemies, and thou hast been delivered
 
 20
-00:02:21,441 --> 00:02:26,774
-2 Nevertheless, thou art not excusable in thy
+00:52:01,0 --> 00:58:42,
+from the powers of Satan and from darkness!
 
 21
-00:02:26,774 --> 00:02:32,107
- transgressions; nevertheless, go thy way and sin no
+00:58:42,0 --> 00:58:42,0
+2 Nevertheless, thou art not
 
 22
-00:02:32,107 --> 00:02:37,44
- more
+00:58:42,0 --> 00:58:42,0
+excusable in thy transgressions;
 
 23
-00:02:37,791 --> 00:02:43,991
-3 Magnify thine office; and after thou hast sowed
+00:58:42,0 --> 01:08:51,
+nevertheless, go thy way and sin no more.
 
 24
-00:02:43,991 --> 00:02:50,191
- thy fields and secured them, go speedily unto the
+01:08:51,0 --> 01:08:51,0
+3 Magnify thine office; and
 
 25
-00:02:50,191 --> 00:02:56,391
- church which is in Colesville, Fayette, and
+01:08:51,0 --> 01:08:51,0
+after thou hast sowed thy
 
 26
-00:02:56,391 --> 00:03:02,591
- Manchester, and they shall support thee; and I will
+01:08:51,0 --> 01:08:51,0
+fields and secured them, go
 
 27
-00:03:02,591 --> 00:03:08,791
- bless them both spiritually and temporally
+01:08:51,0 --> 01:08:51,0
+speedily unto the church which is
 
 28
-00:03:08,488 --> 00:03:14,988
-4 But if they receive thee not, I will send upon
+01:08:51,0 --> 01:08:51,0
+in Colesville, Fayette, and
 
 29
-00:03:14,988 --> 00:03:21,488
- them a cursing instead of a blessing
+01:08:51,0 --> 01:08:51,0
+Manchester, and they shall
 
 30
-00:03:21,268 --> 00:03:27,018
-5 And thou shalt continue in calling upon God in
+01:08:51,0 --> 01:08:51,0
+support thee; and I will bless
 
 31
-00:03:27,018 --> 00:03:32,768
- my name, and writing the things which shall be
+01:08:51,0 --> 01:10:03,
+them both spiritually and temporally;
 
 32
-00:03:32,768 --> 00:03:38,518
- given thee by the Comforter, and expounding all
+01:10:03,0 --> 01:10:03,0
+4 But if they receive thee
 
 33
-00:03:38,518 --> 00:03:44,268
- scriptures unto the church
+01:10:03,0 --> 01:10:03,0
+not, I will send upon them a
 
 34
-00:03:44,491 --> 00:03:49,241
-6 And it shall be given thee in the very moment
+01:10:03,0 --> 01:18:15,
+cursing instead of a blessing.
 
 35
-00:03:49,241 --> 00:03:53,991
- what thou shalt speak and write, and they shall hear
+01:18:15,0 --> 01:18:15,0
+5 And thou shalt
 
 36
-00:03:53,991 --> 00:03:58,741
- it, or I will send unto them a cursing instead of
+01:18:15,0 --> 01:18:15,0
+continue in calling upon God in
 
 37
-00:03:58,741 --> 00:04:03,491
- a blessing
+01:18:15,0 --> 01:18:15,0
+my name, and writing
 
 38
-00:04:03,076 --> 00:04:09,076
-7 For thou shalt devote all thy service in Zion;
+01:18:15,0 --> 01:18:15,0
+the things which shall be
 
 39
-00:04:09,076 --> 00:04:15,076
- and in this thou shalt have strength
+01:18:15,0 --> 01:18:15,0
+given thee by the
 
 40
-00:04:15,088 --> 00:04:21,421
-8 Be patient in afflictions, for thou shalt have
+01:18:15,0 --> 01:18:15,0
+Comforter, and expounding all
 
 41
-00:04:21,421 --> 00:04:27,754
- many; but endure them, for, lo, I am with thee,
+01:18:15,0 --> 01:33:57,
+scriptures unto the church.
 
 42
-00:04:27,754 --> 00:04:34,087
- even unto the end of thy days
+01:33:57,0 --> 01:33:57,0
+6 And it shall be given
 
 43
-00:04:34,341 --> 00:04:40,008
-9 And in temporal labors thou shalt not have
+01:33:57,0 --> 01:33:57,0
+thee in the very
 
 44
-00:04:40,008 --> 00:04:45,675
- strength, for this is not thy calling. Attend to thy
+01:33:57,0 --> 01:33:57,0
+moment what thou shalt speak
 
 45
-00:04:45,675 --> 00:04:51,342
- calling and thou shalt have wherewith to magnify
+01:33:57,0 --> 01:33:57,0
+and write, and they
 
 46
-00:04:51,342 --> 00:04:57,009
- thine office, and to expound all scriptures, and
+01:33:57,0 --> 01:33:57,0
+shall hear it, or I will
 
 47
-00:04:57,009 --> 00:05:02,676
- continue in laying on of the hands and confirming the
+01:33:57,0 --> 01:33:57,0
+send unto them a
 
 48
-00:05:02,676 --> 00:05:08,343
- churches
+01:33:57,0 --> 01:40:08,
+cursing instead of a blessing.
 
 49
-00:05:08,809 --> 00:05:16,559
-10 And thy brother Oliver shall continue in
+01:40:08,0 --> 01:40:08,0
+7 For thou shalt
 
 50
-00:05:16,559 --> 00:05:24,309
- bearing my name before the world, and also to the
+01:40:08,0 --> 01:40:08,0
+devote all thy service in
 
 51
-00:05:24,309 --> 00:05:32,059
- church. And he shall not suppose that he can say enough
+01:40:08,0 --> 01:40:08,0
+Zion; and in this
 
 52
-00:05:32,059 --> 00:05:39,809
- in my cause; and lo, I am with him to the end
+01:40:08,0 --> 01:51:51,
+thou shalt have strength.
 
 53
-00:05:39,272 --> 00:05:46,939
-11 In me he shall have glory, and not of himself,
+01:51:51,0 --> 01:51:51,0
+8 Be patient in
 
 54
-00:05:46,939 --> 00:05:54,606
- whether in weakness or in strength, whether in
+01:51:51,0 --> 01:51:51,0
+afflictions, for
 
 55
-00:05:54,606 --> 00:06:02,273
- bonds or free
+01:51:51,0 --> 01:51:51,0
+thou shalt have many;
 
 56
-00:06:02,229 --> 00:06:07,629
-12 And at all times, and in all places, he shall
+01:51:51,0 --> 01:51:51,0
+but endure them,
 
 57
-00:06:07,629 --> 00:06:13,029
- open his mouth and declare my gospel as with the
+01:51:51,0 --> 01:51:51,0
+for, lo, I am with
 
 58
-00:06:13,029 --> 00:06:18,429
- voice of a trump, both day and night. And I will
+01:51:51,0 --> 01:51:51,0
+thee, even unto
 
 59
-00:06:18,429 --> 00:06:23,829
- give unto him strength such as is not known among
+01:51:51,0 --> 01:59:49,
+the end of thy days.
 
 60
-00:06:23,829 --> 00:06:29,229
- men
+01:59:49,0 --> 01:59:49,0
+9 And in temporal
 
 61
-00:06:29,689 --> 00:06:36,689
-13 Require not miracles, except I shall command
+01:59:49,0 --> 01:59:49,0
+labors thou
 
 62
-00:06:36,689 --> 00:06:43,689
- you, except casting out devils, healing the sick,
+01:59:49,0 --> 01:59:49,0
+shalt not have
 
 63
-00:06:43,689 --> 00:06:50,689
- and against poisonous serpents, and against deadly
+01:59:49,0 --> 01:59:49,0
+strength, for this is
 
 64
-00:06:50,689 --> 00:06:57,689
- poisons
+01:59:49,0 --> 01:59:49,0
+not thy calling.
 
 65
-00:06:57,15 --> 00:07:02,4
-14 And these things ye shall not do, except it be
+01:59:49,0 --> 01:59:49,0
+Attend to thy
 
 66
-00:07:02,4 --> 00:07:07,65
- required of you by them who desire it, that the
+01:59:49,0 --> 01:59:49,0
+calling and thou
 
 67
-00:07:07,65 --> 00:07:12,9
- scriptures might be fulfilled; for ye shall do
+01:59:49,0 --> 01:59:49,0
+shalt have wherewith
 
 68
-00:07:12,9 --> 00:07:18,15
- according to that which is written
+01:59:49,0 --> 01:59:49,0
+to magnify thine
 
 69
-00:07:18,638 --> 00:07:24,438
-15 And in whatsoever place ye shall enter, and
+01:59:49,0 --> 01:59:49,0
+office, and to
 
 70
-00:07:24,438 --> 00:07:30,238
- they receive you not in my name, ye shall leave a
+01:59:49,0 --> 01:59:49,0
+expound all
 
 71
-00:07:30,238 --> 00:07:36,038
- cursing instead of a blessing, by casting off the
+01:59:49,0 --> 01:59:49,0
+scriptures, and continue
 
 72
-00:07:36,038 --> 00:07:41,838
- dust of your feet against them as a testimony, and
+01:59:49,0 --> 01:59:49,0
+in laying on of
 
 73
-00:07:41,838 --> 00:07:47,638
- cleansing your feet by the wayside
+01:59:49,0 --> 01:59:49,0
+the hands and
 
 74
-00:07:47,367 --> 00:07:52,167
-16 And it shall come to pass that whosoever shall
+01:59:49,0 --> 02:07:19,
+confirming the churches.
 
 75
-00:07:52,167 --> 00:07:56,967
- lay their hands upon you by violence, ye shall
+02:07:19,0 --> 02:07:19,0
+10 And thy
 
 76
-00:07:56,967 --> 00:08:01,767
- command to be smitten in my name; and, behold, I will
+02:07:19,0 --> 02:07:19,0
+brother Oliver shall
 
 77
-00:08:01,767 --> 00:08:06,567
- smite them according to your words, in mine own
+02:07:19,0 --> 02:07:19,0
+continue in
 
 78
-00:08:06,567 --> 00:08:11,367
- due time
+02:07:19,0 --> 02:07:19,0
+bearing my name
 
 79
-00:08:11,891 --> 00:08:17,891
-17 And whosoever shall go to law with thee shall
+02:07:19,0 --> 02:07:19,0
+before the world,
 
 80
-00:08:17,891 --> 00:08:23,891
- be cursed by the law
+02:07:19,0 --> 02:07:19,0
+and also to the
 
 81
-00:08:23,636 --> 00:08:29,636
-18 And thou shalt take no purse nor scrip, neither
+02:07:19,0 --> 02:07:19,0
+church. And he
 
 82
-00:08:29,636 --> 00:08:35,636
- staves, neither two coats, for the church shall
+02:07:19,0 --> 02:07:19,0
+shall not suppose
 
 83
-00:08:35,636 --> 00:08:41,636
- give unto thee in the very hour what thou needest
+02:07:19,0 --> 02:07:19,0
+that he can say
 
 84
-00:08:41,636 --> 00:08:47,636
- for food and for raiment, and for shoes and for
+02:07:19,0 --> 02:07:19,0
+enough in my
 
 85
-00:08:47,636 --> 00:08:53,636
- money, and for scrip
+02:07:19,0 --> 02:07:19,0
+cause; and lo, I am
 
 86
-00:08:53,867 --> 00:09:01,667
-19 For thou art called to prune my vineyard with a
+02:07:19,0 --> 02:09:31,
+with him to the end.
 
 87
-00:09:01,667 --> 00:09:09,467
- mighty pruning, yea, even for the last time; yea,
+02:09:31,0 --> 02:09:31,0
+11 In me he
 
 88
-00:09:09,467 --> 00:09:17,267
- and also all those whom thou hast ordained, and
+02:09:31,0 --> 02:09:31,0
+shall have glory,
 
 89
-00:09:17,267 --> 00:09:25,067
- they shall do even according to this pattern. Amen.
+02:09:31,0 --> 02:09:31,0
+and not of
 
 90
-00:09:25,067 --> 00:09:32,867
+02:09:31,0 --> 02:09:31,0
+himself, whether in
 
+91
+02:09:31,0 --> 02:09:31,0
+weakness or in
+
+92
+02:09:31,0 --> 02:09:31,0
+strength,
+
+93
+02:09:31,0 --> 02:17:01,
+whether in bonds or free;
+
+94
+02:17:01,0 --> 02:17:01,0
+12 And at all
+
+95
+02:17:01,0 --> 02:17:01,0
+times, and in
+
+96
+02:17:01,0 --> 02:17:01,0
+all places, he
+
+97
+02:17:01,0 --> 02:17:01,0
+shall open
+
+98
+02:17:01,0 --> 02:17:01,0
+his mouth and
+
+99
+02:17:01,0 --> 02:17:01,0
+declare my
+
+100
+02:17:01,0 --> 02:17:01,0
+gospel as with the
+
+101
+02:17:01,0 --> 02:17:01,0
+voice of a
+
+102
+02:17:01,0 --> 02:17:01,0
+trump, both day
+
+103
+02:17:01,0 --> 02:17:01,0
+and night. And
+
+104
+02:17:01,0 --> 02:17:01,0
+I will give
+
+105
+02:17:01,0 --> 02:17:01,0
+unto him
+
+106
+02:17:01,0 --> 02:17:01,0
+strength such as is
+
+107
+02:17:01,0 --> 02:33:55,
+not known among men.
+
+108
+02:33:55,0 --> 02:33:55,0
+13 Require
+
+109
+02:33:55,0 --> 02:33:55,0
+not miracles,
+
+110
+02:33:55,0 --> 02:33:55,0
+except I shall
+
+111
+02:33:55,0 --> 02:33:55,0
+command you,
+
+112
+02:33:55,0 --> 02:33:55,0
+except
+
+113
+02:33:55,0 --> 02:33:55,0
+casting out
+
+114
+02:33:55,0 --> 02:33:55,0
+devils, healing the
+
+115
+02:33:55,0 --> 02:33:55,0
+sick, and
+
+116
+02:33:55,0 --> 02:33:55,0
+against
+
+117
+02:33:55,0 --> 02:33:55,0
+poisonous serpents,
+
+118
+02:33:55,0 --> 02:33:55,0
+and against
+
+119
+02:33:55,0 --> 02:45:02,
+deadly poisons;
+
+120
+02:45:02,0 --> 02:45:02,0
+14 And these
+
+121
+02:45:02,0 --> 02:45:02,0
+things ye
+
+122
+02:45:02,0 --> 02:45:02,0
+shall not do,
+
+123
+02:45:02,0 --> 02:45:02,0
+except it
+
+124
+02:45:02,0 --> 02:45:02,0
+be required
+
+125
+02:45:02,0 --> 02:45:02,0
+of you by
+
+126
+02:45:02,0 --> 02:45:02,0
+them who desire
+
+127
+02:45:02,0 --> 02:45:02,0
+it, that
+
+128
+02:45:02,0 --> 02:45:02,0
+the scriptures
+
+129
+02:45:02,0 --> 02:45:02,0
+might be
+
+130
+02:45:02,0 --> 02:45:02,0
+fulfilled; for
+
+131
+02:45:02,0 --> 02:45:02,0
+ye shall do
+
+132
+02:45:02,0 --> 02:45:02,0
+according
+
+133
+02:45:02,0 --> 02:47:44,
+to that which is written.
+
+134
+02:47:44,0 --> 02:47:44,0
+15 And in
+
+135
+02:47:44,0 --> 02:47:44,0
+whatsoever
+
+136
+02:47:44,0 --> 02:47:44,0
+place ye
+
+137
+02:47:44,0 --> 02:47:44,0
+shall enter,
+
+138
+02:47:44,0 --> 02:47:44,0
+and they
+
+139
+02:47:44,0 --> 02:47:44,0
+receive you
+
+140
+02:47:44,0 --> 02:47:44,0
+not in my
+
+141
+02:47:44,0 --> 02:47:44,0
+name, ye shall
+
+142
+02:47:44,0 --> 02:47:44,0
+leave a
+
+143
+02:47:44,0 --> 02:47:44,0
+cursing
+
+144
+02:47:44,0 --> 02:47:44,0
+instead of a
+
+145
+02:47:44,0 --> 02:47:44,0
+blessing, by
+
+146
+02:47:44,0 --> 02:47:44,0
+casting off
+
+147
+02:47:44,0 --> 02:47:44,0
+the dust of
+
+148
+02:47:44,0 --> 02:47:44,0
+your feet
+
+149
+02:47:44,0 --> 02:47:44,0
+against
+
+150
+02:47:44,0 --> 02:47:44,0
+them as a
+
+151
+02:47:44,0 --> 02:47:44,0
+testimony, and
+
+152
+02:47:44,0 --> 02:47:44,0
+cleansing
+
+153
+02:47:44,0 --> 02:47:16,
+your feet by the wayside.
+
+154
+02:47:16,0 --> 02:47:16,0
+16 And it
+
+155
+02:47:16,0 --> 02:47:16,0
+shall come
+
+156
+02:47:16,0 --> 02:47:16,0
+to pass
+
+157
+02:47:16,0 --> 02:47:16,0
+that
+
+158
+02:47:16,0 --> 02:47:16,0
+whosoever shall
+
+159
+02:47:16,0 --> 02:47:16,0
+lay their
+
+160
+02:47:16,0 --> 02:47:16,0
+hands upon
+
+161
+02:47:16,0 --> 02:47:16,0
+you by
+
+162
+02:47:16,0 --> 02:47:16,0
+violence, ye
+
+163
+02:47:16,0 --> 02:47:16,0
+shall
+
+164
+02:47:16,0 --> 02:47:16,0
+command to be
+
+165
+02:47:16,0 --> 02:47:16,0
+smitten
+
+166
+02:47:16,0 --> 02:47:16,0
+in my name;
+
+167
+02:47:16,0 --> 02:47:16,0
+and,
+
+168
+02:47:16,0 --> 02:47:16,0
+behold, I will
+
+169
+02:47:16,0 --> 02:47:16,0
+smite
+
+170
+02:47:16,0 --> 02:47:16,0
+them
+
+171
+02:47:16,0 --> 02:47:16,0
+according to your
+
+172
+02:47:16,0 --> 02:48:28,
+words, in mine own due time.
+
+173
+02:48:28,0 --> 02:48:28,0
+17 And
+
+174
+02:48:28,0 --> 02:48:28,0
+whosoever
+
+175
+02:48:28,0 --> 02:48:28,0
+shall go to
+
+176
+02:48:28,0 --> 02:48:28,0
+law with
+
+177
+02:48:28,0 --> 02:48:28,0
+thee shall
+
+178
+02:48:28,0 --> 02:48:28,0
+be cursed
+
+179
+02:48:28,0 --> 02:54:39,
+by the law.
+
+180
+02:54:39,0 --> 02:54:39,0
+18 And
+
+181
+02:54:39,0 --> 02:54:39,0
+thou shalt
+
+182
+02:54:39,0 --> 02:54:39,0
+take no
+
+183
+02:54:39,0 --> 02:54:39,0
+purse nor
+
+184
+02:54:39,0 --> 02:54:39,0
+scrip,
+
+185
+02:54:39,0 --> 02:54:39,0
+neither
+
+186
+02:54:39,0 --> 02:54:39,0
+staves,
+
+187
+02:54:39,0 --> 02:54:39,0
+neither two
+
+188
+02:54:39,0 --> 02:54:39,0
+coats, for
+
+189
+02:54:39,0 --> 02:54:39,0
+the
+
+190
+02:54:39,0 --> 02:54:39,0
+church shall
+
+191
+02:54:39,0 --> 02:54:39,0
+give unto
+
+192
+02:54:39,0 --> 02:54:39,0
+thee in
+
+193
+02:54:39,0 --> 02:54:39,0
+the very
+
+194
+02:54:39,0 --> 02:54:39,0
+hour what
+
+195
+02:54:39,0 --> 02:54:39,0
+thou
+
+196
+02:54:39,0 --> 02:54:39,0
+needest for
+
+197
+02:54:39,0 --> 02:54:39,0
+food and
+
+198
+02:54:39,0 --> 02:54:39,0
+for
+
+199
+02:54:39,0 --> 02:54:39,0
+raiment, and
+
+200
+02:54:39,0 --> 02:54:39,0
+for shoes
+
+201
+02:54:39,0 --> 02:59:50,
+and for money, and for scrip.
+
+202
+02:59:50,0 --> 02:59:50,0
+19 For
+
+203
+02:59:50,0 --> 02:59:50,0
+thou art
+
+204
+02:59:50,0 --> 02:59:50,0
+called
+
+205
+02:59:50,0 --> 02:59:50,0
+to prune
+
+206
+02:59:50,0 --> 02:59:50,0
+my
+
+207
+02:59:50,0 --> 02:59:50,0
+vineyard with
+
+208
+02:59:50,0 --> 02:59:50,0
+a
+
+209
+02:59:50,0 --> 02:59:50,0
+mighty
+
+210
+02:59:50,0 --> 02:59:50,0
+pruning, yea,
+
+211
+02:59:50,0 --> 02:59:50,0
+even for
+
+212
+02:59:50,0 --> 02:59:50,0
+the
+
+213
+02:59:50,0 --> 02:59:50,0
+last time;
+
+214
+02:59:50,0 --> 02:59:50,0
+yea, and
+
+215
+02:59:50,0 --> 02:59:50,0
+also
+
+216
+02:59:50,0 --> 02:59:50,0
+all those
+
+217
+02:59:50,0 --> 02:59:50,0
+whom
+
+218
+02:59:50,0 --> 02:59:50,0
+thou hast
+
+219
+02:59:50,0 --> 02:59:50,0
+ordained,
+
+220
+02:59:50,0 --> 02:59:50,0
+and
+
+221
+02:59:50,0 --> 02:59:50,0
+they shall
+
+222
+02:59:50,0 --> 02:59:50,0
+do even
+
+223
+02:59:50,0 --> 02:59:50,0
+
+
+224
+02:59:50,0 --> 03:03:49,
+according to this pattern. Amen. 
 

@@ -1,102 +1,218 @@
 1
-00:00:11,278 --> 00:00:17,778
+00:00:00,0 --> 00:00:00,0
 Section 131 Instructions by Joseph Smith the
 
 2
-00:00:17,778 --> 00:00:24,278
- Prophet, given at Ramus, Illinois, May 16 and 17, 1843.
+00:00:00,0 --> 00:00:00,0
+Prophet, given at Ramus, Illinois, May 16
 
 3
-00:00:24,278 --> 00:00:30,778
-1–4, Celestial marriage is essential to
+00:00:00,0 --> 00:00:00,0
+and 17, 1843. 
+1–4, Celestial marriage is
 
 4
-00:00:30,778 --> 00:00:37,278
- exaltation in the highest heaven; 
-5–6, How men are sealed
+00:00:00,0 --> 00:00:00,0
+essential to exaltation in the highest heaven;
 
 5
-00:00:37,278 --> 00:00:43,778
- up unto eternal life is explained; 
-7–8, All
+00:00:00,0 --> 00:00:00,0
+5–6, How men are sealed up unto eternal
 
 6
-00:00:43,778 --> 00:00:50,278
- spirit is matter.
+00:00:00,0 --> 00:48:58,
+life is explained; 
+7–8, All spirit is matter. 
 
 7
-00:00:50,484 --> 00:00:54,984
-1 In the celestial glory there are three heavens
+00:48:58,0 --> 00:48:58,0
+1 In the celestial glory there
 
 8
-00:00:54,984 --> 00:00:59,484
- or degrees
+00:48:58,0 --> 00:48:36,
+are three heavens or degrees;
 
 9
-00:00:59,026 --> 00:01:03,359
-2 And in order to obtain the highest, a man must
+00:48:36,0 --> 00:48:36,0
+2 And in order to obtain the
 
 10
-00:01:03,359 --> 00:01:07,692
- enter into this order of the priesthood [meaning
+00:48:36,0 --> 00:48:36,0
+highest, a man must enter
 
 11
-00:01:07,692 --> 00:01:12,025
- the new and everlasting covenant of marriage]
+00:48:36,0 --> 00:48:36,0
+into this order of the
 
 12
-00:01:12,539 --> 00:01:19,539
-3 And if he does not, he cannot obtain it
+00:48:36,0 --> 00:48:36,0
+priesthood [meaning the new and
 
 13
-00:01:19,079 --> 00:01:25,079
-4 He may enter into the other, but that is the end
+00:48:36,0 --> 00:44:16,
+everlasting covenant of marriage];
 
 14
-00:01:25,079 --> 00:01:31,079
- of his kingdom; he cannot have an increase
+00:44:16,0 --> 00:44:16,0
+3 And if he does not,
 
 15
-00:01:31,625 --> 00:01:38,625
-5 (May 17th, 1843.) The more sure word of prophecy
+00:44:16,0 --> 00:49:21,
+he cannot obtain it.
 
 16
-00:01:38,625 --> 00:01:45,625
- means a man’s knowing that he is sealed up unto
+00:49:21,0 --> 00:49:21,0
+4 He may enter
 
 17
-00:01:45,625 --> 00:01:52,625
- eternal life, by revelation and the spirit of
+00:49:21,0 --> 00:49:21,0
+into the other, but
 
 18
-00:01:52,625 --> 00:01:59,625
- prophecy, through the power of the Holy Priesthood
+00:49:21,0 --> 00:49:21,0
+that is the end of
 
 19
-00:01:59,603 --> 00:02:04,103
-6 It is impossible for a man to be saved in
+00:49:21,0 --> 00:49:21,0
+his kingdom; he
 
 20
-00:02:04,103 --> 00:02:08,603
- ignorance
+00:49:21,0 --> 00:58:24,
+cannot have an increase.
 
 21
-00:02:08,629 --> 00:02:18,296
-7 There is no such thing as immaterial matter. All
+00:58:24,0 --> 00:58:24,0
+5 (May 17th,
 
 22
-00:02:18,296 --> 00:02:27,963
- spirit is matter, but it is more fine or pure,
+00:58:24,0 --> 00:58:24,0
+1843.) The more sure
 
 23
-00:02:27,963 --> 00:02:37,63
- and can only be discerned by purer eyes
+00:58:24,0 --> 00:58:24,0
+word of prophecy
 
 24
-00:02:37,157 --> 00:02:43,157
-8 We cannot see it; but when our bodies are
+00:58:24,0 --> 00:58:24,0
+means a man’s
 
 25
-00:02:43,157 --> 00:02:49,157
- purified we shall see that it is all matter.
+00:58:24,0 --> 00:58:24,0
+knowing that he is
+
+26
+00:58:24,0 --> 00:58:24,0
+sealed up unto
+
+27
+00:58:24,0 --> 00:58:24,0
+eternal life, by
+
+28
+00:58:24,0 --> 00:58:24,0
+revelation and the
+
+29
+00:58:24,0 --> 00:58:24,0
+spirit of
+
+30
+00:58:24,0 --> 00:58:24,0
+prophecy, through the
+
+31
+00:58:24,0 --> 01:11:28,
+power of the Holy Priesthood.
+
+32
+01:11:28,0 --> 01:11:28,0
+6 It is
+
+33
+01:11:28,0 --> 01:11:28,0
+impossible for a
+
+34
+01:11:28,0 --> 01:11:28,0
+man to be
+
+35
+01:11:28,0 --> 01:13:32,
+saved in ignorance.
+
+36
+01:13:32,0 --> 01:13:32,0
+7 There is
+
+37
+01:13:32,0 --> 01:13:32,0
+no such thing
+
+38
+01:13:32,0 --> 01:13:32,0
+as
+
+39
+01:13:32,0 --> 01:13:32,0
+immaterial matter.
+
+40
+01:13:32,0 --> 01:13:32,0
+All spirit is
+
+41
+01:13:32,0 --> 01:13:32,0
+matter, but
+
+42
+01:13:32,0 --> 01:13:32,0
+it is more
+
+43
+01:13:32,0 --> 01:13:32,0
+fine or
+
+44
+01:13:32,0 --> 01:13:32,0
+pure, and can
+
+45
+01:13:32,0 --> 01:13:32,0
+only be
+
+46
+01:13:32,0 --> 01:18:37,
+discerned by purer eyes;
+
+47
+01:18:37,0 --> 01:18:37,0
+8 We cannot
+
+48
+01:18:37,0 --> 01:18:37,0
+see it;
+
+49
+01:18:37,0 --> 01:18:37,0
+but when our
+
+50
+01:18:37,0 --> 01:18:37,0
+bodies are
+
+51
+01:18:37,0 --> 01:18:37,0
+purified we
+
+52
+01:18:37,0 --> 01:18:37,0
+shall see
+
+53
+01:18:37,0 --> 01:18:37,0
+that it is
+
+54
+01:18:37,0 --> 01:30:43,
+all matter. 
 

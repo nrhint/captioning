@@ -1,114 +1,147 @@
 1
-00:00:11,278 --> 00:00:16,878
+00:00:00,0 --> 00:00:00,0
 Section 73 Revelation given to Joseph Smith the
 
 2
-00:00:16,878 --> 00:00:22,478
- Prophet and Sidney Rigdon, at Hiram, Ohio, January
+00:00:00,0 --> 00:00:00,0
+Prophet and Sidney Rigdon, at Hiram, Ohio, January
 
 3
-00:00:22,478 --> 00:00:28,078
- 10, 1832. Since the early part of the preceding
+00:00:00,0 --> 00:00:00,0
+10, 1832. Since the early part of the preceding
 
 4
-00:00:28,078 --> 00:00:33,678
- December, the Prophet and Sidney had been engaged in
+00:00:00,0 --> 00:00:00,0
+December, the Prophet and Sidney had been engaged
 
 5
-00:00:33,678 --> 00:00:39,278
- preaching, and by this means much was accomplished
+00:00:00,0 --> 00:00:00,0
+in preaching, and by this means much was
 
 6
-00:00:39,278 --> 00:00:44,878
- in diminishing the unfavorable feelings that had
+00:00:00,0 --> 00:00:00,0
+accomplished in diminishing the unfavorable feelings
 
 7
-00:00:44,878 --> 00:00:50,478
- arisen against the Church (see the 
-heading to
+00:00:00,0 --> 00:00:00,0
+that had arisen against the Church (see the 
+heading
 
 8
-00:00:50,478 --> 00:00:56,078
- section 71). 
-1–2, Elders are to continue to preach;
+00:00:00,0 --> 00:00:00,0
+to section 71). 
+1–2, Elders are to continue to
 
 9
-00:00:56,078 --> 00:01:01,678
-3–6, Joseph Smith and Sidney Rigdon are to
+00:00:00,0 --> 00:00:00,0
+preach; 
+3–6, Joseph Smith and Sidney Rigdon are
 
 10
-00:01:01,678 --> 00:01:07,278
- continue to translate the Bible until it is finished.
+00:00:00,0 --> 01:06:54,
+to continue to translate the Bible until it is finished. 
 
 11
-00:01:07,451 --> 00:01:12,201
-1 For verily, thus saith the Lord, it is expedient
+01:06:54,0 --> 01:06:54,0
+1 For verily, thus saith the Lord, it is
 
 12
-00:01:12,201 --> 00:01:16,951
- in me that they should continue preaching the
+01:06:54,0 --> 01:06:54,0
+expedient in me that they should continue preaching
 
 13
-00:01:16,951 --> 00:01:21,701
- gospel, and in exhortation to the churches in the
+01:06:54,0 --> 01:06:54,0
+the gospel, and in exhortation to the
 
 14
-00:01:21,701 --> 00:01:26,451
- regions round about, until conference
+01:06:54,0 --> 01:13:56,
+churches in the regions round about, until conference;
 
 15
-00:01:26,737 --> 00:01:30,07
-2 And then, behold, it shall be made known unto
+01:13:56,0 --> 01:13:56,0
+2 And then, behold, it shall be made
 
 16
-00:01:30,07 --> 00:01:33,403
- them, by the voice of the conference, their several
+01:13:56,0 --> 01:13:56,0
+known unto them, by the voice of
 
 17
-00:01:33,403 --> 00:01:36,736
- missions
+01:13:56,0 --> 01:26:02,
+the conference, their several missions.
 
 18
-00:01:36,029 --> 00:01:40,696
-3 Now, verily I say unto you my servants, Joseph
+01:26:02,0 --> 01:26:02,0
+3 Now, verily I say unto you my
 
 19
-00:01:40,696 --> 00:01:45,363
- Smith, Jun., and Sidney Rigdon, saith the Lord, it
+01:26:02,0 --> 01:26:02,0
+servants, Joseph Smith, Jun., and
 
 20
-00:01:45,363 --> 00:01:50,03
- is expedient to translate again
+01:26:02,0 --> 01:26:02,0
+Sidney Rigdon, saith the Lord, it
 
 21
-00:01:50,077 --> 00:01:53,577
-4 And, inasmuch as it is practicable, to preach in
+01:26:02,0 --> 01:27:06,
+is expedient to translate again;
 
 22
-00:01:53,577 --> 00:01:57,077
- the regions round about until conference; and
+01:27:06,0 --> 01:27:06,0
+4 And, inasmuch as it is
 
 23
-00:01:57,077 --> 00:02:00,577
- after that it is expedient to continue the work of
+01:27:06,0 --> 01:27:06,0
+practicable, to preach in the
 
 24
-00:02:00,577 --> 00:02:04,077
- translation until it be finished
+01:27:06,0 --> 01:27:06,0
+regions round about until
 
 25
-00:02:04,358 --> 00:02:10,358
-5 And let this be a pattern unto the elders until
+01:27:06,0 --> 01:27:06,0
+conference; and after that it is
 
 26
-00:02:10,358 --> 00:02:16,358
- further knowledge, even as it is written
+01:27:06,0 --> 01:27:06,0
+expedient to continue the work of
 
 27
-00:02:16,903 --> 00:02:23,903
-6 Now I give no more unto you at this time. Gird
+01:27:06,0 --> 01:34:09,
+translation until it be finished.
 
 28
-00:02:23,903 --> 00:02:30,903
- up your loins and be sober. Even so. Amen.
+01:34:09,0 --> 01:34:09,0
+5 And let this be a
+
+29
+01:34:09,0 --> 01:34:09,0
+pattern unto the elders
+
+30
+01:34:09,0 --> 01:34:09,0
+until further
+
+31
+01:34:09,0 --> 01:32:45,
+knowledge, even as it is written.
+
+32
+01:32:45,0 --> 01:32:45,0
+6 Now I give no
+
+33
+01:32:45,0 --> 01:32:45,0
+more unto you at
+
+34
+01:32:45,0 --> 01:32:45,0
+this time. Gird up
+
+35
+01:32:45,0 --> 01:32:45,0
+your loins and be
+
+36
+01:32:45,0 --> 01:35:47,
+sober. Even so. Amen. 
 

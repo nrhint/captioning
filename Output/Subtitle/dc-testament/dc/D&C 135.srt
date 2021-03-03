@@ -1,440 +1,516 @@
 1
-00:00:11,295 --> 00:00:17,795
+00:00:00,0 --> 00:00:00,0
 Section 135 Announcement of the martyrdom of
 
 2
-00:00:17,795 --> 00:00:24,295
- Joseph Smith the Prophet and his brother, Hyrum Smith
+00:00:00,0 --> 00:00:00,0
+Joseph Smith the Prophet and his brother, Hyrum Smith
 
 3
-00:00:24,295 --> 00:00:30,795
- the Patriarch, at Carthage, Illinois, June 27,
+00:00:00,0 --> 00:00:00,0
+the Patriarch, at Carthage, Illinois, June 27,
 
 4
-00:00:30,795 --> 00:00:37,295
- 1844. This document was included at the end of the
+00:00:00,0 --> 00:00:00,0
+1844. This document was included at the end of the
 
 5
-00:00:37,295 --> 00:00:43,795
- 1844 edition of the Doctrine and Covenants, which was
+00:00:00,0 --> 00:00:00,0
+1844 edition of the Doctrine and Covenants,
 
 6
-00:00:43,795 --> 00:00:50,295
- nearly ready for publication when Joseph and
+00:00:00,0 --> 00:00:00,0
+which was nearly ready for publication when Joseph
 
 7
-00:00:50,295 --> 00:00:56,795
- Hyrum Smith were murdered. 
-1–2, Joseph and Hyrum
+00:00:00,0 --> 00:00:00,0
+and Hyrum Smith were murdered. 
+1–2, Joseph and
 
 8
-00:00:56,795 --> 00:01:03,295
- martyred in Carthage Jail; 
-3, The preeminent position
+00:00:00,0 --> 00:00:00,0
+Hyrum martyred in Carthage Jail; 
+3, The preeminent
 
 9
-00:01:03,295 --> 00:01:09,795
- of the Prophet is acclaimed; 
-4–7, Their innocent
+00:00:00,0 --> 00:00:00,0
+position of the Prophet is acclaimed; 
+4–7, Their
 
 10
-00:01:09,795 --> 00:01:16,295
- blood testifies of the truth and divinity of the
+00:00:00,0 --> 00:00:00,0
+innocent blood testifies of the truth and
 
 11
-00:01:16,295 --> 00:01:22,795
- work. 
-twelfth chapter of Ether, in the Book of
+00:00:00,0 --> 00:00:00,0
+divinity of the work. 
+twelfth chapter of Ether, in the
 
 12
-00:01:22,795 --> 00:01:29,295
- Mormon, and turned down the leaf upon it
+00:00:00,0 --> 01:28:53,
+Book of Mormon, and turned down the leaf upon it:
 
 13
-00:01:29,923 --> 00:01:39,832
-1 To seal the testimony of this book and the Book
+01:28:53,0 --> 01:28:53,0
+1 To seal the testimony of this book and the
 
 14
-00:01:39,832 --> 00:01:49,741
- of Mormon, we announce the martyrdom of Joseph
+01:28:53,0 --> 01:28:53,0
+Book of Mormon, we announce the martyrdom of
 
 15
-00:01:49,741 --> 00:01:59,65
- Smith the Prophet, and Hyrum Smith the Patriarch.
+01:28:53,0 --> 01:28:53,0
+Joseph Smith the Prophet, and Hyrum Smith the
 
 16
-00:01:59,65 --> 00:02:09,559
- They were shot in Carthage jail, on the 27th of June,
+01:28:53,0 --> 01:28:53,0
+Patriarch. They were shot in Carthage jail,
 
 17
-00:02:09,559 --> 00:02:19,468
- 1844, about five o’clock p.m., by an armed
+01:28:53,0 --> 01:28:53,0
+on the 27th of June, 1844, about five o’clock
 
 18
-00:02:19,468 --> 00:02:29,377
- mob—painted black—of from 150 to 200 persons. Hyrum was
+01:28:53,0 --> 01:28:53,0
+p.m., by an armed mob—painted black—of from
 
 19
-00:02:29,377 --> 00:02:39,286
- shot first and fell calmly, exclaiming: I am a
+01:28:53,0 --> 01:28:53,0
+150 to 200 persons. Hyrum was shot first and
 
 20
-00:02:39,286 --> 00:02:49,195
- dead man! Joseph leaped from the window, and was shot
+01:28:53,0 --> 01:28:53,0
+fell calmly, exclaiming: I am a dead man!
 
 21
-00:02:49,195 --> 00:02:59,104
- dead in the attempt, exclaiming: O Lord my God!
+01:28:53,0 --> 01:28:53,0
+Joseph leaped from the window, and was shot dead
 
 22
-00:02:59,104 --> 00:03:09,013
- They were both shot after they were dead, in a
+01:28:53,0 --> 01:28:53,0
+in the attempt, exclaiming: O Lord my God!
 
 23
-00:03:09,013 --> 00:03:18,922
- brutal manner, and both received four balls
+01:28:53,0 --> 01:28:53,0
+They were both shot after they were dead, in a
 
 24
-00:03:18,598 --> 00:03:26,098
-2 John Taylor and Willard Richards, two of the
+01:28:53,0 --> 02:03:50,
+brutal manner, and both received four balls.
 
 25
-00:03:26,098 --> 00:03:33,598
- Twelve, were the only persons in the room at the
+02:03:50,0 --> 02:03:50,0
+2 John Taylor and Willard Richards, two of
 
 26
-00:03:33,598 --> 00:03:41,098
- time; the former was wounded in a savage manner with
+02:03:50,0 --> 02:03:50,0
+the Twelve, were the only persons in the room
 
 27
-00:03:41,098 --> 00:03:48,598
- four balls, but has since recovered; the latter,
+02:03:50,0 --> 02:03:50,0
+at the time; the former was wounded in a
 
 28
-00:03:48,598 --> 00:03:56,098
- through the providence of God, escaped, without even
+02:03:50,0 --> 02:03:50,0
+savage manner with four balls, but has since
 
 29
-00:03:56,098 --> 00:04:03,598
- a hole in his robe
+02:03:50,0 --> 02:03:50,0
+recovered; the latter, through the providence of
 
 30
-00:04:03,126 --> 00:04:09,936
-3 Joseph Smith, the Prophet and Seer of the Lord,
+02:03:50,0 --> 02:22:49,
+God, escaped, without even a hole in his robe.
 
 31
-00:04:09,936 --> 00:04:16,746
- has done more, save Jesus only, for the salvation
+02:22:49,0 --> 02:22:49,0
+3 Joseph Smith, the Prophet and Seer of the
 
 32
-00:04:16,746 --> 00:04:23,556
- of men in this world, than any other man that ever
+02:22:49,0 --> 02:22:49,0
+Lord, has done more, save Jesus only, for
 
 33
-00:04:23,556 --> 00:04:30,366
- lived in it. In the short space of twenty years,
+02:22:49,0 --> 02:22:49,0
+the salvation of men in this world, than
 
 34
-00:04:30,366 --> 00:04:37,176
- he has brought forth the Book of Mormon, which he
+02:22:49,0 --> 02:22:49,0
+any other man that ever lived in it. In the
 
 35
-00:04:37,176 --> 00:04:43,986
- translated by the gift and power of God, and has
+02:22:49,0 --> 02:22:49,0
+short space of twenty years, he has brought
 
 36
-00:04:43,986 --> 00:04:50,796
- been the means of publishing it on two continents;
+02:22:49,0 --> 02:22:49,0
+forth the Book of Mormon, which he
 
 37
-00:04:50,796 --> 00:04:57,606
- has sent the fulness of the everlasting gospel,
+02:22:49,0 --> 02:22:49,0
+translated by the gift and power of God, and has
 
 38
-00:04:57,606 --> 00:05:04,416
- which it contained, to the four quarters of the
+02:22:49,0 --> 02:22:49,0
+been the means of publishing it on two
 
 39
-00:05:04,416 --> 00:05:11,226
- earth; has brought forth the revelations and
+02:22:49,0 --> 02:22:49,0
+continents; has sent the fulness of the
 
 40
-00:05:11,226 --> 00:05:18,036
- commandments which compose this book of Doctrine and
+02:22:49,0 --> 02:22:49,0
+everlasting gospel, which it contained, to the four
 
 41
-00:05:18,036 --> 00:05:24,846
- Covenants, and many other wise documents and
+02:22:49,0 --> 02:22:49,0
+quarters of the earth; has brought forth
 
 42
-00:05:24,846 --> 00:05:31,656
- instructions for the benefit of the children of men; gathered
+02:22:49,0 --> 02:22:49,0
+the revelations and commandments which
 
 43
-00:05:31,656 --> 00:05:38,466
- many thousands of the Latter-day Saints, founded
+02:22:49,0 --> 02:22:49,0
+compose this book of Doctrine and Covenants, and
 
 44
-00:05:38,466 --> 00:05:45,276
- a great city, and left a fame and name that cannot
+02:22:49,0 --> 02:22:49,0
+many other wise documents and instructions
 
 45
-00:05:45,276 --> 00:05:52,086
- be slain. He lived great, and he died great in
+02:22:49,0 --> 02:22:49,0
+for the benefit of the children of men;
 
 46
-00:05:52,086 --> 00:05:58,896
- the eyes of God and his people; and like most of the
+02:22:49,0 --> 02:22:49,0
+gathered many thousands of the Latter-day
 
 47
-00:05:58,896 --> 00:06:05,706
- Lord’s anointed in ancient times, has sealed his
+02:22:49,0 --> 02:22:49,0
+Saints, founded a great city, and left a fame
 
 48
-00:06:05,706 --> 00:06:12,516
- mission and his works with his own blood; and so
+02:22:49,0 --> 02:22:49,0
+and name that cannot be slain. He lived
 
 49
-00:06:12,516 --> 00:06:19,326
- has his brother Hyrum. In life they were not
+02:22:49,0 --> 02:22:49,0
+great, and he died great in the eyes of God and
 
 50
-00:06:19,326 --> 00:06:26,136
- divided, and in death they were not separated
+02:22:49,0 --> 02:22:49,0
+his people; and like most of the Lord’s
 
 51
-00:06:26,97 --> 00:06:37,697
-4 When Joseph went to Carthage to deliver himself
+02:22:49,0 --> 02:22:49,0
+anointed in ancient times, has sealed his
 
 52
-00:06:37,697 --> 00:06:48,424
- up to the pretended requirements of the law, two
+02:22:49,0 --> 02:22:49,0
+mission and his works with his own blood; and
 
 53
-00:06:48,424 --> 00:06:59,151
- or three days previous to his assassination, he
+02:22:49,0 --> 02:22:49,0
+so has his brother Hyrum. In life they were
 
 54
-00:06:59,151 --> 00:07:09,878
- said: “I am going like a lamb to the slaughter; but I
+02:22:49,0 --> 03:17:46,
+not divided, and in death they were not separated!
 
 55
-00:07:09,878 --> 00:07:20,605
- am calm as a summer’s morning; I have a
+03:17:46,0 --> 03:17:46,0
+4 When Joseph went to Carthage to deliver
 
 56
-00:07:20,605 --> 00:07:31,332
- conscience void of offense towards God, and towards all
+03:17:46,0 --> 03:17:46,0
+himself up to the pretended requirements
 
 57
-00:07:31,332 --> 00:07:42,059
- men. I shall die innocent, and it shall yet be said
+03:17:46,0 --> 03:17:46,0
+of the law, two or three days previous to
 
 58
-00:07:42,059 --> 00:07:52,786
- of me—he was murdered in cold blood.”—The same
+03:17:46,0 --> 03:17:46,0
+his assassination, he said: “I am going
 
 59
-00:07:52,786 --> 00:08:03,513
- morning, after Hyrum had made ready to go—shall it be
+03:17:46,0 --> 03:17:46,0
+like a lamb to the slaughter; but I am calm
 
 60
-00:08:03,513 --> 00:08:14,24
- said to the slaughter? yes, for so it was—he read
+03:17:46,0 --> 03:17:46,0
+as a summer’s morning; I have a conscience
 
 61
-00:08:14,24 --> 00:08:24,967
- the following paragraph, near the close of the
+03:17:46,0 --> 03:17:46,0
+void of offense towards God, and towards
 
 62
-00:08:24,371 --> 00:08:31,371
-5 And it came to pass that I prayed unto the Lord
+03:17:46,0 --> 03:17:46,0
+all men. I shall die innocent, and it shall
 
 63
-00:08:31,371 --> 00:08:38,371
- that he would give unto the Gentiles grace, that
+03:17:46,0 --> 03:17:46,0
+yet be said of me—he was murdered in cold
 
 64
-00:08:38,371 --> 00:08:45,371
- they might have charity. And it came to pass that
+03:17:46,0 --> 03:17:46,0
+blood.”—The same morning, after Hyrum had
 
 65
-00:08:45,371 --> 00:08:52,371
- the Lord said unto me: If they have not charity it
+03:17:46,0 --> 03:17:46,0
+made ready to go—shall it be said to the
 
 66
-00:08:52,371 --> 00:08:59,371
- mattereth not unto thee, thou hast been faithful;
+03:17:46,0 --> 03:17:46,0
+slaughter? yes, for so it was—he read the
 
 67
-00:08:59,371 --> 00:09:06,371
- wherefore thy garments shall be made clean. And
+03:17:46,0 --> 04:09:47,
+following paragraph, near the close of the 
 
 68
-00:09:06,371 --> 00:09:13,371
- because thou hast seen thy weakness, thou shalt be
+04:09:47,0 --> 04:09:47,0
+5 And it came to pass that I prayed unto
 
 69
-00:09:13,371 --> 00:09:20,371
- made strong, even unto the sitting down in the
+04:09:47,0 --> 04:09:47,0
+the Lord that he would give unto the
 
 70
-00:09:20,371 --> 00:09:27,371
- place which I have prepared in the mansions of my
+04:09:47,0 --> 04:09:47,0
+Gentiles grace, that they might have
 
 71
-00:09:27,371 --> 00:09:34,371
- Father. And now I … bid farewell unto the Gentiles;
+04:09:47,0 --> 04:09:47,0
+charity. And it came to pass that the Lord
 
 72
-00:09:34,371 --> 00:09:41,371
- yea, and also unto my brethren whom I love, until we
+04:09:47,0 --> 04:09:47,0
+said unto me: If they have not charity it
 
 73
-00:09:41,371 --> 00:09:48,371
- shall meet before the judgment-seat of Christ,
+04:09:47,0 --> 04:09:47,0
+mattereth not unto thee, thou hast been
 
 74
-00:09:48,371 --> 00:09:55,371
- where all men shall know that my garments are not
+04:09:47,0 --> 04:09:47,0
+faithful; wherefore thy garments shall
 
 75
-00:09:55,371 --> 00:10:02,371
- spotted with your blood. The testators are now dead,
+04:09:47,0 --> 04:09:47,0
+be made clean. And because thou hast seen
 
 76
-00:10:02,371 --> 00:10:09,371
- and their testament is in force
+04:09:47,0 --> 04:09:47,0
+thy weakness, thou shalt be made
 
 77
-00:10:09,058 --> 00:10:18,191
-6 Hyrum Smith was forty-four years old in
+04:09:47,0 --> 04:09:47,0
+strong, even unto the sitting down in the
 
 78
-00:10:18,191 --> 00:10:27,324
- February, 1844, and Joseph Smith was thirty-eight in
+04:09:47,0 --> 04:09:47,0
+place which I have prepared in the mansions
 
 79
-00:10:27,324 --> 00:10:36,457
- December, 1843; and henceforward their names will be
+04:09:47,0 --> 04:09:47,0
+of my Father. And now I … bid farewell
 
 80
-00:10:36,457 --> 00:10:45,59
- classed among the martyrs of religion; and the
+04:09:47,0 --> 04:09:47,0
+unto the Gentiles; yea, and also unto my
 
 81
-00:10:45,59 --> 00:10:54,723
- reader in every nation will be reminded that the Book
+04:09:47,0 --> 04:09:47,0
+brethren whom I love, until we shall
 
 82
-00:10:54,723 --> 00:11:03,856
- of Mormon, and this book of Doctrine and Covenants
+04:09:47,0 --> 04:09:47,0
+meet before the judgment-seat of Christ,
 
 83
-00:11:03,856 --> 00:11:12,989
- of the church, cost the best blood of the
+04:09:47,0 --> 04:09:47,0
+where all men shall know that my garments
 
 84
-00:11:12,989 --> 00:11:22,122
- nineteenth century to bring them forth for the salvation
+04:09:47,0 --> 04:09:47,0
+are not spotted with your blood. The
 
 85
-00:11:22,122 --> 00:11:31,255
- of a ruined world; and that if the fire can scathe
+04:09:47,0 --> 04:20:47,
+testators are now dead, and their testament is in force.
 
 86
-00:11:31,255 --> 00:11:40,388
- a green tree for the glory of God, how easy it
+04:20:47,0 --> 04:20:47,0
+6 Hyrum Smith was forty-four years old
 
 87
-00:11:40,388 --> 00:11:49,521
- will burn up the dry trees to purify the vineyard of
+04:20:47,0 --> 04:20:47,0
+in February, 1844, and Joseph Smith
 
 88
-00:11:49,521 --> 00:11:58,654
- corruption. They lived for glory; they died for
+04:20:47,0 --> 04:20:47,0
+was thirty-eight in December, 1843; and
 
 89
-00:11:58,654 --> 00:12:07,787
- glory; and glory is their eternal reward. From age
+04:20:47,0 --> 04:20:47,0
+henceforward their names will be
 
 90
-00:12:07,787 --> 00:12:16,92
- to age shall their names go down to posterity as
+04:20:47,0 --> 04:20:47,0
+classed among the martyrs of religion; and
 
 91
-00:12:16,92 --> 00:12:26,053
- gems for the sanctified
+04:20:47,0 --> 04:20:47,0
+the reader in every nation will be
 
 92
-00:12:26,93 --> 00:12:33,152
-7 They were innocent of any crime, as they had
+04:20:47,0 --> 04:20:47,0
+reminded that the Book of Mormon, and
 
 93
-00:12:33,152 --> 00:12:39,374
- often been proved before, and were only confined in
+04:20:47,0 --> 04:20:47,0
+this book of Doctrine and Covenants of
 
 94
-00:12:39,374 --> 00:12:45,596
- jail by the conspiracy of traitors and wicked men;
+04:20:47,0 --> 04:20:47,0
+the church, cost the best blood of the
 
 95
-00:12:45,596 --> 00:12:51,818
- and their innocent blood on the floor of Carthage
+04:20:47,0 --> 04:20:47,0
+nineteenth century to bring them forth
 
 96
-00:12:51,818 --> 00:12:58,04
- jail is a broad seal affixed to “Mormonism” that
+04:20:47,0 --> 04:20:47,0
+for the salvation of a ruined world;
 
 97
-00:12:58,04 --> 00:13:04,262
- cannot be rejected by any court on earth, and their
+04:20:47,0 --> 04:20:47,0
+and that if the fire can scathe a
 
 98
-00:13:04,262 --> 00:13:10,484
- innocent blood on the escutcheon of the State of
+04:20:47,0 --> 04:20:47,0
+green tree for the glory of God, how easy
 
 99
-00:13:10,484 --> 00:13:16,706
- Illinois, with the broken faith of the State as
+04:20:47,0 --> 04:20:47,0
+it will burn up the dry trees to
 
 100
-00:13:16,706 --> 00:13:22,928
- pledged by the governor, is a witness to the truth
+04:20:47,0 --> 04:20:47,0
+purify the vineyard of corruption. They
 
 101
-00:13:22,928 --> 00:13:29,15
- of the everlasting gospel that all the world cannot
+04:20:47,0 --> 04:20:47,0
+lived for glory; they died for glory; and
 
 102
-00:13:29,15 --> 00:13:35,372
- impeach; and their innocent blood on the banner
+04:20:47,0 --> 04:20:47,0
+glory is their eternal reward. From
 
 103
-00:13:35,372 --> 00:13:41,594
- of liberty, and on the magna charta of the United
+04:20:47,0 --> 04:20:47,0
+age to age shall their names go down to
 
 104
-00:13:41,594 --> 00:13:47,816
- States, is an ambassador for the religion of Jesus
+04:20:47,0 --> 04:39:46,
+posterity as gems for the sanctified.
 
 105
-00:13:47,816 --> 00:13:54,038
- Christ, that will touch the hearts of honest men
+04:39:46,0 --> 04:39:46,0
+7 They were innocent of any crime, as
 
 106
-00:13:54,038 --> 00:14:00,26
- among all nations; and their innocent blood, with
+04:39:46,0 --> 04:39:46,0
+they had often been proved before,
 
 107
-00:14:00,26 --> 00:14:06,482
- the innocent blood of all the martyrs under the
+04:39:46,0 --> 04:39:46,0
+and were only confined in jail by the
 
 108
-00:14:06,482 --> 00:14:12,704
- altar that John saw, will cry unto the Lord of Hosts
+04:39:46,0 --> 04:39:46,0
+conspiracy of traitors and wicked
 
 109
-00:14:12,704 --> 00:14:18,926
- till he avenges that blood on the earth. Amen.
+04:39:46,0 --> 04:39:46,0
+men; and their innocent blood on the
+
+110
+04:39:46,0 --> 04:39:46,0
+floor of Carthage jail is a broad seal
+
+111
+04:39:46,0 --> 04:39:46,0
+affixed to “Mormonism” that cannot be
+
+112
+04:39:46,0 --> 04:39:46,0
+rejected by any court on earth, and
+
+113
+04:39:46,0 --> 04:39:46,0
+their innocent blood on the escutcheon
+
+114
+04:39:46,0 --> 04:39:46,0
+of the State of Illinois, with the
+
+115
+04:39:46,0 --> 04:39:46,0
+broken faith of the State as pledged
+
+116
+04:39:46,0 --> 04:39:46,0
+by the governor, is a witness to the
+
+117
+04:39:46,0 --> 04:39:46,0
+truth of the everlasting gospel that
+
+118
+04:39:46,0 --> 04:39:46,0
+all the world cannot impeach; and
+
+119
+04:39:46,0 --> 04:39:46,0
+their innocent blood on the banner of
+
+120
+04:39:46,0 --> 04:39:46,0
+liberty, and on the magna charta of the
+
+121
+04:39:46,0 --> 04:39:46,0
+United States, is an ambassador for
+
+122
+04:39:46,0 --> 04:39:46,0
+the religion of Jesus Christ, that
+
+123
+04:39:46,0 --> 04:39:46,0
+will touch the hearts of honest men
+
+124
+04:39:46,0 --> 04:39:46,0
+among all nations; and their innocent
+
+125
+04:39:46,0 --> 04:39:46,0
+blood, with the innocent blood of all
+
+126
+04:39:46,0 --> 04:39:46,0
+the martyrs under the altar that John
+
+127
+04:39:46,0 --> 04:39:46,0
+saw, will cry unto the Lord of Hosts
+
+128
+04:39:46,0 --> 06:18:35,
+till he avenges that blood on the earth. Amen. 
 

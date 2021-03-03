@@ -1,371 +1,919 @@
 1
-00:00:11,278 --> 00:00:17,635
+00:00:00,0 --> 00:00:00,0
 Section 27 Revelation given to Joseph Smith the
 
 2
-00:00:17,635 --> 00:00:23,992
- Prophet, at Harmony, Pennsylvania, August 1830. In
+00:00:00,0 --> 00:00:00,0
+Prophet, at Harmony, Pennsylvania, August
 
 3
-00:00:23,992 --> 00:00:30,349
- preparation for a religious service at which the
+00:00:00,0 --> 00:00:00,0
+1830. In preparation for a religious service at
 
 4
-00:00:30,349 --> 00:00:36,706
- sacrament of bread and wine was to be administered,
+00:00:00,0 --> 00:00:00,0
+which the sacrament of bread and wine was to be
 
 5
-00:00:36,706 --> 00:00:43,063
- Joseph set out to procure wine. He was met by a
+00:00:00,0 --> 00:00:00,0
+administered, Joseph set out to procure wine. He
 
 6
-00:00:43,063 --> 00:00:49,42
- heavenly messenger and received this revelation, a
+00:00:00,0 --> 00:00:00,0
+was met by a heavenly messenger and received
 
 7
-00:00:49,42 --> 00:00:55,777
- portion of which was written at the time and the
+00:00:00,0 --> 00:00:00,0
+this revelation, a portion of which was written
 
 8
-00:00:55,777 --> 00:01:02,134
- remainder in the September following. Water is now
+00:00:00,0 --> 00:00:00,0
+at the time and the remainder in the September
 
 9
-00:01:02,134 --> 00:01:08,491
- used instead of wine in the sacramental services of
+00:00:00,0 --> 00:00:00,0
+following. Water is now used instead of wine in
 
 10
-00:01:08,491 --> 00:01:14,848
- the Church. 
-1–4, The emblems to be used in
+00:00:00,0 --> 00:00:00,0
+the sacramental services of the Church. 
+1–4,
 
 11
-00:01:14,848 --> 00:01:21,205
- partaking of the sacrament are set forth; 
-5–14, Christ
+00:00:00,0 --> 00:00:00,0
+The emblems to be used in partaking of the
 
 12
-00:01:21,205 --> 00:01:27,562
- and His servants from all dispensations are to
+00:00:00,0 --> 00:00:00,0
+sacrament are set forth; 
+5–14, Christ and His
 
 13
-00:01:27,562 --> 00:01:33,919
- partake of the sacrament; 
-15–18, Put on the whole
+00:00:00,0 --> 00:00:00,0
+servants from all dispensations are to partake of
 
 14
-00:01:33,919 --> 00:01:40,276
- armor of God.
+00:00:00,0 --> 00:49:00,
+the sacrament; 
+15–18, Put on the whole armor of God. 
 
 15
-00:01:40,5 --> 00:01:45,167
-1 Listen to the voice of Jesus Christ, your Lord,
+00:49:00,0 --> 00:49:00,0
+1 Listen to the voice of Jesus
 
 16
-00:01:45,167 --> 00:01:49,834
- your God, and your Redeemer, whose word is quick
+00:49:00,0 --> 00:49:00,0
+Christ, your Lord, your God, and your
 
 17
-00:01:49,834 --> 00:01:54,501
- and powerful
+00:49:00,0 --> 00:48:32,
+Redeemer, whose word is quick and powerful.
 
 18
-00:01:54,781 --> 00:01:59,21
-2 For, behold, I say unto you, that it mattereth
+00:48:32,0 --> 00:48:32,0
+2 For, behold, I say unto you,
 
 19
-00:01:59,21 --> 00:02:03,639
- not what ye shall eat or what ye shall drink when
+00:48:32,0 --> 00:48:32,0
+that it mattereth not what ye shall
 
 20
-00:02:03,639 --> 00:02:08,068
- ye partake of the sacrament, if it so be that ye do
+00:48:32,0 --> 00:48:32,0
+eat or what ye shall drink when ye
 
 21
-00:02:08,068 --> 00:02:12,497
- it with an eye single to my glory—remembering
+00:48:32,0 --> 00:48:32,0
+partake of the sacrament, if it so
 
 22
-00:02:12,497 --> 00:02:16,926
- unto the Father my body which was laid down for you,
+00:48:32,0 --> 00:48:32,0
+be that ye do it with an eye
 
 23
-00:02:16,926 --> 00:02:21,355
- and my blood which was shed for the remission of
+00:48:32,0 --> 00:48:32,0
+single to my glory—remembering unto
 
 24
-00:02:21,355 --> 00:02:25,784
- your sins
+00:48:32,0 --> 00:48:32,0
+the Father my body which was laid
 
 25
-00:02:25,012 --> 00:02:28,679
-3 Wherefore, a commandment I give unto you, that
+00:48:32,0 --> 00:48:32,0
+down for you, and my blood which was
 
 26
-00:02:28,679 --> 00:02:32,346
- you shall not purchase wine neither strong drink of
+00:48:32,0 --> 00:48:04,
+shed for the remission of your sins.
 
 27
-00:02:32,346 --> 00:02:36,013
- your enemies
+00:48:04,0 --> 00:48:04,0
+3 Wherefore, a commandment I
 
 28
-00:02:36,523 --> 00:02:42,19
-4 Wherefore, you shall partake of none except it
+00:48:04,0 --> 00:48:04,0
+give unto you, that you
 
 29
-00:02:42,19 --> 00:02:47,857
- is made new among you; yea, in this my Father’s
+00:48:04,0 --> 00:48:04,0
+shall not purchase wine neither
 
 30
-00:02:47,857 --> 00:02:53,524
- kingdom which shall be built up on the earth
+00:48:04,0 --> 00:49:16,
+strong drink of your enemies;
 
 31
-00:02:53,073 --> 00:02:59,502
-5 Behold, this is wisdom in me; wherefore, marvel
+00:49:16,0 --> 00:49:16,0
+4 Wherefore, you shall
 
 32
-00:02:59,502 --> 00:03:05,931
- not, for the hour cometh that I will drink of the
+00:49:16,0 --> 00:49:16,0
+partake of none except
 
 33
-00:03:05,931 --> 00:03:12,36
- fruit of the vine with you on the earth, and with
+00:49:16,0 --> 00:49:16,0
+it is made new among
 
 34
-00:03:12,36 --> 00:03:18,789
- Moroni, whom I have sent unto you to reveal the
+00:49:16,0 --> 00:49:16,0
+you; yea, in this my
 
 35
-00:03:18,789 --> 00:03:25,218
- Book of Mormon, containing the fulness of my
+00:49:16,0 --> 00:49:16,0
+Father’s kingdom which
 
 36
-00:03:25,218 --> 00:03:31,647
- everlasting gospel, to whom I have committed the keys of
+00:49:16,0 --> 00:48:48,
+shall be built up on the earth.
 
 37
-00:03:31,647 --> 00:03:38,076
- the record of the stick of Ephraim
+00:48:48,0 --> 00:48:48,0
+5 Behold, this is
 
 38
-00:03:38,719 --> 00:03:43,918
-6 And also with Elias, to whom I have committed
+00:48:48,0 --> 00:48:48,0
+wisdom in me; wherefore,
 
 39
-00:03:43,918 --> 00:03:49,119
- the keys of bringing to pass the restoration of all
+00:48:48,0 --> 00:48:48,0
+marvel not, for the
 
 40
-00:03:49,119 --> 00:03:54,319
- things spoken by the mouth of all the holy
+00:48:48,0 --> 00:48:48,0
+hour cometh that I will
 
 41
-00:03:54,319 --> 00:03:59,519
- prophets since the world began, concerning the last days
+00:48:48,0 --> 00:48:48,0
+drink of the fruit of
 
 42
-00:03:59,519 --> 00:04:04,719
-
+00:48:48,0 --> 00:48:48,0
+the vine with you on
 
 43
-00:04:04,978 --> 00:04:11,978
-7 And also John the son of Zacharias, which
+00:48:48,0 --> 00:48:48,0
+the earth, and with
 
 44
-00:04:11,978 --> 00:04:18,978
- Zacharias he (Elias) visited and gave promise that he
+00:48:48,0 --> 00:48:48,0
+Moroni, whom I have sent
 
 45
-00:04:18,978 --> 00:04:25,978
- should have a son, and his name should be John, and
+00:48:48,0 --> 00:48:48,0
+unto you to reveal the
 
 46
-00:04:25,978 --> 00:04:32,978
- he should be filled with the spirit of Elias
+00:48:48,0 --> 00:48:48,0
+Book of Mormon,
 
 47
-00:04:32,672 --> 00:04:37,472
-8 Which John I have sent unto you, my servants,
+00:48:48,0 --> 00:48:48,0
+containing the fulness of my
 
 48
-00:04:37,472 --> 00:04:42,272
- Joseph Smith, Jun., and Oliver Cowdery, to ordain
+00:48:48,0 --> 00:48:48,0
+everlasting gospel,
 
 49
-00:04:42,272 --> 00:04:47,072
- you unto the first priesthood which you have
+00:48:48,0 --> 00:48:48,0
+to whom I have
 
 50
-00:04:47,072 --> 00:04:51,872
- received, that you might be called and ordained even as
+00:48:48,0 --> 00:48:48,0
+committed the keys of the
 
 51
-00:04:51,872 --> 00:04:56,672
- Aaron
+00:48:48,0 --> 00:48:20,
+record of the stick of Ephraim;
 
 52
-00:04:56,129 --> 00:05:02,529
-9 And also Elijah, unto whom I have committed the
+00:48:20,0 --> 00:48:20,0
+6 And also with
 
 53
-00:05:02,529 --> 00:05:08,929
- keys of the power of turning the hearts of the
+00:48:20,0 --> 00:48:20,0
+Elias, to whom I have
 
 54
-00:05:08,929 --> 00:05:15,329
- fathers to the children, and the hearts of the
+00:48:20,0 --> 00:48:20,0
+committed the keys of
 
 55
-00:05:15,329 --> 00:05:21,729
- children to the fathers, that the whole earth may not be
+00:48:20,0 --> 00:48:20,0
+bringing to pass the
 
 56
-00:05:21,729 --> 00:05:28,129
- smitten with a curse
+00:48:20,0 --> 00:48:20,0
+restoration of all
 
 57
-00:05:28,862 --> 00:05:36,195
-10 And also with Joseph and Jacob, and Isaac, and
+00:48:20,0 --> 00:48:20,0
+things spoken by the
 
 58
-00:05:36,195 --> 00:05:43,528
- Abraham, your fathers, by whom the promises
+00:48:20,0 --> 00:48:20,0
+mouth of all the
 
 59
-00:05:43,528 --> 00:05:50,861
- remain
+00:48:20,0 --> 00:48:20,0
+holy prophets since
 
 60
-00:05:50,116 --> 00:06:01,116
-11 And also with Michael, or Adam, the father of
+00:48:20,0 --> 00:48:20,0
+the world began,
 
 61
-00:06:01,116 --> 00:06:12,116
- all, the prince of all, the ancient of days
+00:48:20,0 --> 00:49:32,
+concerning the last days;
 
 62
-00:06:12,839 --> 00:06:19,172
-12 And also with Peter, and James, and John, whom
+00:49:32,0 --> 00:49:32,0
+7 And also John the
 
 63
-00:06:19,172 --> 00:06:25,505
- I have sent unto you, by whom I have ordained you
+00:49:32,0 --> 00:49:32,0
+son of Zacharias,
 
 64
-00:06:25,505 --> 00:06:31,838
- and confirmed you to be apostles, and especial
+00:49:32,0 --> 00:49:32,0
+which Zacharias he
 
 65
-00:06:31,838 --> 00:06:38,171
- witnesses of my name, and bear the keys of your
+00:49:32,0 --> 00:49:32,0
+(Elias) visited and
 
 66
-00:06:38,171 --> 00:06:44,504
- ministry and of the same things which I revealed unto
+00:49:32,0 --> 00:49:32,0
+gave promise that
 
 67
-00:06:44,504 --> 00:06:50,837
- them
+00:49:32,0 --> 00:49:32,0
+he should have a
 
 68
-00:06:50,043 --> 00:06:57,043
-13 Unto whom I have committed the keys of my
+00:49:32,0 --> 00:49:32,0
+son, and his name
 
 69
-00:06:57,043 --> 00:07:04,043
- kingdom, and a dispensation of the gospel for the last
+00:49:32,0 --> 00:49:32,0
+should be John, and he
 
 70
-00:07:04,043 --> 00:07:11,043
- times; and for the fulness of times, in the which
+00:49:32,0 --> 00:49:32,0
+should be filled
 
 71
-00:07:11,043 --> 00:07:18,043
- I will gather together in one all things, both
+00:49:32,0 --> 00:57:02,
+with the spirit of Elias;
 
 72
-00:07:18,043 --> 00:07:25,043
- which are in heaven, and which are on earth
+00:57:02,0 --> 00:57:02,0
+8 Which John I
 
 73
-00:07:25,478 --> 00:07:32,478
-14 And also with all those whom my Father hath
+00:57:02,0 --> 00:57:02,0
+have sent unto you,
 
 74
-00:07:32,478 --> 00:07:39,478
- given me out of the world
+00:57:02,0 --> 00:57:02,0
+my servants, Joseph
 
 75
-00:07:39,759 --> 00:07:48,759
-15 Wherefore, lift up your hearts and rejoice, and
+00:57:02,0 --> 00:57:02,0
+Smith, Jun., and
 
 76
-00:07:48,759 --> 00:07:57,759
- gird up your loins, and take upon you my whole
+00:57:02,0 --> 00:57:02,0
+Oliver Cowdery, to
 
 77
-00:07:57,759 --> 00:08:06,759
- armor, that ye may be able to withstand the evil
+00:57:02,0 --> 00:57:02,0
+ordain you unto
 
 78
-00:08:06,759 --> 00:08:15,759
- day, having done all, that ye may be able to stand
+00:57:02,0 --> 00:57:02,0
+the first
 
 79
-00:08:15,428 --> 00:08:21,428
-16 Stand, therefore, having your loins girt about
+00:57:02,0 --> 00:57:02,0
+priesthood which you have
 
 80
-00:08:21,428 --> 00:08:27,428
- with truth, having on the breastplate of
+00:57:02,0 --> 00:57:02,0
+received, that you
 
 81
-00:08:27,428 --> 00:08:33,428
- righteousness, and your feet shod with the preparation of
+00:57:02,0 --> 00:57:02,0
+might be called
 
 82
-00:08:33,428 --> 00:08:39,428
- the gospel of peace, which I have sent mine angels
+00:57:02,0 --> 01:12:30,
+and ordained even as Aaron;
 
 83
-00:08:39,428 --> 00:08:45,428
- to commit unto you
+01:12:30,0 --> 01:12:30,0
+9 And also
 
 84
-00:08:45,125 --> 00:08:50,792
-17 Taking the shield of faith wherewith ye shall
+01:12:30,0 --> 01:12:30,0
+Elijah, unto whom I
 
 85
-00:08:50,792 --> 00:08:56,459
- be able to quench all the fiery darts of the
+01:12:30,0 --> 01:12:30,0
+have committed the
 
 86
-00:08:56,459 --> 00:09:02,126
- wicked
+01:12:30,0 --> 01:12:30,0
+keys of the power
 
 87
-00:09:02,142 --> 00:09:08,475
-18 And take the helmet of salvation, and the sword
+01:12:30,0 --> 01:12:30,0
+of turning the
 
 88
-00:09:08,475 --> 00:09:14,808
- of my Spirit, which I will pour out upon you, and
+01:12:30,0 --> 01:12:30,0
+hearts of the
 
 89
-00:09:14,808 --> 00:09:21,141
- my word which I reveal unto you, and be agreed as
+01:12:30,0 --> 01:12:30,0
+fathers to the
 
 90
-00:09:21,141 --> 00:09:27,474
- touching all things whatsoever ye ask of me, and
+01:12:30,0 --> 01:12:30,0
+children, and the hearts
 
 91
-00:09:27,474 --> 00:09:33,807
- be faithful until I come, and ye shall be caught
+01:12:30,0 --> 01:12:30,0
+of the children
 
 92
-00:09:33,807 --> 00:09:40,14
- up, that where I am ye shall be also. Amen.
+01:12:30,0 --> 01:12:30,0
+to the fathers,
+
+93
+01:12:30,0 --> 01:12:30,0
+that the whole
+
+94
+01:12:30,0 --> 01:12:30,0
+earth may not be
+
+95
+01:12:30,0 --> 01:17:41,
+smitten with a curse;
+
+96
+01:17:41,0 --> 01:17:41,0
+10 And also with
+
+97
+01:17:41,0 --> 01:17:41,0
+Joseph and
+
+98
+01:17:41,0 --> 01:17:41,0
+Jacob, and Isaac,
+
+99
+01:17:41,0 --> 01:17:41,0
+and Abraham, your
+
+100
+01:17:41,0 --> 01:17:41,0
+fathers, by whom
+
+101
+01:17:41,0 --> 01:25:53,
+the promises remain;
+
+102
+01:25:53,0 --> 01:25:53,0
+11 And also
+
+103
+01:25:53,0 --> 01:25:53,0
+with Michael, or
+
+104
+01:25:53,0 --> 01:25:53,0
+Adam, the father
+
+105
+01:25:53,0 --> 01:25:53,0
+of all, the
+
+106
+01:25:53,0 --> 01:25:53,0
+prince of all,
+
+107
+01:25:53,0 --> 01:48:58,
+the ancient of days;
+
+108
+01:48:58,0 --> 01:48:58,0
+12 And also
+
+109
+01:48:58,0 --> 01:48:58,0
+with Peter, and
+
+110
+01:48:58,0 --> 01:48:58,0
+James, and
+
+111
+01:48:58,0 --> 01:48:58,0
+John, whom I have
+
+112
+01:48:58,0 --> 01:48:58,0
+sent unto
+
+113
+01:48:58,0 --> 01:48:58,0
+you, by whom I
+
+114
+01:48:58,0 --> 01:48:58,0
+have ordained
+
+115
+01:48:58,0 --> 01:48:58,0
+you and
+
+116
+01:48:58,0 --> 01:48:58,0
+confirmed you to be
+
+117
+01:48:58,0 --> 01:48:58,0
+apostles, and
+
+118
+01:48:58,0 --> 01:48:58,0
+especial
+
+119
+01:48:58,0 --> 01:48:58,0
+witnesses of my name,
+
+120
+01:48:58,0 --> 01:48:58,0
+and bear the
+
+121
+01:48:58,0 --> 01:48:58,0
+keys of your
+
+122
+01:48:58,0 --> 01:48:58,0
+ministry and of
+
+123
+01:48:58,0 --> 01:48:58,0
+the same
+
+124
+01:48:58,0 --> 02:02:07,
+things which I revealed unto them;
+
+125
+02:02:07,0 --> 02:02:07,0
+13 Unto whom
+
+126
+02:02:07,0 --> 02:02:07,0
+I have
+
+127
+02:02:07,0 --> 02:02:07,0
+committed the keys
+
+128
+02:02:07,0 --> 02:02:07,0
+of my
+
+129
+02:02:07,0 --> 02:02:07,0
+kingdom, and a
+
+130
+02:02:07,0 --> 02:02:07,0
+dispensation of
+
+131
+02:02:07,0 --> 02:02:07,0
+the gospel for
+
+132
+02:02:07,0 --> 02:02:07,0
+the last
+
+133
+02:02:07,0 --> 02:02:07,0
+times; and for
+
+134
+02:02:07,0 --> 02:02:07,0
+the fulness of
+
+135
+02:02:07,0 --> 02:02:07,0
+times, in the
+
+136
+02:02:07,0 --> 02:02:07,0
+which I will
+
+137
+02:02:07,0 --> 02:02:07,0
+gather
+
+138
+02:02:07,0 --> 02:02:07,0
+together in one
+
+139
+02:02:07,0 --> 02:02:07,0
+all things,
+
+140
+02:02:07,0 --> 02:02:07,0
+both which are
+
+141
+02:02:07,0 --> 02:02:07,0
+in heaven, and
+
+142
+02:02:07,0 --> 02:09:15,
+which are on earth;
+
+143
+02:09:15,0 --> 02:09:15,0
+14 And also
+
+144
+02:09:15,0 --> 02:09:15,0
+with all
+
+145
+02:09:15,0 --> 02:09:15,0
+those whom my
+
+146
+02:09:15,0 --> 02:09:15,0
+Father hath
+
+147
+02:09:15,0 --> 02:09:15,0
+given me out
+
+148
+02:09:15,0 --> 02:15:26,
+of the world.
+
+149
+02:15:26,0 --> 02:15:26,0
+15
+
+150
+02:15:26,0 --> 02:15:26,0
+Wherefore, lift up
+
+151
+02:15:26,0 --> 02:15:26,0
+your hearts
+
+152
+02:15:26,0 --> 02:15:26,0
+and
+
+153
+02:15:26,0 --> 02:15:26,0
+rejoice, and gird
+
+154
+02:15:26,0 --> 02:15:26,0
+up your
+
+155
+02:15:26,0 --> 02:15:26,0
+loins, and
+
+156
+02:15:26,0 --> 02:15:26,0
+take upon you
+
+157
+02:15:26,0 --> 02:15:26,0
+my whole
+
+158
+02:15:26,0 --> 02:15:26,0
+armor, that
+
+159
+02:15:26,0 --> 02:15:26,0
+ye may be
+
+160
+02:15:26,0 --> 02:15:26,0
+able to
+
+161
+02:15:26,0 --> 02:15:26,0
+withstand the
+
+162
+02:15:26,0 --> 02:15:26,0
+evil day,
+
+163
+02:15:26,0 --> 02:15:26,0
+having done
+
+164
+02:15:26,0 --> 02:15:26,0
+all, that ye
+
+165
+02:15:26,0 --> 02:27:37,
+may be able to stand.
+
+166
+02:27:37,0 --> 02:27:37,0
+16 Stand,
+
+167
+02:27:37,0 --> 02:27:37,0
+therefore,
+
+168
+02:27:37,0 --> 02:27:37,0
+having
+
+169
+02:27:37,0 --> 02:27:37,0
+your loins
+
+170
+02:27:37,0 --> 02:27:37,0
+girt about
+
+171
+02:27:37,0 --> 02:27:37,0
+with
+
+172
+02:27:37,0 --> 02:27:37,0
+truth, having
+
+173
+02:27:37,0 --> 02:27:37,0
+on the
+
+174
+02:27:37,0 --> 02:27:37,0
+breastplate of
+
+175
+02:27:37,0 --> 02:27:37,0
+
+
+176
+02:27:37,0 --> 02:27:37,0
+righteousness, and
+
+177
+02:27:37,0 --> 02:27:37,0
+your feet
+
+178
+02:27:37,0 --> 02:27:37,0
+shod with
+
+179
+02:27:37,0 --> 02:27:37,0
+the
+
+180
+02:27:37,0 --> 02:27:37,0
+preparation of
+
+181
+02:27:37,0 --> 02:27:37,0
+the gospel
+
+182
+02:27:37,0 --> 02:27:37,0
+of peace,
+
+183
+02:27:37,0 --> 02:27:37,0
+which I
+
+184
+02:27:37,0 --> 02:27:37,0
+have sent
+
+185
+02:27:37,0 --> 02:43:47,
+mine angels to commit unto you;
+
+186
+02:43:47,0 --> 02:43:47,0
+17 Taking
+
+187
+02:43:47,0 --> 02:43:47,0
+the
+
+188
+02:43:47,0 --> 02:43:47,0
+shield of
+
+189
+02:43:47,0 --> 02:43:47,0
+faith
+
+190
+02:43:47,0 --> 02:43:47,0
+wherewith ye
+
+191
+02:43:47,0 --> 02:43:47,0
+shall be
+
+192
+02:43:47,0 --> 02:43:47,0
+able to
+
+193
+02:43:47,0 --> 02:43:47,0
+quench all
+
+194
+02:43:47,0 --> 02:43:47,0
+the fiery
+
+195
+02:43:47,0 --> 02:43:47,0
+darts of
+
+196
+02:43:47,0 --> 02:51:16,
+the wicked;
+
+197
+02:51:16,0 --> 02:51:16,0
+18 And
+
+198
+02:51:16,0 --> 02:51:16,0
+take the
+
+199
+02:51:16,0 --> 02:51:16,0
+helmet
+
+200
+02:51:16,0 --> 02:51:16,0
+of
+
+201
+02:51:16,0 --> 02:51:16,0
+salvation, and
+
+202
+02:51:16,0 --> 02:51:16,0
+the
+
+203
+02:51:16,0 --> 02:51:16,0
+sword of my
+
+204
+02:51:16,0 --> 02:51:16,0
+Spirit,
+
+205
+02:51:16,0 --> 02:51:16,0
+which I
+
+206
+02:51:16,0 --> 02:51:16,0
+will
+
+207
+02:51:16,0 --> 02:51:16,0
+pour out
+
+208
+02:51:16,0 --> 02:51:16,0
+upon you,
+
+209
+02:51:16,0 --> 02:51:16,0
+and my
+
+210
+02:51:16,0 --> 02:51:16,0
+word
+
+211
+02:51:16,0 --> 02:51:16,0
+which I
+
+212
+02:51:16,0 --> 02:51:16,0
+reveal unto
+
+213
+02:51:16,0 --> 02:51:16,0
+you,
+
+214
+02:51:16,0 --> 02:51:16,0
+and be
+
+215
+02:51:16,0 --> 02:51:16,0
+agreed as
+
+216
+02:51:16,0 --> 02:51:16,0
+touching
+
+217
+02:51:16,0 --> 02:51:16,0
+all
+
+218
+02:51:16,0 --> 02:51:16,0
+things
+
+219
+02:51:16,0 --> 02:51:16,0
+whatsoever ye
+
+220
+02:51:16,0 --> 02:51:16,0
+ask of
+
+221
+02:51:16,0 --> 02:51:16,0
+me, and
+
+222
+02:51:16,0 --> 02:51:16,0
+be
+
+223
+02:51:16,0 --> 02:51:16,0
+faithful
+
+224
+02:51:16,0 --> 02:51:16,0
+until I
+
+225
+02:51:16,0 --> 02:51:16,0
+come, and ye
+
+226
+02:51:16,0 --> 02:51:16,0
+shall
+
+227
+02:51:16,0 --> 02:51:16,0
+be caught
+
+228
+02:51:16,0 --> 02:51:16,0
+up,
+
+229
+02:51:16,0 --> 02:53:28,
+that where I am ye shall be also. Amen. 
 
