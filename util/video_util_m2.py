@@ -43,9 +43,6 @@ def calabrate_thresh(video, thresh = 100):
             finished = True
     return thresh + 10
 
-
-
-
 def calculate_prob(previous_pixels, current_pixels, sensitivity = 5):#Sens = 5 for BofM
     differences = abs(len(previous_pixels)-len(current_pixels))
     if differences > sensitivity:# and len(differences) <100:
@@ -70,8 +67,6 @@ def find_backward(video, last_positions, max_frame, thresh):
         rate = int(-1 * start_size * video.fps)
         # print(rate, curr_f)
     return curr_f
-
-
 
 def find_forward(video, verse, start_frame, end_frame, inc_rate, last_positions, thresh):
     f = start_frame+200
@@ -108,8 +103,7 @@ def find_times(video, verses, log, thresh = 200):#Thresh = 150 for BofM
             positions = get_pixel_positions(video, start_frame+200, thresh, 'start')
         else:
             start_frame = verse.start_frame
-
-    
+ 
         # if verse.number > 0 and verse.start_frame is not None:
         #     start_frame += verse.start_frame
 
