@@ -1,205 +1,205 @@
 1
-00:00:00,0 --> 00:00:00,0
+00:00:00,0 --> 00:00:07,1
 Section 23 A series of five revelations given
 
 2
-00:00:00,0 --> 00:00:00,0
+00:00:07,1 --> 00:00:14,2
 through Joseph Smith the Prophet, at Manchester,
 
 3
-00:00:00,0 --> 00:00:00,0
+00:00:14,2 --> 00:00:21,3
 New York, April 1830, to Oliver Cowdery, Hyrum
 
 4
-00:00:00,0 --> 00:00:00,0
+00:00:21,3 --> 00:00:28,4
 Smith, Samuel H. Smith, Joseph Smith Sr., and
 
 5
-00:00:00,0 --> 00:00:00,0
+00:00:28,4 --> 00:00:35,5
 Joseph Knight Sr. As the result of earnest
 
 6
-00:00:00,0 --> 00:00:00,0
+00:00:35,5 --> 00:00:42,6
 desire on the part of the five persons named to
 
 7
-00:00:00,0 --> 00:00:00,0
+00:00:42,6 --> 00:00:49,7
 know of their respective duties, the Prophet
 
 8
-00:00:00,0 --> 00:00:00,0
+00:00:49,7 --> 00:00:56,8
 inquired of the Lord and received a revelation for
 
 9
-00:00:00,0 --> 00:00:00,0
+00:00:56,8 --> 00:01:03,9
 each person. 
 1–7, These early disciples are
 
 10
-00:00:00,0 --> 00:35:51,
+00:01:03,9 --> 00:01:11,772
 called to preach, exhort, and strengthen the Church. 
 
 11
-00:35:51,0 --> 00:35:51,0
+00:01:11,772 --> 00:01:17,022
 1 Behold, I speak unto you, Oliver, a few
 
 12
-00:35:51,0 --> 00:35:51,0
+00:01:17,022 --> 00:01:22,272
 words. Behold, thou art blessed, and art
 
 13
-00:35:51,0 --> 00:35:51,0
+00:01:22,272 --> 00:01:27,522
 under no condemnation. But beware of pride,
 
 14
-00:35:51,0 --> 00:46:01,
+00:01:27,522 --> 00:01:32,125
 lest thou shouldst enter into temptation.
 
 15
-00:46:01,0 --> 00:46:01,0
+00:01:32,125 --> 00:01:37,125
 2 Make known thy calling unto the
 
 16
-00:46:01,0 --> 00:46:01,0
+00:01:37,125 --> 00:01:42,125
 church, and also before the world, and thy
 
 17
-00:46:01,0 --> 00:46:01,0
+00:01:42,125 --> 00:01:47,125
 heart shall be opened to preach the
 
 18
-00:46:01,0 --> 00:56:11,
+00:01:47,125 --> 00:01:52,479
 truth from henceforth and forever. Amen.
 
 19
-00:56:11,0 --> 00:56:11,0
+00:01:52,479 --> 00:01:56,229
 3 Behold, I speak unto you, Hyrum, a
 
 20
-00:56:11,0 --> 00:56:11,0
+00:01:56,229 --> 00:01:59,979
 few words; for thou also art under no
 
 21
-00:56:11,0 --> 00:56:11,0
+00:01:59,979 --> 00:02:03,729
 condemnation, and thy heart is
 
 22
-00:56:11,0 --> 00:56:11,0
+00:02:03,729 --> 00:02:07,479
 opened, and thy tongue loosed; and thy
 
 23
-00:56:11,0 --> 00:56:11,0
+00:02:07,479 --> 00:02:11,229
 calling is to exhortation, and to
 
 24
-00:56:11,0 --> 00:56:11,0
+00:02:11,229 --> 00:02:14,979
 strengthen the church continually.
 
 25
-00:56:11,0 --> 00:56:11,0
+00:02:14,979 --> 00:02:18,729
 Wherefore thy duty is unto the church
 
 26
-00:56:11,0 --> 01:11:53,
+00:02:18,729 --> 00:02:22,709
 forever, and this because of thy family. Amen.
 
 27
-01:11:53,0 --> 01:11:53,0
+00:02:22,709 --> 00:02:26,709
 4 Behold, I speak a few words unto
 
 28
-01:11:53,0 --> 01:11:53,0
+00:02:26,709 --> 00:02:30,709
 you, Samuel; for thou also art under
 
 29
-01:11:53,0 --> 01:11:53,0
+00:02:30,709 --> 00:02:34,709
 no condemnation, and thy calling is
 
 30
-01:11:53,0 --> 01:11:53,0
+00:02:34,709 --> 00:02:38,709
 to exhortation, and to strengthen
 
 31
-01:11:53,0 --> 01:11:53,0
+00:02:38,709 --> 00:02:42,709
 the church; and thou art not as yet
 
 32
-01:11:53,0 --> 01:22:47,
+00:02:42,709 --> 00:02:46,166
 called to preach before the world. Amen.
 
 33
-01:22:47,0 --> 01:22:47,0
+00:02:46,166 --> 00:02:49,666
 5 Behold, I speak a few words unto
 
 34
-01:22:47,0 --> 01:22:47,0
+00:02:49,666 --> 00:02:53,166
 you, Joseph; for thou also art
 
 35
-01:22:47,0 --> 01:22:47,0
+00:02:53,166 --> 00:02:56,666
 under no condemnation, and thy calling
 
 36
-01:22:47,0 --> 01:22:47,0
+00:02:56,666 --> 00:03:00,166
 also is to exhortation, and to
 
 37
-01:22:47,0 --> 01:22:47,0
+00:03:00,166 --> 00:03:03,666
 strengthen the church; and this is thy
 
 38
-01:22:47,0 --> 01:34:16,
+00:03:03,666 --> 00:03:07,988
 duty from henceforth and forever. Amen.
 
 39
-01:34:16,0 --> 01:34:16,0
+00:03:07,988 --> 00:03:09,417
 6 Behold, I manifest unto you,
 
 40
-01:34:16,0 --> 01:34:16,0
+00:03:09,417 --> 00:03:10,846
 Joseph Knight, by these words, that
 
 41
-01:34:16,0 --> 01:34:16,0
+00:03:10,846 --> 00:03:12,275
 you must take up your cross, in
 
 42
-01:34:16,0 --> 01:34:16,0
+00:03:12,275 --> 00:03:13,704
 the which you must pray vocally
 
 43
-01:34:16,0 --> 01:34:16,0
+00:03:13,704 --> 00:03:15,133
 before the world as well as in
 
 44
-01:34:16,0 --> 01:34:16,0
+00:03:15,133 --> 00:03:16,562
 secret, and in your family, and
 
 45
-01:34:16,0 --> 01:49:58,
+00:03:16,562 --> 00:03:17,898
 among your friends, and in all places.
 
 46
-01:49:58,0 --> 01:49:58,0
+00:03:17,898 --> 00:03:21,731
 7 And, behold, it is your
 
 47
-01:49:58,0 --> 01:49:58,0
+00:03:21,731 --> 00:03:25,564
 duty to unite with the true
 
 48
-01:49:58,0 --> 01:49:58,0
+00:03:25,564 --> 00:03:29,397
 church, and give your
 
 49
-01:49:58,0 --> 01:49:58,0
+00:03:29,397 --> 00:03:33,23
 language to exhortation
 
 50
-01:49:58,0 --> 01:49:58,0
+00:03:33,23 --> 00:03:37,063
 continually, that you may receive
 
 51
-01:49:58,0 --> 02:01:55,
+00:03:37,063 --> 00:03:40,887
 the reward of the laborer. Amen. 
 

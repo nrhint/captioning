@@ -1,204 +1,204 @@
 1
-00:00:00,0 --> 00:00:00,0
+00:00:00,0 --> 00:00:02,615
 Section 48 Revelation given through Joseph
 
 2
-00:00:00,0 --> 00:00:00,0
+00:00:02,615 --> 00:00:05,23
 Smith the Prophet, at Kirtland, Ohio, March 10,
 
 3
-00:00:00,0 --> 00:00:00,0
+00:00:05,23 --> 00:00:07,845
 1831. The Prophet had inquired of the Lord as
 
 4
-00:00:00,0 --> 00:00:00,0
+00:00:07,845 --> 00:00:10,46
 to the mode of procedure in procuring lands for
 
 5
-00:00:00,0 --> 00:00:00,0
+00:00:10,46 --> 00:00:13,075
 the settlement of the Saints. This was an
 
 6
-00:00:00,0 --> 00:00:00,0
+00:00:13,075 --> 00:00:15,69
 important matter in view of the migration of
 
 7
-00:00:00,0 --> 00:00:00,0
+00:00:15,69 --> 00:00:18,305
 members of the Church from the eastern United
 
 8
-00:00:00,0 --> 00:00:00,0
+00:00:18,305 --> 00:00:20,92
 States, in obedience to the Lord’s command that
 
 9
-00:00:00,0 --> 00:00:00,0
+00:00:20,92 --> 00:00:23,535
 they should assemble in Ohio (see 
 sections
 
 10
-00:00:00,0 --> 00:00:00,0
+00:00:23,535 --> 00:00:26,15
 37:1–3; 
 45:64). 
 1–3, The Saints in Ohio are to
 
 11
-00:00:00,0 --> 00:00:00,0
+00:00:26,15 --> 00:00:28,765
 share their lands with their brethren; 
 4–6,
 
 12
-00:00:00,0 --> 00:00:00,0
+00:00:28,765 --> 00:00:31,38
 The Saints are to purchase lands, build a city,
 
 13
-00:00:00,0 --> 01:22:52,
+00:00:31,38 --> 00:00:34,985
 and follow the counsel of their presiding officers. 
 
 14
-01:22:52,0 --> 01:22:52,0
+00:00:34,985 --> 00:00:50,652
 1 It is necessary that ye should remain for
 
 15
-01:22:52,0 --> 01:22:52,0
+00:00:50,652 --> 00:01:06,319
 the present time in your places of abode, as
 
 16
-01:22:52,0 --> 01:33:25,
+00:01:06,319 --> 00:01:21,999
 it shall be suitable to your circumstances.
 
 17
-01:33:25,0 --> 01:33:25,0
+00:01:21,999 --> 00:01:21,999
 2 And inasmuch as ye have lands, ye
 
 18
-01:33:25,0 --> 01:45:03,
+00:01:21,999 --> 00:01:21,632
 shall impart to the eastern brethren;
 
 19
-01:45:03,0 --> 01:45:03,0
+00:01:21,632 --> 00:01:20,965
 3 And inasmuch as ye have not
 
 20
-01:45:03,0 --> 01:45:03,0
+00:01:20,965 --> 00:01:20,298
 lands, let them buy for the present
 
 21
-01:45:03,0 --> 01:45:03,0
+00:01:20,298 --> 00:01:19,631
 time in those regions round about,
 
 22
-01:45:03,0 --> 01:45:03,0
+00:01:19,631 --> 00:01:18,964
 as seemeth them good, for it must
 
 23
-01:45:03,0 --> 01:45:03,0
+00:01:18,964 --> 00:01:18,297
 needs be necessary that they have
 
 24
-01:45:03,0 --> 01:56:03,
+00:01:18,297 --> 00:01:17,294
 places to live for the present time.
 
 25
-01:56:03,0 --> 01:56:03,0
+00:01:17,294 --> 00:01:18,127
 4 It must needs be necessary that
 
 26
-01:56:03,0 --> 01:56:03,0
+00:01:18,127 --> 00:01:18,96
 ye save all the money that ye can,
 
 27
-01:56:03,0 --> 01:56:03,0
+00:01:18,96 --> 00:01:19,793
 and that ye obtain all that ye
 
 28
-01:56:03,0 --> 01:56:03,0
+00:01:19,793 --> 00:01:20,626
 can in righteousness, that in time
 
 29
-01:56:03,0 --> 01:56:03,0
+00:01:20,626 --> 00:01:21,459
 ye may be enabled to purchase land
 
 30
-01:56:03,0 --> 02:03:06,
+00:01:21,459 --> 00:01:22,382
 for an inheritance, even the city.
 
 31
-02:03:06,0 --> 02:03:06,0
+00:01:22,382 --> 00:01:22,382
 5 The place is not yet to be
 
 32
-02:03:06,0 --> 02:03:06,0
+00:01:22,382 --> 00:01:22,382
 revealed; but after your brethren
 
 33
-02:03:06,0 --> 02:03:06,0
+00:01:22,382 --> 00:01:22,382
 come from the east there are to be
 
 34
-02:03:06,0 --> 02:03:06,0
+00:01:22,382 --> 00:01:22,382
 certain men appointed, and to them
 
 35
-02:03:06,0 --> 02:03:06,0
+00:01:22,382 --> 00:01:22,382
 it shall be given to know the
 
 36
-02:03:06,0 --> 02:04:10,
+00:01:22,382 --> 00:01:22,015
 place, or to them it shall be revealed.
 
 37
-02:04:10,0 --> 02:04:10,0
+00:01:22,015 --> 00:01:21,944
 6 And they shall be appointed
 
 38
-02:04:10,0 --> 02:04:10,0
+00:01:21,944 --> 00:01:21,873
 to purchase the lands, and to
 
 39
-02:04:10,0 --> 02:04:10,0
+00:01:21,873 --> 00:01:21,802
 make a commencement to lay the
 
 40
-02:04:10,0 --> 02:04:10,0
+00:01:21,802 --> 00:01:21,731
 foundation of the city; and
 
 41
-02:04:10,0 --> 02:04:10,0
+00:01:21,731 --> 00:01:21,66
 then shall ye begin to be
 
 42
-02:04:10,0 --> 02:04:10,0
+00:01:21,66 --> 00:01:21,589
 gathered with your families, every
 
 43
-02:04:10,0 --> 02:04:10,0
+00:01:21,589 --> 00:01:21,518
 man according to his family,
 
 44
-02:04:10,0 --> 02:04:10,0
+00:01:21,518 --> 00:01:21,447
 according to his circumstances,
 
 45
-02:04:10,0 --> 02:04:10,0
+00:01:21,447 --> 00:01:21,376
 and as is appointed to him by
 
 46
-02:04:10,0 --> 02:04:10,0
+00:01:21,376 --> 00:01:21,305
 the presidency and the bishop
 
 47
-02:04:10,0 --> 02:04:10,0
+00:01:21,305 --> 00:01:21,234
 of the church, according to
 
 48
-02:04:10,0 --> 02:04:10,0
+00:01:21,234 --> 00:01:21,163
 the laws and commandments which
 
 49
-02:04:10,0 --> 02:04:10,0
+00:01:21,163 --> 00:01:21,092
 ye have received, and which
 
 50
-02:04:10,0 --> 02:21:11,
+00:01:21,092 --> 00:01:21,648
 ye shall hereafter receive. Even so. Amen. 
 

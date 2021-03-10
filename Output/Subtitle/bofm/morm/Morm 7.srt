@@ -1,328 +1,328 @@
 1
-00:00:00,0 --> 00:00:00,0
+00:00:00,0 --> 00:00:07,25
 Chapter 7 Mormon invites the Lamanites of the
 
 2
-00:00:00,0 --> 00:00:00,0
+00:00:07,25 --> 00:00:14,5
 latter days to believe in Christ, accept His
 
 3
-00:00:00,0 --> 00:00:00,0
+00:00:14,5 --> 00:00:21,75
 gospel, and be saved—All who believe the Bible will
 
 4
-00:00:00,0 --> 00:13:08,
+00:00:21,75 --> 00:00:29,329
 also believe the Book of Mormon. About A.D. 385. 
 
 5
-00:13:08,0 --> 00:13:08,0
+00:00:29,329 --> 00:00:29,162
 1 And now, behold, I would speak somewhat unto
 
 6
-00:13:08,0 --> 00:13:08,0
+00:00:29,162 --> 00:00:28,995
 the remnant of this people who are spared, if
 
 7
-00:13:08,0 --> 00:13:08,0
+00:00:28,995 --> 00:00:28,828
 it so be that God may give unto them my words,
 
 8
-00:13:08,0 --> 00:13:08,0
+00:00:28,828 --> 00:00:28,661
 that they may know of the things of their
 
 9
-00:13:08,0 --> 00:13:08,0
+00:00:28,661 --> 00:00:28,494
 fathers; yea, I speak unto you, ye remnant of the
 
 10
-00:13:08,0 --> 00:12:40,
+00:00:28,494 --> 00:00:28,395
 house of Israel; and these are the words which I speak:
 
 11
-00:12:40,0 --> 00:12:12,
+00:00:28,395 --> 00:00:32,799
 2 Know ye that ye are of the house of Israel.
 
 12
-00:12:12,0 --> 00:12:12,0
+00:00:32,799 --> 00:00:47,299
 3 Know ye that ye must come unto
 
 13
-00:12:12,0 --> 00:13:24,
+00:00:47,299 --> 00:01:01,128
 repentance, or ye cannot be saved.
 
 14
-00:13:24,0 --> 00:13:24,0
+00:01:01,128 --> 00:01:01,528
 4 Know ye that ye must lay down
 
 15
-00:13:24,0 --> 00:13:24,0
+00:01:01,528 --> 00:01:01,928
 your weapons of war, and delight
 
 16
-00:13:24,0 --> 00:13:24,0
+00:01:01,928 --> 00:01:02,328
 no more in the shedding of
 
 17
-00:13:24,0 --> 00:13:24,0
+00:01:02,328 --> 00:01:02,728
 blood, and take them not again, save
 
 18
-00:13:24,0 --> 00:12:56,
+00:01:02,728 --> 00:01:03,53
 it be that God shall command you.
 
 19
-00:12:56,0 --> 00:12:56,0
+00:01:03,53 --> 00:01:04,439
 5 Know ye that ye must come to
 
 20
-00:12:56,0 --> 00:12:56,0
+00:01:04,439 --> 00:01:05,348
 the knowledge of your fathers,
 
 21
-00:12:56,0 --> 00:12:56,0
+00:01:05,348 --> 00:01:06,257
 and repent of all your sins and
 
 22
-00:12:56,0 --> 00:12:56,0
+00:01:06,257 --> 00:01:07,166
 iniquities, and believe in
 
 23
-00:12:56,0 --> 00:12:56,0
+00:01:07,166 --> 00:01:08,075
 Jesus Christ, that he is the Son
 
 24
-00:12:56,0 --> 00:12:56,0
+00:01:08,075 --> 00:01:08,984
 of God, and that he was slain by
 
 25
-00:12:56,0 --> 00:12:56,0
+00:01:08,984 --> 00:01:09,893
 the Jews, and by the power of
 
 26
-00:12:56,0 --> 00:12:56,0
+00:01:09,893 --> 00:01:10,802
 the Father he hath risen again,
 
 27
-00:12:56,0 --> 00:12:56,0
+00:01:10,802 --> 00:01:11,711
 whereby he hath gained the
 
 28
-00:12:56,0 --> 00:12:56,0
+00:01:11,711 --> 00:01:12,62
 victory over the grave; and also
 
 29
-00:12:56,0 --> 00:12:28,
+00:01:12,62 --> 00:01:13,874
 in him is the sting of death swallowed up.
 
 30
-00:12:28,0 --> 00:12:28,0
+00:01:13,874 --> 00:01:19,124
 6 And he bringeth to pass the
 
 31
-00:12:28,0 --> 00:12:28,0
+00:01:19,124 --> 00:01:24,374
 resurrection of the dead,
 
 32
-00:12:28,0 --> 00:12:28,0
+00:01:24,374 --> 00:01:29,624
 whereby man must be raised to
 
 33
-00:12:28,0 --> 00:14:40,
+00:01:29,624 --> 00:01:34,227
 stand before his judgment-seat.
 
 34
-00:14:40,0 --> 00:14:40,0
+00:01:34,227 --> 00:01:35,458
 7 And he hath brought to
 
 35
-00:14:40,0 --> 00:14:40,0
+00:01:35,458 --> 00:01:36,689
 pass the redemption of the
 
 36
-00:14:40,0 --> 00:14:40,0
+00:01:36,689 --> 00:01:37,92
 world, whereby he that is found
 
 37
-00:14:40,0 --> 00:14:40,0
+00:01:37,92 --> 00:01:39,151
 guiltless before him at the
 
 38
-00:14:40,0 --> 00:14:40,0
+00:01:39,151 --> 00:01:40,382
 judgment day hath it given
 
 39
-00:14:40,0 --> 00:14:40,0
+00:01:40,382 --> 00:01:41,613
 unto him to dwell in the
 
 40
-00:14:40,0 --> 00:14:40,0
+00:01:41,613 --> 00:01:42,844
 presence of God in his kingdom,
 
 41
-00:14:40,0 --> 00:14:40,0
+00:01:42,844 --> 00:01:44,075
 to sing ceaseless praises
 
 42
-00:14:40,0 --> 00:14:40,0
+00:01:44,075 --> 00:01:45,306
 with the choirs above, unto
 
 43
-00:14:40,0 --> 00:14:40,0
+00:01:45,306 --> 00:01:46,537
 the Father, and unto the Son,
 
 44
-00:14:40,0 --> 00:14:40,0
+00:01:46,537 --> 00:01:47,768
 and unto the Holy Ghost,
 
 45
-00:14:40,0 --> 00:14:40,0
+00:01:47,768 --> 00:01:48,999
 which are one God, in a state
 
 46
-00:14:40,0 --> 00:15:52,
+00:01:48,999 --> 00:01:50,644
 of happiness which hath no end.
 
 47
-00:15:52,0 --> 00:15:52,0
+00:01:50,644 --> 00:01:54,244
 8 Therefore repent, and be
 
 48
-00:15:52,0 --> 00:15:52,0
+00:01:54,244 --> 00:01:57,844
 baptized in the name of
 
 49
-00:15:52,0 --> 00:15:52,0
+00:01:57,844 --> 00:02:01,444
 Jesus, and lay hold upon the
 
 50
-00:15:52,0 --> 00:15:52,0
+00:02:01,444 --> 00:02:05,044
 gospel of Christ, which
 
 51
-00:15:52,0 --> 00:15:52,0
+00:02:05,044 --> 00:02:08,644
 shall be set before you, not
 
 52
-00:15:52,0 --> 00:15:52,0
+00:02:08,644 --> 00:02:12,244
 only in this record but also
 
 53
-00:15:52,0 --> 00:15:52,0
+00:02:12,244 --> 00:02:15,844
 in the record which shall
 
 54
-00:15:52,0 --> 00:15:52,0
+00:02:15,844 --> 00:02:19,444
 come unto the Gentiles from
 
 55
-00:15:52,0 --> 00:15:52,0
+00:02:19,444 --> 00:02:23,044
 the Jews, which record
 
 56
-00:15:52,0 --> 00:26:59,
+00:02:23,044 --> 00:02:26,913
 shall come from the Gentiles unto you.
 
 57
-00:26:59,0 --> 00:26:59,0
+00:02:26,913 --> 00:02:27,813
 9 For behold, this is
 
 58
-00:26:59,0 --> 00:26:59,0
+00:02:27,813 --> 00:02:28,713
 written for the intent that ye
 
 59
-00:26:59,0 --> 00:26:59,0
+00:02:28,713 --> 00:02:29,613
 may believe that; and if
 
 60
-00:26:59,0 --> 00:26:59,0
+00:02:29,613 --> 00:02:30,513
 ye believe that ye will
 
 61
-00:26:59,0 --> 00:26:59,0
+00:02:30,513 --> 00:02:31,413
 believe this also; and if ye
 
 62
-00:26:59,0 --> 00:26:59,0
+00:02:31,413 --> 00:02:32,313
 believe this ye will know
 
 63
-00:26:59,0 --> 00:26:59,0
+00:02:32,313 --> 00:02:33,213
 concerning your fathers,
 
 64
-00:26:59,0 --> 00:26:59,0
+00:02:33,213 --> 00:02:34,113
 and also the marvelous
 
 65
-00:26:59,0 --> 00:26:59,0
+00:02:34,113 --> 00:02:35,013
 works which were wrought by
 
 66
-00:26:59,0 --> 00:32:09,
+00:02:35,013 --> 00:02:35,355
 the power of God among them.
 
 67
-00:32:09,0 --> 00:32:09,0
+00:02:35,355 --> 00:02:35,667
 10 And ye will also know
 
 68
-00:32:09,0 --> 00:32:09,0
+00:02:35,667 --> 00:02:35,979
 that ye are a remnant
 
 69
-00:32:09,0 --> 00:32:09,0
+00:02:35,979 --> 00:02:36,291
 of the seed of Jacob;
 
 70
-00:32:09,0 --> 00:32:09,0
+00:02:36,291 --> 00:02:36,603
 therefore ye are numbered
 
 71
-00:32:09,0 --> 00:32:09,0
+00:02:36,603 --> 00:02:36,915
 among the people of the
 
 72
-00:32:09,0 --> 00:32:09,0
+00:02:36,915 --> 00:02:37,227
 first covenant; and if it
 
 73
-00:32:09,0 --> 00:32:09,0
+00:02:37,227 --> 00:02:37,539
 so be that ye believe
 
 74
-00:32:09,0 --> 00:32:09,0
+00:02:37,539 --> 00:02:37,851
 in Christ, and are
 
 75
-00:32:09,0 --> 00:32:09,0
+00:02:37,851 --> 00:02:38,163
 baptized, first with water,
 
 76
-00:32:09,0 --> 00:32:09,0
+00:02:38,163 --> 00:02:38,475
 then with fire and with
 
 77
-00:32:09,0 --> 00:32:09,0
+00:02:38,475 --> 00:02:38,787
 the Holy Ghost, following
 
 78
-00:32:09,0 --> 00:32:09,0
+00:02:38,787 --> 00:02:39,099
 the example of our
 
 79
-00:32:09,0 --> 00:32:09,0
+00:02:39,099 --> 00:02:39,411
 Savior, according to that
 
 80
-00:32:09,0 --> 00:32:09,0
+00:02:39,411 --> 00:02:39,723
 which he hath commanded us,
 
 81
-00:32:09,0 --> 00:32:09,0
+00:02:39,723 --> 00:02:40,035
 it shall be well with
 
 82
-00:32:09,0 --> 00:37:20,
+00:02:40,035 --> 00:02:40,761
 you in the day of judgment. Amen. 
 

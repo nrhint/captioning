@@ -1,220 +1,220 @@
 1
-00:00:00,0 --> 00:00:00,0
+00:00:00,0 --> 00:00:13,667
 Chapter 6 King Benjamin records the names of the
 
 2
-00:00:00,0 --> 00:00:00,0
+00:00:13,667 --> 00:00:27,334
 people and appoints priests to teach
 
 3
-00:00:00,0 --> 00:06:11,
+00:00:27,334 --> 00:00:41,341
 them—Mosiah reigns as a righteous king. About 124–121 B.C. 
 
 4
-00:06:11,0 --> 00:06:11,0
+00:00:41,341 --> 00:00:44,141
 1 And now, king Benjamin thought it was
 
 5
-00:06:11,0 --> 00:06:11,0
+00:00:44,141 --> 00:00:46,941
 expedient, after having finished speaking
 
 6
-00:06:11,0 --> 00:06:11,0
+00:00:46,941 --> 00:00:49,741
 to the people, that he should take the
 
 7
-00:06:11,0 --> 00:06:11,0
+00:00:49,741 --> 00:00:52,541
 names of all those who had entered into a
 
 8
-00:06:11,0 --> 00:17:39,
+00:00:52,541 --> 00:00:55,188
 covenant with God to keep his commandments.
 
 9
-00:17:39,0 --> 00:17:39,0
+00:00:55,188 --> 00:00:56,938
 2 And it came to pass that there was not
 
 10
-00:17:39,0 --> 00:17:39,0
+00:00:56,938 --> 00:00:58,688
 one soul, except it were little children,
 
 11
-00:17:39,0 --> 00:17:39,0
+00:00:58,688 --> 00:01:00,438
 but who had entered into the covenant
 
 12
-00:17:39,0 --> 00:17:39,
+00:01:00,438 --> 00:01:02,229
 and had taken upon them the name of Christ.
 
 13
-00:17:39,0 --> 00:17:39,0
+00:01:02,229 --> 00:01:02,46
 3 And again, it came to pass that when
 
 14
-00:17:39,0 --> 00:17:39,0
+00:01:02,46 --> 00:01:02,691
 king Benjamin had made an end of all
 
 15
-00:17:39,0 --> 00:17:39,0
+00:01:02,691 --> 00:01:02,922
 these things, and had consecrated his son
 
 16
-00:17:39,0 --> 00:17:39,0
+00:01:02,922 --> 00:01:03,153
 Mosiah to be a ruler and a king over
 
 17
-00:17:39,0 --> 00:17:39,0
+00:01:03,153 --> 00:01:03,384
 his people, and had given him all the
 
 18
-00:17:39,0 --> 00:17:39,0
+00:01:03,384 --> 00:01:03,615
 charges concerning the kingdom, and also
 
 19
-00:17:39,0 --> 00:17:39,0
+00:01:03,615 --> 00:01:03,846
 had appointed priests to teach the
 
 20
-00:17:39,0 --> 00:17:39,0
+00:01:03,846 --> 00:01:04,077
 people, that thereby they might hear and
 
 21
-00:17:39,0 --> 00:17:39,0
+00:01:04,077 --> 00:01:04,308
 know the commandments of God, and to stir
 
 22
-00:17:39,0 --> 00:17:39,0
+00:01:04,308 --> 00:01:04,539
 them up in remembrance of the oath
 
 23
-00:17:39,0 --> 00:17:39,0
+00:01:04,539 --> 00:01:04,77
 which they had made, he dismissed the
 
 24
-00:17:39,0 --> 00:17:39,0
+00:01:04,77 --> 00:01:05,001
 multitude, and they returned, every one,
 
 25
-00:17:39,0 --> 00:17:39,
+00:01:05,001 --> 00:01:05,699
 according to their families, to their own houses.
 
 26
-00:17:39,0 --> 00:17:39,0
+00:01:05,699 --> 00:01:07,366
 4 And Mosiah began to reign in his
 
 27
-00:17:39,0 --> 00:17:39,0
+00:01:07,366 --> 00:01:09,033
 father’s stead. And he began to
 
 28
-00:17:39,0 --> 00:17:39,0
+00:01:09,033 --> 00:01:10,7
 reign in the thirtieth year of his
 
 29
-00:17:39,0 --> 00:17:39,0
+00:01:10,7 --> 00:01:12,367
 age, making in the whole, about
 
 30
-00:17:39,0 --> 00:17:39,0
+00:01:12,367 --> 00:01:14,034
 four hundred and seventy-six years
 
 31
-00:17:39,0 --> 00:17:39,
+00:01:14,034 --> 00:01:15,576
 from the time that Lehi left Jerusalem.
 
 32
-00:17:39,0 --> 00:17:39,0
+00:01:15,576 --> 00:01:19,076
 5 And king Benjamin lived
 
 33
-00:17:39,0 --> 00:17:39,
+00:01:19,076 --> 00:01:22,616
 three years and he died.
 
 34
-00:17:39,0 --> 00:17:39,0
+00:01:22,616 --> 00:01:23,866
 6 And it came to pass
 
 35
-00:17:39,0 --> 00:17:39,0
+00:01:23,866 --> 00:01:25,116
 that king Mosiah did walk
 
 36
-00:17:39,0 --> 00:17:39,0
+00:01:25,116 --> 00:01:26,366
 in the ways of the Lord,
 
 37
-00:17:39,0 --> 00:17:39,0
+00:01:26,366 --> 00:01:27,616
 and did observe his
 
 38
-00:17:39,0 --> 00:17:39,0
+00:01:27,616 --> 00:01:28,866
 judgments and his statutes,
 
 39
-00:17:39,0 --> 00:17:39,0
+00:01:28,866 --> 00:01:30,116
 and did keep his
 
 40
-00:17:39,0 --> 00:17:39,0
+00:01:30,116 --> 00:01:31,366
 commandments in all things
 
 41
-00:17:39,0 --> 00:17:39,
+00:01:31,366 --> 00:01:32,492
 whatsoever he commanded him.
 
 42
-00:17:39,0 --> 00:17:39,0
+00:01:32,492 --> 00:01:33,206
 7 And king Mosiah did
 
 43
-00:17:39,0 --> 00:17:39,0
+00:01:33,206 --> 00:01:33,92
 cause his people that
 
 44
-00:17:39,0 --> 00:17:39,0
+00:01:33,92 --> 00:01:34,634
 they should till the
 
 45
-00:17:39,0 --> 00:17:39,0
+00:01:34,634 --> 00:01:35,348
 earth. And he also,
 
 46
-00:17:39,0 --> 00:17:39,0
+00:01:35,348 --> 00:01:36,062
 himself, did till the earth,
 
 47
-00:17:39,0 --> 00:17:39,0
+00:01:36,062 --> 00:01:36,776
 that thereby he might
 
 48
-00:17:39,0 --> 00:17:39,0
+00:01:36,776 --> 00:01:37,49
 not become burdensome to
 
 49
-00:17:39,0 --> 00:17:39,0
+00:01:37,49 --> 00:01:38,204
 his people, that he
 
 50
-00:17:39,0 --> 00:17:39,0
+00:01:38,204 --> 00:01:38,918
 might do according to that
 
 51
-00:17:39,0 --> 00:17:39,0
+00:01:38,918 --> 00:01:39,632
 which his father had
 
 52
-00:17:39,0 --> 00:17:39,0
+00:01:39,632 --> 00:01:40,346
 done in all things. And
 
 53
-00:17:39,0 --> 00:17:39,0
+00:01:40,346 --> 00:01:41,06
 there was no contention
 
 54
-00:17:39,0 --> 00:17:39,0
+00:01:41,06 --> 00:01:41,774
 among all his people
 
 55
-00:17:39,0 --> 00:17:39,
+00:01:41,774 --> 00:01:42,369
 for the space of three years. 
 

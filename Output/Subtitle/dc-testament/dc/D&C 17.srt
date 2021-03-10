@@ -1,284 +1,284 @@
 1
-00:00:00,0 --> 00:00:00,0
+00:00:00,0 --> 00:00:07,312
 Section 17 Revelation given through Joseph Smith
 
 2
-00:00:00,0 --> 00:00:00,0
+00:00:07,312 --> 00:00:14,624
 the Prophet to Oliver Cowdery, David Whitmer, and
 
 3
-00:00:00,0 --> 00:00:00,0
+00:00:14,624 --> 00:00:21,936
 Martin Harris, at Fayette, New York, June 1829,
 
 4
-00:00:00,0 --> 00:00:00,0
+00:00:21,936 --> 00:00:29,248
 prior to their viewing the engraved plates that
 
 5
-00:00:00,0 --> 00:00:00,0
+00:00:29,248 --> 00:00:36,56
 contained the Book of Mormon record. Joseph and
 
 6
-00:00:00,0 --> 00:00:00,0
+00:00:36,56 --> 00:00:43,872
 his scribe, Oliver Cowdery, had learned from the
 
 7
-00:00:00,0 --> 00:00:00,0
+00:00:43,872 --> 00:00:51,184
 translation of the Book of Mormon plates that three
 
 8
-00:00:00,0 --> 00:00:00,0
+00:00:51,184 --> 00:00:58,496
 special witnesses would be designated (see
 
 9
-00:00:00,0 --> 00:00:00,0
+00:00:58,496 --> 00:01:05,808
 Ether 5:2–4; 
 2 Nephi 11:3; 
 27:12). Oliver Cowdery,
 
 10
-00:00:00,0 --> 00:00:00,0
+00:01:05,808 --> 00:01:13,12
 David Whitmer, and Martin Harris were moved upon
 
 11
-00:00:00,0 --> 00:00:00,0
+00:01:13,12 --> 00:01:20,432
 by an inspired desire to be the three special
 
 12
-00:00:00,0 --> 00:00:00,0
+00:01:20,432 --> 00:01:27,744
 witnesses. The Prophet inquired of the Lord, and
 
 13
-00:00:00,0 --> 00:00:00,0
+00:01:27,744 --> 00:01:35,056
 this revelation was given in answer through the Urim
 
 14
-00:00:00,0 --> 00:00:00,0
+00:01:35,056 --> 00:01:42,368
 and Thummim. 
 1–4, By faith the Three Witnesses
 
 15
-00:00:00,0 --> 00:00:00,0
+00:01:42,368 --> 00:01:49,68
 will see the plates and other sacred items; 
 5–9,
 
 16
-00:00:00,0 --> 01:03:58,
+00:01:49,68 --> 00:01:57,951
 Christ bears testimony of the divinity of the Book of Mormon. 
 
 17
-01:03:58,0 --> 01:03:58,0
+00:01:57,951 --> 00:01:59,173
 1 Behold, I say unto you, that you must rely
 
 18
-01:03:58,0 --> 01:03:58,0
+00:01:59,173 --> 00:02:00,395
 upon my word, which if you do with full purpose
 
 19
-01:03:58,0 --> 01:03:58,0
+00:02:00,395 --> 00:02:01,617
 of heart, you shall have a view of the
 
 20
-01:03:58,0 --> 01:03:58,0
+00:02:01,617 --> 00:02:02,839
 plates, and also of the breastplate, the sword of
 
 21
-01:03:58,0 --> 01:03:58,0
+00:02:02,839 --> 00:02:04,061
 Laban, the Urim and Thummim, which were given to
 
 22
-01:03:58,0 --> 01:03:58,0
+00:02:04,061 --> 00:02:05,283
 the brother of Jared upon the mount, when he
 
 23
-01:03:58,0 --> 01:03:58,0
+00:02:05,283 --> 00:02:06,505
 talked with the Lord face to face, and the
 
 24
-01:03:58,0 --> 01:03:58,0
+00:02:06,505 --> 00:02:07,727
 miraculous directors which were given to Lehi
 
 25
-01:03:58,0 --> 01:10:39,
+00:02:07,727 --> 00:02:08,328
 while in the wilderness, on the borders of the Red Sea.
 
 26
-01:10:39,0 --> 01:10:39,0
+00:02:08,328 --> 00:02:12,995
 2 And it is by your faith that you shall
 
 27
-01:10:39,0 --> 01:10:39,0
+00:02:12,995 --> 00:02:17,662
 obtain a view of them, even by that
 
 28
-01:10:39,0 --> 01:14:52,
+00:02:17,662 --> 00:02:22,609
 faith which was had by the prophets of old.
 
 29
-01:14:52,0 --> 01:14:52,0
+00:02:22,609 --> 00:02:33,109
 3 And after that you have
 
 30
-01:14:52,0 --> 01:14:52,0
+00:02:33,109 --> 00:02:43,609
 obtained faith, and have seen them
 
 31
-01:14:52,0 --> 01:14:52,0
+00:02:43,609 --> 00:02:54,109
 with your eyes, you shall
 
 32
-01:14:52,0 --> 01:25:59,
+00:02:54,109 --> 00:03:04,851
 testify of them, by the power of God;
 
 33
-01:25:59,0 --> 01:25:59,0
+00:03:04,851 --> 00:03:06,684
 4 And this you shall do
 
 34
-01:25:59,0 --> 01:25:59,0
+00:03:06,684 --> 00:03:08,517
 that my servant Joseph Smith,
 
 35
-01:25:59,0 --> 01:25:59,0
+00:03:08,517 --> 00:03:10,35
 Jun., may not be destroyed,
 
 36
-01:25:59,0 --> 01:25:59,0
+00:03:10,35 --> 00:03:12,183
 that I may bring about my
 
 37
-01:25:59,0 --> 01:25:59,0
+00:03:12,183 --> 00:03:14,016
 righteous purposes unto the
 
 38
-01:25:59,0 --> 01:27:11,
+00:03:14,016 --> 00:03:15,228
 children of men in this work.
 
 39
-01:27:11,0 --> 01:27:11,0
+00:03:15,228 --> 00:03:17,371
 5 And ye shall testify
 
 40
-01:27:11,0 --> 01:27:11,0
+00:03:17,371 --> 00:03:19,514
 that you have seen them,
 
 41
-01:27:11,0 --> 01:27:11,0
+00:03:19,514 --> 00:03:21,657
 even as my servant Joseph
 
 42
-01:27:11,0 --> 01:27:11,0
+00:03:21,657 --> 00:03:23,8
 Smith, Jun., has seen
 
 43
-01:27:11,0 --> 01:27:11,0
+00:03:23,8 --> 00:03:25,943
 them; for it is by my power
 
 44
-01:27:11,0 --> 01:27:11,0
+00:03:25,943 --> 00:03:28,086
 that he has seen them, and
 
 45
-01:27:11,0 --> 01:34:19,
+00:03:28,086 --> 00:03:30,243
 it is because he had faith.
 
 46
-01:34:19,0 --> 01:34:19,0
+00:03:30,243 --> 00:03:33,243
 6 And he has translated
 
 47
-01:34:19,0 --> 01:34:19,0
+00:03:33,243 --> 00:03:36,243
 the book, even that part
 
 48
-01:34:19,0 --> 01:34:19,0
+00:03:36,243 --> 00:03:39,243
 which I have commanded
 
 49
-01:34:19,0 --> 01:34:19,0
+00:03:39,243 --> 00:03:42,243
 him, and as your Lord and
 
 50
-01:34:19,0 --> 01:35:31,
+00:03:42,243 --> 00:03:45,726
 your God liveth it is true.
 
 51
-01:35:31,0 --> 01:35:31,0
+00:03:45,726 --> 00:03:52,226
 7 Wherefore, you have
 
 52
-01:35:31,0 --> 01:35:31,0
+00:03:52,226 --> 00:03:58,726
 received the same power,
 
 53
-01:35:31,0 --> 01:35:31,0
+00:03:58,726 --> 00:04:05,226
 and the same faith, and
 
 54
-01:35:31,0 --> 01:38:13,
+00:04:05,226 --> 00:04:11,118
 the same gift like unto him;
 
 55
-01:38:13,0 --> 01:38:13,0
+00:04:11,118 --> 00:04:13,562
 8 And if you do these
 
 56
-01:38:13,0 --> 01:38:13,0
+00:04:13,562 --> 00:04:16,006
 last commandments of
 
 57
-01:38:13,0 --> 01:38:13,0
+00:04:16,006 --> 00:04:18,45
 mine, which I have
 
 58
-01:38:13,0 --> 01:38:13,0
+00:04:18,45 --> 00:04:20,894
 given you, the gates of
 
 59
-01:38:13,0 --> 01:38:13,0
+00:04:20,894 --> 00:04:23,338
 hell shall not prevail
 
 60
-01:38:13,0 --> 01:38:13,0
+00:04:23,338 --> 00:04:25,782
 against you; for my
 
 61
-01:38:13,0 --> 01:38:13,0
+00:04:25,782 --> 00:04:28,226
 grace is sufficient for
 
 62
-01:38:13,0 --> 01:38:13,0
+00:04:28,226 --> 00:04:30,67
 you, and you shall be
 
 63
-01:38:13,0 --> 01:44:54,
+00:04:30,67 --> 00:04:33,406
 lifted up at the last day.
 
 64
-01:44:54,0 --> 01:44:54,0
+00:04:33,406 --> 00:04:35,977
 9 And I, Jesus
 
 65
-01:44:54,0 --> 01:44:54,0
+00:04:35,977 --> 00:04:38,548
 Christ, your Lord and your
 
 66
-01:44:54,0 --> 01:44:54,0
+00:04:38,548 --> 00:04:41,119
 God, have spoken it
 
 67
-01:44:54,0 --> 01:44:54,0
+00:04:41,119 --> 00:04:43,69
 unto you, that I might
 
 68
-01:44:54,0 --> 01:44:54,0
+00:04:43,69 --> 00:04:46,261
 bring about my
 
 69
-01:44:54,0 --> 01:44:54,0
+00:04:46,261 --> 00:04:48,832
 righteous purposes unto
 
 70
-01:44:54,0 --> 01:51:49,
+00:04:48,832 --> 00:04:51,758
 the children of men. Amen. 
 
