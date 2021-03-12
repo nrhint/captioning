@@ -4,8 +4,11 @@ from data.book import Book
 from util.download import download_video
 from util.file_util import read_file
 from util.text_util import remove_space_delimeter
+from util.logging_util import add_to_log, save_log
 
+log = ''
 print('\n-- Start Processing -- ')
+log = add_to_log(log, '\n-- Start Processing -- ')
 csv = read_file('Resources', 'Book List', 'csv')
 csv = remove_space_delimeter(csv, ',')
 book_list = csv.split('\n') #The urlList file is a set of new line spaced links with the first one being a comment
@@ -21,6 +24,7 @@ for book_csv in book_list:
     video_list = video_csv.split('\n')
     
     print('\nDownload Book %s'%(book.video_prefix))
+    log = add_to_log(log, '\nDownload Book %s'%(book.video_prefix))
     startProcessBook = time.time()#Use for speed testing
     for chapter_number in range(1, book.max_chapter + 1):
         
@@ -31,9 +35,16 @@ for book_csv in book_list:
         download_video(url, file_path, file_name, 'mp4')
         endProcess = time.time()
         print("\t%s\ttook %4.3f seconds"%(file_name, endProcess-startProcess))
+        log = add_to_log(log, "\t%s\ttook %4.3f seconds"%(file_name, endProcess-startProcess))
+        save_log(log, file_name = 'videoDownloadLog')
     print('FINISH BOOK')
+    log = add_to_log(log, 'FINISH BOOK')
+    save_log(log, file_name = 'videoDownloadLog')
     endProcessBook = time.time()#Use for speed testing
     print("\t%s\ttook %4.3f seconds"%(book.video_prefix, endProcessBook-startProcessBook))
+    log = add_to_log(log, "\t%s\ttook %4.3f seconds"%(book.video_prefix, endProcessBook-startProcessBook))
 
 endProcessTotal = time.time()#Use for speed testing
 print("All took %4.3f seconds"%(endProcessTotal-startProcessTotal))
+log = add_to_log(log, "All took %4.3f seconds"%(endProcessTotal-startProcessTotal))
+save_log(log, file_name = 'videoDownloadLog')
