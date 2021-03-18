@@ -12,5 +12,5 @@ def save_log(log, file_path = '.', file_name = 'log'):
 
 def add_to_log(log, data):
     if log_show:
-        print(log, end ='')
+        print(data, end ='')
     return log+'%s'%str(data)
