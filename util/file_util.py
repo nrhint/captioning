@@ -9,6 +9,13 @@ def read_file(file_path, file_name, file_extension):
 
 def write_file(file_path, file_name, file_extension, output):
     try:
+        path_split = file_path.split('/')
+        check_path = ''
+        for path in path_split:
+            check_path += path + '/'
+            if not os.path.exists(check_path):
+                os.mkdir(check_path)
+    try:
         if not os.path.exists(file_path):
             os.mkdir(file_path)
         open('%s/%s.%s'%(file_path, file_name, file_extension), 'w', encoding="UTF-8").write(output)

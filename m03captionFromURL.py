@@ -8,7 +8,7 @@ from util.video_util import get_time_from_video
 from util.logging_util import add_to_log, save_log
 
 print('\n-- Start Processing -- ')
-log = add_to_log('', '\n-- Start Processing -- ')
+log = add_to_log('', '\n-- Start Processing -- \n')
 
 csv = read_file('Resources', 'Book List', 'csv')
 csv = remove_space_delimeter(csv, ',')
@@ -32,13 +32,12 @@ for book_csv in book_list:
     video_csv = remove_space_delimeter(video_csv, ',')
     video_list = video_csv.split('\n')
 
-    print('\nStart on Book %s'%(book.video_prefix))
-    log = add_to_log(log, 'Start on Book %s'%(book.video_prefix))
+    log = add_to_log(log, 'Start on Book %s\n'%(book.video_prefix))
     if i > 1:
         print('\t(1) Read the Book')
         print('\t(2) Skip the Book')
         j = int(input('\tEnter the number then press enter: '))
-        log = add_to_log(log, '\t(1) Read the Book\n\t(2) Skip the Book\n\tEnter the number then press enter: %s'%j)
+        log = add_to_log(log, '\t(1) Read the Book\n\t(2) Skip the Book\n\tEnter the number then press enter: %s\n'%j)
     if j == 1:
         for chapter_number in range(book.start_chapter, book.end_chapter + 1):
             
@@ -51,7 +50,7 @@ for book_csv in book_list:
                 print('\t\t(1) Read the Verse')
                 print('\t\t(2) Skip the Verse')
                 k = int(input('\t\tEnter the number then press enter: '))
-                log = add_to_log(log, '\t\t%s %s\n\t\t(1) Read the Verse\n\t\t(2) Skip the Verse\n\t\tEnter the number then press enter: %s'%(book.video_prefix, chapter_number, k))
+                log = add_to_log(log, '\t\t%s %s\n\t\t(1) Read the Verse\n\t\t(2) Skip the Verse\n\t\tEnter the number then press enter: %s\n'%(book.video_prefix, chapter_number, k))
             if k == 1:
                 #try:
                 verses = get_verse_from_file(book, chapter_number)  
@@ -67,6 +66,5 @@ for book_csv in book_list:
                 
                 #except:
                     #print('\t\tGenerate srt for %s %s unsuccess.'%(book.video_prefix, chapter_number))
-    print('FINISH BOOK')
     log = add_to_log(log, 'FINISH BOOK')
     save_log(log, file_name = 'captionFromURL_log')

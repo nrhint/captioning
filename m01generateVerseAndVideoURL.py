@@ -7,7 +7,6 @@ from util.web_util import read_from_website
 from util.logging_util import add_to_log, save_log
 
 log = ''
-print('\n-- Start Processing -- ')
 log = add_to_log(log, '\n-- Start Processing -- \n')
 csv = read_file('Resources', 'Book List', 'csv')
 csv = remove_space_delimeter(csv, ',')
@@ -27,7 +26,6 @@ for book_csv in book_list:
     book_name = book.video_prefix
     if book_name == '':
         book_name = book.book_name
-    print('\nStart on Book %s'%(book_name))
     log = add_to_log(log, '\nStart on Book %s\n'%(book_name))
     missing_list += '\t%s:\t'%(book_name)
     detail_temp = ''
@@ -36,26 +34,21 @@ for book_csv in book_list:
         video_url = read_from_website(book, chapter_number, manual_url)
         video_list += '\n%s,\t%s'%(chapter_number, video_url)
         if video_url == '-- Need Video URL --':
-            print('\t(M)', end = '')
             log = add_to_log(log, '\t(M)')
             detail_temp += '\t%s %s'%(book_name, chapter_number)
         else:
-            print('\t%s %s'%(book.video_prefix, chapter_number), end ='')
             log = add_to_log(log, '\t%s %s'%(book_name, chapter_number))
         if chapter_number % 10 == 0:
-            print('')
             log = add_to_log(log, '\n')
-        save_log(log, file_name = 'm01_generateVerseAndText')
+        save_log(log, file_path = 'm01', file_name = 'generateVerseAndText')
     if detail_temp != '':
         missing_list += detail_temp + '\n'
     else:
         missing_list += "Pass\n" 
-    save_log(missing_list, file_name = 'm01_missing')
+    save_log(missing_list, file_path = 'm01', file_name = 'missingList')
     write_file('Resources/Video URL', book_name, 'csv', video_list)
-    print('\nFinish Book')
     log = add_to_log(log, '\nFinish Book\n')
-    save_log(log, file_name = 'm01_generateVerseAndText')
+    save_log(log, file_path = 'm01', file_name = 'generateVerseAndText')
 
-print(missing_list, end = '')
-save_log(missing_list, file_name = 'm01_missing')
+save_log(missing_list, file_path = 'm01', file_name = 'missingList')
 input()
