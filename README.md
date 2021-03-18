@@ -27,4 +27,6 @@ Mosiah
 
 <h1>How to set up:</h1>
   Require Lib
-  -
+  
+pip install requests
+pip install beautifulsoup4
