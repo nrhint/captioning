@@ -1,4 +1,4 @@
-scripture   ,Book       ,video prefix,  ,max chapter    ,start_chapter  ,end_chapter 
+scripture   ,Book           ,video prefix,  ,max chapter    ,start_chapter  ,end_chapter 
 pgp         ,a-of-f         ,A of F         ,1              ,1              ,1
 dc-testament,dc             ,D&C            ,138            ,1              ,138 
 bofm        ,1-ne           ,1 Ne           ,22             ,1              ,22
